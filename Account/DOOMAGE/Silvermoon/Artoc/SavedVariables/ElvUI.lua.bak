@@ -1,0 +1,31 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/weakauras", -- [1]
+		"/reload", -- [2]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"don't you hate it when you're waiting in raidfinder for 1 more tank and when it finally pops up a damned healer doesn't respond and you end up sitting in the queue looking for another tank again?", -- [1]
+			"Heiligkind-Shadowsong", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Heiligkind-Shadowsong", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-86-09C8FB23", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Heiligkind-Shadowsong|r",
+			[51] = 1605473866,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+	},
+}

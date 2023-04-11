@@ -1,0 +1,74 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast Chimaera Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier,spec:1] Cobra Shot; [nomodifier,nochanneling,spec:2] Arcane Shot; [mod:shift,spec:2,nochanneling] Hunter's Mark; [modifier:alt] Multi-Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@pet] Misdirection
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/startattack
+/cast [mod:shift,talent:1/2] Serpent Sting; [mod:alt] Tranquilizing Shot; Kill Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier,nochanneling] Steady Shot; /cast [modifier:alt,nochanneling] Explosive Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Volley; Rapid Fire;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast [nomodifier] Raptor Strike; /cast [modifier:alt] Carve
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast [nomodifier] Wildfire Bomb; /cast [modifier:alt] Exhilaration
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus,exists,harm,nodead][] Counter Shot
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pet:Nether Ray] Nether Shock; /cast [pet:Spirit Beast] Spirit Shock
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1] Aspect of the Wild; [spec:2] Trueshot
+/use 13
+/cast Bestial Wrath
+/use 13
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Sniper Shot; [mod:alt] Bursting Shot; [nochanneling] Aimed Shot
+/script UIErrorsFrame:Clear()
+END

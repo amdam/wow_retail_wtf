@@ -1,0 +1,20 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Everux - Bloodscalp"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Everux - Bloodscalp"] = "Everux - Bloodscalp",
+	},
+	["profiles"] = {
+		["Everux - Bloodscalp"] = {
+		},
+	},
+}

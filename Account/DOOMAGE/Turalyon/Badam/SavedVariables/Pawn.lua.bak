@@ -1,0 +1,65 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Badam-Turalyon",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128910] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 72,
+					["Type"] = "Iron",
+				}, -- [1]
+				{
+					["ItemLevel"] = 67,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "Strom'kar, the Warbreaker",
+		},
+		[128908] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Fire",
+				}, -- [1]
+				{
+					["ItemLevel"] = 72,
+					["Type"] = "Wind",
+				}, -- [2]
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Iron",
+				}, -- [3]
+			},
+			["Name"] = "Warswords of the Valarjar",
+		},
+		[128289] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 77,
+					["Type"] = "Iron",
+				}, -- [1]
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Fire",
+				}, -- [3]
+			},
+			["Name"] = "Scale of the Earth-Warder",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARRIOR",
+	["LastAdded"] = 1,
+}

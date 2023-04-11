@@ -1,0 +1,92 @@
+
+DBMChamberOfAspects_SavedVars = {
+	["Tenebron"] = {
+		["Enabled"] = true,
+		["Timer59128Tenebron0"] = true,
+		["HealthFrame"] = false,
+		["Announce"] = false,
+		["Shadow Fissure"] = true,
+	},
+	["Sartharion"] = {
+		["WarningTenebronPortal"] = false,
+		["PlaySoundOnFireWall"] = true,
+		["HealthFrame"] = false,
+		["TimerTenebron"] = true,
+		["Timer43113Sartharion1"] = true,
+		["WarningVesperon"] = false,
+		["TimerShadron"] = true,
+		["Enabled"] = true,
+		["WarningTenebron"] = false,
+		["WarningShadron"] = false,
+		["WarningFireWall"] = true,
+		["Shadow Fissure"] = true,
+		["WarningShadronPortal"] = false,
+		["Timer59128Sartharion0"] = true,
+		["AnnounceFails"] = true,
+		["WarningVesperonPortal"] = false,
+		["Announce"] = false,
+		["TimerVesperon"] = true,
+	},
+	["Zarithrian"] = {
+		["Enabled"] = true,
+		["Announce"] = false,
+		["HealthFrame"] = false,
+	},
+	["Vesperon"] = {
+		["Enabled"] = true,
+		["Timer59128Vesperon0"] = true,
+		["HealthFrame"] = false,
+		["Announce"] = false,
+		["Shadow Fissure"] = true,
+	},
+	["Shadron"] = {
+		["Enabled"] = true,
+		["HealthFrame"] = false,
+		["Timer59128Shadron0"] = true,
+		["Announce"] = false,
+		["Shadow Fissure"] = true,
+	},
+	["Halion"] = {
+		["Enabled"] = true,
+		["Announce"] = false,
+		["HealthFrame"] = false,
+	},
+}
+DBMChamberOfAspects_SavedStats = {
+	["Tenebron"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+	["Sartharion"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+	["Zarithrian"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+	["Vesperon"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+	["Shadron"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+	["Halion"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+}

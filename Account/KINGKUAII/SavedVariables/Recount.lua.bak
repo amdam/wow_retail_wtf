@@ -1,0 +1,32 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Taxbreak - Bloodscalp"] = "Taxbreak - Bloodscalp",
+	},
+	["profiles"] = {
+		["Taxbreak - Bloodscalp"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -479.7642292474305,
+					["x"] = 957.2217711323921,
+					["w"] = 194.4443765891057,
+					["h"] = 202.3576008416007,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 194.4444116033723,
+			["MainWindowHeight"] = 202.3576008416007,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

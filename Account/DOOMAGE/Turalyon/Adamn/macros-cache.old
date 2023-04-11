@@ -1,0 +1,77 @@
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Shiv; [spec:1][spec:2] Ambush; [spec:3] Symbols of Death;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,spec:2] Roll the Bones; [mod:alt,spec:1] Garrote; [mod:alt,known:Cold Blood] Cold Blood; Slice and Dice;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "ABILITY_ROGUE_TRICKSOFTHETRADE"
+#showtooltip Tricks of the Trade
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Tricks of the Trade
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1] Vendetta; [spec:2] Adrenaline Rush; [spec:3] Shadow Blades;
+/use 13
+/script UIErrorsFrame:Clear();
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Shadow Dance; /cast [modifier:alt] Crimson Vial
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,known:Marked for Death] Marked for Death; Pistol Shot;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Distract
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Blind
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Between the Eyes
+/cast [known:Cold Blood] Cold Blood;
+/cast [mod:alt,known:Echoing Reprimand] Echoing Reprimand; Between the Eyes;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast  [mod:alt,spec:2] Blade Flurry; [mod:alt,spec:1] Fan of Knives; [mod:alt,spec:3] Shuriken Storm; [stance,spec:3] Shadowstrike; [stance] Ambush; Sinister Strike;
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,known:Shuriken Tornado] Shuriken Tornado; Rupture; 
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,spec:3] Shuriken Toss; [mod:alt,spec:1] Poisoned Knife; [spec:1] Garrote; [spec:3] Secret Technique;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,spec:2] Grappling Hook; [mod:alt,spec:3] Black Powder;  Eviscerate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000019 " " "134400"
+#showtooltip Secret Technique 
+/startattack
+/cast [known:Cold Blood] Cold Blood;
+/cast Secret Technique;
+/script UIErrorsFrame:Clear()
+END

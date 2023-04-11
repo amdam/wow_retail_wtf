@@ -1,0 +1,10 @@
+
+TinyTipDB = {
+	["profileKeys"] = {
+		["Amdam - Turalyon"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+		},
+	},
+}

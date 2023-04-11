@@ -1,0 +1,13 @@
+
+VampArrowDB = {
+	["profileKeys"] = {
+		["Dogs - Bloodscalp"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["arrowPoint"] = "CENTER",
+			["arrowPosX"] = 375.5545151272916,
+			["arrowPosY"] = -188.6829190764905,
+		},
+	},
+}

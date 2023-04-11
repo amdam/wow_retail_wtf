@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Adamancy - Turalyon"] = "Adamancy - Turalyon",
+	},
+	["AtlasLootVersion"] = "70703",
+}

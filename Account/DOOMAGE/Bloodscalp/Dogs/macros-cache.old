@@ -1,0 +1,92 @@
+MACRO 16777218 " " Spell_Holy_CrusaderStrike
+#showtooltip Crusader Strike
+/startattack
+/cast Crusader Strike
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777219 " " Ability_Paladin_JudgementBlue
+#showtooltip Judgement of Wisdom
+/startattack
+/cast Judgement of Wisdom
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777220 " " Ability_Paladin_DivineStorm
+#showtooltip Divine Storm
+/startattack
+/cast Divine Storm
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777221 " " Spell_Holy_Excorcism_02
+#showtooltip Exorcism
+/startattack
+/cast Exorcism
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777222 " " Spell_Holy_InnerFire
+#showtooltip Consecration
+/startattack
+/cast Consecration
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777229 " " Ability_Warrior_InnerRage
+#showtooltip Seal of Command
+/cast Seal of Command
+/clcretlp soc
+END
+MACRO 16777223 " " Spell_Holy_Renew
+#showtooltip Cleanse
+/cast [target=mouseover, exists] [help] [target=player] Cleanse
+END
+MACRO 16777224 " " Spell_Holy_SealOfProtection
+#showtooltip Hand of Protection
+/cast [target=mouseover, exists] [help] [target=player] Hand of Protection
+END
+MACRO 16777225 " " Spell_Holy_SealOfSacrifice
+#showtooltip Hand of Sacrifice
+/cast [target=mouseover, exists] [help] [target=player] Hand of Sacrifice
+END
+MACRO 16777226 " " Spell_Holy_SealOfSalvation
+#showtooltip Hand of Salvation
+/cast [target=mouseover, exists] [help] [target=player] Hand of Salvation
+END
+MACRO 16777227 " " Spell_Holy_SealOfValor
+#showtooltip Hand of Freedom
+/cast [target=mouseover, exists] [help] [target=player] Hand of Freedom
+END
+MACRO 16777228 " " Spell_Holy_LayOnHands
+#showtooltip Lay on Hands
+/cast [target=mouseover, exists] [help] [target=player] Lay on Hands
+END
+MACRO 16777230 " " Spell_Holy_SealOfVengeance
+#showtooltip Seal of Corruption
+/cast Seal of Corruption
+/clcretlp sov
+END
+MACRO 16777233 " " Ability_Paladin_ShieldofVengeance
+#showtooltip Shield of Righteousness
+/startattack
+/cast Shield of Righteousness
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777231 " " Ability_Paladin_HammeroftheRighteous
+#showtooltip Hammer of the Righteous
+/startattack
+/cast Hammer of the Righteous
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777232 " " Spell_Holy_RighteousFury
+#showtooltip Judgement of Light
+/startattack
+/cast Judgement of Light
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777234 " " Spell_Holy_PrayerOfHealing02
+#showtooltip Righteous Defense
+/cast [target=mouseover, exists] [help] [target=player] Righteous Defense
+END
+MACRO 16777217 " " Ability_Paladin_JudgementRed
+#showtooltip Judgement of Justice
+/startattack
+/cast Judgement of Justice
+/script UIErrorsFrame:Clear()
+END

@@ -1,0 +1,153 @@
+VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+/dismount
+END
+VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
+/way 20.5 43.9 Elder Gwenna 
+/way 20.6 32.9 Foreman Thorodir
+/way 21.8 45.7 Guardian Kota
+/way 23.7 42.5 Warden Casad 
+/way 20.8 39.2 Kivarr (cave)
+/way 25.7 38.9 Te'zan
+END
+VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+/use Phial of Serenity
+END
+VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
+/stopcasting
+/click [target=mouseover] ExtraActionButton1
+END
+VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button3
+END
+VER 3 0000000000000019 " Fox" "Ability_Druid_FerociousBite"
+If there is anything you can count on being a given
+It's a greusome ass death to an iron prison
+On most fights, you better save that rez
+"Oh hey, I'm resto"
+So that's what the Fox says
+END
+VER 3 000000000000001A " sq" "INV_MISC_QUESTIONMARK"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button1
+END
+VER 3 000000000000001B " tri" "INV_MISC_QUESTIONMARK"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button2
+END
+VER 3 000000000000005C " way" "136103"
+/way 48.55 34.88 Shard 38
+/way 37.15 24.65 Shard 39
+/way 33.04 37.62 Shard 40
+/way 31.01 27.45 Shard 41
+/way 30.63 23.73 Shard 42
+/way 26.19 22.68 Shard 43
+/way 24.66 22.99 Shard 44
+/way 24.38 18.22 Shard 45
+END
+VER 3 0000000000000004 "dino" "Spell_Holy_RighteousFury"
+#showtooltip Judgment
+/target Dire
+/target Humming
+/target Deactivated
+/target Ice
+/cast Judgment
+/cast Chi Wave
+/targetlasttarget
+END
+VER 3 0000000000000017 "elemente" "SPELL_NATURE_SWIFTNESS"
+pull timer's up, it's on now
+pop all your cds and watch the meters like 'wow'
+you zap and you blast, tunnel night and day,
+SHIT that's a raid wipe, god damnit ELEMENTE
+END
+VER 3 000000000000002D "fel" "135826"
+/target Fel Explosives
+END
+VER 3 0000000000000062 "focus" "132150"
+/focus
+END
+VER 3 000000000000002E "focus" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Repentance
+END
+VER 3 0000000000000026 "hanzo" "SPELL_SHADOW_CHARM"
+Roses are Red
+Violets are Blue
+RYUU GA WAGA TEKI WO KURAU
+END
+VER 3 000000000000005B "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:
+END
+VER 3 000000000000005A "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Artoc:p:ayer-86-0A075B3B:1:
+END
+VER 3 0000000000000063 "hell yeah brothe" "460689"
+卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺
+END
+VER 3 000000000000002B "hidden" "INV_SHIELD_05"
+/run print(IsQuestFlaggedCompleted(44311))
+END
+VER 3 0000000000000033 "ivory serpent" "3229535"
+/tar Ivory Cloud Serpent
+/use [nochanneling] Zan-Tien Lasso
+END
+VER 3 0000000000000006 "kev" "Spell_Shadow_Skull"
+uh sid ta ginna muh floobie doob a'na cribba craz! fo so mozd'nat
+END
+VER 3 0000000000000028 "mark" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/script if (charm == nil) or (charm < 0) then charm=9; end; charm=charm-1; SetRaidTarget("mouseover", charm)
+END
+VER 3 0000000000000012 "mouseover templa" "SPELL_SHADOW_TELEPORT"
+#showtooltip Hand of Salvation
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Hand of Salvation
+/script UIErrorsFrame:Clear()
+END
+VER 3 000000000000000B "officer" "Ability_Druid_TigersRoar"
+yeah when you're bad and you boast that your skill is the most,
+you make a lot of mistakes, you do whatever it takes,
+convince all the guild that you know how to win.
+but we know that can't be kuz your name is Kaejin
+END
+VER 3 0000000000000061 "pot" "4559232"
+#showtooltip
+/use 191914
+/use 191383
+/use 191913
+/use 191382
+/use 191912
+/use 191381
+/use 191907
+/use 191389
+/use 191906
+/use 191388
+/use 191905
+/use 191387
+END
+VER 3 0000000000000025 "ship shit" "134190"
+/run for k, v in pairs({ Belgork = 38932, Felsmith = 39366, Xanzith = 39356, Cindral = 39363, Shark = 39355, Zoug = 39360}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end
+END
+VER 3 0000000000000011 "single" "Ability_BullRush"
+su'gon! gizza mah flavid goom ina flib flab sim!
+END
+VER 3 0000000000000003 "timelost" "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+/tar Time
+END
+VER 3 000000000000005D "timer" "609811"
+/stopwatch play
+END
+VER 3 0000000000000029 "volatile sheep" "SPELL_NATURE_POLYMORPH"
+/run print(IsQuestFlaggedCompleted(43828))
+END
+VER 3 0000000000000060 "world text size" "134400"
+/console WorldTextScale 5.0
+END
+VER 3 0000000000000018 "zack" "PANDARENRACIAL_INNERPEACE"
+so my rune just procced, this shit's about to get rocked
+is that loot something you'd use? easy to confuse
+when you're cool like lazule you close all those dps gaps
+what the fuck, can't the tanks see sand traps?!
+END

@@ -1,0 +1,69 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,spec:3] Execute; [mod:alt,spec:1][spec:3] Ignore Pain; Execute;
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,spec:1,known:Cleave] Cleave; [mod:alt] Victory Rush; [mod:shift] Slam; [spec:2] Bloodthirst; [spec:3] Devastate; [spec:1] Mortal Strike;
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Heroic Leap; [spec:2,noknown:Annihilator] Raging Blow; [spec:2,known:Annihilator] Slam; [spec:3] Shield Slam; [spec:1] Overpower;
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Intervene
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,known:Shockwave] Shockwave; [spec:2] Rampage; Thunder Clap;
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Colossus Smash;
+/script UIErrorsFrame:Clear();
+END
+VER 3 010000000000000F " " "SPELL_HOLY_ASHESTOASHES"
+#showtooltip Last Stand
+/cast Last Stand
+/use Fortitude of the Zandalari
+/use Healthstone
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [mod:alt,known:Ravager,@player] Ravager; [mod:alt,known:Bladestorm] Bladestorm; [spec:3] Revenge; Whirlwind;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000018 " " "134400"
+#showtooltip Avatar
+/use 13
+/cast [known:Avatar] Avatar;
+/cast [spec:2] Recklessness;
+/use 13
+/use 14
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000019 " " "134400"
+#showtooltip
+/cast [known:Spear of Bastion,@player] Spear of Bastion; [known:Thunderous Roar] Thunderous Roar;
+/script UIErrorsFrame:Clear();
+END
+VER 3 010000000000001A " " "134400"
+#showtooltip
+/cast [mod:alt] Thunder Clap; Rend;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001B " " "134400"
+#showtooltip
+/cast [@focus,exists][] Pummel;
+/script UIErrorsFrame:Clear()
+END

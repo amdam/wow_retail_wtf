@@ -1,0 +1,2 @@
+
+RoguePowerBarsDB = nil

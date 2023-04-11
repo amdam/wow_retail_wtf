@@ -1,0 +1,32 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Dogs - Bloodscalp"] = "Dogs - Bloodscalp",
+	},
+	["profiles"] = {
+		["Dogs - Bloodscalp"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -494.2946334276416,
+					["x"] = 956.1563570281669,
+					["w"] = 221.6817469875934,
+					["h"] = 210.8107800993954,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 221.6817469875934,
+			["MainWindowHeight"] = 210.8107450851288,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

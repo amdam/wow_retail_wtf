@@ -1,0 +1,85 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Starfall; Starsurge;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover,help,nodead,spec:4][help, nodead,spec:4][@player,spec:4] Nature's Cure; [@mouseover,help,nodead][help,nodead][@player] Remove Corruption
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Swiftmend
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] Starfire; Wrath;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Innervate
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Shred; /cast [modifier:alt] Swipe
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Thrash; Rake;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover, help][help][@player] Rebirth
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Savage Roar; Ferocious Bite;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Incapacitating Roar; Mangle;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Thrash; Swipe;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,talent:7/3] Pulverize; Maul;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Convoke the Spirits; Growl;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1] Celestial Alignment;
+/use 13
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [mod:alt,known:Wild Mushroom] Wild Mushroom; Sunfire;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000010 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Fury of Elune] Fury of Elune; [mod:alt,known:New Moon] New Moon; [known:Stellar Flare] Stellar Flare;
+/script UIErrorsFrame:Clear()
+END

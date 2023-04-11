@@ -1,0 +1,24 @@
+
+PallyPowerDB = {
+	["profiles"] = {
+		["Default"] = {
+			["disable"] = false,
+			["rfbuff"] = false,
+			["display"] = {
+				["frameLocked"] = true,
+			},
+		},
+	},
+}
+PallyPower_Assignments = {
+	["Dogs"] = {
+		[4] = 0,
+	},
+}
+PallyPower_NormalAssignments = {
+}
+PallyPower_AuraAssignments = {
+	["Dogs"] = 0,
+}
+PallyPower_SavedPresets = {
+}

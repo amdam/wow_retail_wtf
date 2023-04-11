@@ -1,0 +1,16 @@
+
+KuiNameplatesCoreSaved = {
+	["profiles"] = {
+		["default"] = {
+			["target_glow_colour"] = {
+				0.368627450980392, -- [1]
+				0.611764705882353, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["target_arrows"] = true,
+			["frame_glow_size"] = 16,
+			["target_arrows_size"] = 50,
+		},
+	},
+}

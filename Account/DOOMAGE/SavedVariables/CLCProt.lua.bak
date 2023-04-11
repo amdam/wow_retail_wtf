@@ -1,0 +1,16 @@
+
+clcprotDB = {
+	["profileKeys"] = {
+		["Dogs - Bloodscalp"] = "Dogs - Bloodscalp",
+	},
+	["profiles"] = {
+		["Dogs - Bloodscalp"] = {
+			["show"] = "combat",
+			["y"] = 100.3687286376953,
+			["rotation"] = {
+				["prio"] = "ss wogdp wog sorha sordp sor5 sor3 cs j asgc how as cons hw",
+			},
+			["x"] = 986.8378295898438,
+		},
+	},
+}

@@ -1,0 +1,12 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Everux - Bloodscalp"] = "Everux - Bloodscalp",
+	},
+	["profiles"] = {
+		["Everux - Bloodscalp"] = {
+			["PositionY"] = 665.7692484604836,
+			["PositionX"] = 937.7564999848522,
+		},
+	},
+}

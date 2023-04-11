@@ -1,0 +1,10 @@
+
+clcretDB = {
+	["profileKeys"] = {
+		["Taxbreak - Bloodscalp"] = "Taxbreak - Bloodscalp",
+	},
+	["profiles"] = {
+		["Taxbreak - Bloodscalp"] = {
+		},
+	},
+}

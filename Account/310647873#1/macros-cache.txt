@@ -1,0 +1,19 @@
+VER 3 0000000000000001 " " "237016"
+/stopcasting
+/click [target=mouseover] ExtraActionButton1
+END
+VER 3 0000000000000004 "focus" "1378702"
+/focus
+END
+VER 3 00000000000000CC "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:
+END
+VER 3 00000000000000CB "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Aster:p:ayer-3685-07E5D5F1:1:
+END
+VER 3 0000000000000002 "Hidden" "132096"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0000000000000003 "Marker" "1005027"
+/script SetRaidTarget("mouseover", 8)
+END

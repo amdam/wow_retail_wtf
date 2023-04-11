@@ -1,0 +1,11 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/macro", -- [1]
+		"/weakauras", -- [2]
+		"/clique", -- [3]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

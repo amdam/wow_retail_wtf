@@ -1,0 +1,2 @@
+
+RogueFocusConfig = nil

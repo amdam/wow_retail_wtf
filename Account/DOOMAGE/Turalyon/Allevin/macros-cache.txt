@@ -1,0 +1,51 @@
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Drain Life; Shadow Bolt;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Agony; [modifier:alt,@cursor] Siphon Life;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Hand of Gul'dan; /cast [modifier:alt] Implosion
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Malefic Rapture; [modifier:alt,@cursor] Vile Taint;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Chaos Bolt; /cast [modifier:alt,@cursor] Rain of Fire
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover, help][help][@player] Soulstone
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Corruption; /cast [modifier:alt] Seed of Corruption
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead,pet:Imp][help,nodead,pet:Imp][@player,pet:Imp] Command Demon; Command Demon
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,spec:3,talent:4/3,@cursor] Cataclysm; Immolate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,talent:5/2] Mortal Coil; Fear;
+/script UIErrorsFrame:Clear()
+END

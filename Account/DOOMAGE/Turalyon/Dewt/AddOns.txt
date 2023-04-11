@@ -1,0 +1,3 @@
+RoguePowerBars: disabled
+DBM-Core: enabled
+OmniCC: enabled

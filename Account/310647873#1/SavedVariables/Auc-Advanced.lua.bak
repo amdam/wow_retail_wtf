@@ -1,0 +1,84 @@
+
+AucAdvancedConfig = {
+	["profile.Default"] = {
+		["configator.left"] = 715.316528320313,
+		["core"] = {
+			["matcher"] = {
+				["matcherlist"] = {
+					"BeanCount", -- [1]
+					"Undercut", -- [2]
+				},
+			},
+		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+				["upgraded32"] = true,
+			},
+		},
+		["util"] = {
+			["appraiser"] = {
+				["item.127848.bulk"] = false,
+				["item.127848.fixed.buy"] = 7750000,
+				["item.127848.duration"] = 1440,
+				["item.127848.model"] = "fixed",
+				["item.127848.stack"] = 10,
+				["item.127848.numberonly"] = false,
+				["item.139890.stack"] = 1,
+				["columnsortcurSort"] = 6,
+				["columnsortcurDir"] = -1,
+				["item.127848.match"] = false,
+				["item.127848.fixed.bid"] = 7000000,
+				["item.124101.duration"] = 1440,
+			},
+			["compactui"] = {
+				["priceperitem"] = true,
+			},
+			["pricelevel"] = {
+			},
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+			["ahwindowcontrol"] = {
+				["ahframeanchors"] = "TOPLEFT:TOPLEFT:34.9:-92.3",
+			},
+		},
+		["configator.top"] = 815.769226074219,
+	},
+	["users.Turalyon.Asteriia"] = "Default",
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Turalyon"] = "Asteriia",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+			["configator.left"] = 665.316589355469,
+			["configator.top"] = 840.769348144531,
+		},
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}
+AucAdvancedServers = {
+	["Version"] = 1,
+	["Timestamp"] = 1510635214,
+	["KnownServerKeys"] = {
+		["Turalyon"] = 1519017169,
+	},
+	["KnownRealms"] = {
+		["Turalyon"] = "Turalyon",
+	},
+}

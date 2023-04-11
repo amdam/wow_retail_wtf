@@ -1,0 +1,61 @@
+MACRO64 0000000001000005 " " "Ability_Rogue_Rupture"
+#showtooltip Rupture
+/startattack
+/cast [nomodifier]Rupture; /cast [modifier:alt] Crimson Tempest
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000006 " " "Ability_Rogue_TricksOftheTrade"
+#showtooltip Tricks of the Trade
+/cast [target=mouseover, exists, nomodifier] [help] [target=player] Tricks of the Trade; /cast [modifier:alt] Shadowstep
+END
+MACRO64 0000000001000007 " " "Ability_Rogue_SliceDice"
+#showtooltip Slice and Dice
+/startattack
+/cast [nomodifier] Slice and Dice; /cast [modifier:alt] Recuperate
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000008 " " "Ability_Rogue_FanofKnives"
+#showtooltip Fan of Knives
+/startattack
+/cast Fan of Knives
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000003 " " "Ability_Rogue_ShadowStrikes"
+#showtooltip Mutilate
+/startattack
+/cast [nomodifier] Mutilate; /cast [modifier:alt] Fan of Knives
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000009 " " "Spell_Shadow_RitualOfSacrifice"
+#showtooltip Sinister Strike
+/startattack
+/cast [nomodifier] Sinister Strike; /cast [modifier:alt] Revealing Strike
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000A " " "Ability_Rogue_Eviscerate"
+#showtooltip Eviscerate
+/startattack
+/cast Eviscerate
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000004 " " "Ability_Rogue_Disembowel"
+#showtooltip Envenom
+/startattack
+/cast [nomodifier] Envenom; /cast [modifier:alt] Deadly Throw
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000B " " "INV_THROWINGKNIFE_04"
+#showtooltip Shiv
+/startattack
+/cast [nomodifier] Shiv; /cast [modifier:alt] Redirect
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000C " " "SPELL_SHADOW_MINDSTEAL"
+#showtooltip Blind
+/cast [nomodifier] Blind; /cast [modifier:alt] Gouge;
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000D " " "ABILITY_ROGUE_SHADOWSTEP"
+#showtooltip Shadowstep
+/cast [nomodifier] Shadowstep; /cast [modifier:alt] Redirect
+END

@@ -1,0 +1,16 @@
+MACRO 16777218 "Blood Strike" Ability_BackStab
+/cast rune strike
+/cast blood strikeww
+END
+MACRO 16777219 "Dopefish" Ability_Creature_Cursed_05
+/target dopeefish
+/CAST raise ally
+END
+MACRO 16777220 "Heart Strike" Ability_Druid_Berserk
+/cast rune strike
+/cast heart strike
+END
+MACRO 16777217 "Scourge Strike" Ability_Creature_Cursed_03
+/cast rune strike
+/cast scourge strike
+END

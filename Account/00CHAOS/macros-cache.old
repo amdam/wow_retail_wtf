@@ -1,0 +1,26 @@
+MACRO 3 "/chicken" Ability_Creature_Cursed_02
+/tar Corrupting Adherent
+/cast Taunt
+END
+MACRO 6 "arms" Ability_Warrior_OffensiveStance
+/cast Battle Stance
+/equip Shalug'doom, the Axe of Unmaking
+END
+MACRO 2 "asghasgasg" Ability_Creature_Cursed_05
+/w Ghostlie Intervate~~~~~INTERVATE
+END
+MACRO 7 "assist" Ability_Warrior_Incite
+/Assist Sweetcyanide
+END
+MACRO 1 "Decursive" INV_Misc_QuestionMark
+/script Dcr:Println('No spell available')
+END
+MACRO 5 "Defensive Stance" Ability_Warrior_DefensiveStance
+/cast Defensive Stance
+/equip Soul Blade
+/equip Elementium Earthguard
+END
+MACRO 4 "lol" Ability_CheapShot
+/target Ghostlie
+/cast Intervene
+END

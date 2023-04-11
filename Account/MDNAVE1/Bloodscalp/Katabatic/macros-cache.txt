@@ -1,0 +1,12 @@
+MACRO 16777218 "fire" Ability_Creature_Cursed_01
+/cast Berserking(Racial)
+/cast Lifeblood
+/cast Mirror Image
+END
+MACRO 16777217 "k" Ability_Mage_ChilledToTheBone
+/cast Berserking(Racial)
+/cast Arcane Power
+/cast Lifeblood
+/cast Mirror Image
+/use 13
+END

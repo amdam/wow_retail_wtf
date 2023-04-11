@@ -1,0 +1,2 @@
+XPerl_TeamSpeak: disabled
+Recount: disabled

@@ -1,0 +1,77 @@
+MACRO64 0000000001000001 " " "Ability_Warrior_SavageBlow"
+#showtooltip Mortal Strike
+/cast Overpower!
+/cast Mortal Strike
+END
+MACRO64 000000000100000A " " "Spell_Nature_BloodLust"
+#showtooltip Bloodthirst
+/startattack
+/cast [nomodifier] Bloodthirst; /cast [modifier:alt] Whirlwind
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000009 " " "Ability_Warrior_Devastate"
+#showtooltip Victory Rush
+/startattack
+/cast Victory Rush
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000008 " " "Ability_Whirlwind"
+#showtooltip Whirlwind
+/startattack
+/cast Whirlwind
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000007 " " "Ability_Warrior_DecisiveStrike"
+#showtooltip Slam
+/startattack
+/cast Slam
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000006 " " "ABILITY_WARRIOR_CLEAVE"
+#showtooltip Cleave
+/startattack
+/cast [nomodifier] Cleave; /cast [modifier:alt] Heroic Strike
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000B " " "Ability_Hunter_SwiftStrike"
+#showtooltip Raging Blow
+/startattack
+/cast Raging Blow
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000C " " "ABILITY_WARRIOR_CHARGE"
+#showtooltip Charge
+/cast [nomodifier] Charge; /cast [modifier:alt] Intervene
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000D " " "INV_SHIELD_05"
+#showtooltip Shield Slam
+/startattack
+/cast [nomodifier] Shield Slam; /cast [modifier:alt] Heroic Leap
+END
+MACRO64 000000000100000F " " "ABILITY_WARRIOR_REVENGE"
+#showtooltip Revenge
+/startattack
+/cast [nomodifier] Revenge; /cast [modifier:alt] Victory Rush
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000E " " "ABILITY_DEFEND"
+#showtooltip Shield Block
+/cast [nomodifier] Shield Block; /cast [modifier:alt] Shield Barrier
+END
+MACRO64 0000000001000010 " " "SPELL_NATURE_THUNDERCLAP"
+#showtooltip Thunder Clap
+/startattack
+/cast [nomodifier] Thunder Clap; /cast [modifier:alt] Shockwave
+END
+MACRO64 0000000001000002 "  " "SPELL_NATURE_REINCARNATION"
+#showtooltip Taunt
+/cast [nomodifier] Taunt; /cast [modifier:alt] Heroic Throw
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000003 "   " "INV_SWORD_11"
+#showtooltip Devastate
+/startattack
+/cast [nomodifier] Devastate; /cast [modifier:alt] Cleave
+/script UIErrorsFrame:Clear()
+END

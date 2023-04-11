@@ -1,0 +1,92 @@
+VER 3 0100000000000002 " " "SPELL_FROST_ICESHOCK"
+#showtooltip Counterspell
+/stopcasting
+/cast Counterspell
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Ice Lance; /cast [modifier:alt] Blizzard
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frozen Orb; /cast [modifier:alt] Prismatic Crystal
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frostfire Bolt; /cast [modifier:alt] Frost Nova
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "SPELL_FROST_COLDHEARTED"
+#showtooltip Icy Veins
+/cast Icy Veins
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "SPELL_FROST_FROST"
+#showtooltip Ice Block
+/cancelaura Ice Block
+/stopcasting
+/cast Ice Block
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip [modifier:alt] Arcane Explosion; Arcane Blast
+/cast [nomodifier, nochanneling] Presence of Mind
+/cast [nomodifier, nochanneling] Arcane Blast; /cast [modifier:alt, nochanneling] Arcane Explosion;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "SPELL_MAGIC_FEATHERFALL"
+#showtooltip Slow Fall
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Slow Fall
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "SPELL_NATURE_REMOVECURSE"
+#showtooltip Remove Curse
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Remove Curse
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "SPELL_NATURE_STARFALL"
+#showtooltip
+/cast [nochanneling] Arcane Missiles
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier, nochanneling] Arcane Barrage; /cast [modifier:alt, nochanneling] Frost Nova
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier, nochanneling] Presence of Mind; /cast [modifier:alt, nochanneling] Cone of Cold
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Fireball; /cast [modifier:alt] Scorch
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Pyroblast; /cast [modifier:alt] Frost Nova
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [nomodifier] Combustion; /cast [modifier:alt] Dragon's Breath
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Inferno Blast; /cast [modifier:alt] Flamestrike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frost Bomb; /cast [modifier:alt] Prismatic Crystal
+/script UIErrorsFrame:Clear()
+END

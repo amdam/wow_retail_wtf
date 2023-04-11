@@ -1,0 +1,150 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["BagBar"] = {
+			["profiles"] = {
+				["Dogs - Bloodscalp"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -164.6549169029915,
+						["point"] = "BOTTOM",
+						["scale"] = 0.949999988079071,
+						["y"] = 98.64999313041655,
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Dogs - Bloodscalp"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -287.1219581783307,
+						["point"] = "BOTTOM",
+						["y"] = 176.4156182503932,
+					},
+				},
+			},
+		},
+		["XPBar"] = {
+		},
+		["ActionBars"] = {
+			["profiles"] = {
+				["Dogs - Bloodscalp"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -377.031357596306,
+								["point"] = "BOTTOM",
+								["scale"] = 0.800000011920929,
+								["y"] = 33.59999885938525,
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.5001149931431,
+								["point"] = "CENTER",
+								["y"] = -189.4999419734273,
+							},
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["growHorizontal"] = "LEFT",
+								["x"] = 359.5700544839947,
+								["point"] = "BOTTOM",
+								["scale"] = 0.800000011920929,
+								["y"] = 97.60000068841625,
+							},
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["growHorizontal"] = "LEFT",
+								["x"] = 361.0813822987955,
+								["point"] = "BOTTOM",
+								["scale"] = 0.800000011920929,
+								["y"] = 33.59999885938525,
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -10.96346935364181,
+								["point"] = "BOTTOM",
+								["scale"] = 0.800000011920929,
+								["y"] = 65.60000677675417,
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -377.031357596306,
+								["point"] = "BOTTOM",
+								["scale"] = 0.800000011920929,
+								["y"] = 65.60000677675417,
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						[9] = {
+						},
+						[10] = {
+						},
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Dogs - Bloodscalp"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -376.332059347624,
+						["point"] = "BOTTOM",
+						["scale"] = 0.949999988079071,
+						["y"] = 97.75000612844666,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Dogs - Bloodscalp"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 114.7013951074705,
+						["point"] = "BOTTOM",
+						["scale"] = 0.699999988079071,
+						["y"] = 121.5000090027612,
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Dogs - Bloodscalp"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -104.799800474422,
+						["point"] = "BOTTOM",
+						["scale"] = 0.800000011920929,
+						["y"] = 131.6631682733404,
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Dogs - Bloodscalp"] = "Dogs - Bloodscalp",
+	},
+	["profiles"] = {
+		["Dogs - Bloodscalp"] = {
+		},
+	},
+}

@@ -1,0 +1,82 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Caris-Turalyon",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128821] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 58,
+					["Type"] = "Fire",
+				}, -- [1]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "Claws of Ursoc",
+		},
+		[128860] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Frost",
+				}, -- [1]
+				{
+					["ItemLevel"] = 64,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "Fangs of Ashamane",
+		},
+		[128306] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 59,
+					["Type"] = "Life",
+				}, -- [1]
+				{
+					["ItemLevel"] = 70,
+					["Type"] = "Frost",
+				}, -- [2]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "G'Hanir, the Mother Tree",
+		},
+		[128858] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Arcane",
+				}, -- [1]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "Scythe of Elune",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DRUID",
+	["LastAdded"] = 1,
+}

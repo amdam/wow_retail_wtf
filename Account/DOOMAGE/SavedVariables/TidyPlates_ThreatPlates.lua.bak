@@ -1,0 +1,61 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["Amdam - Turalyon"] = {
+			["specInfo"] = {
+				{
+					["name"] = "Retribution",
+					["role"] = "DAMAGER",
+				}, -- [1]
+				{
+					["name"] = "Protection",
+					["role"] = "TANK",
+				}, -- [2]
+			},
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+				["secondary"] = true,
+			},
+		},
+	},
+	["global"] = {
+		["version"] = "6.008",
+	},
+	["profileKeys"] = {
+		["Amdam - Turalyon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["nameplate"] = {
+				["toggle"] = {
+					["Totem"] = true,
+				},
+			},
+			["uniqueSettings"] = {
+				[33] = {
+				},
+				[34] = {
+				},
+				[38] = {
+				},
+				[40] = {
+				},
+				[41] = {
+				},
+				[42] = {
+				},
+				[48] = {
+				},
+				[49] = {
+				},
+				[50] = {
+				},
+				["list"] = {
+				},
+			},
+			["cache"] = {
+			},
+		},
+	},
+}

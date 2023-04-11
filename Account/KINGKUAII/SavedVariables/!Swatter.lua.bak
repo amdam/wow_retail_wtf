@@ -1,0 +1,295 @@
+
+SwatterData = {
+	["enabled"] = true,
+	["autoshow"] = true,
+	["errors"] = {
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerAurasBase.lua:659: table index is nil",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:38",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\PowerAuras\\PowerAurasBase.lua:659: in main chunk\n",
+		}, -- [1]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\localisation.lua:133: table index is nil",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:38",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\PowerAuras\\localisation.lua:133: in main chunk\n",
+		}, -- [2]
+		{
+			["message"] = "...ace\\AddOns\\PowerAuras\\PowerAurasDecoratorClasses.lua:2: attempt to call global 'PowaClass' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:38",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `PowaClass'\n...ace\\AddOns\\PowerAuras\\PowerAurasDecoratorClasses.lua:2: in main chunk\n",
+		}, -- [3]
+		{
+			["message"] = "...nterface\\AddOns\\PowerAuras\\PowerAurasAuraClasses.lua:5: attempt to call global 'PowaClass' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:38",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `PowaClass'\n...nterface\\AddOns\\PowerAuras\\PowerAurasAuraClasses.lua:5: in main chunk\n",
+		}, -- [4]
+		{
+			["message"] = "...erface\\AddOns\\PowerAuras\\PowerAurasAnimationsOld.lua:2: attempt to call global 'PowaClass' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:38",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `PowaClass'\n...erface\\AddOns\\PowerAuras\\PowerAurasAnimationsOld.lua:2: in main chunk\n",
+		}, -- [5]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerAuras.lua:26: attempt to call method 'CopyTable' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:38",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `CopyTable'\nInterface\\AddOns\\PowerAuras\\PowerAuras.lua:26: in main chunk\n",
+		}, -- [6]
+		{
+			["message"] = "[string \"PowaAuras_Frame:OnLoad\"]:1: attempt to call method 'OnLoad' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [7]
+		{
+			["message"] = "[string \"PowaBarAuraAlphaSlider:OnLoad\"]:2: attempt to concatenate field 'nomAlpha' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [8]
+		{
+			["message"] = "[string \"PowaBarAuraDeformSlider:OnLoad\"]:2: attempt to concatenate field 'nomDeform' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [9]
+		{
+			["message"] = "[string \"PowaBarAuraSymSlider:OnLoad\"]:2: attempt to concatenate field 'aucune' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [10]
+		{
+			["message"] = "[string \"PowaBarAuraSizeSlider:OnLoad\"]:2: attempt to concatenate field 'nomTaille' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [11]
+		{
+			["message"] = "[string \"PowaBarAuraCoordXSlider:OnLoad\"]:2: attempt to concatenate field 'nomPos' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [12]
+		{
+			["message"] = "[string \"PowaBarAuraCoordSlider:OnLoad\"]:2: attempt to concatenate field 'nomPos' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [13]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerOptions.lua:1966: attempt to call method 'AuraFactory' (a nil value)",
+			["count"] = 12,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `AuraFactory'\nInterface\\AddOns\\PowerAuras\\PowerOptions.lua:1966: in function `initFunction'\nInterface\\FrameXML\\UIDropDownMenu.lua:69: in function `UIDropDownMenu_Initialize'\n[string \"*:OnLoad\"]:3: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [14]
+		{
+			["message"] = "[string \"PowaBarThresholdSlider:OnLoad\"]:2: attempt to concatenate field 'nomThreshold' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [15]
+		{
+			["message"] = "[string \"PowaBarAuraAnimSpeedSlider:OnLoad\"]:2: attempt to concatenate field 'nomSpeed' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [16]
+		{
+			["message"] = "[string \"PowaBarAuraDurationSlider:OnLoad\"]:2: attempt to concatenate field 'nomDuration' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [17]
+		{
+			["message"] = "[string \"PowaTimerCoordXSlider:OnLoad\"]:2: attempt to concatenate field 'nomPos' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [18]
+		{
+			["message"] = "[string \"PowaTimerCoordSlider:OnLoad\"]:2: attempt to concatenate field 'nomPos' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [19]
+		{
+			["message"] = "[string \"PowaTimerSizeSlider:OnLoad\"]:2: attempt to concatenate field 'nomTaille' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [20]
+		{
+			["message"] = "[string \"PowaTimerAlphaSlider:OnLoad\"]:2: attempt to concatenate field 'nomAlpha' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [21]
+		{
+			["message"] = "[string \"PowaTimerDurationSlider:OnLoad\"]:2: attempt to concatenate field 'nomTimerDuration' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [22]
+		{
+			["message"] = "[string \"PowaTimerInvertAuraSlider:OnLoad\"]:5: attempt to concatenate field 'nomTimerInvertAura' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:5: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [23]
+		{
+			["message"] = "[string \"PowaStacksCoordXSlider:OnLoad\"]:2: attempt to concatenate field 'nomPos' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [24]
+		{
+			["message"] = "[string \"PowaStacksCoordSlider:OnLoad\"]:2: attempt to concatenate field 'nomPos' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [25]
+		{
+			["message"] = "[string \"PowaStacksSizeSlider:OnLoad\"]:2: attempt to concatenate field 'nomTaille' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [26]
+		{
+			["message"] = "[string \"PowaStacksAlphaSlider:OnLoad\"]:2: attempt to concatenate field 'nomAlpha' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [27]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerOptions.lua:2956: attempt to concatenate field 'nomUpdateSpeed' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\PowerAuras\\PowerOptions.lua:2956: in function `PowaOptionsUpdateSliderChanged2'\n[string \"*:OnValueChanged\"]:1: in function <[string \"*:OnValueChanged\"]:1>\n[C]: in function `SetValue'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [28]
+		{
+			["message"] = "[string \"PowaOptionsUpdateSlider2:OnLoad\"]:2: attempt to concatenate field 'nomUpdateSpeed' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [29]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerOptions.lua:2960: attempt to concatenate field 'nomFPS' (a nil value)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\PowerAuras\\PowerOptions.lua:2960: in function `PowaOptionsAnimationsSliderChanged2'\n[string \"*:OnValueChanged\"]:1: in function <[string \"*:OnValueChanged\"]:1>\n[C]: in function `SetValue'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [30]
+		{
+			["message"] = "[string \"PowaOptionsAnimationsSlider2:OnLoad\"]:2: attempt to concatenate field 'nomFPS' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [31]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerOptions.lua:2964: attempt to concatenate field 'nomTimerUpdate' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\PowerAuras\\PowerOptions.lua:2964: in function `PowaOptionsTimerUpdateSliderChanged2'\n[string \"*:OnValueChanged\"]:1: in function <[string \"*:OnValueChanged\"]:1>\n[C]: in function `SetValue'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [32]
+		{
+			["message"] = "[string \"PowaOptionsTimerUpdateSlider2:OnLoad\"]:2: attempt to concatenate field 'nomTimerUpdate' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [33]
+		{
+			["message"] = "Interface\\AddOns\\PowerAuras\\PowerOptions.lua:2968: attempt to concatenate field 'nomTextureCount' (a nil value)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\PowerAuras\\PowerOptions.lua:2968: in function `PowaOptionsMaxTexturesSliderChanged'\n[string \"*:OnValueChanged\"]:1: in function <[string \"*:OnValueChanged\"]:1>\n[C]: in function `SetValue'\n[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [34]
+		{
+			["message"] = "[string \"PowaOptionsTextureCount:OnLoad\"]:5: attempt to concatenate field 'nomTextureCount' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:39",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[string \"*:OnLoad\"]:5: in function <[string \"*:OnLoad\"]:1>\n",
+		}, -- [35]
+		{
+			["message"] = "[string \"PowaAuras_Frame:OnUpdate\"]:1: attempt to call method 'OnUpdate' (a nil value)",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v3.2.4 (<%codename%>)\n  AtlasLootLoader, vv6.05.00\n  Babylonian, v5.1.DEV.312(/embedded)\n  Configator, v5.1.DEV.312(/embedded)\n  Gatherer, v3.2.4\n  LootCouncilLite, v2.1a\n  NugComboBar, v\n  PowerAuras, v4.9\n  SlideBar, v3.2.4 (<%codename%>)\n  BlizRuntimeLib_enUS v4.3.0.40300 <us>\n  (ck=124)\n",
+			["timestamp"] = "2011-12-11 16:33:44",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>\n",
+		}, -- [36]
+	},
+}

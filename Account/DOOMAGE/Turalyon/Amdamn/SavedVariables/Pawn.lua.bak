@@ -1,0 +1,12 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.011,
+	["LastPlayerFullName"] = "Amdamn-Turalyon",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "HUNTER",
+	["LastAdded"] = 1,
+}

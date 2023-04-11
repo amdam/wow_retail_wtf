@@ -1,0 +1,3 @@
+MACRO 16777217 "Follow" Ability_Creature_Poison_05
+/follow Aerohead
+END

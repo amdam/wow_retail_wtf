@@ -1,0 +1,313 @@
+
+FC_Saved = {
+	["PROFILES"] = {
+		["Taxbreak-Bloodscalp"] = "Default",
+	},
+	["Timers"] = {
+	},
+	["Healthstone"] = {
+		["Taxbreak"] = {
+			[0] = 302835.242,
+		},
+	},
+	["Exceptions"] = {
+		["Hellfire Channeler"] = 0,
+		["Grand Astromancer Capernian"] = 1,
+		["Lord Sanguinar"] = 1,
+		["Thaladred the Darkener"] = 1,
+		["Fathom-Guard Caribdis"] = 1,
+		["Master Engineer Telonicus"] = 1,
+		["Fathom-Guard Tidalvess"] = 1,
+		["Fathom-Guard Sharkkis"] = 1,
+	},
+	["Profiles"] = {
+		["Default"] = {
+			["Strata"] = "MEDIUM",
+			["OptionsFontSize"] = 11,
+			["OptionsFontLabelColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["TimeLeftNoTargMsg"] = ">> %s is fading in %s <<",
+			["SafeBlockShardReagent"] = false,
+			["TimeLeft"] = 1,
+			["Texture"] = "Interface\\AddOns\\Forte_Core\\Textures\\Aluminium",
+			["FrameSnapDistance"] = 5,
+			["OptionsFontInputColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["GlobalScale"] = 1,
+			["OptionHeaderColor"] = {
+				0.2, -- [1]
+				0.2, -- [2]
+				0.2, -- [3]
+			},
+			["TimeLeftNoTarg"] = 1,
+			["LoadDelay"] = 1,
+			["OptionsSubHeaderBackdrop"] = {
+				"Interface\\AddOns\\Forte_Core\\Textures\\Smooth", -- [1]
+				"None", -- [2]
+				false, -- [3]
+				16, -- [4]
+				2, -- [5]
+				2, -- [6]
+			},
+			["Output"] = true,
+			["TimeFormat"] = true,
+			["SparkColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["OptionsHeaderBackdrop"] = {
+				"Interface\\AddOns\\Forte_Core\\Textures\\Otravi", -- [1]
+				"None", -- [2]
+				false, -- [3]
+				16, -- [4]
+				1, -- [5]
+				1, -- [6]
+			},
+			["FrameDistance"] = 0,
+			["RightClickIconOptions"] = true,
+			["AnimationInterval"] = 0.04,
+			["Cooldown"] = {
+				["x"] = 993.4221881821679,
+				["FontSize"] = 11,
+				["y"] = 227.834920825913,
+				["MinRange"] = 0,
+				["Enable"] = true,
+				["ResTimerEnable"] = true,
+				["Texture"] = "Interface\\AddOns\\Forte_Core\\Textures\\Aluminium",
+				["Loga"] = 0.33,
+				["BgColor"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0.5, -- [4]
+				},
+				["Vertical"] = false,
+				["MaxRange"] = 3600,
+				["lock"] = false,
+				["PotionEnable"] = true,
+				["CustomTagsMsg"] = "0 1 10 30 60 120 300 600",
+				["SoulstoneEnable"] = true,
+				["Hide"] = false,
+				["DebuffColor"] = {
+					1, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["alpha"] = 1,
+				["EnchantColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["Tags"] = 6,
+				["Test"] = false,
+				["Filter"] = {
+					["unknown"] = {
+						{
+							-1, -- [1]
+						}, -- [1]
+					},
+					["Blessed Medallion of Karabor"] = {
+						{
+							-1, -- [1]
+						}, -- [1]
+					},
+					["Recently Bandaged"] = {
+						{
+							-2, -- [1]
+							1, -- [2]
+							0.65, -- [3]
+							0, -- [4]
+						}, -- [1]
+					},
+				},
+				["Alpha"] = 0.2,
+				["Width"] = 250,
+				["SpellColor"] = {
+					1, -- [1]
+					0.5, -- [2]
+					0, -- [3]
+				},
+				["BuffEnable"] = true,
+				["CustomTags"] = false,
+				["ItemColor"] = {
+					1, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["GroupOverride"] = true,
+				["Spark"] = true,
+				["BuffColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+				["Detail"] = true,
+				["ResTimerColor"] = {
+					1, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["Swing"] = false,
+				["Font"] = "Interface\\AddOns\\Forte_Core\\Fonts\\GOTHIC.TTF",
+				["Warn"] = true,
+				["scale"] = 1,
+				["PetEnable"] = true,
+				["BarColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0.2, -- [4]
+				},
+				["TextColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0.2, -- [4]
+				},
+				["IconTextColor"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					0, -- [4]
+				},
+				["IconFont"] = "Interface\\AddOns\\Forte_Core\\Fonts\\GOTHIC.TTF",
+				["IconTextEnable"] = true,
+				["PotionColor"] = {
+					0, -- [1]
+					1, -- [2]
+					0, -- [3]
+				},
+				["MaxRangeEnable"] = false,
+				["HealthstoneColor"] = {
+					0, -- [1]
+					1, -- [2]
+					0.5, -- [3]
+				},
+				["SpellEnable"] = true,
+				["PowerupColor"] = {
+					0, -- [1]
+					0.75, -- [2]
+					1, -- [3]
+				},
+				["SoulstoneColor"] = {
+					0.64, -- [1]
+					0.21, -- [2]
+					0.9300000000000001, -- [3]
+				},
+				["Flip"] = false,
+				["PetColor"] = {
+					1, -- [1]
+					0, -- [2]
+					0.95, -- [3]
+				},
+				["ItemEnable"] = true,
+				["Max"] = 300,
+				["Splash"] = true,
+				["Backdrop"] = {
+					"Interface\\AddOns\\Forte_Core\\Textures\\Background", -- [1]
+					"Interface\\AddOns\\Forte_Core\\Textures\\Border", -- [2]
+					false, -- [3]
+					16, -- [4]
+					5, -- [5]
+					3, -- [6]
+				},
+				["Ignore"] = true,
+				["IconFontSize"] = 11,
+				["HealthstoneEnable"] = true,
+				["DebuffEnable"] = true,
+				["SplashFactor"] = 4,
+				["Height"] = 16,
+				["MinRangeEnable"] = false,
+				["PowerupEnable"] = true,
+				["EnchantEnable"] = true,
+			},
+			["UpdateInterval"] = 0.5,
+			["HealthstoneTopRank"] = true,
+			["GlobalLock"] = false,
+			["SparkEnable"] = false,
+			["OptionsHeight"] = 440,
+			["OptionsBackdrop"] = {
+				"Interface\\AddOns\\Forte_Core\\Textures\\Background", -- [1]
+				"Interface\\AddOns\\Forte_Core\\Textures\\Border", -- [2]
+				false, -- [3]
+				16, -- [4]
+				5, -- [5]
+				5, -- [6]
+			},
+			["CooldownLeft"] = 1,
+			["Font"] = "Interface\\AddOns\\Forte_Core\\Fonts\\GOTHIC.TTF",
+			["FWOptions"] = {
+				["y"] = 383.9999854645059,
+				["x"] = 682.6666756844352,
+				["lock"] = false,
+				["scale"] = 1,
+				["alpha"] = 1,
+			},
+			["OptionsHeaderFontSize"] = 11,
+			["BlockShardReagent"] = false,
+			["SplashStrata"] = "MEDIUM",
+			["Splash"] = {
+				["SplashGlow"] = true,
+				["SecondSplashMax"] = 4,
+				["x"] = 682.6666756844352,
+				["lock"] = false,
+				["Enable"] = false,
+				["y"] = 383.9999854645059,
+				["alpha"] = 0.7,
+				["scale"] = 2,
+			},
+			["AnimateScroll"] = true,
+			["HealthstoneNumber"] = 3,
+			["OptionsModuleColor"] = true,
+			["Tips"] = true,
+			["GlobalAlpha"] = 1,
+			["CooldownLeftMsg"] = ">> %s is ready in %s <<",
+			["OptionsColums"] = 2,
+			["FontSize"] = 11,
+			["RightClickOptions"] = true,
+			["TimeLeftMsg"] = ">> %s on %s is fading in %s <<",
+			["IgnoreCooldown"] = 3,
+			["OptionsFont"] = "Interface\\AddOns\\Forte_Core\\Fonts\\GOTHIC.TTF",
+			["GlobalFrameNames"] = false,
+			["OptionsHeaderFont"] = "Interface\\AddOns\\Forte_Core\\Fonts\\GOTHICB.TTF",
+			["OptionBackgroundColor"] = {
+				0.4, -- [1]
+				0.4, -- [2]
+				0.4, -- [3]
+				0.9, -- [4]
+			},
+			["OutputRaid"] = true,
+			["FrameSnap"] = true,
+			["OutputMsg"] = "MyProChannel",
+			["CooldownStrata"] = "MEDIUM",
+			["Chill"] = 0.05,
+		},
+	},
+	["Update"] = 302835.242,
+	["PARTY"] = false,
+	["Speccs"] = {
+		["SHAMAN"] = {
+			["Taxbreak"] = "025033043071085103112121133143155161173182192203221233245251 035055062083091  00",
+		},
+	},
+	["Shards"] = {
+	},
+	["RAID"] = false,
+	["VERSION"] = "v1.958",
+	["Cooldowns"] = {
+	},
+	["Warlocks"] = {
+	},
+	["GotORA"] = {
+	},
+	["PROFILE"] = "Default",
+}

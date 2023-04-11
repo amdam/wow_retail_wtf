@@ -1,0 +1,9 @@
+RoguePowerBars: disabled
+ArkInventory: enabled
+AffDots: disabled
+affdots-mage: enabled
+oqueue: disabled
+TidyPlates_ThreatPlates: enabled
+ExtraCD: enabled
+CombustionHelper: disabled
+Ace3: disabled

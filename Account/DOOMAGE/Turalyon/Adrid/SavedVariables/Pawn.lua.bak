@@ -1,0 +1,65 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Adrid-Turalyon",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128826] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 72,
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "Thas'dorah, Legacy of the Windrunners",
+		},
+		[128861] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Arcane",
+				}, -- [2]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Iron",
+				}, -- [3]
+			},
+			["Name"] = "Titanstrike",
+		},
+		[128808] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 61,
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["ItemLevel"] = 56,
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["ItemLevel"] = 58,
+					["Type"] = "Blood",
+				}, -- [3]
+			},
+			["Name"] = "Talonclaw, Spear of the Wild Gods",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "HUNTER",
+	["LastAdded"] = 1,
+}

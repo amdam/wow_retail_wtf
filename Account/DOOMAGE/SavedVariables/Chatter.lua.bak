@@ -1,0 +1,829 @@
+
+ChatterDB = {
+	["namespaces"] = {
+		["Highlight"] = {
+			["profiles"] = {
+				["Default"] = {
+					["highlights"] = {
+						["WHISPER"] = true,
+					},
+					["customChannels"] = {
+						["WHISPER"] = "Explosion",
+					},
+					["sinkOptions"] = {
+						["sink20OutputSink"] = "MikSBT",
+						["sink20ScrollArea"] = "Notification",
+					},
+					["words"] = {
+						["hey"] = "hey",
+						["hi"] = "hi",
+					},
+				},
+			},
+		},
+		["AltLinks"] = {
+			["profiles"] = {
+				["Default"] = {
+					["guildranks"] = {
+						false, -- [1]
+						false, -- [2]
+						false, -- [3]
+						false, -- [4]
+						false, -- [5]
+						false, -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						[0] = false,
+					},
+				},
+			},
+		},
+		["Scrollback"] = {
+		},
+		["Invite Links"] = {
+			["profiles"] = {
+				["Default"] = {
+					["words"] = {
+						["inv"] = "inv",
+						["invite"] = "invite",
+					},
+				},
+			},
+		},
+		["ChannelColors"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["Real ID Whisper"] = {
+							["b"] = 0.964705944061279,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["CHANNEL6"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["Raid Leader"] = {
+							["b"] = 0.0352941197343171,
+							["g"] = 0.282352957874537,
+							["r"] = 1.00000005913898,
+						},
+						["CHANNEL"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["PARTY"] = {
+							["r"] = 0.666666686534882,
+							["g"] = 0.666666686534882,
+							["b"] = 1,
+						},
+						["Whisper"] = {
+							["b"] = 1.00000005913898,
+							["g"] = 0.501960813999176,
+							["r"] = 1.00000005913898,
+						},
+						["Raid"] = {
+							["b"] = 0,
+							["g"] = 0.498039245139808,
+							["r"] = 1.00000005913898,
+						},
+						["SYSTEM"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 0,
+						},
+						["RAID_BOSS_EMOTE"] = {
+							["r"] = 1,
+							["g"] = 0.866666734218597,
+							["b"] = 0,
+						},
+						["CHANNEL7"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["SKILL"] = {
+							["r"] = 0.333333343267441,
+							["g"] = 0.333333343267441,
+							["b"] = 1,
+						},
+						["CHANNEL1"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["CHANNEL3"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["BATTLENET"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["BN_CONVERSATION_LIST"] = {
+							["r"] = 0,
+							["g"] = 0.694117665290833,
+							["b"] = 0.941176533699036,
+						},
+						["PET_BATTLE_INFO"] = {
+							["b"] = 0.364705890417099,
+							["g"] = 0.870588302612305,
+							["r"] = 0.882353007793427,
+						},
+						["LOOT"] = {
+							["r"] = 0,
+							["g"] = 0.666666686534882,
+							["b"] = 0,
+						},
+						["Officer"] = {
+							["b"] = 0.250980406999588,
+							["g"] = 0.752941220998764,
+							["r"] = 0.250980406999588,
+						},
+						["IGNORED"] = {
+							["r"] = 1,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["BN_WHISPER_PLAYER_OFFLINE"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 0,
+						},
+						["OFFICER"] = {
+							["r"] = 0.250980406999588,
+							["g"] = 0.752941250801086,
+							["b"] = 0.250980406999588,
+						},
+						["YELL"] = {
+							["r"] = 1,
+							["g"] = 0.250980406999588,
+							["b"] = 0.250980406999588,
+						},
+						["BATTLEGROUND"] = {
+							["r"] = 1.00000005913898,
+							["g"] = 0.498039245139808,
+							["b"] = 0,
+						},
+						["INSTANCE_CHAT_LEADER"] = {
+							["b"] = 0.0352941192686558,
+							["g"] = 0.282352954149246,
+							["r"] = 1,
+						},
+						["COMBAT_MISC_INFO"] = {
+							["r"] = 0.501960813999176,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["SAY"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["Raid Warning"] = {
+							["b"] = 0,
+							["g"] = 0.282352957874537,
+							["r"] = 1.00000005913898,
+						},
+						["BN_CONVERSATION_NOTICE"] = {
+							["r"] = 0,
+							["g"] = 0.694117665290833,
+							["b"] = 0.941176533699036,
+						},
+						["DND"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["GUILD_ACHIEVEMENT"] = {
+							["r"] = 0.250980406999588,
+							["g"] = 1,
+							["b"] = 0.250980406999588,
+						},
+						["RealID Whisper"] = {
+							["b"] = 0.964705939404666,
+							["g"] = 1.00000005913898,
+							["r"] = 0,
+						},
+						["MONSTER_PARTY"] = {
+							["r"] = 0.666666686534882,
+							["g"] = 0.666666686534882,
+							["b"] = 1,
+						},
+						["BN_INLINE_TOAST_ALERT"] = {
+							["r"] = 0.509803950786591,
+							["g"] = 0.772549092769623,
+							["b"] = 1,
+						},
+						["CHANNEL4"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["BN_INLINE_TOAST_BROADCAST_INFORM"] = {
+							["r"] = 0.509803950786591,
+							["g"] = 0.772549092769623,
+							["b"] = 1,
+						},
+						["BN_CONVERSATION"] = {
+							["r"] = 0,
+							["g"] = 0.694117665290833,
+							["b"] = 0.941176533699036,
+						},
+						["oreo"] = {
+							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
+						},
+						["WHISPER_FOREIGN"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["RAID_WARNING"] = {
+							["r"] = 1,
+							["g"] = 0.282352954149246,
+							["b"] = 0,
+						},
+						["Say"] = {
+							["b"] = 1.00000005913898,
+							["g"] = 1.00000005913898,
+							["r"] = 1.00000005913898,
+						},
+						["BN_WHISPER"] = {
+							["r"] = 0,
+							["g"] = 1,
+							["b"] = 0.964705944061279,
+						},
+						["WHISPER_INFORM"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["MONSTER_WHISPER"] = {
+							["r"] = 1,
+							["g"] = 0.709803938865662,
+							["b"] = 0.921568691730499,
+						},
+						["CHANNEL_JOIN"] = {
+							["r"] = 0.752941250801086,
+							["g"] = 0.501960813999176,
+							["b"] = 0.501960813999176,
+						},
+						["fry"] = {
+							["r"] = 1.00000005913898,
+							["g"] = 0.752941220998764,
+							["b"] = 0.752941220998764,
+						},
+						["QUEST_BOSS_EMOTE"] = {
+							["b"] = 0.250980406999588,
+							["g"] = 0.501960813999176,
+							["r"] = 1,
+						},
+						["Guild"] = {
+							["b"] = 0.250980406999588,
+							["g"] = 1.00000005913898,
+							["r"] = 0.250980406999588,
+						},
+						["LocalDefense"] = {
+							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
+						},
+						["MONSTER_SAY"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 0.623529434204102,
+						},
+						["COMBAT_HONOR_GAIN"] = {
+							["r"] = 0.878431439399719,
+							["g"] = 0.792156934738159,
+							["b"] = 0.0392156876623631,
+						},
+						["CHANNEL5"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["TRADESKILLS"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["Trade"] = {
+							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
+						},
+						["Party"] = {
+							["b"] = 1.00000005913898,
+							["g"] = 0.666666706092656,
+							["r"] = 0.666666706092656,
+						},
+						["Battleground Leader"] = {
+							["b"] = 0.717647101264447,
+							["g"] = 0.858823580201715,
+							["r"] = 1.00000005913898,
+						},
+						["CHANNEL9"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["BG_SYSTEM_NEUTRAL"] = {
+							["r"] = 1,
+							["g"] = 0.470588266849518,
+							["b"] = 0.0392156876623631,
+						},
+						["MONEY"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 0,
+						},
+						["TEXT_EMOTE"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 0.250980406999588,
+						},
+						["WHISPER"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["GUILD_ITEM_LOOTED"] = {
+							["r"] = 0.250980406999588,
+							["g"] = 1,
+							["b"] = 0.250980406999588,
+						},
+						["RESTRICTED"] = {
+							["r"] = 1,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["Yell"] = {
+							["b"] = 0.250980406999588,
+							["g"] = 0.250980406999588,
+							["r"] = 1.00000005913898,
+						},
+						["GUILD"] = {
+							["r"] = 0.250980406999588,
+							["g"] = 1,
+							["b"] = 0.250980406999588,
+						},
+						["OPENING"] = {
+							["r"] = 0.501960813999176,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["INSTANCE_CHAT"] = {
+							["b"] = 0,
+							["g"] = 0.498039245605469,
+							["r"] = 1,
+						},
+						["Real ID Conversation"] = {
+							["b"] = 0.941176533699036,
+							["g"] = 0.694117665290833,
+							["r"] = 0,
+						},
+						["oqchannel"] = {
+							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
+						},
+						["COMBAT_FACTION_CHANGE"] = {
+							["r"] = 0.501960813999176,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["MONSTER_EMOTE"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 0.250980406999588,
+						},
+						["CHANNEL_LEAVE"] = {
+							["r"] = 0.752941250801086,
+							["g"] = 0.501960813999176,
+							["b"] = 0.501960813999176,
+						},
+						["AFK"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["ACHIEVEMENT"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 0,
+						},
+						["BN_WHISPER_INFORM"] = {
+							["r"] = 0,
+							["g"] = 1,
+							["b"] = 0.964705944061279,
+						},
+						["PET_INFO"] = {
+							["r"] = 0.501960813999176,
+							["g"] = 0.501960813999176,
+							["b"] = 1,
+						},
+						["Battleground"] = {
+							["b"] = 0,
+							["g"] = 0.498039245139808,
+							["r"] = 1.00000005913898,
+						},
+						["RealID Conversation"] = {
+							["b"] = 0.941176526248455,
+							["g"] = 0.694117688108236,
+							["r"] = 0,
+						},
+						["ARENA_POINTS"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["General"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["Instance Leader"] = {
+							["b"] = 0.0352941192686558,
+							["g"] = 0.282352954149246,
+							["r"] = 1,
+						},
+						["EMOTE"] = {
+							["r"] = 1,
+							["g"] = 0.501960813999176,
+							["b"] = 0.250980406999588,
+						},
+						["COMBAT_XP_GAIN"] = {
+							["r"] = 0.435294151306152,
+							["g"] = 0.435294151306152,
+							["b"] = 1,
+						},
+						["CHANNEL8"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["COMBAT_GUILD_XP_GAIN"] = {
+							["r"] = 0.435294151306152,
+							["g"] = 0.435294151306152,
+							["b"] = 1,
+						},
+						["LookingForGroup"] = {
+							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
+						},
+						["BG_SYSTEM_ALLIANCE"] = {
+							["r"] = 0,
+							["g"] = 0.682352960109711,
+							["b"] = 0.937254965305328,
+						},
+						["BG_SYSTEM_HORDE"] = {
+							["r"] = 1,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["PARTY_LEADER"] = {
+							["r"] = 0.462745130062103,
+							["g"] = 0.784313797950745,
+							["b"] = 1,
+						},
+						["CHANNEL2"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["CHANNEL_NOTICE"] = {
+							["r"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["RAID_BOSS_WHISPER"] = {
+							["r"] = 1,
+							["g"] = 0.866666734218597,
+							["b"] = 0,
+						},
+						["RAID_LEADER"] = {
+							["r"] = 1,
+							["g"] = 0.282352954149246,
+							["b"] = 0.0352941192686558,
+						},
+						["CHANNEL10"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["TARGETICONS"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 0,
+						},
+						["Party Leader"] = {
+							["b"] = 1.00000005913898,
+							["g"] = 0.784313771873713,
+							["r"] = 0.46274512540549,
+						},
+						["BATTLEGROUND_LEADER"] = {
+							["r"] = 1.00000005913898,
+							["g"] = 0.858823580201715,
+							["b"] = 0.717647101264447,
+						},
+						["Instance"] = {
+							["b"] = 0,
+							["g"] = 0.498039245605469,
+							["r"] = 1,
+						},
+						["FILTERED"] = {
+							["r"] = 1,
+							["g"] = 0,
+							["b"] = 0,
+						},
+						["thebench"] = {
+							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["BN_INLINE_TOAST_CONVERSATION"] = {
+							["r"] = 0.509803950786591,
+							["g"] = 0.772549092769623,
+							["b"] = 1,
+						},
+						["GuildRecruitment"] = {
+							["r"] = 1.00000005913898,
+							["g"] = 0.752941220998764,
+							["b"] = 0.752941220998764,
+						},
+						["BN_INLINE_TOAST_BROADCAST"] = {
+							["r"] = 0.509803950786591,
+							["g"] = 0.772549092769623,
+							["b"] = 1,
+						},
+						["RAID"] = {
+							["r"] = 1,
+							["g"] = 0.498039245605469,
+							["b"] = 0,
+						},
+						["CHANNEL_NOTICE_USER"] = {
+							["r"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
+						},
+						["PET_BATTLE_COMBAT_LOG"] = {
+							["b"] = 0.670588254928589,
+							["g"] = 0.870588302612305,
+							["r"] = 0.90588241815567,
+						},
+						["MONSTER_YELL"] = {
+							["r"] = 1,
+							["g"] = 0.250980406999588,
+							["b"] = 0.250980406999588,
+						},
+						["CURRENCY"] = {
+							["r"] = 0,
+							["g"] = 0.666666686534882,
+							["b"] = 0,
+						},
+						["CHANNEL_LIST"] = {
+							["r"] = 0.752941250801086,
+							["g"] = 0.501960813999176,
+							["b"] = 0.501960813999176,
+						},
+					},
+				},
+			},
+		},
+		["StickyChannels"] = {
+		},
+		["RealIdPolish"] = {
+		},
+		["ChatFrameBorders"] = {
+		},
+		["Buttons"] = {
+		},
+		["Server Positioning"] = {
+		},
+		["JustifyText"] = {
+		},
+		["Timestamps"] = {
+		},
+		["EditBox"] = {
+		},
+		["PlayerNames"] = {
+		},
+		["ChatTabs"] = {
+		},
+		["UrlCopy"] = {
+		},
+		["CopyChat"] = {
+		},
+		["ChannelNames"] = {
+		},
+		["Editbox History"] = {
+			["realm"] = {
+				["Whisperwind"] = {
+					["history"] = {
+						"/w Growll yeah ive been playing on another server :p", -- [1]
+						"/bartender", -- [2]
+						"/target riss", -- [3]
+						"/bartender", -- [4]
+						"/bartender", -- [5]
+					},
+				},
+				["The Forgotten Coast"] = {
+					["history"] = {
+						"/bartender", -- [1]
+						"/macro", -- [2]
+						"/bartender", -- [3]
+						"/bartender", -- [4]
+					},
+				},
+				["Turalyon"] = {
+					["history"] = {
+						"/g grief doesnt need one after all", -- [1]
+						" k then we got taugul to fill", -- [2]
+						"/p |cffff8000|Hitem:132444:5439:130220::::::110:73:::2:3459:3630:::|h[Prydaz, Xavaric's Magnum Opus]|h|r", -- [3]
+						" you almost done?", -- [4]
+						"/flex", -- [5]
+						"/readycheck", -- [6]
+						"/focus", -- [7]
+						"/g hey i have never fell for that", -- [8]
+						"/g i dont need to follow anyone", -- [9]
+						"/g lol", -- [10]
+						"/g im down for some pushing this morning sure", -- [11]
+						"/g lemme finish my chores first", -- [12]
+						"/g lol", -- [13]
+						"/g yeah i use like 7 different legendaries depeding on the situation", -- [14]
+						"/g so i gotta upgrade a bunch", -- [15]
+						"/g well remember my bis legendary is only useful if hero is actually on cd", -- [16]
+						"/g so i have to use a differnent one when hero is available in m+", -- [17]
+						"/g and depending on the boss fight its either soul or sephuz", -- [18]
+						"/weakauras", -- [19]
+						"/weakauras", -- [20]
+						"/g evening?!@ its 11:30 in the morning", -- [21]
+						"/weakauras", -- [22]
+						"/ec", -- [23]
+						"/g what does internal mail database error mean", -- [24]
+						"/g :/", -- [25]
+						"/g into my inventory?", -- [26]
+						"/g guess i need to open a ticket...", -- [27]
+						"/ec", -- [28]
+						"/g :/", -- [29]
+						"/g guess i need to open a ticket...", -- [30]
+						"/g :/", -- [31]
+						"/g :/", -- [32]
+					},
+				},
+				["Khadgar"] = {
+					["history"] = {
+						"/i hi", -- [1]
+						"/cw Talebelm-Alleria almost", -- [2]
+						"/cw Talebelm-Alleria now finished", -- [3]
+						"/cw Talebelm-Alleria thanks", -- [4]
+						"/i coming sorry", -- [5]
+						"/i dog was freaking out", -- [6]
+						"/macro", -- [7]
+						"/i not gonna heal?", -- [8]
+						"/i rd", -- [9]
+						"/i dont let croman die", -- [10]
+						"/i huh?", -- [11]
+						"/i ok...", -- [12]
+						"/i want to hero this guy?", -- [13]
+						"/i ^", -- [14]
+						"/reload", -- [15]
+						"/i interrupt", -- [16]
+						"/i the", -- [17]
+						"/i water", -- [18]
+						"/i guy", -- [19]
+						"/i sec", -- [20]
+						"/i k back", -- [21]
+						"/i interrupt the water guys heal", -- [22]
+						"/i but not anything else", -- [23]
+						"/i eh", -- [24]
+						"/i kill the pale ones", -- [25]
+						"/i that come", -- [26]
+						"/i didnt ask for warp", -- [27]
+						" sup", -- [28]
+						" whats a BT?", -- [29]
+						" oh, nah i don't think so", -- [30]
+						" oh its not taylor", -- [31]
+						" lol", -- [32]
+					},
+				},
+				["Bloodscalp"] = {
+					["history"] = {
+						" no kuz im the smartest of the smart", -- [1]
+						" also the drunkest of the drunk", -- [2]
+						"/macro", -- [3]
+						"/raid im on it", -- [4]
+						"/raid i'll dual box", -- [5]
+						"/raid in fact i might just lvl 9 more toons", -- [6]
+						"/raid and raid by myself", -- [7]
+						"/raid ur disc?! whoa", -- [8]
+						"/raid ah", -- [9]
+						"/raid u want me to/", -- [10]
+						"/raid ?", -- [11]
+						"/raid who we taking as our 10th", -- [12]
+						" someday", -- [13]
+						" over the rainbow", -- [14]
+						" you wish", -- [15]
+						"/raid we're past all the tier tokens anyway", -- [16]
+						"/raid man i bought all this beer", -- [17]
+						"/raid :<", -- [18]
+						"/raid o well", -- [19]
+						"/raid oh i will", -- [20]
+						"/s asdfasdf", -- [21]
+						"/s asdfasg", -- [22]
+						" i'm BIG BONED", -- [23]
+						" least thats what ur mom told me :OOOOOOOOOOOOOOOOOOO", -- [24]
+						" :(", -- [25]
+						"/i hes a boomkin", -- [26]
+						"/i sec", -- [27]
+						"/i he having technical difficulty", -- [28]
+						"/i why didnt u roll in it?", -- [29]
+						"/i on*", -- [30]
+						"/i oh", -- [31]
+						"/i new roll interace is weird", -- [32]
+					},
+				},
+				["Terokkar"] = {
+					["history"] = {
+						"/weakauras", -- [1]
+						"/p [WeakAuras: Adamn - Health 40% 2]", -- [2]
+						"/p [WeakAuras: Adamn - Selfless Healer 2]", -- [3]
+						"/p [WeakAuras: Adamn - Spark]", -- [4]
+						"/p [WeakAuras: Adamn - Str Flask]", -- [5]
+						"/p [WeakAuras: Adamn - Ret Cd]", -- [6]
+						"/weakauras", -- [7]
+						"/p m kay i like this one to track my vengeance", -- [8]
+						"/p [WeakAuras: Adamn - Atk Pwr]", -- [9]
+						"/p lol", -- [10]
+						"/p randomized appearance", -- [11]
+						"/p so ugly", -- [12]
+						"/p female too", -- [13]
+						"/p [WeakAuras: Adamn - Eternal Flame]", -- [14]
+						"/p [WeakAuras: Adamn - Health 40%]", -- [15]
+						"/p [WeakAuras: Adamn - Ret Cd]", -- [16]
+						"/p [WeakAuras: Adamn - SOTR]", -- [17]
+						"/p [WeakAuras: Adamn - Spark]", -- [18]
+						"/p [WeakAuras: Adamn - Str Flask]", -- [19]
+						"/p [WeakAuras: Adamn - Selfless Healer 2]", -- [20]
+						"/weakauras", -- [21]
+					},
+				},
+			},
+		},
+		["ChatFont"] = {
+		},
+		["Mousewheel Scroll"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Trasha - Bloodscalp"] = "Default",
+		["Bears - Bloodscalp"] = "Default",
+		["Wake - Bloodscalp"] = "Default",
+		["Christifur - Turalyon"] = "Default",
+		["Sunsong - Whisperwind"] = "Default",
+		["Amdam - Bloodscalp"] = "Default",
+		["Jeryn - Bloodscalp"] = "Default",
+		["Adrid - Turalyon"] = "Default",
+		["Batgril - Bloodscalp"] = "Default",
+		["Aduum - Turalyon"] = "Default",
+		["Dogs - Bloodscalp"] = "Default",
+		["Dewt - Turalyon"] = "Default",
+		["Adreya - Bloodscalp"] = "Default",
+		["Cliance - Bloodscalp"] = "Default",
+		["Adamancy - Khadgar"] = "Default",
+		["Amdamn - Bloodscalp"] = "Default",
+		["Fife - The Forgotten Coast"] = "Default",
+		["Adamancy - Turalyon"] = "Default",
+		["Amdamn - Turalyon"] = "Default",
+		["Furrys - Turalyon"] = "Default",
+		["Amdam - Turalyon"] = "Default",
+		["Badam - Turalyon"] = "Default",
+		["Christos - Turalyon"] = "Default",
+		["Badam - Bloodscalp"] = "Default",
+		["Caris - Turalyon"] = "Default",
+		["Liord - Turalyon"] = "Default",
+		["Ayano - Whisperwind"] = "Default",
+		["Adris - Turalyon"] = "Default",
+		["Adamn - Turalyon"] = "Default",
+		["Adamn - Terokkar"] = "Default",
+		["Elpy - Bloodscalp"] = "Default",
+		["Riltorber - Turalyon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["Auto Popup"] = false,
+			},
+			["welcomeMessaged"] = true,
+		},
+	},
+}

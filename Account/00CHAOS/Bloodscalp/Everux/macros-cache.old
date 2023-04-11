@@ -1,0 +1,13 @@
+MACRO 16777219 "B boy" Ability_Warrior_InnerRage
+/cast Berserker Stance
+/equip Shadow's Edge
+END
+MACRO 16777218 "Big sword" Ability_Warrior_OffensiveStance
+/cast Battle Stance
+/Equip Shadow's Edge
+END
+MACRO 16777217 "sword and board" Ability_Warrior_DefensiveStance
+/cast defensive stance
+/equip Falric's Wrist-Chopper
+/equip Royal Crest of Lordaeron
+END

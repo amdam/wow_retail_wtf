@@ -1,0 +1,2742 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Bears"] = {
+			["GUID"] = "0x0180000003D38151",
+			["LastEventHealth"] = {
+				"64 (90%)", -- [1]
+				"71 (100%)", -- [2]
+				"71 (100%)", -- [3]
+				"68 (95%)", -- [4]
+				"68 (95%)", -- [5]
+				"66 (92%)", -- [6]
+				"66 (92%)", -- [7]
+				"71 (100%)", -- [8]
+				"71 (100%)", -- [9]
+				"65 (91%)", -- [10]
+				"65 (91%)", -- [11]
+				"60 (84%)", -- [12]
+				"57 (80%)", -- [13]
+				"59 (83%)", -- [14]
+				"54 (76%)", -- [15]
+				"52 (73%)", -- [16]
+				"49 (69%)", -- [17]
+				"49 (69%)", -- [18]
+				"49 (69%)", -- [19]
+				"51 (71%)", -- [20]
+				"51 (71%)", -- [21]
+				"48 (67%)", -- [22]
+				"44 (61%)", -- [23]
+				"42 (59%)", -- [24]
+				"42 (59%)", -- [25]
+				"39 (54%)", -- [26]
+				"37 (52%)", -- [27]
+				"39 (54%)", -- [28]
+				"34 (47%)", -- [29]
+				"34 (47%)", -- [30]
+				"36 (50%)", -- [31]
+				"98 (100%)", -- [32]
+				"98 (100%)", -- [33]
+				"98 (100%)", -- [34]
+				"98 (100%)", -- [35]
+				"98 (100%)", -- [36]
+				"68 (95%)", -- [37]
+				"68 (95%)", -- [38]
+				"68 (95%)", -- [39]
+				"67 (94%)", -- [40]
+				"64 (90%)", -- [41]
+				"71 (100%)", -- [42]
+				"71 (100%)", -- [43]
+				"68 (95%)", -- [44]
+				"68 (95%)", -- [45]
+				"71 (100%)", -- [46]
+				"71 (100%)", -- [47]
+				"68 (95%)", -- [48]
+				"70 (98%)", -- [49]
+				"67 (94%)", -- [50]
+			},
+			["LastAttackedBy"] = "Captive Spitescale Scout",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"HEAL", -- [34]
+				"HEAL", -- [35]
+				"HEAL", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					10.85, -- [1]
+				},
+				["ActiveTime"] = {
+					117.7, -- [1]
+				},
+				["TimeDamage"] = {
+					106.85, -- [1]
+				},
+				["Healing"] = {
+					623, -- [1]
+				},
+				["DamageTaken"] = {
+					104, -- [1]
+				},
+				["Damage"] = {
+					691, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = "Bears",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 8,
+			["LastEventNum"] = {
+				[15] = 2.816901408450704,
+				[30] = 7.042253521126761,
+				[4] = 4.225352112676056,
+				[16] = 7.042253521126761,
+				[9] = 7.042253521126761,
+				[37] = 4.225352112676056,
+				[10] = 8.450704225352112,
+				[39] = 4.225352112676056,
+				[40] = 4.225352112676056,
+				[22] = 7.042253521126761,
+				[44] = 4.225352112676056,
+				[6] = 4.225352112676056,
+				[12] = 4.225352112676056,
+				[23] = 2.816901408450704,
+				[48] = 4.225352112676056,
+				[49] = 4.225352112676056,
+				[13] = 7.042253521126761,
+				[26] = 2.816901408450704,
+				[25] = 7.042253521126761,
+				[27] = 7.042253521126761,
+				[20] = 4.225352112676056,
+				[50] = 4.225352112676056,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 5,
+			["TimeLast"] = {
+				["TimeHeal"] = 1290649387,
+				["Healing"] = 1290649387,
+				["ActiveTime"] = 1290649387,
+				["TimeDamage"] = 1290649311,
+				["OVERALL"] = 1290649387,
+				["DamageTaken"] = 1290649311,
+				["Damage"] = 1290649311,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 718974.198,
+			["NextEventNum"] = 37,
+			["LastEventHealthNum"] = {
+				90.14084507042253, -- [1]
+				100, -- [2]
+				100, -- [3]
+				95.77464788732394, -- [4]
+				95.77464788732394, -- [5]
+				92.95774647887323, -- [6]
+				92.95774647887323, -- [7]
+				100, -- [8]
+				100, -- [9]
+				91.54929577464789, -- [10]
+				91.54929577464789, -- [11]
+				84.50704225352112, -- [12]
+				80.28169014084507, -- [13]
+				83.09859154929578, -- [14]
+				76.05633802816901, -- [15]
+				73.23943661971831, -- [16]
+				69.01408450704226, -- [17]
+				69.01408450704226, -- [18]
+				69.01408450704226, -- [19]
+				71.83098591549296, -- [20]
+				71.83098591549296, -- [21]
+				67.6056338028169, -- [22]
+				61.9718309859155, -- [23]
+				59.15492957746479, -- [24]
+				59.15492957746479, -- [25]
+				54.92957746478874, -- [26]
+				52.11267605633803, -- [27]
+				54.92957746478874, -- [28]
+				47.88732394366197, -- [29]
+				47.88732394366197, -- [30]
+				50.70422535211268, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				95.77464788732394, -- [37]
+				95.77464788732394, -- [38]
+				95.77464788732394, -- [39]
+				94.36619718309859, -- [40]
+				90.14084507042253, -- [41]
+				100, -- [42]
+				100, -- [43]
+				95.77464788732394, -- [44]
+				95.77464788732394, -- [45]
+				100, -- [46]
+				100, -- [47]
+				95.77464788732394, -- [48]
+				98.59154929577464, -- [49]
+				94.36619718309859, -- [50]
+			},
+			["LastEvents"] = {
+				"Bears Wrath Wildmane Cat Hit -16 (Nature)", -- [1]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [2]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [3]
+				"Wildmane Cat Leaping Rush Bears Hit -3 (Physical)", -- [4]
+				"Wildmane Cat Melee Bears Miss", -- [5]
+				"Wildmane Cat Swipe Bears Hit -3 (Physical)", -- [6]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [7]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [8]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [9]
+				"Captive Spitescale Scout Frost Shock Bears Hit -6 (Frost)", -- [10]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [11]
+				"Captive Spitescale Scout Melee Bears Hit -3 (Physical)", -- [12]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [13]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [14]
+				"Captive Spitescale Scout Melee Bears Hit -2 (Physical)", -- [15]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [16]
+				"Bears Melee Captive Spitescale Scout Hit -9 (Physical)", -- [17]
+				"Captive Spitescale Scout Melee Bears Miss", -- [18]
+				"Captive Spitescale Scout Melee Bears Miss", -- [19]
+				"Captive Spitescale Scout Melee Bears Hit -3 (Physical)", -- [20]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [21]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [22]
+				"Captive Spitescale Scout Melee Bears Hit -2 (Physical)", -- [23]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [24]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [25]
+				"Captive Spitescale Scout Melee Bears Hit -2 (Physical)", -- [26]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [27]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [28]
+				"Captive Spitescale Scout Melee Bears Miss", -- [29]
+				"Captive Spitescale Scout Melee Bears Hit -5 (Physical)", -- [30]
+				"Bears Wrath Captive Spitescale Scout Hit -16 (Nature)", -- [31]
+				"Bears Healing Touch Wounded Darkspear Watcher Hit +120", -- [32]
+				"Bears Healing Touch Wounded Darkspear Watcher Hit +129", -- [33]
+				"Bears Healing Touch Wounded Darkspear Watcher Hit +127", -- [34]
+				"Bears Healing Touch Wounded Darkspear Watcher Hit +119", -- [35]
+				"Bears Healing Touch Wounded Darkspear Watcher Hit +128", -- [36]
+				"Wildmane Cat Leaping Rush Bears Hit -3 (Physical)", -- [37]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [38]
+				"Wildmane Cat Melee Bears Hit -3 (Physical)", -- [39]
+				"Wildmane Cat Swipe Bears Hit -3 (Physical)", -- [40]
+				"Bears Wrath Wildmane Cat Hit -16 (Nature)", -- [41]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [42]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [43]
+				"Wildmane Cat Leaping Rush Bears Hit -3 (Physical)", -- [44]
+				"Bears Wrath Wildmane Cat Hit -16 (Nature)", -- [45]
+				"Bears Wrath Wildmane Cat Hit -17 (Nature)", -- [46]
+				"Bears Wrath Wildmane Cat Hit -16 (Nature)", -- [47]
+				"Wildmane Cat Leaping Rush Bears Hit -3 (Physical)", -- [48]
+				"Wildmane Cat Melee Bears Hit -3 (Physical)", -- [49]
+				"Wildmane Cat Swipe Bears Hit -3 (Physical)", -- [50]
+			},
+			["Name"] = "Bears",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				true, -- [10]
+				false, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				true, -- [15]
+				true, -- [16]
+				false, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				true, -- [23]
+				false, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				false, -- [28]
+				true, -- [29]
+				true, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				true, -- [37]
+				false, -- [38]
+				true, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				true, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				true, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				718784.241, -- [1]
+				718795.0480000001, -- [2]
+				718796.632, -- [3]
+				718797.133, -- [4]
+				718797.134, -- [5]
+				718797.9030000001, -- [6]
+				718798.402, -- [7]
+				718883.2880000001, -- [8]
+				718884.54, -- [9]
+				718884.542, -- [10]
+				718884.889, -- [11]
+				718885.407, -- [12]
+				718886.442, -- [13]
+				718886.691, -- [14]
+				718887.593, -- [15]
+				718888.51, -- [16]
+				718889.378, -- [17]
+				718889.628, -- [18]
+				718890.495, -- [19]
+				718891.497, -- [20]
+				718891.98, -- [21]
+				718892.397, -- [22]
+				718893.649, -- [23]
+				718894.15, -- [24]
+				718894.417, -- [25]
+				718895.634, -- [26]
+				718896.6020000001, -- [27]
+				718896.603, -- [28]
+				718897.469, -- [29]
+				718898.6040000001, -- [30]
+				718898.605, -- [31]
+				718966.841, -- [32]
+				718969.143, -- [33]
+				718970.9620000001, -- [34]
+				718972.547, -- [35]
+				718974.198, -- [36]
+				718752.655, -- [37]
+				718752.905, -- [38]
+				718753.405, -- [39]
+				718753.639, -- [40]
+				718754.823, -- [41]
+				718768.938, -- [42]
+				718771.123, -- [43]
+				718771.858, -- [44]
+				718772.107, -- [45]
+				718781.439, -- [46]
+				718782.659, -- [47]
+				718782.902, -- [48]
+				718783.99, -- [49]
+				718783.991, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 9,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+						["Physical"] = 6,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 50,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Nature"] = 50,
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 50,
+								},
+							},
+							["amount"] = 50,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Leaping Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 7.32,
+								},
+							},
+							["amount"] = 7.32,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.32,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 17,
+									["min"] = 16,
+									["count"] = 3,
+									["amount"] = 50,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 50,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.32,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 7.32,
+								},
+							},
+							["amount"] = 7.32,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 17,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 51,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 51,
+						},
+					},
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.85,
+								},
+							},
+							["amount"] = 6.85,
+						},
+						["Tiki Target"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 6,
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 3,
+								},
+								["Leaping Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementDone"] = {
+						["Nature"] = 51,
+					},
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 51,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Tiki Target"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 6.85,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.85,
+								},
+							},
+							["amount"] = 6.85,
+						},
+						["Tiki Target"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 6,
+					},
+					["ActiveTime"] = 6.85,
+					["Damage"] = 51,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 10.85,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Nature"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Leaping Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Wounded Darkspear Watcher"] = {
+							["Details"] = {
+								["Healing Touch"] = {
+									["count"] = 10.85,
+								},
+							},
+							["amount"] = 10.85,
+						},
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Wounded Darkspear Watcher"] = {
+							["Details"] = {
+								["Healing Touch"] = {
+									["count"] = 623,
+								},
+							},
+							["amount"] = 623,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Wounded Darkspear Watcher"] = {
+							["Details"] = {
+								["Healing Touch"] = {
+									["count"] = 10.85,
+								},
+							},
+							["amount"] = 10.85,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Healing Touch"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 129,
+									["min"] = 119,
+									["count"] = 5,
+									["amount"] = 623,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 623,
+						},
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 10.85,
+					["Healing"] = 623,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 9,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+						["Physical"] = 6,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 49,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Nature"] = 49,
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 49,
+								},
+							},
+							["amount"] = 49,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 3,
+								},
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Leaping Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.3,
+								},
+							},
+							["amount"] = 6.3,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 6.3,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 17,
+									["min"] = 16,
+									["count"] = 3,
+									["amount"] = 49,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 49,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 6.3,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.3,
+								},
+							},
+							["amount"] = 6.3,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 3,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 50,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Nature"] = 50,
+					},
+					["PartialAbsorb"] = {
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 50,
+								},
+							},
+							["amount"] = 50,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Leaping Rush"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.67,
+								},
+							},
+							["amount"] = 6.67,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 6.67,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 17,
+									["min"] = 16,
+									["count"] = 3,
+									["amount"] = 50,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 50,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 6.67,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.67,
+								},
+							},
+							["amount"] = 6.67,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 53,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 47,
+						["Frost"] = 6,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 121,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 9,
+						["Nature"] = 112,
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Shock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 112,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 121,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Leaping Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 47,
+								},
+								["Frost Shock"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 53,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Shock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 16.12,
+								},
+								["Melee"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 18.81,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 18.81,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 16,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 112,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 112,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 9,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 18.81,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 16.12,
+								},
+								["Melee"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 18.81,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 53,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 47,
+						["Frost"] = 6,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 121,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 9,
+						["Nature"] = 112,
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Shock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 112,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 121,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Leaping Rush"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 47,
+								},
+								["Frost Shock"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 53,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Shock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 16.12,
+								},
+								["Melee"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 18.81,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 18.81,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 16,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 112,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 112,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 9,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 18.81,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 16.12,
+								},
+								["Melee"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 18.81,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Wounded Darkspear Watcher"] = {
+							["Details"] = {
+								["Healing Touch"] = {
+									["count"] = 10.85,
+								},
+							},
+							["amount"] = 10.85,
+						},
+					},
+					["TimeSpent"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 42.83,
+								},
+							},
+							["amount"] = 42.83,
+						},
+						["Wounded Darkspear Watcher"] = {
+							["Details"] = {
+								["Healing Touch"] = {
+									["count"] = 10.85,
+								},
+							},
+							["amount"] = 10.85,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 16.12,
+								},
+								["Melee"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 18.81,
+						},
+						["Tiki Target"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 45.20999999999999,
+								},
+							},
+							["amount"] = 45.20999999999999,
+						},
+					},
+					["DamageTaken"] = 104,
+					["PartialResist"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Frost Shock"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 22,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Swipe"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Frost Shock"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 22,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 0,
+						},
+						["Leaping Rush"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 117.7,
+					["ElementTaken"] = {
+						["Physical"] = 33,
+						["Melee"] = 65,
+						["Frost"] = 6,
+					},
+					["Damage"] = 691,
+					["TimeHeal"] = 10.85,
+					["Healing"] = 623,
+					["HealedWho"] = {
+						["Wounded Darkspear Watcher"] = {
+							["Details"] = {
+								["Healing Touch"] = {
+									["count"] = 623,
+								},
+							},
+							["amount"] = 623,
+						},
+					},
+					["Heals"] = {
+						["Healing Touch"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 129,
+									["min"] = 119,
+									["count"] = 5,
+									["amount"] = 623,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 623,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 9,
+						["Nature"] = 682,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 22,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamagedWho"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 300,
+								},
+							},
+							["amount"] = 300,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 112,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 121,
+						},
+						["Tiki Target"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 270,
+								},
+							},
+							["amount"] = 270,
+						},
+					},
+					["TimeDamage"] = 106.85,
+					["TimeDamaging"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 42.83,
+								},
+							},
+							["amount"] = 42.83,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 16.12,
+								},
+								["Melee"] = {
+									["count"] = 2.69,
+								},
+							},
+							["amount"] = 18.81,
+						},
+						["Tiki Target"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 45.20999999999999,
+								},
+							},
+							["amount"] = 45.20999999999999,
+						},
+					},
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 22,
+									["min"] = 22,
+									["count"] = 1,
+									["amount"] = 22,
+								},
+								["Hit"] = {
+									["max"] = 17,
+									["min"] = 14,
+									["count"] = 42,
+									["amount"] = 660,
+								},
+							},
+							["count"] = 45,
+							["amount"] = 682,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 9,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+					},
+					["WhoDamaged"] = {
+						["Wildmane Cat"] = {
+							["Details"] = {
+								["Swipe"] = {
+									["count"] = 15,
+								},
+								["Melee"] = {
+									["count"] = 18,
+								},
+								["Leaping Rush"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Captive Spitescale Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 47,
+								},
+								["Frost Shock"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 53,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 42,
+								},
+							},
+							["amount"] = 45,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1290648985,
+			["LastActive"] = 1290649387,
+		},
+	},
+	["FightNum"] = 8,
+	["CombatTimes"] = {
+		{
+			1290648985, -- [1]
+			1290649034, -- [2]
+			"18:36:25", -- [3]
+			"18:37:14", -- [4]
+			"Tiki Target", -- [5]
+		}, -- [1]
+		{
+			1290649103, -- [1]
+			1290649110, -- [2]
+			"18:38:23", -- [3]
+			"18:38:30", -- [4]
+			"Wildmane Cat", -- [5]
+		}, -- [2]
+		{
+			1290649147, -- [1]
+			1290649152, -- [2]
+			"18:39:07", -- [3]
+			"18:39:12", -- [4]
+			"Wildmane Cat", -- [5]
+		}, -- [3]
+		{
+			1290649164, -- [1]
+			1290649170, -- [2]
+			"18:39:24", -- [3]
+			"18:39:30", -- [4]
+			"Wildmane Cat", -- [5]
+		}, -- [4]
+		{
+			1290649182, -- [1]
+			1290649187, -- [2]
+			"18:39:42", -- [3]
+			"18:39:47", -- [4]
+			"Wildmane Cat", -- [5]
+		}, -- [5]
+		{
+			1290649194, -- [1]
+			1290649199, -- [2]
+			"18:39:54", -- [3]
+			"18:39:59", -- [4]
+			"Wildmane Cat", -- [5]
+		}, -- [6]
+		{
+			1290649208, -- [1]
+			1290649213, -- [2]
+			"18:40:08", -- [3]
+			"18:40:13", -- [4]
+			"Wildmane Cat", -- [5]
+		}, -- [7]
+		{
+			1290649296, -- [1]
+			1290649314, -- [2]
+			"18:41:36", -- [3]
+			"18:41:54", -- [4]
+			"Captive Spitescale Scout", -- [5]
+		}, -- [8]
+	},
+	["FoughtWho"] = {
+		"Captive Spitescale Scout 18:41:36-18:41:54", -- [1]
+		"Wildmane Cat 18:40:08-18:40:13", -- [2]
+		"Wildmane Cat 18:39:54-18:39:59", -- [3]
+		"Wildmane Cat 18:39:42-18:39:47", -- [4]
+		"Wildmane Cat 18:39:24-18:39:30", -- [5]
+	},
+}

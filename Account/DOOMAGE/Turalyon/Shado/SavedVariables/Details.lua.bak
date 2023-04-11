@@ -1,0 +1,32541 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 54,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00525,
+							["spec"] = 260,
+							["damage_from"] = {
+								["Amani Warrior"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00525,
+							["aID"] = "3685-0DE330E0",
+							["dps_started"] = false,
+							["total"] = 0.00525,
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1659050609,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 106.00525,
+							["start_time"] = 1659050609,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 14.008937,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Shado"] = 106,
+							},
+							["total"] = 106.008937,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 106.008937,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659050609,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 45,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Shado"] = 85,
+										},
+										["n_dmg"] = 40,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 85,
+										["c_max"] = 45,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 45,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[43519] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8,
+										["targets"] = {
+											["Shado"] = 21,
+										},
+										["n_dmg"] = 21,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 21,
+										["c_max"] = 0,
+										["id"] = 43519,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 3,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-00006319DB",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050594,
+							["damage_taken"] = 0.008937,
+							["start_time"] = 1659050601,
+							["delay"] = 1659050594,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 54,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.003257,
+							["total_without_pet"] = 37.00325700000001,
+							["total"] = 37.00325700000001,
+							["targets_absorbs"] = {
+								["Shado"] = 37,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 37.00325700000001,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 37,
+							},
+							["totalover_without_pet"] = 0.003257,
+							["healing_taken"] = 37.00325700000001,
+							["fight_component"] = true,
+							["end_time"] = 1659050609,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 37,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 23,
+										["targets"] = {
+											["Shado"] = 37,
+										},
+										["n_min"] = 6,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 37,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 37,
+										},
+										["n_amt"] = 3,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 37,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050601,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003257,
+							["delay"] = 1659050594,
+							["last_event"] = 1659050594,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 54,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 54,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["fight_component"] = true,
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 260,
+							["grupo"] = true,
+							["nome"] = "Shado",
+							["buff_uptime"] = 100,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["tipo"] = 4,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 22,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[259395] = {
+										["activedamt"] = 1,
+										["id"] = 259395,
+										["targets"] = {
+										},
+										["uptime"] = 22,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 22,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 22,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["last_event"] = 1659050609,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Amani Warrior",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[43519] = 3,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-120900-00006319E3",
+							["aID"] = "120900",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 54,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["tempo_start"] = 1659050587,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 72,
+				["playing_solo"] = true,
+				["totals"] = {
+					105.9784250000001, -- [1]
+					36.99554899999998, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					37, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["data_fim"] = "17:23:29",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 136320.388,
+				["CombatEndedAt"] = 136320.388,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 37.00325700000001,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 0.00525,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 136320.388,
+				["combat_id"] = 54,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "17:23:07",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+				},
+				["start_time"] = 136298.703,
+				["TimeData"] = {
+				},
+				["contra"] = "Amani Warrior",
+			}, -- [1]
+			{
+				{
+					["combatId"] = 53,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.0027,
+							["damage_from"] = {
+								["Disciple of Nalorakk"] = true,
+							},
+							["targets"] = {
+								["Disciple of Nalorakk"] = 922,
+							},
+							["pets"] = {
+							},
+							["total"] = 922.0027,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 922.0027,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050574,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 110,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 301,
+										},
+										["n_dmg"] = 191,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["total"] = 301,
+										["c_max"] = 57,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 53,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 73,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 73,
+										},
+										["n_dmg"] = 73,
+										["n_min"] = 73,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 73,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 108,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 108,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 108,
+										["c_max"] = 108,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 108,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 39,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 93,
+										},
+										["n_dmg"] = 54,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 93,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 9,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 82,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 123,
+										},
+										["n_dmg"] = 41,
+										["n_min"] = 41,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 123,
+										["c_max"] = 82,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 82,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 161,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 161,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 161,
+										["c_max"] = 161,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 161,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 63,
+										},
+										["n_dmg"] = 63,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 63,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 86.56489531489171,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 97.0027,
+							["start_time"] = 1659050563,
+							["delay"] = 0,
+							["last_event"] = 1659050573,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 8.008655,
+							["aID"] = "120949",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 97,
+							},
+							["fight_component"] = true,
+							["pets"] = {
+							},
+							["end_time"] = 1659050587,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 97.008655,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 97.008655,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Disciple of Nalorakk",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 59,
+										},
+										["n_dmg"] = 59,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 59,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 4,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[270992] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 38,
+										},
+										["n_dmg"] = 38,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 38,
+										["c_max"] = 0,
+										["id"] = 270992,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-120949-0000631A20",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050577,
+							["damage_taken"] = 922.008655,
+							["start_time"] = 1659050573,
+							["delay"] = 1659050577,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 53,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.002342,
+							["total_without_pet"] = 27.002342,
+							["total"] = 27.002342,
+							["targets_absorbs"] = {
+								["Shado"] = 8,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 8.002342,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 27,
+							},
+							["totalover_without_pet"] = 0.002342,
+							["healing_taken"] = 27.002342,
+							["fight_component"] = true,
+							["end_time"] = 1659050574,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 8,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 8,
+										["targets"] = {
+											["Shado"] = 8,
+										},
+										["n_min"] = 8,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 8,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 8,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 8,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050564,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.002342,
+							["delay"] = 0,
+							["last_event"] = 1659050573,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 53,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004804,
+							["resource"] = 3.004804,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.004804,
+							["fight_component"] = true,
+							["total"] = 0.004804,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004804,
+							["last_event"] = 1659050568,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.004804,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 53,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 46,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 5,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 1,
+								[8676] = 1,
+								[315496] = 1,
+								[196819] = 1,
+								[185763] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050574,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Disciple of Nalorakk",
+							["flag_original"] = 68168,
+							["spell_cast"] = {
+								[270992] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-120949-0000631A20",
+							["aID"] = "120949",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 53,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136298.153,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 71,
+				["playing_solo"] = true,
+				["totals"] = {
+					1018.995297, -- [1]
+					27, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							270992, -- [2]
+							5, -- [3]
+							1659050576.149, -- [4]
+							835, -- [5]
+							"Disciple of Nalorakk", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+							true, -- [1]
+							270992, -- [2]
+							5, -- [3]
+							1659050578.182, -- [4]
+							842, -- [5]
+							"Disciple of Nalorakk", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:22:55",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Disciple of Nalorakk",
+				["TotalElapsedCombatTime"] = 136285.852,
+				["CombatEndedAt"] = 136285.852,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:22:44",
+				["end_time"] = 136285.852,
+				["combat_id"] = 53,
+				["tempo_start"] = 1659050563,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Disciple of Nalorakk"] = 1,
+				},
+				["totals_grupo"] = {
+					922, -- [1]
+					27, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 27.002342,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 922.0027,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136275.201,
+				["contra"] = "Disciple of Nalorakk",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 52,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007048,
+							["damage_from"] = {
+								["Disciple of Akil'zon"] = true,
+								["Soaring Eagle"] = true,
+							},
+							["targets"] = {
+								["Disciple of Akil'zon"] = 744,
+								["Soaring Eagle"] = 225,
+							},
+							["pets"] = {
+							},
+							["total"] = 969.0070479999999,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 969.0070479999999,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050556,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 176,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Disciple of Akil'zon"] = 292,
+											["Soaring Eagle"] = 113,
+										},
+										["n_dmg"] = 229,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 405,
+										["c_max"] = 59,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 2,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 58,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Disciple of Akil'zon"] = 60,
+										},
+										["n_dmg"] = 60,
+										["n_min"] = 30,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 60,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 79,
+										["targets"] = {
+											["Soaring Eagle"] = 79,
+										},
+										["n_dmg"] = 79,
+										["n_min"] = 79,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 79,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 39,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Disciple of Akil'zon"] = 62,
+											["Soaring Eagle"] = 13,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 75,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 44,
+										["targets"] = {
+											["Disciple of Akil'zon"] = 175,
+										},
+										["n_dmg"] = 175,
+										["n_min"] = 43,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 175,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 69,
+										["targets"] = {
+											["Disciple of Akil'zon"] = 69,
+										},
+										["n_dmg"] = 69,
+										["n_min"] = 69,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 69,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22,
+										["targets"] = {
+											["Disciple of Akil'zon"] = 86,
+											["Soaring Eagle"] = 20,
+										},
+										["n_dmg"] = 106,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 106,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 261,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 57.90648069799143,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 99.007048,
+							["start_time"] = 1659050539,
+							["delay"] = 0,
+							["last_event"] = 1659050555,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001004,
+							["total"] = 79.001004,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 79,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 79.001004,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050556,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Disciple of Akil'zon",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_dmg"] = 18,
+										["n_min"] = 18,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[270929] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61,
+										["targets"] = {
+											["Shado"] = 61,
+										},
+										["n_dmg"] = 61,
+										["n_min"] = 61,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 61,
+										["c_max"] = 0,
+										["id"] = 270929,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[270905] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 270905,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120946",
+							["serial"] = "Creature-0-3023-1642-22445-120946-0000631A20",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050544,
+							["damage_taken"] = 744.001004,
+							["start_time"] = 1659050551,
+							["delay"] = 1659050544,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 8.001318999999999,
+							["total"] = 20.001319,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 20,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 20.001319,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050556,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Soaring Eagle",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Shado"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 3,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 20,
+										["c_max"] = 0,
+										["a_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "137720",
+							["serial"] = "Creature-0-3023-1642-22445-137720-0000631A31",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050553,
+							["damage_taken"] = 225.001319,
+							["start_time"] = 1659050548,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 52,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.002015,
+							["total_without_pet"] = 65.002015,
+							["total"] = 65.002015,
+							["targets_absorbs"] = {
+								["Shado"] = 8,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 8.002015,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 65,
+							},
+							["totalover_without_pet"] = 0.002015,
+							["healing_taken"] = 65.002015,
+							["fight_component"] = true,
+							["end_time"] = 1659050556,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 8,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 4,
+										["targets"] = {
+											["Shado"] = 8,
+										},
+										["n_min"] = 4,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 8,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 8,
+										},
+										["n_amt"] = 2,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 8,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 57,
+										},
+										["n_min"] = 19,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 57,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 57,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050547,
+							["spec"] = 261,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.002015,
+							["delay"] = 0,
+							["last_event"] = 1659050555,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 52,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006806,
+							["resource"] = 7.006806,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006806,
+							["fight_component"] = true,
+							["total"] = 0.006806,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 261,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006806,
+							["last_event"] = 1659050563,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.006806,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 52,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["fight_component"] = true,
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["nome"] = "Shado",
+							["spec"] = 261,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[196819] = 1,
+								[185763] = 1,
+								[315496] = 1,
+								[193315] = 3,
+							},
+							["pets"] = {
+							},
+							["buff_uptime"] = 68,
+							["classe"] = "ROGUE",
+							["tipo"] = 4,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 2,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["last_event"] = 1659050556,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Disciple of Akil'zon",
+							["flag_original"] = 68168,
+							["spell_cast"] = {
+								[270929] = 1,
+								[270905] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-120946-0000631A20",
+							["aID"] = "120946",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 52,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136274.834,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 70,
+				["playing_solo"] = true,
+				["totals"] = {
+					1067.992137, -- [1]
+					65, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:22:36",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Disciple of Akil'zon",
+				["TotalElapsedCombatTime"] = 136267.4,
+				["CombatEndedAt"] = 136267.4,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:22:19",
+				["end_time"] = 136267.4,
+				["combat_id"] = 52,
+				["tempo_start"] = 1659050539,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Disciple of Akil'zon"] = 1,
+					["Soaring Eagle"] = 2,
+				},
+				["totals_grupo"] = {
+					969, -- [1]
+					65, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 65.002015,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 969.0070479999999,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136250.666,
+				["contra"] = "Disciple of Akil'zon",
+				["TimeData"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["combatId"] = 51,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002604,
+							["damage_from"] = {
+								["Disciple of Akil'zon"] = true,
+								["Disciple of Halazzi"] = true,
+							},
+							["targets"] = {
+								["Healing Totem <Disciple of Halazzi>"] = 100,
+								["Disciple of Halazzi"] = 924,
+							},
+							["pets"] = {
+							},
+							["spec"] = 260,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1024.002604,
+							["end_time"] = 1659050531,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 1024.002604,
+							["aID"] = "3685-0DE330E0",
+							["classe"] = "ROGUE",
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 217,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Healing Totem <Disciple of Halazzi>"] = 94,
+											["Disciple of Halazzi"] = 423,
+										},
+										["n_dmg"] = 300,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 517,
+										["c_max"] = 57,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 26,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 14,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Disciple of Halazzi"] = 28,
+										},
+										["n_dmg"] = 28,
+										["n_min"] = 28,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 28,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 63,
+										["g_amt"] = 0,
+										["n_max"] = 78,
+										["targets"] = {
+											["Disciple of Halazzi"] = 141,
+										},
+										["n_dmg"] = 78,
+										["n_min"] = 78,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 141,
+										["c_max"] = 63,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 63,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Disciple of Halazzi"] = 21,
+										},
+										["n_dmg"] = 21,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Disciple of Halazzi"] = 202,
+										},
+										["n_dmg"] = 202,
+										["n_min"] = 39,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 202,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66,
+										["targets"] = {
+											["Disciple of Halazzi"] = 66,
+										},
+										["n_dmg"] = 66,
+										["n_min"] = 66,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 66,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 13,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Healing Totem <Disciple of Halazzi>"] = 6,
+											["Disciple of Halazzi"] = 43,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 49,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 54.1256199587876,
+							["custom"] = 0,
+							["last_event"] = 1659050529,
+							["damage_taken"] = 184.002604,
+							["start_time"] = 1659050512,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008966,
+							["aID"] = "120951",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 165,
+							},
+							["end_time"] = 1659050531,
+							["pets"] = {
+								"Healing Totem <Disciple of Halazzi>", -- [1]
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 165.008966,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 165.008966,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Disciple of Halazzi",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Shado"] = 116,
+										},
+										["n_dmg"] = 116,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 116,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[271026] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 271026,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[271025] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 49,
+										["targets"] = {
+											["Shado"] = 49,
+										},
+										["n_dmg"] = 49,
+										["n_min"] = 49,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 49,
+										["c_max"] = 0,
+										["id"] = 271025,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-120951-000063195B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050529,
+							["damage_taken"] = 924.008966,
+							["start_time"] = 1659050512,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 74312,
+							["totalabsorbed"] = 0.001308,
+							["aID"] = "137769",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-137769-0000631A12",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["on_hold"] = false,
+							["classe"] = "PET",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001308,
+							["dps_started"] = false,
+							["end_time"] = 1659050531,
+							["friendlyfire_total"] = 0,
+							["ownerName"] = "Disciple of Halazzi",
+							["nome"] = "Healing Totem <Disciple of Halazzi>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["total"] = 0.001308,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 100.001308,
+							["start_time"] = 1659050531,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 51,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.00474,
+							["total_without_pet"] = 38.00474,
+							["total"] = 38.00474,
+							["targets_absorbs"] = {
+								["Shado"] = 19,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 19.00474,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 38,
+							},
+							["totalover_without_pet"] = 0.00474,
+							["healing_taken"] = 38.00474,
+							["fight_component"] = true,
+							["end_time"] = 1659050539,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 19,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 19,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050529,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.00474,
+							["delay"] = 0,
+							["last_event"] = 1659050538,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 51,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001806,
+							["resource"] = 7.001806,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001806,
+							["fight_component"] = true,
+							["total"] = 0.001806,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001806,
+							["last_event"] = 1659050529,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001806,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 51,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 78,
+							["aID"] = "3685-0DE330E0",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[1766] = {
+										["id"] = 1766,
+										["interrompeu_oque"] = {
+											[271025] = 1,
+										},
+										["targets"] = {
+											["Disciple of Halazzi"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[271025] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 7,
+							["interrupt_targets"] = {
+								["Disciple of Halazzi"] = 1,
+							},
+							["interrupt"] = 1.002533,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 4,
+								[185763] = 2,
+								[1766] = 1,
+								[196819] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050531,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Disciple of Halazzi",
+							["flag_original"] = 68168,
+							["spell_cast"] = {
+								[271026] = 1,
+								[271025] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-120951-000063195B",
+							["aID"] = "120951",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 51,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136250.066,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 69,
+				["playing_solo"] = true,
+				["totals"] = {
+					1188.994189, -- [1]
+					38, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							19, -- [3]
+							1659050539.263, -- [4]
+							834, -- [5]
+							"Disciple of Akil'zon", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+							false, -- [1]
+							312215, -- [2]
+							19, -- [3]
+							1659050539.263, -- [4]
+							834, -- [5]
+							"Shado", -- [6]
+							true, -- [7]
+							0, -- [8]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:22:11",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Disciple of Halazzi",
+				["TotalElapsedCombatTime"] = 136242.299,
+				["CombatEndedAt"] = 136242.299,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:21:52",
+				["end_time"] = 136242.299,
+				["combat_id"] = 51,
+				["tempo_start"] = 1659050512,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Healing Totem"] = 1,
+					["Disciple of Halazzi"] = 1,
+				},
+				["totals_grupo"] = {
+					1024, -- [1]
+					38, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 19.00474,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 1024.002604,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136223.38,
+				["contra"] = "Disciple of Halazzi",
+				["TimeData"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["combatId"] = 50,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005346,
+							["damage_from"] = {
+								["Disciple of Nalorakk"] = true,
+								["Disciple of Halazzi"] = true,
+							},
+							["targets"] = {
+								["Disciple of Nalorakk"] = 963,
+							},
+							["pets"] = {
+							},
+							["total"] = 963.005346,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 963.005346,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050502,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 164,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 368,
+										},
+										["n_dmg"] = 204,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 368,
+										["c_max"] = 54,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 28,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[197834] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 164,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 245,
+										},
+										["n_dmg"] = 81,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 245,
+										["c_max"] = 83,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 81,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 161,
+										["g_amt"] = 0,
+										["n_max"] = 31,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 192,
+										},
+										["n_dmg"] = 31,
+										["n_min"] = 31,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 192,
+										["c_max"] = 161,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 161,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 13,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 55,
+										},
+										["n_dmg"] = 42,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 55,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 82,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Disciple of Nalorakk"] = 103,
+										},
+										["n_dmg"] = 21,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 103,
+										["c_max"] = 41,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 78.70905974653117,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 143.005346,
+							["start_time"] = 1659050489,
+							["delay"] = 0,
+							["last_event"] = 1659050501,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001604,
+							["total"] = 110.001604,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 110,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 110.001604,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050512,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Disciple of Nalorakk",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 77,
+										},
+										["n_dmg"] = 77,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["a_dmg"] = 0,
+										["total"] = 77,
+										["c_max"] = 0,
+										["MISS"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 2,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[270992] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 33,
+										},
+										["n_dmg"] = 33,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 33,
+										["c_max"] = 0,
+										["id"] = 270992,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120949",
+							["serial"] = "Creature-0-3023-1642-22445-120949-000063195B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050502,
+							["damage_taken"] = 963.001604,
+							["start_time"] = 1659050499,
+							["delay"] = 1659050502,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 50,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.007993,
+							["total_without_pet"] = 52.007993,
+							["total"] = 52.007993,
+							["targets_absorbs"] = {
+								["Shado"] = 33,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 33.007993,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 52,
+							},
+							["totalover_without_pet"] = 0.007993,
+							["healing_taken"] = 52.007993,
+							["fight_component"] = true,
+							["end_time"] = 1659050512,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 33,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 33,
+										["targets"] = {
+											["Shado"] = 33,
+										},
+										["n_min"] = 33,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 33,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 33,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 33,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050501,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.007993,
+							["delay"] = 0,
+							["last_event"] = 1659050510,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 50,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004888,
+							["resource"] = 5.004888,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.004888,
+							["fight_component"] = true,
+							["total"] = 0.004888,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004888,
+							["last_event"] = 1659050501,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.004888,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 50,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 52,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 10,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[185763] = 1,
+								[193315] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050502,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Disciple of Nalorakk",
+							["flag_original"] = 68168,
+							["spell_cast"] = {
+								[270992] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-120949-000063195B",
+							["aID"] = "120949",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 50,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136221.397,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 68,
+				["playing_solo"] = true,
+				["totals"] = {
+					1072.998643, -- [1]
+					52, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							270992, -- [2]
+							5, -- [3]
+							1659050503.143, -- [4]
+							820, -- [5]
+							"Disciple of Nalorakk", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+							true, -- [1]
+							1, -- [2]
+							33, -- [3]
+							1659050510.594, -- [4]
+							900, -- [5]
+							"Disciple of Halazzi", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [2]
+						{
+							false, -- [1]
+							312215, -- [2]
+							33, -- [3]
+							1659050510.594, -- [4]
+							900, -- [5]
+							"Shado", -- [6]
+							true, -- [7]
+							0, -- [8]
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 4,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:21:42",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Disciple of Nalorakk",
+				["TotalElapsedCombatTime"] = 136213.33,
+				["CombatEndedAt"] = 136213.33,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:21:30",
+				["end_time"] = 136213.33,
+				["combat_id"] = 50,
+				["tempo_start"] = 1659050489,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Disciple of Nalorakk"] = 1,
+				},
+				["totals_grupo"] = {
+					963, -- [1]
+					52, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 19.007993,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 963.005346,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136201.095,
+				["contra"] = "Disciple of Nalorakk",
+				["TimeData"] = {
+				},
+			}, -- [5]
+			{
+				{
+					["combatId"] = 49,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005559,
+							["damage_from"] = {
+								["[*] Whirling Axes"] = true,
+								["Disciple of Nalorakk"] = true,
+								["Kul'krazahn"] = true,
+							},
+							["targets"] = {
+								["Kul'krazahn"] = 1392,
+							},
+							["pets"] = {
+							},
+							["total"] = 1392.005559,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1392.005559,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050468,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 140,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Kul'krazahn"] = 494,
+										},
+										["n_dmg"] = 354,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 25,
+										["total"] = 494,
+										["c_max"] = 57,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 6,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 27,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 16,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 143,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Kul'krazahn"] = 143,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 143,
+										["c_max"] = 143,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 143,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 65,
+										["targets"] = {
+											["Kul'krazahn"] = 65,
+										},
+										["n_dmg"] = 65,
+										["n_min"] = 65,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 65,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 26,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Kul'krazahn"] = 62,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 62,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 83,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Kul'krazahn"] = 244,
+										},
+										["n_dmg"] = 161,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 244,
+										["c_max"] = 83,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 83,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 80,
+										["targets"] = {
+											["Kul'krazahn"] = 159,
+										},
+										["n_dmg"] = 159,
+										["n_min"] = 79,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 159,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 83,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Kul'krazahn"] = 225,
+										},
+										["n_dmg"] = 142,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 225,
+										["c_max"] = 42,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 65.91871757352405,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 210.005559,
+							["start_time"] = 1659050447,
+							["delay"] = 0,
+							["last_event"] = 1659050467,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006854,
+							["total"] = 149.006854,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 149,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 149.006854,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050468,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Kul'krazahn",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10,
+										["targets"] = {
+											["Shado"] = 84,
+										},
+										["n_dmg"] = 84,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["total"] = 84,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 13,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[264064] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 264064,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[264075] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 11,
+										["targets"] = {
+											["Shado"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 264075,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[264070] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 264070,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[264114] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 264114,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[264074] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12,
+										["targets"] = {
+											["Shado"] = 45,
+										},
+										["n_dmg"] = 45,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 45,
+										["c_max"] = 0,
+										["id"] = 264074,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120899",
+							["serial"] = "Creature-0-3023-1642-22445-120899-00006317A0",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050465,
+							["damage_taken"] = 1392.006854,
+							["start_time"] = 1659050448,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 21.006657,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Shado"] = 42,
+							},
+							["pets"] = {
+							},
+							["serial"] = "",
+							["monster"] = true,
+							["aID"] = "",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 42.006657,
+							["spellicon"] = 294033,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["total"] = 42.006657,
+							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
+							["nome"] = "[*] Whirling Axes",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[264141] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Shado"] = 42,
+										},
+										["n_dmg"] = 42,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 42,
+										["c_max"] = 0,
+										["id"] = 264141,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["end_time"] = 1659050468,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006657,
+							["start_time"] = 1659050467,
+							["delay"] = 1659050452,
+							["last_event"] = 1659050467,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 49,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.003115,
+							["total_without_pet"] = 67.00311500000001,
+							["total"] = 67.00311500000001,
+							["targets_absorbs"] = {
+								["Shado"] = 49,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 49.003115,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 67,
+							},
+							["totalover_without_pet"] = 0.003115,
+							["healing_taken"] = 67.00311500000001,
+							["fight_component"] = true,
+							["end_time"] = 1659050489,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 49,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 21,
+										["targets"] = {
+											["Shado"] = 49,
+										},
+										["n_min"] = 9,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 49,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 49,
+										},
+										["n_amt"] = 3,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 49,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_min"] = 18,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 18,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050462,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003115,
+							["delay"] = 1659050452,
+							["last_event"] = 1659050489,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 49,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006935,
+							["resource"] = 5.006935,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006935,
+							["fight_component"] = true,
+							["total"] = 0.006935,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006935,
+							["last_event"] = 1659050489,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.006935,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 49,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 86,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 21,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 21,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 21,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 2,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 11,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 3,
+								[8676] = 1,
+								[315496] = 1,
+								[196819] = 1,
+								[185763] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050468,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Kul'krazahn",
+							["flag_original"] = 68168,
+							["spell_cast"] = {
+								[264064] = 1,
+								[264114] = 2,
+								[264070] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-120899-00006317A0",
+							["aID"] = "120899",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 49,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136200.645,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 67,
+				["playing_solo"] = true,
+				["totals"] = {
+					1582.991007, -- [1]
+					67, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							19, -- [3]
+							1659050489.726, -- [4]
+							900, -- [5]
+							"Disciple of Nalorakk", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+							false, -- [1]
+							312215, -- [2]
+							19, -- [3]
+							1659050489.842, -- [4]
+							900, -- [5]
+							"Shado", -- [6]
+							true, -- [7]
+							0, -- [8]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:21:08",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Kul'krazahn",
+				["TotalElapsedCombatTime"] = 21.11699999999837,
+				["CombatEndedAt"] = 136179.527,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:20:47",
+				["end_time"] = 136179.527,
+				["combat_id"] = 49,
+				["tempo_start"] = 1659050447,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Kul'krazahn"] = 1,
+				},
+				["totals_grupo"] = {
+					1392, -- [1]
+					67, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 48.003115,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 1392.005559,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136158.41,
+				["contra"] = "Kul'krazahn",
+				["TimeData"] = {
+				},
+			}, -- [6]
+			{
+				{
+					["combatId"] = 48,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005191,
+							["damage_from"] = {
+								["Kul'krazahn"] = true,
+								["Amani Warrior"] = true,
+							},
+							["targets"] = {
+								["Amani Warrior"] = 329,
+							},
+							["pets"] = {
+							},
+							["total"] = 329.005191,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 329.005191,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050425,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 82,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Amani Warrior"] = 110,
+										},
+										["n_dmg"] = 28,
+										["n_min"] = 28,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 110,
+										["c_max"] = 55,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 2,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 27,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 57,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Amani Warrior"] = 57,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 57,
+										["c_max"] = 57,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 57,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 70,
+										["targets"] = {
+											["Amani Warrior"] = 70,
+										},
+										["n_dmg"] = 70,
+										["n_min"] = 70,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 70,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Amani Warrior"] = 12,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Amani Warrior"] = 41,
+										},
+										["n_dmg"] = 41,
+										["n_min"] = 41,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 41,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 39,
+										["targets"] = {
+											["Amani Warrior"] = 39,
+										},
+										["n_dmg"] = 39,
+										["n_min"] = 39,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 39,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 88.1106564000329,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 51.005191,
+							["start_time"] = 1659050422,
+							["delay"] = 0,
+							["last_event"] = 1659050425,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005802,
+							["total"] = 42.005802,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 42,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 42.005802,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050425,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Shado"] = 42,
+										},
+										["n_dmg"] = 42,
+										["n_min"] = 19,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 42,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-00006319A4",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050424,
+							["damage_taken"] = 329.005802,
+							["start_time"] = 1659050422,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 48,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.003571,
+							["total_without_pet"] = 38.003571,
+							["total"] = 38.003571,
+							["targets_absorbs"] = {
+								["Shado"] = 19,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 19.003571,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 38,
+							},
+							["totalover_without_pet"] = 0.003571,
+							["healing_taken"] = 38.003571,
+							["fight_component"] = true,
+							["end_time"] = 1659050425,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 19,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 19,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050422,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003571,
+							["delay"] = 0,
+							["last_event"] = 1659050425,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 48,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006838,
+							["resource"] = 3.006838,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006838,
+							["fight_component"] = true,
+							["total"] = 0.006838,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006838,
+							["last_event"] = 1659050447,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.006838,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 48,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 12,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 1,
+								[196819] = 1,
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050425,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 48,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["tempo_start"] = 1659050422,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 66,
+				["playing_solo"] = true,
+				["totals"] = {
+					370.993662, -- [1]
+					38, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					329, -- [1]
+					38, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:20:26",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 136136.974,
+				["CombatEndedAt"] = 136136.974,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 38.003571,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 329.005191,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 136136.974,
+				["combat_id"] = 48,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							9, -- [3]
+							1659050447.607, -- [4]
+							900, -- [5]
+							"Kul'krazahn", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["data_inicio"] = "17:20:22",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Amani Warrior"] = 1,
+				},
+				["start_time"] = 136133.24,
+				["TimeData"] = {
+				},
+				["contra"] = "Amani Warrior",
+			}, -- [7]
+			{
+				{
+					["combatId"] = 47,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004422,
+							["damage_from"] = {
+								["Amani Warrior"] = true,
+							},
+							["targets"] = {
+								["Amani Warrior"] = 326,
+							},
+							["pets"] = {
+							},
+							["total"] = 326.004422,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 326.004422,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050415,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Amani Warrior"] = 147,
+										},
+										["n_dmg"] = 147,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 147,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66,
+										["targets"] = {
+											["Amani Warrior"] = 66,
+										},
+										["n_dmg"] = 66,
+										["n_min"] = 66,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 66,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 80,
+										["targets"] = {
+											["Amani Warrior"] = 80,
+										},
+										["n_dmg"] = 80,
+										["n_min"] = 80,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 80,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 13,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Amani Warrior"] = 13,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 13,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Amani Warrior"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 55.09623491619531,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 22.004422,
+							["start_time"] = 1659050409,
+							["delay"] = 0,
+							["last_event"] = 1659050413,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 41.005034,
+							["total"] = 22.005034,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 22,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 22.005034,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050415,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22,
+										["targets"] = {
+											["Shado"] = 22,
+										},
+										["n_dmg"] = 22,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-0000630C0C",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050422,
+							["damage_taken"] = 326.005034,
+							["start_time"] = 1659050413,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 47,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 19,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 19.005528,
+							["total_without_pet"] = 22.005528,
+							["total"] = 22.005528,
+							["targets_absorbs"] = {
+								["Shado"] = 22,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 22.005528,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 22,
+							},
+							["totalover_without_pet"] = 0.005528,
+							["healing_taken"] = 22.005528,
+							["fight_component"] = true,
+							["end_time"] = 1659050415,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 22,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 22,
+										["targets"] = {
+											["Shado"] = 22,
+										},
+										["n_min"] = 22,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 22,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 22,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 19,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 19,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050413,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.005528,
+							["delay"] = 0,
+							["last_event"] = 1659050413,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 47,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003903,
+							["resource"] = 2.003903,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.003903,
+							["fight_component"] = true,
+							["total"] = 0.003903,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003903,
+							["last_event"] = 1659050422,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.003903,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 47,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[1833] = {
+										["activedamt"] = -1,
+										["id"] = 1833,
+										["targets"] = {
+										},
+										["actived_at"] = 1659050413,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[6770] = {
+										["activedamt"] = -1,
+										["id"] = 6770,
+										["targets"] = {
+										},
+										["actived_at"] = 1659050409,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 24,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 4,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[185763] = 1,
+								[196819] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050415,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 47,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136133.24,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 65,
+				["playing_solo"] = true,
+				["totals"] = {
+					348, -- [1]
+					22, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:20:15",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 136126.29,
+				["CombatEndedAt"] = 136126.29,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:20:09",
+				["end_time"] = 136126.29,
+				["combat_id"] = 47,
+				["tempo_start"] = 1659050409,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Amani Warrior"] = 1,
+				},
+				["totals_grupo"] = {
+					326, -- [1]
+					22, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 22.005528,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 326.004422,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136120.373,
+				["contra"] = "Amani Warrior",
+				["TimeData"] = {
+				},
+			}, -- [8]
+			{
+				{
+					["combatId"] = 46,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002954,
+							["end_time"] = 1659050405,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Amani Warrior"] = 311,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 311.002954,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 311.002954,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 82,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Amani Warrior"] = 151,
+										},
+										["n_dmg"] = 69,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 151,
+										["c_max"] = 55,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 27,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 73,
+										["targets"] = {
+											["Amani Warrior"] = 73,
+										},
+										["n_dmg"] = 73,
+										["n_min"] = 73,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 73,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Amani Warrior"] = 6,
+										},
+										["n_dmg"] = 6,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 6,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 41,
+										["targets"] = {
+											["Amani Warrior"] = 81,
+										},
+										["n_dmg"] = 81,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 81,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 111.0724835718904,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002954,
+							["start_time"] = 1659050402,
+							["delay"] = 0,
+							["last_event"] = 1659050404,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005207,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.005207,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.005207,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659050405,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-0000630BE9",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050404,
+							["damage_taken"] = 311.005207,
+							["start_time"] = 1659050405,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 46,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 19,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 19.005719,
+							["total_without_pet"] = 19.005719,
+							["total"] = 19.005719,
+							["targets_absorbs"] = {
+								["Shado"] = 19,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 19.005719,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 19,
+							},
+							["totalover_without_pet"] = 0.005719,
+							["healing_taken"] = 19.005719,
+							["fight_component"] = true,
+							["end_time"] = 1659050405,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 19,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 19,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 19,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 19,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050402,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.005719,
+							["delay"] = 0,
+							["last_event"] = 1659050404,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 46,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001813,
+							["resource"] = 1.001813,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001813,
+							["fight_component"] = true,
+							["total"] = 0.001813,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001813,
+							["last_event"] = 1659050408,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001813,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 46,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 14,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[193315] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050405,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 46,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136120.206,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 64,
+				["playing_solo"] = true,
+				["totals"] = {
+					311, -- [1]
+					19, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:20:06",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 3.433999999979278,
+				["CombatEndedAt"] = 136116.873,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:20:02",
+				["end_time"] = 136116.873,
+				["combat_id"] = 46,
+				["tempo_start"] = 1659050402,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Amani Warrior"] = 1,
+				},
+				["totals_grupo"] = {
+					311, -- [1]
+					19, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 19.005719,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 311.002954,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136113.439,
+				["contra"] = "Amani Warrior",
+				["TimeData"] = {
+				},
+			}, -- [9]
+			{
+				{
+					["combatId"] = 45,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00607,
+							["damage_from"] = {
+								["Amani Warrior"] = true,
+							},
+							["targets"] = {
+								["Amani Warrior"] = 331,
+							},
+							["pets"] = {
+							},
+							["total"] = 331.00607,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 331.00607,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050392,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 56,
+										["g_amt"] = 0,
+										["n_max"] = 27,
+										["targets"] = {
+											["Amani Warrior"] = 111,
+										},
+										["n_dmg"] = 55,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 111,
+										["c_max"] = 56,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 56,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 79,
+										["targets"] = {
+											["Amani Warrior"] = 79,
+										},
+										["n_dmg"] = 79,
+										["n_min"] = 79,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 79,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Amani Warrior"] = 12,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 39,
+										["targets"] = {
+											["Amani Warrior"] = 39,
+										},
+										["n_dmg"] = 39,
+										["n_min"] = 39,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 39,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 70,
+										["targets"] = {
+											["Amani Warrior"] = 70,
+										},
+										["n_dmg"] = 70,
+										["n_min"] = 70,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 70,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Amani Warrior"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 69.68548842105264,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 63.00607,
+							["start_time"] = 1659050387,
+							["delay"] = 0,
+							["last_event"] = 1659050391,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 19.007741,
+							["total"] = 63.007741,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 63,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 63.007741,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050402,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Shado"] = 63,
+										},
+										["n_dmg"] = 63,
+										["n_min"] = 19,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 63,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-00006301D5",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050402,
+							["damage_taken"] = 331.007741,
+							["start_time"] = 1659050389,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 45,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.00157,
+							["total_without_pet"] = 40.00157,
+							["total"] = 40.00157,
+							["targets_absorbs"] = {
+								["Shado"] = 21,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 21.00157,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 40,
+							},
+							["totalover_without_pet"] = 0.00157,
+							["healing_taken"] = 40.00157,
+							["fight_component"] = true,
+							["end_time"] = 1659050392,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 21,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 21,
+										["targets"] = {
+											["Shado"] = 21,
+										},
+										["n_min"] = 21,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 21,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 21,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 21,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050387,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.00157,
+							["delay"] = 0,
+							["last_event"] = 1659050391,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 45,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.007778,
+							["resource"] = 3.007778,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.007778,
+							["fight_component"] = true,
+							["total"] = 0.007778,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007778,
+							["last_event"] = 1659050402,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.007778,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 45,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 19,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 2,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 3,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[185763] = 1,
+								[193315] = 1,
+								[315496] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050392,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 45,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136098.955,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 63,
+				["playing_solo"] = true,
+				["totals"] = {
+					394, -- [1]
+					40, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							19, -- [3]
+							1659050402.636, -- [4]
+							900, -- [5]
+							"Amani Warrior", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:19:52",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 4.75,
+				["CombatEndedAt"] = 136103.705,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:19:48",
+				["end_time"] = 136103.705,
+				["combat_id"] = 45,
+				["tempo_start"] = 1659050387,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Amani Warrior"] = 1,
+				},
+				["totals_grupo"] = {
+					331, -- [1]
+					40, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 40.00157,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 331.00607,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136098.955,
+				["contra"] = "Amani Warrior",
+				["TimeData"] = {
+				},
+			}, -- [10]
+			{
+				{
+					["combatId"] = 44,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00382,
+							["end_time"] = 1659050381,
+							["damage_from"] = {
+								["Amani Warrior"] = true,
+							},
+							["targets"] = {
+								["Amani Warrior"] = 323,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 323.00382,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 323.00382,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 56,
+										["g_amt"] = 0,
+										["n_max"] = 27,
+										["targets"] = {
+											["Amani Warrior"] = 83,
+										},
+										["n_dmg"] = 27,
+										["n_min"] = 27,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 83,
+										["c_max"] = 56,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 56,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 73,
+										["targets"] = {
+											["Amani Warrior"] = 73,
+										},
+										["n_dmg"] = 73,
+										["n_min"] = 73,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 73,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 41,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Amani Warrior"] = 41,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 41,
+										["c_max"] = 41,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Amani Warrior"] = 6,
+										},
+										["n_dmg"] = 6,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 6,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 80,
+										["g_amt"] = 0,
+										["n_max"] = 40,
+										["targets"] = {
+											["Amani Warrior"] = 120,
+										},
+										["n_dmg"] = 40,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 120,
+										["c_max"] = 80,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 80,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 116.0631764272758,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 37.00382000000001,
+							["start_time"] = 1659050378,
+							["delay"] = 0,
+							["last_event"] = 1659050380,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 21.002171,
+							["total"] = 37.002171,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 37,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 37.002171,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050387,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Shado"] = 37,
+										},
+										["n_dmg"] = 37,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 37,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-0000630C1F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050387,
+							["damage_taken"] = 323.002171,
+							["start_time"] = 1659050380,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 44,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 3,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 3.003506,
+							["total_without_pet"] = 34.003506,
+							["total"] = 34.003506,
+							["targets_absorbs"] = {
+								["Shado"] = 18,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 18.003506,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 34,
+							},
+							["totalover_without_pet"] = 0.003506,
+							["healing_taken"] = 34.003506,
+							["fight_component"] = true,
+							["end_time"] = 1659050381,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 18,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_min"] = 18,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 18,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 18,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 3,
+										},
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 16,
+										},
+										["n_min"] = 16,
+										["counter"] = 1,
+										["overheal"] = 3,
+										["total"] = 16,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 16,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050378,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003506,
+							["delay"] = 0,
+							["last_event"] = 1659050380,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 44,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004613,
+							["resource"] = 1.004613,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.004613,
+							["fight_component"] = true,
+							["total"] = 0.004613,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004613,
+							["last_event"] = 1659050387,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.004613,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 44,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 13,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[193315] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050381,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 44,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136089.854,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 62,
+				["playing_solo"] = true,
+				["totals"] = {
+					360, -- [1]
+					34, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							21, -- [3]
+							1659050388.152, -- [4]
+							900, -- [5]
+							"Amani Warrior", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:19:41",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 2.783000000024913,
+				["CombatEndedAt"] = 136092.637,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:19:39",
+				["end_time"] = 136092.637,
+				["combat_id"] = 44,
+				["tempo_start"] = 1659050378,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Amani Warrior"] = 1,
+				},
+				["totals_grupo"] = {
+					323, -- [1]
+					34, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 34.003506,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 323.00382,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 136089.854,
+				["contra"] = "Amani Warrior",
+				["TimeData"] = {
+				},
+			}, -- [11]
+			{
+				{
+					["combatId"] = 43,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00617,
+							["end_time"] = 1659050373,
+							["damage_from"] = {
+								["Amani Warrior"] = true,
+							},
+							["targets"] = {
+								["Amani Warrior"] = 303,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 303.00617,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 303.00617,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 27,
+										["g_amt"] = 0,
+										["n_max"] = 28,
+										["targets"] = {
+											["Amani Warrior"] = 135,
+										},
+										["n_dmg"] = 108,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 135,
+										["c_max"] = 27,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 27,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 71,
+										["targets"] = {
+											["Amani Warrior"] = 71,
+										},
+										["n_dmg"] = 71,
+										["n_min"] = 71,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 71,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Amani Warrior"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 13,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Amani Warrior"] = 37,
+										},
+										["n_dmg"] = 24,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 37,
+										["c_max"] = 13,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 13,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 40,
+										["targets"] = {
+											["Amani Warrior"] = 40,
+										},
+										["n_dmg"] = 40,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 40,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 63.79077263157895,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 58.00617,
+							["start_time"] = 1659050368,
+							["delay"] = 0,
+							["last_event"] = 1659050373,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 41.00752,
+							["total"] = 58.00752,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 58,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 58.00752,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659050378,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Amani Warrior",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Shado"] = 58,
+										},
+										["n_dmg"] = 58,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 58,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120900",
+							["serial"] = "Creature-0-3023-1642-22445-120900-0000631953",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050378,
+							["damage_taken"] = 303.00752,
+							["start_time"] = 1659050370,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 43,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 2,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 2.006848,
+							["total_without_pet"] = 40.00684800000001,
+							["total"] = 40.00684800000001,
+							["targets_absorbs"] = {
+								["Shado"] = 23,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 23.006848,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 40,
+							},
+							["totalover_without_pet"] = 0.006848,
+							["healing_taken"] = 40.00684800000001,
+							["fight_component"] = true,
+							["end_time"] = 1659050373,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 23,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 23,
+										["targets"] = {
+											["Shado"] = 23,
+										},
+										["n_min"] = 23,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 23,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 23,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 23,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 2,
+										},
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_min"] = 17,
+										["counter"] = 1,
+										["overheal"] = 2,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 17,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050370,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.006848,
+							["delay"] = 0,
+							["last_event"] = 1659050373,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 43,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.002576,
+							["resource"] = 3.002576,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.002576,
+							["fight_component"] = true,
+							["total"] = 0.002576,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002576,
+							["last_event"] = 1659050378,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.002576,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 43,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 18,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[193315] = 1,
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050373,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 43,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["tempo_start"] = 1659050368,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 61,
+				["playing_solo"] = true,
+				["totals"] = {
+					361, -- [1]
+					40, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					303, -- [1]
+					40, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:19:33",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Warrior",
+				["TotalElapsedCombatTime"] = 136084.52,
+				["CombatEndedAt"] = 136084.52,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 40.00684800000001,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 303.00617,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 136084.52,
+				["combat_id"] = 43,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							18, -- [3]
+							1659050379.051, -- [4]
+							900, -- [5]
+							"Amani Warrior", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["data_inicio"] = "17:19:29",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Amani Warrior"] = 1,
+				},
+				["start_time"] = 136079.77,
+				["TimeData"] = {
+				},
+				["contra"] = "Amani Warrior",
+			}, -- [12]
+			{
+				{
+					["combatId"] = 42,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006987,
+							["damage_from"] = {
+								["Mista Nice"] = true,
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+								["Mista Nice"] = 1417,
+								["Voodoo Totem <Mista Nice>"] = 303,
+							},
+							["pets"] = {
+							},
+							["total"] = 1720.006987,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1720.006987,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659050239,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 390,
+										["g_amt"] = 0,
+										["n_max"] = 29,
+										["targets"] = {
+											["Mista Nice"] = 738,
+											["Voodoo Totem"] = 0,
+											["Voodoo Totem <Mista Nice>"] = 97,
+										},
+										["n_dmg"] = 445,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 34,
+										["total"] = 835,
+										["c_max"] = 57,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 4,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 27,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 22,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 55,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Voodoo Totem <Mista Nice>"] = 55,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 55,
+										["c_max"] = 55,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 55,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 72,
+										["targets"] = {
+											["Mista Nice"] = 72,
+										},
+										["n_dmg"] = 72,
+										["n_min"] = 72,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 72,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 163,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Mista Nice"] = 163,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 163,
+										["c_max"] = 163,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 163,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Mista Nice"] = 18,
+											["Voodoo Totem <Mista Nice>"] = 6,
+										},
+										["n_dmg"] = 24,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 24,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 81,
+										["g_amt"] = 0,
+										["n_max"] = 42,
+										["targets"] = {
+											["Mista Nice"] = 243,
+											["Voodoo Totem <Mista Nice>"] = 124,
+										},
+										["n_dmg"] = 286,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 367,
+										["c_max"] = 81,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 81,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 39,
+										["targets"] = {
+											["Mista Nice"] = 39,
+										},
+										["n_dmg"] = 39,
+										["n_min"] = 39,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 39,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 41,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Mista Nice"] = 144,
+											["Voodoo Totem <Mista Nice>"] = 21,
+										},
+										["n_dmg"] = 124,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 165,
+										["c_max"] = 41,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 41,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 49.89866512909608,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 463.006987,
+							["start_time"] = 1659050204,
+							["delay"] = 0,
+							["last_event"] = 1659050238,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.006741,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 203,
+							},
+							["pets"] = {
+								"Voodoo Totem <Mista Nice>", -- [1]
+							},
+							["total"] = 203.006741,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 203.006741,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659050239,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Mista Nice",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 146,
+										},
+										["n_dmg"] = 146,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 146,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 8,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[12058] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 29,
+										["targets"] = {
+											["Shado"] = 57,
+										},
+										["n_dmg"] = 57,
+										["n_min"] = 28,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 57,
+										["c_max"] = 0,
+										["id"] = 12058,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "125996",
+							["serial"] = "Creature-0-3023-1642-22445-125996-0000630C69",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050238,
+							["damage_taken"] = 1417.006741,
+							["start_time"] = 1659050210,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.008001,
+							["friendlyfire_total"] = 0,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-136998-00006318E2",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["monster"] = true,
+							["aID"] = "136998",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008001,
+							["on_hold"] = false,
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["total"] = 0.008001,
+							["ownerName"] = "Mista Nice",
+							["nome"] = "Voodoo Totem <Mista Nice>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["end_time"] = 1659050239,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 303.008001,
+							["start_time"] = 1659050239,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 42,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.003445,
+							["total_without_pet"] = 39.003445,
+							["total"] = 39.003445,
+							["targets_absorbs"] = {
+								["Shado"] = 20,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 20.003445,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 39,
+							},
+							["totalover_without_pet"] = 0.003445,
+							["healing_taken"] = 39.003445,
+							["fight_component"] = true,
+							["end_time"] = 1659050239,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 20,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 20,
+										},
+										["n_min"] = 20,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 20,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 20,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_min"] = 19,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 19,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050238,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003445,
+							["delay"] = 1659050204,
+							["last_event"] = 1659050238,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 42,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.007604,
+							["resource"] = 11.007604,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.007604,
+							["fight_component"] = true,
+							["total"] = 0.007604,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.007604,
+							["last_event"] = 1659050368,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.007604,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 42,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 117,
+							["aID"] = "3685-0DE330E0",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[1766] = {
+										["id"] = 1766,
+										["interrompeu_oque"] = {
+											[12058] = 2,
+										},
+										["targets"] = {
+											["Mista Nice"] = 2,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 35,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 35,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 34,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[12058] = 2,
+							},
+							["fight_component"] = true,
+							["interrupt_targets"] = {
+								["Mista Nice"] = 2,
+							},
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315584] = 1,
+								[193315] = 7,
+								[8676] = 1,
+								[185763] = 1,
+								[315496] = 2,
+								[196819] = 1,
+								[1766] = 2,
+							},
+							["interrupt"] = 2.008252,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050239,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["classe"] = "UNKNOW",
+							["nome"] = "Mista Nice",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[268984] = 2,
+								[12058] = 2,
+							},
+							["tipo"] = 4,
+							["aID"] = "125996",
+							["serial"] = "Creature-0-3023-1642-22445-125996-0000630C69",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 42,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 136079.77,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 60,
+				["playing_solo"] = true,
+				["totals"] = {
+					1922.959601, -- [1]
+					38.984217, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.004426,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1.994058,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							260, -- [3]
+							1659050255.642, -- [4]
+							640, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:17:19",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Mista Nice",
+				["TotalElapsedCombatTime"] = 34.47000000000116,
+				["CombatEndedAt"] = 135950.394,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:16:45",
+				["end_time"] = 135950.394,
+				["combat_id"] = 42,
+				["tempo_start"] = 1659050204,
+				["frags"] = {
+					["Mista Nice"] = 1,
+					["Healing Totem"] = 1,
+					["Amani Thug"] = 3,
+					["Voodoo Totem"] = 2,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					1720, -- [1]
+					39, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 2,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 39.003445,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 1720.006987,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135915.924,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [13]
+			{
+				{
+					["combatId"] = 41,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001606,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+								["\"Tuskbreaker\" Yana"] = true,
+								["\"Bad Mojo\" Hojo"] = true,
+								["Da White Shark"] = true,
+								["Mista Nice"] = true,
+							},
+							["targets"] = {
+								["\"Bad Mojo\" Hojo"] = 266,
+								["\"Tuskbreaker\" Yana"] = 288,
+								["Da White Shark"] = 540,
+							},
+							["pets"] = {
+							},
+							["spec"] = 260,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1094.001606,
+							["end_time"] = 1659050019,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 1094.001606,
+							["aID"] = "3685-0DE330E0",
+							["classe"] = "ROGUE",
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 101,
+										["g_amt"] = 0,
+										["n_max"] = 27,
+										["targets"] = {
+											["\"Bad Mojo\" Hojo"] = 128,
+											["\"Tuskbreaker\" Yana"] = 152,
+											["Da White Shark"] = 230,
+										},
+										["n_dmg"] = 409,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 26,
+										["total"] = 510,
+										["c_max"] = 51,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 50,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 21,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["\"Tuskbreaker\" Yana"] = 25,
+										},
+										["n_dmg"] = 25,
+										["n_min"] = 25,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 25,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 58,
+										["targets"] = {
+											["Da White Shark"] = 58,
+											["\"Bad Mojo\" Hojo"] = 58,
+										},
+										["n_dmg"] = 116,
+										["n_min"] = 58,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 116,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Da White Shark"] = 57,
+											["\"Tuskbreaker\" Yana"] = 19,
+										},
+										["n_dmg"] = 76,
+										["n_min"] = 19,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 76,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 77,
+										["g_amt"] = 0,
+										["n_max"] = 38,
+										["targets"] = {
+											["Da White Shark"] = 189,
+											["\"Tuskbreaker\" Yana"] = 74,
+										},
+										["n_dmg"] = 186,
+										["n_min"] = 37,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 263,
+										["c_max"] = 77,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 77,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 62,
+										["targets"] = {
+											["\"Bad Mojo\" Hojo"] = 62,
+										},
+										["n_dmg"] = 62,
+										["n_min"] = 62,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 62,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 12,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["\"Bad Mojo\" Hojo"] = 18,
+											["\"Tuskbreaker\" Yana"] = 18,
+											["Da White Shark"] = 6,
+										},
+										["n_dmg"] = 30,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 42,
+										["c_max"] = 12,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 12,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 47.01541131978122,
+							["custom"] = 0,
+							["last_event"] = 1659050018,
+							["damage_taken"] = 578.001606,
+							["start_time"] = 1659049996,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 16.007687,
+							["aID"] = "133207",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 193,
+							},
+							["end_time"] = 1659050019,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 193.007687,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 193.007687,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "\"Bad Mojo\" Hojo",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 193,
+										},
+										["n_dmg"] = 193,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 24,
+										["DODGE"] = 2,
+										["total"] = 193,
+										["c_max"] = 0,
+										["a_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 6,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 15,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-133207-00006312D7",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050018,
+							["damage_taken"] = 266.007687,
+							["start_time"] = 1659049995,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003826,
+							["serial"] = "Vehicle-0-3023-1642-22445-133208-00006312D2",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 162,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1659050019,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 162.003826,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 162.003826,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Da White Shark",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 44,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Shado"] = 162,
+										},
+										["n_dmg"] = 118,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["DODGE"] = 1,
+										["total"] = 162,
+										["c_max"] = 44,
+										["MISS"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 2,
+										["c_min"] = 44,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050006,
+							["damage_taken"] = 540.003826,
+							["start_time"] = 1659050007,
+							["delay"] = 1659050006,
+							["tipo"] = 1,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 19.002082,
+							["aID"] = "133206",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 108,
+							},
+							["end_time"] = 1659050019,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 108.002082,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 108.002082,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "\"Tuskbreaker\" Yana",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 108,
+										},
+										["n_dmg"] = 108,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 108,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 7,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 8,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-133206-00006312D4",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659050011,
+							["damage_taken"] = 288.002082,
+							["start_time"] = 1659049997,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [4]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 41,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.004726,
+							["total_without_pet"] = 283.004726,
+							["total"] = 283.004726,
+							["targets_absorbs"] = {
+								["Shado"] = 57,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 57.00472600000001,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 283,
+							},
+							["totalover_without_pet"] = 0.004726,
+							["healing_taken"] = 283.004726,
+							["fight_component"] = true,
+							["end_time"] = 1659050019,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[185311] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 43,
+										["targets"] = {
+											["Shado"] = 172,
+										},
+										["n_min"] = 43,
+										["counter"] = 4,
+										["overheal"] = 0,
+										["total"] = 172,
+										["c_max"] = 0,
+										["id"] = 185311,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 172,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["absorbed"] = 0,
+									},
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 57,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 22,
+										["targets"] = {
+											["Shado"] = 57,
+										},
+										["n_min"] = 16,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 57,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 57,
+										},
+										["n_amt"] = 3,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 57,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 54,
+										},
+										["n_min"] = 18,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 54,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 54,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659050005,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.004726,
+							["delay"] = 1659049997,
+							["last_event"] = 1659050018,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 41,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00179,
+							["resource"] = 8.00179,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.00179,
+							["fight_component"] = true,
+							["total"] = 0.00179,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.00179,
+							["last_event"] = 1659050204,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.00179,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 41,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 101,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 24,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[259395] = {
+										["activedamt"] = 1,
+										["id"] = 259395,
+										["targets"] = {
+										},
+										["actived_at"] = 1659049995,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 24,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[185311] = {
+										["activedamt"] = 1,
+										["id"] = 185311,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 24,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 2,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 11,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 4,
+								[185763] = 2,
+								[185311] = 1,
+								[196819] = 1,
+								[315496] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659050019,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 41,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135908.274,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 59,
+				["playing_solo"] = true,
+				["totals"] = {
+					1556.953463, -- [1]
+					282.9873010000001, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.003685,
+						["alternatepower"] = 0,
+						[3] = -0.003281,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							95, -- [3]
+							1659050068.195, -- [4]
+							805, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							1, -- [2]
+							20, -- [3]
+							1659050205.121, -- [4]
+							900, -- [5]
+							"Mista Nice", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:13:39",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Da White Shark",
+				["TotalElapsedCombatTime"] = 6.48399999999674,
+				["CombatEndedAt"] = 135914.758,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:13:16",
+				["end_time"] = 135730.494,
+				["combat_id"] = 41,
+				["tempo_start"] = 1659049995,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["\"Bad Mojo\" Hojo"] = 1,
+					["\"Tuskbreaker\" Yana"] = 1,
+					["Da White Shark"] = 1,
+				},
+				["totals_grupo"] = {
+					1094, -- [1]
+					283, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 283.004726,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 1094.001606,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135707.225,
+				["contra"] = "Da White Shark",
+				["TimeData"] = {
+				},
+			}, -- [14]
+			{
+				{
+					["combatId"] = 40,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007464,
+							["damage_from"] = {
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Gurubashi Thug"] = 284,
+							},
+							["pets"] = {
+							},
+							["total"] = 284.007464,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 284.007464,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049756,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 79,
+										["g_amt"] = 0,
+										["n_max"] = 26,
+										["targets"] = {
+											["Gurubashi Thug"] = 143,
+										},
+										["n_dmg"] = 64,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 143,
+										["c_max"] = 54,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 25,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 62,
+										["targets"] = {
+											["Gurubashi Thug"] = 62,
+										},
+										["n_dmg"] = 62,
+										["n_min"] = 62,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 62,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Gurubashi Thug"] = 12,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 67,
+										["targets"] = {
+											["Gurubashi Thug"] = 67,
+										},
+										["n_dmg"] = 67,
+										["n_min"] = 67,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 67,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 261,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 78.17436388656004,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 17.007464,
+							["start_time"] = 1659049753,
+							["delay"] = 0,
+							["last_event"] = 1659049756,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.007326,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 17,
+							},
+							["pets"] = {
+							},
+							["total"] = 17.007326,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 17.007326,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049756,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Gurubashi Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "125458",
+							["serial"] = "Creature-0-3023-1642-22445-125458-0000631579",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049755,
+							["damage_taken"] = 284.007326,
+							["start_time"] = 1659049755,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 40,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 1,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 1.006644,
+							["total_without_pet"] = 32.006644,
+							["total"] = 32.006644,
+							["targets_absorbs"] = {
+								["Shado"] = 15,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 15.006644,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 32,
+							},
+							["totalover_without_pet"] = 0.006644,
+							["healing_taken"] = 32.006644,
+							["fight_component"] = true,
+							["end_time"] = 1659049756,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 15,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 15,
+										},
+										["n_min"] = 15,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 15,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 15,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 15,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 1,
+										},
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_min"] = 17,
+										["counter"] = 1,
+										["overheal"] = 1,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 17,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049753,
+							["spec"] = 261,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.006644,
+							["delay"] = 0,
+							["last_event"] = 1659049756,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 40,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 40,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 12,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 261,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[196819] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049756,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 40,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135706.842,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 58,
+				["playing_solo"] = true,
+				["totals"] = {
+					300.995524, -- [1]
+					32, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:09:17",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Gurubashi Thug",
+				["TotalElapsedCombatTime"] = 3.63300000000163,
+				["CombatEndedAt"] = 135467.874,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:09:13",
+				["end_time"] = 135467.874,
+				["combat_id"] = 40,
+				["tempo_start"] = 1659049753,
+				["frags"] = {
+					["Gurubashi Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					284, -- [1]
+					32, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 32.006644,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 284.007464,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135464.241,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [15]
+			{
+				{
+					["combatId"] = 39,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002122,
+							["end_time"] = 1659049748,
+							["damage_from"] = {
+								["Sandfury Thug"] = true,
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Sandfury Thug"] = 270,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 270.002122,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 270.002122,
+							["classe"] = "ROGUE",
+							["spec"] = 261,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 26,
+										["targets"] = {
+											["Sandfury Thug"] = 114,
+										},
+										["n_dmg"] = 114,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 114,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["Sandfury Thug"] = 25,
+										},
+										["n_dmg"] = 25,
+										["n_min"] = 25,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 25,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 68,
+										["targets"] = {
+											["Sandfury Thug"] = 68,
+										},
+										["n_dmg"] = 68,
+										["n_min"] = 68,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 68,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Sandfury Thug"] = 6,
+										},
+										["n_dmg"] = 6,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 6,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 37,
+										["targets"] = {
+											["Sandfury Thug"] = 37,
+										},
+										["n_dmg"] = 37,
+										["n_min"] = 37,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 37,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Sandfury Thug"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 56.62796182872909,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 71.002122,
+							["start_time"] = 1659049744,
+							["delay"] = 0,
+							["last_event"] = 1659049748,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.00129,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 56,
+							},
+							["pets"] = {
+							},
+							["total"] = 56.00129,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 56.00129,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049748,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Sandfury Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 32,
+										},
+										["n_dmg"] = 32,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 32,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[268800] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Shado"] = 24,
+										},
+										["n_dmg"] = 24,
+										["n_min"] = 24,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 24,
+										["c_max"] = 0,
+										["id"] = 268800,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "125460",
+							["serial"] = "Creature-0-3023-1642-22445-125460-0000631020",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049748,
+							["damage_taken"] = 270.00129,
+							["start_time"] = 1659049744,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 39,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.004516,
+							["total_without_pet"] = 34.004516,
+							["total"] = 34.004516,
+							["targets_absorbs"] = {
+								["Shado"] = 16,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 16.004516,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 34,
+							},
+							["totalover_without_pet"] = 0.004516,
+							["healing_taken"] = 34.004516,
+							["fight_component"] = true,
+							["end_time"] = 1659049748,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 16,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 16,
+										},
+										["n_min"] = 16,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 16,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 16,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 16,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_min"] = 18,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 18,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049744,
+							["spec"] = 261,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.004516,
+							["delay"] = 0,
+							["last_event"] = 1659049748,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 39,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008749,
+							["resource"] = 2.008749,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.008749,
+							["fight_component"] = true,
+							["total"] = 0.008749,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 261,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.008749,
+							["last_event"] = 1659049753,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.008749,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 39,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 16,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 261,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[193315] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049748,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["classe"] = "UNKNOW",
+							["nome"] = "Sandfury Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[268801] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "125460",
+							["serial"] = "Creature-0-3023-1642-22445-125460-0000631020",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 39,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["tempo_start"] = 1659049744,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 57,
+				["playing_solo"] = true,
+				["totals"] = {
+					325.998345, -- [1]
+					34, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					270, -- [1]
+					34, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:09:09",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sandfury Thug",
+				["TotalElapsedCombatTime"] = 135460.141,
+				["CombatEndedAt"] = 135460.141,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 34.004516,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 270.002122,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 135460.141,
+				["combat_id"] = 39,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							15, -- [3]
+							1659049753.438, -- [4]
+							860, -- [5]
+							"Gurubashi Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "17:09:04",
+				["start_time"] = 135455.373,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Sandfury Thug"] = 1,
+				},
+			}, -- [16]
+			{
+				{
+					["combatId"] = 38,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 16.002948,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 37,
+							},
+							["pets"] = {
+							},
+							["total"] = 37.002948,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 37.002948,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049739,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Sandfury Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[268800] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 20,
+										["targets"] = {
+											["Shado"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 20,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 268800,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "125460",
+							["serial"] = "Creature-0-3023-1642-22445-125460-000063102B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049744,
+							["damage_taken"] = 264.002948,
+							["start_time"] = 1659049735,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004317,
+							["end_time"] = 1659049739,
+							["damage_from"] = {
+								["Sandfury Thug"] = true,
+							},
+							["targets"] = {
+								["Sandfury Thug"] = 264,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 264.004317,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 264.004317,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 26,
+										["targets"] = {
+											["Sandfury Thug"] = 89,
+										},
+										["n_dmg"] = 89,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 89,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66,
+										["targets"] = {
+											["Sandfury Thug"] = 66,
+										},
+										["n_dmg"] = 66,
+										["n_min"] = 66,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 66,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 40,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Sandfury Thug"] = 59,
+										},
+										["n_dmg"] = 19,
+										["n_min"] = 19,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 59,
+										["c_max"] = 40,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 40,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Sandfury Thug"] = 12,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 38,
+										["targets"] = {
+											["Sandfury Thug"] = 38,
+										},
+										["n_dmg"] = 38,
+										["n_min"] = 38,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 38,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 75.77621039042681,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 37.004317,
+							["start_time"] = 1659049735,
+							["delay"] = 0,
+							["last_event"] = 1659049738,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 38,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.003577,
+							["total_without_pet"] = 35.003577,
+							["total"] = 35.003577,
+							["targets_absorbs"] = {
+								["Shado"] = 17,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 17.003577,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 35,
+							},
+							["totalover_without_pet"] = 0.003577,
+							["healing_taken"] = 35.003577,
+							["fight_component"] = true,
+							["end_time"] = 1659049739,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 17,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_min"] = 17,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 17,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 17,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_min"] = 18,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 18,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049735,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003577,
+							["delay"] = 0,
+							["last_event"] = 1659049738,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 38,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004789,
+							["resource"] = 3.004789,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.004789,
+							["fight_component"] = true,
+							["total"] = 0.004789,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004789,
+							["last_event"] = 1659049744,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.004789,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 38,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 16,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[193315] = 1,
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049739,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["classe"] = "UNKNOW",
+							["nome"] = "Sandfury Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[268801] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "125460",
+							["serial"] = "Creature-0-3023-1642-22445-125460-000063102B",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 38,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135455.373,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 56,
+				["playing_solo"] = true,
+				["totals"] = {
+					301, -- [1]
+					35, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:08:59",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sandfury Thug",
+				["TotalElapsedCombatTime"] = 135450.242,
+				["CombatEndedAt"] = 135450.242,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:08:55",
+				["end_time"] = 135450.242,
+				["combat_id"] = 38,
+				["tempo_start"] = 1659049735,
+				["frags"] = {
+					["Sandfury Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					264, -- [1]
+					35, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 35.003577,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 264.004317,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135446.689,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [17]
+			{
+				{
+					["combatId"] = 37,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004899,
+							["damage_from"] = {
+								["Amani Thug"] = true,
+							},
+							["targets"] = {
+								["Amani Thug"] = 272,
+							},
+							["pets"] = {
+							},
+							["spec"] = 260,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 272.004899,
+							["end_time"] = 1659049724,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 272.004899,
+							["aID"] = "3685-0DE330E0",
+							["classe"] = "ROGUE",
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 27,
+										["targets"] = {
+											["Amani Thug"] = 91,
+										},
+										["n_dmg"] = 91,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 91,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 131,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Amani Thug"] = 131,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 131,
+										["c_max"] = 131,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 131,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Amani Thug"] = 12,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 6,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 38,
+										["targets"] = {
+											["Amani Thug"] = 38,
+										},
+										["n_dmg"] = 38,
+										["n_min"] = 38,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 38,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 71.58023657916667,
+							["custom"] = 0,
+							["last_event"] = 1659049722,
+							["damage_taken"] = 19.004899,
+							["start_time"] = 1659049718,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.007778,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 19,
+							},
+							["pets"] = {
+							},
+							["total"] = 19.007778,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 19.007778,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049724,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 19,
+										},
+										["n_dmg"] = 19,
+										["n_min"] = 19,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 19,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000630CED",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049720,
+							["damage_taken"] = 272.007778,
+							["start_time"] = 1659049720,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 37,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.004773,
+							["total_without_pet"] = 34.004773,
+							["total"] = 34.004773,
+							["targets_absorbs"] = {
+								["Shado"] = 16,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 16.004773,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 34,
+							},
+							["totalover_without_pet"] = 0.004773,
+							["healing_taken"] = 34.004773,
+							["fight_component"] = true,
+							["end_time"] = 1659049724,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 16,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 16,
+										},
+										["n_min"] = 16,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 16,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 16,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 16,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_min"] = 18,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 18,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049718,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.004773,
+							["delay"] = 0,
+							["last_event"] = 1659049722,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 37,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001139,
+							["resource"] = 3.001139,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001139,
+							["fight_component"] = true,
+							["total"] = 0.001139,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001139,
+							["last_event"] = 1659049735,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001139,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 37,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 22,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[193315] = 1,
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049724,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 37,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135446.689,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 55,
+				["playing_solo"] = true,
+				["totals"] = {
+					290.99651, -- [1]
+					34, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:08:44",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Thug",
+				["TotalElapsedCombatTime"] = 5.13399999999092,
+				["CombatEndedAt"] = 135435.239,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:08:39",
+				["end_time"] = 135435.239,
+				["combat_id"] = 37,
+				["tempo_start"] = 1659049718,
+				["frags"] = {
+					["Amani Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					272, -- [1]
+					34, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 34.004773,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 272.004899,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135430.105,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [18]
+			{
+				{
+					["combatId"] = 36,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003835,
+							["damage_from"] = {
+								["Amani Thug"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 245,
+							},
+							["pets"] = {
+							},
+							["total"] = 245.003835,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 245.003835,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049600,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 65,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Crimson Cultist"] = 81,
+										},
+										["n_dmg"] = 16,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 81,
+										["c_max"] = 65,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 65,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Crimson Cultist"] = 48,
+										},
+										["n_dmg"] = 48,
+										["n_min"] = 24,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 48,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 15,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 22,
+										},
+										["n_dmg"] = 7,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 22,
+										["c_max"] = 15,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 15,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 47,
+										["targets"] = {
+											["Crimson Cultist"] = 94,
+										},
+										["n_dmg"] = 94,
+										["n_min"] = 47,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 94,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 84.48408103465232,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 16.003835,
+							["start_time"] = 1659049598,
+							["delay"] = 0,
+							["last_event"] = 1659049599,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 39.005315,
+							["aID"] = "126153",
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Boni-Duskwood"] = 39,
+							},
+							["fight_component"] = true,
+							["pets"] = {
+							},
+							["end_time"] = 1659049718,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 39.005315,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 39.005315,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Boni-Duskwood"] = 18,
+											["Shado"] = 0,
+										},
+										["n_dmg"] = 18,
+										["n_min"] = 18,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[256099] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Boni-Duskwood"] = 21,
+										},
+										["n_dmg"] = 21,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 21,
+										["c_max"] = 0,
+										["id"] = 256099,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-126153-0000631675",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049615,
+							["damage_taken"] = 245.005315,
+							["start_time"] = 1659049702,
+							["delay"] = 1659049615,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 36,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 18,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 18.00456,
+							["total_without_pet"] = 0.00456,
+							["total"] = 0.00456,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 0.00456,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.00456,
+							["healing_taken"] = 0.00456,
+							["end_time"] = 1659049600,
+							["healing_from"] = {
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 18,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 18,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049599,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.00456,
+							["delay"] = 0,
+							["last_event"] = 1659049599,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 36,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.005216,
+							["resource"] = 3.005216,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.005216,
+							["total"] = 0.005216,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.005216,
+							["last_event"] = 1659049718,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.005216,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 36,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Shado",
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 1,
+							},
+							["buff_uptime"] = 10,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["tipo"] = 4,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["last_event"] = 1659049600,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 36,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135309.313,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 54,
+				["playing_solo"] = true,
+				["totals"] = {
+					283.971843, -- [1]
+					-0.01198600000005712, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.003747000000004164,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							16, -- [3]
+							1659049719.302, -- [4]
+							860, -- [5]
+							"Amani Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:06:41",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 2.899999999994179,
+				["CombatEndedAt"] = 135312.213,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:06:38",
+				["end_time"] = 135312.213,
+				["combat_id"] = 36,
+				["tempo_start"] = 1659049598,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 1,
+				},
+				["totals_grupo"] = {
+					245, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 0.00456,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 245.003835,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135309.313,
+				["contra"] = "Crimson Cultist",
+				["TimeData"] = {
+				},
+			}, -- [19]
+			{
+				{
+					["combatId"] = 35,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005469,
+							["end_time"] = 1659049591,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 117,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 117.005469,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 117.005469,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 64,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 64,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 64,
+										["c_max"] = 64,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 64,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 46,
+										["targets"] = {
+											["Crimson Cultist"] = 46,
+										},
+										["n_dmg"] = 46,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 46,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 7,
+										},
+										["n_dmg"] = 7,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 1170.05469,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005469,
+							["start_time"] = 1659049590,
+							["delay"] = 0,
+							["last_event"] = 1659049590,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003191,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["total"] = 0.003191,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003191,
+							["fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049591,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "126153",
+							["serial"] = "Creature-0-3023-1642-22445-126153-0000631656",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 117.003191,
+							["start_time"] = 1659049591,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 35,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 18,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 18.008304,
+							["total_without_pet"] = 0.008304,
+							["total"] = 0.008304,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 0.008304,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.008304,
+							["healing_taken"] = 0.008304,
+							["end_time"] = 1659049591,
+							["healing_from"] = {
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 18,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 18,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049590,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.008304,
+							["delay"] = 0,
+							["last_event"] = 1659049590,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 35,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.002866,
+							["resource"] = 1.002866,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.002866,
+							["total"] = 0.002866,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.002866,
+							["last_event"] = 1659049598,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.002866,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 35,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["buff_uptime"] = 5,
+							["classe"] = "ROGUE",
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1659049591,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 35,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135301.979,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 53,
+				["playing_solo"] = true,
+				["totals"] = {
+					117, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:06:32",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 1.183000000019092,
+				["CombatEndedAt"] = 135303.162,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:06:31",
+				["end_time"] = 135303.162,
+				["combat_id"] = 35,
+				["tempo_start"] = 1659049590,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 1,
+				},
+				["totals_grupo"] = {
+					117, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 0.008304,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 117.005469,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135301.979,
+				["contra"] = "Crimson Cultist",
+				["TimeData"] = {
+				},
+			}, -- [20]
+			{
+				{
+					["combatId"] = 34,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005695,
+							["damage_from"] = {
+								["Smuggled Crawg"] = true,
+								["Crimson Cultist"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 504,
+								["Smuggled Crawg"] = 220,
+							},
+							["pets"] = {
+							},
+							["total"] = 724.0056950000001,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 724.0056950000001,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049581,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 66,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Crimson Cultist"] = 162,
+											["Smuggled Crawg"] = 143,
+										},
+										["n_dmg"] = 239,
+										["n_min"] = 15,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["total"] = 305,
+										["c_max"] = 66,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 66,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 164,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 164,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 164,
+										["c_max"] = 164,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 164,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Crimson Cultist"] = 72,
+											["Smuggled Crawg"] = 23,
+										},
+										["n_dmg"] = 95,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 95,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 47,
+										["targets"] = {
+											["Crimson Cultist"] = 92,
+											["Smuggled Crawg"] = 47,
+										},
+										["n_dmg"] = 139,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 139,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 14,
+											["Smuggled Crawg"] = 7,
+										},
+										["n_dmg"] = 21,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 21,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 54.4979823108626,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 169.005695,
+							["start_time"] = 1659049568,
+							["delay"] = 0,
+							["last_event"] = 1659049581,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 26.006296,
+							["total"] = 222.006296,
+							["damage_from"] = {
+								["Dreadstalker"] = true,
+								["Dreadstalker <Boni-Duskwood>"] = true,
+								["Shado"] = true,
+								["Boni-Duskwood"] = true,
+								["Akinshokin"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 29,
+								["Boni-Duskwood"] = 116,
+								["Akinshokin"] = 77,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 222.006296,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049590,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 29,
+											["Boni-Duskwood"] = 73,
+											["Akinshokin"] = 52,
+										},
+										["n_dmg"] = 154,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 154,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["a_dmg"] = 111,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 8,
+										["n_amt"] = 11,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[256099] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["Boni-Duskwood"] = 43,
+											["Akinshokin"] = 25,
+										},
+										["n_dmg"] = 68,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 68,
+										["c_max"] = 0,
+										["id"] = 256099,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 68,
+										["c_min"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 3,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "126153",
+							["serial"] = "Creature-0-3023-1642-22445-126153-0000E3164F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049588,
+							["damage_taken"] = 810.006296,
+							["start_time"] = 1659049568,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 14.001744,
+							["total"] = 140.001744,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 140,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 140.001744,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049581,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Smuggled Crawg",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 34,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 117,
+										},
+										["n_dmg"] = 83,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 117,
+										["c_max"] = 34,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 34,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[256715] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 23,
+										},
+										["n_dmg"] = 23,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 23,
+										["c_max"] = 0,
+										["id"] = 256715,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[263187] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 263187,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "136796",
+							["serial"] = "Creature-0-3023-1642-22445-136796-000063164F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049581,
+							["damage_taken"] = 220.001744,
+							["start_time"] = 1659049568,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 34,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 18,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 18.006408,
+							["total_without_pet"] = 74.006408,
+							["total"] = 74.006408,
+							["targets_absorbs"] = {
+								["Shado"] = 39,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 39.006408,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 74,
+							},
+							["totalover_without_pet"] = 0.006408,
+							["healing_taken"] = 74.006408,
+							["fight_component"] = true,
+							["end_time"] = 1659049581,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 39,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 39,
+										},
+										["n_min"] = 12,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 39,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 39,
+										},
+										["n_amt"] = 3,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 39,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 18,
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 35,
+										},
+										["n_min"] = 17,
+										["counter"] = 3,
+										["overheal"] = 18,
+										["total"] = 35,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 35,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049568,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.006408,
+							["delay"] = 0,
+							["last_event"] = 1659049581,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 34,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001306,
+							["resource"] = 4.001306,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001306,
+							["fight_component"] = true,
+							["total"] = 0.001306,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001306,
+							["last_event"] = 1659049590,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001306,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 34,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 65,
+							["aID"] = "3685-0DE330E0",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[1766] = {
+										["id"] = 1766,
+										["interrompeu_oque"] = {
+											[256099] = 1,
+										},
+										["targets"] = {
+											["Crimson Cultist"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[256099] = 1,
+							},
+							["fight_component"] = true,
+							["interrupt_targets"] = {
+								["Crimson Cultist"] = 1,
+							},
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 3,
+								[315496] = 1,
+								[1766] = 1,
+								[8676] = 1,
+							},
+							["interrupt"] = 1.008665,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049581,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Crimson Cultist",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[256099] = 2,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-126153-0000631656",
+							["aID"] = "126153",
+						}, -- [2]
+						{
+							["monster"] = true,
+							["nome"] = "Smuggled Crawg",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[256715] = 1,
+								[263187] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-136796-000063164F",
+							["aID"] = "136796",
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 34,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135279.71,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 52,
+				["playing_solo"] = true,
+				["totals"] = {
+					1085.99023, -- [1]
+					73.98908800000004, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.001159,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:06:22",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 13.28500000000349,
+				["CombatEndedAt"] = 135292.995,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:06:08",
+				["end_time"] = 135292.995,
+				["combat_id"] = 34,
+				["tempo_start"] = 1659049568,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 3,
+					["Smuggled Crawg"] = 1,
+				},
+				["totals_grupo"] = {
+					724, -- [1]
+					74, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 74.006408,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 724.0056950000001,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135279.71,
+				["contra"] = "Crimson Cultist",
+				["TimeData"] = {
+				},
+			}, -- [21]
+			{
+				{
+					["combatId"] = 33,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007393,
+							["damage_from"] = {
+								["Crimson Cultist"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 239,
+							},
+							["pets"] = {
+							},
+							["total"] = 239.007393,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 239.007393,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049560,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 65,
+										["g_amt"] = 0,
+										["n_max"] = 31,
+										["targets"] = {
+											["Crimson Cultist"] = 112,
+										},
+										["n_dmg"] = 47,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 112,
+										["c_max"] = 65,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 65,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 82,
+										["targets"] = {
+											["Crimson Cultist"] = 82,
+										},
+										["n_dmg"] = 82,
+										["n_min"] = 82,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 82,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Crimson Cultist"] = 23,
+										},
+										["n_dmg"] = 23,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 23,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 15,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 22,
+										},
+										["n_dmg"] = 7,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 22,
+										["c_max"] = 15,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 15,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 60.00687747961319,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 13.007393,
+							["start_time"] = 1659049556,
+							["delay"] = 0,
+							["last_event"] = 1659049559,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 13.005311,
+							["aID"] = "126153",
+							["damage_from"] = {
+								["Boni-Duskwood"] = true,
+								["Shado"] = true,
+								["Dreadstalker <Boni-Duskwood>"] = true,
+								["Akinshokin"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 13,
+								["Akinshokin"] = 86,
+							},
+							["fight_component"] = true,
+							["pets"] = {
+							},
+							["end_time"] = 1659049568,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 99.005311,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 99.005311,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 21,
+										["g_amt"] = 0,
+										["n_max"] = 13,
+										["targets"] = {
+											["Shado"] = 13,
+											["Akinshokin"] = 56,
+										},
+										["n_dmg"] = 48,
+										["n_min"] = 10,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 69,
+										["c_max"] = 21,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 35,
+										["c_min"] = 21,
+										["successful_casted"] = 0,
+										["a_amt"] = 3,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[256099] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Akinshokin"] = 30,
+										},
+										["n_dmg"] = 30,
+										["n_min"] = 30,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 30,
+										["c_max"] = 0,
+										["id"] = 256099,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 30,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-126153-000063163F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049568,
+							["damage_taken"] = 310.005311,
+							["start_time"] = 1659049558,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 33,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 18,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 18.003848,
+							["total_without_pet"] = 17.003848,
+							["total"] = 17.003848,
+							["targets_absorbs"] = {
+								["Shado"] = 17,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 17.003848,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 17,
+							},
+							["totalover_without_pet"] = 0.003848,
+							["healing_taken"] = 17.003848,
+							["fight_component"] = true,
+							["end_time"] = 1659049560,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 17,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_min"] = 17,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 17,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 17,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 18,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 18,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049556,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003848,
+							["delay"] = 0,
+							["last_event"] = 1659049559,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 33,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001593,
+							["resource"] = 2.001593,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001593,
+							["total"] = 0.001593,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001593,
+							["last_event"] = 1659049568,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001593,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 33,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 20,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049560,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 33,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135268.143,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 51,
+				["playing_solo"] = true,
+				["totals"] = {
+					337.993796, -- [1]
+					16.99292400000002, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.001064,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							13, -- [3]
+							1659049568.907, -- [4]
+							860, -- [5]
+							"Crimson Cultist", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:06:01",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 3.982999999978347,
+				["CombatEndedAt"] = 135272.126,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:05:57",
+				["end_time"] = 135272.126,
+				["combat_id"] = 33,
+				["tempo_start"] = 1659049556,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 2,
+				},
+				["totals_grupo"] = {
+					239, -- [1]
+					17, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 17.003848,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 239.007393,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135268.143,
+				["contra"] = "Crimson Cultist",
+				["TimeData"] = {
+				},
+			}, -- [22]
+			{
+				{
+					["combatId"] = 32,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002571,
+							["damage_from"] = {
+								["Crimson Cultist"] = true,
+								["Smuggled Crawg"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 503,
+							},
+							["pets"] = {
+							},
+							["total"] = 503.002571,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 503.002571,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049553,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 63,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Crimson Cultist"] = 224,
+										},
+										["n_dmg"] = 161,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 224,
+										["c_max"] = 32,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 31,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 36,
+										["targets"] = {
+											["Crimson Cultist"] = 36,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 36,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 36,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 30,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 37,
+										},
+										["n_dmg"] = 7,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 37,
+										["c_max"] = 15,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 15,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 48,
+										["targets"] = {
+											["Crimson Cultist"] = 95,
+										},
+										["n_dmg"] = 95,
+										["n_min"] = 47,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 95,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 62,
+										["targets"] = {
+											["Crimson Cultist"] = 62,
+										},
+										["n_dmg"] = 62,
+										["n_min"] = 62,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 62,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 49,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 49,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 49,
+										["c_max"] = 49,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 49,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 63.66315289193767,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 121.002571,
+							["start_time"] = 1659049545,
+							["delay"] = 0,
+							["last_event"] = 1659049552,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 128.003954,
+							["total"] = 279.003954,
+							["damage_from"] = {
+								["Dreadstalker <Boni-Duskwood>"] = true,
+								["Shamps-Area52"] = true,
+								["Shado"] = true,
+								["Boni-Duskwood"] = true,
+								["Akinshokin"] = true,
+							},
+							["targets"] = {
+								["Shamps-Area52"] = 13,
+								["Shado"] = 119,
+								["Boni-Duskwood"] = 47,
+								["Akinshokin"] = 100,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 279.003954,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049556,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 32,
+										["targets"] = {
+											["Shado"] = 94,
+											["Shamps-Area52"] = 13,
+											["Akinshokin"] = 55,
+										},
+										["n_dmg"] = 162,
+										["n_min"] = 10,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 162,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 12,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 11,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[256099] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["Shado"] = 25,
+											["Boni-Duskwood"] = 47,
+											["Akinshokin"] = 45,
+										},
+										["n_dmg"] = 117,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 117,
+										["c_max"] = 0,
+										["id"] = 256099,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 48,
+										["c_min"] = 0,
+										["successful_casted"] = 3,
+										["a_amt"] = 2,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "126153",
+							["serial"] = "Creature-0-3023-1642-22445-126153-0000E3163F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049556,
+							["damage_taken"] = 690.003954,
+							["start_time"] = 1659049545,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.002255,
+							["total"] = 2.002255,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Shado"] = 2,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2.002255,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049553,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Smuggled Crawg",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[256715] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2,
+										["targets"] = {
+											["Shado"] = 2,
+										},
+										["n_dmg"] = 2,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2,
+										["c_max"] = 0,
+										["id"] = 256715,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "136796",
+							["serial"] = "Creature-0-3023-1642-22445-136796-0000631636",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049547,
+							["damage_taken"] = 0.002255,
+							["start_time"] = 1659049547,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 32,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.00209,
+							["total_without_pet"] = 82.00209000000001,
+							["total"] = 82.00209000000001,
+							["targets_absorbs"] = {
+								["Shado"] = 46,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 46.00209,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 82,
+							},
+							["totalover_without_pet"] = 0.00209,
+							["healing_taken"] = 82.00209000000001,
+							["fight_component"] = true,
+							["end_time"] = 1659049553,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 46,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 32,
+										["targets"] = {
+											["Shado"] = 46,
+										},
+										["n_min"] = 14,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 46,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 46,
+										},
+										["n_amt"] = 2,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 46,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 36,
+										},
+										["n_min"] = 18,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 36,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 36,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049545,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.00209,
+							["delay"] = 0,
+							["last_event"] = 1659049552,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 32,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006555,
+							["resource"] = 4.006555000000001,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006555,
+							["fight_component"] = true,
+							["total"] = 0.006555,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006555,
+							["last_event"] = 1659049556,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.006555,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 32,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 40,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 4,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 2,
+								[196819] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049553,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Crimson Cultist",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[256099] = 3,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-126153-000063141D",
+							["aID"] = "126153",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 32,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135256.992,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 50,
+				["playing_solo"] = true,
+				["totals"] = {
+					783.982024, -- [1]
+					81.98359199999993, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.008204,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							17, -- [3]
+							1659049557.34, -- [4]
+							860, -- [5]
+							"Crimson Cultist", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:05:54",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 7.801000000006752,
+				["CombatEndedAt"] = 135264.793,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:05:46",
+				["end_time"] = 135264.793,
+				["combat_id"] = 32,
+				["tempo_start"] = 1659049545,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 2,
+				},
+				["totals_grupo"] = {
+					503, -- [1]
+					82, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 82.00209000000001,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 503.002571,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135256.892,
+				["contra"] = "Crimson Cultist",
+				["TimeData"] = {
+				},
+			}, -- [23]
+			{
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006328,
+							["damage_from"] = {
+								["Smuggled Crawg"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 234,
+								["Smuggled Crawg"] = 209,
+							},
+							["pets"] = {
+							},
+							["total"] = 443.006328,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 443.006328,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049541,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 66,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Crimson Cultist"] = 81,
+											["Smuggled Crawg"] = 131,
+										},
+										["n_dmg"] = 146,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 212,
+										["c_max"] = 66,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 66,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 84,
+										["targets"] = {
+											["Crimson Cultist"] = 84,
+										},
+										["n_dmg"] = 84,
+										["n_min"] = 84,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 84,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Crimson Cultist"] = 48,
+											["Smuggled Crawg"] = 23,
+										},
+										["n_dmg"] = 71,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 71,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 21,
+											["Smuggled Crawg"] = 7,
+										},
+										["n_dmg"] = 28,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 28,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 48,
+										["targets"] = {
+											["Smuggled Crawg"] = 48,
+										},
+										["n_dmg"] = 48,
+										["n_min"] = 48,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 48,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 74.24272297631789,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 50.006328,
+							["start_time"] = 1659049535,
+							["delay"] = 0,
+							["last_event"] = 1659049540,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 16.003874,
+							["total"] = 50.003874,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 50,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 50.003874,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049545,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Smuggled Crawg",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 30,
+										},
+										["n_dmg"] = 30,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 30,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[263187] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 263187,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[256715] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 20,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 256715,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "136796",
+							["serial"] = "Creature-0-3023-1642-22445-136796-0000631636",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049545,
+							["damage_taken"] = 209.003874,
+							["start_time"] = 1659049535,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 27.004155,
+							["total"] = 27.004155,
+							["damage_from"] = {
+								["Shado"] = true,
+								["Boni-Duskwood"] = true,
+								["Akinshokin"] = true,
+							},
+							["targets"] = {
+								["Boni-Duskwood"] = 27,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 27.004155,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049545,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 14,
+										["targets"] = {
+											["Boni-Duskwood"] = 27,
+										},
+										["n_dmg"] = 27,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 27,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "126153",
+							["serial"] = "Creature-0-3023-1642-22445-126153-0000631636",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049544,
+							["damage_taken"] = 281.004155,
+							["start_time"] = 1659049541,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 31,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 18,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 18.007475,
+							["total_without_pet"] = 48.007475,
+							["total"] = 48.007475,
+							["targets_absorbs"] = {
+								["Shado"] = 30,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 30.007475,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 48,
+							},
+							["totalover_without_pet"] = 0.007475,
+							["healing_taken"] = 48.007475,
+							["fight_component"] = true,
+							["end_time"] = 1659049541,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 30,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 30,
+										},
+										["n_min"] = 14,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 30,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 30,
+										},
+										["n_amt"] = 2,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 30,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 18,
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_min"] = 18,
+										["counter"] = 2,
+										["overheal"] = 18,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 18,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049535,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.007475,
+							["delay"] = 0,
+							["last_event"] = 1659049540,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 31,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003693,
+							["resource"] = 2.003693,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.003693,
+							["fight_component"] = true,
+							["total"] = 0.003693,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003693,
+							["last_event"] = 1659049545,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.003693,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 31,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 30,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[193315] = 1,
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049541,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Smuggled Crawg",
+							["flag_original"] = 68168,
+							["spell_cast"] = {
+								[263187] = 1,
+								[256715] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3023-1642-22445-136796-0000631636",
+							["aID"] = "136796",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135246.491,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 49,
+				["playing_solo"] = true,
+				["totals"] = {
+					519.9888920000001, -- [1]
+					47.99302599999999, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.00752,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							256715, -- [2]
+							2, -- [3]
+							1659049541.655, -- [4]
+							848, -- [5]
+							"Smuggled Crawg", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+							true, -- [1]
+							256715, -- [2]
+							2, -- [3]
+							1659049543.639, -- [4]
+							858, -- [5]
+							"Smuggled Crawg", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [2]
+						{
+							true, -- [1]
+							256715, -- [2]
+							2, -- [3]
+							1659049545.672, -- [4]
+							858, -- [5]
+							"Smuggled Crawg", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 4,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:05:41",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Smuggled Crawg",
+				["TotalElapsedCombatTime"] = 5.967000000004191,
+				["CombatEndedAt"] = 135252.458,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:05:35",
+				["end_time"] = 135252.458,
+				["combat_id"] = 31,
+				["tempo_start"] = 1659049535,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 2,
+					["Smuggled Crawg"] = 1,
+				},
+				["totals_grupo"] = {
+					443, -- [1]
+					48, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 48.007475,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 443.006328,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 135246.491,
+				["contra"] = "Crimson Cultist",
+				["TimeData"] = {
+				},
+			}, -- [24]
+			{
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 43.004054,
+							["total"] = 71.004054,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 71,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 71.004054,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049535,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 29,
+										["targets"] = {
+											["Shado"] = 71,
+										},
+										["n_dmg"] = 71,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 71,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "126153",
+							["serial"] = "Creature-0-3023-1642-22445-126153-00016315FB",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049535,
+							["damage_taken"] = 470.004054,
+							["start_time"] = 1659049520,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007618,
+							["damage_from"] = {
+								["Crimson Cultist"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 470,
+							},
+							["pets"] = {
+							},
+							["total"] = 470.007618,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 470.007618,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049528,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 96,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Crimson Cultist"] = 175,
+										},
+										["n_dmg"] = 79,
+										["n_min"] = 15,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 175,
+										["c_max"] = 64,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 2,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 32,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 32,
+										["targets"] = {
+											["Crimson Cultist"] = 32,
+										},
+										["n_dmg"] = 32,
+										["n_min"] = 32,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 32,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 73,
+										["targets"] = {
+											["Crimson Cultist"] = 73,
+										},
+										["n_dmg"] = 73,
+										["n_min"] = 73,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 73,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Crimson Cultist"] = 14,
+										},
+										["n_dmg"] = 14,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 95,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 95,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 95,
+										["c_max"] = 95,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 95,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 81,
+										["targets"] = {
+											["Crimson Cultist"] = 81,
+										},
+										["n_dmg"] = 81,
+										["n_min"] = 81,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 81,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 57.15768186794436,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 71.00761800000001,
+							["start_time"] = 1659049520,
+							["delay"] = 0,
+							["last_event"] = 1659049528,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 30,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 24,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 24.007689,
+							["total_without_pet"] = 57.007689,
+							["total"] = 57.007689,
+							["targets_absorbs"] = {
+								["Shado"] = 45,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 45.007689,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 57,
+							},
+							["totalover_without_pet"] = 0.007689,
+							["healing_taken"] = 57.007689,
+							["fight_component"] = true,
+							["end_time"] = 1659049528,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 45,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 29,
+										["targets"] = {
+											["Shado"] = 45,
+										},
+										["n_min"] = 16,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 45,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 45,
+										},
+										["n_amt"] = 2,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 45,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 24,
+										},
+										["n_max"] = 12,
+										["targets"] = {
+											["Shado"] = 12,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 24,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 12,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049520,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.007689,
+							["delay"] = 0,
+							["last_event"] = 1659049528,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 30,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001451,
+							["resource"] = 4.001451,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001451,
+							["fight_component"] = true,
+							["total"] = 0.001451,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001451,
+							["last_event"] = 1659049535,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001451,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 30,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[6770] = {
+										["activedamt"] = -1,
+										["id"] = 6770,
+										["targets"] = {
+										},
+										["actived_at"] = 1659049525,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrupt"] = 1.002861,
+							["cc_break_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["cc_break_oque"] = {
+											[6770] = 1,
+										},
+										["id"] = 185763,
+										["cc_break"] = 1,
+										["targets"] = {
+											["Crimson Cultist"] = 1,
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 42,
+							["debuff_uptime_targets"] = {
+							},
+							["interrupt_targets"] = {
+								["Crimson Cultist"] = 1,
+							},
+							["aID"] = "3685-0DE330E0",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[1766] = {
+										["id"] = 1766,
+										["interrompeu_oque"] = {
+											[256099] = 1,
+										},
+										["targets"] = {
+											["Crimson Cultist"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[256099] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 3,
+							["classe"] = "ROGUE",
+							["cc_break"] = 1.005545,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 1,
+								[8676] = 1,
+								[315496] = 1,
+								[1766] = 1,
+								[185763] = 1,
+							},
+							["cc_break_oque"] = {
+								[6770] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049528,
+							["pets"] = {
+							},
+							["cc_break_targets"] = {
+								["Crimson Cultist"] = 1,
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["tempo_start"] = 1659049520,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 48,
+				["playing_solo"] = true,
+				["totals"] = {
+					541, -- [1]
+					57, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					470, -- [1]
+					57, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:05:29",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 135240.174,
+				["CombatEndedAt"] = 135240.174,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 57.007689,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 470.007618,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 135240.174,
+				["combat_id"] = 30,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							14, -- [3]
+							1659049535.688, -- [4]
+							860, -- [5]
+							"Crimson Cultist", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["data_inicio"] = "17:05:20",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 2,
+				},
+				["start_time"] = 135231.29,
+				["TimeData"] = {
+				},
+				["contra"] = "Crimson Cultist",
+			}, -- [25]
+			{
+				{
+					["combatId"] = 29,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008073,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Amani Thug"] = 308,
+							},
+							["pets"] = {
+							},
+							["total"] = 308.008073,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 308.008073,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049475,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Amani Thug"] = 81,
+										},
+										["n_dmg"] = 81,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 81,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 82,
+										["targets"] = {
+											["Amani Thug"] = 82,
+										},
+										["n_dmg"] = 82,
+										["n_min"] = 82,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 82,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 31,
+										["targets"] = {
+											["Amani Thug"] = 31,
+										},
+										["n_dmg"] = 31,
+										["n_min"] = 31,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 31,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Amani Thug"] = 7,
+										},
+										["n_dmg"] = 7,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 71,
+										["targets"] = {
+											["Amani Thug"] = 107,
+										},
+										["n_dmg"] = 107,
+										["n_min"] = 36,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 107,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 30.5927764203438,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.008073,
+							["start_time"] = 1659049465,
+							["delay"] = 0,
+							["last_event"] = 1659049474,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.003051,
+							["damage_from"] = {
+								["Skullior-Area52"] = true,
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Skullior-Area52"] = 44,
+							},
+							["pets"] = {
+							},
+							["total"] = 44.003051,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 44.003051,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049475,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 13,
+										["targets"] = {
+											["Skullior-Area52"] = 22,
+										},
+										["n_dmg"] = 22,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 9,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[269837] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22,
+										["targets"] = {
+											["Skullior-Area52"] = 22,
+										},
+										["n_dmg"] = 22,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 269837,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 22,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-00006310B5",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049474,
+							["damage_taken"] = 453.003051,
+							["start_time"] = 1659049469,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 29,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 36,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 36.008358,
+							["total_without_pet"] = 15.008358,
+							["total"] = 15.008358,
+							["targets_absorbs"] = {
+								["Shado"] = 15,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 15.008358,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 15,
+							},
+							["totalover_without_pet"] = 0.008358,
+							["healing_taken"] = 15.008358,
+							["fight_component"] = true,
+							["end_time"] = 1659049475,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 15,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 15,
+										},
+										["n_min"] = 15,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 15,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 15,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 15,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 36,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 36,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049465,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.008358,
+							["delay"] = 0,
+							["last_event"] = 1659049474,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 29,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.004486,
+							["resource"] = 2.004486,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 18.004486,
+							["fight_component"] = true,
+							["total"] = 0.004486,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.004486,
+							["last_event"] = 1659049520,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.004486,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 29,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 48,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 2,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 1,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[185763] = 2,
+								[315496] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049475,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["classe"] = "UNKNOW",
+							["nome"] = "Amani Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[269837] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000630C4B",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 29,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135231.29,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 47,
+				["playing_solo"] = true,
+				["totals"] = {
+					351.972128, -- [1]
+					14.98403300000007, -- [2]
+					{
+						-0.005710000000000548, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:04:35",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Thug",
+				["TotalElapsedCombatTime"] = 10.0679999999993,
+				["CombatEndedAt"] = 135186.704,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:04:25",
+				["end_time"] = 135186.704,
+				["combat_id"] = 29,
+				["tempo_start"] = 1659049465,
+				["frags"] = {
+					["Amani Thug"] = 2,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					308, -- [1]
+					15, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 15.008358,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 308.008073,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135176.636,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [26]
+			{
+				{
+					["combatId"] = 28,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008686,
+							["damage_from"] = {
+								["Amani Thug"] = true,
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Amani Thug"] = 16,
+								["Gurubashi Thug"] = 298,
+							},
+							["pets"] = {
+							},
+							["total"] = 314.008686,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 314.008686,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049459,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["Amani Thug"] = 11,
+											["Gurubashi Thug"] = 85,
+										},
+										["n_dmg"] = 96,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 96,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 57,
+										["targets"] = {
+											["Gurubashi Thug"] = 57,
+										},
+										["n_dmg"] = 57,
+										["n_min"] = 57,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 57,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 34,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Gurubashi Thug"] = 70,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 18,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 70,
+										["c_max"] = 34,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 34,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Amani Thug"] = 5,
+											["Gurubashi Thug"] = 15,
+										},
+										["n_dmg"] = 20,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 20,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 36,
+										["targets"] = {
+											["Gurubashi Thug"] = 71,
+										},
+										["n_dmg"] = 71,
+										["n_min"] = 35,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 71,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 44.01579562645342,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 79.008686,
+							["start_time"] = 1659049452,
+							["delay"] = 0,
+							["last_event"] = 1659049458,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 25.00744,
+							["damage_from"] = {
+								["Skullior-Area52"] = true,
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 64,
+							},
+							["pets"] = {
+							},
+							["total"] = 64.00744,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 64.00744,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049459,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Gurubashi Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 42,
+										},
+										["n_dmg"] = 42,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 42,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[265754] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22,
+										["targets"] = {
+											["Shado"] = 22,
+										},
+										["n_dmg"] = 22,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 265754,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "125458",
+							["serial"] = "Creature-0-3023-1642-22445-125458-0000E3113B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049458,
+							["damage_taken"] = 461.00744,
+							["start_time"] = 1659049453,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 28.008369,
+							["damage_from"] = {
+								["Shado"] = true,
+								["Skullior-Area52"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 15,
+								["Skullior-Area52"] = 49,
+							},
+							["pets"] = {
+							},
+							["total"] = 64.008369,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 64.008369,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049465,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 15,
+											["Skullior-Area52"] = 24,
+										},
+										["n_dmg"] = 39,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 39,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[269837] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["Skullior-Area52"] = 25,
+										},
+										["n_dmg"] = 25,
+										["n_min"] = 25,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 25,
+										["c_max"] = 0,
+										["id"] = 269837,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000631134",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049465,
+							["damage_taken"] = 43.008369,
+							["start_time"] = 1659049452,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 28,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 15,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 15.00805,
+							["total_without_pet"] = 25.00805,
+							["total"] = 25.00805,
+							["targets_absorbs"] = {
+								["Shado"] = 25,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 25.00805,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 25,
+							},
+							["totalover_without_pet"] = 0.00805,
+							["healing_taken"] = 25.00805,
+							["fight_component"] = true,
+							["end_time"] = 1659049459,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 25,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 13,
+										["targets"] = {
+											["Shado"] = 25,
+										},
+										["n_min"] = 12,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 25,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 25,
+										},
+										["n_amt"] = 2,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 25,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 15,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 15,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049453,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.00805,
+							["delay"] = 0,
+							["last_event"] = 1659049458,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 28,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008647,
+							["resource"] = 4.008647,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 6.008647,
+							["fight_component"] = true,
+							["total"] = 0.008647,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.008647,
+							["last_event"] = 1659049465,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.008647,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 28,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 30,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[341260] = {
+										["activedamt"] = 1,
+										["id"] = 341260,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 2,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049459,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["classe"] = "UNKNOW",
+							["nome"] = "Amani Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[269837] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000631134",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 2600,
+							["classe"] = "UNKNOW",
+							["nome"] = "Gurubashi Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[265754] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "125458",
+							["serial"] = "Creature-0-3023-1642-22445-125458-000063113B",
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 28,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135163.452,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 46,
+				["playing_solo"] = true,
+				["totals"] = {
+					441.993844, -- [1]
+					24.994162, -- [2]
+					{
+						-0.00306799999999896, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							15, -- [3]
+							1659049465.833, -- [4]
+							860, -- [5]
+							"Amani Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:04:19",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Gurubashi Thug",
+				["TotalElapsedCombatTime"] = 7.134000000020023,
+				["CombatEndedAt"] = 135170.586,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:04:12",
+				["end_time"] = 135170.586,
+				["combat_id"] = 28,
+				["tempo_start"] = 1659049452,
+				["frags"] = {
+					["Amani Thug"] = 1,
+					["Gurubashi Thug"] = 2,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					314, -- [1]
+					25, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 25.00805,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 314.008686,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135163.452,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [27]
+			{
+				{
+					["combatId"] = 27,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008087,
+							["damage_from"] = {
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Gurubashi Thug"] = 227,
+							},
+							["pets"] = {
+							},
+							["total"] = 227.008087,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 227.008087,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049448,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["Gurubashi Thug"] = 121,
+										},
+										["n_dmg"] = 121,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 121,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 55,
+										["targets"] = {
+											["Gurubashi Thug"] = 55,
+										},
+										["n_dmg"] = 55,
+										["n_min"] = 55,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 55,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 11,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Gurubashi Thug"] = 16,
+										},
+										["n_dmg"] = 5,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 16,
+										["c_max"] = 11,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 11,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 35,
+										["targets"] = {
+											["Gurubashi Thug"] = 35,
+										},
+										["n_dmg"] = 35,
+										["n_min"] = 35,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 35,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 38.7981690309673,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 43.008087,
+							["start_time"] = 1659049442,
+							["delay"] = 0,
+							["last_event"] = 1659049447,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 32.002696,
+							["damage_from"] = {
+								["Skullior-Area52"] = true,
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Skullior-Area52"] = 20,
+								["Shado"] = 43,
+							},
+							["pets"] = {
+							},
+							["total"] = 63.002696,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 63.002696,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049452,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Gurubashi Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Skullior-Area52"] = 20,
+											["Shado"] = 43,
+										},
+										["n_dmg"] = 63,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 63,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "125458",
+							["serial"] = "Creature-0-3023-1642-22445-125458-0001E3113B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049452,
+							["damage_taken"] = 265.002696,
+							["start_time"] = 1659049442,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 27,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.004226,
+							["total_without_pet"] = 26.004226,
+							["total"] = 26.004226,
+							["targets_absorbs"] = {
+								["Shado"] = 12,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 12.004226,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 26,
+							},
+							["totalover_without_pet"] = 0.004226,
+							["healing_taken"] = 26.004226,
+							["fight_component"] = true,
+							["end_time"] = 1659049448,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 12,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 12,
+										["targets"] = {
+											["Shado"] = 12,
+										},
+										["n_min"] = 12,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 12,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 12,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 14,
+										},
+										["n_min"] = 14,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 14,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049442,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.004226,
+							["delay"] = 0,
+							["last_event"] = 1659049447,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 27,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008732,
+							["resource"] = 2.008732,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.008732,
+							["fight_component"] = true,
+							["total"] = 0.008732,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.008732,
+							["last_event"] = 1659049446,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.008732,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 27,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 25,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 4,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[185763] = 1,
+								[193315] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049448,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 27,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135153.784,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 45,
+				["playing_solo"] = true,
+				["totals"] = {
+					289.989994, -- [1]
+					25.99810700000001, -- [2]
+					{
+						-0.007061000000000206, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:04:08",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Gurubashi Thug",
+				["TotalElapsedCombatTime"] = 5.850999999995111,
+				["CombatEndedAt"] = 135159.635,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:04:03",
+				["end_time"] = 135159.635,
+				["combat_id"] = 27,
+				["tempo_start"] = 1659049442,
+				["frags"] = {
+					["Gurubashi Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					227, -- [1]
+					26, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 26.004226,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 227.008087,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135153.784,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [28]
+			{
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001777,
+							["end_time"] = 1659049441,
+							["damage_from"] = {
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Gurubashi Thug"] = 247,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 247.001777,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 247.001777,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Gurubashi Thug"] = 81,
+										},
+										["n_dmg"] = 81,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 81,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 3,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 62,
+										["targets"] = {
+											["Gurubashi Thug"] = 62,
+										},
+										["n_dmg"] = 62,
+										["n_min"] = 62,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 62,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Gurubashi Thug"] = 23,
+										},
+										["n_dmg"] = 23,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 23,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 35,
+										["targets"] = {
+											["Gurubashi Thug"] = 70,
+										},
+										["n_dmg"] = 70,
+										["n_min"] = 35,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 70,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Gurubashi Thug"] = 11,
+										},
+										["n_dmg"] = 11,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 11,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 34.86755745340354,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 57.001777,
+							["start_time"] = 1659049433,
+							["delay"] = 0,
+							["last_event"] = 1659049440,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.00388,
+							["damage_from"] = {
+								["Skullior-Area52"] = true,
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 57,
+							},
+							["pets"] = {
+							},
+							["total"] = 57.00388,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 57.00388,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049441,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Gurubashi Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 35,
+											["Skullior-Area52"] = 0,
+										},
+										["n_dmg"] = 35,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 35,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["DODGE"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[265754] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22,
+										["targets"] = {
+											["Shado"] = 22,
+										},
+										["n_dmg"] = 22,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 265754,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "125458",
+							["serial"] = "Creature-0-3023-1642-22445-125458-000163113B",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049440,
+							["damage_taken"] = 318.00388,
+							["start_time"] = 1659049435,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 26,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.006413,
+							["total_without_pet"] = 27.006413,
+							["total"] = 27.006413,
+							["targets_absorbs"] = {
+								["Shado"] = 13,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 13.006413,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 27,
+							},
+							["totalover_without_pet"] = 0.006413,
+							["healing_taken"] = 27.006413,
+							["fight_component"] = true,
+							["end_time"] = 1659049441,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 13,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 13,
+										["targets"] = {
+											["Shado"] = 13,
+										},
+										["n_min"] = 13,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 13,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 13,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 13,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 14,
+										},
+										["n_min"] = 14,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 14,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049433,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.006413,
+							["delay"] = 0,
+							["last_event"] = 1659049440,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 26,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003403,
+							["resource"] = 2.003403,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.003403,
+							["fight_component"] = true,
+							["total"] = 0.003403,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003403,
+							["last_event"] = 1659049440,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.003403,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 26,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 33,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 2,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[193315] = 2,
+								[8676] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049441,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["classe"] = "UNKNOW",
+							["nome"] = "Gurubashi Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[265754] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "125458",
+							["serial"] = "Creature-0-3023-1642-22445-125458-000163113B",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 26,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135145.184,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 44,
+				["playing_solo"] = true,
+				["totals"] = {
+					303.993397, -- [1]
+					26.995015, -- [2]
+					{
+						-0.007961999999999136, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:04:01",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Gurubashi Thug",
+				["TotalElapsedCombatTime"] = 7.084000000002561,
+				["CombatEndedAt"] = 135152.268,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:03:54",
+				["end_time"] = 135152.268,
+				["combat_id"] = 26,
+				["tempo_start"] = 1659049433,
+				["frags"] = {
+					["Gurubashi Thug"] = 2,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					247, -- [1]
+					27, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 27.006413,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 247.001777,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135145.184,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [29]
+			{
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005634,
+							["damage_from"] = {
+								["Sandfury Thug"] = true,
+								["Gurubashi Thug"] = true,
+							},
+							["targets"] = {
+								["Sandfury Thug"] = 225,
+							},
+							["pets"] = {
+							},
+							["total"] = 225.005634,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 225.005634,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049430,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 49,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Sandfury Thug"] = 108,
+										},
+										["n_dmg"] = 59,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 108,
+										["c_max"] = 49,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 49,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[185763] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 112,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Sandfury Thug"] = 112,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 112,
+										["c_max"] = 112,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 112,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Sandfury Thug"] = 5,
+										},
+										["n_dmg"] = 5,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 5,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 42.59050425897757,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 45.005634,
+							["start_time"] = 1659049425,
+							["delay"] = 0,
+							["last_event"] = 1659049429,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 15.00839,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 32,
+							},
+							["pets"] = {
+							},
+							["total"] = 32.00839,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 32.00839,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049430,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Sandfury Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 32,
+										},
+										["n_dmg"] = 32,
+										["n_min"] = 15,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 32,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+							},
+							["aID"] = "125460",
+							["serial"] = "Creature-0-3023-1642-22445-125460-0000630C11",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049429,
+							["damage_taken"] = 225.00839,
+							["start_time"] = 1659049427,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 25,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.007448,
+							["total_without_pet"] = 30.007448,
+							["total"] = 30.007448,
+							["targets_absorbs"] = {
+								["Shado"] = 15,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 15.007448,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 30,
+							},
+							["totalover_without_pet"] = 0.007448,
+							["healing_taken"] = 30.007448,
+							["fight_component"] = true,
+							["end_time"] = 1659049430,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 15,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 15,
+										},
+										["n_min"] = 15,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 15,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 15,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 15,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 15,
+										},
+										["n_min"] = 15,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 15,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 15,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049427,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.007448,
+							["delay"] = 0,
+							["last_event"] = 1659049429,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 25,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006973,
+							["resource"] = 1.006973,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006973,
+							["total"] = 0.006973,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006973,
+							["last_event"] = 1659049433,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.006973,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 25,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 20,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 4,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049430,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 25,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135136.75,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 43,
+				["playing_solo"] = true,
+				["totals"] = {
+					256.989476, -- [1]
+					29.99713499999999, -- [2]
+					{
+						-0.005469000000005053, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							13, -- [3]
+							1659049434.381, -- [4]
+							693, -- [5]
+							"Gurubashi Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:03:51",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sandfury Thug",
+				["TotalElapsedCombatTime"] = 5.282999999995809,
+				["CombatEndedAt"] = 135142.033,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:03:45",
+				["end_time"] = 135142.033,
+				["combat_id"] = 25,
+				["tempo_start"] = 1659049425,
+				["frags"] = {
+					["Sandfury Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					225, -- [1]
+					30, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 30.007448,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 225.005634,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135136.75,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [30]
+			{
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002233,
+							["damage_from"] = {
+								["Amani Thug"] = true,
+							},
+							["targets"] = {
+								["Amani Thug"] = 221,
+							},
+							["pets"] = {
+							},
+							["total"] = 221.002233,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 221.002233,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049423,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 24,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Amani Thug"] = 71,
+										},
+										["n_dmg"] = 47,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 71,
+										["c_max"] = 24,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 4,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 24,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61,
+										["targets"] = {
+											["Amani Thug"] = 61,
+										},
+										["n_dmg"] = 61,
+										["n_min"] = 61,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 61,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Amani Thug"] = 17,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 36,
+										["targets"] = {
+											["Amani Thug"] = 72,
+										},
+										["n_dmg"] = 72,
+										["n_min"] = 36,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 72,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 31.89986042141159,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 55.002233,
+							["start_time"] = 1659049416,
+							["delay"] = 0,
+							["last_event"] = 1659049422,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.00401,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 55,
+							},
+							["pets"] = {
+							},
+							["total"] = 55.00401,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 55.00401,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049423,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 29,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 29,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 29,
+										["c_max"] = 29,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 29,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[269837] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 26,
+										["targets"] = {
+											["Shado"] = 26,
+										},
+										["n_dmg"] = 26,
+										["n_min"] = 26,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 26,
+										["c_max"] = 0,
+										["id"] = 269837,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000630C81",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049421,
+							["damage_taken"] = 221.00401,
+							["start_time"] = 1659049418,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 24,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.004234,
+							["total_without_pet"] = 29.004234,
+							["total"] = 29.004234,
+							["targets_absorbs"] = {
+								["Shado"] = 14,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 14.004234,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 29,
+							},
+							["totalover_without_pet"] = 0.004234,
+							["healing_taken"] = 29.004234,
+							["fight_component"] = true,
+							["end_time"] = 1659049423,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 14,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 14,
+										},
+										["n_min"] = 14,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 14,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 14,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 15,
+										},
+										["n_min"] = 15,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 15,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 15,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049416,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.004234,
+							["delay"] = 0,
+							["last_event"] = 1659049422,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 24,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006929,
+							["resource"] = 3.006929,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006929,
+							["fight_component"] = true,
+							["total"] = 0.006929,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.006929,
+							["last_event"] = 1659049425,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.006929,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 24,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["fight_component"] = true,
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[315496] = 1,
+								[193315] = 2,
+								[8676] = 1,
+							},
+							["buff_uptime"] = 28,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1659049423,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["classe"] = "UNKNOW",
+							["nome"] = "Amani Thug",
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[269837] = 1,
+							},
+							["tipo"] = 4,
+							["aID"] = "120843",
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000630C81",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 24,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135127.549,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 42,
+				["playing_solo"] = true,
+				["totals"] = {
+					275.9859970000001, -- [1]
+					28.99577299999999, -- [2]
+					{
+						-0.004274999999999807, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:03:43",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Thug",
+				["TotalElapsedCombatTime"] = 7.201000000000931,
+				["CombatEndedAt"] = 135134.75,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:03:36",
+				["end_time"] = 135134.75,
+				["combat_id"] = 24,
+				["tempo_start"] = 1659049416,
+				["frags"] = {
+					["Amani Thug"] = 1,
+					["Sandfury Thug"] = 1,
+					["Shadric Crawler"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					221, -- [1]
+					29, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 29.004234,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 221.002233,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135127.449,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [31]
+			{
+				{
+					["combatId"] = 23,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007966,
+							["damage_from"] = {
+								["Sandfury Thug"] = true,
+								["Amani Thug"] = true,
+							},
+							["targets"] = {
+								["Sandfury Thug"] = 217,
+							},
+							["pets"] = {
+							},
+							["total"] = 217.007966,
+							["on_hold"] = false,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 217.007966,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1659049355,
+							["classe"] = "ROGUE",
+							["friendlyfire_total"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Sandfury Thug"] = 45,
+										},
+										["n_dmg"] = 45,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 45,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61,
+										["targets"] = {
+											["Sandfury Thug"] = 61,
+										},
+										["n_dmg"] = 61,
+										["n_min"] = 61,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 61,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 34,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Sandfury Thug"] = 34,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 34,
+										["c_max"] = 34,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 34,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 12,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Sandfury Thug"] = 22,
+										},
+										["n_dmg"] = 10,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 22,
+										["c_max"] = 12,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 12,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 55,
+										["targets"] = {
+											["Sandfury Thug"] = 55,
+										},
+										["n_dmg"] = 55,
+										["n_min"] = 55,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 55,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 60.54909765620673,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 30.007966,
+							["start_time"] = 1659049351,
+							["delay"] = 0,
+							["last_event"] = 1659049354,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.001477,
+							["damage_from"] = {
+								["Boar"] = true,
+								["Artemíza-Area52"] = true,
+								["Skullior-Area52"] = true,
+								["Wolf"] = true,
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 16,
+								["Wolf"] = 29,
+								["Skullior-Area52"] = 24,
+							},
+							["total"] = 69.001477,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 69.001477,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1659049416,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Sandfury Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 16,
+											["Wolf"] = 13,
+											["Skullior-Area52"] = 11,
+										},
+										["n_dmg"] = 40,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 40,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 11,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[268800] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 16,
+										["targets"] = {
+											["Skullior-Area52"] = 13,
+											["Wolf"] = 16,
+										},
+										["n_dmg"] = 29,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 29,
+										["c_max"] = 0,
+										["id"] = 268800,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 13,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["aID"] = "125460",
+							["serial"] = "Creature-0-3023-1642-22445-125460-0000630FD2",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1659049415,
+							["damage_taken"] = 425.001477,
+							["start_time"] = 1659049363,
+							["delay"] = 1659049404,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 23,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 0.003263,
+							["total_without_pet"] = 27.003263,
+							["total"] = 27.003263,
+							["targets_absorbs"] = {
+								["Shado"] = 13,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 13.003263,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 27,
+							},
+							["totalover_without_pet"] = 0.003263,
+							["healing_taken"] = 27.003263,
+							["fight_component"] = true,
+							["end_time"] = 1659049355,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 13,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 13,
+										["targets"] = {
+											["Shado"] = 13,
+										},
+										["n_min"] = 13,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 13,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 13,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 13,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 14,
+										},
+										["n_min"] = 14,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 14,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049351,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.003263,
+							["delay"] = 0,
+							["last_event"] = 1659049354,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 23,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.008059,
+							["resource"] = 3.008059,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.008059,
+							["fight_component"] = true,
+							["total"] = 0.008059,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.008059,
+							["last_event"] = 1659049416,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.008059,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 23,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185763] = {
+										["activedamt"] = 0,
+										["id"] = 185763,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 17,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315496] = {
+										["activedamt"] = 1,
+										["id"] = 315496,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 2,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[185763] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049355,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 23,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135062.894,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 41,
+				["playing_solo"] = true,
+				["totals"] = {
+					285.9349189999991, -- [1]
+					26.98783, -- [2]
+					{
+						-0.006275000000000475, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							14, -- [3]
+							1659049416.646, -- [4]
+							693, -- [5]
+							"Amani Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:02:35",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sandfury Thug",
+				["TotalElapsedCombatTime"] = 3.584000000002561,
+				["CombatEndedAt"] = 135066.478,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:02:32",
+				["end_time"] = 135066.478,
+				["combat_id"] = 23,
+				["tempo_start"] = 1659049351,
+				["frags"] = {
+					["Sandfury Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					217, -- [1]
+					27, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 27.003263,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 217.007966,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135062.894,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [32]
+			{
+				{
+					["combatId"] = 22,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004844,
+							["end_time"] = 1659049345,
+							["damage_from"] = {
+								["Sandfury Thug"] = true,
+							},
+							["targets"] = {
+								["Amani Thug"] = 246,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 246.004844,
+							["friendlyfire"] = {
+							},
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 246.004844,
+							["classe"] = "ROGUE",
+							["spec"] = 260,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Amani Thug"] = 36,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 12,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 36,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 62,
+										["targets"] = {
+											["Amani Thug"] = 62,
+										},
+										["n_dmg"] = 62,
+										["n_min"] = 62,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 62,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24,
+										["targets"] = {
+											["Amani Thug"] = 24,
+										},
+										["n_dmg"] = 24,
+										["n_min"] = 24,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 24,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[197834] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 71,
+										["g_amt"] = 0,
+										["n_max"] = 36,
+										["targets"] = {
+											["Amani Thug"] = 107,
+										},
+										["n_dmg"] = 36,
+										["n_min"] = 36,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 107,
+										["c_max"] = 71,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 71,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Amani Thug"] = 17,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3685-0DE330E0",
+							["last_dps"] = 158.6104732423785,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 13.004844,
+							["start_time"] = 1659049342,
+							["delay"] = 0,
+							["last_event"] = 1659049343,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.007831,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007831,
+							["friendlyfire"] = {
+							},
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1659049345,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Amani Thug",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["aID"] = "120843",
+							["total"] = 0.007831,
+							["serial"] = "Creature-0-3023-1642-22445-120843-0000630FF4",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 246.007831,
+							["start_time"] = 1659049345,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 22,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Shado"] = 15,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "ROGUE",
+							["totalover"] = 15.006726,
+							["total_without_pet"] = 14.006726,
+							["total"] = 14.006726,
+							["targets_absorbs"] = {
+								["Shado"] = 14,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 14.006726,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 14,
+							},
+							["totalover_without_pet"] = 0.006726,
+							["healing_taken"] = 14.006726,
+							["fight_component"] = true,
+							["end_time"] = 1659049345,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 14,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 14,
+										},
+										["n_min"] = 14,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 14,
+										},
+										["n_amt"] = 1,
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 14,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 15,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 15,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1659049342,
+							["spec"] = 260,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["totaldenied"] = 0.006726,
+							["delay"] = 0,
+							["last_event"] = 1659049343,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 22,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00347,
+							["resource"] = 3.00347,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.00347,
+							["fight_component"] = true,
+							["total"] = 0.00347,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.00347,
+							["last_event"] = 1659049351,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.00347,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 22,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime"] = 11,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335152] = {
+										["activedamt"] = 1,
+										["id"] = 335152,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[315584] = {
+										["activedamt"] = 1,
+										["id"] = 315584,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[195627] = {
+										["activedamt"] = 1,
+										["id"] = 195627,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326419] = {
+										["activedamt"] = 1,
+										["id"] = 326419,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[193315] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1659049345,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 22,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 135053.877,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 40,
+				["playing_solo"] = true,
+				["totals"] = {
+					245.99478, -- [1]
+					14, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							13, -- [3]
+							1659049352.091, -- [4]
+							693, -- [5]
+							"Sandfury Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "17:02:25",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Amani Thug",
+				["TotalElapsedCombatTime"] = 2.416999999986729,
+				["CombatEndedAt"] = 135056.294,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "17:02:23",
+				["end_time"] = 135056.294,
+				["combat_id"] = 22,
+				["tempo_start"] = 1659049342,
+				["frags"] = {
+					["Amani Thug"] = 1,
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					246, -- [1]
+					14, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 14.006726,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Shado"] = 246.004844,
+						}, -- [1]
+					},
+				},
+				["start_time"] = 135053.777,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [33]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007308,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+								["Wild Thumpknuckle"] = true,
+								["Amani Thug"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.007308,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 1,
+							["dps_started"] = false,
+							["total"] = 0.007308,
+							["classe"] = "ROGUE",
+							["end_time"] = 1658961534,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["damage_taken"] = 134.007308,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961534,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.007956,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Shado"] = 17,
+							},
+							["pets"] = {
+							},
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 17.007956,
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["monster"] = true,
+							["total"] = 17.007956,
+							["aID"] = "130486",
+							["dps_started"] = false,
+							["nome"] = "Wild Thumpknuckle",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["fight_component"] = true,
+							["end_time"] = 1658961534,
+							["damage_taken"] = 0.007956,
+							["friendlyfire_total"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1658961525,
+							["on_hold"] = false,
+							["start_time"] = 1658961525,
+							["serial"] = "Creature-0-3023-1642-22445-130486-0000609BBA",
+							["friendlyfire"] = {
+							},
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.005718,
+							["total_without_pet"] = 17.005718,
+							["total"] = 17.005718,
+							["targets_absorbs"] = {
+								["Shado"] = 17,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 17.005718,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 17,
+							},
+							["totalover_without_pet"] = 0.005718,
+							["healing_taken"] = 17.005718,
+							["fight_component"] = true,
+							["end_time"] = 1658961534,
+							["targets_overheal"] = {
+							},
+							["last_event"] = 1658961525,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 17,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 17,
+										["targets"] = {
+											["Shado"] = 17,
+										},
+										["n_min"] = 17,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 17,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 17,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.005718,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961525,
+							["delay"] = 0,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001625,
+							["resource"] = 2.001625,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001625,
+							["total"] = 0.001625,
+							["resource_type"] = 4,
+							["nome"] = "Shado",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001625,
+							["last_event"] = 1659049342,
+							["aID"] = "3685-0DE330E0",
+							["tipo"] = 3,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalover"] = 0.001625,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["fight_component"] = true,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["buff_uptime"] = 36,
+							["last_event"] = 1658961534,
+							["aID"] = "3685-0DE330E0",
+							["classe"] = "ROGUE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[259395] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 259395,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 21,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					16.90565799999846, -- [1]
+					16.997894, -- [2]
+					{
+						-0.01292400000000171, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					17, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:38:54",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Wild Thumpknuckle",
+				["TotalElapsedCombatTime"] = 47245.667,
+				["CombatEndedAt"] = 47245.667,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:38:46",
+				["end_time"] = 47245.667,
+				["combat_id"] = 21,
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							103, -- [3]
+							1658961790.72, -- [4]
+							590, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							1, -- [2]
+							14, -- [3]
+							1659049342.974, -- [4]
+							693, -- [5]
+							"Amani Thug", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+							false, -- [11]
+							false, -- [12]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["tempo_start"] = 1658961525,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Wild Thumpknuckle",
+				["combat_counter"] = 38,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 0.007308,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 17.005718,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 47237.1,
+				["TimeData"] = {
+				},
+				["frags"] = {
+				},
+			}, -- [34]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001657,
+							["damage_from"] = {
+								["Bloodraged Pterrordax"] = true,
+							},
+							["targets"] = {
+								["Bloodraged Pterrordax"] = 550,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["last_dps"] = 46.47246784960208,
+							["aID"] = "3685-0DE330E0",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 550.001657,
+							["tipo"] = 1,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 550.001657,
+							["friendlyfire_total"] = 0,
+							["damage_taken"] = 138.001657,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["end_time"] = 1658961292,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 59,
+										["g_amt"] = 0,
+										["n_max"] = 29,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 117,
+										},
+										["n_dmg"] = 58,
+										["n_min"] = 14,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 117,
+										["c_max"] = 59,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_amt"] = 0,
+										["c_min"] = 59,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 3,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 68,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 134,
+										},
+										["n_dmg"] = 134,
+										["n_min"] = 66,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 134,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 21,
+										},
+										["n_dmg"] = 21,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 21,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 44,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 173,
+										},
+										["n_dmg"] = 173,
+										["n_min"] = 43,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 173,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 63,
+										},
+										["n_dmg"] = 63,
+										["n_min"] = 21,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 63,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 42,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 42,
+										},
+										["n_dmg"] = 42,
+										["n_min"] = 42,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 42,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["last_event"] = 1658961292,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961286,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 15.004805,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Raptari Druid"] = 28,
+								["Shado"] = 138,
+							},
+							["delay"] = 1658961430,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["aID"] = "126618",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 166.004805,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["end_time"] = 1658961525,
+							["damage_taken"] = 550.004805,
+							["total"] = 166.004805,
+							["nome"] = "Bloodraged Pterrordax",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Raptari Druid"] = 28,
+											["Shado"] = 138,
+										},
+										["n_dmg"] = 166,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 166,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 11,
+										["extra"] = {
+											["extra_attack"] = 4,
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[8599] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 8599,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire_total"] = 0,
+							["monster"] = true,
+							["friendlyfire"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1658961430,
+							["on_hold"] = false,
+							["start_time"] = 1658961375,
+							["serial"] = "Creature-0-3023-1642-22445-126618-000061BD69",
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.002047,
+							["total_without_pet"] = 58.002047,
+							["total"] = 58.002047,
+							["targets_absorbs"] = {
+								["Shado"] = 29,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 29.002047,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 58,
+							},
+							["totalover_without_pet"] = 0.002047,
+							["healing_taken"] = 58.002047,
+							["fight_component"] = true,
+							["end_time"] = 1658961292,
+							["targets_overheal"] = {
+							},
+							["last_event"] = 1658961292,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 29,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 29,
+										},
+										["n_min"] = 14,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 29,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 29,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 29,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15,
+										["targets"] = {
+											["Shado"] = 29,
+										},
+										["n_min"] = 14,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 29,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 29,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.002047,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961281,
+							["delay"] = 0,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.007034,
+							["resource"] = 4.007034,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.007034,
+							["fight_component"] = true,
+							["total"] = 0.007034,
+							["totalover"] = 0.007034,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["tipo"] = 3,
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1658961292,
+							["alternatepower"] = 0.007034,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3685-0DE330E0",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[185763] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 185763,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 58,
+							["aID"] = "3685-0DE330E0",
+							["interrupt_spells"] = {
+								["_ActorTable"] = {
+									[1766] = {
+										["id"] = 1766,
+										["counter"] = 1,
+										["targets"] = {
+											["Bloodraged Pterrordax"] = 1,
+										},
+										["interrompeu_oque"] = {
+											[260409] = 1,
+										},
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[341260] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 341260,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[259395] = {
+										["activedamt"] = 1,
+										["id"] = 259395,
+										["targets"] = {
+										},
+										["actived_at"] = 1658961281,
+										["uptime"] = 0,
+										["counter"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[259161] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 259161,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[195627] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 195627,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["interrompeu_oque"] = {
+								[260409] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 1,
+							["spec"] = 260,
+							["tipo"] = 4,
+							["interrupt"] = 1.001373,
+							["interrupt_targets"] = {
+								["Bloodraged Pterrordax"] = 1,
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 2,
+								[185763] = 2,
+								[1766] = 1,
+								[196819] = 1,
+							},
+							["classe"] = "ROGUE",
+							["pets"] = {
+							},
+							["last_event"] = 1658961292,
+							["buff_uptime_targets"] = {
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["nome"] = "Shado",
+						}, -- [1]
+						{
+							["monster"] = true,
+							["last_event"] = 0,
+							["nome"] = "Bloodraged Pterrordax",
+							["aID"] = "126618",
+							["spell_cast"] = {
+								[8599] = 2,
+							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-126618-0000E1BC10",
+							["flag_original"] = 68168,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 20,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 47235.916,
+				["tempo_start"] = 1658961281,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					715.96937, -- [1]
+					58, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.006471,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					550, -- [1]
+					58, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:34:53",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Bloodraged Pterrordax",
+				["TotalElapsedCombatTime"] = 47004.033,
+				["CombatEndedAt"] = 47004.033,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 550.001657,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 58.002047,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 47004.033,
+				["combat_id"] = 20,
+				["overall_added"] = true,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Bloodraged Pterrordax"] = 2,
+				},
+				["combat_counter"] = 37,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "16:34:41",
+				["start_time"] = 46992.198,
+				["contra"] = "Bloodraged Pterrordax",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [35]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 19,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001171,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+								["Dregada"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 82,
+								["Dregada"] = 1396,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["last_dps"] = 69.00743164628577,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1478.001171,
+							["last_event"] = 1658961184,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1658961185,
+							["aID"] = "3685-0DE330E0",
+							["damage_taken"] = 324.001171,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["total"] = 1478.001171,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 271,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Crimson Cultist"] = 23,
+											["Dregada"] = 814,
+										},
+										["n_dmg"] = 566,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 37,
+										["total"] = 837,
+										["c_max"] = 47,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+											["extra_attack"] = 6,
+										},
+										["a_amt"] = 0,
+										["c_min"] = 21,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 27,
+										["spellschool"] = 1,
+										["MISS"] = 3,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 59,
+										["targets"] = {
+											["Crimson Cultist"] = 59,
+										},
+										["n_dmg"] = 59,
+										["n_min"] = 59,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 59,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[86392] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 77,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Dregada"] = 142,
+										},
+										["n_dmg"] = 65,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 142,
+										["c_max"] = 43,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 34,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[315585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 11,
+										["g_amt"] = 0,
+										["n_max"] = 7,
+										["targets"] = {
+											["Dregada"] = 80,
+										},
+										["n_dmg"] = 69,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["total"] = 80,
+										["c_max"] = 11,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 11,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 13,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[196819] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 86,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Dregada"] = 86,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 86,
+										["c_max"] = 86,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 86,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[185763] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 101,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Dregada"] = 101,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 101,
+										["c_max"] = 101,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 101,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 42,
+										["targets"] = {
+											["Dregada"] = 173,
+										},
+										["n_dmg"] = 173,
+										["n_min"] = 32,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 173,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961164,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 16.007077,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 85,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 85.007077,
+							["end_time"] = 1658961185,
+							["monster"] = true,
+							["total"] = 85.007077,
+							["damage_taken"] = 1396.007077,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Dregada",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Shado"] = 52,
+										},
+										["n_dmg"] = 52,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 52,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+										},
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+									}, -- [1]
+									[263046] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 263046,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+									[266267] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 266267,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+									[263043] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 263043,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+									[265772] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Shado"] = 33,
+										},
+										["n_dmg"] = 33,
+										["n_min"] = 33,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 33,
+										["c_max"] = 0,
+										["id"] = 265772,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["aID"] = "127079",
+							["custom"] = 0,
+							["last_event"] = 1658961180,
+							["on_hold"] = false,
+							["start_time"] = 1658961171,
+							["serial"] = "Creature-0-3023-1642-22445-127079-000061BC35",
+							["fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003894,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003894,
+							["end_time"] = 1658961185,
+							["fight_component"] = true,
+							["total"] = 0.003894,
+							["damage_taken"] = 82.003894,
+							["on_hold"] = false,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["aID"] = "127078",
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961185,
+							["serial"] = "Creature-0-3023-1642-22445-127078-000161BC36",
+							["monster"] = true,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 19,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.00704,
+							["total_without_pet"] = 30.00704,
+							["total"] = 30.00704,
+							["targets_absorbs"] = {
+								["Shado"] = 16,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 16.00704,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 30,
+							},
+							["totalover_without_pet"] = 0.00704,
+							["healing_taken"] = 30.00704,
+							["fight_component"] = true,
+							["end_time"] = 1658961185,
+							["targets_overheal"] = {
+							},
+							["last_event"] = 1658961184,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 16,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 16,
+										["targets"] = {
+											["Shado"] = 16,
+										},
+										["n_min"] = 16,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 16,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 16,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 16,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 14,
+										},
+										["n_min"] = 14,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 14,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 14,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.00704,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961184,
+							["delay"] = 1658961171,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 19,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00263,
+							["resource"] = 5.00263,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.00263,
+							["fight_component"] = true,
+							["total"] = 0.00263,
+							["totalover"] = 0.00263,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["tipo"] = 3,
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1658961184,
+							["alternatepower"] = 0.00263,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3685-0DE330E0",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 19,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[185763] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 185763,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 98,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 21,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268744] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268744,
+										["uptime"] = 17,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 21,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 21,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315496] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315496,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[195627] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 195627,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 6,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 4,
+								[8676] = 1,
+								[315496] = 1,
+								[185763] = 1,
+								[196819] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1658961185,
+							["classe"] = "ROGUE",
+							["pets"] = {
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["monster"] = true,
+							["last_event"] = 0,
+							["nome"] = "Dregada",
+							["aID"] = "127079",
+							["spell_cast"] = {
+								[263046] = 1,
+								[266267] = 1,
+								[263043] = 1,
+								[265772] = 1,
+							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-127079-000061BC35",
+							["flag_original"] = 68168,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 19,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 46990.931,
+				["tempo_start"] = 1658961164,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					1562.988994, -- [1]
+					30, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					1478, -- [1]
+					30, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:33:05",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Dregada",
+				["TotalElapsedCombatTime"] = 21.41799999999785,
+				["CombatEndedAt"] = 46896.724,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 1478.001171,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 30.00704,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 46896.724,
+				["combat_id"] = 19,
+				["overall_added"] = true,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Dregada"] = 1,
+				},
+				["combat_counter"] = 36,
+				["player_last_events"] = {
+					["Shado"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							82, -- [3]
+							1658961269.215, -- [4]
+							611, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							3, -- [2]
+							63, -- [3]
+							1658961274.681, -- [4]
+							611, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							3, -- [2]
+							11, -- [3]
+							1658961276.132, -- [4]
+							610, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [3]
+						{
+							true, -- [1]
+							3, -- [2]
+							83, -- [3]
+							1658961278.348, -- [4]
+							572, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 5,
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "16:32:44",
+				["start_time"] = 46875.306,
+				["contra"] = "Crimson Cultist",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [36]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007313,
+							["damage_from"] = {
+								["Crimson Cultist"] = true,
+								["Guardian of the Dead"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 132,
+								["Guardian of the Dead"] = 347,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["last_dps"] = 43.08394612342312,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 479.007313,
+							["last_event"] = 1658961126,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1658961127,
+							["aID"] = "3685-0DE330E0",
+							["damage_taken"] = 62.007313,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["total"] = 479.007313,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 131,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Crimson Cultist"] = 89,
+											["Guardian of the Dead"] = 154,
+										},
+										["n_dmg"] = 112,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 243,
+										["c_max"] = 44,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_amt"] = 0,
+										["c_min"] = 22,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 6,
+										["spellschool"] = 1,
+										["MISS"] = 2,
+									}, -- [1]
+									[185763] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 50,
+										["targets"] = {
+											["Guardian of the Dead"] = 50,
+										},
+										["n_dmg"] = 50,
+										["n_min"] = 50,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 50,
+										["c_max"] = 0,
+										["id"] = 185763,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[315585] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 32,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 10,
+											["Guardian of the Dead"] = 22,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 32,
+										["c_max"] = 11,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 10,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[196819] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 55,
+										["targets"] = {
+											["Guardian of the Dead"] = 55,
+										},
+										["n_dmg"] = 55,
+										["n_min"] = 55,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 55,
+										["c_max"] = 0,
+										["id"] = 196819,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Guardian of the Dead"] = 33,
+										},
+										["n_dmg"] = 33,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 33,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Crimson Cultist"] = 33,
+											["Guardian of the Dead"] = 33,
+										},
+										["n_dmg"] = 66,
+										["n_min"] = 33,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 66,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961116,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 11.0031,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 33,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 33.0031,
+							["end_time"] = 1658961127,
+							["monster"] = true,
+							["total"] = 33.0031,
+							["damage_taken"] = 347.0031,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Guardian of the Dead",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12,
+										["targets"] = {
+											["Shado"] = 33,
+										},
+										["n_dmg"] = 33,
+										["n_min"] = 10,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 33,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["aID"] = "127074",
+							["custom"] = 0,
+							["last_event"] = 1658961120,
+							["on_hold"] = false,
+							["start_time"] = 1658961116,
+							["serial"] = "Creature-0-3023-1642-22445-127074-000061BBE0",
+							["fight_component"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 18.004079,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 29,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 29.004079,
+							["end_time"] = 1658961127,
+							["monster"] = true,
+							["total"] = 29.004079,
+							["damage_taken"] = 132.004079,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 11,
+										["targets"] = {
+											["Shado"] = 11,
+										},
+										["n_dmg"] = 11,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 11,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 1,
+										["spellschool"] = 1,
+										["DODGE"] = 1,
+									}, -- [1]
+									[252215] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 252215,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 2,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+									[256099] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 18,
+										},
+										["n_dmg"] = 18,
+										["n_min"] = 18,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 18,
+										["c_max"] = 0,
+										["id"] = 256099,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["aID"] = "138274",
+							["custom"] = 0,
+							["last_event"] = 1658961125,
+							["on_hold"] = false,
+							["start_time"] = 1658961123,
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BCB6",
+							["fight_component"] = true,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.00743,
+							["total_without_pet"] = 57.00743,
+							["total"] = 57.00743,
+							["targets_absorbs"] = {
+								["Shado"] = 29,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 29.00743,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 57,
+							},
+							["totalover_without_pet"] = 0.00743,
+							["healing_taken"] = 57.00743,
+							["fight_component"] = true,
+							["end_time"] = 1658961127,
+							["targets_overheal"] = {
+							},
+							["last_event"] = 1658961126,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 29,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 18,
+										["targets"] = {
+											["Shado"] = 29,
+										},
+										["n_min"] = 11,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 29,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 29,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 29,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 14,
+										["targets"] = {
+											["Shado"] = 28,
+										},
+										["n_min"] = 14,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 28,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 28,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.00743,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961116,
+							["delay"] = 0,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006851,
+							["resource"] = 5.006851,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006851,
+							["fight_component"] = true,
+							["total"] = 0.006851,
+							["totalover"] = 0.006851,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["tipo"] = 3,
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1658961164,
+							["alternatepower"] = 0.006851,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3685-0DE330E0",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[185763] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 185763,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 56,
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315496] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 315496,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[277124] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 277124,
+										["uptime"] = 11,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[195627] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 195627,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 4,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193315] = 2,
+								[185763] = 1,
+								[315496] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1658961127,
+							["classe"] = "ROGUE",
+							["pets"] = {
+							},
+							["serial"] = "Player-3685-0DE330E0",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+						{
+							["monster"] = true,
+							["last_event"] = 0,
+							["nome"] = "Crimson Cultist",
+							["aID"] = "138274",
+							["spell_cast"] = {
+								[252215] = 2,
+								[256099] = 1,
+							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BCB6",
+							["flag_original"] = 2632,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 18,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					541, -- [1]
+					57, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					479, -- [1]
+					57, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:32:07",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Guardian of the Dead",
+				["TotalElapsedCombatTime"] = 46838.587,
+				["CombatEndedAt"] = 46838.587,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "16:31:56",
+				["end_time"] = 46838.587,
+				["combat_id"] = 18,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1658961116,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Guardian of the Dead",
+				["combat_counter"] = 35,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 479.007313,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 57.00743,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 46827.46900000001,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 1,
+					["Guardian of the Dead"] = 1,
+				},
+			}, -- [37]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.001897,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 9,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9.001897,
+							["end_time"] = 1658961112,
+							["monster"] = true,
+							["total"] = 9.001897,
+							["damage_taken"] = 136.001897,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 9,
+										["targets"] = {
+											["Shado"] = 9,
+										},
+										["n_dmg"] = 9,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 9,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[252215] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 252215,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["aID"] = "138274",
+							["custom"] = 0,
+							["last_event"] = 1658961110,
+							["on_hold"] = false,
+							["start_time"] = 1658961110,
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BC65",
+							["fight_component"] = true,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005651,
+							["damage_from"] = {
+								["Crimson Cultist"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 136,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["last_dps"] = 92.58383321958765,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 136.005651,
+							["last_event"] = 1658961112,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1658961112,
+							["aID"] = "3685-0DE330E0",
+							["damage_taken"] = 9.005651,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["total"] = 136.005651,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 11,
+										["targets"] = {
+											["Crimson Cultist"] = 11,
+										},
+										["n_dmg"] = 11,
+										["n_min"] = 11,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 11,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 1,
+										["spellschool"] = 1,
+										["MISS"] = 1,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 59,
+										["targets"] = {
+											["Crimson Cultist"] = 59,
+										},
+										["n_dmg"] = 59,
+										["n_min"] = 59,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 59,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[86392] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 33,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 33,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 33,
+										["c_max"] = 33,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 33,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[197834] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 33,
+										["targets"] = {
+											["Crimson Cultist"] = 33,
+										},
+										["n_dmg"] = 33,
+										["n_min"] = 33,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 33,
+										["c_max"] = 0,
+										["id"] = 197834,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961110,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 14.003268,
+							["total_without_pet"] = 9.003268,
+							["total"] = 9.003268,
+							["targets_absorbs"] = {
+								["Shado"] = 9,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 9.003268,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 9,
+							},
+							["totalover_without_pet"] = 0.003268,
+							["healing_taken"] = 9.003268,
+							["fight_component"] = true,
+							["end_time"] = 1658961112,
+							["targets_overheal"] = {
+								["Shado"] = 14,
+							},
+							["last_event"] = 1658961112,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 9,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 9,
+										["targets"] = {
+											["Shado"] = 9,
+										},
+										["n_min"] = 9,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 9,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 9,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 9,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 14,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 14,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.003268,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961110,
+							["delay"] = 0,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006837,
+							["resource"] = 0.006837,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006837,
+							["fight_component"] = true,
+							["total"] = 0.006837,
+							["totalover"] = 0.006837,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["tipo"] = 3,
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1658961111,
+							["alternatepower"] = 0.006837,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3685-0DE330E0",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["pets"] = {
+							},
+							["aID"] = "3685-0DE330E0",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315496] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315496,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[277124] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 277124,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[195627] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 195627,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[193315] = 1,
+							},
+							["classe"] = "ROGUE",
+							["last_event"] = 1658961112,
+							["tipo"] = 4,
+							["nome"] = "Shado",
+							["serial"] = "Player-3685-0DE330E0",
+							["buff_uptime"] = 11,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["last_event"] = 0,
+							["nome"] = "Crimson Cultist",
+							["aID"] = "138274",
+							["spell_cast"] = {
+								[252215] = 1,
+							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BCB6",
+							["flag_original"] = 2632,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 17,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 46826.336,
+				["tempo_start"] = 1658961110,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					145, -- [1]
+					9, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					136, -- [1]
+					9, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:31:52",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 46823.544,
+				["CombatEndedAt"] = 46823.544,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 136.005651,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 9.003268,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 46823.544,
+				["combat_id"] = 17,
+				["overall_added"] = true,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 1,
+				},
+				["combat_counter"] = 34,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "16:31:51",
+				["start_time"] = 46821.869,
+				["contra"] = "Crimson Cultist",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [38]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 9.003847,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+								["Shado"] = 9,
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9.003847,
+							["end_time"] = 1658961098,
+							["monster"] = true,
+							["total"] = 9.003847,
+							["damage_taken"] = 147.003847,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 9,
+										["targets"] = {
+											["Shado"] = 9,
+										},
+										["n_dmg"] = 9,
+										["n_min"] = 9,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 9,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[252215] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 252215,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["aID"] = "138274",
+							["custom"] = 0,
+							["last_event"] = 1658961110,
+							["on_hold"] = false,
+							["start_time"] = 1658961096,
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BC37",
+							["fight_component"] = true,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003898,
+							["damage_from"] = {
+								["Crimson Cultist"] = true,
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 147,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["last_dps"] = 1470.03898,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 147.003898,
+							["last_event"] = 1658961096,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1658961098,
+							["aID"] = "3685-0DE330E0",
+							["damage_taken"] = 9.003898,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["total"] = 147.003898,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[8676] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 120,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 120,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 120,
+										["c_max"] = 120,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 120,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[59830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22,
+										["targets"] = {
+											["Crimson Cultist"] = 22,
+										},
+										["n_dmg"] = 22,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 22,
+										["c_max"] = 0,
+										["id"] = 59830,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[315585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Crimson Cultist"] = 5,
+										},
+										["n_dmg"] = 5,
+										["n_min"] = 5,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 5,
+										["c_max"] = 0,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961096,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 14.008499,
+							["total_without_pet"] = 9.008499,
+							["total"] = 9.008499,
+							["targets_absorbs"] = {
+								["Shado"] = 9,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 9.008499,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 9,
+							},
+							["totalover_without_pet"] = 0.008499,
+							["healing_taken"] = 9.008499,
+							["fight_component"] = true,
+							["end_time"] = 1658961098,
+							["targets_overheal"] = {
+								["Shado"] = 14,
+							},
+							["last_event"] = 1658961096,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 9,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 9,
+										["targets"] = {
+											["Shado"] = 9,
+										},
+										["n_min"] = 9,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 9,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 9,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 9,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 14,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 14,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.008499,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961096,
+							["delay"] = 0,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.006487,
+							["resource"] = 2.006487,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.006487,
+							["total"] = 0.006487,
+							["totalover"] = 0.006487,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["tipo"] = 3,
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1658961110,
+							["alternatepower"] = 0.006487,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3685-0DE330E0",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[277124] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 277124,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315496] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315496,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+							},
+							["buff_uptime"] = 10,
+							["last_event"] = 1658961098,
+							["tipo"] = 4,
+							["nome"] = "Shado",
+							["serial"] = "Player-3685-0DE330E0",
+							["aID"] = "3685-0DE330E0",
+						}, -- [1]
+						{
+							["monster"] = true,
+							["last_event"] = 0,
+							["nome"] = "Crimson Cultist",
+							["aID"] = "138274",
+							["spell_cast"] = {
+								[252215] = 1,
+							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BCB6",
+							["flag_original"] = 2632,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 16,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 46821.869,
+				["tempo_start"] = 1658961096,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					156, -- [1]
+					9, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					147, -- [1]
+					9, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:31:38",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 46809.318,
+				["CombatEndedAt"] = 46809.318,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 147.003898,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 9.008499,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 46809.318,
+				["combat_id"] = 16,
+				["overall_added"] = true,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 1,
+				},
+				["combat_counter"] = 33,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "16:31:37",
+				["start_time"] = 46808.068,
+				["contra"] = "Crimson Cultist",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [39]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004278,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Crimson Cultist"] = 143,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["last_dps"] = 124.1356579859104,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 143.004278,
+							["last_event"] = 1658961086,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1658961087,
+							["aID"] = "3685-0DE330E0",
+							["damage_taken"] = 0.004278,
+							["nome"] = "Shado",
+							["spec"] = 260,
+							["grupo"] = true,
+							["total"] = 143.004278,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 23,
+										["g_amt"] = 0,
+										["n_max"] = 23,
+										["targets"] = {
+											["Crimson Cultist"] = 46,
+										},
+										["n_dmg"] = 23,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 46,
+										["c_max"] = 23,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 23,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[8676] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 59,
+										["targets"] = {
+											["Crimson Cultist"] = 59,
+										},
+										["n_dmg"] = 59,
+										["n_min"] = 59,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 59,
+										["c_max"] = 0,
+										["id"] = 8676,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[86392] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17,
+										["targets"] = {
+											["Crimson Cultist"] = 17,
+										},
+										["n_dmg"] = 17,
+										["n_min"] = 17,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 17,
+										["c_max"] = 0,
+										["id"] = 86392,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[315585] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 21,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Crimson Cultist"] = 21,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 21,
+										["c_max"] = 11,
+										["id"] = 315585,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 10,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961085,
+							["serial"] = "Player-3685-0DE330E0",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 9.001423,
+							["damage_from"] = {
+								["Shado"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001423,
+							["end_time"] = 1658961087,
+							["fight_component"] = true,
+							["total"] = 0.001423,
+							["damage_taken"] = 143.001423,
+							["on_hold"] = false,
+							["nome"] = "Crimson Cultist",
+							["spells"] = {
+								["_ActorTable"] = {
+									[252215] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 252215,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["extra"] = {
+										},
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["aID"] = "138274",
+							["custom"] = 0,
+							["last_event"] = 1658961096,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1658961087,
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BBDA",
+							["monster"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Shado"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 14.003057,
+							["total_without_pet"] = 10.003057,
+							["total"] = 10.003057,
+							["targets_absorbs"] = {
+								["Shado"] = 10,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3685-0DE330E0",
+							["totalabsorb"] = 10.003057,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Shado"] = 10,
+							},
+							["totalover_without_pet"] = 0.003057,
+							["healing_taken"] = 10.003057,
+							["fight_component"] = true,
+							["end_time"] = 1658961087,
+							["targets_overheal"] = {
+								["Shado"] = 14,
+							},
+							["last_event"] = 1658961086,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+									[312215] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 10,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 10,
+										["targets"] = {
+											["Shado"] = 10,
+										},
+										["n_min"] = 10,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 10,
+										["c_max"] = 0,
+										["id"] = 312215,
+										["targets_absorbs"] = {
+											["Shado"] = 10,
+										},
+										["c_curado"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 10,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Shado"] = 14,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Shado"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 14,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "ROGUE",
+							["totaldenied"] = 0.003057,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "3685-0DE330E0",
+							["start_time"] = 1658961085,
+							["delay"] = 0,
+							["spec"] = 260,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00679,
+							["resource"] = 2.00679,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.00679,
+							["total"] = 0.00679,
+							["totalover"] = 0.00679,
+							["nome"] = "Shado",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 260,
+							["tipo"] = 3,
+							["aID"] = "3685-0DE330E0",
+							["last_event"] = 1658961096,
+							["alternatepower"] = 0.00679,
+							["flag_original"] = 1297,
+							["serial"] = "Player-3685-0DE330E0",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[315584] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 315584,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[326419] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 326419,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[315496] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 315496,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335152,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[275857] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 275857,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[277124] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 277124,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 260,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[8676] = 1,
+								[315496] = 1,
+							},
+							["buff_uptime"] = 12,
+							["last_event"] = 1658961087,
+							["tipo"] = 4,
+							["nome"] = "Shado",
+							["serial"] = "Player-3685-0DE330E0",
+							["aID"] = "3685-0DE330E0",
+						}, -- [1]
+						{
+							["monster"] = true,
+							["last_event"] = 0,
+							["nome"] = "Crimson Cultist",
+							["aID"] = "138274",
+							["spell_cast"] = {
+								[252215] = 1,
+							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-3023-1642-22445-138274-000061BCB6",
+							["flag_original"] = 2632,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 15,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Shado"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Shado", -- [1]
+				},
+				["CombatStartedAt"] = 46808.068,
+				["tempo_start"] = 1658961085,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					143, -- [1]
+					10, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					143, -- [1]
+					10, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "16:31:28",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Crimson Cultist",
+				["TotalElapsedCombatTime"] = 2.266999999999825,
+				["CombatEndedAt"] = 46798.934,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Shado"] = 143.004278,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Shado"] = 10.003057,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 46798.934,
+				["combat_id"] = 15,
+				["overall_added"] = true,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Crimson Cultist"] = 1,
+				},
+				["combat_counter"] = 32,
+				["player_last_events"] = {
+				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "16:31:25",
+				["start_time"] = 46796.667,
+				["contra"] = "Crimson Cultist",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [40]
+		},
+	},
+	["ocd_tracker"] = {
+		["enabled"] = false,
+		["current_cooldowns"] = {
+		},
+		["lines_per_column"] = 12,
+		["show_options"] = false,
+		["filters"] = {
+			["defensive-raid"] = false,
+			["ofensive"] = true,
+			["defensive-target"] = false,
+			["utility"] = false,
+			["defensive-personal"] = false,
+		},
+		["width"] = 120,
+		["height"] = 18,
+		["framme_locked"] = false,
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["cooldowns"] = {
+		},
+		["pos"] = {
+		},
+	},
+	["last_version"] = "9.2.59824",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["coach"] = {
+		["enabled"] = false,
+		["welcome_panel_pos"] = {
+		},
+		["last_coach_name"] = false,
+	},
+	["on_death_menu"] = false,
+	["cached_talents"] = {
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["active_profile"] = "Adamancy-Turalyon",
+	["last_realversion"] = 146,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["enabled"] = true,
+			["animate"] = false,
+			["hide_pull_bar"] = false,
+			["author"] = "Terciob",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["usefocus"] = false,
+			["updatespeed"] = 1,
+			["disable_gouge"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["absolute_mode"] = false,
+			["playSound"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["useclasscolors"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Terciob",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["tank_block_size_height"] = 50,
+			["show_power_bar"] = false,
+			["first_run"] = false,
+			["aura_timer_text_size"] = 14,
+			["tank_block_castbar_size_height"] = 16,
+			["show_health_bar"] = true,
+			["aura_offset_y"] = 0,
+			["enabled"] = true,
+			["show_cast_bar"] = false,
+			["author"] = "Terciob",
+			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.074509, -- [1]
+				0.035294, -- [2]
+				0.035294, -- [3]
+				0.832845, -- [4]
+			},
+			["tank_block_height"] = 40,
+			["tank_block_powerbar_size_height"] = 10,
+			["show_inc_bars"] = true,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Terciob",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["use_square_mode"] = false,
+			["is_first_run"] = false,
+			["grow_direction"] = "right",
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				299.9998779296875, -- [1]
+				499.9999389648438, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 3.275031181068463,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["scale"] = 1,
+			["arrow_anchor_x"] = 0,
+			["row_height"] = 20,
+			["row_texture"] = "Details Serenity",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["y"] = -4.57763671875e-05,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = -3.0517578125e-05,
+				["x"] = -6.103515625e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["x"] = -6.103515625e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["font_size"] = 10,
+			["author"] = "Details! Team",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["last_instance_time"] = 0,
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["cached_roles"] = {
+	},
+	["last_day"] = "28",
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -529.1874084472656,
+					["x"] = 927.92041015625,
+					["w"] = 414.8147888183594,
+					["h"] = 160.3703460693359,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[2] = 1,
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -373.4096374511719,
+					["x"] = 927.92041015625,
+					["w"] = 414.8147888183594,
+					["h"] = 111.1852111816406,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["ignore_nicktag"] = false,
+	["combat_id"] = 54,
+	["savedStyles"] = {
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1660248563,
+		["last_version"] = 14,
+	},
+	["combat_counter"] = 72,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 232.089344,
+					["damage_from"] = {
+						["Akinshokin"] = true,
+						["Dreadstalker"] = true,
+						["Dreadstalker <Boni-Duskwood>"] = true,
+						["Sildrusande-Area52"] = true,
+						["Shamps-Area52"] = true,
+						["Shado"] = true,
+						["Boni-Duskwood"] = true,
+						["Child of Gonk <Shado>"] = true,
+					},
+					["targets"] = {
+						["Sildrusande-Area52"] = 0,
+						["Shamps-Area52"] = 13,
+						["Shado"] = 423,
+						["Boni-Duskwood"] = 142,
+						["Akinshokin"] = 138,
+					},
+					["last_dps"] = 0,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 716.089344,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1658960547,
+					["damage_taken"] = 5274.089344,
+					["aID"] = "126586",
+					["nome"] = "Crimson Cultist",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 21,
+								["g_amt"] = 0,
+								["n_max"] = 32,
+								["targets"] = {
+									["Sildrusande-Area52"] = 0,
+									["Shamps-Area52"] = 13,
+									["Shado"] = 332,
+									["Boni-Duskwood"] = 73,
+									["Akinshokin"] = 113,
+								},
+								["n_dmg"] = 510,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 47,
+								["total"] = 531,
+								["c_max"] = 21,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["extra"] = {
+								},
+								["PARRY"] = 4,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 9,
+								["n_amt"] = 40,
+								["a_dmg"] = 122,
+								["DODGE"] = 1,
+							}, -- [1]
+							[256099] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 25,
+								["targets"] = {
+									["Akinshokin"] = 25,
+									["Shado"] = 91,
+									["Boni-Duskwood"] = 69,
+									["Sildrusande-Area52"] = 0,
+								},
+								["n_dmg"] = 185,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 185,
+								["c_max"] = 0,
+								["id"] = 256099,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 9,
+								["a_amt"] = 3,
+								["n_amt"] = 9,
+								["a_dmg"] = 72,
+								["extra"] = {
+								},
+							},
+							[252215] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 252215,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 5,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["total"] = 716.089344,
+					["tipo"] = 1,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1658960469,
+					["serial"] = "Creature-0-3023-1642-22445-126586-000061B9D7",
+					["on_hold"] = false,
+				}, -- [1]
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.271691,
+					["damage_from"] = {
+						["\"Tuskbreaker\" Yana"] = true,
+						["Disciple of Nalorakk"] = true,
+						["Dregada"] = true,
+						["\"Bad Mojo\" Hojo"] = true,
+						["Bloodraged Pterrordax"] = true,
+						["Sandfury Thug"] = true,
+						["Guardian of the Dead"] = true,
+						["Soaring Eagle"] = true,
+						["Disciple of Akil'zon"] = true,
+						["Gurubashi Thug"] = true,
+						["Disciple of Halazzi"] = true,
+						["Amani Warrior"] = true,
+						["Smuggled Crawg"] = true,
+						["Kul'krazahn"] = true,
+						["Mista Nice"] = true,
+						["Guardian of the Rites"] = true,
+						["[*] Whirling Axes"] = true,
+						["Da White Shark"] = true,
+						["Guardian of the Tombs"] = true,
+						["Wild Thumpknuckle"] = true,
+						["Amani Thug"] = true,
+						["Crimson Cultist"] = true,
+					},
+					["targets"] = {
+						["\"Tuskbreaker\" Yana"] = 288,
+						["Disciple of Nalorakk"] = 1885,
+						["Dregada"] = 1396,
+						["\"Bad Mojo\" Hojo"] = 266,
+						["Bloodraged Pterrordax"] = 1688,
+						["Sandfury Thug"] = 976,
+						["Guardian of the Dead"] = 347,
+						["Soaring Eagle"] = 225,
+						["Disciple of Akil'zon"] = 744,
+						["Gurubashi Thug"] = 1056,
+						["Disciple of Halazzi"] = 924,
+						["Amani Warrior"] = 1923,
+						["Da White Shark"] = 540,
+						["Voodoo Totem <Mista Nice>"] = 303,
+						["Mista Nice"] = 1417,
+						["Guardian of the Rites"] = 410,
+						["Kul'krazahn"] = 1392,
+						["Smuggled Crawg"] = 429,
+						["Crimson Cultist"] = 4925,
+						["Healing Totem <Disciple of Halazzi>"] = 100,
+						["Amani Thug"] = 1063,
+						["Guardian of the Tombs"] = 345,
+					},
+					["damage_taken"] = 3000.271691,
+					["pets"] = {
+						"Child of Gonk <Shado>", -- [1]
+					},
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 22446.27169100001,
+					["classe"] = "ROGUE",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["total"] = 22642.27169100001,
+					["aID"] = "3685-0DE330E0",
+					["end_time"] = 1658960547,
+					["nome"] = "Shado",
+					["spec"] = 260,
+					["grupo"] = true,
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 70,
+								["b_amt"] = 0,
+								["c_dmg"] = 3077,
+								["g_amt"] = 0,
+								["n_max"] = 33,
+								["targets"] = {
+									["\"Tuskbreaker\" Yana"] = 152,
+									["Disciple of Nalorakk"] = 669,
+									["Dregada"] = 814,
+									["\"Bad Mojo\" Hojo"] = 128,
+									["Bloodraged Pterrordax"] = 435,
+									["Sandfury Thug"] = 356,
+									["Guardian of the Dead"] = 154,
+									["Soaring Eagle"] = 113,
+									["Disciple of Akil'zon"] = 292,
+									["Voodoo Totem"] = 0,
+									["Gurubashi Thug"] = 430,
+									["Disciple of Halazzi"] = 423,
+									["Amani Warrior"] = 737,
+									["Da White Shark"] = 230,
+									["Smuggled Crawg"] = 274,
+									["Mista Nice"] = 738,
+									["Guardian of the Rites"] = 88,
+									["Kul'krazahn"] = 494,
+									["Voodoo Totem <Mista Nice>"] = 97,
+									["Crimson Cultist"] = 1848,
+									["Healing Totem <Disciple of Halazzi>"] = 94,
+									["Amani Thug"] = 290,
+									["Guardian of the Tombs"] = 158,
+								},
+								["n_dmg"] = 5937,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 424,
+								["total"] = 9014,
+								["c_max"] = 66,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 293,
+								["extra"] = {
+									["extra_attack"] = 6,
+								},
+								["MISS"] = 61,
+							}, -- [1]
+							[59830] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 154,
+								["g_amt"] = 0,
+								["n_max"] = 32,
+								["targets"] = {
+									["\"Tuskbreaker\" Yana"] = 25,
+									["Gurubashi Thug"] = 23,
+									["Amani Warrior"] = 57,
+									["Amani Thug"] = 55,
+									["Bloodraged Pterrordax"] = 84,
+									["Sandfury Thug"] = 25,
+									["Disciple of Akil'zon"] = 60,
+									["Crimson Cultist"] = 117,
+									["Disciple of Halazzi"] = 28,
+									["Voodoo Totem <Mista Nice>"] = 55,
+									["Guardian of the Rites"] = 23,
+								},
+								["n_dmg"] = 398,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 18,
+								["total"] = 552,
+								["c_max"] = 57,
+								["id"] = 59830,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 15,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[8676] = {
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 558,
+								["g_amt"] = 0,
+								["n_max"] = 84,
+								["targets"] = {
+									["Disciple of Nalorakk"] = 73,
+									["Kul'krazahn"] = 143,
+									["Amani Warrior"] = 357,
+									["Amani Thug"] = 336,
+									["Mista Nice"] = 72,
+									["Guardian of the Rites"] = 58,
+									["Sandfury Thug"] = 195,
+									["Crimson Cultist"] = 884,
+									["Gurubashi Thug"] = 129,
+								},
+								["n_dmg"] = 1689,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 29,
+								["total"] = 2247,
+								["c_max"] = 164,
+								["id"] = 8676,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 25,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[196819] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 194,
+								["g_amt"] = 0,
+								["n_max"] = 69,
+								["targets"] = {
+									["Disciple of Nalorakk"] = 108,
+									["Gurubashi Thug"] = 119,
+									["\"Bad Mojo\" Hojo"] = 62,
+									["Amani Warrior"] = 105,
+									["Mista Nice"] = 39,
+									["Bloodraged Pterrordax"] = 97,
+									["Disciple of Akil'zon"] = 69,
+									["Guardian of the Dead"] = 55,
+									["Crimson Cultist"] = 62,
+									["Disciple of Halazzi"] = 66,
+									["Kul'krazahn"] = 65,
+									["Dregada"] = 86,
+								},
+								["n_dmg"] = 739,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 933,
+								["c_max"] = 108,
+								["id"] = 196819,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 13,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[315585] = {
+								["c_amt"] = 26,
+								["b_amt"] = 0,
+								["c_dmg"] = 325,
+								["g_amt"] = 0,
+								["n_max"] = 7,
+								["targets"] = {
+									["\"Tuskbreaker\" Yana"] = 18,
+									["Disciple of Nalorakk"] = 148,
+									["Dregada"] = 80,
+									["\"Bad Mojo\" Hojo"] = 18,
+									["Bloodraged Pterrordax"] = 21,
+									["Sandfury Thug"] = 45,
+									["Guardian of the Dead"] = 22,
+									["Soaring Eagle"] = 13,
+									["Gurubashi Thug"] = 54,
+									["Disciple of Akil'zon"] = 62,
+									["Amani Warrior"] = 86,
+									["Smuggled Crawg"] = 14,
+									["Disciple of Halazzi"] = 43,
+									["Mista Nice"] = 18,
+									["Guardian of the Rites"] = 5,
+									["Voodoo Totem <Mista Nice>"] = 6,
+									["Kul'krazahn"] = 62,
+									["Crimson Cultist"] = 203,
+									["Healing Totem <Disciple of Halazzi>"] = 6,
+									["Amani Thug"] = 24,
+									["Da White Shark"] = 6,
+								},
+								["n_dmg"] = 629,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 132,
+								["total"] = 954,
+								["c_max"] = 15,
+								["id"] = 315585,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 106,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[197834] = {
+								["c_amt"] = 18,
+								["b_amt"] = 0,
+								["c_dmg"] = 1355,
+								["g_amt"] = 0,
+								["n_max"] = 48,
+								["targets"] = {
+									["\"Tuskbreaker\" Yana"] = 74,
+									["Disciple of Nalorakk"] = 368,
+									["Dregada"] = 173,
+									["Bloodraged Pterrordax"] = 710,
+									["Sandfury Thug"] = 75,
+									["Guardian of the Dead"] = 33,
+									["Gurubashi Thug"] = 176,
+									["Amani Warrior"] = 321,
+									["Smuggled Crawg"] = 95,
+									["Disciple of Akil'zon"] = 175,
+									["Mista Nice"] = 243,
+									["Guardian of the Rites"] = 134,
+									["Disciple of Halazzi"] = 202,
+									["Kul'krazahn"] = 244,
+									["Crimson Cultist"] = 1150,
+									["Voodoo Totem <Mista Nice>"] = 124,
+									["Amani Thug"] = 217,
+									["Da White Shark"] = 189,
+								},
+								["n_dmg"] = 3348,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 105,
+								["total"] = 4703,
+								["c_max"] = 95,
+								["id"] = 197834,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 87,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[185763] = {
+								["c_amt"] = 7,
+								["b_amt"] = 0,
+								["c_dmg"] = 863,
+								["g_amt"] = 0,
+								["n_max"] = 80,
+								["targets"] = {
+									["Disciple of Nalorakk"] = 353,
+									["Dregada"] = 101,
+									["\"Bad Mojo\" Hojo"] = 58,
+									["Bloodraged Pterrordax"] = 134,
+									["Sandfury Thug"] = 167,
+									["Guardian of the Dead"] = 50,
+									["Soaring Eagle"] = 79,
+									["Gurubashi Thug"] = 55,
+									["Amani Warrior"] = 159,
+									["Da White Shark"] = 58,
+									["Mista Nice"] = 163,
+									["Guardian of the Rites"] = 102,
+									["Disciple of Halazzi"] = 141,
+									["Crimson Cultist"] = 109,
+									["Kul'krazahn"] = 159,
+									["Amani Thug"] = 107,
+									["Guardian of the Tombs"] = 50,
+								},
+								["n_dmg"] = 1182,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 26,
+								["total"] = 2045,
+								["c_max"] = 163,
+								["id"] = 185763,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 19,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[86392] = {
+								["c_amt"] = 17,
+								["b_amt"] = 0,
+								["c_dmg"] = 641,
+								["g_amt"] = 0,
+								["n_max"] = 24,
+								["targets"] = {
+									["\"Tuskbreaker\" Yana"] = 19,
+									["Disciple of Nalorakk"] = 166,
+									["Dregada"] = 142,
+									["Bloodraged Pterrordax"] = 141,
+									["Sandfury Thug"] = 113,
+									["Guardian of the Dead"] = 33,
+									["Soaring Eagle"] = 20,
+									["Gurubashi Thug"] = 70,
+									["Amani Warrior"] = 101,
+									["Smuggled Crawg"] = 46,
+									["Disciple of Akil'zon"] = 86,
+									["Mista Nice"] = 144,
+									["Disciple of Halazzi"] = 21,
+									["Kul'krazahn"] = 225,
+									["Voodoo Totem <Mista Nice>"] = 21,
+									["Guardian of the Tombs"] = 33,
+									["Amani Thug"] = 34,
+									["Da White Shark"] = 57,
+									["Crimson Cultist"] = 526,
+								},
+								["n_dmg"] = 1357,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 86,
+								["total"] = 1998,
+								["c_max"] = 49,
+								["id"] = 86392,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 69,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1658960157,
+					["serial"] = "Player-3685-0DE330E0",
+					["on_hold"] = false,
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 36.036574,
+					["damage_from"] = {
+						["Shado"] = true,
+						["Child of Gonk <Shado>"] = true,
+					},
+					["targets"] = {
+						["Raptari Druid"] = 0,
+						["Shado"] = 236,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 1688.036574,
+					["aID"] = "126618",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 236.036574,
+					["total"] = 236.036574,
+					["fight_component"] = true,
+					["end_time"] = 1658960894,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Bloodraged Pterrordax",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 21,
+								["targets"] = {
+									["Raptari Druid"] = 0,
+									["Shado"] = 223,
+								},
+								["n_dmg"] = 223,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 18,
+								["total"] = 223,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["extra"] = {
+									["extra_attack"] = 2,
+								},
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_dmg"] = 0,
+								["n_amt"] = 16,
+								["MISS"] = 1,
+								["DODGE"] = 1,
+							}, -- [1]
+							[8599] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 8599,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 4,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[260409] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 13,
+								["targets"] = {
+									["Shado"] = 13,
+								},
+								["n_dmg"] = 13,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 13,
+								["c_max"] = 0,
+								["id"] = 260409,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["classe"] = "UNKNOW",
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658960869,
+					["serial"] = "Creature-0-3023-1642-22445-126618-000061BAED",
+					["friendlyfire"] = {
+					},
+				}, -- [3]
+				{
+					["flag_original"] = 8465,
+					["totalabsorbed"] = 0.016961,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Crimson Cultist"] = 26,
+						["Bloodraged Pterrordax"] = 66,
+						["Guardian of the Tombs"] = 104,
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 196.016961,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1658960963,
+					["total"] = 196.016961,
+					["ownerName"] = "Shado",
+					["nome"] = "Child of Gonk <Shado>",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 27,
+								["g_amt"] = 0,
+								["n_max"] = 13,
+								["targets"] = {
+									["Crimson Cultist"] = 26,
+									["Bloodraged Pterrordax"] = 66,
+									["Guardian of the Tombs"] = 104,
+								},
+								["n_dmg"] = 169,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 14,
+								["total"] = 196,
+								["c_max"] = 27,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 13,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 0.016961,
+					["aID"] = "127254",
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658960948,
+					["serial"] = "Creature-0-3023-1642-22445-127254-0000E1BC3D",
+					["classe"] = "PET",
+				}, -- [4]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 8.009462,
+					["damage_from"] = {
+						["Child of Gonk <Shado>"] = true,
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 8,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 345.009462,
+					["aID"] = "127072",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 8.009462,
+					["total"] = 8.009462,
+					["monster"] = true,
+					["end_time"] = 1658961018,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Guardian of the Tombs",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 8,
+								["targets"] = {
+									["Child of Gonk"] = 0,
+									["Shado"] = 8,
+								},
+								["n_dmg"] = 8,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 8,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+							}, -- [1]
+							[312118] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 312118,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658961011,
+					["serial"] = "Creature-0-3023-1642-22445-127072-000061BB95",
+					["friendlyfire"] = {
+					},
+				}, -- [5]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.011384,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 33,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 410.011384,
+					["aID"] = "127073",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 33.011384,
+					["total"] = 33.011384,
+					["monster"] = true,
+					["end_time"] = 1658961077,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Guardian of the Rites",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12,
+								["targets"] = {
+									["Shado"] = 33,
+								},
+								["n_dmg"] = 33,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 33,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[263027] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 263027,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658961068,
+					["serial"] = "Creature-0-3023-1642-22445-127073-000061BBBA",
+					["friendlyfire"] = {
+					},
+				}, -- [6]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 11.008225,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 33,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 347.008225,
+					["aID"] = "127074",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 33.008225,
+					["total"] = 33.008225,
+					["monster"] = true,
+					["end_time"] = 1658961127,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Guardian of the Dead",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12,
+								["targets"] = {
+									["Shado"] = 33,
+								},
+								["n_dmg"] = 33,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 33,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658961113,
+					["serial"] = "Creature-0-3023-1642-22445-127074-000061BBE0",
+					["friendlyfire"] = {
+					},
+				}, -- [7]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 16.01552,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 85,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 1396.01552,
+					["aID"] = "127079",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 85.01552,
+					["total"] = 85.01552,
+					["monster"] = true,
+					["end_time"] = 1658961185,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Dregada",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Shado"] = 52,
+								},
+								["n_dmg"] = 52,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 52,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+							}, -- [1]
+							[266267] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 266267,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[265772] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 33,
+								["targets"] = {
+									["Shado"] = 33,
+								},
+								["n_dmg"] = 33,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 33,
+								["c_max"] = 0,
+								["id"] = 265772,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[263046] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 263046,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[263043] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 263043,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658961168,
+					["serial"] = "Creature-0-3023-1642-22445-127079-000061BC35",
+					["friendlyfire"] = {
+					},
+				}, -- [8]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.009613,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Shado"] = 17,
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 0.009613,
+					["aID"] = "130486",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 17.009613,
+					["total"] = 17.009613,
+					["monster"] = true,
+					["end_time"] = 1658961534,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Wild Thumpknuckle",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 17,
+								["targets"] = {
+									["Shado"] = 17,
+								},
+								["n_dmg"] = 17,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 17,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1658961522,
+					["serial"] = "Creature-0-3023-1642-22445-130486-0000609BBA",
+					["friendlyfire"] = {
+					},
+				}, -- [9]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.049687,
+					["damage_from"] = {
+						["Rigazoni-Area52"] = true,
+						["Shado"] = true,
+						["Direhorn"] = true,
+						["Skullior-Area52"] = true,
+					},
+					["targets"] = {
+						["Rigazoni-Area52"] = 258,
+						["Shado"] = 74,
+						["Direhorn"] = 43,
+						["Skullior-Area52"] = 104,
+					},
+					["end_time"] = 1659049345,
+					["pets"] = {
+					},
+					["aID"] = "120843",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 479.049687,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 479.049687,
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["nome"] = "Amani Thug",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 29,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Rigazoni-Area52"] = 130,
+									["Shado"] = 48,
+									["Direhorn"] = 43,
+									["Skullior-Area52"] = 57,
+								},
+								["n_dmg"] = 249,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 278,
+								["c_max"] = 29,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 9,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 1,
+								["n_amt"] = 17,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[269837] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 39,
+								["targets"] = {
+									["Rigazoni-Area52"] = 128,
+									["Shado"] = 26,
+									["Skullior-Area52"] = 47,
+								},
+								["n_dmg"] = 201,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 201,
+								["c_max"] = 0,
+								["id"] = 269837,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 22,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 1,
+								["n_amt"] = 7,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3023-1642-22445-120843-0000630FF4",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659049299,
+					["delay"] = 0,
+					["damage_taken"] = 2180.049687,
+				}, -- [10]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 15.02678,
+					["damage_from"] = {
+						["Skullior-Area52"] = true,
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Skullior-Area52"] = 39,
+						["Shado"] = 141,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1659049355,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 180.02678,
+					["last_event"] = 0,
+					["aID"] = "125460",
+					["dps_started"] = false,
+					["total"] = 180.02678,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Sandfury Thug",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 17,
+								["targets"] = {
+									["Skullior-Area52"] = 24,
+									["Shado"] = 97,
+								},
+								["n_dmg"] = 121,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 121,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 24,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 2,
+								["n_amt"] = 8,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[268800] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 24,
+								["targets"] = {
+									["Shado"] = 44,
+									["Skullior-Area52"] = 15,
+								},
+								["n_dmg"] = 59,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 59,
+								["c_max"] = 0,
+								["id"] = 268800,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 15,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 1,
+								["n_amt"] = 3,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3023-1642-22445-125460-0000630FD2",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659049333,
+					["delay"] = 0,
+					["damage_taken"] = 1113.02678,
+				}, -- [11]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 56.03990400000001,
+					["damage_from"] = {
+						["Rigazoni-Area52"] = true,
+						["Shado"] = true,
+						["Skullior-Area52"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 181,
+						["Direhorn"] = 45,
+						["Skullior-Area52"] = 29,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1659049431,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 255.039904,
+					["last_event"] = 0,
+					["aID"] = "125458",
+					["dps_started"] = false,
+					["total"] = 255.039904,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Gurubashi Thug",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Shado"] = 137,
+									["Skullior-Area52"] = 29,
+								},
+								["n_dmg"] = 166,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 166,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 11,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[265754] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 22,
+								["targets"] = {
+									["Direhorn"] = 45,
+									["Shado"] = 44,
+								},
+								["n_dmg"] = 89,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 89,
+								["c_max"] = 0,
+								["id"] = 265754,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 5,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3023-1642-22445-125458-00006310FE",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659049393,
+					["delay"] = 0,
+					["damage_taken"] = 1390.039904,
+				}, -- [12]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 30.014554,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 186,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1659049541,
+					["friendlyfire"] = {
+					},
+					["aID"] = "136796",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 186.014554,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 186.014554,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Smuggled Crawg",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 34,
+								["g_amt"] = 0,
+								["n_max"] = 16,
+								["targets"] = {
+									["Shado"] = 147,
+								},
+								["n_dmg"] = 113,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 147,
+								["c_max"] = 34,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 8,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[263187] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 263187,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 2,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[256715] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 14,
+								["targets"] = {
+									["Shado"] = 39,
+								},
+								["n_dmg"] = 39,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 39,
+								["c_max"] = 0,
+								["id"] = 256715,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 2,
+								["a_amt"] = 0,
+								["n_amt"] = 7,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-136796-0000631636",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659049513,
+					["delay"] = 0,
+					["damage_taken"] = 429.014554,
+				}, -- [13]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.008212,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 162,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["aID"] = "",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 162.008212,
+					["on_hold"] = false,
+					["end_time"] = 1659050019,
+					["monster"] = true,
+					["total"] = 162.008212,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Da White Shark",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 44,
+								["g_amt"] = 0,
+								["n_max"] = 30,
+								["targets"] = {
+									["Shado"] = 162,
+								},
+								["n_dmg"] = 118,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 162,
+								["c_max"] = 44,
+								["a_dmg"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 2,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["PARRY"] = 2,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 6,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "Vehicle-0-3023-1642-22445-133208-00006312D2",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050004,
+					["delay"] = 0,
+					["damage_taken"] = 540.008212,
+				}, -- [14]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 16.012003,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 193,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "133207",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 193.012003,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1659050019,
+					["dps_started"] = false,
+					["total"] = 193.012003,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "\"Bad Mojo\" Hojo",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 20,
+								["targets"] = {
+									["Shado"] = 193,
+								},
+								["n_dmg"] = 193,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 24,
+								["total"] = 193,
+								["c_max"] = 0,
+								["a_dmg"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 6,
+								["DODGE"] = 2,
+								["extra"] = {
+								},
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 15,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-133207-00006312D7",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659049992,
+					["delay"] = 0,
+					["damage_taken"] = 266.0120030000001,
+				}, -- [15]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 19.007799,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 108,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "133206",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 108.007799,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1659050019,
+					["dps_started"] = false,
+					["total"] = 108.007799,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "\"Tuskbreaker\" Yana",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Shado"] = 108,
+								},
+								["n_dmg"] = 108,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 108,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 7,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 8,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-133206-00006312D4",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659049994,
+					["delay"] = 0,
+					["damage_taken"] = 288.007799,
+				}, -- [16]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.012926,
+					["aID"] = "125996",
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 203,
+					},
+					["pets"] = {
+						"Voodoo Totem <Mista Nice>", -- [1]
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 203.012926,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1659050239,
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Mista Nice",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 20,
+								["targets"] = {
+									["Shado"] = 146,
+								},
+								["n_dmg"] = 146,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 146,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 8,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[12058] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 29,
+								["targets"] = {
+									["Shado"] = 57,
+								},
+								["n_dmg"] = 57,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 57,
+								["c_max"] = 0,
+								["id"] = 12058,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["total"] = 203.012926,
+					["serial"] = "Creature-0-3023-1642-22445-125996-0000630C69",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 1417.012926,
+					["start_time"] = 1659050207,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [17]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.019235,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Graustein-Area52"] = true,
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Graustein-Area52"] = 204,
+						["Shado"] = 165,
+					},
+					["friendlyfire"] = {
+					},
+					["pets"] = {
+						"Healing Totem <Disciple of Halazzi>", -- [1]
+					},
+					["fight_component"] = true,
+					["aID"] = "120951",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 369.019235,
+					["end_time"] = 1659050239,
+					["dps_started"] = false,
+					["total"] = 369.019235,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Disciple of Halazzi",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 3,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 24,
+								["targets"] = {
+									["Graustein-Area52"] = 80,
+									["Shado"] = 116,
+								},
+								["n_dmg"] = 196,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 18,
+								["total"] = 196,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 16,
+								["b_dmg"] = 14,
+								["r_amt"] = 0,
+							}, -- [1]
+							[271025] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 49,
+								["targets"] = {
+									["Graustein-Area52"] = 124,
+									["Shado"] = 49,
+								},
+								["n_dmg"] = 173,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 173,
+								["c_max"] = 0,
+								["id"] = 271025,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 4,
+								["a_amt"] = 0,
+								["n_amt"] = 4,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[271026] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 271026,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 3,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120951-00006318A6",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050185,
+					["delay"] = 0,
+					["damage_taken"] = 1488.019235,
+				}, -- [18]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.011148,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+					},
+					["monster"] = true,
+					["pets"] = {
+					},
+					["end_time"] = 1659050239,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.011148,
+					["fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["dps_started"] = false,
+					["total"] = 0.011148,
+					["tipo"] = 1,
+					["ownerName"] = "Mista Nice",
+					["nome"] = "Voodoo Totem <Mista Nice>",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["aID"] = "136998",
+					["serial"] = "Creature-0-3023-1642-22445-136998-00006318E2",
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["damage_taken"] = 303.0111480000001,
+					["start_time"] = 1659050236,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [19]
+				{
+					["flag_original"] = 8776,
+					["totalabsorbed"] = 0.004011,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Graustein-Area52"] = true,
+						["Shado"] = true,
+					},
+					["targets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["pets"] = {
+					},
+					["serial"] = "Creature-0-3023-1642-22445-137769-00006318E5",
+					["fight_component"] = true,
+					["classe"] = "PET",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.004011,
+					["end_time"] = 1659050239,
+					["dps_started"] = false,
+					["total"] = 0.004011,
+					["aID"] = "137769",
+					["ownerName"] = "Disciple of Halazzi",
+					["nome"] = "Healing Totem <Disciple of Halazzi>",
+					["last_event"] = 0,
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 225.004011,
+					["start_time"] = 1659050236,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [20]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 59.04907,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 270,
+					},
+					["end_time"] = 1659050373,
+					["pets"] = {
+					},
+					["friendlyfire"] = {
+					},
+					["aID"] = "120900",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 270.04907,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 270.04907,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Amani Warrior",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 45,
+								["g_amt"] = 0,
+								["n_max"] = 24,
+								["targets"] = {
+									["Shado"] = 249,
+								},
+								["n_dmg"] = 204,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 249,
+								["c_max"] = 45,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 10,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[43519] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 8,
+								["targets"] = {
+									["Shado"] = 21,
+								},
+								["n_dmg"] = 21,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 21,
+								["c_max"] = 0,
+								["id"] = 43519,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 3,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120900-0000631953",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050350,
+					["delay"] = 0,
+					["damage_taken"] = 1923.04907,
+				}, -- [21]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.009590999999999999,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 149,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "120899",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 149.009591,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1659050468,
+					["dps_started"] = false,
+					["total"] = 149.009591,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Kul'krazahn",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 10,
+								["targets"] = {
+									["Shado"] = 84,
+								},
+								["n_dmg"] = 84,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 17,
+								["total"] = 84,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 3,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 13,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[264064] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 264064,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[264075] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 11,
+								["targets"] = {
+									["Shado"] = 20,
+								},
+								["n_dmg"] = 20,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 20,
+								["c_max"] = 0,
+								["id"] = 264075,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[264070] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 264070,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 2,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[264114] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 264114,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 2,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[264074] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12,
+								["targets"] = {
+									["Shado"] = 45,
+								},
+								["n_dmg"] = 45,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 45,
+								["c_max"] = 0,
+								["id"] = 264074,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 4,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120899-00006317A0",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050445,
+					["delay"] = 0,
+					["damage_taken"] = 1392.009591,
+				}, -- [22]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 21.014853,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Shado"] = 42,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["aID"] = "",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 42.014853,
+					["on_hold"] = false,
+					["end_time"] = 1659050468,
+					["monster"] = true,
+					["total"] = 42.014853,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "[*] Whirling Axes",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[264141] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 21,
+								["targets"] = {
+									["Shado"] = 42,
+								},
+								["n_dmg"] = 42,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 42,
+								["c_max"] = 0,
+								["id"] = 264141,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050464,
+					["delay"] = 0,
+					["damage_taken"] = 0.014853,
+				}, -- [23]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 8.013796,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 192,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1659050502,
+					["friendlyfire"] = {
+					},
+					["aID"] = "120949",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 192.013796,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 192.013796,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Disciple of Nalorakk",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 20,
+								["targets"] = {
+									["Shado"] = 136,
+								},
+								["n_dmg"] = 136,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 21,
+								["total"] = 136,
+								["c_max"] = 0,
+								["a_dmg"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["DODGE"] = 2,
+								["MISS"] = 6,
+								["extra"] = {
+								},
+								["PARRY"] = 2,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 11,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[270992] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 20,
+								["targets"] = {
+									["Shado"] = 56,
+								},
+								["n_dmg"] = 56,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 56,
+								["c_max"] = 0,
+								["id"] = 270992,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 2,
+								["a_amt"] = 0,
+								["n_amt"] = 7,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120949-000063195B",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050477,
+					["delay"] = 0,
+					["damage_taken"] = 1885.013796,
+				}, -- [24]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.007167,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 79,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "120946",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 79.007167,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1659050556,
+					["dps_started"] = false,
+					["total"] = 79.007167,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Disciple of Akil'zon",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 18,
+								["targets"] = {
+									["Shado"] = 18,
+								},
+								["n_dmg"] = 18,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 18,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[270929] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 61,
+								["targets"] = {
+									["Shado"] = 61,
+								},
+								["n_dmg"] = 61,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 61,
+								["c_max"] = 0,
+								["id"] = 270929,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[270905] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 270905,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120946-0000631A20",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050548,
+					["delay"] = 0,
+					["damage_taken"] = 744.007167,
+				}, -- [25]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 8.003029999999999,
+					["damage_from"] = {
+						["Shado"] = true,
+					},
+					["targets"] = {
+						["Shado"] = 20,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "137720",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 20.00303,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1659050556,
+					["dps_started"] = false,
+					["total"] = 20.00303,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Soaring Eagle",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 5,
+								["targets"] = {
+									["Shado"] = 20,
+								},
+								["n_dmg"] = 20,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 20,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["DODGE"] = 1,
+								["extra"] = {
+								},
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 5,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-137720-0000631A31",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1659050545,
+					["delay"] = 0,
+					["damage_taken"] = 225.00303,
+				}, -- [26]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+						["Shado"] = true,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 437.2595550000002,
+					["total_without_pet"] = 1826.259555,
+					["total"] = 1826.259555,
+					["targets_absorbs"] = {
+						["Shado"] = 644,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-3685-0DE330E0",
+					["totalabsorb"] = 944.2595549999998,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Shado"] = 1336,
+					},
+					["totalover_without_pet"] = 0.259555,
+					["healing_taken"] = 1826.259555,
+					["fight_component"] = true,
+					["end_time"] = 1658960547,
+					["targets_overheal"] = {
+						["Shado"] = 224,
+					},
+					["last_event"] = 0,
+					["nome"] = "Shado",
+					["spells"] = {
+						["_ActorTable"] = {
+							[185311] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 43,
+								["targets"] = {
+									["Shado"] = 172,
+								},
+								["n_min"] = 0,
+								["counter"] = 4,
+								["overheal"] = 0,
+								["total"] = 172,
+								["c_max"] = 0,
+								["id"] = 185311,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 172,
+								["totaldenied"] = 0,
+								["n_amt"] = 4,
+								["absorbed"] = 0,
+							},
+							[312215] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 944,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 32,
+								["targets"] = {
+									["Shado"] = 944,
+								},
+								["n_min"] = 0,
+								["counter"] = 65,
+								["overheal"] = 0,
+								["total"] = 944,
+								["c_max"] = 0,
+								["id"] = 312215,
+								["targets_absorbs"] = {
+									["Shado"] = 944,
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_amt"] = 65,
+								["n_curado"] = 944,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+							[59913] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Shado"] = 437,
+								},
+								["n_max"] = 19,
+								["targets"] = {
+									["Shado"] = 710,
+								},
+								["n_min"] = 0,
+								["counter"] = 72,
+								["overheal"] = 437,
+								["total"] = 710,
+								["c_max"] = 0,
+								["id"] = 59913,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_amt"] = 72,
+								["n_curado"] = 710,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["aID"] = "3685-0DE330E0",
+					["totaldenied"] = 0.259555,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["spec"] = 260,
+					["start_time"] = 1658960267,
+					["delay"] = 0,
+					["classe"] = "ROGUE",
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 0.228709,
+					["resource"] = 156.335275,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["powertype"] = 3,
+					["classe"] = "ROGUE",
+					["passiveover"] = 0.002359,
+					["fight_component"] = true,
+					["resource_type"] = 4,
+					["totalover"] = 0.002359,
+					["nome"] = "Shado",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 7,
+					},
+					["grupo"] = true,
+					["aID"] = "3685-0DE330E0",
+					["last_event"] = 0,
+					["alternatepower"] = 0.228709,
+					["tipo"] = 3,
+					["flag_original"] = 1297,
+					["spec"] = 260,
+					["serial"] = "Player-3685-0DE330E0",
+					["total"] = 0.228709,
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[1833] = {
+								["counter"] = 0,
+								["appliedamt"] = 0,
+								["activedamt"] = -3,
+								["actived_at"] = 4976971681,
+								["id"] = 1833,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[185763] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 18,
+								["id"] = 185763,
+								["uptime"] = 85,
+								["targets"] = {
+								},
+								["refreshamt"] = 3,
+							},
+							[6770] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 0,
+								["activedamt"] = -2,
+								["uptime"] = 0,
+								["id"] = 6770,
+								["actived_at"] = 3318099934,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["buff_uptime"] = 1785,
+					["cc_break_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[185763] = {
+								["cc_break_oque"] = {
+									[6770] = 1,
+								},
+								["id"] = 185763,
+								["cc_break"] = 1,
+								["targets"] = {
+									["Crimson Cultist"] = 1,
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["nome"] = "Shado",
+					["aID"] = "3685-0DE330E0",
+					["interrupt_spells"] = {
+						["_ActorTable"] = {
+							[1766] = {
+								["id"] = 1766,
+								["counter"] = 9,
+								["targets"] = {
+									["Mista Nice"] = 2,
+									["Bloodraged Pterrordax"] = 1,
+									["Crimson Cultist"] = 4,
+									["Disciple of Halazzi"] = 1,
+									["Guardian of the Tombs"] = 1,
+								},
+								["interrompeu_oque"] = {
+									[260409] = 1,
+									[256099] = 4,
+									[312118] = 1,
+									[12058] = 2,
+									[271025] = 1,
+								},
+							},
+						},
+						["tipo"] = 9,
+					},
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[341260] = {
+								["counter"] = 0,
+								["activedamt"] = 13,
+								["appliedamt"] = 13,
+								["id"] = 341260,
+								["uptime"] = 70,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[277124] = {
+								["counter"] = 0,
+								["activedamt"] = 11,
+								["appliedamt"] = 11,
+								["id"] = 277124,
+								["uptime"] = 39,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[335152] = {
+								["counter"] = 0,
+								["activedamt"] = 54,
+								["appliedamt"] = 54,
+								["id"] = 335152,
+								["uptime"] = 426,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[259395] = {
+								["counter"] = 0,
+								["appliedamt"] = 4,
+								["activedamt"] = 4,
+								["actived_at"] = 3318011276,
+								["id"] = 259395,
+								["uptime"] = 31,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[326419] = {
+								["counter"] = 0,
+								["activedamt"] = 54,
+								["appliedamt"] = 54,
+								["id"] = 326419,
+								["uptime"] = 426,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[259161] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 259161,
+								["uptime"] = 11,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[315496] = {
+								["counter"] = 0,
+								["activedamt"] = 53,
+								["appliedamt"] = 53,
+								["id"] = 315496,
+								["uptime"] = 340,
+								["targets"] = {
+								},
+								["refreshamt"] = 7,
+							},
+							[195627] = {
+								["counter"] = 0,
+								["activedamt"] = 30,
+								["appliedamt"] = 30,
+								["id"] = 195627,
+								["uptime"] = 52,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[275857] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 275857,
+								["uptime"] = 9,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[185311] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 185311,
+								["uptime"] = 4,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[315584] = {
+								["counter"] = 0,
+								["activedamt"] = 43,
+								["appliedamt"] = 43,
+								["id"] = 315584,
+								["uptime"] = 344,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[277236] = {
+								["counter"] = 0,
+								["activedamt"] = 5,
+								["appliedamt"] = 5,
+								["id"] = 277236,
+								["uptime"] = 16,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[268744] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 268744,
+								["uptime"] = 17,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["pets"] = {
+						"Loti's Totem <Shado>", -- [1]
+					},
+					["interrompeu_oque"] = {
+						[260409] = 1,
+						[256099] = 4,
+						[312118] = 1,
+						[12058] = 2,
+						[271025] = 1,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 85,
+					["classe"] = "ROGUE",
+					["cc_break"] = 1.005545,
+					["debuff_uptime_targets"] = {
+					},
+					["spec"] = 260,
+					["grupo"] = true,
+					["buff_uptime_targets"] = {
+					},
+					["spell_cast"] = {
+						[315584] = 1,
+						[8676] = 29,
+						[196819] = 13,
+						[315496] = 27,
+						[1766] = 9,
+						[185311] = 1,
+						[185763] = 23,
+						[193315] = 81,
+						[275792] = 1,
+					},
+					["cc_break_oque"] = {
+						[6770] = 1,
+					},
+					["interrupt"] = 9.037396,
+					["tipo"] = 4,
+					["interrupt_targets"] = {
+						["Mista Nice"] = 2,
+						["Bloodraged Pterrordax"] = 1,
+						["Crimson Cultist"] = 4,
+						["Disciple of Halazzi"] = 1,
+						["Guardian of the Tombs"] = 1,
+					},
+					["cc_break_targets"] = {
+						["Crimson Cultist"] = 1,
+					},
+					["serial"] = "Player-3685-0DE330E0",
+					["last_event"] = 0,
+				}, -- [1]
+				{
+					["monster"] = true,
+					["aID"] = "126586",
+					["nome"] = "Crimson Cultist",
+					["flag_original"] = 68168,
+					["spell_cast"] = {
+						[256099] = 9,
+						[252215] = 5,
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["tipo"] = 4,
+					["pets"] = {
+					},
+					["serial"] = "Creature-0-3023-1642-22445-126586-000061B9D7",
+					["last_event"] = 0,
+				}, -- [2]
+				{
+					["flag_original"] = 8465,
+					["ownerName"] = "Shado",
+					["nome"] = "Loti's Totem <Shado>",
+					["spell_cast"] = {
+						[251652] = 2,
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["aID"] = "126790",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3023-1642-22445-126790-000061BB01",
+					["classe"] = "PET",
+				}, -- [3]
+				{
+					["flag_original"] = 68168,
+					["spell_cast"] = {
+						[8599] = 4,
+						[260409] = 1,
+					},
+					["nome"] = "Bloodraged Pterrordax",
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["fight_component"] = true,
+					["aID"] = "126618",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3023-1642-22445-126618-000061BB20",
+					["monster"] = true,
+				}, -- [4]
+				{
+					["monster"] = true,
+					["flag_original"] = 68168,
+					["nome"] = "Guardian of the Tombs",
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[312118] = 1,
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["aID"] = "127072",
+					["serial"] = "Creature-0-3023-1642-22445-127072-000061BB95",
+					["pets"] = {
+					},
+				}, -- [5]
+				{
+					["monster"] = true,
+					["flag_original"] = 68168,
+					["nome"] = "Guardian of the Rites",
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[263027] = 1,
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["aID"] = "127073",
+					["serial"] = "Creature-0-3023-1642-22445-127073-000061BBBA",
+					["pets"] = {
+					},
+				}, -- [6]
+				{
+					["monster"] = true,
+					["flag_original"] = 68168,
+					["nome"] = "Dregada",
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[266267] = 1,
+						[265772] = 1,
+						[263046] = 1,
+						[263043] = 1,
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["aID"] = "127079",
+					["serial"] = "Creature-0-3023-1642-22445-127079-000061BC35",
+					["pets"] = {
+					},
+				}, -- [7]
+				{
+					["flag_original"] = 2600,
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["nome"] = "Sandfury Thug",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[268801] = 3,
+					},
+					["aID"] = "125460",
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3023-1642-22445-125460-0000630C63",
+					["tipo"] = 4,
+				}, -- [8]
+				{
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["nome"] = "Amani Thug",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[269837] = 7,
+					},
+					["flag_original"] = 68136,
+					["aID"] = "120843",
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3023-1642-22445-120843-0000630C81",
+					["tipo"] = 4,
+				}, -- [9]
+				{
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["nome"] = "Gurubashi Thug",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[265754] = 2,
+					},
+					["flag_original"] = 68136,
+					["aID"] = "125458",
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3023-1642-22445-125458-000163113B",
+					["tipo"] = 4,
+				}, -- [10]
+				{
+					["flag_original"] = 68168,
+					["monster"] = true,
+					["aID"] = "136796",
+					["nome"] = "Smuggled Crawg",
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[263187] = 2,
+						[256715] = 2,
+					},
+					["tipo"] = 4,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3023-1642-22445-136796-0000631636",
+					["last_event"] = 0,
+				}, -- [11]
+				{
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["nome"] = "Mista Nice",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[268984] = 2,
+						[12058] = 2,
+					},
+					["flag_original"] = 68136,
+					["aID"] = "125996",
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3023-1642-22445-125996-0000630C69",
+					["tipo"] = 4,
+				}, -- [12]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["nome"] = "Disciple of Halazzi",
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["spell_cast"] = {
+						[271025] = 4,
+						[271026] = 3,
+					},
+					["tipo"] = 4,
+					["aID"] = "120951",
+					["serial"] = "Creature-0-3023-1642-22445-120951-00006318A6",
+					["classe"] = "UNKNOW",
+				}, -- [13]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[264064] = 1,
+						[264114] = 2,
+						[264070] = 2,
+					},
+					["nome"] = "Kul'krazahn",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 68168,
+					["aID"] = "120899",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120899-00006317A0",
+					["tipo"] = 4,
+				}, -- [14]
+				{
+					["flag_original"] = 68168,
+					["monster"] = true,
+					["aID"] = "120949",
+					["nome"] = "Disciple of Nalorakk",
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[270992] = 2,
+					},
+					["tipo"] = 4,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3023-1642-22445-120949-000063195B",
+					["last_event"] = 0,
+				}, -- [15]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[270929] = 1,
+						[270905] = 1,
+					},
+					["nome"] = "Disciple of Akil'zon",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 68168,
+					["aID"] = "120946",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120946-0000631A20",
+					["tipo"] = 4,
+				}, -- [16]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[43519] = 3,
+					},
+					["nome"] = "Amani Warrior",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["aID"] = "120900",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3023-1642-22445-120900-00006319E3",
+					["tipo"] = 4,
+				}, -- [17]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["raid_roster_indexed"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["tempo_start"] = 1658960536,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 17,
+		["totals"] = {
+			26961.587494, -- [1]
+			1826.226252000001, -- [2]
+			{
+				-0.008445999999992182, -- [1]
+				[0] = -0.011849,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0.22635,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 1.005545,
+				["interrupt"] = 9.037395999999998,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "16:22:17",
+		["end_time"] = 136320.388,
+		["totals_grupo"] = {
+			22642.263323, -- [1]
+			1826.258315, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0.22635,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 1.005545,
+				["interrupt"] = 9.037396,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 21.68499999999767,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:23:07",
+			}, -- [1]
+			{
+				["elapsed"] = 10.65100000001257,
+				["type"] = 0,
+				["name"] = "Disciple of Nalorakk",
+				["clock"] = "17:22:44",
+			}, -- [2]
+			{
+				["elapsed"] = 16.73399999999674,
+				["type"] = 0,
+				["name"] = "Disciple of Akil'zon",
+				["clock"] = "17:22:19",
+			}, -- [3]
+			{
+				["elapsed"] = 18.91899999999441,
+				["type"] = 0,
+				["name"] = "Disciple of Halazzi",
+				["clock"] = "17:21:52",
+			}, -- [4]
+			{
+				["elapsed"] = 12.23500000001513,
+				["type"] = 0,
+				["name"] = "Disciple of Nalorakk",
+				["clock"] = "17:21:30",
+			}, -- [5]
+			{
+				["elapsed"] = 21.11699999999837,
+				["type"] = 0,
+				["name"] = "Kul'krazahn",
+				["clock"] = "17:20:47",
+			}, -- [6]
+			{
+				["elapsed"] = 3.734000000025844,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:20:22",
+			}, -- [7]
+			{
+				["elapsed"] = 5.917000000015833,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:20:09",
+			}, -- [8]
+			{
+				["elapsed"] = 3.433999999979278,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:20:02",
+			}, -- [9]
+			{
+				["elapsed"] = 4.75,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:19:48",
+			}, -- [10]
+			{
+				["elapsed"] = 2.783000000024913,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:19:39",
+			}, -- [11]
+			{
+				["elapsed"] = 4.75,
+				["type"] = 0,
+				["name"] = "Amani Warrior",
+				["clock"] = "17:19:29",
+			}, -- [12]
+			{
+				["elapsed"] = 34.47000000000116,
+				["type"] = 0,
+				["name"] = "Mista Nice",
+				["clock"] = "17:16:45",
+			}, -- [13]
+			{
+				["elapsed"] = 23.26900000000023,
+				["type"] = 0,
+				["name"] = "Da White Shark",
+				["clock"] = "17:13:16",
+			}, -- [14]
+			{
+				["elapsed"] = 3.63300000000163,
+				["type"] = 0,
+				["name"] = "Gurubashi Thug",
+				["clock"] = "17:09:13",
+			}, -- [15]
+			{
+				["elapsed"] = 4.768000000010943,
+				["type"] = 0,
+				["name"] = "Sandfury Thug",
+				["clock"] = "17:09:04",
+			}, -- [16]
+			{
+				["elapsed"] = 3.552999999985332,
+				["type"] = 0,
+				["name"] = "Sandfury Thug",
+				["clock"] = "17:08:55",
+			}, -- [17]
+			{
+				["elapsed"] = 5.13399999999092,
+				["type"] = 0,
+				["name"] = "Amani Thug",
+				["clock"] = "17:08:39",
+			}, -- [18]
+			{
+				["elapsed"] = 2.899999999994179,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "17:06:38",
+			}, -- [19]
+			{
+				["elapsed"] = 1.183000000019092,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "17:06:31",
+			}, -- [20]
+			{
+				["elapsed"] = 13.28500000000349,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "17:06:08",
+			}, -- [21]
+			{
+				["elapsed"] = 3.982999999978347,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "17:05:57",
+			}, -- [22]
+			{
+				["elapsed"] = 7.901000000012573,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "17:05:46",
+			}, -- [23]
+			{
+				["elapsed"] = 5.967000000004191,
+				["type"] = 0,
+				["name"] = "Smuggled Crawg",
+				["clock"] = "17:05:35",
+			}, -- [24]
+			{
+				["elapsed"] = 8.88399999999092,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "17:05:20",
+			}, -- [25]
+			{
+				["elapsed"] = 10.0679999999993,
+				["type"] = 0,
+				["name"] = "Amani Thug",
+				["clock"] = "17:04:25",
+			}, -- [26]
+			{
+				["elapsed"] = 7.134000000020023,
+				["type"] = 0,
+				["name"] = "Gurubashi Thug",
+				["clock"] = "17:04:12",
+			}, -- [27]
+			{
+				["elapsed"] = 5.850999999995111,
+				["type"] = 0,
+				["name"] = "Gurubashi Thug",
+				["clock"] = "17:04:03",
+			}, -- [28]
+			{
+				["elapsed"] = 7.084000000002561,
+				["type"] = 0,
+				["name"] = "Gurubashi Thug",
+				["clock"] = "17:03:54",
+			}, -- [29]
+			{
+				["elapsed"] = 5.282999999995809,
+				["type"] = 0,
+				["name"] = "Sandfury Thug",
+				["clock"] = "17:03:45",
+			}, -- [30]
+			{
+				["elapsed"] = 7.301000000006752,
+				["type"] = 0,
+				["name"] = "Amani Thug",
+				["clock"] = "17:03:36",
+			}, -- [31]
+			{
+				["elapsed"] = 3.584000000002561,
+				["type"] = 0,
+				["name"] = "Sandfury Thug",
+				["clock"] = "17:02:32",
+			}, -- [32]
+			{
+				["elapsed"] = 2.516999999992549,
+				["type"] = 0,
+				["name"] = "Amani Thug",
+				["clock"] = "17:02:23",
+			}, -- [33]
+			{
+				["elapsed"] = 8.567000000002736,
+				["type"] = 0,
+				["name"] = "Wild Thumpknuckle",
+				["clock"] = "16:38:46",
+			}, -- [34]
+			{
+				["elapsed"] = 11.83499999999913,
+				["type"] = 0,
+				["name"] = "Bloodraged Pterrordax",
+				["clock"] = "16:34:41",
+			}, -- [35]
+			{
+				["elapsed"] = 21.41799999999785,
+				["type"] = 0,
+				["name"] = "Dregada",
+				["clock"] = "16:32:44",
+			}, -- [36]
+			{
+				["elapsed"] = 11.11799999999494,
+				["type"] = 0,
+				["name"] = "Guardian of the Dead",
+				["clock"] = "16:31:56",
+			}, -- [37]
+			{
+				["elapsed"] = 1.67500000000291,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "16:31:51",
+			}, -- [38]
+			{
+				["elapsed"] = 1.25,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "16:31:37",
+			}, -- [39]
+			{
+				["elapsed"] = 2.266999999999825,
+				["type"] = 0,
+				["name"] = "Crimson Cultist",
+				["clock"] = "16:31:25",
+			}, -- [40]
+		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "17:23:29",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
+		},
+		["start_time"] = 135892.8019999999,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+	},
+	["character_data"] = {
+		["logons"] = 9,
+	},
+	["force_font_outline"] = "",
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3685-0DE330E0"] = 260,
+	},
+}

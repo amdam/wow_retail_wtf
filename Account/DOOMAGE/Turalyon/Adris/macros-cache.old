@@ -1,0 +1,12 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Blade Dance; /cast [modifier:alt] Eye Beam
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Demon's Bite; /cast [modifier:alt] Throw Glaive
+/script UIErrorsFrame:Clear()
+END

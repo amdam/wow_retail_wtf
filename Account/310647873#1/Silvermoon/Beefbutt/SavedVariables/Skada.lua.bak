@@ -1,0 +1,184 @@
+
+SkadaPerCharDB = {
+	["sets"] = {
+	},
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 80,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["time"] = 0,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 50,
+				["damagespells"] = {
+					["Auto Shot"] = {
+						["hitmin"] = 25,
+						["id"] = 75,
+						["min"] = 25,
+						["hitamount"] = 50,
+						["hitmax"] = 25,
+						["hit"] = 2,
+						["school"] = 1,
+						["max"] = 25,
+						["totalhits"] = 2,
+						["damage"] = 50,
+					},
+				},
+				["auras"] = {
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-86-0A075B3B",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["maxhp"] = 504,
+				["name"] = "Artoc",
+				["deathlog"] = {
+				},
+				["damagetaken"] = 0,
+				["overhealing"] = 0,
+				["role"] = "DAMAGER",
+				["healing"] = 0,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DRUID",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["time"] = 3,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 30,
+				["damagespells"] = {
+					["Wrath"] = {
+						["hitmin"] = 30,
+						["id"] = 190984,
+						["min"] = 30,
+						["hitamount"] = 30,
+						["hitmax"] = 30,
+						["hit"] = 1,
+						["school"] = 8,
+						["max"] = 30,
+						["totalhits"] = 1,
+						["damage"] = 30,
+					},
+				},
+				["auras"] = {
+					["Cat Form"] = {
+						["school"] = 1,
+						["name"] = "Cat Form",
+						["active"] = 1,
+						["id"] = 768,
+						["started"] = 1605474736,
+						["auratype"] = "BUFF",
+						["uptime"] = 0,
+					},
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-86-0A074C0C",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["maxhp"] = 480,
+				["name"] = "Beefbutt",
+				["deathlog"] = {
+				},
+				["damagetaken"] = 0,
+				["overhealing"] = 0,
+				["role"] = "DAMAGER",
+				["healing"] = 0,
+			}, -- [2]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 0,
+		["mobtaken"] = 80,
+		["ffdamagedone"] = 0,
+		["healing"] = 0,
+		["auras"] = {
+		},
+		["power"] = {
+		},
+		["starttime"] = 1605473913,
+		["overhealing"] = 0,
+		["name"] = "Total",
+		["mobs"] = {
+			["Maggot"] = {
+				["players"] = {
+					["Beefbutt"] = {
+						["taken"] = 30,
+						["done"] = 0,
+						["role"] = "DAMAGER",
+						["class"] = "DRUID",
+					},
+					["Artoc"] = {
+						["taken"] = 25,
+						["done"] = 0,
+						["role"] = "DAMAGER",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 55,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Undercity Rat"] = {
+				["players"] = {
+					["Artoc"] = {
+						["taken"] = 25,
+						["done"] = 0,
+						["role"] = "DAMAGER",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 25,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["shielding"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1605473913,
+		["mobdone"] = 0,
+	},
+}

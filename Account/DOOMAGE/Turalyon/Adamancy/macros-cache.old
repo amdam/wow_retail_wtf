@@ -1,0 +1,101 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@focus,harm,nodead][@boss3,harm,nodead,exists][] Counterspell
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,nochanneling] Arcane Explosion; [mod:shift] Frostbolt; [spec:2] Fireball; [spec:3] Frostbolt; [spec:1,nochanneling] Arcane Blast;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [mod:alt,spec:1] Ice Nova; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:3] Icy Veins; [spec:1] Arcane Surge; [spec:2] Combustion;
+/cast Berserking
+/use 13
+/use Soul Igniter
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Ice Block
+/stopcasting
+/cast Ice Block
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "SPELL_MAGIC_FEATHERFALL"
+#showtooltip Slow Fall
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Slow Fall
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Remove Curse
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,noknown:31661] Cone of Cold; [mod:shift] Cone of Cold; [spec:2] Phoenix Flames; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
+/cancelaura Soul Ignition
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier,talent:4/3] Ebonbolt; [modifier:alt,notalent:1/2] Freeze; [modifier:shift] Cold Snap; Cold Snap
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Frost Nova; [mod:shift,known:Ice Nova] Ice Nova; [spec:2] Fire Blast; [spec:3] Ice Lance; [spec:1,nochanneling] Arcane Barrage;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [modifier:alt,known:Meteor,@cursor] Meteor; Scorch; 
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/focus
+/cast Polymorph
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,known:Shifting Power] Shifting Power; [spec:2,known:Living Bomb] Living Bomb; [spec:1,known:Radiant Spark] Radiant Spark;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001B " " "134400"
+#showtooltip
+/cast [mod:alt] Cone of Cold; [known:Ice Floes,mod:shift] Ice Floes; [known:Ice Nova] Ice Nova; Cone of Cold;;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001C " " "134400"
+#showtooltip
+/cast [mod:alt,known:Nether Tempest] Nether Tempest; [mod:shift,known:Conjure Mana Gem] Mana Gem; Touch of the Magi;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001D " " "134400"
+#showtooltip Arcane Surge
+/use 13
+/cast Arcane Surge;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001E " " "134400"
+#showtooltip
+/cast [known:Meteor,@cursor] Meteor; [known:Shifting Power] Shifting Power;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001F " " "134400"
+#showtooltip Conjure Mana Gem
+/click DeleteManaGem;
+/cast Conjure Mana Gem;
+/script UIErrorsFrame:Clear()
+END

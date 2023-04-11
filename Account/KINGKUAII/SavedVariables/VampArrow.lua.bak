@@ -1,0 +1,10 @@
+
+VampArrowDB = {
+	["profileKeys"] = {
+		["Ankorage - Bloodscalp"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

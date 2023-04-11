@@ -1,0 +1,19 @@
+
+AffDotsOptions110 = nil
+AffDotsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Adamancy - Turalyon"] = "Adamancy - Turalyon",
+	},
+	["profiles"] = {
+		["Adamancy - Turalyon"] = {
+			["p"] = "TOPLEFT",
+			["y"] = -731.1986083984375,
+			["x"] = 1205.298583984375,
+			["rp"] = "TOPLEFT",
+		},
+	},
+}

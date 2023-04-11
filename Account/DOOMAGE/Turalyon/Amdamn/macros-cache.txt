@@ -1,0 +1,53 @@
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast [nomodifier] Barrage; /cast [modifier:alt] Bursting Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast Steady Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast Chimaera Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast [nomodifier] Cobra Shot; /cast [modifier:alt] Multi-Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Misdirection
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/startattack
+/cast [nomodifier] Kill Shot; /cast [modifier:alt] Tranquilizing Shot
+/script UIErrorsFrame:Clear
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/petattack
+/cast [nomodifier] Arcane Shot; /cast [modifier:alt] Multi-Shot
+/script UIErrorsFrame:Clear()
+END

@@ -1,0 +1,25 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,spec:1,talent:4/3] Liquid Magma Totem; [mod:shift] Frost Shock; Flame Shock;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] Earthquake; Earth Shock
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Stormstrike; /cast [modifier:alt] Sundering
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] Chain Lightning; Lightning Bolt;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,mod:alt] Thunderstorm; Lava Burst
+/script UIErrorsFrame:Clear()
+END

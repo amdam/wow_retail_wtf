@@ -1,0 +1,72 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, nomodifier] Lifebloom;
+/cast [@mouseover, nodead, modifier:alt] Wild Growth;
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead, nomodifier][@player, nomodifier] Ironbark;
+/cast [@mouseover, help, nodead, modifier:alt][@player, modifier:alt] Innervate;
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead, nomodifier][@player, nomodifier] Swiftmend;
+/cast [@mouseover, help, nodead, modifier:alt][@player, modifier:alt] Regrowth;
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Rake; /cast [modifier:alt] Thrash
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Shred; /cast [modifier:alt] Swipe
+/script UIErrofsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help][@player] Rebirth ;
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nomodifier][@player, nomodifier] Revive;
+/cast [@mouseover, help, modifier:alt][@player, modifier:alt] Revitalize;
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Wrath; /cast [modifier:alt] Starfire
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Starsurge; /cast [modifier:alt] Starfall
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Entangling Roots
+/focus
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]13;Flourish
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Moonfire; /cast [modifier:alt] Sunfire
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 "revitalize" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Revitalize
+END
+VER 3 0100000000000002 "winnervate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Innervate
+END

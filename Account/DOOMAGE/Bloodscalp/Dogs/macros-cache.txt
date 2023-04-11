@@ -1,0 +1,98 @@
+MACRO64 0000000001000002 " " "SPELL_HOLY_AVENGERSSHIELD"
+#showtooltip Avenger's Shield
+/startattack
+/cast [nomodifier] Avenger's Shield; /cast [modifier:alt] Consecration
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000004 " " "SPELL_PALADIN_INQUISITION"
+#showtooltip Inquisition
+/cast [nomodifier] Inquisition;
+/cast [modifier:alt] Word of Glory
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000005 " " "Spell_Holy_Excorcism_02"
+#showtooltip Exorcism
+/startattack
+/cast Exorcism
+/script UIErrorsFrame:Clear()
+/cancelaura Chaos Bane
+END
+MACRO64 0000000001000013 " " "SPELL_HOLY_AVENGINEWRATH"
+#showtooltip Avenging Wrath
+/cast Avenging Wrath
+/cast Holy Avenger
+/use Lessons of the Darkmaster
+/use Jade Charioteer Figurine
+/use Kafa Press
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000D " " "Spell_Holy_DivineShield"
+#showtooltip Divine Shield
+/cancelaura Divine Shield
+/cast Divine Shield
+END
+MACRO64 0000000001000007 " " "SPELL_HOLY_PURIFY"
+#showtooltip Cleanse
+/cast [target=mouseover, exists] [help] [target=player] Cleanse
+END
+MACRO64 0000000001000008 " " "Spell_Holy_SealOfProtection"
+#showtooltip Hand of Protection
+/cast [target=mouseover, exists] [help] [target=player] Hand of Protection
+END
+MACRO64 0000000001000009 " " "Spell_Holy_SealOfSacrifice"
+#showtooltip Hand of Sacrifice
+/cast [target=mouseover, exists] [help] [target=player] Hand of Sacrifice
+END
+MACRO64 000000000100000A " " "Spell_Holy_SealOfSalvation"
+#showtooltip Hand of Salvation
+/cast [target=mouseover, exists] [help] [target=player] Hand of Salvation
+END
+MACRO64 000000000100000B " " "Spell_Holy_SealOfValor"
+#showtooltip Hand of Freedom
+/cast [target=mouseover, exists] [help] [target=player] Hand of Freedom
+END
+MACRO64 000000000100000C " " "Spell_Holy_LayOnHands"
+#showtooltip Lay on Hands
+/cast [target=mouseover, exists] [help] [target=player] Lay on Hands
+END
+MACRO64 000000000100000E " " "Spell_Shadow_DarkSummoning"
+#showtooltip Repentance
+/cast [nomodifier] Repentance; /cast [modifier:alt] Turn Evil
+END
+MACRO64 0000000001000011 " " "ABILITY_PALADIN_SHIELDOFVENGEANCE"
+#showtooltip Shield of the Righteous
+/startattack
+/cast [nomodifier] Shield of the Righteous; /cast [modifier:alt] Word of Glory
+/script UIErrorsFrame:Clear()
+END
+MACRO64 000000000100000F " " "Spell_Holy_CrusaderStrike"
+#showtooltip Crusader Strike
+/startattack
+/cast [nomodifier] Crusader Strike; /cast [modifier:alt] Hammer of the Righteous
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000010 " " "Spell_Holy_RighteousFury"
+#showtooltip Judgment
+/startattack
+/cast [nomodifier] Judgment; /cast [modifier:alt] Execution Sentence
+/script UIErrorsFrame:Clear()
+/cancelaura Chaos Bane
+END
+MACRO64 0000000001000012 " " "SPELL_HOLY_UNYIELDINGFAITH"
+#showtooltip Reckoning
+/startattack
+/cast [nomodifier] Reckoning; /cast [modifier:alt] Holy Wrath
+/script UIErrorsFrame:Clear()
+END
+MACRO64 0000000001000014 " " "Spell_Paladin_templarsverdict"
+#showtooltip Templar's Verdict
+/startattack
+/cast [nomodifier] Templar's Verdict; /cast [modifier:alt] Divine Storm
+/script UIErrorsFrame:Clear()
+/cancelaura Chaos Bane
+END
+MACRO64 0000000001000006 "  " "SPELL_HOLY_HOLYBOLT"
+#showtooltip Holy Light
+/cast [nomodifier] Holy Light; /cast [modifier:alt] Denounce
+/script UIErrorsFrame:Clear()
+END

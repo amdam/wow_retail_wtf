@@ -1,0 +1,68 @@
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Death Strike; /cast [modifier:alt] Rune Tap;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Mind Freeze; /cast [modifier:alt] Asphyxiate
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Anti-Magic Shell; /cast [modifier;alt] Anti-Magic Zone
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Heart Strike; /cast [modifier:alt] Blood Boil;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Death Coil
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 "  " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Plague Strike; /cast [modifier:alt] Death and Decay;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 "  " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Icy Touch; /cast [modifier:alt] Outbreak;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 "   " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Blood Strike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 "    " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Obliterate
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 "     " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Frost Strike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 "      " "INV_MISC_QUESTIONMARK"
+#showtooltipt
+/startattack
+/cast [nomodifier] Howling Blast; /cast [modifier:alt] Icy Touch
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 "       " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Scourge Strike
+/script UIErrorsFrame:Clear()
+END

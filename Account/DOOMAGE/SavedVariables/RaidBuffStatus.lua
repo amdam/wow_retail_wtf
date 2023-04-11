@@ -1,0 +1,191 @@
+
+RaidBuffStatusDB = {
+	["profileKeys"] = {
+		["Trasha - Bloodscalp"] = "Trasha - Bloodscalp",
+		["Wake - Bloodscalp"] = "Wake - Bloodscalp",
+		["Christifur - Turalyon"] = "Christifur - Turalyon",
+		["Sunsong - Whisperwind"] = "Sunsong - Whisperwind",
+		["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
+		["Dogs - Bloodscalp"] = "Dogs - Bloodscalp",
+		["Batgril - Bloodscalp"] = "Batgril - Bloodscalp",
+		["Badam - Turalyon"] = "Badam - Turalyon",
+		["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+		["Adamancy - Khadgar"] = "Adamancy - Khadgar",
+		["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+		["Amdamn - Turalyon"] = "Amdamn - Turalyon",
+		["Adamancy - Turalyon"] = "Adamancy - Turalyon",
+		["Furrys - Turalyon"] = "Furrys - Turalyon",
+		["Aduum - Turalyon"] = "Aduum - Turalyon",
+		["Bears - Bloodscalp"] = "Bears - Bloodscalp",
+		["Amdam - Bloodscalp"] = "Amdam - Bloodscalp",
+		["Badam - Bloodscalp"] = "Badam - Bloodscalp",
+		["Dewt - Turalyon"] = "Dewt - Turalyon",
+		["Amdam - Turalyon"] = "Amdam - Turalyon",
+		["Ayano - Whisperwind"] = "Ayano - Whisperwind",
+		["Cliance - Bloodscalp"] = "Cliance - Bloodscalp",
+		["Adamn - Turalyon"] = "Adamn - Turalyon",
+		["Christos - Turalyon"] = "Christos - Turalyon",
+		["Elpy - Bloodscalp"] = "Elpy - Bloodscalp",
+		["Adamn - Terokkar"] = "Adamn - Terokkar",
+	},
+	["profiles"] = {
+		["Trasha - Bloodscalp"] = {
+		},
+		["Wake - Bloodscalp"] = {
+			["y"] = -662.219502112174,
+			["x"] = 2002.66618868545,
+			["TellWizard"] = false,
+		},
+		["Christifur - Turalyon"] = {
+			["y"] = 868.345703125,
+			["x"] = 313.375946044922,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Sunsong - Whisperwind"] = {
+		},
+		["Jeryn - Bloodscalp"] = {
+		},
+		["Dogs - Bloodscalp"] = {
+			["y"] = 606.015791844562,
+			["x"] = 1865.29877817306,
+			["MiniMapAngle"] = 315.760489310273,
+			["checkabouttorunout"] = true,
+			["checkpet"] = false,
+			["TellWizard"] = false,
+			["checkearthshield"] = false,
+		},
+		["Batgril - Bloodscalp"] = {
+		},
+		["Badam - Turalyon"] = {
+			["checkpet"] = false,
+			["MiniMapAngle"] = 342.931023321078,
+			["checkabouttorunout"] = true,
+			["checksoulstone"] = false,
+			["checkflaskofbattle"] = false,
+			["y"] = 1160.29406738281,
+			["x"] = 219.363082885742,
+			["checksymbiosis"] = false,
+			["TellWizard"] = false,
+			["checkmasterybuff"] = false,
+			["ReportChat"] = false,
+		},
+		["Adreya - Bloodscalp"] = {
+			["y"] = -613.889660061394,
+			["x"] = 1984.88846513116,
+			["MiniMapAngle"] = 152.554300839681,
+			["TellWizard"] = false,
+		},
+		["Adamancy - Khadgar"] = {
+			["y"] = 1166.92517089844,
+			["x"] = 23.4615497589111,
+			["MiniMapAngle"] = 54.1608311412338,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Amdamn - Bloodscalp"] = {
+			["y"] = -653.968180101351,
+			["x"] = 1998.22189785395,
+		},
+		["Amdamn - Turalyon"] = {
+			["y"] = 1146.01293945313,
+			["x"] = 256.487335205078,
+			["MiniMapAngle"] = 345.984581072478,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Adamancy - Turalyon"] = {
+			["y"] = 1175.7294921875,
+			["x"] = 369.170867919922,
+			["MiniMapAngle"] = 53.5370360559305,
+			["cooldowns"] = {
+				["soulstone"] = {
+					["Vyntse-Dalaran"] = 1468799461,
+				},
+			},
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Furrys - Turalyon"] = {
+			["y"] = 1098.68835449219,
+			["x"] = 33.3075714111328,
+			["MiniMapAngle"] = 338.7831015888,
+			["checkabouttorunout"] = true,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Aduum - Turalyon"] = {
+			["y"] = 1164.6015625,
+			["x"] = 37.6839866638184,
+			["MiniMapAngle"] = 248.487456576017,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Bears - Bloodscalp"] = {
+			["y"] = -610.561554020688,
+			["x"] = 1964.30707922135,
+			["TellWizard"] = false,
+		},
+		["Amdam - Bloodscalp"] = {
+			["y"] = 873.844959152644,
+			["x"] = 1874.05248488112,
+			["MiniMapAngle"] = 250.068605708642,
+			["TellWizard"] = false,
+			["checkearthshield"] = false,
+			["checkthorns"] = false,
+		},
+		["Badam - Bloodscalp"] = {
+		},
+		["Dewt - Turalyon"] = {
+			["checksoulstone"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Amdam - Turalyon"] = {
+			["MiniMapAngle"] = 337.378614393729,
+			["nonleadspeak"] = true,
+			["checkabouttorunout"] = true,
+			["checksoulstone"] = false,
+			["checkflaskofbattle"] = false,
+			["y"] = 1170.36169433594,
+			["x"] = 26.9055118560791,
+			["checksymbiosis"] = false,
+			["TellWizard"] = false,
+		},
+		["Ayano - Whisperwind"] = {
+		},
+		["Cliance - Bloodscalp"] = {
+		},
+		["Adamn - Turalyon"] = {
+			["y"] = 1160.58825683594,
+			["x"] = 3.7693829536438,
+			["MiniMapAngle"] = 344.109771341011,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Christos - Turalyon"] = {
+			["y"] = 333.858245849609,
+			["x"] = 1853.75256347656,
+			["checksoulstone"] = false,
+			["TellWizard"] = false,
+			["checkflaskofbattle"] = false,
+		},
+		["Elpy - Bloodscalp"] = {
+		},
+		["Adamn - Terokkar"] = {
+			["y"] = 1179.70520019531,
+			["x"] = 244.453079223633,
+			["TellWizard"] = false,
+		},
+	},
+}
+RaidBuffStatusDefaultProfile = {
+	false, -- [1]
+	"Modders: In your SavedVars, replace the first argument of this table with the profile you want loaded by default, like 'Default'.", -- [2]
+}

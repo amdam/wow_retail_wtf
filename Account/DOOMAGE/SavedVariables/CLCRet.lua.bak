@@ -1,0 +1,12 @@
+
+clcretDB = {
+	["profileKeys"] = {
+		["Dogs - Bloodscalp"] = "Dogs - Bloodscalp",
+	},
+	["profiles"] = {
+		["Dogs - Bloodscalp"] = {
+			["x"] = 988.2280946952634,
+			["y"] = 238.7386493424464,
+		},
+	},
+}

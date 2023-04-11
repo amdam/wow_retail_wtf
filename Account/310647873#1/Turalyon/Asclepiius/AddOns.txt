@@ -1,0 +1,8 @@
+MikScrollingBattleText: enabled
+MSBTOptions: enabled
+TidyPlates: disabled
+Chatter: disabled
+TipTac: enabled
+TipTacItemRef: enabled
+TipTacOptions: enabled
+TipTacTalents: enabled

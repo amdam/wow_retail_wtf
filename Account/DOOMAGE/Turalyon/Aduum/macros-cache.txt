@@ -1,0 +1,47 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Flame Shock; /cast [modifier:alt] Frost Shock
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Lava Lash; /cast [modifier:alt] Fire Nova;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Healing Surge
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] Totemic Projection
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Lightning Bolt; /cast [modifier:alt] Chain Lightning
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Searing Totem; /cast [modifier:alt] Magma Totem;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead, nomodifier][help, nodead, nomodifier][@player, nomodifier] Healing Wave
+/use [@mouseover, help, nodead][help, nodead][@player] Chain Heal
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead, nomodifier][help, nodead, nomodifier][@player, nomodifier] Riptide
+/use Lava Burst
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] Totemic Projection
+/use [@mouseover, help, nodead][help, nodead][@player] Earth Shield
+/script UIErrorsFrame:Clear()
+END

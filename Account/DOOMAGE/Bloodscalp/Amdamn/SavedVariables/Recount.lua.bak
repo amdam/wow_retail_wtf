@@ -1,0 +1,79 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Amdamn"] = {
+			["GUID"] = "0x0180000001A81D68",
+			["type"] = "Self",
+			["TimeLast"] = {
+				["OVERALL"] = 1275600598,
+				["ManaGain"] = 1275600598,
+			},
+			["Owner"] = false,
+			["enClass"] = "PRIEST",
+			["TimeWindows"] = {
+				["ManaGain"] = {
+					22, -- [1]
+				},
+			},
+			["Name"] = "Amdamn",
+			["LastActive"] = 1275600598,
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ManaGain"] = 22,
+					["ManaGainedFrom"] = {
+						["Amdamn"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["ManaGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Amdamn"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ManaGain"] = 22,
+					["ManaGainedFrom"] = {
+						["Amdamn"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["ManaGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Amdamn"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+				},
+			},
+			["level"] = 7,
+			["UnitLockout"] = 1275600598,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

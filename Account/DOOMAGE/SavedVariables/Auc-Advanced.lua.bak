@@ -1,0 +1,48 @@
+
+AucAdvancedConfig = {
+	["users.Turalyon.Amdam"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["SavedMailButtons"] = {
+				},
+			},
+			["pricelevel"] = {
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Turalyon"] = "Amdam",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+			["configator.left"] = 835.4702758789063,
+			["configator.top"] = 1090.30810546875,
+		},
+		["Current"] = {
+			["columnsortcurSort"] = 11,
+			["prospect.allow.buy"] = false,
+			["snatch.itemsList"] = {
+			},
+			["columnsortcurDir"] = -1,
+			["snatch.columnsortcurDir"] = 1,
+			["prospect.allow.bid"] = false,
+			["snatch.columnsortcurSort"] = 1,
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

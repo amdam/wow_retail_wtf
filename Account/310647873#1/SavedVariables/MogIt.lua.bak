@@ -1,0 +1,3 @@
+
+MogItDB = nil
+MogItWishlist = nil

@@ -1,0 +1,50 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Ice Lance; /cast [modifier:alt] Frost Nova
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Flurry; /cast [modifier:alt] Blizzard
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Ebonbolt; /cast [modifier:alt] Freeze
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frozen Orb; /cast [modifier:alt] Water Jet
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Frostbolt; /cast [modifier:alt] Cone of Cold
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Fire Blast; /cast [modifier:alt] Frost Nova
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Pyroblast; /cast [modifier:alt] Flamestrike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Phoenix Flames; /cast [modifier:alt] Dragon's Breath
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Ice Block
+/cast Ice Block
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtoolitp
+/cast [mod:alt] Arcane Explosion; Fireball;
+/script UIErrorsFrame:Clear()
+END

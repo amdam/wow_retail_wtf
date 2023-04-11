@@ -1,0 +1,4454 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Steamwheedle Shark <Trasha>"] = {
+			["GUID"] = "0xF13090FA00012D12",
+			["LastEventHealth"] = {
+				"???", -- [1]
+				"???", -- [2]
+				"???", -- [3]
+				"???", -- [4]
+				"???", -- [5]
+				"???", -- [6]
+				"???", -- [7]
+				"???", -- [8]
+			},
+			["LastEventType"] = {
+				"MISC", -- [1]
+				"MISC", -- [2]
+				"MISC", -- [3]
+				"MISC", -- [4]
+				"MISC", -- [5]
+				"MISC", -- [6]
+				"MISC", -- [7]
+				"MISC", -- [8]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					8, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["level"] = 1,
+			["LastFightIn"] = 6,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["DeathLogs"] = {
+				{
+					["MessageTimes"] = {
+						-14.30499999999302, -- [1]
+						-11.51899999997113, -- [2]
+						-9.24900000001071, -- [3]
+						-6.880999999993946, -- [4]
+						-1.506999999983236, -- [5]
+						0, -- [6]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+						"Steamwheedle Shark <Trasha> dies.", -- [3]
+						"Steamwheedle Shark <Trasha> dies.", -- [4]
+						"Steamwheedle Shark <Trasha> dies.", -- [5]
+						"Steamwheedle Shark <Trasha> dies.", -- [6]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+					},
+					["DeathAt"] = 1295750327,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+						"???", -- [5]
+						"???", -- [6]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+						"MISC", -- [3]
+						"MISC", -- [4]
+						"MISC", -- [5]
+						"MISC", -- [6]
+					},
+				}, -- [1]
+				{
+					["MessageTimes"] = {
+						-12.79800000000978, -- [1]
+						-10.01199999998789, -- [2]
+						-7.742000000027474, -- [3]
+						-5.37400000001071, -- [4]
+						0, -- [5]
+						1.506999999983236, -- [6]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+						"Steamwheedle Shark <Trasha> dies.", -- [3]
+						"Steamwheedle Shark <Trasha> dies.", -- [4]
+						"Steamwheedle Shark <Trasha> dies.", -- [5]
+						"Steamwheedle Shark <Trasha> dies.", -- [6]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+					},
+					["DeathAt"] = 1295750325,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+						"???", -- [5]
+						"???", -- [6]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+						"MISC", -- [3]
+						"MISC", -- [4]
+						"MISC", -- [5]
+						"MISC", -- [6]
+					},
+				}, -- [2]
+				{
+					["MessageTimes"] = {
+						-12.77799999999115, -- [1]
+						-11.17700000002515, -- [2]
+						-7.423999999999069, -- [3]
+						-4.637999999977183, -- [4]
+						-2.368000000016764, -- [5]
+						0, -- [6]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						true, -- [6]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+						"Steamwheedle Shark <Trasha> dies.", -- [3]
+						"Steamwheedle Shark <Trasha> dies.", -- [4]
+						"Steamwheedle Shark <Trasha> dies.", -- [5]
+						"Steamwheedle Shark <Trasha> dies.", -- [6]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+					},
+					["DeathAt"] = 1295750320,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+						"???", -- [5]
+						"???", -- [6]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+						"MISC", -- [3]
+						"MISC", -- [4]
+						"MISC", -- [5]
+						"MISC", -- [6]
+					},
+				}, -- [3]
+				{
+					["MessageTimes"] = {
+						-10.40999999997439, -- [1]
+						-8.809000000008382, -- [2]
+						-5.055999999982305, -- [3]
+						-2.269999999960419, -- [4]
+						0, -- [5]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+						"Steamwheedle Shark <Trasha> dies.", -- [3]
+						"Steamwheedle Shark <Trasha> dies.", -- [4]
+						"Steamwheedle Shark <Trasha> dies.", -- [5]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["DeathAt"] = 1295750318,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+						"???", -- [5]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+						"MISC", -- [3]
+						"MISC", -- [4]
+						"MISC", -- [5]
+					},
+				}, -- [4]
+				{
+					["MessageTimes"] = {
+						-8.14000000001397, -- [1]
+						-6.539000000047963, -- [2]
+						-2.786000000021886, -- [3]
+						0, -- [4]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+						"Steamwheedle Shark <Trasha> dies.", -- [3]
+						"Steamwheedle Shark <Trasha> dies.", -- [4]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+					},
+					["DeathAt"] = 1295750315,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+						"???", -- [4]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+						"MISC", -- [3]
+						"MISC", -- [4]
+					},
+				}, -- [5]
+				{
+					["MessageTimes"] = {
+						-5.353999999992084, -- [1]
+						-3.753000000026077, -- [2]
+						0, -- [3]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+						"Steamwheedle Shark <Trasha> dies.", -- [3]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+					},
+					["DeathAt"] = 1295750313,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+						"???", -- [3]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+						"MISC", -- [3]
+					},
+				}, -- [6]
+				{
+					["MessageTimes"] = {
+						-1.600999999966007, -- [1]
+						0, -- [2]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+					},
+					["DeathAt"] = 1295750309,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+					},
+				}, -- [7]
+				{
+					["MessageTimes"] = {
+						0, -- [1]
+						1.600999999966007, -- [2]
+					},
+					["MessageIncoming"] = {
+						true, -- [1]
+						true, -- [2]
+					},
+					["Messages"] = {
+						"Steamwheedle Shark <Trasha> dies.", -- [1]
+						"Steamwheedle Shark <Trasha> dies.", -- [2]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+					},
+					["DeathAt"] = 1295750307,
+					["HealthNum"] = {
+						0, -- [1]
+						0, -- [2]
+					},
+					["Health"] = {
+						"???", -- [1]
+						"???", -- [2]
+					},
+					["MessageType"] = {
+						"MISC", -- [1]
+						"MISC", -- [2]
+					},
+				}, -- [8]
+			},
+			["Owner"] = "Trasha",
+			["NextEventNum"] = 9,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				0, -- [7]
+				0, -- [8]
+			},
+			["LastEvents"] = {
+				"Steamwheedle Shark <Trasha> dies.", -- [1]
+				"Steamwheedle Shark <Trasha> dies.", -- [2]
+				"Steamwheedle Shark <Trasha> dies.", -- [3]
+				"Steamwheedle Shark <Trasha> dies.", -- [4]
+				"Steamwheedle Shark <Trasha> dies.", -- [5]
+				"Steamwheedle Shark <Trasha> dies.", -- [6]
+				"Steamwheedle Shark <Trasha> dies.", -- [7]
+				"Steamwheedle Shark <Trasha> dies.", -- [8]
+			},
+			["Name"] = "Steamwheedle Shark",
+			["TimeLast"] = {
+				["OVERALL"] = 1295750325,
+				["DeathCount"] = 1295750325,
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+			},
+			["LastEventTimes"] = {
+				405558.091, -- [1]
+				405559.692, -- [2]
+				405563.445, -- [3]
+				405566.231, -- [4]
+				405568.501, -- [5]
+				405570.869, -- [6]
+				405576.243, -- [7]
+				405577.75, -- [8]
+			},
+			["UnitLockout"] = 1295750325,
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DeathCount"] = 8,
+				},
+			},
+		},
+		["Gobber <Trasha>"] = {
+			["GUID"] = "0xF130888E00012E1B",
+			["LastEventHealth"] = {
+				"???", -- [1]
+				"???", -- [2]
+				"???", -- [3]
+				"???", -- [4]
+				"???", -- [5]
+			},
+			["LastAttackedBy"] = "Jack the Hammer",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+			},
+			["TimeWindows"] = {
+				["DamageTaken"] = {
+					20, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["LastDamageTaken"] = 5,
+			["level"] = 1,
+			["LastDamageAbility"] = "Acidic Sweat (DoT)",
+			["LastFightIn"] = 9,
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["Owner"] = "Trasha",
+			["TimeLast"] = {
+				["DamageTaken"] = 1295750678,
+				["OVERALL"] = 1295750678,
+			},
+			["NextEventNum"] = 6,
+			["LastEventHealthNum"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+			},
+			["LastEvents"] = {
+				"Sudsy Magee Bubble Blast Gobber <Trasha> Miss (Frost)", -- [1]
+				"Jack the Hammer Acidic Sweat (DoT) Gobber <Trasha> Tick -5 (Nature)", -- [2]
+				"Jack the Hammer Acidic Sweat (DoT) Gobber <Trasha> Tick -5 (Nature)", -- [3]
+				"Jack the Hammer Acidic Sweat (DoT) Gobber <Trasha> Tick -5 (Nature)", -- [4]
+				"Jack the Hammer Acidic Sweat (DoT) Gobber <Trasha> Tick -5 (Nature)", -- [5]
+			},
+			["Name"] = "Gobber",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+			},
+			["LastEventTimes"] = {
+				405832.554, -- [1]
+				405928.401, -- [2]
+				405929.285, -- [3]
+				405930.353, -- [4]
+				405931.254, -- [5]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["PartialResist"] = {
+						["Bubble Blast"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Acidic Sweat (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Bubble Blast"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Acidic Sweat (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Acidic Sweat (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamageTaken"] = 20,
+					["ElementTaken"] = {
+						["Nature"] = 20,
+					},
+				},
+			},
+			["UnitLockout"] = 1295750678,
+			["LastActive"] = 1295750678,
+		},
+		["Trasha"] = {
+			["GUID"] = "0x0180000003FF9D81",
+			["LastEventHealth"] = {
+				"156 (90%)", -- [1]
+				"149 (86%)", -- [2]
+				"172 (100%)", -- [3]
+				"172 (100%)", -- [4]
+				"172 (100%)", -- [5]
+				"165 (95%)", -- [6]
+				"165 (95%)", -- [7]
+				"165 (95%)", -- [8]
+				"160 (93%)", -- [9]
+				"172 (100%)", -- [10]
+				"172 (100%)", -- [11]
+				"172 (100%)", -- [12]
+				"172 (100%)", -- [13]
+				"172 (100%)", -- [14]
+				"165 (95%)", -- [15]
+				"165 (95%)", -- [16]
+				"158 (91%)", -- [17]
+				"172 (100%)", -- [18]
+				"172 (100%)", -- [19]
+				"172 (100%)", -- [20]
+				"166 (96%)", -- [21]
+				"166 (96%)", -- [22]
+				"160 (93%)", -- [23]
+				"172 (100%)", -- [24]
+				"172 (100%)", -- [25]
+				"172 (100%)", -- [26]
+				"172 (100%)", -- [27]
+				"167 (97%)", -- [28]
+				"172 (100%)", -- [29]
+				"172 (100%)", -- [30]
+				"172 (100%)", -- [31]
+				"165 (95%)", -- [32]
+				"165 (95%)", -- [33]
+				"165 (95%)", -- [34]
+				"158 (91%)", -- [35]
+				"158 (91%)", -- [36]
+				"172 (100%)", -- [37]
+				"172 (100%)", -- [38]
+				"166 (96%)", -- [39]
+				"166 (96%)", -- [40]
+				"166 (96%)", -- [41]
+				"172 (100%)", -- [42]
+				"172 (100%)", -- [43]
+				"172 (100%)", -- [44]
+				"172 (100%)", -- [45]
+				"172 (100%)", -- [46]
+				"166 (96%)", -- [47]
+				"166 (96%)", -- [48]
+				"161 (93%)", -- [49]
+				"156 (90%)", -- [50]
+			},
+			["LastAttackedBy"] = "Pirate Party Crasher",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeDamage"] = {
+					211.34, -- [1]
+				},
+				["Damage"] = {
+					1944, -- [1]
+				},
+				["DamageTaken"] = {
+					288, -- [1]
+				},
+				["ActiveTime"] = {
+					211.34, -- [1]
+				},
+			},
+			["enClass"] = "SHAMAN",
+			["unit"] = "Trasha",
+			["LastAbility"] = 406544.187,
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 22,
+			["LastEventNum"] = {
+				4.069767441860465, -- [1]
+				[31] = 4.069767441860465,
+				[16] = 4.069767441860465,
+				[34] = 4.069767441860465,
+				[35] = 5.232558139534884,
+				[5] = 4.069767441860465,
+				[38] = 3.488372093023256,
+				[20] = 3.488372093023256,
+				[40] = 3.488372093023256,
+				[22] = 3.488372093023256,
+				[12] = 3.488372093023256,
+				[48] = 2.906976744186046,
+				[27] = 2.906976744186046,
+				[14] = 4.069767441860465,
+				[46] = 3.488372093023256,
+				[8] = 2.906976744186046,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 5,
+			["TimeLast"] = {
+				["ActiveTime"] = 1295751291,
+				["TimeDamage"] = 1295751291,
+				["OVERALL"] = 1295751291,
+				["DamageTaken"] = 1295751290,
+				["Damage"] = 1295751291,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Steamwheedle Shark <Trasha>", -- [1]
+				"Gobber <Trasha>", -- [2]
+			},
+			["NextEventNum"] = 50,
+			["LastEventHealthNum"] = {
+				90.69767441860465, -- [1]
+				86.62790697674419, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				95.93023255813954, -- [6]
+				95.93023255813954, -- [7]
+				95.93023255813954, -- [8]
+				93.02325581395348, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				95.93023255813954, -- [15]
+				95.93023255813954, -- [16]
+				91.86046511627907, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				96.51162790697674, -- [21]
+				96.51162790697674, -- [22]
+				93.02325581395348, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				97.09302325581395, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				95.93023255813954, -- [32]
+				95.93023255813954, -- [33]
+				95.93023255813954, -- [34]
+				91.86046511627907, -- [35]
+				91.86046511627907, -- [36]
+				100, -- [37]
+				100, -- [38]
+				96.51162790697674, -- [39]
+				96.51162790697674, -- [40]
+				96.51162790697674, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				96.51162790697674, -- [47]
+				96.51162790697674, -- [48]
+				93.6046511627907, -- [49]
+				90.69767441860465, -- [50]
+			},
+			["LastEvents"] = {
+				"Pirate Party Crasher Melee Trasha Hit -7 (Physical)", -- [1]
+				"Trasha Melee Pirate Party Crasher Hit -6 (Physical)", -- [2]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [3]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [4]
+				"Pirate Party Crasher Melee Trasha Hit -7 (Physical)", -- [5]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [6]
+				"Trasha Primal Strike Pirate Party Crasher Hit -12 (Physical)", -- [7]
+				"Pirate Party Crasher Melee Trasha Hit -5 (Physical)", -- [8]
+				"Trasha Melee Pirate Party Crasher Hit -7 (Physical)", -- [9]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [10]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [11]
+				"Pirate Party Crasher Melee Trasha Hit -6 (Physical)", -- [12]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [13]
+				"Pirate Party Crasher Melee Trasha Hit -7 (Physical)", -- [14]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [15]
+				"Pirate Party Crasher Melee Trasha Hit -7 (Physical)", -- [16]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -25 (Nature)", -- [17]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [18]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [19]
+				"Pirate Party Crasher Melee Trasha Hit -6 (Physical)", -- [20]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [21]
+				"Pirate Party Crasher Melee Trasha Hit -6 (Physical)", -- [22]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -25 (Nature)", -- [23]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [24]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -25 (Nature)", -- [25]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [26]
+				"Pirate Party Crasher Melee Trasha Hit -5 (Physical)", -- [27]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [28]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [29]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [30]
+				"Pirate Party Crasher Melee Trasha Hit -7 (Physical)", -- [31]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [32]
+				"Trasha Primal Strike Pirate Party Crasher Hit -12 (Physical)", -- [33]
+				"Pirate Party Crasher Melee Trasha Hit -7 (Physical)", -- [34]
+				"Pirate Party Crasher Melee Trasha Hit -9 (Physical)", -- [35]
+				"Trasha Melee Pirate Party Crasher Hit -6 (Physical)", -- [36]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [37]
+				"Pirate Party Crasher Melee Trasha Hit -6 (Physical)", -- [38]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -23 (Nature)", -- [39]
+				"Pirate Party Crasher Melee Trasha Hit -6 (Physical)", -- [40]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -25 (Nature)", -- [41]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [42]
+				"Pirate Party Crasher Melee Trasha Miss", -- [43]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -22 (Nature)", -- [44]
+				"Trasha Primal Strike Pirate Party Crasher Hit -13 (Physical)", -- [45]
+				"Pirate Party Crasher Melee Trasha Hit -6 (Physical)", -- [46]
+				"Trasha Melee Pirate Party Crasher Hit -7 (Physical)", -- [47]
+				"Pirate Party Crasher Melee Trasha Hit -5 (Physical)", -- [48]
+				"Trasha Lightning Bolt Pirate Party Crasher Hit -24 (Nature)", -- [49]
+				"Trasha Primal Strike Pirate Party Crasher Hit -12 (Physical)", -- [50]
+			},
+			["Name"] = "Trasha",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				true, -- [5]
+				false, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				true, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				true, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				true, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				true, -- [31]
+				false, -- [32]
+				false, -- [33]
+				true, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				406441.375, -- [1]
+				406442.326, -- [2]
+				406456.54, -- [3]
+				406459.843, -- [4]
+				406460.128, -- [5]
+				406461.298, -- [6]
+				406462.05, -- [7]
+				406462.05, -- [8]
+				406462.997, -- [9]
+				406469.766, -- [10]
+				406471.235, -- [11]
+				406471.235, -- [12]
+				406477.512, -- [13]
+				406478.097, -- [14]
+				406479.27, -- [15]
+				406480.05, -- [16]
+				406481.438, -- [17]
+				406489.591, -- [18]
+				406491.209, -- [19]
+				406491.209, -- [20]
+				406492.877, -- [21]
+				406493.178, -- [22]
+				406494.438, -- [23]
+				406502.17, -- [24]
+				406504.06, -- [25]
+				406504.989, -- [26]
+				406504.99, -- [27]
+				406506.842, -- [28]
+				406515.273, -- [29]
+				406517.255, -- [30]
+				406517.747, -- [31]
+				406518.455, -- [32]
+				406518.745, -- [33]
+				406519.766, -- [34]
+				406521.78, -- [35]
+				406522.075, -- [36]
+				406528.18, -- [37]
+				406528.971, -- [38]
+				406529.585, -- [39]
+				406531.003, -- [40]
+				406531.3, -- [41]
+				406538.225, -- [42]
+				406538.803, -- [43]
+				406539.961, -- [44]
+				406540.366, -- [45]
+				406540.795, -- [46]
+				406541.704, -- [47]
+				406542.752, -- [48]
+				406544.187, -- [49]
+				406441.094, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["PartialBlock"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 8.35,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.35,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 12,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 8.35,
+					["ElementTaken"] = {
+						["Melee"] = 12,
+						["Frost"] = 0,
+					},
+					["Damage"] = 95,
+					["ElementTakenBlock"] = {
+						["Melee"] = 0,
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 95,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 95,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 95,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 8.35,
+					["TimeDamaging"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 8.35,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.35,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 25,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 95,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 95,
+						},
+					},
+					["WhoDamaged"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Frostbolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 12,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 12,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 71,
+					["ElementTakenBlock"] = {
+						["Melee"] = 0,
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 71,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 71,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 71,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 6.62,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6.62,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 6.62,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 25,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 71,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 71,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 6.62,
+					["TimeDamaging"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 6.62,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6.62,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 23,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 23,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 88,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 12,
+						["Melee"] = 6,
+						["Nature"] = 70,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Throw Gears"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 12,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 70,
+								},
+								["Melee"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 88,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Gears"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Throw Gears"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0.29,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 6.680000000000001,
+								},
+								["Melee"] = {
+									["count"] = 3.33,
+								},
+							},
+							["amount"] = 10.3,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 10.3,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 12,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 12,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 24,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 70,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 70,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 10.3,
+					["TimeDamaging"] = {
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0.29,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 6.680000000000001,
+								},
+								["Melee"] = {
+									["count"] = 3.33,
+								},
+							},
+							["amount"] = 10.3,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 5,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 5,
+						["Fire"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 92,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 92,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Burning Weapon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 92,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 92,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Rocket Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Burning Weapon"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Burning Weapon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 8.17,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.17,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Rocket Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 8.17,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rocket Barrage"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 25,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 92,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 92,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 8.17,
+					["TimeDamaging"] = {
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 8.17,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.17,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+								["Rocket Barrage"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 11,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 11,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 88,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 13,
+						["Melee"] = 7,
+						["Nature"] = 68,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 13,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 68,
+								},
+								["Melee"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 88,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0.4,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 7.720000000000001,
+								},
+								["Melee"] = {
+									["count"] = 1.34,
+								},
+							},
+							["amount"] = 9.460000000000001,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 9.460000000000001,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 7,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 7,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 24,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 68,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 68,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 9.460000000000001,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0.4,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 7.720000000000001,
+								},
+								["Melee"] = {
+									["count"] = 1.34,
+								},
+							},
+							["amount"] = 9.460000000000001,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 11,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 11,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 88,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 13,
+						["Melee"] = 7,
+						["Nature"] = 68,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 13,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 68,
+								},
+								["Melee"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 88,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0.4,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 7.720000000000001,
+								},
+								["Melee"] = {
+									["count"] = 1.34,
+								},
+							},
+							["amount"] = 9.460000000000001,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 9.460000000000001,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 7,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 7,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 24,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 68,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 68,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 9.460000000000001,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Primal Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 0.4,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 7.720000000000001,
+								},
+								["Melee"] = {
+									["count"] = 1.34,
+								},
+							},
+							["amount"] = 9.460000000000001,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["PartialBlock"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Blocked"] = {
+									["max"] = 2,
+									["min"] = 1,
+									["count"] = 2,
+									["amount"] = 3,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 3,
+						},
+					},
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 15.37,
+								},
+								["Primal Strike"] = {
+									["count"] = 0.8100000000000001,
+								},
+							},
+							["amount"] = 16.18,
+						},
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 12.79,
+								},
+							},
+							["amount"] = 12.79,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 9,
+								},
+								["Rocket Barrage"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 12.5,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 4.72,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 88.36999999999999,
+								},
+								["Melee"] = {
+									["count"] = 9.17,
+								},
+							},
+							["amount"] = 102.26,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 14.35,
+								},
+							},
+							["amount"] = 14.35,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 38.28000000000001,
+								},
+								["Melee"] = {
+									["count"] = 2.76,
+								},
+							},
+							["amount"] = 41.04000000000001,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 12.22,
+								},
+							},
+							["amount"] = 12.22,
+						},
+					},
+					["DamageTaken"] = 288,
+					["PartialResist"] = {
+						["Throw Gears"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 43,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 43,
+							["amount"] = 0,
+						},
+						["Burning Weapon"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Throw Gears"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frostbolt"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 43,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 43,
+							["amount"] = 0,
+						},
+						["Burning Weapon"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 211.34,
+					["ElementTaken"] = {
+						["Physical"] = 5,
+						["Frost"] = 22,
+						["Melee"] = 255,
+						["Fire"] = 6,
+					},
+					["Damage"] = 1944,
+					["ElementTakenBlock"] = {
+						["Melee"] = 3,
+					},
+					["ElementDone"] = {
+						["Physical"] = 108,
+						["Fire"] = 39,
+						["Melee"] = 113,
+						["Nature"] = 1684,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 42,
+								},
+							},
+							["amount"] = 43,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 62,
+								},
+								["Primal Strike"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 86,
+						},
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 93,
+								},
+								["Rocket Barrage"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 132,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 84,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 874,
+								},
+								["Melee"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 997,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 142,
+								},
+							},
+							["amount"] = 142,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 330,
+								},
+								["Melee"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 342,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 127,
+								},
+							},
+							["amount"] = 127,
+						},
+					},
+					["TimeDamage"] = 211.34,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 15.37,
+								},
+								["Primal Strike"] = {
+									["count"] = 0.8100000000000001,
+								},
+							},
+							["amount"] = 16.18,
+						},
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 12.79,
+								},
+							},
+							["amount"] = 12.79,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 9,
+								},
+								["Rocket Barrage"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 12.5,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Primal Strike"] = {
+									["count"] = 4.72,
+								},
+								["Lightning Bolt"] = {
+									["count"] = 88.36999999999999,
+								},
+								["Melee"] = {
+									["count"] = 9.17,
+								},
+							},
+							["amount"] = 102.26,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 14.35,
+								},
+							},
+							["amount"] = 14.35,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 38.28000000000001,
+								},
+								["Melee"] = {
+									["count"] = 2.76,
+								},
+							},
+							["amount"] = 41.04000000000001,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Lightning Bolt"] = {
+									["count"] = 12.22,
+								},
+							},
+							["amount"] = 12.22,
+						},
+					},
+					["Attacks"] = {
+						["Primal Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 11,
+									["count"] = 9,
+									["amount"] = 108,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 108,
+						},
+						["Rocket Barrage"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 39,
+									["min"] = 39,
+									["count"] = 1,
+									["amount"] = 39,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 39,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+								["Crit"] = {
+									["max"] = 14,
+									["min"] = 14,
+									["count"] = 2,
+									["amount"] = 28,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 6,
+									["count"] = 12,
+									["amount"] = 79,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 113,
+						},
+						["Lightning Bolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 35,
+									["min"] = 30,
+									["count"] = 2,
+									["amount"] = 65,
+								},
+								["Hit"] = {
+									["max"] = 25,
+									["min"] = 20,
+									["count"] = 72,
+									["amount"] = 1619,
+								},
+							},
+							["count"] = 77,
+							["amount"] = 1684,
+						},
+					},
+					["WhoDamaged"] = {
+						["Frankie Gearslipper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25,
+								},
+								["Throw Gears"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Bruno Flameretardant"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25,
+								},
+								["Burning Weapon"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 31,
+						},
+						["Pirate Party Crasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 159,
+								},
+							},
+							["amount"] = 159,
+						},
+						["Jack the Hammer"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Tunneling Worm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Sudsy Magee"] = {
+							["Details"] = {
+								["Frostbolt"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 77,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1295749789,
+			["LastActive"] = 1295751291,
+		},
+	},
+	["FightNum"] = 23,
+	["CombatTimes"] = {
+		{
+			1295749789, -- [1]
+			1295749796, -- [2]
+			"19:29:49", -- [3]
+			"19:29:56", -- [4]
+			"Tunneling Worm", -- [5]
+		}, -- [1]
+		{
+			1295749804, -- [1]
+			1295749809, -- [2]
+			"19:30:04", -- [3]
+			"19:30:09", -- [4]
+			"Tunneling Worm", -- [5]
+		}, -- [2]
+		{
+			1295749816, -- [1]
+			1295749821, -- [2]
+			"19:30:16", -- [3]
+			"19:30:21", -- [4]
+			"Tunneling Worm", -- [5]
+		}, -- [3]
+		{
+			1295749827, -- [1]
+			1295749832, -- [2]
+			"19:30:27", -- [3]
+			"19:30:32", -- [4]
+			"Tunneling Worm", -- [5]
+		}, -- [4]
+		{
+			1295749842, -- [1]
+			1295749848, -- [2]
+			"19:30:42", -- [3]
+			"19:30:48", -- [4]
+			"Tunneling Worm", -- [5]
+		}, -- [5]
+		{
+			1295749854, -- [1]
+			1295749859, -- [2]
+			"19:30:54", -- [3]
+			"19:30:59", -- [4]
+			"Tunneling Worm", -- [5]
+		}, -- [6]
+		{
+			1295750576, -- [1]
+			1295750595, -- [2]
+			"19:42:57", -- [3]
+			"19:43:15", -- [4]
+			"Sudsy Magee", -- [5]
+		}, -- [7]
+		{
+			1295750602, -- [1]
+			1295750619, -- [2]
+			"19:43:23", -- [3]
+			"19:43:39", -- [4]
+			"Bruno Flameretardant", -- [5]
+		}, -- [8]
+		{
+			1295750647, -- [1]
+			1295750658, -- [2]
+			"19:44:07", -- [3]
+			"19:44:18", -- [4]
+			"Frankie Gearslipper", -- [5]
+		}, -- [9]
+		{
+			1295750673, -- [1]
+			1295750686, -- [2]
+			"19:44:33", -- [3]
+			"19:44:46", -- [4]
+			"Jack the Hammer", -- [5]
+		}, -- [10]
+		{
+			1295750916, -- [1]
+			1295750936, -- [2]
+			"19:48:36", -- [3]
+			"19:48:56", -- [4]
+			"Training Dummy", -- [5]
+		}, -- [11]
+		{
+			1295751140, -- [1]
+			1295751146, -- [2]
+			"19:52:20", -- [3]
+			"19:52:26", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [12]
+		{
+			1295751154, -- [1]
+			1295751159, -- [2]
+			"19:52:34", -- [3]
+			"19:52:39", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [13]
+		{
+			1295751166, -- [1]
+			1295751176, -- [2]
+			"19:52:46", -- [3]
+			"19:52:56", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [14]
+		{
+			1295751182, -- [1]
+			1295751191, -- [2]
+			"19:53:02", -- [3]
+			"19:53:11", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [15]
+		{
+			1295751204, -- [1]
+			1295751213, -- [2]
+			"19:53:24", -- [3]
+			"19:53:33", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [16]
+		{
+			1295751217, -- [1]
+			1295751223, -- [2]
+			"19:53:37", -- [3]
+			"19:53:43", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [17]
+		{
+			1295751225, -- [1]
+			1295751231, -- [2]
+			"19:53:45", -- [3]
+			"19:53:51", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [18]
+		{
+			1295751237, -- [1]
+			1295751244, -- [2]
+			"19:53:57", -- [3]
+			"19:54:04", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [19]
+		{
+			1295751249, -- [1]
+			1295751256, -- [2]
+			"19:54:09", -- [3]
+			"19:54:16", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [20]
+		{
+			1295751262, -- [1]
+			1295751271, -- [2]
+			"19:54:22", -- [3]
+			"19:54:31", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [21]
+		{
+			1295751275, -- [1]
+			1295751280, -- [2]
+			"19:54:35", -- [3]
+			"19:54:40", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [22]
+		{
+			1295751285, -- [1]
+			1295751294, -- [2]
+			"19:54:45", -- [3]
+			"19:54:54", -- [4]
+			"Pirate Party Crasher", -- [5]
+		}, -- [23]
+	},
+	["FoughtWho"] = {
+		"Pirate Party Crasher 19:54:45-19:54:54", -- [1]
+		"Pirate Party Crasher 19:54:35-19:54:40", -- [2]
+		"Pirate Party Crasher 19:54:22-19:54:31", -- [3]
+		"Pirate Party Crasher 19:54:09-19:54:16", -- [4]
+		"Pirate Party Crasher 19:53:57-19:54:04", -- [5]
+	},
+}

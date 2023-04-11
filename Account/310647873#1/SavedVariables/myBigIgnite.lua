@@ -1,0 +1,2 @@
+
+myBigIgnite_settings = nil

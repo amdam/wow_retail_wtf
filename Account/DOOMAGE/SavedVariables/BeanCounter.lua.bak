@@ -1,0 +1,99 @@
+
+BeanCounterDB = {
+	["Turalyon"] = {
+		["Amdam"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 650.2564086914063,
+	["Turalyon"] = {
+		["Amdam"] = {
+			["tasks.sortArray"] = 1370604520,
+			["version"] = 3.03,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1370604520,
+			["wealth"] = 60844911,
+			["tasks.prunePostedDB"] = 1370604520,
+			["mailbox"] = {
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.13855361938477,
+					["subject"] = "Auction expired: Veiled Imperial Amethyst",
+				}, -- [1]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.13826370239258,
+					["subject"] = "Auction expired: Retaliating Imperial Amethyst",
+				}, -- [2]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.13814735412598,
+					["subject"] = "Auction expired: Regal Wild Jade",
+				}, -- [3]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.13803291320801,
+					["subject"] = "Auction expired: Brilliant Primordial Ruby",
+				}, -- [4]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.13797378540039,
+					["subject"] = "Auction expired: Brilliant Primordial Ruby",
+				}, -- [5]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.13785934448242,
+					["subject"] = "Auction expired: Brilliant Primordial Ruby",
+				}, -- [6]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.05464172363281,
+					["subject"] = "Auction expired: Waterlogged Zandalari Journal",
+				}, -- [7]
+				{
+					["read"] = 1,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.05429458618164,
+					["subject"] = "Auction expired: Titansteel Bar",
+				}, -- [8]
+			},
+		},
+	},
+	["configator.top"] = 815.7692260742188,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

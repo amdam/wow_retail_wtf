@@ -1,0 +1,46 @@
+MACRO 16777224 " " Ability_Rogue_FanofKnives
+#showtooltip Fan of Knives
+/startattack
+/cast Fan of Knives
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777219 " " Ability_Rogue_ShadowStrikes
+#showtooltip Mutilate
+/startattack
+/cast Mutilate
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777225 " " Spell_Shadow_RitualOfSacrifice
+#showtooltip Sinister Strike
+/startattack
+/cast Sinister Strike
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777226 " " Ability_Rogue_Eviscerate
+#showtooltip Eviscerate
+/startattack
+/cast Eviscerate
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777220 " " Ability_Rogue_Disembowel
+#showtooltip Envenom
+/startattack
+/cast Envenom
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777221 " " Ability_Rogue_Rupture
+#showtooltip Rupture
+/startattack
+/cast Rupture
+/script UIErrorsFrame:Clear()
+END
+MACRO 16777222 " " Ability_Rogue_TricksOftheTrade
+#showtooltip Tricks of the Trade
+/cast [target=mouseover, exists] [help] [target=player] Tricks of the Trade
+END
+MACRO 16777223 " " Ability_Rogue_SliceDice
+#showtooltip Slice and Dice
+/startattack
+/cast Slice and Dice
+/script UIErrorsFrame:Clear()
+END

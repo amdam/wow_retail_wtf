@@ -1,0 +1,15 @@
+
+TidyPlatesOptions = {
+	["SecondSpecProfile"] = "Damage",
+	["FriendlyAutomation"] = "No Automation",
+	["EnemyAutomation"] = "No Automation",
+	["primary"] = "Threat Plates",
+	["FourthSpecProfile"] = "Damage",
+	["ThirdSpecProfile"] = "Damage",
+	["secondary"] = "Threat Plates",
+	["DisableCastBars"] = false,
+	["ActiveTheme"] = "Neon",
+	["ForceBlizzardFont"] = false,
+	["WelcomeShown"] = true,
+	["FirstSpecProfile"] = "Damage",
+}

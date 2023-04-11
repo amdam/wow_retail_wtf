@@ -1,0 +1,12 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Taxbreak - Bloodscalp"] = "Taxbreak - Bloodscalp",
+	},
+	["profiles"] = {
+		["Taxbreak - Bloodscalp"] = {
+			["PositionY"] = 675.0000595652856,
+			["PositionX"] = 954.1667763711967,
+		},
+	},
+}

@@ -1,0 +1,42 @@
+
+DBMOnyxia_SavedVars = {
+	["Onyxia"] = {
+		["Timer17086Onyxia2"] = true,
+		["WarnPhase3Soon"] = true,
+		["HealthFrame"] = false,
+		["Announce2phase"] = true,
+		["Announce3phase"] = true,
+		["SpecWarn17086run"] = true,
+		["Timer17086Onyxia1"] = true,
+		["Timer4406Onyxia5"] = true,
+		["Enabled"] = true,
+		["Sound68958"] = true,
+		["Timer68970Onyxia0"] = true,
+		["SoundWTF"] = false,
+		["SpeedKillTimer"] = false,
+		["SpecWarn68958run"] = true,
+		["TimerWhelps"] = true,
+		["Timer4405Onyxia4"] = true,
+		["WarnWhelpsSoon"] = true,
+		["WarnPhase2Soon"] = true,
+		["Sound17086"] = true,
+	},
+}
+DBMOnyxia_SavedStats = {
+	["Onyxia"] = {
+		["heroic25Pulls"] = 0,
+		["lfr25Pulls"] = 0,
+		["normal25Pulls"] = 2,
+		["normal25BestTime"] = 633.2140000000072,
+		["normalPulls"] = 0,
+		["heroicPulls"] = 0,
+		["heroic25Kills"] = 0,
+		["normal25LastTime"] = 633.2140000000072,
+		["heroicKills"] = 0,
+		["lfr25Kills"] = 0,
+		["normal25Kills"] = 1,
+		["challengeKills"] = 0,
+		["normalKills"] = 0,
+		["challengePulls"] = 0,
+	},
+}

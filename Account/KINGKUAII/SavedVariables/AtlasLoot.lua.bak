@@ -1,0 +1,30 @@
+
+AtlasLootOptions = nil
+AtlasLootDB = {
+	["profileKeys"] = {
+		["Taxbreak - Bloodscalp"] = "Taxbreak - Bloodscalp",
+	},
+	["profiles"] = {
+		["Taxbreak - Bloodscalp"] = {
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51001",
+		},
+	},
+}
+AtlasLootWishList = {
+	["Options"] = {
+		["Taxbreak"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+	},
+	["Shared"] = {
+	},
+	["Own"] = {
+		["Taxbreak"] = {
+		},
+	},
+}

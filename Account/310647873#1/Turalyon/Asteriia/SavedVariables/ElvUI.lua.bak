@@ -1,0 +1,208 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/reload", -- [1]
+		"/weakauras", -- [2]
+		"/ec", -- [3]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12827:Player-3685-071066EF:1:11:17:18:4294967295:4294967295:4294967295:4294967295|h[WoW's 14th Anniversary]|h|r!", -- [1]
+			"Crixxus-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Crixxus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			203, -- [11]
+			"Player-3685-071066EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCrixxus|r",
+			[51] = 1542509239,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [1]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12918:Player-3685-07E5D5F1:1:11:24:18:4294967295:4294967295:4294967295:4294967295|h[Have a Heart]|h|r!", -- [1]
+			"Asteriia-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asteriia", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-3685-07E5D5F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Asteriia|r",
+			[51] = 1543079276,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [2]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12582:Player-3685-07E5D5F1:1:11:24:18:4294967295:4294967295:4294967295:4294967295|h[Come Sail Away]|h|r!", -- [1]
+			"Asteriia-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asteriia", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			164, -- [11]
+			"Player-3685-07E5D5F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Asteriia|r",
+			[51] = 1543080715,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [3]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12741:Player-3685-07E5D5F1:1:11:25:18:4294967295:4294967295:4294967295:4294967295|h[Giving a Scrap]|h|r!", -- [1]
+			"Asteriia-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asteriia", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-3685-07E5D5F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Asteriia|r",
+			[51] = 1543167839,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [4]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12825:Player-3685-0990B6B7:1:11:25:18:4294967295:4294967295:4294967295:4294967295|h[Heroic: Atal'Dazar]|h|r!", -- [1]
+			"Kayne-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kayne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			220, -- [11]
+			"Player-3685-0990B6B7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKayne|r",
+			[51] = 1543170922,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [5]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12824:Player-3685-0990B6B7:1:11:25:18:4294967295:4294967295:4294967295:4294967295|h[Atal'Dazar]|h|r!", -- [1]
+			"Kayne-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kayne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			221, -- [11]
+			"Player-3685-0990B6B7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKayne|r",
+			[51] = 1543170922,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [6]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12504:Player-3685-0990B6B7:1:11:25:18:4294967295:4294967295:4294967295:4294967295|h[The Temple of Sethraliss]|h|r!", -- [1]
+			"Kayne-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kayne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			303, -- [11]
+			"Player-3685-0990B6B7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKayne|r",
+			[51] = 1543172182,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [7]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:12505:Player-3685-0990B6B7:1:11:25:18:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Temple of Sethraliss]|h|r!", -- [1]
+			"Kayne-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kayne", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			304, -- [11]
+			"Player-3685-0990B6B7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aKayne|r",
+			[51] = 1543172182,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [8]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:524:Player-3685-07E5D5F1:1:1:25:19:4294967295:4294967295:4294967295:4294967295|h[10 Exalted Reputations]|h|r!", -- [1]
+			"Asteriia-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asteriia-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			489, -- [11]
+			"Player-3685-07E5D5F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Asteriia|r",
+			[51] = 1548461789,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [9]
+	},
+}

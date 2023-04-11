@@ -1,0 +1,17 @@
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+ElvUI_CustomTweaks: disabled
+ElvUI_DTBars2: disabled
+ElvUI_QuestXP: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+AtlasLoot: disabled
+Chatter: disabled
+Quartz: disabled
+Pawn: enabled
+SexyMap: disabled
+ShadowedUnitFrames: disabled
+ElvUI_OptionsUI: enabled

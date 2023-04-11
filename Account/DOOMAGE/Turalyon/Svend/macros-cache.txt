@@ -1,0 +1,67 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Taunt; /cast [modifier:alt] Heroic Throw
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier,spec:2] Bloodthirst; [nomodifier,spec:3] Devastate; [nomodifier,spec:1] Overpower; /cast [modifier:alt] Victory Rush
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Mortal Strike; /cast [modifier:alt] Heroic Leap
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Devastate; /cast [modifier:alt] Victory Rush
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier,spec:2] Raging Blow; [nomodifier,spec:3] Shield Slam; /cast [modifier:alt] Heroic Leap
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Thunder Clap; /cast [modifier:alt] Shockwave
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier][modifier:alt,notalent:3/3] Skullsplitter; /cast [modifier:alt,talent:3/3] Rend
+/script UIErrorsFrame:Clear();
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier, talent:3/3,spec:2] Onslaught; [nomodifier,spec:1,notalent:3/2] Slam; [modifier:alt] Whirlwind; Whirlwind
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier,spec:2][modifier:alt,spec:3][nomodifier,spec:1] Execute; /cast [modifier:alt,spec:2][nomodifier,spec:3][modifier:alt,spec:1]  Ignore Pain;
+/script UIErrorsFrame:Clear();
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier,spec:2,talent:6/2] Dragon Roar; [nomodifier,spec:2,talent:6/3] Bladestorm; [nomodifier,spec:3] Taunt; [nomodifier,spec:1] Colossus Smash; /cast [modifier:alt] Heroic Throw
+/script UIErrorsFrame:Clear();
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Intervene
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [modifier:alt,talent:6/3] Ravager; [nomodifier] Revenge;
+/script UIErrorsFrame:Clear()
+END

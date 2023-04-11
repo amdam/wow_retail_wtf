@@ -1,0 +1,71 @@
+MACRO 14 "boom" Ability_Hunter_BeastWithin
+/cast Elemental Mastery
+/use 13
+/cast Lava Burst(Rank 1)
+END
+MACRO 4 "charge" Ability_CheapShot
+/cast Charge(Rank 2)
+/train
+END
+MACRO 19 "Decursive" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod,exists] Cleanse;  [target=mouseover,exists,mod:ctrl] Cleanse; [target=mouseover,exists,mod:shift] Cleanse
+END
+MACRO 2 "gloat" Ability_Creature_Cursed_05
+/target kelshaw
+/gloat
+/cast Ancestral Spirit(Rank 5)
+END
+MACRO 15 "HM" Ability_Hunter_SniperShot
+/cast Hunter's Mark
+/cast Auto Shot
+/petattack
+END
+MACRO 7 "manglebear" Ability_Druid_Mangle2
+/stopcasting
+/use 13
+/stopcasting
+/cast Mangle (Bear)(Rank 2)
+END
+MACRO 6 "manglecat" Ability_Druid_Mangle2
+/use 14
+/cast Tiger's Fury(Rank 5)
+/use 13
+/cast Mangle (Cat)(Rank 5)
+END
+MACRO 11 "MS" Ability_Warrior_SavageBlow
+END
+MACRO 12 "NSheal" Spell_Nature_HealingWaveLesser
+/stopcasting
+/cast Nature's Swiftness
+/stopcasting
+/use 13
+/stopcasting
+/cast Healing Touch(Rank 13)
+END
+MACRO 13 "NSheal" Spell_Holy_PainSupression
+/cast Nature's Swiftness
+/cast Healing Wave(Rank 14)
+END
+MACRO 17 "pyro" Spell_Fire_Fireball02
+/use 13
+/cast Presence of Mind
+/cast Arcane Power
+/cast Pyroblast(Rank 10)
+END
+MACRO 5 "SS" Ability_Warrior_PunishingBlow
+/stopcasting
+/use 14
+/stopcasting
+/cast Hemorrhage(Rank 4)
+END
+MACRO 1 "target" Ability_Creature_Cursed_04
+/target blivs
+END
+MACRO 16 "trinket" Ability_Creature_Disease_04
+/use 13
+/use 14
+END
+MACRO 18 "TSC" Ability_Creature_Cursed_02
+/2 Team Sportscoat is recruiting reliable and competent DPS for ToC25(5/5). We raid Tues/Wed/Sun 6-10 PM server. Apply at teamsportscoat.org 
+END

@@ -1,0 +1,4 @@
+VER 3 0100000000000001 " " "Spell_Holy_PowerWordShield"
+#showtooltip Power Word: Shield
+/cast [target=mouseover, exists] [help] [target=player] Power Word: Shield
+END

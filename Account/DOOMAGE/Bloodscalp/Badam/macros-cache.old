@@ -1,0 +1,25 @@
+MACRO 16777217 " " Ability_Warrior_SavageBlow
+#showtooltip Mortal Strike
+/cast Overpower!
+/cast Mortal Strike
+END
+MACRO 16777218 "  " Ability_Warrior_Charge
+#showtooltip Charge
+/cast Overpower!
+/cast Charge
+END
+MACRO 16777219 "   " Ability_Gouge
+#showtooltip Rend
+/cast Overpower!
+/cast Rend
+END
+MACRO 16777220 "    " Ability_Warrior_DecisiveStrike
+#showtooltip Slam
+/cast Overpower!
+/cast Slam
+END
+MACRO 16777221 "     " Ability_Warrior_Cleave
+#showtooltip Cleave
+/cast Overpower!
+/cast Cleave
+END

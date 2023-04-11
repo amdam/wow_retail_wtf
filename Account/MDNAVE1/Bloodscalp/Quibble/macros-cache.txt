@@ -1,0 +1,21 @@
+MACRO 16777219 "bam" Spell_ChargePositive
+/use 13
+/use 14
+END
+MACRO 16777223 "cancel" INV_Misc_QuestionMark
+#showtooltip Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 16777222 "heal" Ability_Paladin_SanctifiedWrath
+/cast Avenging Wrath
+/use 14
+/cast Divine Favor
+/cast Divine Illumination
+END
+MACRO 16777221 "steph salve" INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/target dogs
+/cast Hand of Salvation
+/targetlasttarget
+/w aylur SALVED!!!!!!!!!! <3 <3 <3 <3 <3 <3 <3 <3 <3
+END

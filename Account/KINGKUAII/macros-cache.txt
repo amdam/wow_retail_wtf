@@ -1,0 +1,80 @@
+MACRO 15 "   " Spell_Deathknight_DeathStrike
+#showtooltip Blood Strike
+/cast !Rune Strike
+/cast Blood Strike
+END
+MACRO 18 "        " Spell_DeathKnight_Butcher2
+#showtooltip Death Strike
+/cast !Rune Strike
+/cast Death Strike
+END
+MACRO 16 "         " Spell_Deathknight_ClassIcon
+#showtooltip
+/cast Obliterate
+/cast !Rune Strike
+END
+MACRO 17 "         " Spell_DeathKnight_EmpowerRuneBlade
+#showtooltip Plague Strike
+/cast !Rune Strike
+/cast Plague Strike
+END
+MACRO 19 "             " Ability_BackStab
+#showtooltip Heart Strike
+/cast !Rune Strike
+/cast Heart Strike
+END
+MACRO 13 "/target vyragosa" Ability_Creature_Disease_04
+/target vyragosa
+END
+MACRO 10 "/wave" Spell_Shaman_TidalWaves
+/target dogs
+/assist
+END
+MACRO 12 "Blood" Ability_BackStab
+#showtooltip Blood Strike
+/cast !Rune Strike
+/cast Blood Strike
+END
+MACRO 5 "Blood" Ability_Druid_SkinTeeth
+/target Ankorage
+/cast hysteria
+END
+MACRO 9 "BOOM" Spell_Fire_BlueFireNova
+#showtooltip Blood Fury
+/cast Blood Fury
+/use Fetish of Volatile Power
+END
+MACRO 11 "Boomm" Ability_BullRush
+/cast Blood Fury
+/use Vengeance of the Forsaken
+END
+MACRO 2 "Decursive" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod,exists] Purge;  [target=mouseover,exists,mod:ctrl] Cleanse Spirit; [target=mouseover,exists,mod:shift] Hex
+END
+MACRO 14 "dirkee" Ability_Creature_Disease_01
+/target Dirkee
+END
+MACRO 7 "Dogs" Ability_Creature_Cursed_05
+/target dogs
+/assist dogs
+END
+MACRO 4 "FROST" Ability_Druid_TwilightsWrath
+#showtooltip Frost Strike
+/cast Rune Strike
+/cast Frost Strike
+END
+MACRO 8 "Get to portal" INV_Misc_QuestionMark
+/raid GET TO PORTALS!!!!
+END
+MACRO 3 "spit" Ability_Creature_Cursed_02
+/spit
+END
+MACRO 1 "time" Ability_Ambush
+/target time
+/target vyragos
+END
+MACRO 6 "Vamp" Spell_Shadow_DestructiveSoul
+/cast Vampiric Blood
+/party Vampiric Blood!!!! 30 Seconds of healing increase
+END

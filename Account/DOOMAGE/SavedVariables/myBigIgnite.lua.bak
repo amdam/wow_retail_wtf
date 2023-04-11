@@ -1,0 +1,59 @@
+
+myBigIgnite_settings = {
+	["global"] = {
+		["version"] = "3.6.0",
+	},
+	["profileKeys"] = {
+		["Adamancy - Khadgar"] = "Adamancy - Khadgar",
+	},
+	["profiles"] = {
+		["Adamancy - Khadgar"] = {
+			["threshold"] = {
+				["value"] = 2200,
+			},
+			["stats"] = {
+				["info"] = {
+					["combustion"] = {
+						["countDirect"] = 0,
+						["highestDirect"] = 0,
+						["countDot"] = 0,
+						["averageDirect"] = 0,
+						["highestDot"] = 0,
+						["averageDot"] = 0,
+						["dmgDirect"] = 0,
+						["lowestDot"] = 100000,
+						["dmgDot"] = 0,
+						["lowestDirect"] = 100000,
+					},
+					["ignite"] = {
+						["dmg"] = 0,
+						["thresholdCount"] = 0,
+						["count"] = 0,
+						["supIntermT"] = 0,
+						["supOptT"] = 0,
+						["lowest"] = 100000,
+						["average"] = 0,
+						["highest"] = 0,
+					},
+				},
+				["power"] = {
+				},
+			},
+			["general"] = {
+				["anchor"] = {
+					["coord"] = {
+						["ycd"] = 182.046410558905,
+						["xcd"] = 818.875238518522,
+					},
+				},
+			},
+			["modules"] = {
+				["general"] = {
+					["heatingup"] = {
+						["enabled"] = false,
+					},
+				},
+			},
+		},
+	},
+}

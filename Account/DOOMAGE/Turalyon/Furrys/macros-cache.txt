@@ -1,0 +1,81 @@
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Tiger Palm; /cast [modifier:alt] Rushing Jade Wind
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Spinning Crane Kick
+/startattack
+/cast [nomodifier] Keg Smash; /cast [modifier:alt] Expel Harm
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Blackout Kick; /cast [modifier:alt] Rushing Jade Wind
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Tiger Palm;
+/cast [modifier:alt] Spinning Crane Kick
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Purifying Brew; /cast [modifier:alt] 
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Spinning Crane Kick
+/startattack
+/cast [mod:alt,known:392983] Strike of the Windlord; Rising Sun Kick;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Fists of Fury; /cast [modifier:alt] Flying Serpent Kick
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Tiger's Lust
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Tiger's Lust
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "ABILITY_MONK_ELUSIVEALE"
+#showtooltip Elusive Brew
+/script local p="Furrys" for i=1,40 do local _,_,_,_,_,_,_,u,_,_,s=UnitBuff(p,i) if u==p and s==115308 then CancelUnitBuff(p,i) break end end
+/cancelaura 115308
+/cast Elusive Brew
+END
+VER 3 010000000000000F " " "ABILITY_MONK_TIGEREYEBRANDY"
+#showtooltip Tigereye Brew
+/cast Lifeblood
+/cast Tigereye Brew
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Provoke; /cast [modifier:alt]Crackling Jade Lightning
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Breath of Fire; /cast [modifier:alt] Leg Sweep
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000013 " " "134400"
+#showtooltip
+/cast [mod:alt] Crackling Jade Lightning; [known:Whirling Dragon Punch] Whirling Dragon Punch;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000014 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Chi Burst] Chi Burst; Touch of Death;
+/script UIErrorsFrame:Clear();
+END

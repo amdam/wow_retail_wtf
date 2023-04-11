@@ -1,0 +1,26 @@
+VER 3 0000000000000003 "/chicken" "Ability_Creature_Cursed_02"
+/tar Corrupting Adherent
+/cast Taunt
+END
+VER 3 0000000000000006 "arms" "Ability_Warrior_OffensiveStance"
+/cast Battle Stance
+/equip Shalug'doom, the Axe of Unmaking
+END
+VER 3 0000000000000002 "asghasgasg" "Ability_Creature_Cursed_05"
+/w Ghostlie Intervate~~~~~INTERVATE
+END
+VER 3 0000000000000007 "assist" "Ability_Warrior_Incite"
+/Assist Sweetcyanide
+END
+VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Cleanse;  [@mouseover,exists,mod:ctrl] Cleanse; [@mouseover,exists,mod:shift] Cleanse
+END
+VER 3 0000000000000005 "Defensive Stance" "Ability_Warrior_DefensiveStance"
+/cast Defensive Stance
+/equip Soul Blade
+/equip Elementium Earthguard
+END
+VER 3 0000000000000004 "lol" "Ability_CheapShot"
+/run for k, v in paris({  Incantation = 32611, Trove = 32609, LeiShenKey = 32626, RareMobLooted = 32610, Chamberlain = 32505}) do print(format("%s: %s", k, isquestflaggedcompleted(v) and "\124cff00ff00Done\124r" or "\124cffff0000Not Done\124r")' end'
+END

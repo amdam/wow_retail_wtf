@@ -1,0 +1,2 @@
+
+clcInfoCharDB = nil
