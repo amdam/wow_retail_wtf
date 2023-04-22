@@ -1,3 +1,12 @@
+VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+/use Phial of Serenity
+END
+VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
+/stopcasting
+/click [target=mouseover] ExtraActionButton1
+END
 VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
 /dismount
 END
@@ -8,15 +17,6 @@ VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
 /way 23.7 42.5 Warden Casad 
 /way 20.8 39.2 Kivarr (cave)
 /way 25.7 38.9 Te'zan
-END
-VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use 14
-/use Phial of Serenity
-END
-VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
-/stopcasting
-/click [target=mouseover] ExtraActionButton1
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton

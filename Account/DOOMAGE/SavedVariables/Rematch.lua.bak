@@ -27,7 +27,7 @@ RematchSettings = {
 	["SpecialSlots"] = {
 	},
 	["XPos"] = 852.7777099609375,
-	["JournalUsed"] = true,
+	["NotesFont"] = "GameFontHighlight",
 	["HidePetToast"] = true,
 	["FavoriteFilters"] = {
 	},
@@ -58,9 +58,9 @@ RematchSettings = {
 		},
 		["Collected"] = {
 		},
-		["Sources"] = {
-		},
 		["Similar"] = {
+		},
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
@@ -78,11 +78,11 @@ RematchSettings = {
 	["ExpandedOptHeaders"] = {
 	},
 	["CustomScaleValue"] = 100,
-	["NotesFont"] = "GameFontHighlight",
-	["ElvUIToastDefaulted"] = true,
+	["JournalUsed"] = true,
+	["PreferredMode"] = 1,
 	["ExpandedTargetHeaders"] = {
 	},
-	["PreferredMode"] = 1,
+	["ElvUIToastDefaulted"] = true,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
 	},

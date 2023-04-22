@@ -16,10 +16,9 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-	["us-Dathrell-turalyon"] = true,
-	["us-Remuremu-turalyon"] = true,
-	["us-Varoks-turalyon"] = true,
-	["us-Releaf-turalyon"] = true,
+	["us-Ironclad-turalyon"] = true,
+	["us-Ragefinder-turalyon"] = true,
+	["us-Glergarby-stormscale"] = true,
 }
 RaiderIO_MissingServers = {
 }

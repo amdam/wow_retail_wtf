@@ -4,7 +4,7 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "10.0.7",
-	["_OPieVersion"] = "Yuzu 7 (4.114)",
+	["_OPieVersion"] = "Yuzu 8 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
@@ -13,11 +13,11 @@ OPie_SavedData = {
 				["ipmentsets"] = false,
 				["ipmentSets2"] = "NUMPAD5",
 				["OPieTrinkets"] = false,
-				["OPieTracking"] = false,
+				["PaladinAuras"] = "ALT-P",
 				["MageTravel"] = "ALT-P",
 				["WorldMarkers"] = "SHIFT-R",
 				["ipmentSets"] = false,
-				["PaladinAuras"] = "ALT-P",
+				["OPieTracking"] = false,
 			},
 		},
 	},
@@ -215,28 +215,28 @@ OPie_SavedData = {
 			},
 			["MageTravel"] = {
 				{
-					["sliceToken"] = "OPCMPb",
 					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
+					["sliceToken"] = "OPCMPb",
 				}, -- [1]
 				{
-					["sliceToken"] = "OPCMPv",
 					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
+					["sliceToken"] = "OPCMPv",
 				}, -- [2]
 				{
-					["sliceToken"] = "OPCMPr",
 					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
+					["sliceToken"] = "OPCMPr",
 				}, -- [3]
 				{
-					["sliceToken"] = "OPCMPs",
 					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
+					["sliceToken"] = "OPCMPs",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCMPw",
 					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
+					["sliceToken"] = "OPCMPw",
 				}, -- [5]
 				{
-					["sliceToken"] = "OPCMPd",
 					["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
+					["sliceToken"] = "OPCMPd",
 				}, -- [6]
 				{
 					["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
@@ -247,8 +247,8 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCMPu",
 				}, -- [8]
 				{
-					["sliceToken"] = "OPCMPi",
 					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
+					["sliceToken"] = "OPCMPi",
 				}, -- [9]
 				{
 					["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
@@ -265,20 +265,20 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCMPl",
 				}, -- [12]
 				{
-					["sliceToken"] = "OPCMPx",
 					["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
+					["sliceToken"] = "OPCMPx",
 				}, -- [13]
 				{
-					["sliceToken"] = "ABue3Xt7/Yi",
 					["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
+					["sliceToken"] = "ABue3Xt7/Yi",
 				}, -- [14]
 				{
-					["sliceToken"] = "ABuekYV=u8a",
 					["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
+					["sliceToken"] = "ABuekYV=u8a",
 				}, -- [15]
 				{
-					["sliceToken"] = "ABuevQ2QUi2",
 					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
+					["sliceToken"] = "ABuevQ2QUi2",
 				}, -- [16]
 				["name"] = "Portals and Teleports",
 				["save"] = true,
@@ -336,8 +336,8 @@ OPie_SavedData = {
 				{
 					"equipmentset", -- [1]
 					"prot", -- [2]
-					["show"] = "[spec:71/72] hide;",
 					["sliceToken"] = "ABueskpEsp4",
+					["show"] = "[spec:71/72] hide;",
 				}, -- [1]
 				{
 					"equipmentset", -- [1]
@@ -348,8 +348,8 @@ OPie_SavedData = {
 				{
 					"equipmentset", -- [1]
 					"fury", -- [2]
-					["show"] = "[spec:73/71] hide;",
 					["sliceToken"] = "ABueskpEspg",
+					["show"] = "[spec:73/71] hide;",
 				}, -- [3]
 				{
 					"equipmentset", -- [1]
@@ -380,10 +380,10 @@ OPie_SavedData = {
 					["show"] = "[spec:73/72] hide;",
 					["sliceToken"] = "ABuesXRQAcr",
 				}, -- [8]
-				["limit"] = "Badam-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Badam-Turalyon",
 			},
 		},
 	},

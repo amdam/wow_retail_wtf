@@ -46,6 +46,29 @@ VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,talent:5/2] Mortal Coil; Fear;
+/cast [mod:alt,known:Mortal Coil] Mortal Coil; Fear;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip Demonic Gateway
+/cast [known:Soulburn] Soulburn;
+/cast Demonic Gateway
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip Demonic Circle: Teleport
+/cast [known:Soulburn] Soulburn;
+/cast Demonic Circle: Teleport
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000D " " "134400"
+#showtooltip Healthstone
+/cast [known:Soulburn] Soulburn
+/use Healthstone
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "134400"
+#showtooltip
+/cast [mod:alt,known:Guillotine] Guillotine; [known:Demonic Strength] Demonic Strength;
 /script UIErrorsFrame:Clear()
 END

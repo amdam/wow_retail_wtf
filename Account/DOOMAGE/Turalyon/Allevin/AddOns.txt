@@ -55,10 +55,10 @@ BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 ElvUI_QuestXP: disabled
 ElvUI_CustomTags: disabled
-Kui_Media: disabled
-Kui_Nameplates: disabled
-Kui_Nameplates_Core: disabled
-Kui_Nameplates_Core_Config: disabled
+Kui_Media: enabled
+Kui_Nameplates: enabled
+Kui_Nameplates_Core: enabled
+Kui_Nameplates_Core_Config: enabled
 OmniCD: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
@@ -73,3 +73,12 @@ RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
+ElvUI_ChatTweaks: disabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+WunderUI: disabled
+Plater: disabled
+Blizzard_CombatText: enabled
+BigWigs_Voice: enabled
+LittleWigs_WarlordsOfDraenor: enabled

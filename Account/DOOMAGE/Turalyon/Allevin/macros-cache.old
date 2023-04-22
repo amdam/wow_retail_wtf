@@ -46,6 +46,6 @@ VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,talent:5/2] Mortal Coil; Fear;
+/cast [mod:alt,known:Mortal Coil] Mortal Coil; Fear;
 /script UIErrorsFrame:Clear()
 END

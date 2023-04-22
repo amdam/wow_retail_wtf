@@ -43,10 +43,7 @@ Details_StreamerDB = {
 				0.5, -- [4]
 			},
 			["scale"] = 1,
-			["main_frame_size"] = {
-				299.9998779296875, -- [1]
-				499.9999389648438, -- [2]
-			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 3.275031181068463,
 				["radius"] = 160,
@@ -57,22 +54,12 @@ Details_StreamerDB = {
 			["point"] = "CENTER",
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
-			["author"] = "Details! Team",
 			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["per_second"] = {
-				["enabled"] = false,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = -3.0517578125e-05,
-				["x"] = -6.103515625e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
-				["attribute_type"] = 1,
-			},
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -87,15 +74,28 @@ Details_StreamerDB = {
 				0.4, -- [4]
 			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
+			["y"] = -4.57763671875e-05,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = -3.0517578125e-05,
+				["x"] = -6.103515625e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
 			["x"] = -6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["y"] = -4.57763671875e-05,
+			["use_spark"] = true,
 			["use_square_mode"] = false,
 			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["main_frame_size"] = {
+				299.9998779296875, -- [1]
+				499.9999389648438, -- [2]
+			},
 		},
 	},
 }

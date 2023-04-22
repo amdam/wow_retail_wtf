@@ -66,6 +66,7 @@ VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Avenging Wrath
 /use 13
+/use 14
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"

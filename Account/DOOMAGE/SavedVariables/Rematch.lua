@@ -44,7 +44,7 @@ RematchSettings = {
 			"Interface\\Icons\\PetJournalPortrait", -- [2]
 		}, -- [1]
 	},
-	["JournalUsed"] = true,
+	["NotesFont"] = "GameFontHighlight",
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -60,13 +60,13 @@ RematchSettings = {
 		},
 		["Strong"] = {
 		},
-		["Sources"] = {
+		["Similar"] = {
 		},
 		["Breed"] = {
 		},
 		["Rarity"] = {
 		},
-		["Similar"] = {
+		["Sources"] = {
 		},
 		["Collected"] = {
 		},
@@ -83,14 +83,14 @@ RematchSettings = {
 	["QueueSortOrder"] = 1,
 	["ExpandedTargetHeaders"] = {
 	},
-	["ElvUIToastDefaulted"] = true,
+	["PreferredMode"] = 1,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
 	},
 	["JournalPanel"] = 1,
 	["CornerPos"] = "BOTTOMLEFT",
-	["PreferredMode"] = 1,
-	["NotesFont"] = "GameFontHighlight",
+	["ElvUIToastDefaulted"] = true,
+	["JournalUsed"] = true,
 	["YPos"] = 338,
 	["CustomScaleValue"] = 100,
 	["PetNotes"] = {

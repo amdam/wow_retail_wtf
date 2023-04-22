@@ -139,7 +139,7 @@ DBM_AllSavedOptions = {
 		["HUDAlpha1"] = 0.5,
 		["StatusEnabled"] = true,
 		["ShowAdvSWSounds"] = false,
-		["CoreSavedRevision"] = 20230324191510,
+		["CoreSavedRevision"] = 20230411014801,
 		["RangeFrameX"] = -360.460571289063,
 		["AlwaysShowSpeedKillTimer"] = true,
 		["HUDColor2"] = {
@@ -290,7 +290,28 @@ DBM_AllSavedOptions = {
 		["RangeFrameY"] = -98.7948684692383,
 		["VPDontMuteSounds"] = false,
 		["SpecialWarningFlashAlph4"] = 0.4,
-		["InfoFrameFontSize"] = 12,
+		["WarningColors"] = {
+			{
+				["b"] = 0.9411764705882353,
+				["g"] = 0.8,
+				["r"] = 0.4117647058823529,
+			}, -- [1]
+			{
+				["b"] = 0,
+				["g"] = 0.9490196078431372,
+				["r"] = 0.9490196078431372,
+			}, -- [2]
+			{
+				["b"] = 0,
+				["g"] = 0.5019607843137255,
+				["r"] = 1,
+			}, -- [3]
+			{
+				["b"] = 0.1019607843137255,
+				["g"] = 0.1019607843137255,
+				["r"] = 1,
+			}, -- [4]
+		},
 		["SpecialWarningSound3"] = "Interface\\AddOns\\DBM-Core\\sounds\\AirHorn.ogg",
 		["SWarningAlphabetical"] = true,
 		["SpecialWarningSound2"] = 15391,
@@ -305,14 +326,14 @@ DBM_AllSavedOptions = {
 		["RangeFrameRadarPoint"] = "RIGHT",
 		["DontShowInfoFrame"] = false,
 		["ArrowPosY"] = -150,
-		["CountdownVoice3v2"] = "Pewsey",
-		["CountdownVoice3"] = "Pewsey",
 		["MovieFilter2"] = "OnlyFight",
+		["CountdownVoice3"] = "Pewsey",
+		["CountdownVoice3v2"] = "Pewsey",
 		["SpecialWarningDuration"] = 4,
-		["SpecialWarningFlashRepeat3"] = true,
+		["SpecialWarningFlashCount3"] = 3,
 		["DontRestoreRange"] = false,
 		["SilentMode"] = false,
-		["SpecialWarningFlashCount3"] = 3,
+		["SpecialWarningFlashRepeat3"] = true,
 		["ShowAdvSWSound"] = true,
 		["WhisperStats"] = false,
 		["VoiceOverSpecW2"] = "DefaultOnly",
@@ -356,28 +377,7 @@ DBM_AllSavedOptions = {
 		["ShowBigBrotherOnCombatStart"] = false,
 		["SpecialWarningIcon"] = true,
 		["InfoFrameFont"] = "standardFont",
-		["WarningColors"] = {
-			{
-				["b"] = 0.9411764705882353,
-				["g"] = 0.8,
-				["r"] = 0.4117647058823529,
-			}, -- [1]
-			{
-				["b"] = 0,
-				["g"] = 0.9490196078431372,
-				["r"] = 0.9490196078431372,
-			}, -- [2]
-			{
-				["b"] = 0,
-				["g"] = 0.5019607843137255,
-				["r"] = 1,
-			}, -- [3]
-			{
-				["b"] = 0.1019607843137255,
-				["g"] = 0.1019607843137255,
-				["r"] = 1,
-			}, -- [4]
-		},
+		["InfoFrameFontSize"] = 12,
 		["HUDTexture3"] = "highlight",
 		["HUDAlphaOverride"] = false,
 		["ChatFrame"] = "DEFAULT_CHAT_FRAME",
@@ -547,7 +547,7 @@ DBM_AllSavedOptions = {
 		["RangeFrameRadarY"] = 130.863861083984,
 		["HUDAlpha2"] = 0.5,
 		["StatusEnabled"] = true,
-		["CoreSavedRevision"] = 20230324191510,
+		["CoreSavedRevision"] = 20230411014801,
 		["RangeFrameX"] = 430.817260742188,
 		["AlwaysShowSpeedKillTimer"] = true,
 		["RangeFrameY"] = -189.244369506836,
@@ -725,10 +725,10 @@ DBM_AllSavedOptions = {
 		["WarningIconRight"] = true,
 		["DontRestoreRange"] = false,
 		["HealthFrameLocked"] = false,
-		["SpecialWarningFlashRepeat3"] = true,
-		["SilentMode"] = false,
-		["WhisperStats"] = false,
+		["SpecialWarningFlashCount3"] = 3,
 		["VoiceOverSpecW2"] = "DefaultOnly",
+		["WhisperStats"] = false,
+		["SilentMode"] = false,
 		["LogOnlyNonTrivial"] = true,
 		["HUDAlpha3"] = 0.5,
 		["SpecialWarningFlashAlph5"] = 0.5,
@@ -738,7 +738,7 @@ DBM_AllSavedOptions = {
 		["ShowEngageMessage"] = true,
 		["RangeFrameSound1"] = "none",
 		["HPFrameY"] = 50,
-		["WarningFontSize"] = 20,
+		["FilterTTargetFocus"] = true,
 		["EventSoundVictory2"] = "None",
 		["AutoExpandSpellGroups"] = false,
 		["LastRevision"] = 0,
@@ -761,11 +761,11 @@ DBM_AllSavedOptions = {
 			1, -- [3]
 		},
 		["HealthFrameGrowUp"] = false,
-		["DisableStatusWhisper"] = false,
+		["AutoRespond"] = true,
 		["EventDungMusicMythicFilter"] = true,
 		["WarningDuration2"] = 1.5,
 		["RangeFrameFrames"] = "radar",
-		["AutoRespond"] = true,
+		["DisableStatusWhisper"] = false,
 		["ShowBigBrotherOnCombatStart"] = false,
 		["SpecialWarningIcon"] = true,
 		["InfoFrameFont"] = "standardFont",
@@ -774,9 +774,9 @@ DBM_AllSavedOptions = {
 		["FilterTankSpec"] = true,
 		["DontPlayCountdowns"] = false,
 		["EventSoundTurle"] = "None",
-		["FilterTTargetFocus"] = true,
+		["WarningFontSize"] = 20,
 		["EventSoundDungeonBGM"] = "None",
-		["SpecialWarningFlashCount3"] = 3,
+		["SpecialWarningFlashRepeat3"] = true,
 		["GUIHeight"] = 600,
 		["WarningColors"] = {
 			{

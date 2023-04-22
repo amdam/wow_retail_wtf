@@ -4,16 +4,16 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "10.0.7",
-	["_OPieVersion"] = "Yuzu 7 (4.114)",
+	["_OPieVersion"] = "Yuzu 8 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
 				["ipmentSets1"] = false,
 				["CommonTrades"] = false,
-				["OPieTracking"] = false,
+				["PaladinAuras"] = "ALT-P",
 				["ipmentSets2"] = "NUMPAD5",
 				["ipmentSets"] = false,
-				["PaladinAuras"] = "ALT-P",
+				["OPieTracking"] = false,
 				["MageTravel"] = "ALT-P",
 				["WorldMarkers"] = "SHIFT-R",
 				["OPieTrinkets"] = false,
@@ -30,8 +30,8 @@ OPie_SavedData = {
 				{
 					"equipmentset", -- [1]
 					"prot", -- [2]
-					["sliceToken"] = "ABueskpEsp4",
 					["show"] = "[spec:71/72] hide;",
+					["sliceToken"] = "ABueskpEsp4",
 				}, -- [1]
 				{
 					"equipmentset", -- [1]
@@ -42,8 +42,8 @@ OPie_SavedData = {
 				{
 					"equipmentset", -- [1]
 					"fury", -- [2]
-					["sliceToken"] = "ABueskpEspg",
 					["show"] = "[spec:73/71] hide;",
+					["sliceToken"] = "ABueskpEspg",
 				}, -- [3]
 				{
 					"equipmentset", -- [1]
@@ -268,10 +268,10 @@ OPie_SavedData = {
 					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 					["sliceToken"] = "ABuevQ2QUi2",
 				}, -- [16]
-				["name"] = "Portals and Teleports",
+				["limit"] = "MAGE",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
-				["limit"] = "MAGE",
+				["name"] = "Portals and Teleports",
 			},
 			["ipmentSets"] = {
 				{
@@ -380,10 +380,10 @@ OPie_SavedData = {
 					["show"] = "[spec:64/63] hide;",
 					["sliceToken"] = "ABue376TIGe",
 				}, -- [10]
-				["limit"] = "Adamancy-Turalyon",
+				["name"] = "Equipment sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment sets",
+				["limit"] = "Adamancy-Turalyon",
 			},
 		},
 	},

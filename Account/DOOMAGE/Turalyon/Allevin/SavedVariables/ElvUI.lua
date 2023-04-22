@@ -2,314 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"i forgot to click it", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2092, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603565702,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [1]
-		{
-			"balls", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2093, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603565708,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [2]
-		{
-			"one of those days", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2095, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603565712,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [3]
-		{
-			"we gotta go bac knearly that far anyway i guess", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2096, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603565732,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [4]
-		{
-			"yikes", -- [1]
-			"Elindin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Elindin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2125, -- [11]
-			"Player-3685-0CE045C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Elindin|r",
-			[51] = 1603565833,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [5]
-		{
-			"if u havent done this guy before if he does somethin to one of the tanks kill the tanks", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2166, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603565906,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [6]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:656:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[The Steamvault]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2173, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603565976,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [7]
-		{
-			"Grats Allevin", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2189, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603565984,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"go team", -- [1]
-			"Elindin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Elindin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2190, -- [11]
-			"Player-3685-0CE045C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Elindin|r",
-			[51] = 1603565992,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
-		{
-			"im gnona go till i hit 50", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2202, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603566008,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [10]
-		{
-			"if anyone wants to continue", -- [1]
-			"Growlmouth-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Growlmouth-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2209, -- [11]
-			"Player-60-0522DCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Growlmouth-Stormrage|r",
-			[51] = 1603566014,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [11]
-		{
-			"1 second my bars are fucked lol", -- [1]
-			"Cetus-Whisperwind", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cetus-Whisperwind", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2342, -- [11]
-			"Player-55-0CC64CA7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Cetus-Whisperwind|r",
-			[51] = 1603568497,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [12]
-		{
-			"tank gone", -- [1]
-			"Mogana-Aman'Thul", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mogana-Aman'Thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2359, -- [11]
-			"Player-3726-0BB6BE8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeMogana-Aman'Thul|r",
-			[51] = 1603568591,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"go", -- [1]
-			"Mogana-Aman'Thul", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Mogana-Aman'Thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2361, -- [11]
-			"Player-3726-0BB6BE8B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeMogana-Aman'Thul|r",
-			[51] = 1603568599,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
 			"we going to rescue the guy?", -- [1]
 			"Allevin-Turalyon", -- [2]
 			"", -- [3]
@@ -330,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603569429,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [15]
+		}, -- [1]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:649:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[The Slave Pens]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -352,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603569572,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [16]
+		}, -- [2]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14155:Player-3685-09580CBA:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Uldum Accord]|h|r!", -- [1]
 			"Tamares-Turalyon", -- [2]
@@ -374,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Tamares|r",
 			[51] = 1603570837,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [17]
+		}, -- [3]
 		{
 			"|cffffff00The Alliance has taken control of a Spirit Tower!|r", -- [1]
 			"", -- [2]
@@ -396,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603570873,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [4]
 		{
 			"HUNTER ", -- [1]
 			"Dabdaddy-Dawnbringer", -- [2]
@@ -418,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDabdaddy-Dawnbringer|r",
 			[51] = 1603571767,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [5]
 		{
 			"turn pet taunt opff", -- [1]
 			"Dabdaddy-Dawnbringer", -- [2]
@@ -440,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDabdaddy-Dawnbringer|r",
 			[51] = 1603571770,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [6]
 		{
 			"it is", -- [1]
 			"Artyfangle-Baelgun", -- [2]
@@ -462,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Artyfangle-Baelgun|r",
 			[51] = 1603571775,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [7]
 		{
 			"oh is it because of this other one", -- [1]
 			"Artyfangle-Baelgun", -- [2]
@@ -484,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Artyfangle-Baelgun|r",
 			[51] = 1603571806,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [8]
 		{
 			"my bad its my secondary pet xd", -- [1]
 			"Artyfangle-Baelgun", -- [2]
@@ -506,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Artyfangle-Baelgun|r",
 			[51] = 1603571837,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [9]
 		{
 			"lmao", -- [1]
 			"Antifa-BurningLegion", -- [2]
@@ -528,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeAntifa-BurningLegion|r",
 			[51] = 1603571926,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
+		}, -- [10]
 		{
 			"is growl still on?", -- [1]
 			"Artyfangle-Baelgun", -- [2]
@@ -550,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Artyfangle-Baelgun|r",
 			[51] = 1603572078,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [11]
 		{
 			"honestly i do not care at this point", -- [1]
 			"Dabdaddy-Dawnbringer", -- [2]
@@ -572,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDabdaddy-Dawnbringer|r",
 			[51] = 1603572090,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [12]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14156:Player-3685-09580CBA:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[The Rajani]|h|r!", -- [1]
 			"Tamares-Turalyon", -- [2]
@@ -594,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Tamares|r",
 			[51] = 1603572502,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [27]
+		}, -- [13]
 		{
 			"hey adam", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -616,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Azados|r",
 			[51] = 1603574513,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [14]
 		{
 			"hey", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -638,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603574527,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [15]
 		{
 			"how's taylor this weekend?", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -660,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Azados|r",
 			[51] = 1603574533,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [16]
 		{
 			"feeling quite a bit better i think", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -682,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603574544,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [17]
 		{
 			"excellent, pass on my regards", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -704,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Azados|r",
 			[51] = 1603574555,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [18]
 		{
 			"will do", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -726,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603574614,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:31:Player-3685-0CD0697A:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[A Simple Re-Quest]|h|r!", -- [1]
 			"Mongcruel-Turalyon", -- [2]
@@ -748,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mongcruel|r",
 			[51] = 1603574667,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [34]
+		}, -- [20]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:973:Player-3685-0CD0697A:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[5 Daily Quests Completed]|h|r!", -- [1]
 			"Mongcruel-Turalyon", -- [2]
@@ -770,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Mongcruel|r",
 			[51] = 1603574667,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [35]
+		}, -- [21]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:11214:Player-3685-071EEB1F:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Many Missions]|h|r!", -- [1]
 			"Taelyria-Turalyon", -- [2]
@@ -792,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaelyria|r",
 			[51] = 1603574727,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [36]
+		}, -- [22]
 		{
 			"check out aly's nerdy tat in discord", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -814,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Azados|r",
 			[51] = 1603574846,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [23]
 		{
 			"lol", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -836,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603574935,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [24]
 		{
 			"needs a \"support our troops\" caption", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -858,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603574984,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [25]
 		{
 			"|cffffff00|Hworldmap:1161:6436:2793|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -880,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Azados|r",
 			[51] = 1603575016,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [26]
 		{
 			"lol", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -902,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Azados|r",
 			[51] = 1603575042,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [27]
 		{
 			"i havnt done bc since it released. what just happend", -- [1]
 			"Warlady-Kil'jaeden", -- [2]
@@ -924,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWarlady-Kil'jaeden|r",
 			[51] = 1603575143,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [42]
+		}, -- [28]
 		{
 			"boss pulled whole room", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -946,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575151,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [43]
+		}, -- [29]
 		{
 			"Don't releease  if you die", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -968,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575218,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [44]
+		}, -- [30]
 		{
 			"inc", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -990,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575220,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
+		}, -- [31]
 		{
 			"or do release... lol", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -1012,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575259,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
+		}, -- [32]
 		{
 			"lol", -- [1]
 			"Omybrad-Sargeras", -- [2]
@@ -1034,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Omybrad-Sargeras|r",
 			[51] = 1603575266,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [47]
+		}, -- [33]
 		{
 			"i saw it after", -- [1]
 			"Omybrad-Sargeras", -- [2]
@@ -1056,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Omybrad-Sargeras|r",
 			[51] = 1603575269,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
+		}, -- [34]
 		{
 			"i realeased lol", -- [1]
 			"Omybrad-Sargeras", -- [2]
@@ -1078,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Omybrad-Sargeras|r",
 			[51] = 1603575271,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [49]
+		}, -- [35]
 		{
 			"so how do we kill this guy?", -- [1]
 			"Warlady-Kil'jaeden", -- [2]
@@ -1100,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWarlady-Kil'jaeden|r",
 			[51] = 1603575279,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [50]
+		}, -- [36]
 		{
 			"Should be fine now", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -1122,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575285,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [51]
+		}, -- [37]
 		{
 			"Hunter and I cleared all the extra trash", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -1144,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575292,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [52]
+		}, -- [38]
 		{
 			"what about his little beacons?", -- [1]
 			"Warlady-Kil'jaeden", -- [2]
@@ -1166,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cWarlady-Kil'jaeden|r",
 			[51] = 1603575311,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [53]
+		}, -- [39]
 		{
 			"can just cleave them i think", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -1188,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603575325,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [54]
+		}, -- [40]
 		{
 			"I think you're supposed to kill them. But doesn't really matter", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -1210,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575329,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
+		}, -- [41]
 		{
 			"They become adds if you don't kill them", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -1232,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575339,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [56]
+		}, -- [42]
 		{
 			"ah yeah we'll kill him before that happens tho", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -1254,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603575349,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [57]
+		}, -- [43]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:651:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Mana-Tombs]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -1276,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603575446,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [58]
+		}, -- [44]
 		{
 			"Wow Allevin that's great", -- [1]
 			"Taelyria-Turalyon", -- [2]
@@ -1298,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaelyria|r",
 			[51] = 1603575450,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
+		}, -- [45]
 		{
 			"Nice, thanks for the run all!", -- [1]
 			"Teneth-Eonar", -- [2]
@@ -1320,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcTeneth-Eonar|r",
 			[51] = 1603575457,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [60]
+		}, -- [46]
 		{
 			"Proud of you bro", -- [1]
 			"Taelyria-Turalyon", -- [2]
@@ -1342,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaelyria|r",
 			[51] = 1603575468,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [47]
 		{
 			"when are you going to uninstall that addon", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -1364,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603575484,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [48]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14782:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Level 50]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -1386,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603575505,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [63]
+		}, -- [49]
 		{
 			"You are the wind beneath my wings that lift me up from constant depression, just seeing you strive in your everyday leveling brings me joy", -- [1]
 			"Taelyria-Turalyon", -- [2]
@@ -1408,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaelyria|r",
 			[51] = 1603575515,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [50]
 		{
 			"We should totes fuck", -- [1]
 			"Taelyria-Turalyon", -- [2]
@@ -1430,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaelyria|r",
 			[51] = 1603575536,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+		}, -- [51]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14014:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Heritage of the Mechagnome]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -1452,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1603575640,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [66]
+		}, -- [52]
 		{
 			"I have been working on that for ages Allevin", -- [1]
 			"Taelyria-Turalyon", -- [2]
@@ -1474,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTaelyria|r",
 			[51] = 1603575827,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [53]
 		{
 			"|cffffff00Cathedral Square is under attack!|r", -- [1]
 			"", -- [2]
@@ -1496,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603575991,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [54]
 		{
 			"|cffffff00Lion's Rest is under attack!|r", -- [1]
 			"", -- [2]
@@ -1518,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576047,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [55]
 		{
 			"|cffffff00Cathedral Square is under attack!|r", -- [1]
 			"", -- [2]
@@ -1540,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576186,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [56]
 		{
 			"|cffffff00Cathedral Square is under attack!|r", -- [1]
 			"", -- [2]
@@ -1562,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576266,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [57]
 		{
 			"|cffffff00Cathedral Square is under attack!|r", -- [1]
 			"", -- [2]
@@ -1584,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576332,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [58]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1606,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576345,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [59]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1628,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576560,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [60]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1650,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576568,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [61]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1672,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [62]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1694,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576738,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [63]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1716,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576740,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [64]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1738,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576804,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [65]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1760,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576868,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [66]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1782,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576909,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [67]
 		{
 			"|cffffff00The Canals is under attack!|r", -- [1]
 			"", -- [2]
@@ -1804,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576950,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [68]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1826,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603576970,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [69]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1848,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603577059,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [70]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1870,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603577121,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [71]
 		{
 			"|cffffff00Stormwind City is under attack!|r", -- [1]
 			"", -- [2]
@@ -1892,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603577156,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [72]
 		{
 			"|cffffff00Trade District is under attack!|r", -- [1]
 			"", -- [2]
@@ -1914,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1603577489,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [73]
 		{
 			"did Trial of Style add anything new this time?", -- [1]
 			"Drizzelle-Bloodhoof", -- [2]
@@ -1936,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcDrizzelle-Bloodhoof|r",
 			[51] = 1616346815,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [74]
 		{
 			"i don't think so", -- [1]
 			"Ishemadbro-Medivh", -- [2]
@@ -1958,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Ishemadbro-Medivh|r",
 			[51] = 1616346890,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [75]
 		{
 			"Lame. Trial of Style hasn't had any new Tmogs added in a long time >.>", -- [1]
 			"Drizzelle-Bloodhoof", -- [2]
@@ -1980,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcDrizzelle-Bloodhoof|r",
 			[51] = 1616346948,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [76]
 		{
 			"LF guild to join", -- [1]
 			"Jerbearz-Alleria", -- [2]
@@ -2002,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edJerbearz-Alleria|r",
 			[51] = 1616350098,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [77]
 		{
 			"new patch any good?", -- [1]
 			"|Kq12|k", -- [2]
@@ -2025,7 +1717,7 @@ ElvCharacterDB = {
 			[51] = 1627342076,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Fables",
-		}, -- [92]
+		}, -- [78]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14334:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[Into the Maw]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2047,7 +1739,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1628443454,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [93]
+		}, -- [79]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:506:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[500 Quests Completed]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2069,7 +1761,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1628443475,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [80]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14627:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[Choosing Your Purpose]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2091,7 +1783,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1628444089,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [81]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:13878:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[The Master of Revendreth]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2113,7 +1805,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1629261073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+		}, -- [82]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14206:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[Blade of the Primus]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2135,7 +1827,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1629261073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [83]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14164:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[Awaken, Ardenweald]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2157,7 +1849,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1629261073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [84]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14281:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[The Path to Ascension]|h|r!", -- [1]
 			"Allevin-Turalyon", -- [2]
@@ -2179,29 +1871,337 @@ ElvCharacterDB = {
 			[52] = "|cff8687edAllevin|r",
 			[51] = 1629261073,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [85]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16543:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Tetrachromancer]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681573231,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [86]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:507:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[1000 Quests Completed]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			188, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681575404,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [87]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:8921:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Welcome to Draenor]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			598, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681578069,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [88]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16571:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Well Supplied]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			860, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681579705,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [89]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16291:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[An Ancient Awakening]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681795902,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [90]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16292:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Mastering the Waygates]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681795902,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [91]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9100:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[More Plots]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681796154,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [92]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9528:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[On the Shadow's Trail]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			382, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681800077,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [93]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14783:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Level 60]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681800664,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [94]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9017:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Water Management]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			932, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681803309,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [95]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9044:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[The Everbloom]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1054, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681803710,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9053:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Everbloom]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1059, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681803710,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:9223:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Weed Whacker]|h|r!", -- [1]
+			"Allevin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Allevin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1060, -- [11]
+			"Player-3685-0ACADE27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeAllevin|r",
+			[51] = 1681803710,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [98]
+		{
+			"ty", -- [1]
+			"Mizz-Dragonblight", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mizz-Dragonblight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1078, -- [11]
+			"Player-114-087EE5D6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffMizz-Dragonblight|r",
+			[51] = 1681803718,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/g man i was hoping prepatch broke that addon", -- [1]
-		"/g yeah my name is a number because im part robot", -- [2]
-		"/g two things can be true at once", -- [3]
-		"you don't already have a max level mage?", -- [4]
-		"hahaha", -- [5]
-		"/g oh shit i totally forgot about that lmao", -- [6]
-		"/g moar golde", -- [7]
-		"/g sure i can do a few runs", -- [8]
-		"/i hi", -- [9]
-		"/i we going to rescue the guy?", -- [10]
-		"/g hey", -- [11]
-		"/g feeling quite a bit better i think", -- [12]
-		"/g will do", -- [13]
-		"/g lol", -- [14]
-		"/g needs a \"support our troops\" caption", -- [15]
-		"/i can just cleave them i think", -- [16]
-		"/i ah yeah we'll kill him before that happens tho", -- [17]
-		"/g when are you going to uninstall that addon", -- [18]
-		"/macro", -- [19]
-		"/weakauras", -- [20]
+		"/g two things can be true at once", -- [1]
+		"you don't already have a max level mage?", -- [2]
+		"hahaha", -- [3]
+		"/g oh shit i totally forgot about that lmao", -- [4]
+		"/g moar golde", -- [5]
+		"/g sure i can do a few runs", -- [6]
+		"/i hi", -- [7]
+		"/i we going to rescue the guy?", -- [8]
+		"/g hey", -- [9]
+		"/g feeling quite a bit better i think", -- [10]
+		"/g will do", -- [11]
+		"/g lol", -- [12]
+		"/g needs a \"support our troops\" caption", -- [13]
+		"/i can just cleave them i think", -- [14]
+		"/i ah yeah we'll kill him before that happens tho", -- [15]
+		"/g when are you going to uninstall that addon", -- [16]
+		"/weakauras", -- [17]
+		"/wa", -- [18]
+		"/clique", -- [19]
+		"/macro", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }
