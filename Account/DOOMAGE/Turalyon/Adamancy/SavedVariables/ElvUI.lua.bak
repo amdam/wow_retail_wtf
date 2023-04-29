@@ -2,94 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"your in luck Bere it proced to a 418 :)", -- [1]
-			"Tefdk-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			809, -- [11]
-			"Player-3685-0DEA20EF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTefdk|r",
-			[51] = 1677629672,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"wooo", -- [1]
-			"Berejitsu-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			815, -- [11]
-			"Player-3685-0DF91BA1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Berejitsu|r",
-			[51] = 1677629677,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"and with a missive thought forsure was gonna be 415", -- [1]
-			"Tefdk-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			823, -- [11]
-			"Player-3685-0DEA20EF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTefdk|r",
-			[51] = 1677629757,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"ugh recrafts are expensive", -- [1]
-			"Berejitsu-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			835, -- [11]
-			"Player-3685-0DF91BA1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Berejitsu|r",
-			[51] = 1677629736,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
 			"my other one is a 415", -- [1]
 			"Berejitsu-Turalyon", -- [2]
 			"", -- [3]
@@ -110,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Berejitsu|r",
 			[51] = 1677629745,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
+		}, -- [1]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16545:Player-3685-07F1620A:1:3:3:23:4294967295:4294967295:4294967295:4294967295|h[The Best at What I Do]|h|r!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -132,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1677911590,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [6]
+		}, -- [2]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16532:Player-3685-0701EBC2:1:3:3:23:4294967295:4294967295:4294967295:4294967295|h[Friends with Sabellian]|h|r!", -- [1]
 			"Annya-Turalyon", -- [2]
@@ -154,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAnnya|r",
 			[51] = 1677912116,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [7]
+		}, -- [3]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16760:Player-3685-0701EBC2:1:3:3:23:4294967295:4294967295:4294967295:4294967295|h[The Obsidian Bloodline]|h|r!", -- [1]
 			"Annya-Turalyon", -- [2]
@@ -176,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAnnya|r",
 			[51] = 1677912116,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [8]
+		}, -- [4]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16528:Player-3685-07F1620A:1:3:3:23:4294967295:4294967295:4294967295:4294967295|h[Joining the Khansguard]|h|r!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -198,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1677912494,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [9]
+		}, -- [5]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16549:Player-3685-07F1620A:1:3:3:23:4294967295:4294967295:4294967295:4294967295|h[Popular Around the Isles]|h|r!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -220,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1677912494,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [10]
+		}, -- [6]
 		{
 			"keys?", -- [1]
 			"|Kq25|k", -- [2]
@@ -242,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1677957815,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [11]
+		}, -- [7]
 		{
 			"anyone know, can i get get blizzard gear with gold? plz help", -- [1]
 			"Ghostshot-Turalyon", -- [2]
@@ -264,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Ghostshot|r",
 			[51] = 1677957944,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
+		}, -- [8]
 		{
 			"most definitely", -- [1]
 			"|Kq25|k", -- [2]
@@ -286,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1677957900,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [13]
+		}, -- [9]
 		{
 			"ill hop in disc in a min", -- [1]
 			"|Kq25|k", -- [2]
@@ -308,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1677957983,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [14]
+		}, -- [10]
 		{
 			"Which Blizzard gear?", -- [1]
 			"Valinald-Turalyon", -- [2]
@@ -330,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dValinald|r",
 			[51] = 1677957992,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [11]
 		{
 			"hat/shirt", -- [1]
 			"Ghostshot-Turalyon", -- [2]
@@ -352,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Ghostshot|r",
 			[51] = 1677957999,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [12]
 		{
 			"the answer is no", -- [1]
 			"Pitlamper-Turalyon", -- [2]
@@ -374,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Pitlamper|r",
 			[51] = 1677958017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [13]
 		{
 			"you can not directly use in game currency to pay for real world items", -- [1]
 			"Pitlamper-Turalyon", -- [2]
@@ -396,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Pitlamper|r",
 			[51] = 1677957969,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [14]
 		{
 			"Orders for |cff0070dd|Hitem:191231::::::::70:104::13:2:3524:8953:2:40:137:38:4:::::|h[Alchemist's Brilliant Mixing Rod |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r and |cff0070dd|Hitem:193544::::::::70:104::13:1:3524:2:40:438:38:4:::::|h[Master's Wildercloth Alchemist's Robe |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r up to the public. ", -- [1]
 			"Bearlyhere-Turalyon", -- [2]
@@ -418,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBearlyhere|r",
 			[51] = 1678039565,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [15]
 		{
 			"there i extended that brack lockout for 2 weeks so i can recraft them again soon", -- [1]
 			"Tefmonk-Turalyon", -- [2]
@@ -440,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Tefmonk|r",
 			[51] = 1678240454,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
+		}, -- [16]
 		{
 			"crafting/recrafting guaranteed 418 |cffa335ee|Hitem:198323::::::::70:66::13:1:3524:2:40:616:38:7:::::|h[Lightweight Ocular Lenses |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r, no charge, pst for more info", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -462,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1678395945,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [17]
 		{
 			"Yes chef!", -- [1]
 			"Briznot-Duskwood", -- [2]
@@ -484,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeBriznot-Duskwood|r",
 			[51] = 1678397788,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [18]
 		{
 			"Yes chef!", -- [1]
 			"Halitosiss-Bloodhoof", -- [2]
@@ -506,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fHalitosiss-Bloodhoof|r",
 			[51] = 1678397789,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [19]
 		{
 			"Yes chef!", -- [1]
 			"Soulshredder-Bloodhoof", -- [2]
@@ -528,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSoulshredder-Bloodhoof|r",
 			[51] = 1678397789,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [20]
 		{
 			"Yes chef!", -- [1]
 			"Chihua-Turalyon", -- [2]
@@ -550,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Chihua|r",
 			[51] = 1678397789,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [21]
 		{
 			"Yes chef!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -572,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1678397790,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [22]
 		{
 			"Yes chef!", -- [1]
 			"Vileheart-Bloodhoof", -- [2]
@@ -594,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebVileheart-Bloodhoof|r",
 			[51] = 1678397791,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [23]
 		{
 			"Yes chef!", -- [1]
 			"Summon-Duskwood", -- [2]
@@ -616,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSummon-Duskwood|r",
 			[51] = 1678397792,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [24]
 		{
 			"Yes chef!", -- [1]
 			"Moochad-Turalyon", -- [2]
@@ -638,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMoochad|r",
 			[51] = 1678397795,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [25]
 		{
 			"Yes chef!", -- [1]
 			"Phel-Bloodhoof", -- [2]
@@ -660,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aPhel-Bloodhoof|r",
 			[51] = 1678397868,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [26]
 		{
 			"Yes chef!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -682,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1678397869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
+		}, -- [27]
 		{
 			"Yes chef!", -- [1]
 			"Harolmar-Bloodhoof", -- [2]
@@ -704,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aHarolmar-Bloodhoof|r",
 			[51] = 1678397869,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
+		}, -- [28]
 		{
 			"Yes chef!", -- [1]
 			"Jainia-Turalyon", -- [2]
@@ -726,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffJainia|r",
 			[51] = 1678397878,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [29]
 		{
 			"Yes chef!", -- [1]
 			"Ferocitus-Duskwood", -- [2]
@@ -748,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebFerocitus-Duskwood|r",
 			[51] = 1678397878,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [30]
 		{
 			"Yes chef!", -- [1]
 			"Aaturian-Turalyon", -- [2]
@@ -770,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAaturian|r",
 			[51] = 1678397879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [31]
 		{
 			"Yes chef!", -- [1]
 			"Eviani-Turalyon", -- [2]
@@ -792,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aEviani|r",
 			[51] = 1678397879,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [32]
 		{
 			"Yes chef!", -- [1]
 			"Keijospawn-Duskwood", -- [2]
@@ -814,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Keijospawn-Duskwood|r",
 			[51] = 1678397820,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [33]
 		{
 			"Yes chef!", -- [1]
 			"Paniku-Bloodhoof", -- [2]
@@ -836,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eePaniku-Bloodhoof|r",
 			[51] = 1678397821,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [34]
 		{
 			"Yes chef!", -- [1]
 			"Gloqowej-Bloodhoof", -- [2]
@@ -858,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Gloqowej-Bloodhoof|r",
 			[51] = 1678397823,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [35]
 		{
 			"Yes chef!", -- [1]
 			"Babalao-Duskwood", -- [2]
@@ -880,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddBabalao-Duskwood|r",
 			[51] = 1678397824,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [36]
 		{
 			"Yes chef!", -- [1]
 			"Dracthyrius-Duskwood", -- [2]
@@ -902,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fDracthyrius-Duskwood|r",
 			[51] = 1678397824,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [37]
 		{
 			"Yes chef!", -- [1]
 			"Celene-Duskwood", -- [2]
@@ -924,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fCelene-Duskwood|r",
 			[51] = 1678397829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [38]
 		{
 			"Yes chef!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -946,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1678397829,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [39]
 		{
 			"Yes chef!", -- [1]
 			"Scaleybuns-Duskwood", -- [2]
@@ -968,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fScaleybuns-Duskwood|r",
 			[51] = 1678397834,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [40]
 		{
 			"Yes chef!", -- [1]
 			"Tog-Turalyon", -- [2]
@@ -990,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dTog|r",
 			[51] = 1678397834,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [41]
 		{
 			"Yes chef!", -- [1]
 			"Flessa-Duskwood", -- [2]
@@ -1012,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Flessa-Duskwood|r",
 			[51] = 1678397834,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [42]
 		{
 			"Yes chef!", -- [1]
 			"Halitosiss-Bloodhoof", -- [2]
@@ -1034,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fHalitosiss-Bloodhoof|r",
 			[51] = 1678397853,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [43]
 		{
 			"Yes chef!", -- [1]
 			"Chihua-Turalyon", -- [2]
@@ -1056,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Chihua|r",
 			[51] = 1678397854,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [44]
 		{
 			"Yes chef!", -- [1]
 			"Soulshredder-Bloodhoof", -- [2]
@@ -1078,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSoulshredder-Bloodhoof|r",
 			[51] = 1678397855,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [45]
 		{
 			"Yes chef!", -- [1]
 			"Vileheart-Bloodhoof", -- [2]
@@ -1100,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebVileheart-Bloodhoof|r",
 			[51] = 1678397858,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [46]
 		{
 			"Yes chef!", -- [1]
 			"Summon-Duskwood", -- [2]
@@ -1122,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSummon-Duskwood|r",
 			[51] = 1678397859,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [47]
 		{
 			"Yes chef!", -- [1]
 			"Vitt-Bloodhoof", -- [2]
@@ -1144,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebVitt-Bloodhoof|r",
 			[51] = 1678397859,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [48]
 		{
 			"Yes chef!", -- [1]
 			"Jagur-Turalyon", -- [2]
@@ -1166,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Jagur|r",
 			[51] = 1678397861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [49]
 		{
 			"Yes chef!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -1188,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1678397864,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [50]
 		{
 			"Yes chef!", -- [1]
 			"Longdruid-Duskwood", -- [2]
@@ -1210,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLongdruid-Duskwood|r",
 			[51] = 1678397935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [51]
 		{
 			"dude, did you know on 2nd boss in nokhud, you can run out of melee, taunt the boss, spell reflect, and the tank taunts back", -- [1]
 			"|Kq23|k", -- [2]
@@ -1232,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400998,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [56]
+		}, -- [52]
 		{
 			"wind burst will be your top dmg guaranteed", -- [1]
 			"|Kq23|k", -- [2]
@@ -1254,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400944,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [57]
+		}, -- [53]
 		{
 			"on the storm boss?", -- [1]
 			"|Kq23|k", -- [2]
@@ -1276,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400957,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [58]
+		}, -- [54]
 		{
 			"yeah", -- [1]
 			"|Kq23|k", -- [2]
@@ -1298,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400960,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [59]
+		}, -- [55]
 		{
 			"it hits incredibly hard", -- [1]
 			"|Kq23|k", -- [2]
@@ -1320,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400963,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [60]
+		}, -- [56]
 		{
 			"damn thats a nice trick lol", -- [1]
 			"|Kq23|k", -- [2]
@@ -1342,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400972,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [61]
+		}, -- [57]
 		{
 			"like 5-600k", -- [1]
 			"|Kq23|k", -- [2]
@@ -1364,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678400973,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [62]
+		}, -- [58]
 		{
 			"probably adds 20-20k dps", -- [1]
 			"|Kq23|k", -- [2]
@@ -1386,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678401056,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [63]
+		}, -- [59]
 		{
 			"going to have to try it so i look like im pumping at least lol", -- [1]
 			"|Kq23|k", -- [2]
@@ -1408,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678401056,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [64]
+		}, -- [60]
 		{
 			"*20-25", -- [1]
 			"|Kq23|k", -- [2]
@@ -1430,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDos|r",
 			[51] = 1678401002,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [65]
+		}, -- [61]
 		{
 			"LF someone to recraft |cffa335ee|Hitem:193001::192984:192948:192948::::70:258::13:9:8836:8840:8902:8960:8783:8782:8802:8793:8845:7:28:2164:29:40:30:36:38:8:40:260:48:194566:49:197921::::Player-3685-0DE34138:|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r to 415+", -- [1]
 			"Swolfze-Turalyon", -- [2]
@@ -1452,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSwolfze|r",
 			[51] = 1678401608,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [62]
 		{
 			"LF 402 Upgrade |cffa335ee|Hitem:194898:6655:::::::70:63::13:5:8836:8840:8902:8802:8793:6:28:2164:29:40:30:32:38:8:40:676:48:194566::::Player-3685-0DA9DA72:|h[Illuminating Pillar of the Isles |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r", -- [1]
 			"Grumagus-Turalyon", -- [2]
@@ -1474,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebGrumagus|r",
 			[51] = 1678821485,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [63]
 		{
 			"|cffa335ee|Hitem:195526::::::::70:263::5:5:40:7936:7980:1485:8767::::::|h[Seal of Filial Duty]|h|r or |cffa335ee|Hitem:194308::::::::70:263::5:4:7980:6652:1485:8767::::::|h[Manic Grieftorch]|h|r", -- [1]
 			"Bioshock-Turalyon", -- [2]
@@ -1496,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddBioshock|r",
 			[51] = 1678821498,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [64]
 		{
 			"ez, ring", -- [1]
 			"Grumagus-Turalyon", -- [2]
@@ -1518,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebGrumagus|r",
 			[51] = 1678821520,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [65]
 		{
 			"Yeah Im thinking too", -- [1]
 			"Bioshock-Turalyon", -- [2]
@@ -1540,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddBioshock|r",
 			[51] = 1678821590,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [66]
 		{
 			"Grieftorch would be dope but i already have icon and puzzle box", -- [1]
 			"Bioshock-Turalyon", -- [2]
@@ -1562,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddBioshock|r",
 			[51] = 1678821548,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [67]
 		{
 			"loot specialist 29.2 48.5", -- [1]
 			"Sallix-Turalyon", -- [2]
@@ -1584,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSallix|r",
 			[51] = 1679789760,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [68]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16499:Player-3685-07F1620A:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Elemental Overflowing]|h|r!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -1606,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1679789958,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
+		}, -- [69]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16500:Player-3685-07F1620A:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Elemental Overload]|h|r!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -1628,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1679790271,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [74]
+		}, -- [70]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12903:Player-3685-0703D328:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Honor Level 40]|h|r!", -- [1]
 			"Mikya-Turalyon", -- [2]
@@ -1650,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMikya|r",
 			[51] = 1679790695,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
+		}, -- [71]
 		{
 			"summoning Kangalo 56.4 59.2", -- [1]
 			"Sallix-Turalyon", -- [2]
@@ -1672,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSallix|r",
 			[51] = 1679792174,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [72]
 		{
 			"thx for heads up1", -- [1]
 			"Bagfries-Turalyon", -- [2]
@@ -1694,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fBagfries|r",
 			[51] = 1679792306,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [73]
 		{
 			"np bag", -- [1]
 			"Sallix-Turalyon", -- [2]
@@ -1716,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeSallix|r",
 			[51] = 1679792322,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [74]
 		{
 			"it dead?", -- [1]
 			"Stormdorf-Turalyon", -- [2]
@@ -1738,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddStormdorf|r",
 			[51] = 1679792346,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [75]
 		{
 			"ya", -- [1]
 			"Kiyofu-Turalyon", -- [2]
@@ -1760,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeKiyofu|r",
 			[51] = 1679792357,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [76]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17524:Player-3685-07F1620A:1:3:25:23:4294967295:4294967295:4294967295:4294967295|h[Adventurer of the Forbidden Reach]|h|r!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -1782,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1679792904,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [81]
+		}, -- [77]
 		{
 			"we're kicking all the nonmages", -- [1]
 			"Mikya-Turalyon", -- [2]
@@ -1804,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMikya|r",
 			[51] = 1679793305,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [78]
 		{
 			"this is a mage only guild", -- [1]
 			"Mikya-Turalyon", -- [2]
@@ -1826,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMikya|r",
 			[51] = 1679793309,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [79]
 		{
 			"finally", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -1848,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1679793321,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [80]
 		{
 			"mage guild best guild", -- [1]
 			"Annya-Turalyon", -- [2]
@@ -1870,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAnnya|r",
 			[51] = 1679793394,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [81]
 		{
 			"Fellowship of the Blink", -- [1]
 			"Kryptikal-Turalyon", -- [2]
@@ -1892,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebKryptikal|r",
 			[51] = 1679793407,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [82]
 		{
 			"LF someone to recraft |cffa335ee|Hitem:193000:6556:192948::::::70:258::13:7:8836:8840:8902:8780:8802:8793:8845:7:28:2164:29:49:30:32:38:8:40:259:49:194566:50:197921::::Player-3685-0DF80F1C:|h[Ring-Bound Hourglass |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r", -- [1]
 			"Swolfze-Turalyon", -- [2]
@@ -1914,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSwolfze|r",
 			[51] = 1679794503,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [83]
 		{
 			"Any lariat crafters on?  need to do first infusion on one to 405", -- [1]
 			"Hypnotica-Turalyon", -- [2]
@@ -1936,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffHypnotica|r",
 			[51] = 1679795168,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [84]
 		{
 			"Yes chef!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -1958,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1679969289,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [85]
 		{
 			"Yes chef!", -- [1]
 			"Myosotis-Duskwood", -- [2]
@@ -1980,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Myosotis-Duskwood|r",
 			[51] = 1679969292,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [86]
 		{
 			"Yes chef!", -- [1]
 			"Emilynn-Duskwood", -- [2]
@@ -2002,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Emilynn-Duskwood|r",
 			[51] = 1679969301,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [87]
 		{
 			"Yes chef!", -- [1]
 			"Adamancy-Turalyon", -- [2]
@@ -2024,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebAdamancy|r",
 			[51] = 1679969311,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [88]
 		{
 			"Yes chef!", -- [1]
 			"Katryona-Bloodhoof", -- [2]
@@ -2046,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aKatryona-Bloodhoof|r",
 			[51] = 1679969328,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [89]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12559:Player-3685-072486FC:1:3:27:23:4294967295:4294967295:4294967295:4294967295|h[Explore Zuldazar]|h|r!", -- [1]
 			"Sonyana-Turalyon", -- [2]
@@ -2068,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSonyana|r",
 			[51] = 1679969362,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [90]
 		{
 			"Yes chef!", -- [1]
 			"Goodytoshoes-Turalyon", -- [2]
@@ -2090,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dGoodytoshoes|r",
 			[51] = 1679969374,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [91]
 		{
 			"Yes chef!", -- [1]
 			"Katryona-Bloodhoof", -- [2]
@@ -2112,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aKatryona-Bloodhoof|r",
 			[51] = 1679969377,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [92]
 		{
 			"Yes chef!", -- [1]
 			"Gavenrhett-Turalyon", -- [2]
@@ -2134,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fGavenrhett|r",
 			[51] = 1679969488,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [93]
 		{
 			"Yes chef!", -- [1]
 			"Goodytoshoes-Turalyon", -- [2]
@@ -2156,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dGoodytoshoes|r",
 			[51] = 1679969492,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [94]
 		{
 			"Yes chef!", -- [1]
 			"Emilynn-Duskwood", -- [2]
@@ -2178,29 +2090,117 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Emilynn-Duskwood|r",
 			[51] = 1679969496,
 			[50] = "CHAT_MSG_SAY",
+		}, -- [95]
+		{
+			"Any tailors able to do 405 |cffa335ee|Hitem:193519::::::::70:64:::::::::|h[Vibrant Wildercloth Slippers]|h|r? ", -- [1]
+			"Kindf-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kindf-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-3685-0E14A1DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebKindf|r",
+			[51] = 1682265249,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"Great tip if so! ", -- [1]
+			"Kindf-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kindf-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-3685-0E14A1DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebKindf|r",
+			[51] = 1682265268,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"No one? ", -- [1]
+			"Kindf-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kindf-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-3685-0E14A1DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebKindf|r",
+			[51] = 1682265411,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Doesn't a couple thousand gold sound nice? lol", -- [1]
+			"Kindf-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kindf-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-3685-0E14A1DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebKindf|r",
+			[51] = 1682265380,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/p dont forget soothe/tranq", -- [1]
-		"/g what the hell happened", -- [2]
-		"/g that was a terrible idea lol", -- [3]
-		"/g and we split dps bad on that one", -- [4]
-		"/p everyone is eligible for target", -- [5]
-		"/p doesnt matter, we are all considered ranged", -- [6]
-		"/p nope not this one", -- [7]
-		"/g yeah he dumb", -- [8]
-		"/p gg", -- [9]
-		"/p yeah its kinda tough with 3 ranged", -- [10]
-		"/p :||", -- [11]
-		"yeah im down for some in a few, need to clean up a mess first", -- [12]
-		"/wave", -- [13]
-		"/knp", -- [14]
-		"most definitely", -- [15]
-		"ill hop in disc in a min", -- [16]
-		"on the storm boss?", -- [17]
-		"damn thats a nice trick lol", -- [18]
-		"going to have to try it so i look like im pumping at least lol", -- [19]
-		"/g finally", -- [20]
+		"/g what the hell happened", -- [1]
+		"/g that was a terrible idea lol", -- [2]
+		"/g and we split dps bad on that one", -- [3]
+		"/p everyone is eligible for target", -- [4]
+		"/p doesnt matter, we are all considered ranged", -- [5]
+		"/p nope not this one", -- [6]
+		"/g yeah he dumb", -- [7]
+		"/p gg", -- [8]
+		"/p yeah its kinda tough with 3 ranged", -- [9]
+		"/p :||", -- [10]
+		"yeah im down for some in a few, need to clean up a mess first", -- [11]
+		"/wave", -- [12]
+		"/knp", -- [13]
+		"most definitely", -- [14]
+		"ill hop in disc in a min", -- [15]
+		"on the storm boss?", -- [16]
+		"damn thats a nice trick lol", -- [17]
+		"going to have to try it so i look like im pumping at least lol", -- [18]
+		"/g finally", -- [19]
+		"/dance", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

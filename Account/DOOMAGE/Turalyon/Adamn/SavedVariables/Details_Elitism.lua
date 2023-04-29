@@ -105,50 +105,20 @@ ElitismLog = {
 					["sumOverkill"] = -1,
 					["sum"] = 99864,
 				},
-				[350163] = {
-					["cnt"] = 9,
-					["sumOverkill"] = -9,
-					["sum"] = 952955,
-				},
 				[396411] = {
 					["cnt"] = 17,
 					["sumOverkill"] = -17,
 					["sum"] = 658687,
 				},
+				[350163] = {
+					["cnt"] = 9,
+					["sumOverkill"] = -9,
+					["sum"] = 952955,
+				},
 				[152800] = {
 					["cnt"] = 3,
 					["sumOverkill"] = -3,
 					["sum"] = 194531,
-				},
-			},
-			["auracnt"] = 0,
-			["auras"] = {
-			},
-		},
-		["Player-3685-0722B5D5"] = {
-			["sumOverkill"] = -8,
-			["sum"] = 785635,
-			["cnt"] = 8,
-			["spells"] = {
-				[240448] = {
-					["cnt"] = 3,
-					["sumOverkill"] = -3,
-					["sum"] = 256347,
-				},
-				[152800] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 128355,
-				},
-				[350163] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 218251,
-				},
-				[153686] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 182682,
 				},
 			},
 			["auracnt"] = 0,
@@ -180,45 +150,45 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 71484,
 				},
-				[396411] = {
-					["cnt"] = 8,
-					["sumOverkill"] = -8,
-					["sum"] = 255586,
-				},
 				[153686] = {
 					["cnt"] = 1,
 					["sumOverkill"] = -1,
 					["sum"] = 235305,
+				},
+				[396411] = {
+					["cnt"] = 8,
+					["sumOverkill"] = -8,
+					["sum"] = 255586,
 				},
 			},
 			["auracnt"] = 0,
 			["auras"] = {
 			},
 		},
-		["Player-3676-0DF108E4"] = {
-			["sumOverkill"] = -12,
-			["sum"] = 525109,
-			["cnt"] = 18,
+		["Player-3685-0722B5D5"] = {
+			["sumOverkill"] = -8,
+			["sum"] = 785635,
+			["cnt"] = 8,
 			["spells"] = {
-				[152800] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 38457,
-				},
-				[396411] = {
-					["cnt"] = 15,
-					["sumOverkill"] = -10,
-					["sum"] = 307501,
-				},
-				[153395] = {
-					["cnt"] = 1,
-					["sumOverkill"] = 0,
-					["sum"] = 69162,
-				},
 				[240448] = {
+					["cnt"] = 3,
+					["sumOverkill"] = -3,
+					["sum"] = 256347,
+				},
+				[152800] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 128355,
+				},
+				[153686] = {
 					["cnt"] = 1,
 					["sumOverkill"] = -1,
-					["sum"] = 109989,
+					["sum"] = 182682,
+				},
+				[350163] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 218251,
 				},
 			},
 			["auracnt"] = 0,
@@ -235,25 +205,25 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 160251,
 				},
-				[153686] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 217300,
+				[152688] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 84352,
 				},
 				[152800] = {
 					["cnt"] = 2,
 					["sumOverkill"] = -2,
 					["sum"] = 121871,
 				},
-				[152696] = {
-					["cnt"] = 10,
-					["sumOverkill"] = -10,
-					["sum"] = 412556,
+				[350163] = {
+					["cnt"] = 8,
+					["sumOverkill"] = -8,
+					["sum"] = 738186,
 				},
-				[152688] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 84352,
+				[153686] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 217300,
 				},
 				[240448] = {
 					["cnt"] = 3,
@@ -265,10 +235,40 @@ ElitismLog = {
 					["sumOverkill"] = -1,
 					["sum"] = 216427,
 				},
-				[350163] = {
-					["cnt"] = 8,
-					["sumOverkill"] = -8,
-					["sum"] = 738186,
+				[152696] = {
+					["cnt"] = 10,
+					["sumOverkill"] = -10,
+					["sum"] = 412556,
+				},
+			},
+			["auracnt"] = 0,
+			["auras"] = {
+			},
+		},
+		["Player-3676-0DF108E4"] = {
+			["sumOverkill"] = -12,
+			["sum"] = 525109,
+			["cnt"] = 18,
+			["spells"] = {
+				[152800] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 38457,
+				},
+				[153395] = {
+					["cnt"] = 1,
+					["sumOverkill"] = 0,
+					["sum"] = 69162,
+				},
+				[396411] = {
+					["cnt"] = 15,
+					["sumOverkill"] = -10,
+					["sum"] = 307501,
+				},
+				[240448] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 109989,
 				},
 			},
 			["auracnt"] = 0,
@@ -297,16 +297,26 @@ ElitismLog = {
 			["auras"] = {
 			},
 		},
+		["Player-3685-0722B5D5"] = {
+			["sumOverkill"] = -2,
+			["sum"] = 197190,
+			["cnt"] = 2,
+			["spells"] = {
+				[240448] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 197190,
+				},
+			},
+			["auracnt"] = 0,
+			["auras"] = {
+			},
+		},
 		["Player-3676-0E19EF93"] = {
 			["sumOverkill"] = 118081,
 			["sum"] = 1177832,
 			["cnt"] = 17,
 			["spells"] = {
-				[152696] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 35742,
-				},
 				[396411] = {
 					["cnt"] = 8,
 					["sumOverkill"] = -8,
@@ -317,20 +327,25 @@ ElitismLog = {
 					["sumOverkill"] = 118090,
 					["sum"] = 886504,
 				},
+				[152696] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 35742,
+				},
 			},
 			["auracnt"] = 0,
 			["auras"] = {
 			},
 		},
-		["Player-3685-0722B5D5"] = {
-			["sumOverkill"] = -2,
-			["sum"] = 197190,
-			["cnt"] = 2,
+		["Player-3676-0DF108E4"] = {
+			["sumOverkill"] = -10,
+			["sum"] = 239230,
+			["cnt"] = 10,
 			["spells"] = {
-				[240448] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 197190,
+				[396411] = {
+					["cnt"] = 10,
+					["sumOverkill"] = -10,
+					["sum"] = 239230,
 				},
 			},
 			["auracnt"] = 0,
@@ -361,21 +376,6 @@ ElitismLog = {
 					["cnt"] = 8,
 					["sumOverkill"] = -8,
 					["sum"] = 331116,
-				},
-			},
-			["auracnt"] = 0,
-			["auras"] = {
-			},
-		},
-		["Player-3676-0DF108E4"] = {
-			["sumOverkill"] = -10,
-			["sum"] = 239230,
-			["cnt"] = 10,
-			["spells"] = {
-				[396411] = {
-					["cnt"] = 10,
-					["sumOverkill"] = -10,
-					["sum"] = 239230,
 				},
 			},
 			["auracnt"] = 0,
@@ -538,20 +538,80 @@ ElitismLog = {
 					["sumOverkill"] = -3,
 					["sum"] = 194531,
 				},
-				[350163] = {
-					["cnt"] = 6,
-					["sumOverkill"] = -6,
-					["sum"] = 633297,
-				},
 				[396411] = {
 					["cnt"] = 11,
 					["sumOverkill"] = -11,
 					["sum"] = 428305,
 				},
+				[350163] = {
+					["cnt"] = 6,
+					["sumOverkill"] = -6,
+					["sum"] = 633297,
+				},
 				[240448] = {
 					["cnt"] = 1,
 					["sumOverkill"] = -1,
 					["sum"] = 99864,
+				},
+			},
+			["auracnt"] = 0,
+			["auras"] = {
+			},
+		},
+		["Player-3676-0DF108E4"] = {
+			["sumOverkill"] = -7,
+			["sum"] = 405494,
+			["cnt"] = 13,
+			["spells"] = {
+				[152800] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 38457,
+				},
+				[240448] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 109989,
+				},
+				[396411] = {
+					["cnt"] = 10,
+					["sumOverkill"] = -5,
+					["sum"] = 187886,
+				},
+				[153395] = {
+					["cnt"] = 1,
+					["sumOverkill"] = 0,
+					["sum"] = 69162,
+				},
+			},
+			["auracnt"] = 0,
+			["auras"] = {
+			},
+		},
+		["Player-3685-0722B5D5"] = {
+			["sumOverkill"] = -7,
+			["sum"] = 687040,
+			["cnt"] = 7,
+			["spells"] = {
+				[240448] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 157752,
+				},
+				[152800] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 128355,
+				},
+				[350163] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 218251,
+				},
+				[153686] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 182682,
 				},
 			},
 			["auracnt"] = 0,
@@ -568,20 +628,20 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 160251,
 				},
-				[350163] = {
-					["cnt"] = 6,
-					["sumOverkill"] = -6,
-					["sum"] = 577439,
+				[152696] = {
+					["cnt"] = 5,
+					["sumOverkill"] = -5,
+					["sum"] = 206278,
 				},
 				[152688] = {
 					["cnt"] = 1,
 					["sumOverkill"] = -1,
 					["sum"] = 42176,
 				},
-				[152696] = {
-					["cnt"] = 5,
-					["sumOverkill"] = -5,
-					["sum"] = 206278,
+				[240448] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 225960,
 				},
 				[153686] = {
 					["cnt"] = 1,
@@ -598,10 +658,10 @@ ElitismLog = {
 					["sumOverkill"] = -1,
 					["sum"] = 216427,
 				},
-				[240448] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 225960,
+				[350163] = {
+					["cnt"] = 6,
+					["sumOverkill"] = -6,
+					["sum"] = 577439,
 				},
 			},
 			["auracnt"] = 0,
@@ -633,75 +693,15 @@ ElitismLog = {
 					["sumOverkill"] = -1,
 					["sum"] = 35742,
 				},
-				[153686] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 235305,
-				},
 				[396411] = {
 					["cnt"] = 4,
 					["sumOverkill"] = -4,
 					["sum"] = 127793,
 				},
-			},
-			["auracnt"] = 0,
-			["auras"] = {
-			},
-		},
-		["Player-3676-0DF108E4"] = {
-			["sumOverkill"] = -7,
-			["sum"] = 405494,
-			["cnt"] = 13,
-			["spells"] = {
-				[152800] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 38457,
-				},
-				[240448] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 109989,
-				},
-				[153395] = {
-					["cnt"] = 1,
-					["sumOverkill"] = 0,
-					["sum"] = 69162,
-				},
-				[396411] = {
-					["cnt"] = 10,
-					["sumOverkill"] = -5,
-					["sum"] = 187886,
-				},
-			},
-			["auracnt"] = 0,
-			["auras"] = {
-			},
-		},
-		["Player-3685-0722B5D5"] = {
-			["sumOverkill"] = -7,
-			["sum"] = 687040,
-			["cnt"] = 7,
-			["spells"] = {
-				[240448] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 157752,
-				},
-				[152800] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 128355,
-				},
 				[153686] = {
 					["cnt"] = 1,
 					["sumOverkill"] = -1,
-					["sum"] = 182682,
-				},
-				[350163] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 218251,
+					["sum"] = 235305,
 				},
 			},
 			["auracnt"] = 0,

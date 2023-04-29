@@ -16,11 +16,6 @@ ElitismLog = {
 					["sumOverkill"] = -3,
 					["sum"] = 292803,
 				},
-				[152800] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 83900,
-				},
 				[398154] = {
 					["cnt"] = 1,
 					["sumOverkill"] = 45424,
@@ -30,6 +25,11 @@ ElitismLog = {
 					["cnt"] = 5,
 					["sumOverkill"] = 267006,
 					["sum"] = 1313944,
+				},
+				[152800] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 83900,
 				},
 			},
 			["auracnt"] = 0,
@@ -71,11 +71,6 @@ ElitismLog = {
 					["sumOverkill"] = -3,
 					["sum"] = 41901,
 				},
-				[154469] = {
-					["cnt"] = 9,
-					["sumOverkill"] = 13303,
-					["sum"] = 1009505,
-				},
 				[152690] = {
 					["cnt"] = 2,
 					["sumOverkill"] = -2,
@@ -85,6 +80,11 @@ ElitismLog = {
 					["cnt"] = 5,
 					["sumOverkill"] = -5,
 					["sum"] = 225986,
+				},
+				[154469] = {
+					["cnt"] = 9,
+					["sumOverkill"] = 13303,
+					["sum"] = 1009505,
 				},
 			},
 			["auracnt"] = 0,
@@ -111,20 +111,20 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 149847,
 				},
-				[153224] = {
-					["cnt"] = 6,
-					["sumOverkill"] = -4,
-					["sum"] = 212644,
+				[153686] = {
+					["cnt"] = 1,
+					["sumOverkill"] = 1976,
+					["sum"] = 339992,
 				},
 				[154469] = {
 					["cnt"] = 2,
 					["sumOverkill"] = 31281,
 					["sum"] = 255470,
 				},
-				[153686] = {
-					["cnt"] = 1,
-					["sumOverkill"] = 1976,
-					["sum"] = 339992,
+				[153224] = {
+					["cnt"] = 6,
+					["sumOverkill"] = -4,
+					["sum"] = 212644,
 				},
 				[153501] = {
 					["cnt"] = 3,
@@ -156,25 +156,25 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 216334,
 				},
-				[152696] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 35585,
+				[396411] = {
+					["cnt"] = 5,
+					["sumOverkill"] = -5,
+					["sum"] = 196628,
 				},
 				[154469] = {
 					["cnt"] = 1,
 					["sumOverkill"] = -1,
 					["sum"] = 114493,
 				},
-				[396411] = {
-					["cnt"] = 5,
-					["sumOverkill"] = -5,
-					["sum"] = 196628,
-				},
 				[154442] = {
 					["cnt"] = 2,
 					["sumOverkill"] = -2,
 					["sum"] = 518503,
+				},
+				[152696] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 35585,
 				},
 			},
 			["auracnt"] = 0,

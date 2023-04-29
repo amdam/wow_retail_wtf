@@ -8,11 +8,11 @@ HandyNotes_DragonflightDB = {
 		["Amdam - Turalyon"] = "Default",
 		["Adrid - Turalyon"] = "Default",
 		["Aduum - Turalyon"] = "Default",
-		["Christoff - Turalyon"] = "Default",
+		["Kayne - Turalyon"] = "Default",
 		["Kaydan - Turalyon"] = "Default",
 		["Adamn - Turalyon"] = "Default",
 		["Badam - Turalyon"] = "Default",
-		["Kayne - Turalyon"] = "Default",
+		["Christoff - Turalyon"] = "Default",
 		["Adomic - Turalyon"] = "Default",
 	},
 	["profiles"] = {

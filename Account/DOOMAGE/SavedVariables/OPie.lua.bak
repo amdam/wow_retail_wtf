@@ -4,20 +4,20 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "10.0.7",
-	["_OPieVersion"] = "Yuzu 8 (4.114)",
+	["_OPieVersion"] = "Yuzu 8a (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
 				["ipmentSets1"] = false,
 				["CommonTrades"] = false,
-				["PaladinAuras"] = "ALT-P",
+				["ipmentsets"] = false,
 				["ipmentSets2"] = "NUMPAD5",
-				["ipmentSets"] = false,
+				["OPieTrinkets"] = false,
 				["OPieTracking"] = false,
 				["MageTravel"] = "ALT-P",
 				["WorldMarkers"] = "SHIFT-R",
-				["OPieTrinkets"] = false,
-				["ipmentsets"] = false,
+				["ipmentSets"] = false,
+				["PaladinAuras"] = "ALT-P",
 			},
 		},
 	},
@@ -26,58 +26,70 @@ OPie_SavedData = {
 			[35704] = true,
 		},
 		["RingKeeper"] = {
-			["ipmentSets1"] = {
+			["ipmentsets"] = {
 				{
 					"equipmentset", -- [1]
-					"prot", -- [2]
-					["show"] = "[spec:71/72] hide;",
-					["sliceToken"] = "ABueskpEsp4",
+					"frost prydaz mag", -- [2]
+					["show"] = "[spec:63/62] hide;",
+					["sliceToken"] = "ABuea=brPp2",
 				}, -- [1]
 				{
 					"equipmentset", -- [1]
-					"prot trash", -- [2]
-					["show"] = "[spec:71/72] hide;",
-					["sliceToken"] = "ABueskpEsph",
+					"prydaz shard", -- [2]
+					["show"] = "[spec:62/63] hide;",
+					["sliceToken"] = "ABuea=brPpr",
 				}, -- [2]
 				{
 					"equipmentset", -- [1]
-					"fury", -- [2]
-					["show"] = "[spec:73/71] hide;",
-					["sliceToken"] = "ABueskpEspg",
+					"frost aoe", -- [2]
+					["show"] = "[spec:62/63] hide;",
+					["sliceToken"] = "ABueaL4inxQ",
 				}, -- [3]
 				{
 					"equipmentset", -- [1]
-					"speed", -- [2]
-					["sliceToken"] = "ABuescdCGT1",
+					"frost", -- [2]
+					["show"] = "[spec:63/62] hide;",
+					["sliceToken"] = "ABueaL4inxn",
 				}, -- [4]
 				{
 					"equipmentset", -- [1]
-					"fury aoe", -- [2]
-					["show"] = "[spec:73/71] hide;",
-					["sliceToken"] = "ABuesbhwQm1",
+					"fire", -- [2]
+					["show"] = "[spec:62/64] hide;",
+					["sliceToken"] = "ABueaL4inxm",
 				}, -- [5]
 				{
 					"equipmentset", -- [1]
-					"Fury boss def", -- [2]
-					["show"] = "[spec:73/71] hide;",
-					["sliceToken"] = "ABuesX3U/Ey",
+					"ae fire", -- [2]
+					["show"] = "[spec:62/64] hide;",
+					["sliceToken"] = "ABueaL4inx6",
 				}, -- [6]
 				{
 					"equipmentset", -- [1]
-					"arms st", -- [2]
-					["show"] = "[spec:73/72] hide;",
-					["sliceToken"] = "ABuesXRQAc1",
+					"fire trash def", -- [2]
+					["show"] = "[spec:64/62] hide;",
+					["sliceToken"] = "ABuesyJbkEe",
 				}, -- [7]
 				{
 					"equipmentset", -- [1]
-					"arms aoe", -- [2]
-					["show"] = "[spec:73/72] hide;",
-					["sliceToken"] = "ABuesXRQAcr",
+					"fire boss def", -- [2]
+					["show"] = "[spec:64/62] hide;",
+					["sliceToken"] = "ABuesyL1Zle",
 				}, -- [8]
-				["name"] = "Equipment Sets",
+				{
+					"equipmentset", -- [1]
+					"speed", -- [2]
+					["sliceToken"] = "ABue3hbB7Je",
+				}, -- [9]
+				{
+					"equipmentset", -- [1]
+					"arcane", -- [2]
+					["show"] = "[spec:64/63] hide;",
+					["sliceToken"] = "ABue376TIGe",
+				}, -- [10]
+				["name"] = "Equipment sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["limit"] = "Badam-Turalyon",
+				["limit"] = "Adamancy-Turalyon",
 			},
 			["CommonTrades"] = {
 				{
@@ -145,10 +157,10 @@ OPie_SavedData = {
 					["c"] = "ffac3d",
 					["id"] = 2656,
 				}, -- [11]
+				["version"] = 4,
 				["name"] = "Trade Skills",
 				["save"] = true,
 				["hotkey"] = "ALT-T",
-				["version"] = 4,
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
@@ -172,10 +184,10 @@ OPie_SavedData = {
 					["show"] = "[spec:269/270] hide;",
 					["sliceToken"] = "ABuesV=A73u",
 				}, -- [3]
-				["limit"] = "Furrys-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Furrys-Turalyon",
 			},
 			["PaladinAuras"] = {
 				{
@@ -196,35 +208,35 @@ OPie_SavedData = {
 					["id"] = 25780,
 					["sliceToken"] = "OPCPAf",
 				}, -- [4]
-				["limit"] = "PALADIN",
+				["name"] = "Paladin Buffs",
 				["save"] = true,
 				["hotkey"] = "ALT-P",
-				["name"] = "Paladin Buffs",
+				["limit"] = "PALADIN",
 			},
 			["MageTravel"] = {
 				{
-					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 					["sliceToken"] = "OPCMPb",
+					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 				}, -- [1]
 				{
-					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 					["sliceToken"] = "OPCMPv",
+					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 				}, -- [2]
 				{
-					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 					["sliceToken"] = "OPCMPr",
+					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 				}, -- [3]
 				{
-					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 					["sliceToken"] = "OPCMPs",
+					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 				}, -- [4]
 				{
-					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
 					["sliceToken"] = "OPCMPw",
+					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
 				}, -- [5]
 				{
-					["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 					["sliceToken"] = "OPCMPd",
+					["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 				}, -- [6]
 				{
 					["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
@@ -235,8 +247,8 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCMPu",
 				}, -- [8]
 				{
-					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 					["sliceToken"] = "OPCMPi",
+					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 				}, -- [9]
 				{
 					["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
@@ -253,25 +265,25 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCMPl",
 				}, -- [12]
 				{
-					["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
 					["sliceToken"] = "OPCMPx",
+					["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
 				}, -- [13]
 				{
-					["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
 					["sliceToken"] = "ABue3Xt7/Yi",
+					["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
 				}, -- [14]
 				{
-					["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
 					["sliceToken"] = "ABuekYV=u8a",
+					["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
 				}, -- [15]
 				{
-					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 					["sliceToken"] = "ABuevQ2QUi2",
+					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 				}, -- [16]
+				["name"] = "Portals and Teleports",
 				["limit"] = "MAGE",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
-				["name"] = "Portals and Teleports",
 			},
 			["ipmentSets"] = {
 				{
@@ -315,75 +327,63 @@ OPie_SavedData = {
 					["show"] = "[spec:70/66] hide;",
 					["sliceToken"] = "ABues6epD11",
 				}, -- [7]
-				["limit"] = "Amdam-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Amdam-Turalyon",
 			},
-			["ipmentsets"] = {
+			["ipmentSets1"] = {
 				{
 					"equipmentset", -- [1]
-					"frost prydaz mag", -- [2]
-					["show"] = "[spec:63/62] hide;",
-					["sliceToken"] = "ABuea=brPp2",
+					"prot", -- [2]
+					["show"] = "[spec:71/72] hide;",
+					["sliceToken"] = "ABueskpEsp4",
 				}, -- [1]
 				{
 					"equipmentset", -- [1]
-					"prydaz shard", -- [2]
-					["show"] = "[spec:62/63] hide;",
-					["sliceToken"] = "ABuea=brPpr",
+					"prot trash", -- [2]
+					["show"] = "[spec:71/72] hide;",
+					["sliceToken"] = "ABueskpEsph",
 				}, -- [2]
 				{
 					"equipmentset", -- [1]
-					"frost aoe", -- [2]
-					["show"] = "[spec:62/63] hide;",
-					["sliceToken"] = "ABueaL4inxQ",
+					"fury", -- [2]
+					["show"] = "[spec:73/71] hide;",
+					["sliceToken"] = "ABueskpEspg",
 				}, -- [3]
 				{
 					"equipmentset", -- [1]
-					"frost", -- [2]
-					["show"] = "[spec:63/62] hide;",
-					["sliceToken"] = "ABueaL4inxn",
+					"speed", -- [2]
+					["sliceToken"] = "ABuescdCGT1",
 				}, -- [4]
 				{
 					"equipmentset", -- [1]
-					"fire", -- [2]
-					["show"] = "[spec:62/64] hide;",
-					["sliceToken"] = "ABueaL4inxm",
+					"fury aoe", -- [2]
+					["show"] = "[spec:73/71] hide;",
+					["sliceToken"] = "ABuesbhwQm1",
 				}, -- [5]
 				{
 					"equipmentset", -- [1]
-					"ae fire", -- [2]
-					["show"] = "[spec:62/64] hide;",
-					["sliceToken"] = "ABueaL4inx6",
+					"Fury boss def", -- [2]
+					["show"] = "[spec:73/71] hide;",
+					["sliceToken"] = "ABuesX3U/Ey",
 				}, -- [6]
 				{
 					"equipmentset", -- [1]
-					"fire trash def", -- [2]
-					["show"] = "[spec:64/62] hide;",
-					["sliceToken"] = "ABuesyJbkEe",
+					"arms st", -- [2]
+					["show"] = "[spec:73/72] hide;",
+					["sliceToken"] = "ABuesXRQAc1",
 				}, -- [7]
 				{
 					"equipmentset", -- [1]
-					"fire boss def", -- [2]
-					["show"] = "[spec:64/62] hide;",
-					["sliceToken"] = "ABuesyL1Zle",
+					"arms aoe", -- [2]
+					["show"] = "[spec:73/72] hide;",
+					["sliceToken"] = "ABuesXRQAcr",
 				}, -- [8]
-				{
-					"equipmentset", -- [1]
-					"speed", -- [2]
-					["sliceToken"] = "ABue3hbB7Je",
-				}, -- [9]
-				{
-					"equipmentset", -- [1]
-					"arcane", -- [2]
-					["show"] = "[spec:64/63] hide;",
-					["sliceToken"] = "ABue376TIGe",
-				}, -- [10]
-				["name"] = "Equipment sets",
+				["limit"] = "Badam-Turalyon",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["limit"] = "Adamancy-Turalyon",
+				["name"] = "Equipment Sets",
 			},
 		},
 	},

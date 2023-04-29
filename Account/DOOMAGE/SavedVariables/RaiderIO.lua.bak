@@ -7,18 +7,24 @@ RaiderIO_Config = {
 	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
 	["enableLFGTooltips"] = true,
-	["showSimpleScoreColors"] = false,
+	["enableWhoTooltips"] = true,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showSimpleScoreColors"] = false,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
 RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-	["us-Ironclad-turalyon"] = true,
-	["us-Ragefinder-turalyon"] = true,
-	["us-Glergarby-stormscale"] = true,
+	["us-Tearion-turalyon"] = true,
+	["us-Snoopchien-turalyon"] = true,
+	["us-Nazgro-turalyon"] = true,
+	["us-Dreadglaive-turalyon"] = true,
+	["us-Sisterwhite-turalyon"] = true,
+	["us-Howsmyhair-turalyon"] = true,
+	["us-Hythir-turalyon"] = true,
+	["us-Unknown-turalyon"] = true,
+	["us-Msyba-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

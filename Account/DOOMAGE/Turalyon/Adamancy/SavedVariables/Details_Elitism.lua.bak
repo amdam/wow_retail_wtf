@@ -16,20 +16,20 @@ ElitismLog = {
 					["sumOverkill"] = -3,
 					["sum"] = 292803,
 				},
-				[398154] = {
+				[152800] = {
 					["cnt"] = 1,
-					["sumOverkill"] = 45424,
-					["sum"] = 298292,
+					["sumOverkill"] = -1,
+					["sum"] = 83900,
 				},
 				[154442] = {
 					["cnt"] = 5,
 					["sumOverkill"] = 267006,
 					["sum"] = 1313944,
 				},
-				[152800] = {
+				[398154] = {
 					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 83900,
+					["sumOverkill"] = 45424,
+					["sum"] = 298292,
 				},
 			},
 			["auracnt"] = 0,
@@ -71,20 +71,20 @@ ElitismLog = {
 					["sumOverkill"] = -3,
 					["sum"] = 41901,
 				},
-				[152690] = {
-					["cnt"] = 2,
-					["sumOverkill"] = -2,
-					["sum"] = 66843,
+				[154469] = {
+					["cnt"] = 9,
+					["sumOverkill"] = 13303,
+					["sum"] = 1009505,
 				},
 				[396411] = {
 					["cnt"] = 5,
 					["sumOverkill"] = -5,
 					["sum"] = 225986,
 				},
-				[154469] = {
-					["cnt"] = 9,
-					["sumOverkill"] = 13303,
-					["sum"] = 1009505,
+				[152690] = {
+					["cnt"] = 2,
+					["sumOverkill"] = -2,
+					["sum"] = 66843,
 				},
 			},
 			["auracnt"] = 0,
@@ -111,20 +111,20 @@ ElitismLog = {
 					["sumOverkill"] = -3,
 					["sum"] = 348555,
 				},
-				[153686] = {
-					["cnt"] = 1,
-					["sumOverkill"] = 1976,
-					["sum"] = 339992,
+				[153224] = {
+					["cnt"] = 6,
+					["sumOverkill"] = -4,
+					["sum"] = 212644,
 				},
 				[154469] = {
 					["cnt"] = 2,
 					["sumOverkill"] = 31281,
 					["sum"] = 255470,
 				},
-				[153224] = {
-					["cnt"] = 6,
-					["sumOverkill"] = -4,
-					["sum"] = 212644,
+				[153686] = {
+					["cnt"] = 1,
+					["sumOverkill"] = 1976,
+					["sum"] = 339992,
 				},
 				[152696] = {
 					["cnt"] = 1,
@@ -156,10 +156,10 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 216334,
 				},
-				[396411] = {
-					["cnt"] = 5,
-					["sumOverkill"] = -5,
-					["sum"] = 196628,
+				[152696] = {
+					["cnt"] = 1,
+					["sumOverkill"] = -1,
+					["sum"] = 35585,
 				},
 				[154469] = {
 					["cnt"] = 1,
@@ -171,10 +171,10 @@ ElitismLog = {
 					["sumOverkill"] = -2,
 					["sum"] = 518503,
 				},
-				[152696] = {
-					["cnt"] = 1,
-					["sumOverkill"] = -1,
-					["sum"] = 35585,
+				[396411] = {
+					["cnt"] = 5,
+					["sumOverkill"] = -5,
+					["sum"] = 196628,
 				},
 			},
 			["auracnt"] = 0,

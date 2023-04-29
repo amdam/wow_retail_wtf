@@ -26,16 +26,16 @@ TomTomDB = {
 		["Adreya - Bloodscalp"] = "Default",
 		["Amdamn - Bloodscalp"] = "Default",
 		["Fife - The Forgotten Coast"] = "Default",
-		["Shado - Turalyon"] = "Default",
-		["Badam - Bloodscalp"] = "Default",
-		["Trasha - Bloodscalp"] = "Default",
-		["Amdam - Turalyon"] = "Default",
-		["Thugo - Bloodscalp"] = "Default",
-		["Dogs - Bloodscalp"] = "Default",
-		["Kayne - Turalyon"] = "Default",
-		["Amdam - Bloodscalp"] = "Default",
-		["Caldo - Turalyon"] = "Default",
 		["Adomic - Turalyon"] = "Default",
+		["Badam - Bloodscalp"] = "Default",
+		["Caldo - Turalyon"] = "Default",
+		["Amdam - Bloodscalp"] = "Default",
+		["Kayne - Turalyon"] = "Default",
+		["Dogs - Bloodscalp"] = "Default",
+		["Thugo - Bloodscalp"] = "Default",
+		["Amdam - Turalyon"] = "Default",
+		["Trasha - Bloodscalp"] = "Default",
+		["Shado - Turalyon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -74,14 +74,14 @@ TomTomWaypointsM = {
 		["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 		["Abel - Turalyon"] = "Abel - Turalyon",
 		["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-		["Shado - Turalyon"] = "Shado - Turalyon",
-		["Amdam - Turalyon"] = "Amdam - Turalyon",
-		["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-		["Asaam - Turalyon"] = "Asaam - Turalyon",
-		["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-		["Adamian - Turalyon"] = "Adamian - Turalyon",
-		["Badam - Turalyon"] = "Badam - Turalyon",
 		["Adomic - Turalyon"] = "Adomic - Turalyon",
+		["Badam - Turalyon"] = "Badam - Turalyon",
+		["Broddah - Doomhammer"] = "Broddah - Doomhammer",
+		["Adamian - Turalyon"] = "Adamian - Turalyon",
+		["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+		["Asaam - Turalyon"] = "Asaam - Turalyon",
+		["Amdam - Turalyon"] = "Amdam - Turalyon",
+		["Shado - Turalyon"] = "Shado - Turalyon",
 	},
 	["profiles"] = {
 		["Allevin - Turalyon"] = {
@@ -106,21 +106,21 @@ TomTomWaypointsM = {
 		},
 		["Adamancy - Turalyon"] = {
 		},
-		["Shado - Turalyon"] = {
-		},
-		["Amdam - Turalyon"] = {
-		},
-		["Broddah - Doomhammer"] = {
-		},
-		["Asaam - Turalyon"] = {
-		},
-		["Adreya - Bloodscalp"] = {
-		},
-		["Adamian - Turalyon"] = {
+		["Adomic - Turalyon"] = {
 		},
 		["Badam - Turalyon"] = {
 		},
-		["Adomic - Turalyon"] = {
+		["Broddah - Doomhammer"] = {
+		},
+		["Adamian - Turalyon"] = {
+		},
+		["Adreya - Bloodscalp"] = {
+		},
+		["Asaam - Turalyon"] = {
+		},
+		["Amdam - Turalyon"] = {
+		},
+		["Shado - Turalyon"] = {
 		},
 	},
 }
