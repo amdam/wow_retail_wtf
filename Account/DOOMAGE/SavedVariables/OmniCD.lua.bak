@@ -11,19 +11,19 @@ OmniCDDB = {
 		["Amdamn - Bloodscalp"] = "Default",
 		["Abel - Turalyon"] = "Default",
 		["Adamancy - Turalyon"] = "Default",
-		["Shado - Turalyon"] = "Default",
-		["Adamian - Turalyon"] = "Default",
-		["Broddah - Doomhammer"] = "Default",
-		["Adrid - Turalyon"] = "Default",
-		["Adamn - Turalyon"] = "Default",
-		["Dreg - Turalyon"] = "Default",
-		["Kayne - Turalyon"] = "Default",
 		["Adomic - Turalyon"] = "Default",
+		["Kayne - Turalyon"] = "Default",
+		["Broddah - Doomhammer"] = "Default",
+		["Dreg - Turalyon"] = "Default",
+		["Adamn - Turalyon"] = "Default",
+		["Adrid - Turalyon"] = "Default",
+		["Adamian - Turalyon"] = "Default",
+		["Shado - Turalyon"] = "Default",
 	},
 	["global"] = {
-		["disableElvMsg"] = true,
-		["oodChk"] = 220803,
 		["oodVer"] = 9252720,
+		["oodChk"] = 220803,
+		["disableElvMsg"] = true,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
@@ -31,13 +31,16 @@ OmniCDDB = {
 		["BattleRes"] = {
 		},
 	},
+	["version"] = 3,
 	["cooldowns"] = {
 	},
-	["version"] = 3,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["noneZoneSetting"] = "party",
+				["groupSize"] = {
+					["raid"] = 5,
+				},
 				["party"] = {
 					["extraBars"] = {
 						["raidBar0"] = {
@@ -50,13 +53,13 @@ OmniCDDB = {
 						},
 					},
 					["manualPos"] = {
-						["interruptBar"] = {
-							["y"] = 234.2555879217616,
-							["x"] = 793.6558909120504,
-						},
 						["raidCDBar"] = {
 							["y"] = 234.2555329901188,
 							["x"] = 880.4115584219107,
+						},
+						["interruptBar"] = {
+							["y"] = 234.2555879217616,
+							["x"] = 793.6558909120504,
 						},
 					},
 					["general"] = {

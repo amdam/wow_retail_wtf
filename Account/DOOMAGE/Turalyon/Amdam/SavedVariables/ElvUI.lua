@@ -2,711 +2,667 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"3. Billyjea 1362.2k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"{rt2} 1", -- [1]
+			"Sulveris-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Sulveris-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3490, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3172, -- [11]
+			"Player-3685-0AB19C74", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682656578,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffff7c0aSulveris|r",
+			[51] = 1684380002,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [1]
 		{
-			"4. Amdam 1730.5k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"{rt1}1", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3491, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3173, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682656578,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684380002,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [2]
 		{
-			"5. Nightloord-Illidan 1784.2k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"{rt3}1", -- [1]
+			"Greengreens-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Greengreens-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3492, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3174, -- [11]
+			"Player-3685-0E1FB3B0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682656578,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddGreengreens|r",
+			[51] = 1684380002,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [3]
 		{
-			"gg thx", -- [1]
-			"Nightloord-Illidan", -- [2]
+			"Pool ({rt1}) on Kunai", -- [1]
+			"Kunai-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nightloord-Illidan", -- [5]
+			"Kunai-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3498, -- [11]
-			"Player-57-0D61D421", -- [12]
+			3176, -- [11]
+			"Player-3684-08F40BBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa330c9Nightloord-Illidan|r",
-			[51] = 1682656649,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Kunai-Mal'Ganis|r",
+			[51] = 1684380027,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"ty", -- [1]
-			"Azados-Turalyon", -- [2]
+			"{rt2}Pool 2", -- [1]
+			"Aeohunt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Aeohunt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3507, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3177, -- [11]
+			"Player-3685-0DE56D82", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682656671,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Aeohunt|r",
+			[51] = 1684380027,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:16528:Player-3685-0722C2B9:1:4:27:23:4294967295:4294967295:4294967295:4294967295|h[Joining the Khansguard]|h|r!", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"Pool ({rt2}) on Aeohunt", -- [1]
+			"Aeohunt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Aeohunt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3178, -- [11]
+			"Player-3685-0DE56D82", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682665326,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffaad372Aeohunt|r",
+			[51] = 1684380027,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10816:Player-3685-0A366170:1:4:28:23:4294967295:4294967295:4294967295:4294967295|h[Mythic: Court of Stars]|h|r!", -- [1]
-			"Slaminshaman-Turalyon", -- [2]
+			"Pool ({rt3}) on Some", -- [1]
+			"Some-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Slaminshaman-Turalyon", -- [5]
+			"Some-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			22, -- [11]
-			"Player-3685-0A366170", -- [12]
+			3179, -- [11]
+			"Player-3685-0AA07AD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSlaminshaman|r",
-			[51] = 1682737946,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffff7c0aSome|r",
+			[51] = 1684380027,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"first try r5 aly", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"{rt1} 3", -- [1]
+			"Kunai-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kunai-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			23, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3182, -- [11]
+			"Player-3684-08F40BBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682737953,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Kunai-Mal'Ganis|r",
+			[51] = 1684380030,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"{rt2} 3", -- [1]
+			"Aeohunt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aeohunt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			24, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3183, -- [11]
+			"Player-3685-0DE56D82", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682737956,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Aeohunt|r",
+			[51] = 1684380030,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"lol", -- [1]
-			"Slaminshaman-Turalyon", -- [2]
+			"{rt3} 3", -- [1]
+			"Some-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Some-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			25, -- [11]
-			"Player-3685-0A366170", -- [12]
+			3184, -- [11]
+			"Player-3685-0AA07AD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSlaminshaman|r",
-			[51] = 1682737960,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aSome|r",
+			[51] = 1684380030,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"it didn't have a concentrated in it anyway", -- [1]
-			"Slaminshaman-Turalyon", -- [2]
+			"{rt2}3", -- [1]
+			"Aeohunt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Aeohunt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			26, -- [11]
-			"Player-3685-0A366170", -- [12]
+			3185, -- [11]
+			"Player-3685-0DE56D82", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSlaminshaman|r",
-			[51] = 1682738027,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Aeohunt|r",
+			[51] = 1684380030,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"yeah lol i was only like 40 skill off of guaranteed r5", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"{rt1} 2", -- [1]
+			"Kunai-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kunai-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			27, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3186, -- [11]
+			"Player-3684-08F40BBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682737990,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Kunai-Mal'Ganis|r",
+			[51] = 1684380031,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"can you make shields?", -- [1]
-			"Slaminshaman-Turalyon", -- [2]
+			"{rt3} 2", -- [1]
+			"Some-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Some-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29, -- [11]
-			"Player-3685-0A366170", -- [12]
+			3187, -- [11]
+			"Player-3685-0AA07AD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSlaminshaman|r",
-			[51] = 1682738000,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aSome|r",
+			[51] = 1684380031,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"not real well lol", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"{rt1} 1", -- [1]
+			"Kunai-Mal'Ganis", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Kunai-Mal'Ganis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			30, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3188, -- [11]
+			"Player-3684-08F40BBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738009,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Kunai-Mal'Ganis|r",
+			[51] = 1684380032,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"ive been pooling points tho until i have a use for any of the armorsmith recipes", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"{rt3} 1", -- [1]
+			"Some-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Some-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3189, -- [11]
+			"Player-3685-0AA07AD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738092,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aSome|r",
+			[51] = 1684380032,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"I put in a public work order and got  a rank 3 shield lol", -- [1]
-			"Slaminshaman-Turalyon", -- [2]
+			"we'll know in 2 weeks!", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			33, -- [11]
-			"Player-3685-0A366170", -- [12]
+			3210, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSlaminshaman|r",
-			[51] = 1682738049,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684380091,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [16]
 		{
-			"i think i have enough to learn the shield and get a couple extra points", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"so uh, blizz screwed up with this raid? we're on track to full clear heroic in 3 weeks? that feels fast", -- [1]
+			"Addler-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Addler-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			34, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3226, -- [11]
+			"Player-3685-0DCC0EEA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738055,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aAddler|r",
+			[51] = 1684380180,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [17]
 		{
-			"the primal molten one?", -- [1]
-			"Amdam-Turalyon", -- [2]
+			";)", -- [1]
+			"Sulveris-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sulveris-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			35, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3231, -- [11]
+			"Player-3685-0AB19C74", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738062,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aSulveris|r",
+			[51] = 1684380192,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [18]
 		{
-			"|cffa335ee|Hitem:190503::::::::70:264::13:5:8836:8840:8902:8800:8795:6:28:2164:29:40:30:36:38:6:40:122:45:194573::::Player-3685-07072BA8:|h[Primal Molten Defender |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r", -- [1]
-			"Slaminshaman-Turalyon", -- [2]
+			"3 weeks is all I need", -- [1]
+			"Sulveris-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sulveris-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			37, -- [11]
-			"Player-3685-0A366170", -- [12]
+			3235, -- [11]
+			"Player-3685-0AB19C74", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddSlaminshaman|r",
-			[51] = 1682738071,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aSulveris|r",
+			[51] = 1684380198,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [19]
 		{
-			"ah yeah, i can dump points and learn it but i'm still a ways off from doing concentrated r5", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"idk", -- [1]
+			"Daleberto-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Daleberto-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			41, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3240, -- [11]
+			"Player-3685-0E203ACD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738107,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380240,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [20]
 		{
-			"as if she even has enough foci", -- [1]
-			"Azados-Turalyon", -- [2]
+			"i think it's kinda nice for once", -- [1]
+			"Daleberto-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Daleberto-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			43, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3241, -- [11]
+			"Player-3685-0E203ACD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682738123,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380245,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [21]
 		{
-			"tho i do have 41% inspire so maybe i can proc you up to 392", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"I mean Mythic was cleared in under 200 pulls total", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			46, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3242, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738138,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684380247,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [22]
 		{
-			"do it adam, cause you gotta make my r5 one next season lol", -- [1]
-			"Azados-Turalyon", -- [2]
+			"but yea the consensus is emerald nightmare agian", -- [1]
+			"Daleberto-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Daleberto-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			48, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3243, -- [11]
+			"Player-3685-0E203ACD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682738203,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380251,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [23]
 		{
-			"i have the recipe for the embellished shield too", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"coolf ights tho", -- [1]
+			"Daleberto-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Daleberto-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			50, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3244, -- [11]
+			"Player-3685-0E203ACD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738217,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380253,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [24]
 		{
-			"procs vers when you take damage", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"tbf most poeple in their raid tier of difficulty either meet or outgear the tier they're raiding in", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3247, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738166,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684380302,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [25]
 		{
-			"i don't like its stat", -- [1]
-			"Azados-Turalyon", -- [2]
+			"that 2", -- [1]
+			"Daleberto-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Daleberto-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			56, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3257, -- [11]
+			"Player-3685-0E203ACD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682738192,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380326,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [26]
 		{
-			"it's crit or something", -- [1]
-			"Azados-Turalyon", -- [2]
+			"gear availabilty has drastically changed this raid tier, and from everything blizz is saying and showing with micro patches, it looks like they're happy with it.", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			59, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3264, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1682738199,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684380370,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [27]
 		{
-			"yeah i think it is", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"summons r down sumon yoselfff", -- [1]
+			"Daleberto-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Daleberto-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			60, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3266, -- [11]
+			"Player-3685-0E203ACD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738270,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380373,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [28]
 		{
-			"just depends if the free vers is worth a sub optimal secondary", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"I may need an extra minute, important phone call.", -- [1]
+			"Emmyll-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Emmyll-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			61, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3271, -- [11]
+			"Player-3685-0DEA69D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682738233,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Emmyll|r",
+			[51] = 1684380683,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [29]
 		{
-			"LF JC |cffa335ee|Hitem:193001::::::::70:577::13:2:3524:8845:2:40:260:38:8:::::|h[Elemental Lariat |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r PST", -- [1]
-			"Zikio-Turalyon", -- [2]
+			"well whos the back up of the back up tank Adam all on you", -- [1]
+			"Tefdk-Turalyon", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zikio-Turalyon", -- [5]
+			"", -- [4]
+			"Tefdk-Turalyon", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			127, -- [11]
-			"Player-3685-0E0D3C03", -- [12]
+			3272, -- [11]
+			"Player-3685-0DEA20EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Zikio|r",
-			[51] = 1682739985,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc41e3aTefdk|r",
+			[51] = 1684380779,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [30]
 		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Firtha-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682787543,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			51, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682787550,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Yes chef!", -- [1]
+			"D:", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -716,7 +672,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			53, -- [11]
+			3273, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -724,99 +680,1045 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682787558,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684380731,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [31]
+		{
+			"we learn together", -- [1]
+			"Tefdk-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tefdk-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3274, -- [11]
+			"Player-3685-0DEA20EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTefdk|r",
+			[51] = 1684380741,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [32]
+		{
+			"my wep is 402 for prot", -- [1]
+			"Amdam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amdam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3286, -- [11]
+			"Player-3685-0722C2B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684380764,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [33]
 		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
+			"rip", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Firtha-Turalyon", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			61, -- [11]
-			"Player-3685-0DFA7066", -- [12]
+			3289, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682787603,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684380767,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [34]
 		{
-			"Yes chef!", -- [1]
-			"Ghingis-Turalyon", -- [2]
+			"almost synchronized", -- [1]
+			"Addler-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ghingis-Turalyon", -- [5]
+			"Addler-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			65, -- [11]
-			"Player-3685-0AC5A75F", -- [12]
+			3296, -- [11]
+			"Player-3685-0DCC0EEA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGhingis|r",
-			[51] = 1682787614,
+			[52] = "|cffff7c0aAddler|r",
+			[51] = 1684380851,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
+			"i ruined it", -- [1]
+			"Addler-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
+			"Addler-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3297, -- [11]
+			"Player-3685-0DCC0EEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aAddler|r",
+			[51] = 1684380858,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [36]
+		{
+			"dont stare at my ass", -- [1]
+			"Addler-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Addler-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3299, -- [11]
+			"Player-3685-0DCC0EEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aAddler|r",
+			[51] = 1684380877,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [37]
+		{
+			"turns her |Hitem:118427|h|cFFFFFFFF[Autographed Hearthstone Card]|r|h card over, revealing a |cFFFFFFFF[Common Hearthstone Card]|r!", -- [1]
+			"Daleberto-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daleberto-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3300, -- [11]
+			"Player-3685-0E203ACD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684380890,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [38]
+		{
+			"cat dance is fucking lame", -- [1]
+			"Addler-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Addler-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3304, -- [11]
+			"Player-3685-0DCC0EEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aAddler|r",
+			[51] = 1684381000,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [39]
+		{
+			"my wifes hunter had an owlcat pet named pussypecker", -- [1]
+			"Amdam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amdam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3306, -- [11]
+			"Player-3685-0722C2B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684381022,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [40]
+		{
+			"No food (1): Greengreens", -- [1]
+			"Wandappy-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wandappy-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3308, -- [11]
+			"Player-3685-07251FD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1684381030,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [41]
+		{
+			"No flask (3): Wandappy, Aeohunt, Sotzo, Balecry(3), Kunai-Mal'Ganis(3), Sinnaka(3), Amdam(3)", -- [1]
+			"Wandappy-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wandappy-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3309, -- [11]
+			"Player-3685-07251FD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1684381030,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [42]
+		{
+			"Party Buffs All", -- [1]
+			"Wandappy-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wandappy-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3310, -- [11]
+			"Player-3685-07251FD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1684381030,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [43]
+		{
+			"I can try to pull on the phone", -- [1]
+			"Emmyll-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emmyll-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3312, -- [11]
+			"Player-3685-0DEA69D3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Emmyll|r",
+			[51] = 1684381042,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [44]
+		{
+			"Just can't talk", -- [1]
+			"Emmyll-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emmyll-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3313, -- [11]
+			"Player-3685-0DEA69D3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Emmyll|r",
+			[51] = 1684381044,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [45]
+		{
+			"Or listen", -- [1]
+			"Emmyll-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emmyll-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3314, -- [11]
+			"Player-3685-0DEA69D3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Emmyll|r",
+			[51] = 1684381050,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [46]
+		{
+			"o?", -- [1]
+			"Sinnaka-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sinnaka-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3315, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1684381060,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [47]
+		{
+			"we have like 9", -- [1]
+			"Sinnaka-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sinnaka-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3316, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1684381135,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [48]
+		{
+			"we'll wait a few", -- [1]
+			"Wandappy-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wandappy-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3317, -- [11]
+			"Player-3685-07251FD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1684381137,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [49]
+		{
+			"kind of need tanks able to communicate", -- [1]
+			"Wandappy-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Wandappy-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3318, -- [11]
+			"Player-3685-07251FD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1684381083,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [50]
+		{
+			"I'm sorry for this. =(", -- [1]
+			"Emmyll-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emmyll-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3319, -- [11]
+			"Player-3685-0DEA69D3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa330c9Emmyll|r",
+			[51] = 1684381095,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [51]
+		{
+			"hmmm wonder who finished their legendary", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3320, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381108,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [52]
+		{
+			"it was me", -- [1]
+			"Daleberto-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daleberto-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3321, -- [11]
+			"Player-3685-0E203ACD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684381123,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [53]
+		{
+			"Scaleberto", -- [1]
+			"Daleberto-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daleberto-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3322, -- [11]
+			"Player-3685-0E203ACD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeDaleberto|r",
+			[51] = 1684381197,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [54]
+		{
+			"gonna hearth to get an enchant ", -- [1]
+			"Sinnaka-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sinnaka-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3329, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1684381320,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [55]
+		{
+			"it's in post production right now", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3330, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381346,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [56]
+		{
+			"they already finished all the filming for S4", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3331, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381352,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [57]
+		{
+			"umm..no", -- [1]
+			"Sinnaka-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sinnaka-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3333, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1684381413,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [58]
+		{
+			"can wait to kill this boss soon", -- [1]
+			"Criaharn-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Criaharn-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3334, -- [11]
+			"Player-3685-0D2B7D46", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCriaharn|r",
+			[51] = 1684381449,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"will sleep for now", -- [1]
+			"Criaharn-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Criaharn-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3339, -- [11]
+			"Player-3685-0D2B7D46", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCriaharn|r",
+			[51] = 1684381456,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [60]
+		{
+			"what the fudge nut", -- [1]
+			"Criaharn-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Criaharn-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3341, -- [11]
+			"Player-3685-0D2B7D46", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCriaharn|r",
+			[51] = 1684381479,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [61]
+		{
+			"f", -- [1]
+			"Fogdormu-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fogdormu-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3342, -- [11]
+			"Player-3685-0DF7A068", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff33937fFogdormu|r",
+			[51] = 1684381489,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"7/9H on W2 I think we're in a good place", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3343, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381490,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [63]
+		{
+			"^", -- [1]
+			"Addler-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Addler-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3344, -- [11]
+			"Player-3685-0DCC0EEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aAddler|r",
+			[51] = 1684381559,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [64]
+		{
+			"we're still doing great!  you're all amazing", -- [1]
+			"Ctair-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ctair-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3348, -- [11]
+			"Player-3685-081E8037", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff98Ctair|r",
+			[51] = 1684381509,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [65]
+		{
+			"hey", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3349, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381510,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [66]
+		{
+			"biggidy biggidy biggidy biggidy bounce", -- [1]
+			"Criaharn-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Criaharn-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3350, -- [11]
+			"Player-3685-0D2B7D46", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCriaharn|r",
+			[51] = 1684381512,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"you take the god damn loot piniata when it's given to you!", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3354, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381518,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [68]
+		{
+			"sub :/ sub i been tanking here for years", -- [1]
+			"Tefdk-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tefdk-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3356, -- [11]
+			"Player-3685-0DEA20EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTefdk|r",
+			[51] = 1684381522,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [69]
+		{
+			"offended", -- [1]
+			"Tefdk-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tefdk-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3359, -- [11]
+			"Player-3685-0DEA20EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTefdk|r",
+			[51] = 1684381528,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [70]
+		{
+			"thanks everyone!", -- [1]
+			"Hvelt-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hvelt-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3360, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1684381528,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [71]
+		{
+			"at stone, wm off", -- [1]
+			"Shurshik-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shurshik-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-3683-0BC4841D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684390697,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [72]
+		{
+			"wish they would put a portal closer to this ", -- [1]
+			"Därkdeath-Blackhand", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Därkdeath-Blackhand", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-54-0D45C739", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684390705,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [73]
+		{
+			"yea", -- [1]
+			"Shurshik-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shurshik-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-3683-0BC4841D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684390722,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [74]
+		{
+			"|cff71d5ff|Hspell:312372:0|h[Return to Camp]|h|r till can make it on 20 =\\", -- [1]
+			"Shurshik-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shurshik-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-3683-0BC4841D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684390689,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [75]
+		{
+			"lol ive never even seen a 20 lol", -- [1]
+			"Därkdeath-Blackhand", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Därkdeath-Blackhand", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			67, -- [11]
-			"Player-64-0A07CBF2", -- [12]
+			"Player-54-0D45C739", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682787618,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684390763,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [76]
 		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
+			"il lget there one of these days", -- [1]
+			"Därkdeath-Blackhand", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
+			"Därkdeath-Blackhand", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			74, -- [11]
-			"Player-64-08975889", -- [12]
+			68, -- [11]
+			"Player-54-0D45C739", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682787639,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684390794,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [77]
 		{
-			"Yes chef!", -- [1]
+			"forgot potions", -- [1]
+			"Shurshik-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shurshik-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-3683-0BC4841D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684390944,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
+		{
+			"卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -826,7 +1728,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			76, -- [11]
+			92, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -834,99 +1736,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682787889,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+			[51] = 1684391205,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [79]
 		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
+			"ROFLMAO", -- [1]
+			"Därkdeath-Blackhand", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
+			"Därkdeath-Blackhand", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
+			96, -- [11]
+			"Player-54-0D45C739", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682787874,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684391214,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [80]
 		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
+			"bolstering ftw", -- [1]
+			"Därkdeath-Blackhand", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Firtha-Turalyon", -- [5]
+			"Därkdeath-Blackhand", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			97, -- [11]
-			"Player-3685-0DFA7066", -- [12]
+			99, -- [11]
+			"Player-54-0D45C739", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682787878,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684391162,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [81]
 		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
+			"that bolster lol", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
+			"Amdam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			100, -- [11]
+			"Player-3685-0722C2B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684391164,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [82]
+		{
+			"it hurts a bit =_=", -- [1]
+			"Shurshik-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shurshik-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			101, -- [11]
-			"Player-64-0A07CBF2", -- [12]
+			"Player-3683-0BC4841D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682787949,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684391174,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [83]
 		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
+			"oopsie", -- [1]
+			"Icedcoffeex-Dalaran", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
+			"Icedcoffeex-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			109, -- [11]
-			"Player-64-08975889", -- [12]
+			102, -- [11]
+			"Player-3683-0D1E6CF4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682787933,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+			[52] = "|cffffffffIcedcoffeex-Dalaran|r",
+			[51] = 1684391236,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [84]
 		{
-			"Yes chef!", -- [1]
+			"adds >>> boss", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -936,7 +1860,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			113, -- [11]
+			108, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -944,99 +1868,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788012,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+			[51] = 1684391339,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
 		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
+			"expecially 3rd one", -- [1]
+			"Shurshik-Dalaran", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
+			"Shurshik-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			116, -- [11]
-			"Player-64-0A07CBF2", -- [12]
+			110, -- [11]
+			"Player-3683-0BC4841D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788019,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684391290,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
 		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Firtha-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			117, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682787963,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"Yes chef!", -- [1]
-			"Crixor-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Crixor-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			120, -- [11]
-			"Player-3685-0708E71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaCrixor|r",
-			[51] = 1682787972,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			121, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682787974,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"Yes chef!", -- [1]
+			"stand still when shatter on ground", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1046,7 +1904,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			128, -- [11]
+			111, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1054,87 +1912,87 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788073,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+			[51] = 1684391291,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [87]
 		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
+			"卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			131, -- [11]
-			"Player-64-08975889", -- [12]
+			132, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788023,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684391517,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [88]
 		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
+			"feck me lol", -- [1]
+			"Därkdeath-Blackhand", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
+			"Därkdeath-Blackhand", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			133, -- [11]
-			"Player-64-0A07CBF2", -- [12]
+			"Player-54-0D45C739", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788027,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684391462,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [89]
 		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
+			"release?", -- [1]
+			"Därkdeath-Blackhand", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Firtha-Turalyon", -- [5]
+			"Därkdeath-Blackhand", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			134, -- [11]
+			"Player-54-0D45C739", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684391467,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [90]
+		{
+			"卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺", -- [1]
+			"Amdam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			137, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682788033,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			141, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1142,869 +2000,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788043,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"Yes chef!", -- [1]
-			"Yaros-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yaros-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			143, -- [11]
-			"Player-3685-06F78BF1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dYaros|r",
-			[51] = 1682788048,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682788123,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			160, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788129,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			169, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788103,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
-		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-64-0A07CBF2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788108,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
-		{
-			"Yes chef!", -- [1]
-			"Yaros-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yaros-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			175, -- [11]
-			"Player-3685-06F78BF1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dYaros|r",
-			[51] = 1682788184,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Firtha-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682788188,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			180, -- [11]
-			"Player-64-08975889", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788194,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			182, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			187, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682788163,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			197, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788243,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			206, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788213,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			209, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682788218,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			211, -- [11]
-			"Player-64-0A07CBF2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788222,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"Yes chef!", -- [1]
-			"Yaros-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yaros-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			"Player-3685-06F78BF1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dYaros|r",
-			[51] = 1682788235,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Firtha-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			219, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682788240,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			220, -- [11]
-			"Player-64-08975889", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788304,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			222, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788308,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			234, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682788283,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			241, -- [11]
-			"Player-64-0A07CBF2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788293,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
-		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			249, -- [11]
-			"Player-64-08975889", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788366,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			251, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788374,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			257, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788333,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"Yes chef!", -- [1]
-			"Yaros-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yaros-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-3685-06F78BF1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dYaros|r",
-			[51] = 1682788434,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788385,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-64-08975889", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788409,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			277, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788414,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			279, -- [11]
-			"Player-64-0A07CBF2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788418,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			288, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788463,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
-		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Firtha-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			294, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682788473,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			296, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682788478,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
-		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			298, -- [11]
-			"Player-64-08975889", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788543,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
-		{
-			"Yes chef!", -- [1]
-			"Maschine-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Maschine-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			302, -- [11]
-			"Player-64-0A07CBF2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMaschine-Bloodhoof|r",
-			[51] = 1682788553,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
-		{
-			"Yes chef!", -- [1]
-			"Yaros-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yaros-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			304, -- [11]
-			"Player-3685-06F78BF1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dYaros|r",
-			[51] = 1682788508,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			312, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788528,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Firtha-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			325, -- [11]
-			"Player-3685-0DFA7066", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682788617,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"Yes chef!", -- [1]
-			"Slythe-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Slythe-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			327, -- [11]
-			"Player-64-088A96F5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Slythe-Duskwood|r",
-			[51] = 1682788564,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
-		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Amdam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			330, -- [11]
-			"Player-3685-0722C2B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788569,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
-		{
-			"Yes chef!", -- [1]
-			"Ezdoesit-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ezdoesit-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			334, -- [11]
-			"Player-3685-0DFC82C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fEzdoesit|r",
-			[51] = 1682788573,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684391755,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"Yes chef!", -- [1]
+			"卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2014,7 +2014,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			343, -- [11]
+			155, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2022,99 +2022,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788588,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1684392212,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"Yes chef!", -- [1]
-			"Belládonna-Duskwood", -- [2]
+			"gg fellas", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Belládonna-Duskwood", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			347, -- [11]
-			"Player-64-08975889", -- [12]
+			185, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Belládonna-Duskwood|r",
-			[51] = 1682788599,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1684392505,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"Yes chef!", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"need helm?", -- [1]
+			"Icedcoffeex-Dalaran", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Icedcoffeex-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			353, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			186, -- [11]
+			"Player-3683-0D1E6CF4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788674,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffIcedcoffeex-Dalaran|r",
+			[51] = 1684392506,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [94]
 		{
-			"Yes chef!", -- [1]
-			"Firtha-Turalyon", -- [2]
+			"tyy", -- [1]
+			"Icedcoffeex-Dalaran", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Firtha-Turalyon", -- [5]
+			"Icedcoffeex-Dalaran", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			356, -- [11]
-			"Player-3685-0DFA7066", -- [12]
+			188, -- [11]
+			"Player-3683-0D1E6CF4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff33937fFirtha|r",
-			[51] = 1682788679,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffIcedcoffeex-Dalaran|r",
+			[51] = 1684392517,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [95]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:16529:Player-3685-0722C2B9:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Joining the Community]|h|r!", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"tyfg gg", -- [1]
+			"Därkdeath-Blackhand", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Därkdeath-Blackhand", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			373, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			189, -- [11]
+			"Player-54-0D45C739", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788990,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff8788eeDärkdeath-Blackhand|r",
+			[51] = 1684392524,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:16549:Player-3685-0722C2B9:1:4:29:23:4294967295:4294967295:4294967295:4294967295|h[Popular Around the Isles]|h|r!", -- [1]
+			"tyfg", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2124,7 +2124,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			378, -- [11]
+			194, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2132,75 +2132,75 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1682788990,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[51] = 1684392527,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"LF lariat crafter base infusion + missive need full qual 2k tip pst", -- [1]
-			"Sindús-Turalyon", -- [2]
+			"gg", -- [1]
+			"Shurshik-Dalaran", -- [2]
 			"", -- [3]
-			"6. Trade (Services) - City", -- [4]
-			"Sindús-Turalyon", -- [5]
+			"", -- [4]
+			"Shurshik-Dalaran", -- [5]
 			"", -- [6]
-			42, -- [7]
-			6, -- [8]
-			"Trade (Services) - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			458, -- [11]
-			"Player-3685-0A9649ED", -- [12]
+			195, -- [11]
+			"Player-3683-0BC4841D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Sindús|r",
-			[51] = 1682790166,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff00ff98Shurshik-Dalaran|r",
+			[51] = 1684392527,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [98]
 		{
-			"LF lariat crafter base infusion + missive need full qual 2k tip pst", -- [1]
-			"Sindús-Turalyon", -- [2]
-			"", -- [3]
-			"6. Trade (Services) - City", -- [4]
-			"Sindús-Turalyon", -- [5]
+			"uruk g maka mog", -- [1]
+			"Owy-Turalyon", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Owy-Turalyon", -- [5]
 			"", -- [6]
-			42, -- [7]
-			6, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			59, -- [11]
-			"Player-3685-0A9649ED", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			8, -- [11]
+			"Player-3685-0975125D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Sindús|r",
-			[51] = 1682791513,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa330c9Owy|r",
+			[51] = 1684441241,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/g hmm my rogue might be too scrub for those, i think hes like 392ish", -- [1]
-		"/g |cffa335ee|Hitem:141000::::::::70:70:::1:3524::::::|h[Replica Lion's Heart]|h|r", -- [2]
-		"/p yea we vibin", -- [3]
-		"/p yea we got externals", -- [4]
-		"/p invis", -- [5]
-		"/p come die at top of the bridge", -- [6]
-		"/simc", -- [7]
-		"/g first try r5 aly", -- [8]
-		"/g yeah lol i was only like 40 skill off of guaranteed r5", -- [9]
-		"/g not real well lol", -- [10]
-		"/g ive been pooling points tho until i have a use for any of the armorsmith recipes", -- [11]
-		"/g i think i have enough to learn the shield and get a couple extra points", -- [12]
-		"/g the primal molten one?", -- [13]
-		"/g ah yeah, i can dump points and learn it but i'm still a ways off from doing concentrated r5", -- [14]
-		"/g tho i do have 41% inspire so maybe i can proc you up to 392", -- [15]
-		"/g i have the recipe for the embellished shield too", -- [16]
-		"/g procs vers when you take damage", -- [17]
-		"/g yeah i think it is", -- [18]
-		"/g just depends if the free vers is worth a sub optimal secondary", -- [19]
-		"/knp", -- [20]
+		"/cw Hvelt-Turalyon niice thats a big boost", -- [1]
+		"/cw Hvelt-Turalyon yeah most are 10-12 ilvls ahead of wher eyou were yesterday", -- [2]
+		"/cw Hvelt-Turalyon yeah though ideally everyone takes a turn sitting for mythic farm", -- [3]
+		"/cw Hvelt-Turalyon dont consistently die to avoidable mechanics and you'll be fine :p", -- [4]
+		"/cw Hvelt-Turalyon yeah you'll be all caught up in no time", -- [5]
+		"/cw Hvelt-Turalyon couple more weeks", -- [6]
+		"/cw Hvelt-Turalyon yeah the first couple weeks i usually reserve my need rolls for trinkets, weapons, and tier tokens", -- [7]
+		"/cw Hvelt-Turalyon yeah i usually just look at parses and try similar talent setups and stuff", -- [8]
+		"/cw Hvelt-Turalyon lol", -- [9]
+		"/cw Hvelt-Turalyon :\"", -- [10]
+		"/cw Hvelt-Turalyon my toddler says hi apparently lol", -- [11]
+		"/raid D:", -- [12]
+		"/raid my wep is 402 for prot", -- [13]
+		"/raid rip", -- [14]
+		"/s my wifes hunter had an owlcat pet named pussypecker", -- [15]
+		"/p that bolster lol", -- [16]
+		"/p adds >>> boss", -- [17]
+		"/p stand still when shatter on ground", -- [18]
+		"/p gg fellas", -- [19]
+		"/p tyfg", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

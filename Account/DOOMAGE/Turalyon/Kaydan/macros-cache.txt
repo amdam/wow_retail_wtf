@@ -1,13 +1,18 @@
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Torment; /cast [modifier:alt] Throw Glaive;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cast [mod:alt] Throw Glaive; [known:The Hunt] The Hunt; Throw Glaive;
+/script UIErrorsFrame:Clear()
+END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Eye Beam
 /startattack
 /use 13
 /cast Eye Beam;
-/script UIErrorsFrame:Clear()
-END
-VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/startattack
-/cast [nomodifier] Torment; /cast [modifier:alt] Throw Glaive;
 /script UIErrorsFrame:Clear()
 END

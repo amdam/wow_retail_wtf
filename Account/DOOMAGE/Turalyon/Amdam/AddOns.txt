@@ -221,3 +221,6 @@ LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+BigWigs_Aberrus: enabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Cataclysm: enabled

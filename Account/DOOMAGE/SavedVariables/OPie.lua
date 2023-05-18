@@ -3,21 +3,21 @@ OneRing_Config = nil
 OPie_SavedData = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "10.0.7",
-	["_OPieVersion"] = "Yuzu 8a (4.114)",
+	["_GameVersion"] = "10.1.0",
+	["_OPieVersion"] = "Yuzu 9 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
 				["ipmentSets1"] = false,
 				["CommonTrades"] = false,
-				["PaladinAuras"] = "ALT-P",
+				["ipmentsets"] = false,
 				["ipmentSets2"] = "NUMPAD5",
-				["ipmentSets"] = false,
+				["OPieTrinkets"] = false,
 				["OPieTracking"] = false,
 				["MageTravel"] = "ALT-P",
 				["WorldMarkers"] = "SHIFT-R",
-				["OPieTrinkets"] = false,
-				["ipmentsets"] = false,
+				["ipmentSets"] = false,
+				["PaladinAuras"] = "ALT-P",
 			},
 		},
 	},
@@ -30,8 +30,8 @@ OPie_SavedData = {
 				{
 					"equipmentset", -- [1]
 					"prot", -- [2]
-					["sliceToken"] = "ABueskpEsp4",
 					["show"] = "[spec:71/72] hide;",
+					["sliceToken"] = "ABueskpEsp4",
 				}, -- [1]
 				{
 					"equipmentset", -- [1]
@@ -42,8 +42,8 @@ OPie_SavedData = {
 				{
 					"equipmentset", -- [1]
 					"fury", -- [2]
-					["sliceToken"] = "ABueskpEspg",
 					["show"] = "[spec:73/71] hide;",
+					["sliceToken"] = "ABueskpEspg",
 				}, -- [3]
 				{
 					"equipmentset", -- [1]
@@ -145,8 +145,8 @@ OPie_SavedData = {
 					["c"] = "ffac3d",
 					["id"] = 2656,
 				}, -- [11]
-				["name"] = "Trade Skills",
 				["version"] = 4,
+				["name"] = "Trade Skills",
 				["save"] = true,
 				["hotkey"] = "ALT-T",
 			},
@@ -172,10 +172,10 @@ OPie_SavedData = {
 					["show"] = "[spec:269/270] hide;",
 					["sliceToken"] = "ABuesV=A73u",
 				}, -- [3]
-				["limit"] = "Furrys-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Furrys-Turalyon",
 			},
 			["PaladinAuras"] = {
 				{
@@ -196,35 +196,35 @@ OPie_SavedData = {
 					["id"] = 25780,
 					["sliceToken"] = "OPCPAf",
 				}, -- [4]
-				["limit"] = "PALADIN",
+				["name"] = "Paladin Buffs",
 				["save"] = true,
 				["hotkey"] = "ALT-P",
-				["name"] = "Paladin Buffs",
+				["limit"] = "PALADIN",
 			},
 			["MageTravel"] = {
 				{
-					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 					["sliceToken"] = "OPCMPb",
+					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 				}, -- [1]
 				{
-					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 					["sliceToken"] = "OPCMPv",
+					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 				}, -- [2]
 				{
-					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 					["sliceToken"] = "OPCMPr",
+					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 				}, -- [3]
 				{
-					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 					["sliceToken"] = "OPCMPs",
+					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 				}, -- [4]
 				{
-					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
 					["sliceToken"] = "OPCMPw",
+					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
 				}, -- [5]
 				{
-					["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 					["sliceToken"] = "OPCMPd",
+					["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 				}, -- [6]
 				{
 					["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
@@ -235,8 +235,8 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCMPu",
 				}, -- [8]
 				{
-					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 					["sliceToken"] = "OPCMPi",
+					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 				}, -- [9]
 				{
 					["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
@@ -253,25 +253,25 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCMPl",
 				}, -- [12]
 				{
-					["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
 					["sliceToken"] = "OPCMPx",
+					["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
 				}, -- [13]
 				{
-					["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
 					["sliceToken"] = "ABue3Xt7/Yi",
+					["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
 				}, -- [14]
 				{
-					["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
 					["sliceToken"] = "ABuekYV=u8a",
+					["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
 				}, -- [15]
 				{
-					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 					["sliceToken"] = "ABuevQ2QUi2",
+					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 				}, -- [16]
+				["name"] = "Portals and Teleports",
 				["limit"] = "MAGE",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
-				["name"] = "Portals and Teleports",
 			},
 			["ipmentSets"] = {
 				{
@@ -315,10 +315,10 @@ OPie_SavedData = {
 					["show"] = "[spec:70/66] hide;",
 					["sliceToken"] = "ABues6epD11",
 				}, -- [7]
-				["limit"] = "Amdam-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Amdam-Turalyon",
 			},
 			["ipmentsets"] = {
 				{

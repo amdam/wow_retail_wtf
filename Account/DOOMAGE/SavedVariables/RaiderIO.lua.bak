@@ -16,15 +16,7 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-	["us-Tearion-turalyon"] = true,
-	["us-Snoopchien-turalyon"] = true,
-	["us-Nazgro-turalyon"] = true,
-	["us-Dreadglaive-turalyon"] = true,
-	["us-Sisterwhite-turalyon"] = true,
-	["us-Howsmyhair-turalyon"] = true,
-	["us-Hythir-turalyon"] = true,
-	["us-Unknown-turalyon"] = true,
-	["us-Msyba-turalyon"] = true,
+	["us-Aenivan-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

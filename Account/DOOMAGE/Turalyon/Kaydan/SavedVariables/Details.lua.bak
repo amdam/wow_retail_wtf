@@ -34,8 +34,8 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["end_time"] = 1680371411,
-							["classe"] = "DEMONHUNTER",
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["last_dps"] = 48.64051848566304,
+							["on_hold"] = false,
 							["nome"] = "Kaydan",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -71,14 +71,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["last_dps"] = 48.64051848566304,
-							["tipo"] = 1,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "DEMONHUNTER",
 							["custom"] = 0,
 							["last_event"] = 1680371410,
 							["damage_taken"] = 0.002453,
 							["start_time"] = 1680371411,
 							["delay"] = 0,
-							["on_hold"] = false,
+							["tipo"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 2600,
@@ -88,17 +88,17 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["tipo"] = 1,
+							["damage_taken"] = 50.006368,
 							["damage_from"] = {
 								["Kaydan"] = true,
 							},
-							["friendlyfire_total"] = 0,
+							["aID"] = "62114",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006368,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_dps"] = 0,
 							["dps_started"] = false,
+							["fight_component"] = true,
 							["total"] = 0.006368,
 							["classe"] = "UNKNOW",
 							["delay"] = 0,
@@ -108,17 +108,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
 							["end_time"] = 1680371411,
-							["damage_taken"] = 50.006368,
-							["aID"] = "62114",
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 0,
+							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["start_time"] = 1680371411,
 							["serial"] = "Creature-0-3138-1-8395-62114-0000286EB2",
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -144,23 +144,23 @@ _detalhes_database = {
 							["classe"] = "DEMONHUNTER",
 							["totalover"] = 0.006397,
 							["alternatepower"] = 0.006397,
+							["resource_type"] = 17,
+							["spec"] = 577,
+							["nome"] = "Kaydan",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["last_event"] = 1680371485,
-							["nome"] = "Kaydan",
-							["spec"] = 577,
 							["grupo"] = true,
-							["passiveover"] = 0.006397,
 							["total"] = 0.006397,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["tipo"] = 3,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["last_event"] = 1680371485,
 							["received"] = 0.006397,
 							["aID"] = "3685-0A95F80C",
 							["serial"] = "Player-3685-0A95F80C",
-							["resource_type"] = 17,
+							["passiveover"] = 0.006397,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -171,8 +171,9 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1047,
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["buff_uptime"] = 4,
-							["classe"] = "DEMONHUNTER",
+							["pets"] = {
+							},
+							["aID"] = "3685-0A95F80C",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[270661] = {
@@ -225,15 +226,14 @@ _detalhes_database = {
 							["nome"] = "Kaydan",
 							["spec"] = 577,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["tipo"] = 4,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["last_event"] = 1680371411,
-							["tipo"] = 4,
+							["buff_uptime"] = 4,
 							["buff_uptime_targets"] = {
 							},
 							["serial"] = "Player-3685-0A95F80C",
-							["aID"] = "3685-0A95F80C",
+							["classe"] = "DEMONHUNTER",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -258,8 +258,8 @@ _detalhes_database = {
 				["combat_counter"] = 9,
 				["overall_added"] = true,
 				["totals"] = {
-					50, -- [1]
-					0, -- [2]
+					49.989963, -- [1]
+					-0.005673, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
@@ -322,9 +322,6 @@ _detalhes_database = {
 				["spells_cast_timeline"] = {
 				},
 				["data_fim"] = "11:50:11",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
-				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -344,6 +341,9 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
+				["CombatSkillCache"] = {
+				},
+				["instance_type"] = "none",
 				["start_time"] = 761549.7490000001,
 				["TimeData"] = {
 				},
@@ -425,7 +425,24 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["data_inicio"] = 0,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
 				["end_time"] = 761549.3030000001,
 				["overall_added"] = true,
 				["frags"] = {
@@ -456,24 +473,7 @@ _detalhes_database = {
 				},
 				["CombatSkillCache"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
+				["data_inicio"] = 0,
 				["start_time"] = 0,
 				["TimeData"] = {
 				},
@@ -588,7 +588,10 @@ _detalhes_database = {
 		["track_hunter_frenzy"] = false,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["force_font_outline"] = "",
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["enabled"] = true,
@@ -673,11 +676,11 @@ _detalhes_database = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
 				299.9998779296875, -- [1]
 				499.9999389648438, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 3.275031181068463,
 				["radius"] = 160,
@@ -685,30 +688,19 @@ _detalhes_database = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
-			["use_spark"] = true,
+			["author"] = "Details! Team",
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
+			["y"] = -4.57763671875e-05,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["author"] = "Details! Team",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = -4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -720,6 +712,17 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["font_size"] = 10,
 			["x"] = -6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
@@ -734,13 +737,13 @@ _detalhes_database = {
 			["scale"] = 1,
 		},
 	},
-	["last_instance_time"] = 0,
+	["last_day"] = "01",
 	["announce_damagerecord"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["data_harvested_for_charts"] = {
-	},
+	["force_font_outline"] = "",
+	["last_instance_time"] = 0,
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
 		["started"] = false,
@@ -752,22 +755,18 @@ _detalhes_database = {
 		["dungeon_zone_id"] = 0,
 		["previous_boss_killed_at"] = 0,
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
 	["character_data"] = {
-		["logons"] = 4,
+		["logons"] = 6,
 	},
 	["ignore_nicktag"] = false,
 	["combat_id"] = 1,
 	["savedStyles"] = {
 	},
 	["nick_tag_cache"] = {
-		["nextreset"] = 1681667386,
+		["nextreset"] = 1684273647,
 		["last_version"] = 15,
 	},
-	["combat_counter"] = 10,
+	["combat_counter"] = 12,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -798,14 +797,11 @@ _detalhes_database = {
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["friendlyfire_total"] = 0,
 					["dps_started"] = false,
-					["total"] = 50.00494800000001,
-					["on_hold"] = false,
+					["end_time"] = 1680371411,
+					["friendlyfire"] = {
+					},
 					["last_dps"] = 0,
 					["nome"] = "Kaydan",
-					["spec"] = 577,
-					["grupo"] = true,
-					["end_time"] = 1680371411,
-					["aID"] = "3685-0A95F80C",
 					["spells"] = {
 						["_ActorTable"] = {
 							[258922] = {
@@ -838,13 +834,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
+					["grupo"] = true,
+					["total"] = 50.00494800000001,
+					["aID"] = "3685-0A95F80C",
+					["spec"] = 577,
 					["custom"] = 0,
-					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["tipo"] = 1,
+					["on_hold"] = false,
 					["start_time"] = 1680371408,
 					["serial"] = "Player-3685-0A95F80C",
-					["tipo"] = 1,
+					["last_event"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 2600,
@@ -858,15 +857,15 @@ _detalhes_database = {
 					["damage_from"] = {
 						["Kaydan"] = true,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "62114",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.013308,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["on_hold"] = false,
+					["damage_taken"] = 50.013308,
 					["fight_component"] = true,
 					["total"] = 0.013308,
-					["aID"] = "62114",
+					["friendlyfire_total"] = 0,
 					["delay"] = 0,
 					["nome"] = "Spiny Lizard",
 					["spells"] = {
@@ -876,15 +875,15 @@ _detalhes_database = {
 					},
 					["dps_started"] = false,
 					["end_time"] = 1680371411,
-					["damage_taken"] = 50.013308,
-					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
 					["start_time"] = 1680371408,
 					["serial"] = "Creature-0-3138-1-8395-62114-0000286EB2",
-					["friendlyfire_total"] = 0,
+					["tipo"] = 1,
 				}, -- [2]
 			},
 		}, -- [1]
@@ -898,33 +897,33 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["resource"] = 20.010405,
+					["resource"] = 60.023199,
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["targets"] = {
 					},
-					["passiveover"] = 0.004008,
 					["pets"] = {
 					},
 					["powertype"] = 1,
-					["resource_type"] = 17,
 					["classe"] = "DEMONHUNTER",
-					["totalover"] = 0.004008,
+					["passiveover"] = 0.004008,
+					["resource_type"] = 17,
 					["alternatepower"] = 0.004008,
-					["last_event"] = 0,
-					["spec"] = 577,
+					["totalover"] = 0.004008,
 					["nome"] = "Kaydan",
+					["spec"] = 577,
+					["grupo"] = true,
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 7,
 					},
-					["grupo"] = true,
 					["aID"] = "3685-0A95F80C",
-					["received"] = 0.004008,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["tipo"] = 3,
-					["total"] = 0.004008,
+					["last_event"] = 0,
+					["received"] = 0.004008,
 					["serial"] = "Player-3685-0A95F80C",
+					["total"] = 0.004008,
 				}, -- [1]
 			},
 		}, -- [3]
@@ -935,7 +934,7 @@ _detalhes_database = {
 					["flag_original"] = 1047,
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["buff_uptime"] = 4,
-					["classe"] = "UNGROUPPLAYER",
+					["aID"] = "3685-0A95F80C",
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[270661] = {
@@ -984,15 +983,15 @@ _detalhes_database = {
 					["nome"] = "Kaydan",
 					["spec"] = 577,
 					["grupo"] = true,
-					["pets"] = {
-					},
+					["last_event"] = 0,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["tipo"] = 4,
-					["aID"] = "3685-0A95F80C",
+					["classe"] = "UNGROUPPLAYER",
 					["buff_uptime_targets"] = {
 					},
 					["serial"] = "Player-3685-0A95F80C",
-					["last_event"] = 0,
+					["pets"] = {
+					},
 				}, -- [1]
 			},
 		}, -- [4]
@@ -1005,10 +1004,22 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["cleu_timeline"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 1.027999999932945,
+				["type"] = 0,
+				["name"] = "Spiny Lizard",
+				["clock"] = "11:50:10",
+			}, -- [1]
+			{
+				["elapsed"] = 761549.3030000001,
+				["type"] = 0,
+				["name"] = "Unknown",
+				["clock"] = 0,
+			}, -- [2]
 		},
 		["tempo_start"] = 761522.24,
-		["last_events_tables"] = {
+		["cleu_timeline"] = {
 		},
 		["alternate_power"] = {
 		},
@@ -1045,6 +1056,8 @@ _detalhes_database = {
 		},
 		["data_inicio"] = "11:50:10",
 		["end_time"] = 761550.777,
+		["last_events_tables"] = {
+		},
 		["totals_grupo"] = {
 			50.002453, -- [1]
 			0, -- [2]
@@ -1080,20 +1093,6 @@ _detalhes_database = {
 			},
 			["damage_section"] = {
 			},
-		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 1.027999999932945,
-				["type"] = 0,
-				["name"] = "Spiny Lizard",
-				["clock"] = "11:50:10",
-			}, -- [1]
-			{
-				["elapsed"] = 761549.3030000001,
-				["type"] = 0,
-				["name"] = "Unknown",
-				["clock"] = 0,
-			}, -- [2]
 		},
 		["hasSaved"] = true,
 		["spells_cast_timeline"] = {
@@ -1182,8 +1181,9 @@ _detalhes_database = {
 			},
 		}, -- [2]
 	},
-	["last_day"] = "05",
 	["mythic_plus_log"] = {
+	},
+	["data_harvested_for_charts"] = {
 	},
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {

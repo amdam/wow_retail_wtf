@@ -20,10 +20,10 @@ X: 0
 Y: 0
 W: 365
 H: 239
-Frame: LootHistoryFrame
+Frame: GroupLootHistoryFrame
 FrameLevel: 1
-Anchor: BOTTOM
-X: 402
-Y: 247
-W: 210
-H: 175
+Anchor: RIGHT
+X: -3
+Y: 138
+W: 261
+H: 590

@@ -37,7 +37,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1679961983,
 							["last_dps"] = 2586.723755036326,
-							["on_hold"] = false,
+							["classe"] = "HUNTER",
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -138,14 +138,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
-							["custom"] = 0,
+							["on_hold"] = false,
 							["last_event"] = 1679961976,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["damage_taken"] = 0.00416,
 							["start_time"] = 1679961983,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -157,10 +157,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["damage_taken"] = 0.006628,
 							["damage_from"] = {
 							},
-							["classe"] = "PET",
+							["aID"] = "Pet-0-3783-2444-199-165189-0301C1273B",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7208.006628,
@@ -168,7 +168,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["total"] = 7208.006628,
-							["aID"] = "Pet-0-3783-2444-199-165189-0301C1273B",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -233,15 +233,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 0.006628,
+							["classe"] = "PET",
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1679961975,
-							["on_hold"] = false,
-							["start_time"] = 1679961983,
-							["serial"] = "Pet-0-3783-2444-199-165189-0301C1273B",
 							["friendlyfire"] = {
 							},
+							["start_time"] = 1679961983,
+							["serial"] = "Pet-0-3783-2444-199-165189-0301C1273B",
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -253,10 +253,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["damage_taken"] = 0.007873,
 							["damage_from"] = {
 							},
-							["classe"] = "PET",
+							["aID"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5580.007873000001,
@@ -264,7 +264,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["total"] = 5580.007873000001,
-							["aID"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -357,15 +357,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["delay"] = 0,
-							["friendlyfire_total"] = 0,
-							["damage_taken"] = 0.007873,
+							["classe"] = "PET",
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1679961976,
-							["on_hold"] = false,
-							["start_time"] = 1679961983,
-							["serial"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
 							["friendlyfire"] = {
 							},
+							["start_time"] = 1679961983,
+							["serial"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -391,20 +391,20 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["aID"] = "195968",
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007484,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
-							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
 							["end_time"] = 1679961983,
-							["monster"] = true,
+							["on_hold"] = false,
 							["damage_taken"] = 106478.007484,
 							["nome"] = "Angerdrool",
 							["spells"] = {
@@ -412,17 +412,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
+							["fight_component"] = true,
 							["total"] = 0.007484,
 							["delay"] = 0,
 							["last_dps"] = 0,
-							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
-							["start_time"] = 1679961983,
-							["serial"] = "Creature-0-3783-2444-199-195968-0000222F5B",
 							["friendlyfire"] = {
 							},
+							["start_time"] = 1679961983,
+							["serial"] = "Creature-0-3783-2444-199-195968-0000222F5B",
+							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -449,20 +449,20 @@ _detalhes_database = {
 							["alternatepower"] = 13.003493,
 							["aID"] = "3685-0717BEFC",
 							["nome"] = "Adrid",
+							["spec"] = 253,
+							["grupo"] = true,
+							["passiveover"] = 0.003493,
+							["last_event"] = 0,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["tipo"] = 3,
+							["total"] = 0.003493,
+							["received"] = 0.003493,
+							["serial"] = "Player-3685-0717BEFC",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["grupo"] = true,
-							["passiveover"] = 0.003493,
-							["tipo"] = 3,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
-							["total"] = 0.003493,
-							["received"] = 0.003493,
-							["serial"] = "Player-3685-0717BEFC",
-							["spec"] = 253,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -600,22 +600,22 @@ _detalhes_database = {
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
-							["tipo"] = 4,
+							["aID"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
+							["classe"] = "PET",
 							["spell_cast"] = {
 								[2649] = 1,
 								[61684] = 1,
 								[17253] = 1,
 							},
 							["serial"] = "Pet-0-3783-2444-17839-165189-0102D5F459",
-							["last_event"] = 0,
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -636,7 +636,7 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 					["Adrid"] = {
-						["last"] = 6,
+						["last"] = 0,
 						["total"] = 13,
 					},
 				},
@@ -645,11 +645,11 @@ _detalhes_database = {
 				},
 				["playing_solo"] = true,
 				["totals"] = {
-					23145.90551399998, -- [1]
-					-0.011885, -- [2]
+					23145.88764200005, -- [1]
+					-0.013645, -- [2]
 					{
 						-0.004953000000000429, -- [1]
-						[0] = -0.01716800000001685,
+						[0] = -0.02615300000001685,
 						["alternatepower"] = 0,
 						[6] = 0,
 						[3] = 0,
@@ -701,6 +701,9 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
+				["data_inicio"] = "18:06:14",
+				["end_time"] = 352113.769,
+				["combat_id"] = 2884,
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -720,9 +723,6 @@ _detalhes_database = {
 					["damage_section"] = {
 					},
 				},
-				["end_time"] = 352113.769,
-				["combat_id"] = 2884,
-				["data_inicio"] = "18:06:14",
 				["tempo_start"] = 1679961974,
 				["spells_cast_timeline"] = {
 				},
@@ -747,15 +747,15 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1300,
 							["totalabsorbed"] = 0.003837,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["targets"] = {
 								["Darktooth Renderer"] = 31031,
 								["Darktooth Stalker"] = 28447,
 								["Darktooth Spirit-Caller"] = 60567,
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -764,16 +764,16 @@ _detalhes_database = {
 								["Darktooth Stalker"] = true,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["aID"] = "3685-0717BEFC",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 38916.003837,
-							["end_time"] = 1679364638,
-							["aID"] = "3685-0717BEFC",
-							["dps_started"] = false,
-							["total"] = 120045.003837,
 							["last_dps"] = 3673.010550959215,
-							["friendlyfire_total"] = 0,
+							["classe"] = "HUNTER",
+							["dps_started"] = false,
+							["end_time"] = 1679364638,
+							["on_hold"] = false,
+							["total"] = 120045.003837,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -794,9 +794,9 @@ _detalhes_database = {
 											[11] = 12470,
 											[17] = 12470,
 											[8] = 12470,
-											[14] = 12470,
-											[29] = 12470,
 											[26] = 12470,
+											[29] = 12470,
+											[14] = 12470,
 											[23] = 12470,
 											[20] = 12470,
 										},
@@ -912,9 +912,9 @@ _detalhes_database = {
 											[11] = 5217,
 											[17] = 5217,
 											[8] = 5217,
-											[14] = 5217,
-											[29] = 5217,
 											[26] = 5217,
+											[29] = 5217,
+											[14] = 5217,
 											[23] = 5217,
 											[20] = 5217,
 										},
@@ -1001,13 +1001,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 4843.005672,
 							["damage_from"] = {
 								["Darktooth Renderer"] = true,
 								["Darktooth Stalker"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 44999.005672,
@@ -1015,7 +1014,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364638,
-							["friendlyfire_total"] = 0,
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -1144,14 +1143,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["classe"] = "PET",
-							["damage_taken"] = 4843.005672,
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 1679364637,
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["start_time"] = 1679364638,
 							["delay"] = 0,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -1165,11 +1165,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.00886,
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 36130.00886,
@@ -1177,7 +1176,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364638,
-							["friendlyfire_total"] = 0,
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -1276,14 +1275,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
-							["damage_taken"] = 0.00886,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 1679364637,
-							["on_hold"] = false,
+							["last_dps"] = 0,
 							["start_time"] = 1679364638,
 							["delay"] = 0,
-							["last_dps"] = 0,
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -1304,21 +1304,21 @@ _detalhes_database = {
 								["Susztam-Bloodhoof"] = 1113,
 								["Chalupa <Adrid>"] = 3225,
 							},
-							["fight_component"] = true,
+							["end_time"] = 1679364638,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24984.005095,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["aID"] = "195270",
 							["monster"] = true,
-							["end_time"] = 1679364638,
+							["total"] = 24984.005095,
 							["last_dps"] = 0,
-							["on_hold"] = false,
+							["dps_started"] = false,
 							["nome"] = "Darktooth Stalker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1339,7 +1339,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 29,
 										["DODGE"] = 1,
-										["r_amt"] = 0,
+										["total"] = 13563,
 										["c_max"] = 0,
 										["a_dmg"] = 1914,
 										["id"] = 1,
@@ -1354,7 +1354,7 @@ _detalhes_database = {
 										["a_amt"] = 3,
 										["n_amt"] = 20,
 										["b_dmg"] = 3353,
-										["total"] = 13563,
+										["r_amt"] = 0,
 									}, -- [1]
 									[372397] = {
 										["c_amt"] = 0,
@@ -1392,17 +1392,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
-							["total"] = 24984.005095,
 							["serial"] = "Creature-0-4217-2444-210-195270-0000190473",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
+							["fight_component"] = true,
 							["last_event"] = 1679364669,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["damage_taken"] = 114059.005095,
 							["start_time"] = 1679364638,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 						{
 							["flag_original"] = 68168,
@@ -1420,21 +1420,21 @@ _detalhes_database = {
 								["Kyunii-Bloodhoof"] = 2118,
 								["Chalupa <Adrid>"] = 1618,
 							},
-							["fight_component"] = true,
+							["end_time"] = 1679364638,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5506.008207,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["aID"] = "195272",
 							["monster"] = true,
-							["end_time"] = 1679364638,
+							["total"] = 5506.008207,
 							["last_dps"] = 0,
-							["on_hold"] = false,
+							["dps_started"] = false,
 							["nome"] = "Darktooth Renderer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1471,17 +1471,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
-							["total"] = 5506.008207,
 							["serial"] = "Creature-0-4217-2444-210-195272-00009911D6",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
+							["fight_component"] = true,
 							["last_event"] = 1679364631,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["damage_taken"] = 64865.008207,
 							["start_time"] = 1679364638,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 						}, -- [5]
 						{
 							["flag_original"] = 68168,
@@ -1493,38 +1493,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["fight_component"] = true,
+							["end_time"] = 1679364638,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "UNKNOW",
 							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.001955,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["aID"] = "195267",
 							["monster"] = true,
-							["end_time"] = 1679364638,
+							["total"] = 0.001955,
 							["last_dps"] = 0,
-							["on_hold"] = false,
+							["dps_started"] = false,
 							["nome"] = "Darktooth Spirit-Caller",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
-							["total"] = 0.001955,
 							["serial"] = "Creature-0-4217-2444-210-195267-00001911FB",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["on_hold"] = false,
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["damage_taken"] = 60567.001955,
 							["start_time"] = 1679364638,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 						}, -- [6]
 					},
 				}, -- [1]
@@ -1562,10 +1562,10 @@ _detalhes_database = {
 							["healing_taken"] = 711.005036,
 							["fight_component"] = true,
 							["end_time"] = 1679364638,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 								["Adrid"] = true,
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1588,9 +1588,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 711,
 										["totaldenied"] = 0,
 										["n_amt"] = 4,
+										["n_curado"] = 711,
 										["absorbed"] = 0,
 									},
 								},
@@ -1600,11 +1600,11 @@ _detalhes_database = {
 							["start_time"] = 1679364638,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364636,
 							["tipo"] = 2,
+							["last_event"] = 1679364636,
 							["totaldenied"] = 0.005036,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -1659,9 +1659,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 4843,
 										["totaldenied"] = 0,
 										["n_amt"] = 3,
+										["n_curado"] = 4843,
 										["absorbed"] = 0,
 									},
 								},
@@ -1696,20 +1696,20 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["totalover"] = 0.006689,
 							["alternatepower"] = 16.006689,
+							["spec"] = 253,
+							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Adrid",
-							["spec"] = 253,
 							["grupo"] = true,
 							["passiveover"] = 0.006689,
 							["received"] = 0.006689,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
-							["total"] = 0.006689,
 							["tipo"] = 3,
+							["total"] = 0.006689,
+							["last_event"] = 0,
 							["serial"] = "Player-3685-0717BEFC",
 							["aID"] = "3685-0717BEFC",
 						}, -- [1]
@@ -1742,7 +1742,9 @@ _detalhes_database = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
 							},
-							["spec"] = 253,
+							["interrupt_targets"] = {
+								["Darktooth Spirit-Caller"] = 1,
+							},
 							["classe"] = "HUNTER",
 							["interrupt_spells"] = {
 								["_ActorTable"] = {
@@ -1891,12 +1893,10 @@ _detalhes_database = {
 							["fight_component"] = true,
 							["debuff_uptime"] = 9,
 							["buff_uptime"] = 256,
-							["nome"] = "Adrid",
 							["debuff_uptime_targets"] = {
 							},
-							["interrupt_targets"] = {
-								["Darktooth Spirit-Caller"] = 1,
-							},
+							["interrupt"] = 1.003461,
+							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[34026] = 6,
@@ -1909,9 +1909,9 @@ _detalhes_database = {
 							["buff_uptime_targets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["tipo"] = 4,
 							["last_event"] = 1679364643,
-							["interrupt"] = 1.003461,
+							["tipo"] = 4,
+							["nome"] = "Adrid",
 							["serial"] = "Player-3685-0717BEFC",
 							["aID"] = "3685-0717BEFC",
 						}, -- [1]
@@ -1938,7 +1938,7 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -1948,28 +1948,28 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [3]
 						{
 							["fight_component"] = true,
 							["nome"] = "Darktooth Stalker",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["pets"] = {
-							},
 							["last_event"] = 0,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "195270",
-							["flag_original"] = 2632,
 							["spell_cast"] = {
 								[372397] = 3,
 							},
-							["serial"] = "Creature-0-4217-2444-210-195270-0000190473",
 							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-4217-2444-210-195270-0000190473",
+							["aID"] = "195270",
 						}, -- [4]
 					},
 				}, -- [4]
@@ -2078,13 +2078,13 @@ _detalhes_database = {
 				},
 				["end_time"] = 652.793,
 				["combat_id"] = 2883,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Darktooth Spirit-Caller",
 				["frags"] = {
 					["Darktooth Renderer"] = 2,
 					["Darktooth Stalker"] = 2,
 					["Darktooth Spirit-Caller"] = 1,
+				},
+				["contra"] = "Darktooth Spirit-Caller",
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3325,
 				["data_inicio"] = "20:10:06",
@@ -2214,7 +2214,7 @@ _detalhes_database = {
 								["Darktooth Battler"] = 29164,
 								["Darktooth Skirmisher"] = 18596,
 							},
-							["total"] = 47760.008996,
+							["classe"] = "HUNTER",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -2222,16 +2222,16 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6687.008996000001,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364596,
-							["colocacao"] = 1,
 							["aID"] = "3685-0717BEFC",
+							["dps_started"] = false,
+							["total"] = 47760.008996,
+							["colocacao"] = 1,
+							["end_time"] = 1679364596,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2341,14 +2341,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["last_event"] = 1679364595,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 3785.369659665508,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 0.008996,
 							["start_time"] = 1679364596,
 							["delay"] = 0,
-							["last_dps"] = 3785.369659665508,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -2361,11 +2361,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Darktooth Battler"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24888.008813,
@@ -2373,7 +2374,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364596,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -2498,15 +2499,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364595,
-							["last_dps"] = 0,
+							["damage_taken"] = 2153.008813,
 							["start_time"] = 1679364596,
 							["delay"] = 0,
-							["damage_taken"] = 2153.008813,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -2519,10 +2519,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 16185.002956,
@@ -2530,7 +2531,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364596,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -2626,15 +2627,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364595,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.002956,
 							["start_time"] = 1679364596,
 							["delay"] = 0,
-							["damage_taken"] = 0.002956,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -2648,21 +2648,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Neongenisis-Duskwood"] = 5345,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364596,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195269",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5345.002236,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364596,
+							["total"] = 5345.002236,
 							["last_dps"] = 0,
-							["damage_taken"] = 32023.002236,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Skirmisher",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2751,17 +2751,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 5345.002236,
 							["serial"] = "Creature-0-4217-2444-210-195269-0000191137",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 32023.002236,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364602,
 							["on_hold"] = false,
 							["start_time"] = 1679364596,
 							["delay"] = 0,
-							["last_event"] = 1679364602,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 						{
 							["flag_original"] = 68168,
@@ -2777,21 +2777,21 @@ _detalhes_database = {
 								["Susztam-Bloodhoof"] = 1698,
 								["Chalupa <Adrid>"] = 2153,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364596,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195264",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 4326.00508,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364596,
+							["total"] = 4326.00508,
 							["last_dps"] = 0,
-							["damage_taken"] = 31675.00508,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Battler",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2855,17 +2855,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 4326.00508,
 							["serial"] = "Creature-0-4217-2444-210-195264-0000191121",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 31675.00508,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364591,
 							["on_hold"] = false,
 							["start_time"] = 1679364596,
 							["delay"] = 0,
-							["last_event"] = 1679364591,
+							["friendlyfire"] = {
+							},
 						}, -- [5]
 					},
 				}, -- [1]
@@ -2902,9 +2902,9 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.007333,
 							["healing_taken"] = 0.007333,
 							["end_time"] = 1679364596,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2915,11 +2915,11 @@ _detalhes_database = {
 							["start_time"] = 1679364596,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364588,
 							["tipo"] = 2,
+							["last_event"] = 1679364588,
 							["totaldenied"] = 0.007333,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -2974,9 +2974,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 1815,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
+										["n_curado"] = 1815,
 										["absorbed"] = 0,
 									},
 								},
@@ -2997,13 +2997,13 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["healing_from"] = {
+							["targets_overheal"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "PET",
 							["totalover"] = 0.006049,
 							["total_without_pet"] = 0.006049,
 							["total"] = 0.006049,
@@ -3028,16 +3028,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["targets_overheal"] = {
+							["healing_from"] = {
 							},
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1679364596,
+							["custom"] = 0,
+							["tipo"] = 2,
 							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["totaldenied"] = 0.006049,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["classe"] = "PET",
-							["start_time"] = 1679364596,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [2]
@@ -3180,16 +3180,16 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 3,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[217200] = 1,
 								[193455] = 1,
-								[34026] = 2,
+								[217200] = 1,
 								[272790] = 2,
+								[34026] = 2,
 							},
 							["last_event"] = 1679364596,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
@@ -3197,7 +3197,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 95,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -3223,7 +3223,7 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -3233,29 +3233,29 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [3]
 						{
 							["fight_component"] = true,
 							["nome"] = "Darktooth Skirmisher",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["pets"] = {
-							},
 							["last_event"] = 0,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "195269",
-							["flag_original"] = 2632,
 							["spell_cast"] = {
 								[372369] = 2,
 								[372562] = 1,
 							},
-							["serial"] = "Creature-0-4217-2444-210-195269-0000191137",
 							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-4217-2444-210-195269-0000191137",
+							["aID"] = "195269",
 						}, -- [4]
 					},
 				}, -- [4]
@@ -3316,26 +3316,7 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Adrid"] = 1815.007333,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Adrid"] = 47760.008996,
-						}, -- [1]
-					},
-				},
+				["data_inicio"] = "20:09:44",
 				["end_time"] = 610.989,
 				["combat_id"] = 2882,
 				["frags"] = {
@@ -3375,7 +3356,26 @@ _detalhes_database = {
 				},
 				["start_time"] = 598.372,
 				["contra"] = "Darktooth Battler",
-				["data_inicio"] = "20:09:44",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Adrid"] = 1815.007333,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Adrid"] = 47760.008996,
+						}, -- [1]
+					},
+				},
 			}, -- [3]
 			{
 				{
@@ -3391,7 +3391,7 @@ _detalhes_database = {
 								["Darktooth Battler"] = 17375,
 								["Darktooth Stalker"] = 69190,
 							},
-							["total"] = 86565.007942,
+							["aID"] = "3685-0717BEFC",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -3400,16 +3400,16 @@ _detalhes_database = {
 								["Darktooth Stalker"] = true,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "3685-0717BEFC",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6921.007942,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364571,
-							["colocacao"] = 1,
 							["classe"] = "HUNTER",
+							["dps_started"] = false,
+							["total"] = 86565.007942,
+							["colocacao"] = 1,
+							["end_time"] = 1679364571,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3521,14 +3521,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 5513.343604993304,
 							["custom"] = 0,
 							["last_event"] = 1679364570,
 							["damage_taken"] = 1601.007942,
 							["start_time"] = 1679364571,
 							["delay"] = 0,
-							["last_dps"] = 5513.343604993304,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -3541,11 +3541,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Darktooth Stalker"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 48082.005232,
@@ -3553,7 +3554,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364571,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -3733,15 +3734,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364570,
-							["last_dps"] = 0,
+							["damage_taken"] = 4585.005232,
 							["start_time"] = 1679364571,
 							["delay"] = 0,
-							["damage_taken"] = 4585.005232,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -3754,10 +3754,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 31562.008395,
@@ -3765,7 +3766,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364571,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -3916,15 +3917,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364570,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.008395,
 							["start_time"] = 1679364571,
 							["delay"] = 0,
-							["damage_taken"] = 0.008395,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -3943,21 +3943,21 @@ _detalhes_database = {
 								["Neongenisis-Duskwood"] = 2142,
 								["Chalupa <Adrid>"] = 4585,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364571,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195270",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24983.007567,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364571,
+							["total"] = 24983.007567,
 							["last_dps"] = 0,
-							["damage_taken"] = 80451.007567,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Stalker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4025,17 +4025,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 24983.007567,
 							["serial"] = "Creature-0-4217-2444-210-195270-00001910BB",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 80451.007567,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364582,
 							["on_hold"] = false,
 							["start_time"] = 1679364571,
 							["delay"] = 0,
-							["last_event"] = 1679364582,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -4053,21 +4053,21 @@ _detalhes_database = {
 								["Susztam-Bloodhoof"] = 1560,
 								["Hamett"] = 699,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364571,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195264",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 7838.003592,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364571,
+							["total"] = 7838.003592,
 							["last_dps"] = 0,
-							["damage_taken"] = 32377.003592,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Battler",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4133,17 +4133,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 7838.003592,
 							["serial"] = "Creature-0-4217-2444-210-195264-0000191107",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 32377.003592,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364583,
 							["on_hold"] = false,
 							["start_time"] = 1679364571,
 							["delay"] = 0,
-							["last_event"] = 1679364583,
+							["friendlyfire"] = {
+							},
 						}, -- [5]
 					},
 				}, -- [1]
@@ -4182,10 +4182,10 @@ _detalhes_database = {
 							["healing_taken"] = 1038.007658,
 							["fight_component"] = true,
 							["end_time"] = 1679364571,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 								["Adrid"] = true,
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4208,9 +4208,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 1038,
 										["totaldenied"] = 0,
 										["n_amt"] = 6,
+										["n_curado"] = 1038,
 										["absorbed"] = 0,
 									},
 								},
@@ -4220,11 +4220,11 @@ _detalhes_database = {
 							["start_time"] = 1679364571,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364569,
 							["tipo"] = 2,
+							["last_event"] = 1679364569,
 							["totaldenied"] = 0.007658,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -4279,9 +4279,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 4332,
 										["totaldenied"] = 0,
 										["n_amt"] = 3,
+										["n_curado"] = 4332,
 										["absorbed"] = 0,
 									},
 								},
@@ -4302,13 +4302,13 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["healing_from"] = {
+							["targets_overheal"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "PET",
 							["totalover"] = 0.002212,
 							["total_without_pet"] = 0.002212,
 							["total"] = 0.002212,
@@ -4333,16 +4333,16 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["targets_overheal"] = {
+							["healing_from"] = {
 							},
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1679364571,
+							["custom"] = 0,
+							["tipo"] = 2,
 							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["totaldenied"] = 0.002212,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["classe"] = "PET",
-							["start_time"] = 1679364571,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [2]
@@ -4459,13 +4459,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[72968] = {
+									[397734] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 16,
-										["id"] = 72968,
+										["id"] = 397734,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -4492,13 +4492,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[397734] = {
+									[72968] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 16,
-										["id"] = 397734,
+										["id"] = 72968,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -4519,9 +4519,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 1,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -4537,7 +4537,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 155,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -4563,7 +4563,7 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -4573,28 +4573,28 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [3]
 						{
 							["fight_component"] = true,
 							["nome"] = "Darktooth Battler",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["pets"] = {
-							},
 							["last_event"] = 0,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "195264",
-							["flag_original"] = 68168,
 							["spell_cast"] = {
 								[372397] = 1,
 							},
-							["serial"] = "Creature-0-4217-2444-210-195264-0000191107",
 							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-4217-2444-210-195264-0000191107",
+							["aID"] = "195264",
 						}, -- [4]
 					},
 				}, -- [4]
@@ -4699,13 +4699,13 @@ _detalhes_database = {
 				},
 				["end_time"] = 586.2040000000001,
 				["combat_id"] = 2881,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Darktooth Stalker",
 				["frags"] = {
 					["Darktooth Battler"] = 1,
 					["Darktooth Howler"] = 1,
 					["Darktooth Stalker"] = 2,
+				},
+				["contra"] = "Darktooth Stalker",
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3323,
 				["data_inicio"] = "20:09:16",
@@ -4731,13 +4731,12 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["end_time"] = 1679364555,
-							["aID"] = "3685-0717BEFC",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00867,
@@ -4745,9 +4744,13 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["dps_started"] = false,
 							["total"] = 0.00867,
-							["friendlyfire_total"] = 0,
-							["last_dps"] = 0,
+							["aID"] = "3685-0717BEFC",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Adrid",
+							["spec"] = 253,
+							["grupo"] = true,
+							["serial"] = "Player-3685-0717BEFC",
 							["spells"] = {
 								["_ActorTable"] = {
 									[2] = {
@@ -4782,9 +4785,6 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["serial"] = "Player-3685-0717BEFC",
-							["spec"] = 253,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1679364555,
@@ -4801,21 +4801,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Adrid"] = 1260,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364555,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195270",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1260.006103,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364555,
+							["total"] = 1260.006103,
 							["last_dps"] = 0,
-							["damage_taken"] = 0.006103,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Stalker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4850,17 +4850,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 1260.006103,
 							["serial"] = "Creature-0-4217-2444-210-195270-000018F947",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 0.006103,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364555,
 							["on_hold"] = false,
 							["start_time"] = 1679364555,
 							["delay"] = 0,
-							["last_event"] = 1679364555,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -4883,33 +4883,10 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1047,
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["pets"] = {
-							},
-							["classe"] = "HUNTER",
+							["buff_uptime"] = 0,
+							["aID"] = "3685-0717BEFC",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[19574] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 19574,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[72968] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 0,
-										["id"] = 72968,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[246152] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -4917,6 +4894,28 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 0,
 										["id"] = 246152,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[257946] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 257946,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[19574] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 19574,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -4965,13 +4964,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[257946] = {
+									[72968] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 0,
-										["id"] = 257946,
+										["id"] = 72968,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -4985,11 +4984,12 @@ _detalhes_database = {
 							["tipo"] = 4,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["last_event"] = 1679364555,
-							["aID"] = "3685-0717BEFC",
+							["classe"] = "HUNTER",
 							["buff_uptime_targets"] = {
 							},
 							["serial"] = "Player-3685-0717BEFC",
-							["buff_uptime"] = 0,
+							["pets"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [4]
@@ -5093,10 +5093,10 @@ _detalhes_database = {
 				},
 				["end_time"] = 570.02,
 				["combat_id"] = 2880,
-				["spells_cast_timeline"] = {
+				["frags"] = {
 				},
 				["contra"] = "Darktooth Stalker",
-				["frags"] = {
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3322,
 				["data_inicio"] = "20:09:16",
@@ -5123,7 +5123,7 @@ _detalhes_database = {
 								["Darktooth Renderer"] = 71749,
 								["Darktooth Stalker"] = 21937,
 							},
-							["total"] = 93686.008709,
+							["aID"] = "3685-0717BEFC",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -5132,16 +5132,16 @@ _detalhes_database = {
 								["Darktooth Stalker"] = true,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "3685-0717BEFC",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 25241.008709,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364554,
-							["colocacao"] = 1,
 							["classe"] = "HUNTER",
+							["dps_started"] = false,
+							["total"] = 93686.008709,
+							["colocacao"] = 1,
+							["end_time"] = 1679364554,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5289,14 +5289,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 6129.277638796219,
 							["custom"] = 0,
 							["last_event"] = 1679364554,
 							["damage_taken"] = 2497.008709,
 							["start_time"] = 1679364554,
 							["delay"] = 0,
-							["last_dps"] = 6129.277638796219,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -5309,11 +5309,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Darktooth Renderer"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 41447.008433,
@@ -5321,7 +5322,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364554,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -5472,15 +5473,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364552,
-							["last_dps"] = 0,
+							["damage_taken"] = 5182.008433,
 							["start_time"] = 1679364554,
 							["delay"] = 0,
-							["damage_taken"] = 5182.008433,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -5493,10 +5493,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 26998.006787,
@@ -5504,7 +5505,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364554,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -5627,15 +5628,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364552,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.006787,
 							["start_time"] = 1679364554,
 							["delay"] = 0,
-							["damage_taken"] = 0.006787,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 2600,
@@ -5648,7 +5648,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Adrid"] = true,
 								["Hamett"] = true,
@@ -5656,7 +5657,7 @@ _detalhes_database = {
 								["Susztam-Bloodhoof"] = true,
 								["Chalupa <Adrid>"] = true,
 							},
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6257.007418,
@@ -5664,7 +5665,7 @@ _detalhes_database = {
 							["total"] = 6257.007418,
 							["fight_component"] = true,
 							["end_time"] = 1679364554,
-							["friendlyfire_total"] = 0,
+							["aID"] = "195270",
 							["serial"] = "Creature-0-4217-2444-210-195270-000019105B",
 							["nome"] = "Darktooth Stalker",
 							["spells"] = {
@@ -5730,16 +5731,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["dps_started"] = false,
-							["aID"] = "195270",
-							["friendlyfire"] = {
-							},
+							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1679364554,
-							["on_hold"] = false,
+							["damage_taken"] = 23158.007418,
 							["start_time"] = 1679364554,
 							["delay"] = 0,
-							["damage_taken"] = 23158.007418,
+							["on_hold"] = false,
 						}, -- [4]
 						{
 							["flag_original"] = 68168,
@@ -5752,21 +5752,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Chalupa <Adrid>"] = 5182,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364554,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195272",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5182.002508,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364554,
+							["total"] = 5182.002508,
 							["last_dps"] = 0,
-							["damage_taken"] = 71749.002508,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Renderer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5785,7 +5785,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 6,
 										["DODGE"] = 1,
-										["r_amt"] = 0,
+										["total"] = 5182,
 										["c_max"] = 0,
 										["a_dmg"] = 0,
 										["id"] = 1,
@@ -5800,22 +5800,22 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["n_amt"] = 3,
 										["b_dmg"] = 0,
-										["total"] = 5182,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 5182.002508,
 							["serial"] = "Creature-0-4217-2444-210-195272-0000191081",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 71749.002508,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364550,
 							["on_hold"] = false,
 							["start_time"] = 1679364554,
 							["delay"] = 0,
-							["last_event"] = 1679364550,
+							["friendlyfire"] = {
+							},
 						}, -- [5]
 					},
 				}, -- [1]
@@ -5853,10 +5853,10 @@ _detalhes_database = {
 							["healing_taken"] = 769.00845,
 							["fight_component"] = true,
 							["end_time"] = 1679364554,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 								["Adrid"] = true,
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5879,9 +5879,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 769,
 										["totaldenied"] = 0,
 										["n_amt"] = 4,
+										["n_curado"] = 769,
 										["absorbed"] = 0,
 									},
 								},
@@ -5891,11 +5891,11 @@ _detalhes_database = {
 							["start_time"] = 1679364554,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364553,
 							["tipo"] = 2,
+							["last_event"] = 1679364553,
 							["totaldenied"] = 0.00845,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -5950,9 +5950,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 5182,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
+										["n_curado"] = 5182,
 										["absorbed"] = 0,
 									},
 								},
@@ -6135,9 +6135,9 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 6,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -6154,7 +6154,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 131,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -6180,7 +6180,7 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -6190,10 +6190,10 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -6298,12 +6298,12 @@ _detalhes_database = {
 				},
 				["end_time"] = 568.72,
 				["combat_id"] = 2879,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Darktooth Renderer",
 				["frags"] = {
 					["Darktooth Renderer"] = 2,
 					["Darktooth Howler"] = 1,
+				},
+				["contra"] = "Darktooth Renderer",
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3321,
 				["data_inicio"] = "20:08:59",
@@ -6329,7 +6329,7 @@ _detalhes_database = {
 							["targets"] = {
 								["Darktooth Stalker"] = 32218,
 							},
-							["total"] = 32218.006893,
+							["classe"] = "HUNTER",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -6337,16 +6337,16 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9653.006893,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364532,
-							["colocacao"] = 1,
 							["aID"] = "3685-0717BEFC",
+							["dps_started"] = false,
+							["total"] = 32218.006893,
+							["colocacao"] = 1,
+							["end_time"] = 1679364532,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6440,14 +6440,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["last_event"] = 1679364532,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 5701.293026544021,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 0.006893,
 							["start_time"] = 1679364532,
 							["delay"] = 0,
-							["last_dps"] = 5701.293026544021,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -6459,11 +6459,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Darktooth Stalker"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 16182.001058,
@@ -6471,7 +6472,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364532,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -6592,15 +6593,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364532,
-							["last_dps"] = 0,
+							["damage_taken"] = 2163.001058,
 							["start_time"] = 1679364532,
 							["delay"] = 0,
-							["damage_taken"] = 2163.001058,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -6612,10 +6612,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6383.002697,
@@ -6623,7 +6624,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364532,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -6716,15 +6717,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364532,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.002697,
 							["start_time"] = 1679364532,
 							["delay"] = 0,
-							["damage_taken"] = 0.002697,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -6739,21 +6739,21 @@ _detalhes_database = {
 								["Susztam-Bloodhoof"] = 944,
 								["Chalupa <Adrid>"] = 2163,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364532,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195270",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3107.005748,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364532,
+							["total"] = 3107.005748,
 							["last_dps"] = 0,
-							["damage_taken"] = 37087.005748,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Stalker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6817,17 +6817,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 3107.005748,
 							["serial"] = "Creature-0-4217-2444-210-195270-00001910C5",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 37087.005748,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364536,
 							["on_hold"] = false,
 							["start_time"] = 1679364532,
 							["delay"] = 0,
-							["last_event"] = 1679364536,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 					},
 				}, -- [1]
@@ -6863,9 +6863,9 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.003618,
 							["healing_taken"] = 0.003618,
 							["end_time"] = 1679364532,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6876,11 +6876,11 @@ _detalhes_database = {
 							["start_time"] = 1679364532,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364530,
 							["tipo"] = 2,
+							["last_event"] = 1679364530,
 							["totaldenied"] = 0.003618,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -6935,9 +6935,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 983,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
+										["n_curado"] = 983,
 										["absorbed"] = 0,
 									},
 								},
@@ -7096,16 +7096,16 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 3,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[272790] = 2,
-								[217200] = 1,
 								[34026] = 1,
 								[193455] = 1,
+								[272790] = 2,
+								[217200] = 1,
 							},
 							["last_event"] = 1679364537,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
@@ -7113,7 +7113,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 44,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -7139,7 +7139,7 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -7149,28 +7149,28 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [3]
 						{
 							["fight_component"] = true,
 							["nome"] = "Darktooth Stalker",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["pets"] = {
-							},
 							["last_event"] = 0,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "195270",
-							["flag_original"] = 68168,
 							["spell_cast"] = {
 								[372397] = 1,
 							},
-							["serial"] = "Creature-0-4217-2444-210-195270-00001910C5",
 							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-4217-2444-210-195270-00001910C5",
+							["aID"] = "195270",
 						}, -- [4]
 					},
 				}, -- [4]
@@ -7231,26 +7231,7 @@ _detalhes_database = {
 				},
 				["__call"] = {
 				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Adrid"] = 983.003618,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Adrid"] = 32218.006893,
-						}, -- [1]
-					},
-				},
+				["data_inicio"] = "20:08:47",
 				["end_time"] = 547.302,
 				["combat_id"] = 2878,
 				["frags"] = {
@@ -7289,7 +7270,26 @@ _detalhes_database = {
 				},
 				["start_time"] = 541.6510000000001,
 				["contra"] = "Darktooth Stalker",
-				["data_inicio"] = "20:08:47",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Adrid"] = 983.003618,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Adrid"] = 32218.006893,
+						}, -- [1]
+					},
+				},
 			}, -- [7]
 			{
 				{
@@ -7304,7 +7304,7 @@ _detalhes_database = {
 							["targets"] = {
 								["Darktooth Renderer"] = 31303,
 							},
-							["total"] = 31303.008245,
+							["classe"] = "HUNTER",
 							["pets"] = {
 								"Taco <Adrid>", -- [1]
 								"Chalupa <Adrid>", -- [2]
@@ -7312,16 +7312,16 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 14538.008245,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364515,
-							["colocacao"] = 1,
 							["aID"] = "3685-0717BEFC",
+							["dps_started"] = false,
+							["total"] = 31303.008245,
+							["colocacao"] = 1,
+							["end_time"] = 1679364515,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7443,14 +7443,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["last_event"] = 1679364515,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 8736.535932179811,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 0.008245,
 							["start_time"] = 1679364515,
 							["delay"] = 0,
-							["last_dps"] = 8736.535932179811,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -7462,10 +7462,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9888.001576999999,
@@ -7473,7 +7474,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364515,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -7566,15 +7567,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364514,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.001577,
 							["start_time"] = 1679364515,
 							["delay"] = 0,
-							["damage_taken"] = 0.001577,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -7586,11 +7586,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Darktooth Renderer"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 6877.004022,
@@ -7598,7 +7599,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364515,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -7719,15 +7720,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364514,
-							["last_dps"] = 0,
+							["damage_taken"] = 1597.004022,
 							["start_time"] = 1679364515,
 							["delay"] = 0,
-							["damage_taken"] = 1597.004022,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -7740,21 +7740,21 @@ _detalhes_database = {
 							["targets"] = {
 								["Chalupa <Adrid>"] = 1597,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364515,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195272",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1597.007373,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364515,
+							["total"] = 1597.007373,
 							["last_dps"] = 0,
-							["damage_taken"] = 31303.007373,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Renderer",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7791,17 +7791,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 1597.007373,
 							["serial"] = "Creature-0-4217-2444-210-195272-00001910D4",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 31303.007373,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364513,
 							["on_hold"] = false,
 							["start_time"] = 1679364515,
 							["delay"] = 0,
-							["last_event"] = 1679364513,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 					},
 				}, -- [1]
@@ -7837,9 +7837,9 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.0015,
 							["healing_taken"] = 0.0015,
 							["end_time"] = 1679364515,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7850,11 +7850,11 @@ _detalhes_database = {
 							["start_time"] = 1679364515,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364514,
 							["tipo"] = 2,
+							["last_event"] = 1679364514,
 							["totaldenied"] = 0.0015,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -7909,9 +7909,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 1597,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
+										["n_curado"] = 1597,
 										["absorbed"] = 0,
 									},
 								},
@@ -8082,9 +8082,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 4,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -8098,7 +8098,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 30,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -8124,7 +8124,7 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -8134,10 +8134,10 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -8242,11 +8242,11 @@ _detalhes_database = {
 				},
 				["end_time"] = 529.8,
 				["combat_id"] = 2877,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Darktooth Renderer",
 				["frags"] = {
 					["Darktooth Renderer"] = 1,
+				},
+				["contra"] = "Darktooth Renderer",
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3319,
 				["data_inicio"] = "20:08:32",
@@ -8272,7 +8272,7 @@ _detalhes_database = {
 							["targets"] = {
 								["Darktooth Battler"] = 31403,
 							},
-							["total"] = 31403.004206,
+							["classe"] = "HUNTER",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -8280,16 +8280,16 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24030.004206,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364510,
-							["colocacao"] = 1,
 							["aID"] = "3685-0717BEFC",
+							["dps_started"] = false,
+							["total"] = 31403.004206,
+							["colocacao"] = 1,
+							["end_time"] = 1679364510,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8383,14 +8383,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["last_event"] = 1679364509,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 33055.79390105105,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 0.004206,
 							["start_time"] = 1679364510,
 							["delay"] = 0,
-							["last_dps"] = 33055.79390105105,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -8402,10 +8402,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3894.005701,
@@ -8413,7 +8414,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364510,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -8478,15 +8479,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364509,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.005701,
 							["start_time"] = 1679364510,
 							["delay"] = 0,
-							["damage_taken"] = 0.005701,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -8498,10 +8498,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3479.003711,
@@ -8509,7 +8510,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364510,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -8574,15 +8575,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364509,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.003711,
 							["start_time"] = 1679364510,
 							["delay"] = 0,
-							["damage_taken"] = 0.003711,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -8594,38 +8594,38 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["monster"] = true,
+							["end_time"] = 1679364510,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195264",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003904,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364510,
+							["total"] = 0.003904,
 							["last_dps"] = 0,
-							["damage_taken"] = 31403.003904,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Battler",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 0.003904,
 							["serial"] = "Creature-0-4217-2444-210-195264-000019112B",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 31403.003904,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 0,
 							["on_hold"] = false,
 							["start_time"] = 1679364510,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 					},
 				}, -- [1]
@@ -8680,13 +8680,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[387678] = {
+									[97340] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 387678,
+										["id"] = 97340,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -8702,13 +8702,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[97340] = {
+									[227723] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 97340,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -8735,13 +8735,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[227723] = {
+									[387678] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 1,
-										["id"] = 227723,
+										["id"] = 387678,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -8750,9 +8750,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -8764,7 +8764,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 7,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 					},
@@ -8869,11 +8869,11 @@ _detalhes_database = {
 				},
 				["end_time"] = 524.95,
 				["combat_id"] = 2876,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Darktooth Battler",
 				["frags"] = {
 					["Darktooth Battler"] = 1,
+				},
+				["contra"] = "Darktooth Battler",
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3318,
 				["data_inicio"] = "20:08:30",
@@ -8900,7 +8900,7 @@ _detalhes_database = {
 								["Palamanther"] = 1805,
 								["Darktooth Stalker"] = 61186,
 							},
-							["total"] = 62991.008074,
+							["classe"] = "HUNTER",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -8909,16 +8909,16 @@ _detalhes_database = {
 								["Darktooth Stalker"] = true,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 14453.008074,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1679364497,
-							["colocacao"] = 1,
 							["aID"] = "3685-0717BEFC",
+							["dps_started"] = false,
+							["total"] = 62991.008074,
+							["colocacao"] = 1,
+							["end_time"] = 1679364497,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9027,14 +9027,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["last_event"] = 1679364496,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 4318.889823380191,
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 1337.008074,
 							["start_time"] = 1679364497,
 							["delay"] = 0,
-							["last_dps"] = 4318.889823380191,
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -9046,11 +9046,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Darktooth Stalker"] = true,
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24778.008609,
@@ -9058,7 +9059,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364497,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -9179,15 +9180,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0102D5F459",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364495,
-							["last_dps"] = 0,
+							["damage_taken"] = 6916.008609,
 							["start_time"] = 1679364497,
 							["delay"] = 0,
-							["damage_taken"] = 6916.008609,
+							["last_dps"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -9200,10 +9200,11 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 							},
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 23760.004438,
@@ -9211,7 +9212,7 @@ _detalhes_database = {
 							["tipo"] = 1,
 							["dps_started"] = false,
 							["end_time"] = 1679364497,
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -9305,15 +9306,14 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["on_hold"] = false,
 							["custom"] = 0,
 							["last_event"] = 1679364495,
-							["last_dps"] = 0,
+							["damage_taken"] = 0.004438,
 							["start_time"] = 1679364497,
 							["delay"] = 0,
-							["damage_taken"] = 0.004438,
+							["last_dps"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -9330,21 +9330,21 @@ _detalhes_database = {
 								["Susztam-Bloodhoof"] = 653,
 								["Chalupa <Adrid>"] = 6916,
 							},
-							["monster"] = true,
+							["end_time"] = 1679364497,
 							["pets"] = {
 							},
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire_total"] = 0,
 							["aID"] = "195270",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9355.006730000001,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["classe"] = "UNKNOW",
 							["dps_started"] = false,
-							["end_time"] = 1679364497,
+							["total"] = 9355.006730000001,
 							["last_dps"] = 0,
-							["damage_taken"] = 81784.00673,
+							["fight_component"] = true,
 							["nome"] = "Darktooth Stalker",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9413,17 +9413,17 @@ _detalhes_database = {
 								},
 								["tipo"] = 2,
 							},
-							["fight_component"] = true,
-							["total"] = 9355.006730000001,
 							["serial"] = "Creature-0-4217-2444-210-195270-000018F3A9",
-							["friendlyfire"] = {
-							},
-							["custom"] = 0,
+							["damage_taken"] = 81784.00673,
+							["monster"] = true,
 							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1679364507,
 							["on_hold"] = false,
 							["start_time"] = 1679364497,
 							["delay"] = 0,
-							["last_event"] = 1679364507,
+							["friendlyfire"] = {
+							},
 						}, -- [4]
 						{
 							["flag_original"] = 2600,
@@ -9433,11 +9433,12 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["friendlyfire"] = {
+							},
 							["damage_from"] = {
 								["Taco <Adrid>"] = true,
 							},
-							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007152,
@@ -9445,7 +9446,7 @@ _detalhes_database = {
 							["total"] = 0.007152,
 							["fight_component"] = true,
 							["end_time"] = 1679364497,
-							["friendlyfire_total"] = 0,
+							["aID"] = "192059",
 							["serial"] = "Creature-0-4217-2444-210-192059-000018F3CA",
 							["nome"] = "Palamanther",
 							["spells"] = {
@@ -9483,16 +9484,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["dps_started"] = false,
-							["aID"] = "192059",
-							["friendlyfire"] = {
-							},
+							["classe"] = "UNKNOW",
+							["last_dps"] = 0,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1679364493,
-							["on_hold"] = false,
+							["damage_taken"] = 1805.007152,
 							["start_time"] = 1679364497,
 							["delay"] = 0,
-							["damage_taken"] = 1805.007152,
+							["on_hold"] = false,
 						}, -- [5]
 					},
 				}, -- [1]
@@ -9531,10 +9531,10 @@ _detalhes_database = {
 							["healing_taken"] = 1337.004388,
 							["fight_component"] = true,
 							["end_time"] = 1679364497,
+							["classe"] = "HUNTER",
 							["healing_from"] = {
 								["Adrid"] = true,
 							},
-							["spec"] = 253,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9558,9 +9558,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 1337,
 										["totaldenied"] = 0,
 										["n_amt"] = 7,
+										["n_curado"] = 1337,
 										["absorbed"] = 0,
 									},
 								},
@@ -9570,11 +9570,11 @@ _detalhes_database = {
 							["start_time"] = 1679364497,
 							["aID"] = "3685-0717BEFC",
 							["custom"] = 0,
-							["last_event"] = 1679364493,
 							["tipo"] = 2,
+							["last_event"] = 1679364493,
 							["totaldenied"] = 0.004388,
 							["delay"] = 0,
-							["classe"] = "HUNTER",
+							["spec"] = 253,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -9629,9 +9629,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
-										["n_curado"] = 4229,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
+										["n_curado"] = 4229,
 										["absorbed"] = 0,
 									},
 								},
@@ -9848,16 +9848,16 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 6,
-							["buff_uptime_targets"] = {
-							},
 							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[193455] = 2,
 								[217200] = 2,
-								[272790] = 4,
+								[193455] = 2,
 								[34026] = 4,
+								[272790] = 4,
 							},
 							["last_event"] = 1679364501,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
@@ -9865,7 +9865,7 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["buff_uptime"] = 131,
 							["serial"] = "Player-3685-0717BEFC",
-							["debuff_uptime_targets"] = {
+							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -9894,22 +9894,22 @@ _detalhes_database = {
 							["nome"] = "Darktooth Stalker",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["monster"] = true,
-							["classe"] = "UNKNOW",
-							["pets"] = {
-							},
 							["last_event"] = 0,
-							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["aID"] = "195270",
-							["flag_original"] = 68168,
 							["spell_cast"] = {
 								[372397] = 1,
 							},
-							["serial"] = "Creature-0-4217-2444-210-195270-000018F3A9",
 							["tipo"] = 4,
+							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+							["classe"] = "UNKNOW",
+							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["serial"] = "Creature-0-4217-2444-210-195270-000018F3A9",
+							["aID"] = "195270",
 						}, -- [3]
 						{
 							["flag_original"] = 4369,
-							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+							["classe"] = "PET",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -9919,10 +9919,10 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
 							["tipo"] = 4,
+							["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
 							["serial"] = "Pet-0-4217-2444-210-165189-0201C1273B",
-							["classe"] = "PET",
+							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [4]
@@ -10031,13 +10031,13 @@ _detalhes_database = {
 				},
 				["end_time"] = 512.016,
 				["combat_id"] = 2875,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Darktooth Stalker",
 				["frags"] = {
 					["Palamanther"] = 1,
 					["Darktooth Skirmisher"] = 1,
 					["Darktooth Stalker"] = 2,
+				},
+				["contra"] = "Darktooth Stalker",
+				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3317,
 				["data_inicio"] = "20:08:03",
@@ -10063,7 +10063,7 @@ _detalhes_database = {
 							["targets"] = {
 								["Starving Snail"] = 62159,
 							},
-							["friendlyfire_total"] = 0,
+							["total"] = 62159.004127,
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -10071,17 +10071,17 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["aID"] = "3685-0717BEFC",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 20936.004127,
-							["last_dps"] = 3589.27151675176,
-							["aID"] = "3685-0717BEFC",
-							["dps_started"] = false,
-							["total"] = 62159.004127,
 							["friendlyfire"] = {
 							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
 							["end_time"] = 1676867757,
+							["last_dps"] = 3589.27151675176,
+							["classe"] = "HUNTER",
 							["nome"] = "Adrid",
 							["spec"] = 253,
 							["grupo"] = true,
@@ -10211,10 +10211,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_from"] = {
 							},
-							["classe"] = "PET",
+							["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24180.001228,
@@ -10222,7 +10222,7 @@ _detalhes_database = {
 							["last_event"] = 1676867751,
 							["dps_started"] = false,
 							["total"] = 24180.001228,
-							["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -10343,15 +10343,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
+							["classe"] = "PET",
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.001228,
 							["start_time"] = 1676867757,
 							["delay"] = 0,
-							["damage_taken"] = 0.001228,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -10363,10 +10363,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["last_dps"] = 0,
+							["on_hold"] = false,
 							["damage_from"] = {
 							},
-							["classe"] = "PET",
+							["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 17043.00107,
@@ -10374,7 +10374,7 @@ _detalhes_database = {
 							["last_event"] = 1676867751,
 							["dps_started"] = false,
 							["total"] = 17043.00107,
-							["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
+							["friendlyfire_total"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -10467,15 +10467,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
+							["classe"] = "PET",
+							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.00107,
 							["start_time"] = 1676867757,
 							["delay"] = 0,
-							["damage_taken"] = 0.00107,
+							["friendlyfire"] = {
+							},
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -10483,7 +10483,7 @@ _detalhes_database = {
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
 							["targets"] = {
 							},
-							["damage_taken"] = 453143.005046,
+							["on_hold"] = false,
 							["pets"] = {
 							},
 							["damage_from"] = {
@@ -10506,16 +10506,17 @@ _detalhes_database = {
 								["Rhaenera-Bloodhoof"] = true,
 							},
 							["serial"] = "Creature-0-4220-2444-11029-195967-000072F892",
-							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005046,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 							["aID"] = "195967",
-							["fight_component"] = true,
-							["end_time"] = 1676867757,
 							["dps_started"] = false,
-							["on_hold"] = false,
+							["total"] = 0.005046,
+							["friendlyfire"] = {
+							},
+							["damage_taken"] = 453143.005046,
 							["nome"] = "Starving Snail",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10523,16 +10524,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["monster"] = true,
-							["total"] = 0.005046,
-							["classe"] = "UNKNOW",
-							["last_event"] = 0,
+							["end_time"] = 1676867757,
+							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["start_time"] = 1676867757,
 							["delay"] = 0,
-							["last_dps"] = 0,
+							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -10557,20 +10557,20 @@ _detalhes_database = {
 							["classe"] = "HUNTER",
 							["totalover"] = 0.005919,
 							["total"] = 0.005919,
+							["spec"] = 253,
+							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
-							["nome"] = "Adrid",
-							["spec"] = 253,
 							["grupo"] = true,
 							["aID"] = "3685-0717BEFC",
 							["flag_original"] = 1300,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["last_event"] = 0,
-							["alternatepower"] = 18.005919,
 							["tipo"] = 3,
+							["alternatepower"] = 18.005919,
+							["last_event"] = 0,
 							["serial"] = "Player-3685-0717BEFC",
 							["passiveover"] = 0.005919,
 						}, -- [1]
@@ -10647,13 +10647,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[227723] = {
+									[97340] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 17,
-										["id"] = 227723,
+										["id"] = 97340,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -10669,13 +10669,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[97340] = {
+									[386907] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 17,
-										["id"] = 97340,
+										["uptime"] = 1,
+										["id"] = 386907,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -10702,13 +10702,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[397734] = {
+									[72968] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 17,
-										["id"] = 397734,
+										["id"] = 72968,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -10735,24 +10735,24 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[72968] = {
+									[397734] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
 										["uptime"] = 17,
-										["id"] = 72968,
+										["id"] = 397734,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[386907] = {
+									[227723] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 386907,
+										["uptime"] = 17,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -10761,10 +10761,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 6,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Adrid",
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -10785,11 +10784,12 @@ _detalhes_database = {
 								"Taco <Adrid>", -- [2]
 							},
 							["serial"] = "Player-3685-0717BEFC",
-							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -10801,14 +10801,14 @@ _detalhes_database = {
 								[17253] = 4,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["tipo"] = 4,
 							["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
+							["classe"] = "PET",
 							["serial"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
-							["last_event"] = 0,
+							["tipo"] = 4,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -10818,10 +10818,10 @@ _detalhes_database = {
 								[201754] = 2,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["tipo"] = 4,
 							["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
+							["classe"] = "PET",
 							["serial"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-							["last_event"] = 0,
+							["tipo"] = 4,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -10929,12 +10929,12 @@ _detalhes_database = {
 				},
 				["end_time"] = 270289.866,
 				["combat_id"] = 2874,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Starving Snail",
 				["frags"] = {
 					["Starving Snail"] = 1,
 					["Frostfin Minnow"] = 1,
-				},
-				["contra"] = "Starving Snail",
-				["spells_cast_timeline"] = {
 				},
 				["combat_counter"] = 3314,
 				["data_inicio"] = "21:35:40",
@@ -10960,7 +10960,7 @@ _detalhes_database = {
 							["targets"] = {
 								["Rubbery Fish Head"] = 51268,
 							},
-							["total"] = 51268.002251,
+							["classe"] = "HUNTER",
 							["pets"] = {
 								"Chalupa <Adrid>", -- [1]
 								"Taco <Adrid>", -- [2]
@@ -10968,16 +10968,16 @@ _detalhes_database = {
 							["damage_from"] = {
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["classe"] = "HUNTER",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24495.002251,
 							["spec"] = 253,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1676867736,
-							["colocacao"] = 1,
 							["aID"] = "3685-0717BEFC",
+							["dps_started"] = false,
+							["total"] = 51268.002251,
+							["colocacao"] = 1,
+							["end_time"] = 1676867736,
 							["nome"] = "Adrid",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11114,14 +11114,14 @@ _detalhes_database = {
 							["grupo"] = true,
 							["serial"] = "Player-3685-0717BEFC",
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["last_event"] = 1676867736,
 							["damage_taken"] = 0.002251,
 							["start_time"] = 1676867736,
 							["delay"] = 0,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -11133,11 +11133,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["damage_from"] = {
 							},
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 16087.00547,
@@ -11145,7 +11144,7 @@ _detalhes_database = {
 							["last_event"] = 1676867736,
 							["dps_started"] = false,
 							["end_time"] = 1676867736,
-							["friendlyfire_total"] = 0,
+							["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["spells"] = {
@@ -11266,14 +11265,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
-							["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
-							["last_dps"] = 0,
+							["classe"] = "PET",
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["damage_taken"] = 0.00547,
 							["start_time"] = 1676867736,
 							["delay"] = 0,
-							["damage_taken"] = 0.00547,
+							["on_hold"] = false,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
@@ -11285,11 +11285,10 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["damage_from"] = {
 							},
-							["classe"] = "PET",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 10686.001594,
@@ -11297,7 +11296,7 @@ _detalhes_database = {
 							["last_event"] = 1676867736,
 							["dps_started"] = false,
 							["end_time"] = 1676867736,
-							["friendlyfire_total"] = 0,
+							["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["spells"] = {
@@ -11390,14 +11389,15 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["serial"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-							["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-							["last_dps"] = 0,
+							["classe"] = "PET",
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
-							["on_hold"] = false,
+							["damage_taken"] = 0.001594,
 							["start_time"] = 1676867736,
 							["delay"] = 0,
-							["damage_taken"] = 0.001594,
+							["on_hold"] = false,
 						}, -- [3]
 						{
 							["flag_original"] = 68136,
@@ -11419,16 +11419,15 @@ _detalhes_database = {
 								["Thanthyk"] = true,
 								["Grak'gak"] = true,
 							},
-							["aID"] = "195808",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.004858,
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
 							["fight_component"] = true,
 							["total"] = 0.004858,
-							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-4220-2444-11029-195808-000072F88B",
 							["nome"] = "Rubbery Fish Head",
 							["spells"] = {
@@ -11438,14 +11437,15 @@ _detalhes_database = {
 							},
 							["dps_started"] = false,
 							["end_time"] = 1676867736,
-							["last_dps"] = 0,
-							["last_event"] = 0,
+							["aID"] = "195808",
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
 							["tipo"] = 1,
 							["damage_taken"] = 122046.004858,
 							["start_time"] = 1676867736,
 							["delay"] = 0,
-							["classe"] = "UNKNOW",
+							["last_event"] = 0,
 						}, -- [4]
 					},
 				}, -- [1]
@@ -11614,10 +11614,9 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 2,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["nome"] = "Adrid",
 							["spec"] = 253,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -11636,11 +11635,12 @@ _detalhes_database = {
 								"Taco <Adrid>", -- [2]
 							},
 							["serial"] = "Player-3685-0717BEFC",
-							["nome"] = "Adrid",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Chalupa <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -11652,14 +11652,14 @@ _detalhes_database = {
 								[17253] = 3,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["tipo"] = 4,
 							["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
+							["classe"] = "PET",
 							["serial"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
-							["last_event"] = 0,
+							["tipo"] = 4,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["classe"] = "PET",
+							["last_event"] = 0,
 							["ownerName"] = "Adrid",
 							["nome"] = "Taco <Adrid>",
 							["GetSpellContainer"] = nil --[[ skipped inline function ]],
@@ -11669,10 +11669,10 @@ _detalhes_database = {
 								[201754] = 1,
 							},
 							["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-							["tipo"] = 4,
 							["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
+							["classe"] = "PET",
 							["serial"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-							["last_event"] = 0,
+							["tipo"] = 4,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -11824,11 +11824,11 @@ _detalhes_database = {
 			["utility"] = false,
 			["defensive-personal"] = false,
 		},
+		["framme_locked"] = false,
+		["height"] = 18,
+		["width"] = 120,
 		["cooldowns"] = {
 		},
-		["framme_locked"] = false,
-		["width"] = 120,
-		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
@@ -11842,7 +11842,7 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 	},
-	["last_version"] = "10.0.7 10736",
+	["last_version"] = "10.1.0 10736",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -11857,7 +11857,7 @@ _detalhes_database = {
 	["on_death_menu"] = false,
 	["nick_tag_cache"] = {
 		["last_version"] = 15,
-		["nextreset"] = 1682048831,
+		["nextreset"] = 1684467468,
 	},
 	["last_instance_id"] = 1651,
 	["data_harvest_for_charsts"] = {
@@ -11898,7 +11898,7 @@ _detalhes_database = {
 		["previous_boss_killed_at"] = 0,
 	},
 	["ignore_nicktag"] = false,
-	["cached_talents"] = {
+	["data_harvested_for_charts"] = {
 	},
 	["combat_log"] = {
 		["track_hunter_frenzy"] = false,
@@ -11907,76 +11907,10 @@ _detalhes_database = {
 		["merge_gemstones_1007"] = false,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["local_instances_config"] = {
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = false,
-			["isLocked"] = true,
-			["is_open"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["snap"] = {
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -529.1874847412109,
-					["x"] = 927.918212890625,
-					["w"] = 414.8147888183594,
-					["h"] = 160.3703460693359,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 11,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = true,
-			["isLocked"] = true,
-			["is_open"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				11, -- [5]
-			},
-			["snap"] = {
-				[2] = 1,
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 5,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -373.40966796875,
-					["x"] = 927.920166015625,
-					["w"] = 414.8146362304688,
-					["h"] = 111.1852416992188,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [2]
+	["announce_prepots"] = {
+		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
 	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
@@ -12067,11 +12001,11 @@ _detalhes_database = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
 				299.9998779296875, -- [1]
 				499.9999389648438, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 3.275031181068463,
 				["radius"] = 160,
@@ -12079,14 +12013,29 @@ _detalhes_database = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
+			["main_frame_strata"] = "LOW",
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["y"] = -4.57763671875e-05,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -12098,22 +12047,7 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["main_frame_strata"] = "LOW",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["y"] = -4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["use_spark"] = true,
-			["font_size"] = 10,
 			["x"] = -6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
@@ -12127,21 +12061,88 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["benchmark_db"] = {
-		["frame"] = {
-		},
+	["cached_talents"] = {
 	},
-	["last_day"] = "07",
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -529.1874847412109,
+					["x"] = 927.918212890625,
+					["w"] = 414.8147888183594,
+					["h"] = 160.3703460693359,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 11,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				11, -- [5]
+			},
+			["snap"] = {
+				[2] = 1,
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 5,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -373.40966796875,
+					["x"] = 927.920166015625,
+					["w"] = 414.8146362304688,
+					["h"] = 111.1852416992188,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["last_day"] = "05",
 	["mythic_plus_log"] = {
-	},
-	["data_harvested_for_charts"] = {
 	},
 	["last_realversion"] = 148,
 	["force_font_outline"] = "",
 	["combat_id"] = 2884,
 	["savedStyles"] = {
 	},
-	["combat_counter"] = 3332,
+	["combat_counter"] = 3334,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
@@ -12171,7 +12172,7 @@ _detalhes_database = {
 						["Darktooth Skirmisher"] = 18596,
 						["Starving Snail"] = 62159,
 					},
-					["total"] = 642544.077197,
+					["end_time"] = 1676867737,
 					["pets"] = {
 						"Chalupa <Adrid>", -- [1]
 						"Taco <Adrid>", -- [2]
@@ -12187,7 +12188,7 @@ _detalhes_database = {
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["aID"] = "3685-0717BEFC",
 					["dps_started"] = false,
-					["end_time"] = 1676867737,
+					["total"] = 642544.077197,
 					["spells"] = {
 						["_ActorTable"] = {
 							[387460] = {
@@ -12433,20 +12434,20 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Adrid",
 					["spec"] = 253,
 					["grupo"] = true,
 					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
 					["damage_taken"] = 9973.077197,
+					["on_hold"] = false,
 					["custom"] = 0,
-					["tipo"] = 1,
+					["last_event"] = 0,
 					["last_dps"] = 0,
 					["start_time"] = 1676867734,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["tipo"] = 1,
 				}, -- [1]
 				{
 					["flag_original"] = 4369,
@@ -12465,13 +12466,14 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["damage_from"] = {
 						["Darktooth Renderer"] = true,
 						["Darktooth Battler"] = true,
 						["Darktooth Stalker"] = true,
 					},
-					["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
+					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 256994.07006,
@@ -12479,7 +12481,7 @@ _detalhes_database = {
 					["last_event"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1676867737,
-					["classe"] = "PET",
+					["friendlyfire_total"] = 0,
 					["ownerName"] = "Adrid",
 					["nome"] = "Chalupa <Adrid>",
 					["spells"] = {
@@ -12704,15 +12706,14 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["serial"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
-					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["aID"] = "Pet-0-4220-2444-11029-165189-0102D5F459",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 26389.07006,
 					["start_time"] = 1676867734,
 					["delay"] = 0,
-					["damage_taken"] = 26389.07006,
+					["last_dps"] = 0,
 				}, -- [2]
 				{
 					["flag_original"] = 68136,
@@ -12722,8 +12723,7 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["damage_from"] = {
 						["Shalandra-Bloodhoof"] = true,
 						["Felspawn-Bloodhoof"] = true,
@@ -12735,7 +12735,7 @@ _detalhes_database = {
 						["Thanthyk"] = true,
 						["Chedda-Bloodhoof"] = true,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "195808",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.013676,
@@ -12743,7 +12743,7 @@ _detalhes_database = {
 					["total"] = 0.013676,
 					["dps_started"] = false,
 					["end_time"] = 1676867737,
-					["aID"] = "195808",
+					["friendlyfire_total"] = 0,
 					["serial"] = "Creature-0-4220-2444-11029-195808-000072F88B",
 					["nome"] = "Rubbery Fish Head",
 					["spells"] = {
@@ -12752,15 +12752,16 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["fight_component"] = true,
-					["friendlyfire_total"] = 0,
-					["on_hold"] = false,
+					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
 					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 122046.013676,
 					["start_time"] = 1676867734,
 					["delay"] = 0,
-					["damage_taken"] = 122046.013676,
+					["last_dps"] = 0,
 				}, -- [3]
 				{
 					["flag_original"] = 4369,
@@ -12780,10 +12781,11 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["damage_from"] = {
 					},
-					["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
+					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 189322.055085,
@@ -12791,7 +12793,7 @@ _detalhes_database = {
 					["last_event"] = 0,
 					["dps_started"] = false,
 					["end_time"] = 1676867737,
-					["classe"] = "PET",
+					["friendlyfire_total"] = 0,
 					["ownerName"] = "Adrid",
 					["nome"] = "Taco <Adrid>",
 					["spells"] = {
@@ -12983,15 +12985,14 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["serial"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-					["friendlyfire_total"] = 0,
-					["friendlyfire"] = {
-					},
+					["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.055085,
 					["start_time"] = 1676867734,
 					["delay"] = 0,
-					["damage_taken"] = 0.055085,
+					["last_dps"] = 0,
 				}, -- [4]
 				{
 					["flag_original"] = 68168,
@@ -13023,15 +13024,15 @@ _detalhes_database = {
 						["Chedda-Bloodhoof"] = true,
 					},
 					["serial"] = "Creature-0-4220-2444-11029-195967-000072F892",
-					["friendlyfire_total"] = 0,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.010386,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["aID"] = "195967",
+					["dps_started"] = false,
+					["total"] = 0.010386,
 					["monster"] = true,
-					["end_time"] = 1676867757,
-					["on_hold"] = false,
 					["last_dps"] = 0,
 					["nome"] = "Starving Snail",
 					["spells"] = {
@@ -13040,15 +13041,15 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["fight_component"] = true,
-					["total"] = 0.010386,
-					["classe"] = "UNKNOW",
-					["dps_started"] = false,
-					["custom"] = 0,
+					["end_time"] = 1676867757,
+					["friendlyfire_total"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 453143.010386,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1676867754,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["damage_taken"] = 453143.010386,
 				}, -- [5]
 				{
 					["flag_original"] = 68168,
@@ -13063,7 +13064,7 @@ _detalhes_database = {
 						["Susztam-Bloodhoof"] = 3746,
 						["Kyunii-Bloodhoof"] = 0,
 					},
-					["total"] = 54866.055989,
+					["end_time"] = 1679364498,
 					["pets"] = {
 					},
 					["damage_from"] = {
@@ -13078,16 +13079,16 @@ _detalhes_database = {
 						["Kyunii-Bloodhoof"] = true,
 					},
 					["serial"] = "Creature-0-4217-2444-210-195270-000018F3A9",
-					["aID"] = "195270",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 54866.055989,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["classe"] = "UNKNOW",
 					["dps_started"] = false,
-					["end_time"] = 1679364498,
-					["friendlyfire_total"] = 0,
-					["on_hold"] = false,
+					["total"] = 54866.055989,
+					["aID"] = "195270",
+					["last_event"] = 0,
 					["nome"] = "Darktooth Stalker",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -13193,12 +13194,12 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["monster"] = true,
-					["fight_component"] = true,
 					["friendlyfire"] = {
 					},
-					["tipo"] = 1,
+					["fight_component"] = true,
+					["on_hold"] = false,
 					["custom"] = 0,
-					["last_event"] = 0,
+					["tipo"] = 1,
 					["damage_taken"] = 309609.055989,
 					["start_time"] = 1679364495,
 					["delay"] = 0,
@@ -13212,7 +13213,8 @@ _detalhes_database = {
 						["Susztam-Bloodhoof"] = 6596,
 						["Neongenisis-Duskwood"] = 6034,
 					},
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["pets"] = {
 					},
 					["damage_from"] = {
@@ -13224,17 +13226,16 @@ _detalhes_database = {
 						["Chalupa <Adrid>"] = true,
 					},
 					["serial"] = "Creature-0-4217-2444-210-195269-000019109A",
-					["friendlyfire_total"] = 0,
+					["aID"] = "195269",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 12630.024857,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["end_time"] = 1679364498,
 					["dps_started"] = false,
-					["friendlyfire"] = {
-					},
+					["total"] = 12630.024857,
+					["damage_taken"] = 62617.024857,
+					["on_hold"] = false,
 					["nome"] = "Darktooth Skirmisher",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -13325,15 +13326,15 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["monster"] = true,
-					["total"] = 12630.024857,
-					["aID"] = "195269",
-					["tipo"] = 1,
+					["end_time"] = 1679364498,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["custom"] = 0,
 					["last_event"] = 0,
-					["damage_taken"] = 62617.024857,
+					["last_dps"] = 0,
 					["start_time"] = 1679364495,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["tipo"] = 1,
 				}, -- [7]
 				{
 					["flag_original"] = 2600,
@@ -13343,19 +13344,20 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
 					["damage_from"] = {
 						["Taco <Adrid>"] = true,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "192059",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.009531000000000001,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["friendlyfire"] = {
+					},
 					["dps_started"] = false,
-					["fight_component"] = true,
 					["end_time"] = 1679364498,
-					["aID"] = "192059",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4217-2444-210-192059-000018F3CA",
 					["nome"] = "Palamanther",
 					["spells"] = {
@@ -13391,14 +13393,13 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
+					["fight_component"] = true,
 					["total"] = 0.009531000000000001,
+					["friendlyfire_total"] = 0,
 					["on_hold"] = false,
+					["custom"] = 0,
 					["tipo"] = 1,
 					["damage_taken"] = 1805.009531,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
 					["start_time"] = 1679364495,
 					["delay"] = 0,
 					["last_dps"] = 0,
@@ -13415,7 +13416,7 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
 					["damage_from"] = {
 						["Taco <Adrid>"] = true,
 						["Hamett"] = true,
@@ -13424,15 +13425,16 @@ _detalhes_database = {
 						["Susztam-Bloodhoof"] = true,
 						["Chalupa <Adrid>"] = true,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "195264",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 9165.026365000002,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["friendlyfire"] = {
+					},
 					["dps_started"] = false,
-					["fight_component"] = true,
 					["end_time"] = 1679364498,
-					["aID"] = "195264",
+					["classe"] = "UNKNOW",
 					["serial"] = "Creature-0-4217-2444-210-195264-00001910BD",
 					["nome"] = "Darktooth Battler",
 					["spells"] = {
@@ -13498,14 +13500,13 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
+					["fight_component"] = true,
 					["total"] = 9165.026365000002,
+					["friendlyfire_total"] = 0,
 					["on_hold"] = false,
+					["custom"] = 0,
 					["tipo"] = 1,
 					["damage_taken"] = 95145.026365,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
 					["start_time"] = 1679364495,
 					["delay"] = 0,
 					["last_dps"] = 0,
@@ -13519,7 +13520,7 @@ _detalhes_database = {
 						["Kyunii-Bloodhoof"] = 2118,
 						["Chalupa <Adrid>"] = 8397,
 					},
-					["total"] = 12285.021778,
+					["end_time"] = 1679364516,
 					["pets"] = {
 					},
 					["damage_from"] = {
@@ -13531,16 +13532,16 @@ _detalhes_database = {
 						["Chalupa <Adrid>"] = true,
 					},
 					["serial"] = "Creature-0-4217-2444-210-195272-00001910D4",
-					["aID"] = "195272",
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 12285.021778,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["classe"] = "UNKNOW",
 					["dps_started"] = false,
-					["end_time"] = 1679364516,
-					["friendlyfire_total"] = 0,
-					["on_hold"] = false,
+					["total"] = 12285.021778,
+					["aID"] = "195272",
+					["last_event"] = 0,
 					["nome"] = "Darktooth Renderer",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -13582,12 +13583,12 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["monster"] = true,
-					["fight_component"] = true,
 					["friendlyfire"] = {
 					},
-					["tipo"] = 1,
+					["fight_component"] = true,
+					["on_hold"] = false,
 					["custom"] = 0,
-					["last_event"] = 0,
+					["tipo"] = 1,
 					["damage_taken"] = 167917.021778,
 					["start_time"] = 1679364513,
 					["delay"] = 0,
@@ -13603,21 +13604,22 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["fight_component"] = true,
+					["dps_started"] = false,
 					["pets"] = {
 					},
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["classe"] = "UNKNOW",
-					["friendlyfire_total"] = 0,
+					["aID"] = "195267",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004626,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["aID"] = "195267",
-					["dps_started"] = false,
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
 					["end_time"] = 1679364639,
-					["total"] = 0.004626,
-					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["damage_taken"] = 60567.004626,
 					["nome"] = "Darktooth Spirit-Caller",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -13625,16 +13627,15 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["monster"] = true,
+					["total"] = 0.004626,
 					["serial"] = "Creature-0-4217-2444-210-195267-00001911FB",
 					["last_dps"] = 0,
-					["damage_taken"] = 60567.004626,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["start_time"] = 1679364636,
 					["delay"] = 0,
-					["on_hold"] = false,
+					["last_event"] = 0,
 				}, -- [11]
 				{
 					["flag_original"] = 68168,
@@ -13660,21 +13661,22 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["dps_started"] = false,
+					["fight_component"] = true,
 					["pets"] = {
 					},
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["friendlyfire_total"] = 0,
-					["classe"] = "UNKNOW",
+					["aID"] = "195968",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.015208,
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["aID"] = "195968",
-					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["dps_started"] = false,
 					["end_time"] = 1679961983,
-					["total"] = 0.015208,
-					["last_event"] = 0,
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["nome"] = "Angerdrool",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -13682,16 +13684,15 @@ _detalhes_database = {
 						["tipo"] = 2,
 					},
 					["monster"] = true,
+					["total"] = 0.015208,
 					["delay"] = 0,
 					["damage_taken"] = 106478.015208,
-					["friendlyfire"] = {
-					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["start_time"] = 1679961980,
 					["serial"] = "Creature-0-3783-2444-199-195968-0000222F5B",
-					["last_dps"] = 0,
+					["last_event"] = 0,
 				}, -- [12]
 			},
 		}, -- [1]
@@ -13730,10 +13731,10 @@ _detalhes_database = {
 					["healing_taken"] = 3855.041771,
 					["fight_component"] = true,
 					["end_time"] = 1679364498,
+					["classe"] = "HUNTER",
 					["healing_from"] = {
 						["Adrid"] = true,
 					},
-					["spec"] = 253,
 					["nome"] = "Adrid",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -13757,9 +13758,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
-								["n_curado"] = 3855,
 								["totaldenied"] = 0,
 								["n_amt"] = 21,
+								["n_curado"] = 3855,
 								["absorbed"] = 0,
 							},
 						},
@@ -13769,11 +13770,11 @@ _detalhes_database = {
 					["start_time"] = 1679364495,
 					["aID"] = "3685-0717BEFC",
 					["custom"] = 0,
-					["last_event"] = 0,
 					["tipo"] = 2,
+					["last_event"] = 0,
 					["totaldenied"] = 0.041771,
 					["delay"] = 0,
-					["classe"] = "HUNTER",
+					["spec"] = 253,
 				}, -- [1]
 				{
 					["flag_original"] = 4369,
@@ -13828,9 +13829,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
-								["n_curado"] = 22981,
 								["totaldenied"] = 0,
 								["n_amt"] = 13,
+								["n_curado"] = 22981,
 								["absorbed"] = 0,
 							},
 						},
@@ -13851,7 +13852,7 @@ _detalhes_database = {
 				}, -- [2]
 				{
 					["flag_original"] = 4369,
-					["healing_from"] = {
+					["targets_overheal"] = {
 					},
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["pets"] = {
@@ -13882,16 +13883,16 @@ _detalhes_database = {
 						},
 						["tipo"] = 3,
 					},
-					["classe"] = "PET",
-					["targets_overheal"] = {
-					},
-					["totaldenied"] = 0.01642,
-					["custom"] = 0,
-					["last_event"] = 0,
 					["aID"] = "Pet-0-4217-2444-210-165189-0201C1273B",
+					["healing_from"] = {
+					},
 					["start_time"] = 1679364569,
-					["delay"] = 0,
+					["custom"] = 0,
 					["tipo"] = 2,
+					["classe"] = "PET",
+					["totaldenied"] = 0.01642,
+					["delay"] = 0,
+					["last_event"] = 0,
 				}, -- [3]
 			},
 		}, -- [2]
@@ -13900,7 +13901,7 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1300,
-					["resource"] = 0.105582,
+					["resource"] = 0.137784,
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["targets"] = {
 					},
@@ -13909,18 +13910,18 @@ _detalhes_database = {
 					["classe"] = "HUNTER",
 					["passiveover"] = 0.007617,
 					["alternatepower"] = 0.007617,
-					["spec"] = 253,
-					["nome"] = "Adrid",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 7,
 					},
+					["nome"] = "Adrid",
+					["spec"] = 253,
 					["grupo"] = true,
 					["total"] = 0.007617,
-					["last_event"] = 0,
-					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["tipo"] = 3,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["last_event"] = 0,
 					["received"] = 0.007617,
 					["aID"] = "3685-0717BEFC",
 					["serial"] = "Player-3685-0717BEFC",
@@ -13963,7 +13964,9 @@ _detalhes_database = {
 						"Chalupa <Adrid>", -- [1]
 						"Taco <Adrid>", -- [2]
 					},
-					["spec"] = 253,
+					["interrupt_targets"] = {
+						["Darktooth Spirit-Caller"] = 1,
+					},
 					["classe"] = "HUNTER",
 					["interrupt_spells"] = {
 						["_ActorTable"] = {
@@ -14224,12 +14227,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["debuff_uptime"] = 40,
 					["aID"] = "3685-0717BEFC",
-					["interrupt"] = 1.003461,
 					["debuff_uptime_targets"] = {
 					},
-					["interrupt_targets"] = {
-						["Darktooth Spirit-Caller"] = 1,
-					},
+					["nome"] = "Adrid",
+					["spec"] = 253,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[387370] = 1,
@@ -14245,12 +14246,12 @@ _detalhes_database = {
 						[34026] = 25,
 						[193455] = 16,
 					},
-					["tipo"] = 4,
-					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
 					["last_event"] = 0,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["tipo"] = 4,
 					["buff_uptime_targets"] = {
 					},
-					["nome"] = "Adrid",
+					["interrupt"] = 1.003461,
 					["serial"] = "Player-3685-0717BEFC",
 					["buff_uptime"] = 1109,
 				}, -- [1]
@@ -14278,76 +14279,76 @@ _detalhes_database = {
 				}, -- [2]
 				{
 					["flag_original"] = 4369,
-					["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
+					["classe"] = "PET",
 					["ownerName"] = "Adrid",
 					["nome"] = "Taco <Adrid>",
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["spell_cast"] = {
 						[201754] = 17,
 					},
 					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["classe"] = "PET",
+					["tipo"] = 4,
 					["pets"] = {
 					},
 					["serial"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
-					["last_event"] = 0,
+					["aID"] = "Pet-0-4220-2444-11029-165189-0101C1273B",
 				}, -- [3]
 				{
 					["flag_original"] = 2632,
 					["nome"] = "Darktooth Skirmisher",
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["monster"] = true,
-					["pets"] = {
-					},
 					["spell_cast"] = {
 						[372369] = 5,
 						[372562] = 1,
 					},
-					["last_event"] = 0,
-					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["aID"] = "195269",
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4217-2444-210-195269-000019109A",
+					["pets"] = {
+					},
 					["tipo"] = 4,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["aID"] = "195269",
+					["serial"] = "Creature-0-4217-2444-210-195269-000019109A",
+					["classe"] = "UNKNOW",
 				}, -- [4]
 				{
 					["flag_original"] = 68168,
 					["nome"] = "Darktooth Stalker",
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["fight_component"] = true,
-					["pets"] = {
-					},
 					["spell_cast"] = {
 						[372397] = 6,
 						[372408] = 1,
 					},
-					["last_event"] = 0,
-					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["aID"] = "195270",
-					["monster"] = true,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4217-2444-210-195270-000018F3A9",
+					["pets"] = {
+					},
 					["tipo"] = 4,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["last_event"] = 0,
+					["monster"] = true,
+					["aID"] = "195270",
+					["serial"] = "Creature-0-4217-2444-210-195270-000018F3A9",
+					["classe"] = "UNKNOW",
 				}, -- [5]
 				{
 					["monster"] = true,
 					["nome"] = "Darktooth Battler",
 					["GetSpellContainer"] = nil --[[ skipped inline function ]],
 					["fight_component"] = true,
-					["classe"] = "UNKNOW",
-					["pets"] = {
-					},
 					["last_event"] = 0,
-					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
-					["aID"] = "195264",
-					["flag_original"] = 68168,
 					["spell_cast"] = {
 						[372397] = 1,
 					},
-					["serial"] = "Creature-0-4217-2444-210-195264-0000191107",
 					["tipo"] = 4,
+					["GetSpellTableFromContainer"] = nil --[[ skipped inline function ]],
+					["classe"] = "UNKNOW",
+					["flag_original"] = 68168,
+					["pets"] = {
+					},
+					["serial"] = "Creature-0-4217-2444-210-195264-0000191107",
+					["aID"] = "195264",
 				}, -- [6]
 			},
 		}, -- [4]
@@ -14532,14 +14533,13 @@ _detalhes_database = {
 		["last_events_tables"] = {
 		},
 	},
-	["announce_prepots"] = {
-		["enabled"] = false,
-		["channel"] = "SELF",
-		["reverse"] = false,
-	},
 	["last_encounter"] = "The Lich King",
 	["character_data"] = {
-		["logons"] = 86,
+		["logons"] = 88,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
 	},
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
