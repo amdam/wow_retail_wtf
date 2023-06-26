@@ -37,11 +37,11 @@ _detalhes_database = {
 			["utility"] = false,
 			["defensive-personal"] = false,
 		},
+		["height"] = 18,
 		["framme_locked"] = false,
+		["width"] = 120,
 		["cooldowns"] = {
 		},
-		["width"] = 120,
-		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
@@ -55,7 +55,7 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 	},
-	["last_version"] = "10.1.0 11011",
+	["last_version"] = "10.1.0 11023",
 	["player_stats"] = {
 	},
 	["SoloTablesSaved"] = {
@@ -71,10 +71,10 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = false,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1685369982,
+		["nextreset"] = 1688413549,
 		["last_version"] = 15,
 	},
-	["last_instance_id"] = 1176,
+	["last_instance_id"] = 2519,
 	["data_harvest_for_charsts"] = {
 		["players"] = {
 			{
@@ -99,7 +99,7 @@ _detalhes_database = {
 		["custom"] = "",
 		["next"] = "",
 	},
-	["last_instance_time"] = 1681509252,
+	["last_instance_time"] = 1685076944,
 	["active_profile"] = "Adamancy-Turalyon",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "Shadowmoon Burial Grounds",
@@ -113,7 +113,9 @@ _detalhes_database = {
 		["previous_boss_killed_at"] = 1681510434,
 	},
 	["ignore_nicktag"] = false,
-	["last_encounter"] = "Xavius",
+	["character_data"] = {
+		["logons"] = 95,
+	},
 	["combat_log"] = {
 		["merge_gemstones_1007"] = false,
 		["inverse_deathlog_overalldata"] = false,
@@ -122,248 +124,7 @@ _detalhes_database = {
 		["merge_critical_heals"] = false,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["benchmark_db"] = {
-		["frame"] = {
-		},
-	},
-	["mythic_plus_log"] = {
-		"14/04/23 16:13:57|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [1]
-		"14/04/23 16:13:57|MythicDungeonFinished() | merge_boss_trash = true", -- [2]
-		"14/04/23 16:13:54|MergeTrashCleanup started.", -- [3]
-		"14/04/23 16:13:54|BossDefeated | key level: | 14 | Ner'zhul | Shadowmoon Burial Grounds", -- [4]
-		"14/04/23 16:09:49|MergeTrashCleanup started.", -- [5]
-		"14/04/23 16:09:49|BossDefeated | key level: | 14 | Bonemaw | Shadowmoon Burial Grounds", -- [6]
-		"14/04/23 16:03:27|MergeTrashCleanup started.", -- [7]
-		"14/04/23 16:03:27|BossDefeated | key level: | 14 | Nhallish | Shadowmoon Burial Grounds", -- [8]
-		"14/04/23 15:59:37|MergeTrashCleanup started.", -- [9]
-		"14/04/23 15:59:37|BossDefeated | key level: | 14 | Sadana Bloodfury | Shadowmoon Burial Grounds", -- [10]
-		"14/04/23 15:54:44|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 14 | zone: Shadowmoon Burial Grounds | zoneId: 1176", -- [11]
-		"22/02/23 22:21:12|MythicDungeonFinished() | merge_boss_trash = true", -- [12]
-		"22/02/23 22:21:10|BossDefeated | key level: | 8 | Ner'zhul | Shadowmoon Burial Grounds", -- [13]
-		"22/02/23 22:17:12|BossDefeated | key level: | 8 | Bonemaw | Shadowmoon Burial Grounds", -- [14]
-		"22/02/23 22:10:38|BossDefeated | key level: | 8 | Nhallish | Shadowmoon Burial Grounds", -- [15]
-		"22/02/23 22:07:34|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176", -- [16]
-		"22/02/23 22:06:55|MergeTrashCleanup started.", -- [17]
-		"22/02/23 22:06:55|BossDefeated | key level: | 8 | Sadana Bloodfury | Shadowmoon Burial Grounds", -- [18]
-		"22/02/23 22:02:26|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176", -- [19]
-	},
-	["cached_roles"] = {
-	},
-	["data_harvested_for_charts"] = {
-	},
-	["cached_talents"] = {
-	},
-	["character_data"] = {
-		["logons"] = 91,
-	},
-	["last_day"] = "14",
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["local_instances_config"] = {
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = false,
-			["isLocked"] = true,
-			["is_open"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["snap"] = {
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -529.1874847412109,
-					["x"] = 927.918212890625,
-					["w"] = 414.8147888183594,
-					["h"] = 160.3703460693359,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
-		{
-			["modo"] = 2,
-			["sub_attribute"] = 9,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = true,
-			["isLocked"] = true,
-			["is_open"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				9, -- [5]
-			},
-			["snap"] = {
-				[2] = 1,
-			},
-			["segment"] = 0,
-			["mode"] = 2,
-			["attribute"] = 5,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -373.40966796875,
-					["x"] = 927.920166015625,
-					["w"] = 414.8146362304688,
-					["h"] = 111.1852416992188,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [2]
-	},
-	["combat_id"] = 16,
-	["savedStyles"] = {
-	},
-	["combat_counter"] = 950,
-	["force_font_outline"] = "",
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
-	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["raid_roster_indexed"] = {
-		},
-		["tempo_start"] = 371870.9,
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["trinketProcs"] = {
-		},
-		["totals"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-			["frags_total"] = 0,
-			["voidzone_damage"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["spells_cast_timeline"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
-		},
-		["amountCasts"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["end_time"] = 371870.9,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["data_inicio"] = 0,
-		["start_time"] = 371870.9,
-		["TimeData"] = {
-		},
-		["combat_counter"] = 948,
-	},
+	["last_realversion"] = 151,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["enabled"] = true,
@@ -475,6 +236,21 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["y"] = -4.57763671875e-05,
+			["x"] = -6.103515625e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -486,21 +262,6 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = -4.57763671875e-05,
-			["use_spark"] = true,
-			["x"] = -6.103515625e-05,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["font_size"] = 10,
 			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["main_frame_size"] = {
@@ -509,11 +270,253 @@ _detalhes_database = {
 			},
 		},
 	},
-	["last_realversion"] = 151,
+	["cached_roles"] = {
+	},
+	["last_day"] = "22",
+	["last_encounter"] = "Xavius",
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["cached_talents"] = {
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -529.1874847412109,
+					["x"] = 927.918212890625,
+					["w"] = 414.8147888183594,
+					["h"] = 160.3703460693359,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 9,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				9, -- [5]
+			},
+			["snap"] = {
+				[2] = 1,
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 5,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -373.4096984863281,
+					["x"] = 927.920166015625,
+					["w"] = 414.8146362304688,
+					["h"] = 111.1852416992188,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["combat_id"] = 1,
+	["savedStyles"] = {
+	},
+	["combat_counter"] = 963,
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["raid_roster_indexed"] = {
+		},
+		["tempo_start"] = 1685076967,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 958,
+		["trinketProcs"] = {
+		},
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["amountCasts"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = 0,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["overall_refreshed"] = true,
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["player_last_events"] = {
+		},
+	},
 	["announce_prepots"] = {
 		["enabled"] = false,
 		["channel"] = "SELF",
 		["reverse"] = false,
+	},
+	["data_harvested_for_charts"] = {
+	},
+	["mythic_plus_log"] = {
+		"14/04/23 16:13:57|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.", -- [1]
+		"14/04/23 16:13:57|MythicDungeonFinished() | merge_boss_trash = true", -- [2]
+		"14/04/23 16:13:54|MergeTrashCleanup started.", -- [3]
+		"14/04/23 16:13:54|BossDefeated | key level: | 14 | Ner'zhul | Shadowmoon Burial Grounds", -- [4]
+		"14/04/23 16:09:49|MergeTrashCleanup started.", -- [5]
+		"14/04/23 16:09:49|BossDefeated | key level: | 14 | Bonemaw | Shadowmoon Burial Grounds", -- [6]
+		"14/04/23 16:03:27|MergeTrashCleanup started.", -- [7]
+		"14/04/23 16:03:27|BossDefeated | key level: | 14 | Nhallish | Shadowmoon Burial Grounds", -- [8]
+		"14/04/23 15:59:37|MergeTrashCleanup started.", -- [9]
+		"14/04/23 15:59:37|BossDefeated | key level: | 14 | Sadana Bloodfury | Shadowmoon Burial Grounds", -- [10]
+		"14/04/23 15:54:44|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 14 | zone: Shadowmoon Burial Grounds | zoneId: 1176", -- [11]
+		"22/02/23 22:21:12|MythicDungeonFinished() | merge_boss_trash = true", -- [12]
+		"22/02/23 22:21:10|BossDefeated | key level: | 8 | Ner'zhul | Shadowmoon Burial Grounds", -- [13]
+		"22/02/23 22:17:12|BossDefeated | key level: | 8 | Bonemaw | Shadowmoon Burial Grounds", -- [14]
+		"22/02/23 22:10:38|BossDefeated | key level: | 8 | Nhallish | Shadowmoon Burial Grounds", -- [15]
+		"22/02/23 22:07:34|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176", -- [16]
+		"22/02/23 22:06:55|MergeTrashCleanup started.", -- [17]
+		"22/02/23 22:06:55|BossDefeated | key level: | 8 | Sadana Bloodfury | Shadowmoon Burial Grounds", -- [18]
+		"22/02/23 22:02:26|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176", -- [19]
 	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,

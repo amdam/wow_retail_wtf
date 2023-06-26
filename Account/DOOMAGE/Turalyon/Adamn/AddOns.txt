@@ -143,3 +143,5 @@ LittleWigs_WarlordsOfDraenor: enabled
 BigWigs_DragonIsles: enabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+LittleWigs: enabled
+VenturePlanSoDMissions: disabled

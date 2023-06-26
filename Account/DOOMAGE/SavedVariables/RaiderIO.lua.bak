@@ -16,7 +16,6 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-	["us-Aenivan-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

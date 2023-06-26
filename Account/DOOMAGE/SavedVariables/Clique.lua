@@ -13,12 +13,12 @@ CliqueDB3 = {
 		},
 		["Adamancy - Turalyon"] = {
 			["spec1_profileKey"] = "Adamancy - Turalyon",
-			["alerthidden"] = true,
-			["downclick"] = false,
 			["fastooc"] = false,
 			["spec3_profileKey"] = "Adamancy - Turalyon",
+			["downclick"] = false,
 			["spec2_profileKey"] = "Adamancy - Turalyon",
 			["specswap"] = false,
+			["alerthidden"] = true,
 		},
 		["Furrys - Turalyon"] = {
 			["spec1_profileKey"] = "Furrys - Turalyon",
@@ -55,9 +55,9 @@ CliqueDB3 = {
 		},
 		["Amdam - Turalyon"] = {
 			["spec1_profileKey"] = "Amdam - Turalyon",
-			["fastooc"] = false,
 			["spec2_profileKey"] = "Amdam - Turalyon",
 			["downclick"] = false,
+			["fastooc"] = false,
 			["specswap"] = false,
 			["alerthidden"] = true,
 			["spec3_profileKey"] = "Amdam - Turalyon",
@@ -73,12 +73,20 @@ CliqueDB3 = {
 		},
 		["Badam - Turalyon"] = {
 			["spec1_profileKey"] = "Badam - Turalyon",
-			["alerthidden"] = true,
+			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
+			["alerthidden"] = true,
 			["spec2_profileKey"] = "Badam - Turalyon",
 			["spec3_profileKey"] = "Badam - Turalyon",
+		},
+		["Adamn - Turalyon"] = {
+			["spec1_profileKey"] = "Adamn - Turalyon",
+			["spec3_profileKey"] = "Adamn - Turalyon",
+			["downclick"] = false,
+			["fastooc"] = false,
 			["specswap"] = false,
+			["spec2_profileKey"] = "Adamn - Turalyon",
 		},
 		["Christoff - Turalyon"] = {
 			["spec1_profileKey"] = "Christoff - Turalyon",
@@ -98,14 +106,6 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Adamian - Turalyon",
 			["specswap"] = false,
 		},
-		["Adamn - Turalyon"] = {
-			["spec1_profileKey"] = "Adamn - Turalyon",
-			["spec2_profileKey"] = "Adamn - Turalyon",
-			["downclick"] = false,
-			["fastooc"] = false,
-			["spec3_profileKey"] = "Adamn - Turalyon",
-			["specswap"] = false,
-		},
 		["Dreg - Turalyon"] = {
 			["spec1_profileKey"] = "Dreg - Turalyon",
 			["specswap"] = false,
@@ -117,12 +117,12 @@ CliqueDB3 = {
 		},
 		["Kayne - Turalyon"] = {
 			["spec1_profileKey"] = "Kayne - Turalyon",
-			["spec2_profileKey"] = "Kayne - Turalyon",
+			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["alerthidden"] = true,
 			["spec3_profileKey"] = "Kayne - Turalyon",
+			["spec2_profileKey"] = "Kayne - Turalyon",
 		},
 		["Adomic - Turalyon"] = {
 			["spec1_profileKey"] = "Adomic - Turalyon",
@@ -135,10 +135,10 @@ CliqueDB3 = {
 	["profileKeys"] = {
 		["Shado - Turalyon"] = "Shado - Turalyon",
 		["Christifur - Turalyon"] = "Christifur - Turalyon",
-		["Beebo - Turalyon"] = "Beebo - Turalyon",
+		["Dogs - Turalyon"] = "Dogs - Turalyon",
 		["Kayne - Turalyon"] = "Kayne - Turalyon",
 		["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
-		["Dogs - Turalyon"] = "Dogs - Turalyon",
+		["Adrid - Turalyon"] = "Adrid - Turalyon",
 		["Caldo - Turalyon"] = "Abel - Turalyon",
 		["Aduum - Turalyon"] = "Aduum - Turalyon",
 		["Artoc - Zul'jin"] = "Artoc - Zul'jin",
@@ -161,7 +161,7 @@ CliqueDB3 = {
 		["Asaam - Turalyon"] = "Asaam - Turalyon",
 		["Adris - Turalyon"] = "Adris - Turalyon",
 		["Adamian - Turalyon"] = "Adamian - Turalyon",
-		["Adrid - Turalyon"] = "Adrid - Turalyon",
+		["Beebo - Turalyon"] = "Beebo - Turalyon",
 		["Adomic - Turalyon"] = "Adomic - Turalyon",
 	},
 	["profiles"] = {
@@ -203,13 +203,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Beebo - Turalyon"] = {
+		["Dogs - Turalyon"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -280,7 +280,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Dogs - Turalyon"] = {
+		["Adrid - Turalyon"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -1161,13 +1161,13 @@ CliqueDB3 = {
 					["spell"] = "Divine Toll",
 				}, -- [7]
 				{
-					["spell"] = "Holy Light",
-					["key"] = "SHIFT-BUTTON2",
-					["sets"] = {
-						["spec1"] = true,
-					},
-					["icon"] = 135981,
 					["type"] = "spell",
+					["key"] = "SHIFT-BUTTON1",
+					["sets"] = {
+						["spec2"] = true,
+					},
+					["icon"] = 133192,
+					["spell"] = "Word of Glory",
 				}, -- [8]
 				{
 					["spell"] = "Holy Shock",
@@ -1188,6 +1188,15 @@ CliqueDB3 = {
 					["spell"] = "Word of Glory",
 				}, -- [10]
 				{
+					["spell"] = "Holy Light",
+					["key"] = "SHIFT-BUTTON2",
+					["sets"] = {
+						["spec1"] = true,
+					},
+					["icon"] = 135981,
+					["type"] = "spell",
+				}, -- [11]
+				{
 					["type"] = "spell",
 					["key"] = "BUTTON3",
 					["sets"] = {
@@ -1196,23 +1205,14 @@ CliqueDB3 = {
 					},
 					["icon"] = 135953,
 					["spell"] = "Cleanse Toxins",
-				}, -- [11]
-				{
-					["type"] = "spell",
-					["key"] = "SHIFT-BUTTON1",
-					["sets"] = {
-						["spec2"] = true,
-					},
-					["icon"] = 133192,
-					["spell"] = "Word of Glory",
 				}, -- [12]
 				{
-					["spell"] = "Absolution",
-					["key"] = "ALT-CTRL-BUTTON2",
+					["spell"] = "Light of the Martyr",
+					["key"] = "CTRL-BUTTON1",
 					["sets"] = {
 						["spec1"] = true,
 					},
-					["icon"] = 1030102,
+					["icon"] = 1360762,
 					["type"] = "spell",
 				}, -- [13]
 				{
@@ -1241,21 +1241,21 @@ CliqueDB3 = {
 					["type"] = "spell",
 				}, -- [16]
 				{
+					["spell"] = "Absolution",
+					["key"] = "ALT-CTRL-BUTTON2",
+					["sets"] = {
+						["spec1"] = true,
+					},
+					["icon"] = 1030102,
+					["type"] = "spell",
+				}, -- [17]
+				{
 					["spell"] = "Cleanse",
 					["key"] = "BUTTON3",
 					["sets"] = {
 						["spec1"] = true,
 					},
 					["icon"] = 135949,
-					["type"] = "spell",
-				}, -- [17]
-				{
-					["spell"] = "Light of the Martyr",
-					["key"] = "CTRL-BUTTON1",
-					["sets"] = {
-						["spec1"] = true,
-					},
-					["icon"] = 1360762,
 					["type"] = "spell",
 				}, -- [18]
 				{
@@ -1623,13 +1623,13 @@ CliqueDB3 = {
 				}, -- [6]
 			},
 		},
-		["Adrid - Turalyon"] = {
+		["Beebo - Turalyon"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

@@ -195,3 +195,5 @@ LittleWigs_BurningCrusade: enabled
 BigWigs_VaultOfTheIncarnates: enabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+LittleWigs_Cataclysm: enabled
+VenturePlanSoDMissions: disabled

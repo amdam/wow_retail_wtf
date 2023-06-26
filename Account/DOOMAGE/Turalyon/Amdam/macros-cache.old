@@ -7,7 +7,7 @@ END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Final Reckoning,@player] Final Reckoning; Templar's Verdict
+/cast [mod:alt,known:Final Reckoning,@player] Final Reckoning; [mod:alt,known:Execution Sentence] Execution Sentence; Templar's Verdict
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"

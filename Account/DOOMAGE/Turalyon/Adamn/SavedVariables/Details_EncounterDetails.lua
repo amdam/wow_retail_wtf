@@ -964,14 +964,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Chrono-Lord Deios",
 		},
-		[34971] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[369006] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Claw",
+			["source"] = "Emberon",
 		},
 		[369663] = {
 			["school"] = 1,
@@ -980,15 +980,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Quaking Totem",
 		},
-		[34716] = {
+		[34971] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Warp Splinter",
+			["source"] = "Claw",
 		},
 		[369605] = {
 			["school"] = 1,
@@ -1636,14 +1635,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Niuzao",
 		},
-		[369006] = {
-			["school"] = 4,
+		[34716] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Emberon",
+			["source"] = "Warp Splinter",
 		},
 		[369026] = {
 			["school"] = 1,
@@ -1879,14 +1879,5 @@ EncounterDetailsDB = {
 		},
 	},
 	["emotes"] = {
-		{
-			["boss"] = "Ner'zhul",
-		}, -- [1]
-		{
-			["boss"] = "Bonemaw",
-		}, -- [2]
-		{
-			["boss"] = "Nhallish",
-		}, -- [3]
 	},
 }

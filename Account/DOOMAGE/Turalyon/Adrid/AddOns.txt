@@ -89,3 +89,4 @@ TomCats-Bundled-DeathsRising: disabled
 Tukui_NamePlateFeatures: disabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+VenturePlanSoDMissions: disabled

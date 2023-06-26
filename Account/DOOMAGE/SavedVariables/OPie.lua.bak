@@ -4,20 +4,20 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "10.1.0",
-	["_OPieVersion"] = "Yuzu 9 (4.114)",
+	["_OPieVersion"] = "Yuzu 9+2.22 (4.115)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
 				["ipmentSets1"] = false,
 				["CommonTrades"] = false,
-				["OPieTracking"] = false,
+				["ipmentsets"] = false,
 				["ipmentSets2"] = "NUMPAD5",
-				["ipmentSets"] = false,
-				["PaladinAuras"] = "ALT-P",
+				["OPieTrinkets"] = false,
+				["OPieTracking"] = false,
 				["MageTravel"] = "ALT-P",
 				["WorldMarkers"] = "SHIFT-R",
-				["OPieTrinkets"] = false,
-				["ipmentsets"] = false,
+				["ipmentSets"] = false,
+				["PaladinAuras"] = "ALT-P",
 			},
 		},
 	},
@@ -93,10 +93,10 @@ OPie_SavedData = {
 					["id2"] = 51302,
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueaL4inxo",
 					["c"] = "f4aa0f",
-					["id"] = 2018,
+					["sliceToken"] = "ABueaL4inxo",
 					["id2"] = 51300,
+					["id"] = 2018,
 				}, -- [3]
 				{
 					["sliceToken"] = "ABueaL4inx2",
@@ -117,10 +117,10 @@ OPie_SavedData = {
 					["id2"] = 51304,
 				}, -- [6]
 				{
-					["sliceToken"] = "ABueaL4inxy",
 					["c"] = "c13f0f",
-					["id"] = 2550,
+					["sliceToken"] = "ABueaL4inxy",
 					["id2"] = 51296,
+					["id"] = 2550,
 				}, -- [7]
 				{
 					["sliceToken"] = "ABueaL4inxt",
@@ -172,10 +172,10 @@ OPie_SavedData = {
 					["show"] = "[spec:269/270] hide;",
 					["sliceToken"] = "ABuesV=A73u",
 				}, -- [3]
-				["limit"] = "Furrys-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Furrys-Turalyon",
 			},
 			["PaladinAuras"] = {
 				{
@@ -196,15 +196,15 @@ OPie_SavedData = {
 					["id"] = 25780,
 					["sliceToken"] = "OPCPAf",
 				}, -- [4]
-				["limit"] = "PALADIN",
+				["name"] = "Paladin Buffs",
 				["save"] = true,
 				["hotkey"] = "ALT-P",
-				["name"] = "Paladin Buffs",
+				["limit"] = "PALADIN",
 			},
 			["MageTravel"] = {
 				{
 					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
-					["sliceToken"] = "OPCMPb",
+					["sliceToken"] = "ABue62qdy7i",
 				}, -- [1]
 				{
 					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
@@ -212,11 +212,11 @@ OPie_SavedData = {
 				}, -- [2]
 				{
 					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
-					["sliceToken"] = "OPCMPr",
+					["sliceToken"] = "ABue62qdy7u",
 				}, -- [3]
 				{
 					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
-					["sliceToken"] = "OPCMPs",
+					["sliceToken"] = "ABue62qdy7y",
 				}, -- [4]
 				{
 					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
@@ -228,24 +228,24 @@ OPie_SavedData = {
 				}, -- [6]
 				{
 					["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
-					["sliceToken"] = "OPCMPt",
+					["sliceToken"] = "ABue62qdy7t",
 				}, -- [7]
 				{
 					["id"] = "/cast [mod] {{spell:11418}}; {{spell:3563}}",
-					["sliceToken"] = "OPCMPu",
+					["sliceToken"] = "ABue62qdy71",
 				}, -- [8]
 				{
 					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
-					["sliceToken"] = "OPCMPi",
+					["sliceToken"] = "ABue62qdy7r",
 				}, -- [9]
 				{
 					["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
-					["sliceToken"] = "OPCMPo",
+					["sliceToken"] = "ABue62qdy7e",
 				}, -- [10]
 				{
 					"ring", -- [1]
 					"ExtraPortals", -- [2]
-					["sliceToken"] = "OPCMPe",
+					["sliceToken"] = "ABue62qdy7w",
 					["onlyNonEmpty"] = true,
 				}, -- [11]
 				{
@@ -268,10 +268,10 @@ OPie_SavedData = {
 					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 					["sliceToken"] = "ABuevQ2QUi2",
 				}, -- [16]
-				["limit"] = "MAGE",
+				["name"] = "Portals and Teleports",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
-				["name"] = "Portals and Teleports",
+				["limit"] = "MAGE",
 			},
 			["ipmentSets"] = {
 				{
@@ -315,10 +315,10 @@ OPie_SavedData = {
 					["show"] = "[spec:70/66] hide;",
 					["sliceToken"] = "ABues6epD11",
 				}, -- [7]
-				["limit"] = "Amdam-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Amdam-Turalyon",
 			},
 			["ipmentsets"] = {
 				{

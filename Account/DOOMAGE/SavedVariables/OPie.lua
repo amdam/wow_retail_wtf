@@ -4,7 +4,7 @@ OPie_SavedData = {
 	["CharProfiles"] = {
 	},
 	["_GameVersion"] = "10.1.0",
-	["_OPieVersion"] = "Yuzu 9 (4.114)",
+	["_OPieVersion"] = "Yuzu 9+2.22 (4.115)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
@@ -74,17 +74,17 @@ OPie_SavedData = {
 					["show"] = "[spec:73/72] hide;",
 					["sliceToken"] = "ABuesXRQAcr",
 				}, -- [8]
-				["limit"] = "Badam-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Badam-Turalyon",
 			},
 			["CommonTrades"] = {
 				{
-					["sliceToken"] = "ABueaL4inxa",
 					["c"] = "d8d1ad",
-					["id"] = 3908,
+					["sliceToken"] = "ABueaL4inxa",
 					["id2"] = 51309,
+					["id"] = 3908,
 				}, -- [1]
 				{
 					["sliceToken"] = "ABueaL4inxp",
@@ -105,10 +105,10 @@ OPie_SavedData = {
 					["id2"] = 51311,
 				}, -- [4]
 				{
-					["sliceToken"] = "ABueaL4inxi",
 					["c"] = "f4ef28",
-					["id"] = 7411,
+					["sliceToken"] = "ABueaL4inxi",
 					["id2"] = 51313,
+					["id"] = 7411,
 				}, -- [5]
 				{
 					["sliceToken"] = "ABueaL4inxu",
@@ -117,10 +117,10 @@ OPie_SavedData = {
 					["id2"] = 51304,
 				}, -- [6]
 				{
-					["sliceToken"] = "ABueaL4inxy",
 					["c"] = "c13f0f",
-					["id"] = 2550,
+					["sliceToken"] = "ABueaL4inxy",
 					["id2"] = 51296,
+					["id"] = 2550,
 				}, -- [7]
 				{
 					["sliceToken"] = "ABueaL4inxt",
@@ -146,9 +146,9 @@ OPie_SavedData = {
 					["id"] = 2656,
 				}, -- [11]
 				["version"] = 4,
-				["name"] = "Trade Skills",
 				["save"] = true,
 				["hotkey"] = "ALT-T",
+				["name"] = "Trade Skills",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
@@ -203,7 +203,7 @@ OPie_SavedData = {
 			},
 			["MageTravel"] = {
 				{
-					["sliceToken"] = "OPCMPb",
+					["sliceToken"] = "ABue62qdy7i",
 					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 				}, -- [1]
 				{
@@ -211,11 +211,11 @@ OPie_SavedData = {
 					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 				}, -- [2]
 				{
-					["sliceToken"] = "OPCMPr",
+					["sliceToken"] = "ABue62qdy7u",
 					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 				}, -- [3]
 				{
-					["sliceToken"] = "OPCMPs",
+					["sliceToken"] = "ABue62qdy7y",
 					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 				}, -- [4]
 				{
@@ -228,24 +228,24 @@ OPie_SavedData = {
 				}, -- [6]
 				{
 					["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
-					["sliceToken"] = "OPCMPt",
+					["sliceToken"] = "ABue62qdy7t",
 				}, -- [7]
 				{
 					["id"] = "/cast [mod] {{spell:11418}}; {{spell:3563}}",
-					["sliceToken"] = "OPCMPu",
+					["sliceToken"] = "ABue62qdy71",
 				}, -- [8]
 				{
-					["sliceToken"] = "OPCMPi",
+					["sliceToken"] = "ABue62qdy7r",
 					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 				}, -- [9]
 				{
 					["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
-					["sliceToken"] = "OPCMPo",
+					["sliceToken"] = "ABue62qdy7e",
 				}, -- [10]
 				{
 					"ring", -- [1]
 					"ExtraPortals", -- [2]
-					["sliceToken"] = "OPCMPe",
+					["sliceToken"] = "ABue62qdy7w",
 					["onlyNonEmpty"] = true,
 				}, -- [11]
 				{
@@ -268,10 +268,10 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuevQ2QUi2",
 					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 				}, -- [16]
-				["name"] = "Portals and Teleports",
 				["limit"] = "MAGE",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
+				["name"] = "Portals and Teleports",
 			},
 			["ipmentSets"] = {
 				{
@@ -380,10 +380,10 @@ OPie_SavedData = {
 					["show"] = "[spec:64/63] hide;",
 					["sliceToken"] = "ABue376TIGe",
 				}, -- [10]
-				["limit"] = "Adamancy-Turalyon",
+				["name"] = "Equipment sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment sets",
+				["limit"] = "Adamancy-Turalyon",
 			},
 		},
 	},

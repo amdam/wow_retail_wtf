@@ -14445,50 +14445,42 @@ DCS_ClassSpecDB = {
 			["hidden"] = true,
 		}, -- [49]
 		{
-			["statKey"] = "RATING_2V2",
+			["statKey"] = "HONOR_PROGRESS",
 			["hideAt"] = 0,
 		}, -- [50]
 		{
-			["statKey"] = "HONOR_PROGRESS",
+			["statKey"] = "RATING_RBG",
 			["hideAt"] = 0,
 		}, -- [51]
 		{
-			["statKey"] = "CONQUEST_PROGRESS",
+			["statKey"] = "CR_CORRUPTION_RESISTANCE",
 			["hideAt"] = 0,
 		}, -- [52]
 		{
-			["statKey"] = "RATING_RBG",
-			["hideAt"] = 0,
-		}, -- [53]
-		{
-			["statKey"] = "RATING_3V3",
-			["hideAt"] = 0,
-		}, -- [54]
-		{
-			["statKey"] = "CR_CORRUPTION_RESISTANCE",
-			["hideAt"] = 0,
-		}, -- [55]
-		{
-			["statKey"] = "CR_CORRUPTION",
-			["hideAt"] = 0,
-		}, -- [56]
-		{
 			["statKey"] = "CorruptionCategory",
-		}, -- [57]
-		{
-			["statKey"] = "CR_TOTAL_CORRUPTION",
-			["hideAt"] = 0,
-		}, -- [58]
+		}, -- [53]
 		{
 			["statKey"] = "HONOR_LEVEL",
 			["hideAt"] = 0,
-		}, -- [59]
+		}, -- [54]
 		{
 			["statKey"] = "HonorCategory",
-		}, -- [60]
+		}, -- [55]
 		{
-			["statKey"] = "ConquestCategory",
-		}, -- [61]
+			["statKey"] = "UserCat4",
+		}, -- [56]
+		{
+			["statKey"] = "UserCat5",
+		}, -- [57]
+		{
+			["statKey"] = "UserCat3",
+		}, -- [58]
+		{
+			["statKey"] = "UserCat2",
+		}, -- [59]
+		{
+			["statKey"] = "UserCat1",
+		}, -- [60]
 		["uniqueKey"] = "Furrys:Turalyon:1",
 	},
 	["Artoc:Silvermoon:1"] = {

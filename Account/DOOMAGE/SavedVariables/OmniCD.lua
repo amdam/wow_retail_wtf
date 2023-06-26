@@ -40,6 +40,7 @@ OmniCDDB = {
 				["noneZoneSetting"] = "party",
 				["groupSize"] = {
 					["raid"] = 5,
+					["none"] = 5,
 				},
 				["party"] = {
 					["extraBars"] = {

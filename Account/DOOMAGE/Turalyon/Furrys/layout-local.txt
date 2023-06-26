@@ -13,10 +13,3 @@ X: 0
 Y: 0
 W: 365
 H: 239
-Frame: LootHistoryFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -121
-Y: 122
-W: 210
-H: 175

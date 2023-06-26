@@ -13,12 +13,12 @@ CliqueDB3 = {
 		},
 		["Adamancy - Turalyon"] = {
 			["spec1_profileKey"] = "Adamancy - Turalyon",
-			["alerthidden"] = true,
+			["spec2_profileKey"] = "Adamancy - Turalyon",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Adamancy - Turalyon",
 			["spec3_profileKey"] = "Adamancy - Turalyon",
+			["alerthidden"] = true,
+			["specswap"] = false,
 		},
 		["Furrys - Turalyon"] = {
 			["spec1_profileKey"] = "Furrys - Turalyon",
@@ -47,21 +47,21 @@ CliqueDB3 = {
 		},
 		["Kayne - Turalyon"] = {
 			["spec1_profileKey"] = "Kayne - Turalyon",
-			["spec2_profileKey"] = "Kayne - Turalyon",
+			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
+			["spec2_profileKey"] = "Kayne - Turalyon",
 			["spec3_profileKey"] = "Kayne - Turalyon",
 			["alerthidden"] = true,
-			["specswap"] = false,
 		},
 		["Amdam - Turalyon"] = {
 			["spec1_profileKey"] = "Amdam - Turalyon",
 			["fastooc"] = false,
-			["specswap"] = false,
-			["downclick"] = false,
 			["spec2_profileKey"] = "Amdam - Turalyon",
+			["downclick"] = false,
 			["spec3_profileKey"] = "Amdam - Turalyon",
 			["alerthidden"] = true,
+			["specswap"] = false,
 		},
 		["Caldo - Turalyon"] = {
 			["spec1_profileKey"] = "Abel - Turalyon",
@@ -74,20 +74,28 @@ CliqueDB3 = {
 		},
 		["Badam - Turalyon"] = {
 			["spec1_profileKey"] = "Badam - Turalyon",
+			["specswap"] = false,
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec3_profileKey"] = "Badam - Turalyon",
+			["spec2_profileKey"] = "Badam - Turalyon",
+			["alerthidden"] = true,
+		},
+		["Adamian - Turalyon"] = {
+			["spec1_profileKey"] = "Adamian - Turalyon",
 			["alerthidden"] = true,
 			["downclick"] = false,
 			["fastooc"] = false,
 			["specswap"] = false,
-			["spec3_profileKey"] = "Badam - Turalyon",
-			["spec2_profileKey"] = "Badam - Turalyon",
+			["spec2_profileKey"] = "Adamian - Turalyon",
 		},
 		["Adamn - Turalyon"] = {
 			["spec1_profileKey"] = "Adamn - Turalyon",
-			["spec2_profileKey"] = "Adamn - Turalyon",
+			["spec3_profileKey"] = "Adamn - Turalyon",
 			["downclick"] = false,
 			["fastooc"] = false,
+			["spec2_profileKey"] = "Adamn - Turalyon",
 			["specswap"] = false,
-			["spec3_profileKey"] = "Adamn - Turalyon",
 		},
 		["Christoff - Turalyon"] = {
 			["spec1_profileKey"] = "Christoff - Turalyon",
@@ -98,14 +106,6 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Christoff - Turalyon",
 			["specswap"] = false,
 			["alerthidden"] = true,
-		},
-		["Adamian - Turalyon"] = {
-			["spec1_profileKey"] = "Adamian - Turalyon",
-			["alerthidden"] = true,
-			["downclick"] = false,
-			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Adamian - Turalyon",
 		},
 		["Dreg - Turalyon"] = {
 			["spec1_profileKey"] = "Dreg - Turalyon",
@@ -135,10 +135,10 @@ CliqueDB3 = {
 	["profileKeys"] = {
 		["Adomic - Turalyon"] = "Adomic - Turalyon",
 		["Christifur - Turalyon"] = "Christifur - Turalyon",
-		["Dogs - Turalyon"] = "Dogs - Turalyon",
+		["Adrid - Turalyon"] = "Adrid - Turalyon",
 		["Kayne - Turalyon"] = "Kayne - Turalyon",
 		["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
-		["Adrid - Turalyon"] = "Adrid - Turalyon",
+		["Beebo - Turalyon"] = "Beebo - Turalyon",
 		["Caldo - Turalyon"] = "Abel - Turalyon",
 		["Aduum - Turalyon"] = "Aduum - Turalyon",
 		["Christoff - Turalyon"] = "Caris - Turalyon",
@@ -161,7 +161,7 @@ CliqueDB3 = {
 		["Svend - Turalyon"] = "Badam - Turalyon",
 		["Adamn - Turalyon"] = "Adamn - Turalyon",
 		["Artoc - Zul'jin"] = "Artoc - Zul'jin",
-		["Beebo - Turalyon"] = "Beebo - Turalyon",
+		["Dogs - Turalyon"] = "Dogs - Turalyon",
 		["Shado - Turalyon"] = "Shado - Turalyon",
 	},
 	["profiles"] = {
@@ -203,7 +203,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Dogs - Turalyon"] = {
+		["Adrid - Turalyon"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -280,13 +280,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Adrid - Turalyon"] = {
+		["Beebo - Turalyon"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -1623,13 +1623,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Beebo - Turalyon"] = {
+		["Dogs - Turalyon"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

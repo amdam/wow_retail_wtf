@@ -128,3 +128,8 @@ TipTacOptions: disabled
 TipTacTalents: disabled
 Tukui_NamePlateFeatures: disabled
 ElvUI_Options: enabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+WunderUI: disabled
+VenturePlanSoDMissions: disabled

@@ -27,7 +27,8 @@ RematchSettings = {
 	["SpecialSlots"] = {
 	},
 	["XPos"] = 852.7777099609375,
-	["JournalUsed"] = true,
+	["QueueSanctuary"] = {
+	},
 	["HidePetToast"] = true,
 	["FavoriteFilters"] = {
 	},
@@ -43,8 +44,7 @@ RematchSettings = {
 			"Interface\\Icons\\PetJournalPortrait", -- [2]
 		}, -- [1]
 	},
-	["LevelingQueue"] = {
-	},
+	["NotesFont"] = "GameFontHighlight",
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -78,7 +78,7 @@ RematchSettings = {
 	["ExpandedOptHeaders"] = {
 	},
 	["CustomScaleValue"] = 100,
-	["NotesFont"] = "GameFontHighlight",
+	["JournalUsed"] = true,
 	["ElvUIToastDefaulted"] = true,
 	["ExpandedTargetHeaders"] = {
 	},
@@ -89,10 +89,12 @@ RematchSettings = {
 	["JournalPanel"] = 1,
 	["CornerPos"] = "BOTTOMLEFT",
 	["QueueSortOrder"] = 1,
-	["QueueSanctuary"] = {
+	["LevelingQueue"] = {
 	},
 	["YPos"] = 338,
 	["SelectedTab"] = 1,
 	["PetNotes"] = {
 	},
 }
+Rematch4Saved = nil
+Rematch4Settings = nil

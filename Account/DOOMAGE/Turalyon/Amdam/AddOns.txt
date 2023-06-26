@@ -224,3 +224,4 @@ WunderUI: disabled
 BigWigs_Aberrus: enabled
 LittleWigs_BattleForAzeroth: enabled
 LittleWigs_Cataclysm: enabled
+VenturePlanSoDMissions: disabled
