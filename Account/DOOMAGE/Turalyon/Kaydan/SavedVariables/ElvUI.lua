@@ -2196,11 +2196,11 @@ ElvCharacterDB = {
 		"/who", -- [13]
 		"/cw grumpyknight thx for the bracers friend", -- [14]
 		"/cw grumpyknight are you able to proc 418 on those? I can send you a recraft", -- [15]
-		"/macro", -- [16]
-		"/wa", -- [17]
-		"/2 nah that one would escape with a golden parachute", -- [18]
-		"/who Grumpyknight", -- [19]
-		"/cw grumpyknight are you able to proc rank 5 boots?", -- [20]
+		"/wa", -- [16]
+		"/2 nah that one would escape with a golden parachute", -- [17]
+		"/who Grumpyknight", -- [18]
+		"/cw grumpyknight are you able to proc rank 5 boots?", -- [19]
+		"/macro", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

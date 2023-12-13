@@ -1,25 +1,40 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
 	["alwaysExtendTooltip"] = false,
-	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
-	["enableLFGTooltips"] = true,
+	["showDropDownCopyURL"] = true,
 	["showSimpleScoreColors"] = false,
+	["profilePoint"] = {
+		["y"] = 0,
+		["x"] = -16,
+		["point"] = "TOPLEFT",
+	},
+	["enableLFGTooltips"] = true,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
 	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Adamancy-turalyon"
+RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-	["us-Whispe-turalyon"] = true,
+	["us-Kalamath-turalyon"] = true,
+	["us-Sylentnyght-turalyon"] = true,
+	["us-Crîtoris-turalyon"] = true,
+	["us-Bombaata-turalyon"] = true,
+	["us-Knitzel-turalyon"] = true,
+	["us-Tynan-turalyon"] = true,
+	["us-Hacknasty-turalyon"] = true,
+	["us-Maeralya-turalyon"] = true,
+	["us-Amdam-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }
 RaiderIO_CachedRuns = nil
 RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
 }

@@ -145,3 +145,8 @@ ElvUI_ChatTweaks: disabled
 WunderUI: disabled
 LittleWigs: enabled
 VenturePlanSoDMissions: disabled
+RematchElvUISkin: disabled
+BigWigs_Amirdrassil: enabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Legion: enabled
+LittleWigs_Cataclysm: enabled

@@ -2,1525 +2,1349 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"<EH> Amdam got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"Tank Soak on Adverbs", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			898, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3035, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638272,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444707,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [1]
 		{
-			"<EH> Azados got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			899, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3036, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638274,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444708,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [2]
 		{
-			"<EH> Amdam got hit by |cff71d5ff|Hspell:256552:0|h[Flailing Shark]|h|r for 270.0k (45%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			901, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3037, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638287,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444709,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [3]
 		{
-			"<EH> Meanmugn-Thrall got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"Searing Aftermath on Adverbs", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			902, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3038, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638288,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444710,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [4]
 		{
-			"<EH> Gonjawar got hit by |cff71d5ff|Hspell:256552:0|h[Flailing Shark]|h|r for 609.9k (106%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			903, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3039, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638292,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702444711,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"<EH> Meanmugn-Thrall got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			904, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3040, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638354,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444711,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"<EH> Meanmugn-Thrall got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Déathtrap-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Déathtrap-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			905, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3041, -- [11]
+			"Player-3676-0E20CED2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638300,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dDéathtrap-Area52|r",
+			[51] = 1702444711,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [7]
 		{
-			"<EH> Meanmugn-Thrall got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			906, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3042, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638311,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702444711,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"<EH> Amdam got hit by |cff71d5ff|Hspell:256552:0|h[Flailing Shark]|h|r for 548.9k (92%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			909, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3043, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638331,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702444712,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [9]
 		{
-			"<EH> Gonjawar got hit by |cff71d5ff|Hspell:256552:0|h[Flailing Shark]|h|r for 304.9k (53%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			910, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3044, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702444712,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"Shark Toss on Azados", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			911, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3045, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638335,
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444712,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"<EH> Azados got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Déathtrap-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Déathtrap-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			912, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3046, -- [11]
+			"Player-3676-0E20CED2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638336,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dDéathtrap-Area52|r",
+			[51] = 1702444712,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"Shark Toss on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"2", -- [1]
+			"Castìel-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Castìel-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			913, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3047, -- [11]
+			"Player-3685-0E26F164", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638346,
+			[52] = "|cfff48cbaCastìel|r",
+			[51] = 1702444712,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [13]
 		{
-			"<EH> Meanmugn-Thrall got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			914, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3048, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638364,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444713,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"Shark Toss on Meanmugn", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"1", -- [1]
+			"Sedgiehunt-Cenarius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Sedgiehunt-Cenarius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			915, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3049, -- [11]
+			"Player-1168-0ABB8E17", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638366,
+			[52] = "|cffaad372Sedgiehunt-Cenarius|r",
+			[51] = 1702444713,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"<EH> Gonjawar got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Déathtrap-Area52", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Déathtrap-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			916, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3050, -- [11]
+			"Player-3676-0E20CED2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638366,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dDéathtrap-Area52|r",
+			[51] = 1702444713,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"<EH> Amdam got hit by |cff71d5ff|Hspell:272554:0|h[Bloody Mess]|h|r.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			917, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3051, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638369,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702444713,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"<EH> Meanmugn-Thrall got hit by |cff71d5ff|Hspell:256552:0|h[Flailing Shark]|h|r for 332.2k (59%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Castìel-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Castìel-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			918, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3052, -- [11]
+			"Player-3685-0E26F164", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638379,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff48cbaCastìel|r",
+			[51] = 1702444713,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"<EH> Amdam got hit by |cff71d5ff|Hspell:256552:0|h[Flailing Shark]|h|r for 256.5k (43%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			919, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3053, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638397,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444713,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"Details! Amdam's Death: [Melee]: 197K [Melee]: 215K [Melee]: 186K ", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			922, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3061, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638428,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444780,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"Details! Meanmugn's Death: [Melee]: 352K [Melee]: 144K [Melee]: 316K ", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			924, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3062, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638552,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702444780,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [21]
 		{
-			"卄乇ㄥㄥ　ㄚ乇卂卄　乃尺ㄖㄒ卄乇尺", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"2", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			925, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3063, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638552,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444781,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [22]
 		{
-			"goddammit man", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"2", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			926, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3064, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638553,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702444781,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
 		{
-			"np", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			927, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3065, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638557,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702444781,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"r", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"3", -- [1]
+			"Swair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Swair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			928, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3066, -- [11]
+			"Player-3685-0E49B523", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638573,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aSwair|r",
+			[51] = 1702444782,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"Cannon Barrage on Meanmugn", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"1", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			931, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3067, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638604,
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702444782,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [26]
 		{
-			"Fixate on Gonjawar", -- [1]
-			"Gonjawar-Turalyon", -- [2]
+			"Progress!", -- [1]
+			"Sedgiehunt-Cenarius", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gonjawar-Turalyon", -- [5]
+			"Sedgiehunt-Cenarius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			933, -- [11]
-			"Player-3685-0E131DE4", -- [12]
+			3079, -- [11]
+			"Player-1168-0ABB8E17", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGonjawar|r",
-			[51] = 1687638619,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Sedgiehunt-Cenarius|r",
+			[51] = 1702444807,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [27]
 		{
-			"Cannon Barrage on Gonjawar", -- [1]
-			"Gonjawar-Turalyon", -- [2]
+			"yea :)", -- [1]
+			"Salvenùs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gonjawar-Turalyon", -- [5]
+			"Salvenùs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			935, -- [11]
-			"Player-3685-0E131DE4", -- [12]
+			3081, -- [11]
+			"Player-3685-0E490828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGonjawar|r",
-			[51] = 1687638629,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Salvenùs|r",
+			[51] = 1702444812,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [28]
 		{
-			"Details! Amdam's Death: |cff71d5ff|Hspell:413146:0|h[Swiftwind Saber]|h|r: 594K ", -- [1]
-			"Azados-Turalyon", -- [2]
+			"Tynan cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Sulveris", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			938, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3082, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638634,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702444832,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [29]
 		{
-			"<EH> Amdam got hit by |cff71d5ff|Hspell:413146:0|h[Swiftwind Saber]|h|r for 658.7k (116%).", -- [1]
-			"Azados-Turalyon", -- [2]
+			"Remember to use stones & health pots", -- [1]
+			"Sulveris-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Sulveris", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			939, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3083, -- [11]
+			"Player-3685-0AB19C74", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638638,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffff7c0aSulveris|r",
+			[51] = 1702444832,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [30]
 		{
-			"Black Powder Bomb on Azados", -- [1]
-			"Azados-Turalyon", -- [2]
+			"OMG, wealthy Déathtrap puts |cff71d5ff|Hspell:382427:0|h[Grand Banquet of the Kalu'ak]|h|r!", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			941, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3085, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638645,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702444833,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [31]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"Knitzel cast |cff71d5ff|Hspell:20707:0|h[Soulstone]|h|r -> Sulveris", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			947, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3087, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638680,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702444837,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"Cannon Barrage on Gonjawar", -- [1]
-			"Gonjawar-Turalyon", -- [2]
+			"during intermission, staying in melee can be a lot easier", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gonjawar-Turalyon", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			949, -- [11]
-			"Player-3685-0E131DE4", -- [12]
+			3089, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGonjawar|r",
-			[51] = 1687638699,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702444853,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [33]
 		{
-			"Cannon Barrage on Taugul", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"if u can get there :)", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			951, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3090, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638699,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702444859,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [34]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"Tynan is handing out cookies, go and get one!", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			953, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3091, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638699,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702444859,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [35]
 		{
-			"Cannon Barrage on Meanmugn", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"i would say save stones for ph 2 since the movement seems to be higher for healers and their casts", -- [1]
+			"Ctair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Ctair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			957, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3092, -- [11]
+			"Player-3685-081E8037", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638724,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00ff98Ctair|r",
+			[51] = 1702444861,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [36]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"Knitzel is handing out cookies, go and get one!", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			961, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3094, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638724,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702444867,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [37]
 		{
-			"Black Powder Bomb on Azados", -- [1]
-			"Azados-Turalyon", -- [2]
+			"No food (1): Brocendance", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			963, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3095, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638734,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444867,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [38]
 		{
-			"Cannon Barrage on Taugul", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"No flask (0): ", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			967, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3096, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638750,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444867,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [39]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"Party Buffs Stamina (23), Movement (23)", -- [1]
+			"Wandappy-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Wandappy-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			969, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3097, -- [11]
+			"Player-3685-07251FD1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638750,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddWandappy|r",
+			[51] = 1702444867,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [40]
 		{
-			"Fixate on Meanmugn", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"Stamp it!", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			971, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3099, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638759,
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702444917,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"Searing Aftermath on Swair", -- [1]
+			"Swair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Swair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			976, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3102, -- [11]
+			"Player-3685-0E49B523", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638835,
+			[52] = "|cffc41e3aSwair|r",
+			[51] = 1702444933,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			"Cannon Barrage on Taugul", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"3", -- [1]
+			"Attatroy-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Attatroy-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			982, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3103, -- [11]
+			"Player-57-0D7FF30D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638800,
+			[52] = "|cffc69b6dAttatroy-Illidan|r",
+			[51] = 1702444934,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"3", -- [1]
+			"Tynan-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Tynan-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			984, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3104, -- [11]
+			"Player-3685-07247D55", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638800,
+			[52] = "|cff8788eeTynan|r",
+			[51] = 1702444935,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [44]
 		{
-			"Black Powder Bomb on Azados", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			986, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3105, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638809,
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702444935,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"Cannon Barrage on Amdam", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"3", -- [1]
+			"Salvenùs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Salvenùs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			992, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3106, -- [11]
+			"Player-3685-0E490828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638815,
+			[52] = "|cffaad372Salvenùs|r",
+			[51] = 1702444935,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12998:Player-3685-0722C2B9:1:6:24:23:4294967295:4294967295:4294967295:4294967295|h[That Sweete Booty]|h|r!", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"3", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Amdam-Turalyon", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			994, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3107, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638821,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702444935,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"Thank you for travelling with ElitismHelper.", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Attatroy-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Attatroy-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			997, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3108, -- [11]
+			"Player-57-0D7FF30D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dAttatroy-Illidan|r",
+			[51] = 1702444935,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"<EH> Amount of avoidable damage:", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Tynan-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Tynan-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			998, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3109, -- [11]
+			"Player-3685-07247D55", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8788eeTynan|r",
+			[51] = 1702444935,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [49]
 		{
-			"1. Azados 1400.4k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Salvenùs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Salvenùs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			999, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3110, -- [11]
+			"Player-3685-0E490828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Salvenùs|r",
+			[51] = 1702444935,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [50]
 		{
-			"2. Meanmugn-Thrall 1611.2k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"2", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1000, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3111, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702444935,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"3. Taugul 1795.6k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Swair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Swair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1001, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3112, -- [11]
+			"Player-3685-0E49B523", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc41e3aSwair|r",
+			[51] = 1702444936,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"4. Gonjawar 4027.7k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Attatroy-Illidan", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Attatroy-Illidan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1002, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3113, -- [11]
+			"Player-57-0D7FF30D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dAttatroy-Illidan|r",
+			[51] = 1702444936,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"5. Amdam 4528.3k", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Tynan-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Azados-Turalyon", -- [5]
+			"Tynan-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1003, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3114, -- [11]
+			"Player-3685-07247D55", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8788eeTynan|r",
+			[51] = 1702444936,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Thank you for travelling with ElitismHelper.", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"1", -- [1]
+			"Salvenùs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Salvenùs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1004, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3115, -- [11]
+			"Player-3685-0E490828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffaad372Salvenùs|r",
+			[51] = 1702444936,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"<EH> Amount of avoidable damage:", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"1", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1005, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3116, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702444936,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"1. Azados 1400.4k", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"Tank Soak on Adverbs", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1006, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3120, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444960,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [57]
 		{
-			"2. Meanmugn-Thrall 1611.2k", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"2", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1007, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3121, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444961,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [58]
 		{
-			"3. Taugul 1795.6k", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"1", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1008, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3122, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444962,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [59]
 		{
-			"4. Gonjawar 4027.7k", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"Searing Aftermath on Adverbs", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1009, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3123, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702444963,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [60]
 		{
-			"5. Amdam 4528.3k", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"3", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1010, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3124, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638891,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"sorry about the fuck up", -- [1]
-			"Meanmugn-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1013, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638904,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
-		{
-			"ups*", -- [1]
-			"Meanmugn-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1014, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638906,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
-		{
-			"np", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1016, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638912,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
-		{
-			"grats on dice!", -- [1]
-			"Meanmugn-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1021, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638920,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"you need? ", -- [1]
-			"Meanmugn-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1022, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638925,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
-		{
-			"no", -- [1]
-			"Taugul-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Taugul-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1023, -- [11]
-			"Player-3685-08487D9A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638928,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
-		{
-			"no other agis lol", -- [1]
-			"Taugul-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Taugul-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1025, -- [11]
-			"Player-3685-08487D9A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638937,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"YES", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1028, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687638941,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
-		{
-			"lol", -- [1]
+			"3", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1530,7 +1354,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1029, -- [11]
+			3125, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1538,329 +1362,505 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687638943,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [62]
+		{
+			"3", -- [1]
+			"Déathtrap-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Déathtrap-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3126, -- [11]
+			"Player-3676-0E20CED2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDéathtrap-Area52|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [63]
+		{
+			"2", -- [1]
+			"Mikya-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mikya-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3127, -- [11]
+			"Player-3685-0703D328", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"2", -- [1]
+			"Déathtrap-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Déathtrap-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3128, -- [11]
+			"Player-3676-0E20CED2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDéathtrap-Area52|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"2", -- [1]
+			"Amdam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Amdam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3129, -- [11]
+			"Player-3685-0722C2B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [66]
+		{
+			"2", -- [1]
+			"Castìel-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Castìel-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3130, -- [11]
+			"Player-3685-0E26F164", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCastìel|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [67]
+		{
+			"2", -- [1]
+			"Brocendance-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Brocendance-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3131, -- [11]
+			"Player-3685-0E4624FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddBrocendance|r",
+			[51] = 1702444965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [68]
+		{
+			"1", -- [1]
+			"Mikya-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mikya-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3132, -- [11]
+			"Player-3685-0703D328", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702444966,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [69]
+		{
+			"1", -- [1]
+			"Déathtrap-Area52", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Déathtrap-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3133, -- [11]
+			"Player-3676-0E20CED2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDéathtrap-Area52|r",
+			[51] = 1702444966,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
-			"tytyty", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"1", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1031, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3134, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638946,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1702444966,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"thanks again for the carry folks", -- [1]
-			"Meanmugn-Thrall", -- [2]
+			"1", -- [1]
+			"Castìel-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Meanmugn-Thrall", -- [5]
+			"Castìel-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1034, -- [11]
-			"Player-3678-0D1A5E47", -- [12]
+			3135, -- [11]
+			"Player-3685-0E26F164", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddMeanmugn-Thrall|r",
-			[51] = 1687638963,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaCastìel|r",
+			[51] = 1702444966,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"ggs", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"1", -- [1]
+			"Brocendance-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Taugul-Turalyon", -- [5]
+			"Brocendance-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1035, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3136, -- [11]
+			"Player-3685-0E4624FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687638967,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070ddBrocendance|r",
+			[51] = 1702444966,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"gg homie", -- [1]
-			"Gonjawar-Turalyon", -- [2]
+			"Sulveris cast |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r -> Addlee", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gonjawar-Turalyon", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1036, -- [11]
-			"Player-3685-0E131DE4", -- [12]
+			3142, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dGonjawar|r",
-			[51] = 1687638970,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702445023,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [74]
 		{
-			"hey adam, got your 4 dungeons for the week?", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Castìel-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Castìel-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			104, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3146, -- [11]
+			"Player-3685-0E26F164", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687805963,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaCastìel|r",
+			[51] = 1702445033,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"sure did", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"3", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			105, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3147, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687805975,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702445033,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"excellent", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			106, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3148, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687805981,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702445033,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"did I send my work orders to the right character", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"3", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			109, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3149, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806186,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1702445033,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"yep they should be in your mailbox", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"2", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			110, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3150, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806203,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702445034,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [79]
 		{
-			"oh okay weird, game says I don't have mail", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"2", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			111, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3151, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806215,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702445034,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [80]
 		{
-			"cool, thanks!", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"2", -- [1]
+			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			112, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3152, -- [11]
+			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806221,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaAmdam|r",
+			[51] = 1702445034,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [81]
 		{
-			"np", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"3", -- [1]
+			"Swair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Swair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			113, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3153, -- [11]
+			"Player-3685-0E49B523", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806230,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aSwair|r",
+			[51] = 1702445035,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [82]
 		{
-			"only took 6 months to get max profession equipment >.>", -- [1]
-			"Azados-Turalyon", -- [2]
+			"1", -- [1]
+			"Hvelt-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hvelt-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			114, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3154, -- [11]
+			"Player-3685-07CE9AB1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687806255,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaHvelt|r",
+			[51] = 1702445035,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [83]
 		{
-			"lol", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"1", -- [1]
+			"Sinnaka-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sinnaka-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			115, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3155, -- [11]
+			"Player-3685-0A24E7EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806262,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff0070ddSinnaka|r",
+			[51] = 1702445035,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"hmm this comes from LW doesnt it? |cff0070dd|Hitem:193616::::::::70:70::13:3:8843:8842:8806:3:28:2164:38:7:40:344::::Player-3685-0A45C722:|h[Resplendent Cover |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r", -- [1]
+			"1", -- [1]
 			"Amdam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Amdam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			116, -- [11]
+			3156, -- [11]
 			"Player-3685-0722C2B9", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1868,339 +1868,339 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806287,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1702445035,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [85]
 		{
-			"yeah I don't like how slow of a grind the prof stuff is", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"2", -- [1]
+			"Swair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Swair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			117, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3157, -- [11]
+			"Player-3685-0E49B523", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806296,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc41e3aSwair|r",
+			[51] = 1702445036,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [86]
 		{
-			"yeah", -- [1]
-			"Azados-Turalyon", -- [2]
+			"Miss timed the ring :-/", -- [1]
+			"Brocendance-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Brocendance-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			118, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3158, -- [11]
+			"Player-3685-0E4624FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687806299,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff0070ddBrocendance|r",
+			[51] = 1702445037,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [87]
 		{
-			"yeah", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"we're not leaving space for the melee to be \"behind\" boss i think/", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			119, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3163, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806307,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702445054,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [88]
 		{
-			"I can rank 5 it I think", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"?", -- [1]
+			"Addlee-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Addlee-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			120, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3166, -- [11]
+			"Player-3685-0E24EB34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806313,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffAddlee|r",
+			[51] = 1702445056,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [89]
 		{
-			"can you hit r5?", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"You are free to release, I will not beat you to death", -- [1]
+			"Sulveris-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Sulveris", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			121, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3167, -- [11]
+			"Player-3685-0AB19C74", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806316,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aSulveris|r",
+			[51] = 1702445058,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [90]
 		{
-			"if I use an illustrious I think so", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"Tank Soak on Adverbs", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			122, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3170, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806330,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702445059,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [91]
 		{
-			"I have the prof tree maxed out", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"2", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			124, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3171, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806339,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702445060,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [92]
 		{
-			"k let me send it and we can see", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"1", -- [1]
+			"Adverbs-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Adverbs-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			125, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3172, -- [11]
+			"Player-3685-0A90B022", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806339,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00ff98Adverbs|r",
+			[51] = 1702445061,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [93]
 		{
-			"don't forget, you can enchant your tools|cff0070dd|Hitem:198246:6670:::::::70:66::13:4:8843:8842:8807:8862:5:28:2164:29:76:38:8:40:627:49:198536::::Player-3685-07251D87:|h[Khaz'gorite Encased Samophlange |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r, resourcefulness", -- [1]
-			"Azados-Turalyon", -- [2]
+			"3", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			127, -- [11]
-			"Player-3685-07251D87", -- [12]
+			3176, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1687806369,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702445063,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [94]
 		{
-			"ok i sent that over, lmk if you need any r3 hides", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"2", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			132, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3177, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806495,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702445064,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [95]
 		{
-			"ezpz", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"1", -- [1]
+			"Mikya-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Mikya-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			133, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3178, -- [11]
+			"Player-3685-0703D328", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806496,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc7ebMikya|r",
+			[51] = 1702445065,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [96]
 		{
-			"na r3 is overkill", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"well done everyone!", -- [1]
+			"Ctair-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Ctair-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			135, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3180, -- [11]
+			"Player-3685-081E8037", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806503,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff00ff98Ctair|r",
+			[51] = 1702445075,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [97]
 		{
-			"nice, ty", -- [1]
-			"Amdam-Turalyon", -- [2]
+			"ty all", -- [1]
+			"Hacknasty-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hacknasty-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			137, -- [11]
-			"Player-3685-0722C2B9", -- [12]
+			3184, -- [11]
+			"Player-3685-0E4F50BB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAmdam|r",
-			[51] = 1687806510,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa330c9Hacknasty|r",
+			[51] = 1702445098,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"the rank 3 leather is enough", -- [1]
-			"Taugul-Turalyon", -- [2]
+			"will you posting a roster before the raid?", -- [1]
+			"Hálfpint-Eldre'Thalas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Hálfpint-Eldre'Thalas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			138, -- [11]
-			"Player-3685-08487D9A", -- [12]
+			3186, -- [11]
+			"Player-84-0A77488C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTaugul|r",
-			[51] = 1687806511,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8788eeHálfpint-Eldre'Thalas|r",
+			[51] = 1702445105,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/p nah that must be wrong", -- [1]
-		"/p yellow text in chat says 2 min 58 sec left", -- [2]
-		"/p brb sec", -- [3]
-		"/p lol", -- [4]
-		"/roll 1500000000", -- [5]
-		"/roll 500896", -- [6]
-		"/roll 218205", -- [7]
-		"/roll 58107", -- [8]
-		"/roll 8484", -- [9]
-		"/roll 1603", -- [10]
-		"/roll 29", -- [11]
-		"/g sure did", -- [12]
-		"/g yep they should be in your mailbox", -- [13]
-		"/g np", -- [14]
-		"/g lol", -- [15]
-		"/g hmm this comes from LW doesnt it? |cff0070dd|Hitem:193616::::::::70:70::13:3:8843:8842:8806:3:28:2164:38:7:40:344::::Player-3685-0A45C722:|h[Resplendent Cover |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r", -- [16]
-		"/g can you hit r5?", -- [17]
-		"/g k let me send it and we can see", -- [18]
-		"/g ok i sent that over, lmk if you need any r3 hides", -- [19]
-		"/g nice, ty", -- [20]
+		"/p hi there", -- [1]
+		"/p hi", -- [2]
+		"/p dht, summoning now", -- [3]
+		"/cw Heyimsafe-Stormrage lol", -- [4]
+		"/p gg fellas", -- [5]
+		"/p gz", -- [6]
+		"/p tyfg", -- [7]
+		"/cw Wandappy inv", -- [8]
+		"/g did you say we aren't counting normal need rolls?", -- [9]
+		"/g cool", -- [10]
+		"/raid yeah i put it in raiding discussion", -- [11]
+		"/raid bro", -- [12]
+		"/raid np bro", -- [13]
+		"/raid encouraging them out the window", -- [14]
+		"/simc", -- [15]
+		"/loot", -- [16]
+		"/raid salv", -- [17]
+		"/raid yep your facing decides which directions the tornadoes fly off", -- [18]
+		"/raid whys my fire broken :(", -- [19]
+		"/raid klomp klomp", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

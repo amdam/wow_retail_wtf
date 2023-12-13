@@ -1,24 +1,79 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
 	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
-	["enableLFGTooltips"] = true,
+	["showDropDownCopyURL"] = true,
 	["enableWhoTooltips"] = true,
+	["profilePoint"] = {
+		["y"] = 0,
+		["x"] = -16,
+		["point"] = "TOPLEFT",
+	},
+	["enableLFGTooltips"] = true,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
 	["showSimpleScoreColors"] = false,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Amdam-turalyon"
+RaiderIO_LastCharacter = "us-Adamancy-turalyon"
 RaiderIO_MissingCharacters = {
+	["us-Cpkizzle-turalyon"] = true,
+	["us-Seductra-staghelm"] = true,
+	["us-Jalese-caelestrasz"] = true,
+	["us-Ahump-kelthuzad"] = true,
+	["us-Auraalon-moon-guard"] = true,
+	["us-Reì-turalyon"] = true,
+	["us-Jeeso-quelthalas"] = true,
+	["us-Mekow-thrall"] = true,
+	["us-Rralezpally-thrall"] = true,
+	["us-Faelynna-turalyon"] = true,
+	["us-Drynwhyl-turalyon"] = true,
+	["us-Silverdragon-turalyon"] = true,
+	["us-Maggot-uldaman"] = true,
+	["us-Ketaset-cenarius"] = true,
+	["us-Boneparte-turalyon"] = true,
+	["us-Uvelir-turalyon"] = true,
+	["us-Danzarina-quelthalas"] = true,
+	["us-Krystine-ravencrest"] = true,
+	["us-Kyrujupanu-argent-dawn"] = true,
+	["us-Doorfus-kilrogg"] = true,
+	["us-Tempestchibi-turalyon"] = true,
+	["us-Lowthar-turalyon"] = true,
+	["us-Gorthus-nazgrel"] = true,
+	["us-Netathia-staghelm"] = true,
+	["us-Lindyndh-frostmourne"] = true,
+	["us-Rowana-hydraxis"] = true,
+	["us-Bloodmore-galakrond"] = true,
+	["us-Dameond-shandris"] = true,
+	["us-Redfane-stormrage"] = true,
+	["us-Sacredmisery-turalyon"] = true,
+	["us-Sargus-turalyon"] = true,
+	["us-Mystyque-turalyon"] = true,
+	["us-Grolnaar-madoran"] = true,
+	["us-Arkwhelm-proudmoore"] = true,
+	["us-Zazzell-stormscale"] = true,
+	["us-Rothran-malganis"] = true,
+	["us-Sarnaisaran-moon-guard"] = true,
+	["us-Seviche-turalyon"] = true,
+	["us-Clarklynn-turalyon"] = true,
+	["us-Beathan-turalyon"] = true,
+	["us-Tealea-turalyon"] = true,
+	["us-Vigoza-turalyon"] = true,
+	["us-Norgrim-turalyon"] = true,
+	["us-Rollando-turalyon"] = true,
+	["us-Flipedis-turalyon"] = true,
+	["us-Ocatsti-sargeras"] = true,
+	["us-Primalmoon-turalyon"] = true,
+	["us-Terentatek-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }
 RaiderIO_CachedRuns = nil
 RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
 }

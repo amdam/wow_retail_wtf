@@ -6,13 +6,6 @@ X: -56
 Y: 9
 W: 784
 H: 260
-Frame: PlayerPowerBarAlt
-FrameLevel: 2
-Anchor: TOP
-X: 0
-Y: -90
-W: 10
-H: 10
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -27,3 +20,10 @@ X: -3
 Y: 138
 W: 261
 H: 590
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: BOTTOM
+X: -326
+Y: 136
+W: 251
+H: 134

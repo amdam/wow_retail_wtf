@@ -2,28 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"{cross} 2", -- [1]
-			"Steeberino-Area52", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Steeberino-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			592, -- [11]
-			"Player-3676-0DF108E4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Steeberino-Area52|r",
-			[51] = 1681517145,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [1]
-		{
 			"{rt6}1", -- [1]
 			"Linthalas-Illidan", -- [2]
 			"", -- [3]
@@ -44,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517146,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [2]
+		}, -- [1]
 		{
 			"{cross} 1", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517146,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Clear", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517147,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"{rt7}", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
+		}, -- [4]
 		{
 			"{cross}", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
+		}, -- [6]
 		{
 			"{rt7}", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
+		}, -- [7]
 		{
 			"{square}", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517208,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517209,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517210,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"Clear", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517210,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [12]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517211,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"Clear", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [14]
 		{
 			"Clear", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [15]
 		{
 			"{rt7}", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517338,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [16]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517338,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [17]
 		{
 			"{cross}", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517338,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517338,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"{rt6}", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517281,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"Clear", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"Clear", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517282,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [26]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517283,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [27]
 		{
 			"Clear", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517284,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [28]
 		{
 			"{cross} 5", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517288,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [30]
+		}, -- [29]
 		{
 			"{cross} 4", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517289,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [31]
+		}, -- [30]
 		{
 			"{cross} 3", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517290,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [32]
+		}, -- [31]
 		{
 			"{cross} 2", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517291,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [33]
+		}, -- [32]
 		{
 			"{cross} 1", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517292,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [34]
+		}, -- [33]
 		{
 			"{rt7}", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517364,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"{cross}", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517364,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517364,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"{rt6}", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517364,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"{square}", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517364,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517364,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517365,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517366,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517367,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
+		}, -- [42]
 		{
 			"Clear", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517367,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [43]
 		{
 			"{rt7}8", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517371,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [45]
+		}, -- [44]
 		{
 			"{rt6}8", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517371,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [46]
+		}, -- [45]
 		{
 			"{rt7}7", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517372,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [47]
+		}, -- [46]
 		{
 			"{rt6}7", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517372,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [48]
+		}, -- [47]
 		{
 			"{rt7}6", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517373,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [49]
+		}, -- [48]
 		{
 			"{rt6}6", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517373,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [50]
+		}, -- [49]
 		{
 			"{rt7}5", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517374,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [51]
+		}, -- [50]
 		{
 			"{cross} 5", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517374,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [52]
+		}, -- [51]
 		{
 			"{rt6}5", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517374,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [53]
+		}, -- [52]
 		{
 			"Clear", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517375,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"{rt7}4", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517375,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [55]
+		}, -- [54]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"{cross}", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"{cross}", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517445,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517447,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"{rt6}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517447,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [60]
 		{
 			"Clear", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"{rt6}", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517448,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"{rt7}8", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517452,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [64]
+		}, -- [63]
 		{
 			"{rt6}8", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517452,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
+		}, -- [64]
 		{
 			"Clear", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517453,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"{rt7}7", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517453,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [67]
+		}, -- [66]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"{rt7}", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
+		}, -- [68]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"{square}", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517575,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [70]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517576,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [71]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [72]
 		{
 			"Clear", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517577,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [73]
 		{
 			"{rt6}", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517578,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
+		}, -- [74]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517578,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
+		}, -- [75]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517579,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
+		}, -- [76]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517579,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [77]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517520,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [78]
 		{
 			"{rt6}8", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517522,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [80]
+		}, -- [79]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517522,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [80]
 		{
 			"{rt7}8", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517522,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [82]
+		}, -- [81]
 		{
 			"{rt6}7", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517523,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [83]
+		}, -- [82]
 		{
 			"{rt7}7", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517523,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [84]
+		}, -- [83]
 		{
 			"{rt7}", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517523,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [84]
 		{
 			"{rt6}6", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517524,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [86]
+		}, -- [85]
 		{
 			"{rt7}6", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517524,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [87]
+		}, -- [86]
 		{
 			"{rt6}5", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517525,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [88]
+		}, -- [87]
 		{
 			"{cross} 5", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517525,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [89]
+		}, -- [88]
 		{
 			"Clear", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517525,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [89]
 		{
 			"Clear", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517525,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [90]
 		{
 			"{cross} 4", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517526,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [92]
+		}, -- [91]
 		{
 			"{cross} 3", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517527,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [93]
+		}, -- [92]
 		{
 			"{cross} 2", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517528,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [94]
+		}, -- [93]
 		{
 			"{cross} 1", -- [1]
 			"Steeberino-Area52", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Steeberino-Area52|r",
 			[51] = 1681517529,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [95]
+		}, -- [94]
 		{
 			"tyfg, gg", -- [1]
 			"Adamn-Turalyon", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Adamn|r",
 			[51] = 1681517595,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [95]
 		{
 			"ggs", -- [1]
 			"Redfiving-Illidan", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddRedfiving-Illidan|r",
 			[51] = 1681517599,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [96]
 		{
 			"Thanks!", -- [1]
 			"Linthalas-Illidan", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Linthalas-Illidan|r",
 			[51] = 1681517615,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [97]
 		{
 			"gg", -- [1]
 			"Ziggycuff-Area52", -- [2]
@@ -2178,6 +2156,28 @@ ElvCharacterDB = {
 			[52] = "|cffffffffZiggycuff-Area52|r",
 			[51] = 1681517618,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18730:Player-3685-0722B5D5:1:11:16:23:4294967295:4294967295:4294967295:4294967295|h[Goblins vs Gnomes]|h|r!", -- [1]
+			"Adamn-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adamn-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1225, -- [11]
+			"Player-3685-0722B5D5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Adamn|r",
+			[51] = 1700157664,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {

@@ -85,3 +85,16 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 ElvUI_Options: enabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+RematchElvUISkin: disabled
+Blizzard_CombatText: enabled
+BigWigs_Voice: enabled
+BigWigs_Amirdrassil: enabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs: enabled
+LittleWigs_Legion: enabled
+LittleWigs_WarlordsOfDraenor: enabled
+LittleWigs_Cataclysm: enabled
+BigWigs_DragonIsles: enabled

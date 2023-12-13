@@ -470,5 +470,49 @@ ElvCharacterDB = {
 			[51] = 1669317960,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
+		{
+			"next boat", -- [1]
+			"Nightshades-Turalyon", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Nightshades-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			29, -- [11]
+			"Player-3685-07026DFF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nightshades|r",
+			[51] = 1669694199,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			"2.5 minutes", -- [1]
+			"Nightshades-Turalyon", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Nightshades-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			31, -- [11]
+			"Player-3685-07026DFF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Nightshades|r",
+			[51] = 1669694207,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [23]
 	},
 }

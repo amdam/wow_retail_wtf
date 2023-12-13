@@ -2,358 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"2", -- [1]
-			"Thaihooker-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thaihooker-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5087, -- [11]
-			"Player-57-0B611050", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Thaihooker-Illidan|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
-		{
-			"2", -- [1]
-			"Sotzo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sotzo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5088, -- [11]
-			"Player-3685-0A45C722", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Sotzo|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"2", -- [1]
-			"Ctair-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ctair-Turalyon", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5089, -- [11]
-			"Player-3685-081E8037", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Ctair|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"2", -- [1]
-			"Criaharn-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Criaharn-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5090, -- [11]
-			"Player-3685-0D2B7D46", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaCriaharn|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
-		{
-			"2", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5091, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"2", -- [1]
-			"Tefmonk-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tefmonk-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5092, -- [11]
-			"Player-3685-0DE5B493", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Tefmonk|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"2", -- [1]
-			"Wandappy-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wandappy-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5093, -- [11]
-			"Player-3685-07251FD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddWandappy|r",
-			[51] = 1680063944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"1", -- [1]
-			"Thaihooker-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thaihooker-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5094, -- [11]
-			"Player-57-0B611050", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Thaihooker-Illidan|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"1", -- [1]
-			"Sotzo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sotzo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5096, -- [11]
-			"Player-3685-0A45C722", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Sotzo|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"1", -- [1]
-			"Onenuteye-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Onenuteye-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5097, -- [11]
-			"Player-57-0D668245", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Onenuteye-Illidan|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"1", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5098, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"1", -- [1]
-			"Criaharn-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Criaharn-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5099, -- [11]
-			"Player-3685-0D2B7D46", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaCriaharn|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"1", -- [1]
-			"Tefmonk-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tefmonk-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5100, -- [11]
-			"Player-3685-0DE5B493", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Tefmonk|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"1", -- [1]
-			"Wandappy-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wandappy-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5101, -- [11]
-			"Player-3685-07251FD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddWandappy|r",
-			[51] = 1680063945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			">> FRONTAL ON ME <<", -- [1]
-			"Thaihooker-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thaihooker-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5104, -- [11]
-			"Player-57-0B611050", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Thaihooker-Illidan|r",
-			[51] = 1680064018,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"{rt1}Suffocating Webs 1", -- [1]
-			"Thaihooker-Illidan", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thaihooker-Illidan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5106, -- [11]
-			"Player-57-0B611050", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Thaihooker-Illidan|r",
-			[51] = 1680063967,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
 			"{rt1}3", -- [1]
 			"Thaihooker-Illidan", -- [2]
 			"", -- [3]
@@ -374,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Thaihooker-Illidan|r",
 			[51] = 1680063970,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [1]
 		{
 			"{rt1}2", -- [1]
 			"Thaihooker-Illidan", -- [2]
@@ -396,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Thaihooker-Illidan|r",
 			[51] = 1680063971,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [2]
 		{
 			"{rt1}1", -- [1]
 			"Thaihooker-Illidan", -- [2]
@@ -418,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Thaihooker-Illidan|r",
 			[51] = 1680063972,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [3]
 		{
 			"{rt2} 3", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -440,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680064069,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [4]
 		{
 			"{rt2} 2", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -462,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680064070,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [5]
 		{
 			"{rt2} 1", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -484,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680064071,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [6]
 		{
 			"Yeah I died to the fifth pull like a dingus. I've been getting consistent on them, but made a bad decision.", -- [1]
 			"Séath-Turalyon", -- [2]
@@ -506,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fSéath|r",
 			[51] = 1680064138,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
+		}, -- [7]
 		{
 			"dieded of the bat...even though i was in raptor form runnin from pull...................", -- [1]
 			"Sinnaka-Turalyon", -- [2]
@@ -528,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSinnaka|r",
 			[51] = 1680064087,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
+		}, -- [8]
 		{
 			"who wants to do TW with my tank?", -- [1]
 			"Mikya-Turalyon", -- [2]
@@ -550,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMikya|r",
 			[51] = 1680064104,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [9]
 		{
 			"lets kill a fuckin spooder", -- [1]
 			"Tefmonk-Turalyon", -- [2]
@@ -572,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Tefmonk|r",
 			[51] = 1680138128,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [10]
 		{
 			"Going to start raid. Here's hoping enough log on! We made good progress last night.", -- [1]
 			"Wandappy-Turalyon", -- [2]
@@ -594,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddWandappy|r",
 			[51] = 1680138142,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [11]
 		{
 			"ill even mute my mic so people cant hear me straining to hit 470 monk buttons on pul", -- [1]
 			"Tefmonk-Turalyon", -- [2]
@@ -616,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Tefmonk|r",
 			[51] = 1680138239,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [12]
 		{
 			"there were no spooders in my vaults this week :(", -- [1]
 			"Mikya-Turalyon", -- [2]
@@ -638,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMikya|r",
 			[51] = 1680138201,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [13]
 		{
 			"It was filled with goo instead.", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -660,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680138293,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [14]
 		{
 			"i just cracked my first beer in probably 6 months im prepared", -- [1]
 			"Tefmonk-Turalyon", -- [2]
@@ -682,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Tefmonk|r",
 			[51] = 1680138243,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [15]
 		{
 			"i remember my first beer", -- [1]
 			"Some-Turalyon", -- [2]
@@ -704,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSome|r",
 			[51] = 1680138412,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [16]
 		{
 			"i dont lol i dont remember anything from about the age 21 to 30 battled a bad bout of alcoholism for a long time", -- [1]
 			"Tefmonk-Turalyon", -- [2]
@@ -726,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Tefmonk|r",
 			[51] = 1680138482,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [17]
 		{
 			"inv", -- [1]
 			"Wandappy-Turalyon", -- [2]
@@ -748,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddWandappy|r",
 			[51] = 1680139384,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [34]
+		}, -- [18]
 		{
 			"Oo that is...fewer ppl than I expected to see", -- [1]
 			"Addler-Turalyon", -- [2]
@@ -770,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAddler|r",
 			[51] = 1680139666,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [19]
 		{
 			"well...............", -- [1]
 			"Sinnaka-Turalyon", -- [2]
@@ -792,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSinnaka|r",
 			[51] = 1680139678,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [20]
 		{
 			"3 people called late/out, one person on friends list is afk and not online on wow.", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -814,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680139638,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [21]
 		{
 			"booo", -- [1]
 			"Ctair-Turalyon", -- [2]
@@ -836,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Ctair|r",
 			[51] = 1680139719,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
+		}, -- [22]
 		{
 			"i want dead spider loot", -- [1]
 			"Ctair-Turalyon", -- [2]
@@ -858,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Ctair|r",
 			[51] = 1680139785,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
+		}, -- [23]
 		{
 			"If you're not in discord, we're really low on people so we're calling it for tonight. Thanks for coming, we will be raiding next week so please show up!", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -880,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680139788,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [40]
+		}, -- [24]
 		{
 			"we done", -- [1]
 			"Tefmonk-Turalyon", -- [2]
@@ -902,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Tefmonk|r",
 			[51] = 1680139795,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [25]
 		{
 			"we done", -- [1]
 			"Wandappy-Turalyon", -- [2]
@@ -924,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddWandappy|r",
 			[51] = 1680139745,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [42]
+		}, -- [26]
 		{
 			"anyone wanna do heroic skip?", -- [1]
 			"Addler-Turalyon", -- [2]
@@ -946,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAddler|r",
 			[51] = 1680139754,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [27]
 		{
 			"We done for this week but not for the tier, yet.", -- [1]
 			"Valasondre-Turalyon", -- [2]
@@ -968,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fValasondre|r",
 			[51] = 1680139760,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [44]
+		}, -- [28]
 		{
 			"I'd be down for heroic. Still shooting for staff and such.", -- [1]
 			"Séath-Turalyon", -- [2]
@@ -990,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fSéath|r",
 			[51] = 1680139835,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [45]
+		}, -- [29]
 		{
 			"Would prefer to heal if we are doing heroic.", -- [1]
 			"Séath-Turalyon", -- [2]
@@ -1012,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fSéath|r",
 			[51] = 1680139848,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [46]
+		}, -- [30]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16273:Player-3685-08671884:1:3:31:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Azure Vault]|h|r!", -- [1]
 			"Darcly-Turalyon", -- [2]
@@ -1034,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDarcly|r",
 			[51] = 1680332685,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [47]
+		}, -- [31]
 		{
 			"LF crafter for |cffa335ee|Hitem:190523::::::::70:72:::::::::|h[Frostfire Legguards of Preparation]|h|r tipping well for max craft ", -- [1]
 			"Mahk-Turalyon", -- [2]
@@ -1056,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMahk|r",
 			[51] = 1681519733,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [32]
 		{
 			"|cffffd000|Htrade:Player-3685-0E077772:2018:164|h[Blacksmithing]|h|r any need weaponsmith", -- [1]
 			"Tatsher-Turalyon", -- [2]
@@ -1078,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dTatsher|r",
 			[51] = 1683872693,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [33]
 		{
 			"?¿", -- [1]
 			"Tatsher-Turalyon", -- [2]
@@ -1100,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dTatsher|r",
 			[51] = 1683872643,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [34]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17509:Player-3685-0717C7FF:1:5:14:23:4294967295:4294967295:4294967295:4294967295|h[Every Door, Everywhere, All At Once]|h|r!", -- [1]
 			"Badam-Turalyon", -- [2]
@@ -1122,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBadam|r",
 			[51] = 1684098769,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [51]
+		}, -- [35]
 		{
 			"if yall do anymore zom ill volunteer my body ", -- [1]
 			"Tefdk-Turalyon", -- [2]
@@ -1144,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aTefdk|r",
 			[51] = 1684099306,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [36]
 		{
 			"worrrrd", -- [1]
 			"Zomgomnomnom-Turalyon", -- [2]
@@ -1166,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aZomgomnomnom|r",
 			[51] = 1684099392,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [37]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:6753:Player-3685-096E2121:1:5:14:23:4294967295:4294967295:4294967295:4294967295|h[Got My Mind On My Money]|h|r!", -- [1]
 			"Verinoladara-Turalyon", -- [2]
@@ -1188,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Verinoladara|r",
 			[51] = 1684100575,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [54]
+		}, -- [38]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18209:Player-3685-0E1FFD6E:1:5:14:23:4294967295:4294967295:4294967295:4294967295|h[Nothing Stops the Research]|h|r!", -- [1]
 			"Docdecayed-Turalyon", -- [2]
@@ -1210,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDocdecayed|r",
 			[51] = 1684101016,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [55]
+		}, -- [39]
 		{
 			"seperate them", -- [1]
 			"Greybow-Hellscream", -- [2]
@@ -1232,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Greybow-Hellscream|r",
 			[51] = 1684102397,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
+		}, -- [40]
 		{
 			"KEEP them apart", -- [1]
 			"Phlloyd-Blade'sEdge", -- [2]
@@ -1254,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffPhlloyd-Blade'sEdge|r",
 			[51] = 1684102411,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [41]
 		{
 			"howdy", -- [1]
 			"Bahamuutt-Goldrinn", -- [2]
@@ -1276,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fBahamuutt-Goldrinn|r",
 			[51] = 1684102418,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [58]
+		}, -- [42]
 		{
 			"possible to have a smmon ? ", -- [1]
 			"Bahamuutt-Goldrinn", -- [2]
@@ -1298,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fBahamuutt-Goldrinn|r",
 			[51] = 1684102629,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [59]
+		}, -- [43]
 		{
 			"plz", -- [1]
 			"Bahamuutt-Goldrinn", -- [2]
@@ -1320,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fBahamuutt-Goldrinn|r",
 			[51] = 1684102632,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [60]
+		}, -- [44]
 		{
 			"yah sure 1 sec.", -- [1]
 			"Thugli-Stormrage", -- [2]
@@ -1342,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aThugli-Stormrage|r",
 			[51] = 1684102666,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [61]
+		}, -- [45]
 		{
 			"ok, ty", -- [1]
 			"Bahamuutt-Goldrinn", -- [2]
@@ -1364,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fBahamuutt-Goldrinn|r",
 			[51] = 1684102733,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [46]
 		{
 			"|cffa335ee|Hitem:204717::::::::70:1467:::::::::|h[Splintered Spark of Shadowflame]|h|r", -- [1]
 			"Hamanu-Turalyon", -- [2]
@@ -1386,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fHamanu|r",
 			[51] = 1684118951,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [47]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18163:Player-3685-071FBE4A:1:5:14:23:4294967295:4294967295:4294967295:4294967295|h[Discarded Works]|h|r!", -- [1]
 			"Matruni-Turalyon", -- [2]
@@ -1408,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffMatruni|r",
 			[51] = 1684119098,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [64]
+		}, -- [48]
 		{
 			"Subterrax |cffffff00|Hworldmap:2133:3795:4642|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Mikya-Turalyon", -- [2]
@@ -1430,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebMikya|r",
 			[51] = 1684119802,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [49]
 		{
 			"|cffa335ee|Hkeystone:180653:406:16:10:134:7:0|h[Keystone: Halls of Infusion (16)]|h|r anyone bonus 10k if you pass me irrideus fragment ", -- [1]
 			"Tefdk-Turalyon", -- [2]
@@ -1452,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aTefdk|r",
 			[51] = 1684280961,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+		}, -- [50]
 		{
 			"|cffffd000|Htrade:Player-3685-07168B2E:158737:164|h[Blacksmithing]|h|r", -- [1]
 			"Tinypal-Turalyon", -- [2]
@@ -1474,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaTinypal|r",
 			[51] = 1684464548,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [51]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16529:Player-3685-0717C7FF:1:5:18:23:4294967295:4294967295:4294967295:4294967295|h[Joining the Community]|h|r!", -- [1]
 			"Badam-Turalyon", -- [2]
@@ -1496,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBadam|r",
 			[51] = 1684464712,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [68]
+		}, -- [52]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16549:Player-3685-0717C7FF:1:5:18:23:4294967295:4294967295:4294967295:4294967295|h[Popular Around the Isles]|h|r!", -- [1]
 			"Badam-Turalyon", -- [2]
@@ -1518,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBadam|r",
 			[51] = 1684464712,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
+		}, -- [53]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:17766:Player-3685-081E8037:1:5:18:23:4294967295:4294967295:4294967295:4294967295|h[Explore Zaralek Cavern]|h|r!", -- [1]
 			"Ctair-Turalyon", -- [2]
@@ -1540,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Ctair|r",
 			[51] = 1684479117,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
+		}, -- [54]
 		{
 			"ill get vakan", -- [1]
 			"Cynestra-Doomhammer", -- [2]
@@ -1562,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Cynestra-Doomhammer|r",
 			[51] = 1684479839,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [71]
+		}, -- [55]
 		{
 			"Need a healer at vak", -- [1]
 			"Dellingr-Tichondrius", -- [2]
@@ -1584,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDellingr-Tichondrius|r",
 			[51] = 1684479857,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [72]
+		}, -- [56]
 		{
 			"there too far apart, bring them a little closer so quest completes", -- [1]
 			"Btu-Greymane", -- [2]
@@ -1606,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Btu-Greymane|r",
 			[51] = 1684479933,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [57]
 		{
 			"move them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1628,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684479974,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [58]
 		{
 			"today", -- [1]
 			"Btu-Greymane", -- [2]
@@ -1650,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Btu-Greymane|r",
 			[51] = 1684479993,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [59]
 		{
 			"one of them gets a 90% dmg reduc every so oftem thats when you switch", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1672,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684479996,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [76]
+		}, -- [60]
 		{
 			"bring them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1694,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684480075,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [61]
 		{
 			"bring them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1716,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684480076,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [62]
 		{
 			"bring them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1738,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684480076,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [79]
+		}, -- [63]
 		{
 			"not on top of eachother", -- [1]
 			"Btu-Greymane", -- [2]
@@ -1760,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Btu-Greymane|r",
 			[51] = 1684480076,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [64]
 		{
 			"bring them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1782,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684480076,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [65]
 		{
 			"bring them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1804,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684480077,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [66]
 		{
 			"bring them closer", -- [1]
 			"Oldeathy-Icecrown", -- [2]
@@ -1826,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aOldeathy-Icecrown|r",
 			[51] = 1684480077,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [83]
+		}, -- [67]
 		{
 			"closer though", -- [1]
 			"Btu-Greymane", -- [2]
@@ -1848,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Btu-Greymane|r",
 			[51] = 1684480022,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [68]
 		{
 			"i can :)", -- [1]
 			"Valkreyja-Turalyon", -- [2]
@@ -1870,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dValkreyja|r",
 			[51] = 1684480818,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [69]
 		{
 			"on crafting order", -- [1]
 			"Sämael-Turalyon", -- [2]
@@ -1892,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSämael|r",
 			[51] = 1684480826,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [70]
 		{
 			"5k commission :)", -- [1]
 			"Sämael-Turalyon", -- [2]
@@ -1914,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSämael|r",
 			[51] = 1684480828,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [71]
 		{
 			"anyone for a key? i'm looking for uldaman or underrot for a bear 2h weapon", -- [1]
 			"Addler-Turalyon", -- [2]
@@ -1936,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAddler|r",
 			[51] = 1684517038,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [72]
 		{
 			"ive got a meeting here in about 5 mins", -- [1]
 			"Badam-Turalyon", -- [2]
@@ -1958,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBadam|r",
 			[51] = 1684517095,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [73]
 		{
 			"Any JC on that can make rank 3 |cffa335ee|Hitem:192989::::::::70:66:::::::::|h[Resplendent Illimited Diamond |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r?", -- [1]
 			"Seydin-Turalyon", -- [2]
@@ -1980,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeydin|r",
 			[51] = 1684518832,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [74]
 		{
 			"Any JC on that can craft rank 3 |cffa335ee|Hitem:192989::::::::70:66:::::::::|h[Resplendent Illimited Diamond |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r?", -- [1]
 			"Seydin-Turalyon", -- [2]
@@ -2002,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSeydin|r",
 			[51] = 1684521295,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [75]
 		{
 			"you just playing around with ret?", -- [1]
 			"|Kq14|k", -- [2]
@@ -2024,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMrPhelan|r",
 			[51] = 1684561887,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [92]
+		}, -- [76]
 		{
 			"I was doing keys with guild", -- [1]
 			"|Kq14|k", -- [2]
@@ -2046,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMrPhelan|r",
 			[51] = 1684561893,
 			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [93]
+		}, -- [77]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16644:Player-3685-0AB19C74:1:5:19:23:4294967295:4294967295:4294967295:4294967295|h[Keystone Hero: Neltharus]|h|r!", -- [1]
 			"Sulveris-Turalyon", -- [2]
@@ -2068,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSulveris|r",
 			[51] = 1684561877,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
+		}, -- [78]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16644:Player-3685-0E203ACD:1:5:19:23:4294967295:4294967295:4294967295:4294967295|h[Keystone Hero: Neltharus]|h|r!", -- [1]
 			"Daleberto-Turalyon", -- [2]
@@ -2090,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeDaleberto|r",
 			[51] = 1684561877,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [79]
 		{
 			"any tailors with |cffa335ee|Hitem:205025::::::::70:264::13:3:3524:9366:9373:2:40:1023:38:4:::::|h[Undulating Sporecloak |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
 			"Lovablelamb-Turalyon", -- [2]
@@ -2112,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddLovablelamb|r",
 			[51] = 1684562313,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [80]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16626:Player-3685-0717C7FF:1:5:19:23:4294967295:4294967295:4294967295:4294967295|h[Working with Wyrms]|h|r!", -- [1]
 			"Badam-Turalyon", -- [2]
@@ -2134,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBadam|r",
 			[51] = 1684562341,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [81]
 		{
 			"no proc that time, but if you send a least a few r3 mats i can use an insight and guarantee r5", -- [1]
 			"|Kq4|k", -- [2]
@@ -2157,7 +1805,7 @@ ElvCharacterDB = {
 			[51] = 1686085111,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "AlyD",
-		}, -- [98]
+		}, -- [82]
 		{
 			"i was 8 skill short with insight to hit r5 without inspire", -- [1]
 			"|Kq4|k", -- [2]
@@ -2180,29 +1828,381 @@ ElvCharacterDB = {
 			[51] = 1686085161,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "AlyD",
+		}, -- [83]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18365:Player-3685-0717C7FF:1:7:12:23:4294967295:4294967295:4294967295:4294967295|h[Draconically Superior]|h|r!", -- [1]
+			"Badam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Badam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-3685-0717C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBadam|r",
+			[51] = 1689211594,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [84]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18366:Player-3685-0717C7FF:1:7:12:23:4294967295:4294967295:4294967295:4294967295|h[Draconically Epic]|h|r!", -- [1]
+			"Badam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Badam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-3685-0717C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBadam|r",
+			[51] = 1689211594,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [85]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18819:Player-3685-0717C7FF:1:11:16:23:4294967295:4294967295:4294967295:4294967295|h[Geologist's Ledger - Draconium]|h|r!", -- [1]
+			"Badam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Badam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3300, -- [11]
+			"Player-3685-0717C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBadam|r",
+			[51] = 1700168645,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [86]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18702:Player-3685-072297DA:1:11:16:23:4294967295:4294967295:4294967295:4294967295|h[WoW's 19th Anniversary]|h|r!", -- [1]
+			"Destenee-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Destenee-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3482, -- [11]
+			"Player-3685-072297DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDestenee|r",
+			[51] = 1700169231,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [87]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18702:Player-3685-06FCBF34:1:11:16:23:4294967295:4294967295:4294967295:4294967295|h[WoW's 19th Anniversary]|h|r!", -- [1]
+			"Mysti-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mysti-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3522, -- [11]
+			"Player-3685-06FCBF34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebMysti|r",
+			[51] = 1700169334,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [88]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18702:Player-3685-06FCBF71:1:11:16:23:4294967295:4294967295:4294967295:4294967295|h[WoW's 19th Anniversary]|h|r!", -- [1]
+			"Optomus-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Optomus-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3560, -- [11]
+			"Player-3685-06FCBF71", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaOptomus|r",
+			[51] = 1700169330,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [89]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:19308:Player-3685-072255CB:1:11:23:23:4294967295:4294967295:4294967295:4294967295|h[Freshscales Fifteen]|h|r!", -- [1]
+			"Lapse-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lapse-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"Player-3685-072255CB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dLapse|r",
+			[51] = 1700764200,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [90]
+		{
+			"placed", -- [1]
+			"Bereid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-3685-0D88783B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBereid|r",
+			[51] = 1701902297,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"there ya go", -- [1]
+			"Badam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-3685-0717C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBadam|r",
+			[51] = 1701902342,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"niiiiice", -- [1]
+			"Bereid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			33, -- [11]
+			"Player-3685-0D88783B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBereid|r",
+			[51] = 1701902346,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"thanks =D", -- [1]
+			"Bereid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			34, -- [11]
+			"Player-3685-0D88783B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBereid|r",
+			[51] = 1701902350,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"anytime", -- [1]
+			"Badam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-3685-0717C7FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBadam|r",
+			[51] = 1701902353,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"duskwood dragon if your a sadist for loot", -- [1]
+			"Mistreszuul-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mistreszuul-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-3685-0721A19A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeMistreszuul|r",
+			[51] = 1701902853,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:19326:Player-3685-0D88783B:1:12:6:23:4294967295:4294967295:4294967295:4294967295|h[Dreaming of Drakes]|h|r!", -- [1]
+			"Bereid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bereid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			104, -- [11]
+			"Player-3685-0D88783B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBereid|r",
+			[51] = 1701904092,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"i just a baby", -- [1]
+			"Bereid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-3685-0D88783B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBereid|r",
+			[51] = 1701904118,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:19397:Player-3685-0D88783B:1:12:6:23:4294967295:4294967295:4294967295:4294967295|h[Dreaming of Wyrms]|h|r!", -- [1]
+			"Bereid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bereid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-3685-0D88783B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBereid|r",
+			[51] = 1701904192,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/g \\\\]", -- [1]
-		"/raid razer kraken 3, super comfy", -- [2]
-		"/raid unbound freedom lets goo", -- [3]
-		"/raid lil storm says pull already", -- [4]
-		"/raid fucking tornado", -- [5]
-		"ill hop over on our next break and click thse", -- [6]
-		"2222222222222222333333333333333333333333333333333333222226320000000000000000000000000000000000000000000000000000000000000000000000000000.", -- [7]
-		"/cw Mikya-Turalyon lol", -- [8]
-		"/cw Mikya-Turalyon lol+*", -- [9]
-		"/cw Mikya-Turalyon sorry lol kid was \"playing\" while i was afk", -- [10]
-		"whoops miles says hi I guess lol", -- [11]
-		"/cw Mikya-Turalyon idk hes got more movement than I do and i haven't had any issues", -- [12]
-		"/cw Wandappy inv", -- [13]
-		"/ec", -- [14]
-		"/g ive got a meeting here in about 5 mins", -- [15]
-		"you just playing around with ret?", -- [16]
-		"/hekili", -- [17]
-		"no proc that time, but if you send a least a few r3 mats i can use an insight and guarantee r5", -- [18]
-		"i was 8 skill short with insight to hit r5 without inspire", -- [19]
-		"/played", -- [20]
+		"/raid unbound freedom lets goo", -- [1]
+		"/raid lil storm says pull already", -- [2]
+		"/raid fucking tornado", -- [3]
+		"ill hop over on our next break and click thse", -- [4]
+		"2222222222222222333333333333333333333333333333333333222226320000000000000000000000000000000000000000000000000000000000000000000000000000.", -- [5]
+		"/cw Mikya-Turalyon lol", -- [6]
+		"/cw Mikya-Turalyon lol+*", -- [7]
+		"/cw Mikya-Turalyon sorry lol kid was \"playing\" while i was afk", -- [8]
+		"whoops miles says hi I guess lol", -- [9]
+		"/cw Mikya-Turalyon idk hes got more movement than I do and i haven't had any issues", -- [10]
+		"/cw Wandappy inv", -- [11]
+		"/ec", -- [12]
+		"/g ive got a meeting here in about 5 mins", -- [13]
+		"you just playing around with ret?", -- [14]
+		"/hekili", -- [15]
+		"no proc that time, but if you send a least a few r3 mats i can use an insight and guarantee r5", -- [16]
+		"i was 8 skill short with insight to hit r5 without inspire", -- [17]
+		"/played", -- [18]
+		"/g there ya go", -- [19]
+		"/g anytime", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

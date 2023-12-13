@@ -217,3 +217,7 @@ LittleWigs_Shadowlands: enabled
 LittleWigs_BurningCrusade: enabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+RematchElvUISkin: disabled
+BigWigs_Amirdrassil: enabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs_Cataclysm: enabled

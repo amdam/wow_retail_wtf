@@ -48,7 +48,7 @@ VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier,talent:4/3] Ebonbolt; [modifier:alt,notalent:1/2] Freeze; [modifier:shift] Cold Snap; Cold Snap
+/cast [mod:alt,spec:3,@cursor] Freeze; [spec:3,known:Comet Storm] Comet Storm;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
@@ -58,18 +58,18 @@ VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [modifier:alt,known:Meteor,@cursor] Meteor; Scorch; 
+/use [mod:alt,known:Living Bomb] Living Bomb; Scorch; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /focus
-/cast Polymorph
+/cast [@mouseover][] Polymorph;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Shifting Power] Shifting Power; [spec:2,known:Living Bomb] Living Bomb; [spec:1,known:Radiant Spark] Radiant Spark;
+/cast [mod:alt,known:Shifting Power] Shifting Power; [spec:2,known:Meteor,@cursor] Meteor; [spec:3,known:Glacial Spike] Glacial Spike; Shifting Power;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001B " " "134400"
@@ -90,7 +90,8 @@ VER 3 010000000000001D " " "134400"
 END
 VER 3 010000000000001E " " "134400"
 #showtooltip
-/cast [known:Meteor,@cursor] Meteor; [known:Shifting Power] Shifting Power;
+/stopcasting
+/cast [@focus,harm,nodead][@boss3,harm,nodead,exists][] Spellsteal
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001F " " "134400"

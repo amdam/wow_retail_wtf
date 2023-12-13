@@ -2,7 +2,7 @@
 OmniCCDB = {
 	["global"] = {
 		["dbVersion"] = 6,
-		["addonVersion"] = "10.1.1",
+		["addonVersion"] = "10.2.1",
 	},
 	["profileKeys"] = {
 		["Allevin - Turalyon"] = "Default",
@@ -95,11 +95,11 @@ OmniCCDB = {
 				},
 				["Ignore"] = {
 					["textStyles"] = {
+						["minutes"] = {
+						},
 						["seconds"] = {
 						},
 						["soon"] = {
-						},
-						["minutes"] = {
 						},
 						["charging"] = {
 							["r"] = 1,

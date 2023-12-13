@@ -34,17 +34,29 @@ ParrotDB = {
 						["Skill deflects"] = {
 							["disabled"] = false,
 						},
-						["Melee evades"] = {
-							["disabled"] = false,
-						},
-						["Pet skill deflects"] = {
+						["Dispel"] = {
 							["disabled"] = true,
 						},
 						["Pet melee misses"] = {
 							["disabled"] = true,
 						},
+						["Melee evades"] = {
+							["disabled"] = false,
+						},
+						["Pet spell interrupts"] = {
+							["disabled"] = true,
+						},
 						["Heals over time"] = {
 							["tag"] = "+[Amount] ([Name])",
+						},
+						["Skill damage"] = {
+							["tag"] = "[Amount]",
+						},
+						["Pet skill dodges"] = {
+							["disabled"] = true,
+						},
+						["Skill DoTs"] = {
+							["tag"] = "[Amount]",
 						},
 						["Melee parries"] = {
 							["disabled"] = false,
@@ -52,22 +64,16 @@ ParrotDB = {
 						["Self heals"] = {
 							["tag"] = "+[Amount]",
 						},
-						["Skill damage"] = {
-							["tag"] = "[Amount]",
-						},
-						["Skill resists"] = {
+						["Melee resists"] = {
 							["disabled"] = false,
-						},
-						["Pet skill reflects"] = {
-							["disabled"] = true,
 						},
 						["Melee misses"] = {
 							["disabled"] = false,
 						},
-						["Pet skill resists"] = {
+						["Pet skill deflects"] = {
 							["disabled"] = true,
 						},
-						["Dispel fail"] = {
+						["Pet melee deflects"] = {
 							["disabled"] = true,
 						},
 						["Melee absorbs"] = {
@@ -76,34 +82,34 @@ ParrotDB = {
 						["Skill blocks"] = {
 							["disabled"] = false,
 						},
-						["Reactive skills"] = {
-							["tag"] = "[Amount]",
+						["Dispel fail"] = {
+							["disabled"] = true,
 						},
 						["Melee immunes"] = {
-							["disabled"] = false,
-						},
-						["Pet melee damage"] = {
 							["disabled"] = false,
 						},
 						["Pet melee dodges"] = {
 							["disabled"] = true,
 						},
-						["Pet melee evades"] = {
-							["disabled"] = true,
+						["Reactive skills"] = {
+							["tag"] = "[Amount]",
 						},
-						["Skill dodges"] = {
+						["Skill absorbs"] = {
 							["disabled"] = false,
+						},
+						["Pet skill evades"] = {
+							["disabled"] = true,
 						},
 						["Pet melee blocks"] = {
 							["disabled"] = true,
 						},
-						["Pet heals over time"] = {
+						["Pet melee evades"] = {
 							["disabled"] = true,
 						},
 						["Melee deflects"] = {
 							["disabled"] = false,
 						},
-						["Skill absorbs"] = {
+						["Melee blocks"] = {
 							["disabled"] = false,
 						},
 						["Pet melee parries"] = {
@@ -119,20 +125,17 @@ ParrotDB = {
 						["Pet skill blocks"] = {
 							["disabled"] = true,
 						},
-						["Melee blocks"] = {
-							["disabled"] = false,
-						},
-						["Dispel"] = {
+						["Pet skill resists"] = {
 							["disabled"] = true,
 						},
 						["Spell interrupts"] = {
 							["disabled"] = true,
 						},
-						["Skill evades"] = {
-							["disabled"] = false,
-						},
 						["Heals"] = {
 							["tag"] = "+[Amount] ([Name])",
+						},
+						["Skill evades"] = {
+							["disabled"] = false,
 						},
 						["Pet melee immunes"] = {
 							["disabled"] = true,
@@ -155,29 +158,26 @@ ParrotDB = {
 						["Pet heals"] = {
 							["disabled"] = true,
 						},
-						["Pet skill evades"] = {
-							["disabled"] = true,
+						["Skill dodges"] = {
+							["disabled"] = false,
 						},
 						["Pet skill immunes"] = {
 							["disabled"] = true,
 						},
-						["Melee resists"] = {
+						["Pet melee damage"] = {
 							["disabled"] = false,
 						},
-						["Pet spell interrupts"] = {
+						["Pet heals over time"] = {
 							["disabled"] = true,
 						},
-						["Pet melee deflects"] = {
-							["disabled"] = true,
+						["Skill resists"] = {
+							["disabled"] = false,
 						},
-						["Pet skill dodges"] = {
+						["Pet skill reflects"] = {
 							["disabled"] = true,
 						},
 						["Pet melee resists"] = {
 							["disabled"] = true,
-						},
-						["Skill DoTs"] = {
-							["tag"] = "[Amount]",
 						},
 						["Pet skill damage"] = {
 							["disabled"] = false,
@@ -213,6 +213,9 @@ ParrotDB = {
 						["Skill deflects"] = {
 							["disabled"] = true,
 						},
+						["Environmental damage"] = {
+							["disabled"] = true,
+						},
 						["Melee evades"] = {
 							["disabled"] = true,
 						},
@@ -222,22 +225,22 @@ ParrotDB = {
 						["Pet skill deflects"] = {
 							["disabled"] = true,
 						},
-						["Pet melee misses"] = {
+						["Skill damage"] = {
 							["disabled"] = true,
 						},
-						["Skill damage"] = {
+						["Pet melee misses"] = {
 							["disabled"] = true,
 						},
 						["Pet skill dodges"] = {
 							["disabled"] = true,
 						},
+						["Skill DoTs"] = {
+							["disabled"] = true,
+						},
 						["Self heals"] = {
 							["tag"] = "+[Amount]",
 						},
-						["Dispel fail"] = {
-							["disabled"] = true,
-						},
-						["Skill blocks"] = {
+						["Melee parries"] = {
 							["disabled"] = true,
 						},
 						["Pet skill reflects"] = {
@@ -246,10 +249,10 @@ ParrotDB = {
 						["Melee misses"] = {
 							["disabled"] = true,
 						},
-						["Skill reflects"] = {
+						["Skill blocks"] = {
 							["disabled"] = true,
 						},
-						["Skill resists"] = {
+						["Dispel fail"] = {
 							["disabled"] = true,
 						},
 						["Melee absorbs"] = {
@@ -264,13 +267,13 @@ ParrotDB = {
 						["Melee immunes"] = {
 							["disabled"] = true,
 						},
-						["Pet melee evades"] = {
-							["disabled"] = true,
-						},
 						["Pet melee dodges"] = {
 							["disabled"] = true,
 						},
-						["Spell steal"] = {
+						["Skill dodges"] = {
+							["disabled"] = true,
+						},
+						["Skill absorbs"] = {
 							["disabled"] = true,
 						},
 						["Pet skill evades"] = {
@@ -279,13 +282,13 @@ ParrotDB = {
 						["Pet melee blocks"] = {
 							["disabled"] = true,
 						},
-						["Pet heals over time"] = {
+						["Skill reflects"] = {
 							["disabled"] = true,
 						},
 						["Melee deflects"] = {
 							["disabled"] = true,
 						},
-						["Skill absorbs"] = {
+						["Melee blocks"] = {
 							["disabled"] = true,
 						},
 						["Pet melee parries"] = {
@@ -294,20 +297,20 @@ ParrotDB = {
 						["Pet melee immunes"] = {
 							["disabled"] = true,
 						},
-						["Dispel"] = {
+						["Pet skill DoTs"] = {
 							["disabled"] = true,
 						},
 						["Pet skill blocks"] = {
 							["disabled"] = true,
 						},
-						["Melee blocks"] = {
+						["Pet melee evades"] = {
 							["disabled"] = true,
 						},
-						["Pet skill DoTs"] = {
+						["Spell steal"] = {
 							["disabled"] = true,
 						},
-						["Pet melee deflects"] = {
-							["disabled"] = true,
+						["Heals"] = {
+							["tag"] = "([Name]) +[Amount]",
 						},
 						["Skill evades"] = {
 							["disabled"] = true,
@@ -315,8 +318,8 @@ ParrotDB = {
 						["Pet Skill interrupts"] = {
 							["disabled"] = true,
 						},
-						["Heals"] = {
-							["tag"] = "([Name]) +[Amount]",
+						["Pet melee deflects"] = {
+							["disabled"] = true,
 						},
 						["Self heals over time"] = {
 							["tag"] = "+[Amount]",
@@ -327,7 +330,7 @@ ParrotDB = {
 						["Pet skill misses"] = {
 							["disabled"] = true,
 						},
-						["Pet melee damage"] = {
+						["Dispel"] = {
 							["disabled"] = true,
 						},
 						["Pet melee reflects"] = {
@@ -336,28 +339,25 @@ ParrotDB = {
 						["Pet heals"] = {
 							["disabled"] = true,
 						},
-						["Skill dodges"] = {
+						["Pet melee damage"] = {
 							["disabled"] = true,
 						},
 						["Pet skill immunes"] = {
 							["disabled"] = true,
 						},
+						["Pet heals over time"] = {
+							["disabled"] = true,
+						},
 						["Pet skill resists"] = {
 							["disabled"] = true,
 						},
-						["Environmental damage"] = {
+						["Skill resists"] = {
 							["disabled"] = true,
 						},
 						["Melee resists"] = {
 							["disabled"] = true,
 						},
-						["Skill DoTs"] = {
-							["disabled"] = true,
-						},
 						["Pet melee resists"] = {
-							["disabled"] = true,
-						},
-						["Melee parries"] = {
 							["disabled"] = true,
 						},
 						["Pet skill damage"] = {
@@ -380,46 +380,10 @@ ParrotDB = {
 						["Pet debuff gains"] = {
 							["disabled"] = true,
 						},
-						["Item buff fades"] = {
-							["disabled"] = true,
-						},
-						["Item buff gains"] = {
-							["disabled"] = true,
-						},
-						["Buff gains"] = {
-							["disabled"] = true,
-						},
-						["Combo point gain"] = {
-							["disabled"] = true,
-						},
-						["Pet debuff fades"] = {
-							["disabled"] = true,
-						},
 						["Experience gains"] = {
 							["disabled"] = true,
 						},
-						["Loot items"] = {
-							["disabled"] = true,
-						},
-						["Target buff gains"] = {
-							["disabled"] = true,
-						},
-						["Power loss"] = {
-							["disabled"] = true,
-						},
-						["Pet buff fades"] = {
-							["disabled"] = true,
-						},
 						["Debuff fades"] = {
-							["disabled"] = true,
-						},
-						["Loot money"] = {
-							["disabled"] = true,
-						},
-						["Reputation losses"] = {
-							["disabled"] = true,
-						},
-						["Extra attacks"] = {
 							["disabled"] = true,
 						},
 						["Pet buff gains"] = {
@@ -431,28 +395,64 @@ ParrotDB = {
 						["Enemy buff gains"] = {
 							["disabled"] = true,
 						},
-						["Skill gains"] = {
-							["disabled"] = true,
-						},
 						["Combo points full"] = {
 							["disabled"] = true,
 						},
 						["Debuff gains"] = {
 							["disabled"] = true,
 						},
-						["Buff fades"] = {
-							["disabled"] = true,
-						},
 						["Reputation gains"] = {
 							["disabled"] = true,
 						},
-						["Skill cooldown finish"] = {
+						["Buff stack gains"] = {
+							["disabled"] = true,
+						},
+						["Loot items"] = {
+							["disabled"] = true,
+						},
+						["Item buff fades"] = {
+							["disabled"] = true,
+						},
+						["Item buff gains"] = {
+							["disabled"] = true,
+						},
+						["Combo point gain"] = {
+							["disabled"] = true,
+						},
+						["Pet debuff fades"] = {
+							["disabled"] = true,
+						},
+						["Power loss"] = {
+							["disabled"] = true,
+						},
+						["Pet buff fades"] = {
+							["disabled"] = true,
+						},
+						["Loot money"] = {
 							["disabled"] = true,
 						},
 						["Target buff stack gains"] = {
 							["disabled"] = true,
 						},
-						["Buff stack gains"] = {
+						["Skill cooldown finish"] = {
+							["disabled"] = true,
+						},
+						["Skill gains"] = {
+							["disabled"] = true,
+						},
+						["Target buff gains"] = {
+							["disabled"] = true,
+						},
+						["Extra attacks"] = {
+							["disabled"] = true,
+						},
+						["Buff fades"] = {
+							["disabled"] = true,
+						},
+						["Buff gains"] = {
+							["disabled"] = true,
+						},
+						["Reputation losses"] = {
 							["disabled"] = true,
 						},
 						["Enemy buff fades"] = {

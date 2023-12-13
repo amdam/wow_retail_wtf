@@ -81,3 +81,14 @@ ElvUI_ExtraDataTexts: disabled
 ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 WunderUI: disabled
+RematchElvUISkin: disabled
+Blizzard_CombatText: enabled
+BigWigs_Voice: enabled
+BigWigs_Amirdrassil: enabled
+LittleWigs_BattleForAzeroth: enabled
+LittleWigs: enabled
+LittleWigs_Legion: enabled
+LittleWigs_WarlordsOfDraenor: enabled
+LittleWigs_Cataclysm: enabled
+ElvUI_Options: enabled
+BigWigs_DragonIsles: enabled

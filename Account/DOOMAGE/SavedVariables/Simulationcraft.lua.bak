@@ -89,8 +89,8 @@ SimulationCraftDB = {
 		},
 		["Amdam - Turalyon"] = {
 			["frame"] = {
-				["ofsx"] = 7.780948362778872e-05,
-				["ofsy"] = 3.890474181389436e-05,
+				["ofsx"] = -2.370310306549072,
+				["ofsy"] = -0.5925581455230713,
 			},
 		},
 		["Artoc - Silvermoon"] = {

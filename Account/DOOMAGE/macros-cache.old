@@ -1,3 +1,11 @@
+VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
+/way 20.5 43.9 Elder Gwenna 
+/way 20.6 32.9 Foreman Thorodir
+/way 21.8 45.7 Guardian Kota
+/way 23.7 42.5 Warden Casad 
+/way 20.8 39.2 Kivarr (cave)
+/way 25.7 38.9 Te'zan
+END
 VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
@@ -9,14 +17,6 @@ VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
 END
 VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
 /dismount
-END
-VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
-/way 20.5 43.9 Elder Gwenna 
-/way 20.6 32.9 Foreman Thorodir
-/way 21.8 45.7 Guardian Kota
-/way 23.7 42.5 Warden Casad 
-/way 20.8 39.2 Kivarr (cave)
-/way 25.7 38.9 Te'zan
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
@@ -66,12 +66,12 @@ END
 VER 3 000000000000002D "fel" "135826"
 /target Fel Explosives
 END
-VER 3 0000000000000062 "focus" "132150"
-/focus
-END
 VER 3 000000000000002E "focus" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [target=focus] Repentance
+END
+VER 3 0000000000000062 "focus" "132150"
+/focus
 END
 VER 3 0000000000000026 "hanzo" "SPELL_SHADOW_CHARM"
 Roses are Red

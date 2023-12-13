@@ -29,7 +29,7 @@ OmniCCDB = {
 	},
 	["global"] = {
 		["dbVersion"] = 6,
-		["addonVersion"] = "10.1.1",
+		["addonVersion"] = "10.2.1",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -95,11 +95,11 @@ OmniCCDB = {
 				},
 				["Ignore"] = {
 					["textStyles"] = {
-						["soon"] = {
-						},
 						["seconds"] = {
 						},
 						["minutes"] = {
+						},
+						["soon"] = {
 						},
 						["charging"] = {
 							["r"] = 1,
