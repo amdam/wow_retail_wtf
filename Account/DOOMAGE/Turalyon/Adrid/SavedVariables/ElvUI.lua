@@ -2,226 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"ya its nuts you can have 7 cp with both talents picked", -- [1]
-			"Adrid-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			342, -- [11]
-			"Player-3685-0717BEFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Adrid|r",
-			[51] = 1669324402,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"oh ya thats a talent too, fan the hammer", -- [1]
-			"Adrid-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			344, -- [11]
-			"Player-3685-0717BEFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Adrid|r",
-			[51] = 1669324485,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"and on top of that, they get the extra combo point from crit, just like feral now", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			345, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1669324494,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"seems pretty OP, we'll see how balancing shakes out", -- [1]
-			"Adrid-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			346, -- [11]
-			"Player-3685-0717BEFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Adrid|r",
-			[51] = 1669324497,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"that used to be feral exclusive", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			347, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1669324498,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"that and your extra hit proc on sinister strike", -- [1]
-			"Adrid-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			355, -- [11]
-			"Player-3685-0717BEFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Adrid|r",
-			[51] = 1669324469,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
-		{
-			"the 2nd hit also gives you a cp", -- [1]
-			"Adrid-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			356, -- [11]
-			"Player-3685-0717BEFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Adrid|r",
-			[51] = 1669324475,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
-		{
-			"and now with fan the hammer, you can maintain 100% uptime on blade flurry", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			357, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1669324480,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"it's nuts", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			359, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1669324544,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"yep lol", -- [1]
-			"Adrid-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			360, -- [11]
-			"Player-3685-0717BEFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Adrid|r",
-			[51] = 1669324548,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
 			"and you have this mongo version of blade flurry, where it hits 8 targets, or less targets for more dmg", -- [1]
 			"Azados-Turalyon", -- [2]
 			"", -- [3]
@@ -242,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324509,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
+		}, -- [1]
 		{
 			"yeah, i honestly find myself finishing every 2nd or 3rd global", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -264,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324538,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
+		}, -- [2]
 		{
 			"i like that now its not just a buff you activate, it actually does an aoe attack when you press it", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -286,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324540,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
+		}, -- [3]
 		{
 			"yeah that's really nice too", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -308,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324612,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
+		}, -- [4]
 		{
 			"if i played it seriously in m+, i'd pick up blade rush too, for even more nutty aoe dmg", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -330,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324584,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
+		}, -- [5]
 		{
 			"its looking like arcane is going to be the go-to spec for mage with the current tuning", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -352,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324593,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
+		}, -- [6]
 		{
 			"really now that's interesting", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -374,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324667,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
+		}, -- [7]
 		{
 			"i might give it a go, since it's a valid spec to play for me after all", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -396,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324676,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
+		}, -- [8]
 		{
 			"frost is really undertuned", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -418,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324620,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
+		}, -- [9]
 		{
 			"and fire just got some big nerfs", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -440,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324625,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
+		}, -- [10]
 		{
 			"arcane's damage profile is pretty interesting too", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -462,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324640,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
+		}, -- [11]
 		{
 			"i'm actually finding my icicles just aren't hitting strong enough", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -484,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324643,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
+		}, -- [12]
 		{
 			"neither's ice lance", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -506,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324646,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
+		}, -- [13]
 		{
 			"burst windows kinda like fire, but you get one every 45 seconds", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -528,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324651,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
+		}, -- [14]
 		{
 			"did you spec into the passive talent right above glacial spike?", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -550,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324735,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [25]
+		}, -- [15]
 		{
 			"does arcane still nova in melee for aoe?", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -572,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324736,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [26]
+		}, -- [16]
 		{
 			"yeah", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -594,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324685,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [27]
+		}, -- [17]
 		{
 			"yeah i just picked it up, but haven't tested it", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -616,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324694,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
+		}, -- [18]
 		{
 			"makes icicles do a lot more", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -638,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324707,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
+		}, -- [19]
 		{
 			"hailstorm i think it's called?", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -660,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324709,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
+		}, -- [20]
 		{
 			"actually makes mastery a strong stat for frost", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -682,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324711,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
+		}, -- [21]
 		{
 			"ah yeah tahts it, hailstones", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -704,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324716,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
+		}, -- [22]
 		{
 			"that one is considered \"required\"", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -726,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324748,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
+		}, -- [23]
 		{
 			"but i think you only need 1 pt", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -748,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324751,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
+		}, -- [24]
 		{
 			"part of the problem is you can consume winter procs and fingers at the same time", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -770,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324767,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
+		}, -- [25]
 		{
 			"i don't like that", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -792,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324774,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
+		}, -- [26]
 		{
 			"yeah the munching has been a problem since legion", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -814,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324856,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
+		}, -- [27]
 		{
 			"it has gotten better with DF changes at least", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -836,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324803,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
+		}, -- [28]
 		{
 			"i would like winter to be a buff on you, not the mob", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -858,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324816,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [29]
 		{
 			"and then it's easier to adjust priority when using ice lance, it'll chew off one buff before the other", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -880,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324833,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [30]
 		{
 			"it used to be that consuming your brain freeze was priority over ice lance", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -902,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324905,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [31]
 		{
 			"because you only got winter's chill on BF procs", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -924,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324912,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [32]
 		{
 			"oh, interesting, so a non brain freeze flurry did nothing but dmg?", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -946,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324872,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [33]
 		{
 			"but now that you don't technically need it, the priority has shifted so you use fof procs before you flurry", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -968,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324873,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [34]
 		{
 			"it did just damage and it had a 2.5 sec cast time", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -990,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324886,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [35]
 		{
 			"yikes", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1012,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324891,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [36]
 		{
 			"was never ever worth casting without bf", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1034,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324893,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [37]
 		{
 			"before if you had fof procs AND bf the best thing to do was munch the fofs by consuming bf", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1056,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324979,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [38]
 		{
 			"now if you get both at the same time its better to IL first and then bf", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1078,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324931,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [39]
 		{
 			"so there's not nearly as much munching as before", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1100,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669324940,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [40]
 		{
 			"yeah, definitely a better setup in the current state", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1122,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669324989,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [41]
 		{
 			"and arcane's main CD is now a massive nuke", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1144,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325086,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [42]
 		{
 			"arcane power became arcane surge, which consumes all your mana and does damage based on mana consumed and then gives you like 600% mana regen for 8 sec or something", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1166,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325057,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [43]
 		{
 			"oh wow", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1188,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325082,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
+		}, -- [44]
 		{
 			"but like what's the point? if it's gonna regen your mana again", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1210,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325150,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
+		}, -- [45]
 		{
 			"its pretty awesome", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1232,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325152,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
+		}, -- [46]
 		{
 			"to make you pool beforehand?", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1254,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325156,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
+		}, -- [47]
 		{
 			"yeah the idea is you go into it with full mana", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1276,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325104,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
+		}, -- [48]
 		{
 			"and it restores your mana for your trouble", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1298,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325115,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
+		}, -- [49]
 		{
 			"can you dps without consuming mana?", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1320,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325118,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [50]
 		{
 			"no, but i think your main rotation is mana positive", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1342,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325177,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [51]
 		{
 			"oh ok", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1364,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325195,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [52]
 		{
 			"doesn't matter too much, you usually want to talent into evocation anyway", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1386,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325200,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [53]
 		{
 			"because you get a stacking int buff for channeling it", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1408,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325269,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [54]
 		{
 			"so its like font of power trinket from azshara", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1430,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325278,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+		}, -- [55]
 		{
 			"oh i also really like prot warrior..it has risen to be my #2 favorite tank, out-ranking dk", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1452,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325446,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+		}, -- [56]
 		{
 			"ya prot is back to its legion glory days i think", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1474,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325404,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [57]
 		{
 			"yeah it's popping off", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1496,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325412,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [58]
 		{
 			"does some nice dps too", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1518,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325417,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [69]
+		}, -- [59]
 		{
 			"do these say heroic on them twice for you too? |cffa335ee|Hitem:50735::::::::60:253::6:1:9051:2:28:819:9:30:::::|h[Oathbinder, Charge of the Ranger-General]|h|r", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1540,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325495,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [60]
 		{
 			"yes lol", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1562,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1669325525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [61]
 		{
 			"i dont think even blizz knows how their old content scaling works anymore lol", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1584,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1669325556,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [62]
 		{
 			"is the boat still broken?", -- [1]
 			"Noxalia-Turalyon", -- [2]
@@ -1606,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Noxalia|r",
 			[51] = 1669692330,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [63]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16291:Player-3685-0717BEFC:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[An Ancient Awakening]|h|r!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1628,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1676268742,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [74]
+		}, -- [64]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16292:Player-3685-0717BEFC:1:2:12:23:4294967295:4294967295:4294967295:4294967295|h[Mastering the Waygates]|h|r!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1650,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1676268742,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
+		}, -- [65]
 		{
 			"LF JC to recraft |cffa335ee|Hitem:192999::::::::70:577::13:5:3524:8791:8845:8960:8932:2:40:258:38:8:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r", -- [1]
 			"Beng-Turalyon", -- [2]
@@ -1672,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Beng|r",
 			[51] = 1676269282,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [66]
 		{
 			"So now you can't even point out that gnomes are short?", -- [1]
 			"Iroff-Turalyon", -- [2]
@@ -1694,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddIroff|r",
 			[51] = 1676270959,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [67]
 		{
 			"yes you can", -- [1]
 			"Gavin-Turalyon", -- [2]
@@ -1716,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Gavin|r",
 			[51] = 1676271113,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [68]
 		{
 			"you just can't use the \"M\" word", -- [1]
 			"Gavin-Turalyon", -- [2]
@@ -1738,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Gavin|r",
 			[51] = 1676271065,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [69]
 		{
 			"And the proper term to be used is \"Vertically Challenged\"", -- [1]
 			"Gavin-Turalyon", -- [2]
@@ -1760,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Gavin|r",
 			[51] = 1676271152,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [70]
 		{
 			"Yes chef!", -- [1]
 			"Corronavirus-Bloodhoof", -- [2]
@@ -1782,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Corronavirus-Bloodhoof|r",
 			[51] = 1676874890,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
+		}, -- [71]
 		{
 			"Yes chef!", -- [1]
 			"Aydenir-Turalyon", -- [2]
@@ -1804,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAydenir|r",
 			[51] = 1676874841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [72]
 		{
 			"Yes chef!", -- [1]
 			"Dreadmaul-Bloodhoof", -- [2]
@@ -1826,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dDreadmaul-Bloodhoof|r",
 			[51] = 1676874843,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [73]
 		{
 			"Yes chef!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1848,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1676874846,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [74]
 		{
 			"Yes chef!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1870,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1676874956,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [75]
 		{
 			"Yes chef!", -- [1]
 			"Chedda-Bloodhoof", -- [2]
@@ -1892,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeChedda-Bloodhoof|r",
 			[51] = 1676874956,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [76]
 		{
 			"Yes chef!", -- [1]
 			"Aydenir-Turalyon", -- [2]
@@ -1914,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAydenir|r",
 			[51] = 1676874907,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [77]
 		{
 			"Yes chef!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -1936,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1676874910,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [78]
 		{
 			"Yes chef!", -- [1]
 			"Evilcorp-Bloodhoof", -- [2]
@@ -1958,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddEvilcorp-Bloodhoof|r",
 			[51] = 1676874914,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [79]
 		{
 			"Yes chef!", -- [1]
 			"Gavenrhett-Turalyon", -- [2]
@@ -1980,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fGavenrhett|r",
 			[51] = 1679969185,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [80]
 		{
 			"Yes chef!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -2002,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1679969191,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [81]
 		{
 			"Yes chef!", -- [1]
 			"Myosotis-Duskwood", -- [2]
@@ -2024,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Myosotis-Duskwood|r",
 			[51] = 1679969207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [82]
 		{
 			"Yes chef!", -- [1]
 			"Katryona-Bloodhoof", -- [2]
@@ -2046,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aKatryona-Bloodhoof|r",
 			[51] = 1679969207,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [83]
 		{
 			"Yes chef!", -- [1]
 			"Emilynn-Duskwood", -- [2]
@@ -2068,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Emilynn-Duskwood|r",
 			[51] = 1679969212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [84]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18365:Player-3685-0717BEFC:1:7:17:23:4294967295:4294967295:4294967295:4294967295|h[Draconically Superior]|h|r!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -2090,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1689624183,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
+		}, -- [85]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18366:Player-3685-0717BEFC:1:7:17:23:4294967295:4294967295:4294967295:4294967295|h[Draconically Epic]|h|r!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -2112,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1689624183,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
+		}, -- [86]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18729:Player-3685-0717BEFC:1:9:10:23:4294967295:4294967295:4294967295:4294967295|h[Working in Hellfire]|h|r!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -2134,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1694387550,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
+		}, -- [87]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:18728:Player-3685-0717BEFC:1:9:10:23:4294967295:4294967295:4294967295:4294967295|h[Working from the Start]|h|r!", -- [1]
 			"Adrid-Turalyon", -- [2]
@@ -2156,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Adrid|r",
 			[51] = 1694387550,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
+		}, -- [88]
 		{
 			"WTS |cff0070dd|Hitem:194640::::::::1:1449:::::::::|h[Design: Ring-Bound Hourglass]|h|r... pst", -- [1]
 			"Ravenlunatic-Turalyon", -- [2]
@@ -2178,29 +1958,249 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebRavenlunatic|r",
 			[51] = 1694387541,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:16566:Player-3685-0717BEFC:1:1:25:24:4294967295:4294967295:4294967295:4294967295|h[Great Shot!]|h|r!", -- [1]
+			"Adrid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adrid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			283, -- [11]
+			"Player-3685-0717BEFC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Adrid|r",
+			[51] = 1706251813,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [90]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:18867:Player-3685-0717BEFC:1:2:2:24:4294967295:4294967295:4294967295:4294967295|h[Through the Ashes and Flames]|h|r!", -- [1]
+			"Adrid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adrid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			275, -- [11]
+			"Player-3685-0717BEFC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Adrid|r",
+			[51] = 1706857413,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [91]
+		{
+			"Scent of Blood on Chri", -- [1]
+			"Chri-Destromath", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chri-Destromath", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			315, -- [11]
+			"Player-77-0F49E598", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffChri-Destromath|r",
+			[51] = 1706857580,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [92]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4848:Player-3685-0717BEFC:1:2:2:24:4294967295:4294967295:4294967295:4294967295|h[Lost City of the Tol'vir]|h|r!", -- [1]
+			"Adrid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adrid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			376, -- [11]
+			"Player-3685-0717BEFC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Adrid|r",
+			[51] = 1706857925,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [93]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:5066:Player-3685-0717BEFC:1:2:2:24:4294967295:4294967295:4294967295:4294967295|h[Heroic: Lost City of the Tol'vir]|h|r!", -- [1]
+			"Adrid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adrid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			377, -- [11]
+			"Player-3685-0717BEFC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Adrid|r",
+			[51] = 1706857925,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [94]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4477:Player-3685-0717BEFC:1:2:2:24:4294967295:4294967295:4294967295:4294967295|h[Looking For Many]|h|r!", -- [1]
+			"Adrid-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Adrid-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			388, -- [11]
+			"Player-3685-0717BEFC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Adrid|r",
+			[51] = 1706857925,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [95]
+		{
+			"thanks guys", -- [1]
+			"Lunaram-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lunaram-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			398, -- [11]
+			"Player-60-0EB708ED", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLunaram-Stormrage|r",
+			[51] = 1706857930,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [96]
+		{
+			"ty", -- [1]
+			"Ryllyn-Alleria", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ryllyn-Alleria", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			403, -- [11]
+			"Player-52-05D96996", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaRyllyn-Alleria|r",
+			[51] = 1706857934,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [97]
+		{
+			"kazum grom", -- [1]
+			"Immortalpain-Area52", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Immortalpain-Area52", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			409, -- [11]
+			"Player-3676-06F4BAEA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dImmortalpain-Area52|r",
+			[51] = 1706857972,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"CANT MILK THESE", -- [1]
+			"Zencat-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zencat-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			507, -- [11]
+			"Player-3685-06FDCF13", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00ff98Zencat|r",
+			[51] = 1706858894,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/g it did just damage and it had a 2.5 sec cast time", -- [1]
-		"/g was never ever worth casting without bf", -- [2]
-		"/g before if you had fof procs AND bf the best thing to do was munch the fofs by consuming bf", -- [3]
-		"/g now if you get both at the same time its better to IL first and then bf", -- [4]
-		"/g so there's not nearly as much munching as before", -- [5]
-		"/g and arcane's main CD is now a massive nuke", -- [6]
-		"/g arcane power became arcane surge, which consumes all your mana and does damage based on mana consumed and then gives you like 600% mana regen for 8 sec or something", -- [7]
-		"/g its pretty awesome", -- [8]
-		"/g yeah the idea is you go into it with full mana", -- [9]
-		"/g and it restores your mana for your trouble", -- [10]
-		"/g no, but i think your main rotation is mana positive", -- [11]
-		"/g doesn't matter too much, you usually want to talent into evocation anyway", -- [12]
-		"/g because you get a stacking int buff for channeling it", -- [13]
-		"/g so its like font of power trinket from azshara", -- [14]
-		"/g ya prot is back to its legion glory days i think", -- [15]
-		"/g does some nice dps too", -- [16]
-		"/g do these say heroic on them twice for you too? |cffa335ee|Hitem:50735::::::::60:253::6:1:9051:2:28:819:9:30:::::|h[Oathbinder, Charge of the Ranger-General]|h|r", -- [17]
-		"/g i dont think even blizz knows how their old content scaling works anymore lol", -- [18]
-		"/played", -- [19]
-		"/wa", -- [20]
+		"/g was never ever worth casting without bf", -- [1]
+		"/g before if you had fof procs AND bf the best thing to do was munch the fofs by consuming bf", -- [2]
+		"/g now if you get both at the same time its better to IL first and then bf", -- [3]
+		"/g so there's not nearly as much munching as before", -- [4]
+		"/g and arcane's main CD is now a massive nuke", -- [5]
+		"/g arcane power became arcane surge, which consumes all your mana and does damage based on mana consumed and then gives you like 600% mana regen for 8 sec or something", -- [6]
+		"/g its pretty awesome", -- [7]
+		"/g yeah the idea is you go into it with full mana", -- [8]
+		"/g and it restores your mana for your trouble", -- [9]
+		"/g no, but i think your main rotation is mana positive", -- [10]
+		"/g doesn't matter too much, you usually want to talent into evocation anyway", -- [11]
+		"/g because you get a stacking int buff for channeling it", -- [12]
+		"/g so its like font of power trinket from azshara", -- [13]
+		"/g ya prot is back to its legion glory days i think", -- [14]
+		"/g does some nice dps too", -- [15]
+		"/g do these say heroic on them twice for you too? |cffa335ee|Hitem:50735::::::::60:253::6:1:9051:2:28:819:9:30:::::|h[Oathbinder, Charge of the Ranger-General]|h|r", -- [16]
+		"/g i dont think even blizz knows how their old content scaling works anymore lol", -- [17]
+		"/played", -- [18]
+		"/wa", -- [19]
+		"/macro", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

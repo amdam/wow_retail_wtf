@@ -70,7 +70,7 @@ SimulationCraftDB = {
 			},
 			["frame"] = {
 				["ofsx"] = -20.74081993103027,
-				["ofsy"] = 16.00015830993652,
+				["ofsy"] = 16.59275627136231,
 			},
 		},
 		["Badam - Turalyon"] = {

@@ -4,8 +4,9 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		"/ec", -- [1]
 		"/weakauras", -- [2]
-		"/macro", -- [3]
-		"/clique", -- [4]
+		"/wa", -- [3]
+		"/macro", -- [4]
+		"/clique", -- [5]
 	},
 	["ChatHistoryLog"] = {
 		{
@@ -514,5 +515,71 @@ ElvCharacterDB = {
 			[51] = 1669694207,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [23]
+		{
+			"where are the pvp vendors here?", -- [1]
+			"Déréth-Zul'jin", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Déréth-Zul'jin", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-61-0F1CFD51", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddDéréth-Zul'jin|r",
+			[51] = 1692749380,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [24]
+		{
+			"southeast old town", -- [1]
+			"Driltock-Whisperwind", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Driltock-Whisperwind", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-55-0D8EFFD7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc69b6dDriltock-Whisperwind|r",
+			[51] = 1692749397,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [25]
+		{
+			" ty!", -- [1]
+			"Déréth-Zul'jin", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Déréth-Zul'jin", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-61-0F1CFD51", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff0070ddDéréth-Zul'jin|r",
+			[51] = 1692749343,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [26]
 	},
 }

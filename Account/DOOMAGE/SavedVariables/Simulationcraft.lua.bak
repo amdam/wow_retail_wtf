@@ -67,7 +67,7 @@ SimulationCraftDB = {
 		["Adamancy - Turalyon"] = {
 			["frame"] = {
 				["ofsx"] = -20.74081993103027,
-				["ofsy"] = 16.00015830993652,
+				["ofsy"] = 16.59275627136231,
 			},
 			["minimap"] = {
 				["minimapPos"] = 42.40893992104903,

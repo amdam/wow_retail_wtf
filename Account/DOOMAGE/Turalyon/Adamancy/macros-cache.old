@@ -48,7 +48,7 @@ VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,spec:3,@cursor] Freeze; [spec:3,known:Comet Storm] Comet Storm;
+/cast [mod:alt,spec:3] Cone of Cold; [spec:3,known:Comet Storm] Comet Storm;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"

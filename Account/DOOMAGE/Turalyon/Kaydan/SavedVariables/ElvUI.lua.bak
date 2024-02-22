@@ -2,204 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"ive literally never understood corporate bootlicking", -- [1]
-			"Evilis-Khadgar", -- [2]
-			"", -- [3]
-			"1. General - Suramar", -- [4]
-			"Evilis-Khadgar", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Suramar", -- [9]
-			0, -- [10]
-			498, -- [11]
-			"Player-52-076E0795", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Evilis-Khadgar|r",
-			[51] = 1588353253,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"Look up Citizens United Vs. FEC to begin understanding corporate influence on politics. Follow up by looking up recent events on the dismantling of antitrust laws. Super PACs have also begun to be de-regulated.", -- [1]
-			"Moonscar-Moonrunner", -- [2]
-			"", -- [3]
-			"1. General - Suramar", -- [4]
-			"Moonscar-Moonrunner", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Suramar", -- [9]
-			0, -- [10]
-			505, -- [11]
-			"Player-153-02AEAA62", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Moonscar-Moonrunner|r",
-			[51] = 1588353311,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"It's all infuriating and immoral stuff. Happy reading :)", -- [1]
-			"Moonscar-Moonrunner", -- [2]
-			"", -- [3]
-			"1. General - Suramar", -- [4]
-			"Moonscar-Moonrunner", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Suramar", -- [9]
-			0, -- [10]
-			509, -- [11]
-			"Player-153-02AEAA62", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Moonscar-Moonrunner|r",
-			[51] = 1588353335,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"|cffffff00Xibala is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Dazar'alor", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Dazar'alor", -- [9]
-			0, -- [10]
-			46, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1588434871,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"I'm returning to the game after being away after a couple yeaers. Is there anyone who would be willing to answer a question about addons?", -- [1]
-			"Xàth-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Dazar'alor", -- [4]
-			"Xàth-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Dazar'alor", -- [9]
-			0, -- [10]
-			154, -- [11]
-			"Player-3685-07B166E6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecXàth|r",
-			[51] = 1588435537,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"High Guard Reshef 98.55% ~(47.51, 77.19)", -- [1]
-			"Auravenator-Gnomeregan", -- [2]
-			"", -- [3]
-			"1. General - Uldum", -- [4]
-			"Auravenator-Gnomeregan", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Uldum", -- [9]
-			0, -- [10]
-			323, -- [11]
-			"Player-153-0A40F7C5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Auravenator-Gnomeregan|r",
-			[51] = 1588436667,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"<Synthesis> 12/12M, Gold Only Sales!!! 12/12M Nyalotha & Mythic Nzoth Kill/Mount - AOTC & Heroic Full Clear - Mythic Jaina Mount - HardMode Mechagon - M+ Carries - Horrific Visions Carries! PST for details", -- [1]
-			"Abradan-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Abradan-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			716, -- [11]
-			"Player-3685-09414DFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Abradan|r",
-			[51] = 1588440132,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"Stormhowl 57.86% ~(26.65, 73.21)", -- [1]
-			"Knifer-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Vale of Eternal Blossoms", -- [4]
-			"Knifer-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Vale of Eternal Blossoms", -- [9]
-			0, -- [10]
-			533, -- [11]
-			"Player-64-050766E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecKnifer-Bloodhoof|r",
-			[51] = 1588523771,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"Heixi the Stonelord 84.38% ~(29.1, 39.45)", -- [1]
-			"Knifer-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Vale of Eternal Blossoms", -- [4]
-			"Knifer-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Vale of Eternal Blossoms", -- [9]
-			0, -- [10]
-			567, -- [11]
-			"Player-64-050766E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8686ecKnifer-Bloodhoof|r",
-			[51] = 1588524094,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
 			"LF armorsmith for 418 allied wristguards of companionship", -- [1]
 			"Kaydan-Turalyon", -- [2]
 			"", -- [3]
@@ -220,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Kaydan|r",
 			[51] = 1680378637,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [1]
 		{
 			"Heroic Raid VOTI || Full clear 8/8 boss - 260k gold || only Raszageth(AoTC) - 120k", -- [1]
 			"Kissme-Turalyon", -- [2]
@@ -242,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffKissme|r",
 			[51] = 1680378721,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [2]
 		{
 			"thx for the bracers friend", -- [1]
 			"Grumpyknight-Turalyon", -- [2]
@@ -264,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aGrumpyknight|r",
 			[51] = 1680743472,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [12]
+		}, -- [3]
 		{
 			"are you able to proc 418 on those? I can send you a recraft", -- [1]
 			"Grumpyknight-Turalyon", -- [2]
@@ -286,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aGrumpyknight|r",
 			[51] = 1680743560,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [13]
+		}, -- [4]
 		{
 			"anyone know why I am not seeing the mount available for purchase in the trading post?", -- [1]
 			"Dionetes-Duskwood", -- [2]
@@ -308,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebDionetes-Duskwood|r",
 			[51] = 1682985412,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
+		}, -- [5]
 		{
 			"cause there isnt one?", -- [1]
 			"Majexs-Turalyon", -- [2]
@@ -330,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMajexs|r",
 			[51] = 1682985370,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
+		}, -- [6]
 		{
 			"LFR |cffa335ee|Hitem:204217::::::::70:262:::::::::|h[Unstable Elementium]|h|r crafter", -- [1]
 			"Naf-Turalyon", -- [2]
@@ -352,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddNaf|r",
 			[51] = 1682986843,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [7]
 		{
 			"did i just get baited", -- [1]
 			"Kikehwet-BleedingHollow", -- [2]
@@ -374,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
 			[51] = 1685050682,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [8]
 		{
 			"to come back to the sl ", -- [1]
 			"Kikehwet-BleedingHollow", -- [2]
@@ -396,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
 			[51] = 1685050748,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [9]
 		{
 			"is the wa accurate?", -- [1]
 			"Kikehwet-BleedingHollow", -- [2]
@@ -418,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
 			[51] = 1685050777,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [10]
 		{
 			"it was just in tal but actually onharan or something", -- [1]
 			"Kikehwet-BleedingHollow", -- [2]
@@ -440,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
 			[51] = 1685050792,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [11]
 		{
 			"if youre using 1.0.2 yes", -- [1]
 			"Sedethul-Thunderhorn", -- [2]
@@ -462,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fSedethul-Thunderhorn|r",
 			[51] = 1685050816,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [12]
 		{
 			"alright wheres that gay little goblin gonna spawn", -- [1]
 			"Rubidhius-Duskwood", -- [2]
@@ -484,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fRubidhius-Duskwood|r",
 			[51] = 1685050941,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [13]
 		{
 			"Somewhere.", -- [1]
 			"Sigvardr-Turalyon", -- [2]
@@ -506,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSigvardr|r",
 			[51] = 1685050976,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [14]
 		{
 			"|cffffd000|Htrade:Player-3685-0E0F4F9D:2018:164|h[Blacksmithing]|h|r Max Weaponsmith Shields/Bracers/Belts/Legs", -- [1]
 			"Grumpyknight-Turalyon", -- [2]
@@ -528,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aGrumpyknight|r",
 			[51] = 1685051084,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [15]
 		{
 			"LF |cffa335ee|Hitem:193463::::::::70:262::13:1:3524:4:40:387:38:8:45:204682:48:204440:::::|h[Wind Spirit's Lasso |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r craft", -- [1]
 			"Timothy-Turalyon", -- [2]
@@ -550,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddTimothy|r",
 			[51] = 1685051126,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [16]
 		{
 			"next goblin is in org right?", -- [1]
 			"Augua-Turalyon", -- [2]
@@ -572,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAugua|r",
 			[51] = 1685051503,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [17]
 		{
 			"Ahoy.", -- [1]
 			"Wolfsorr-Turalyon", -- [2]
@@ -594,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dWolfsorr|r",
 			[51] = 1685051510,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [18]
 		{
 			"thats the word", -- [1]
 			"Hugugg-Turalyon", -- [2]
@@ -616,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHugugg|r",
 			[51] = 1685051513,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [19]
 		{
 			"yes, theres a WA made by voz that will tell  you NA times", -- [1]
 			"Kawaii-Turalyon", -- [2]
@@ -638,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Kawaii|r",
 			[51] = 1685051518,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [20]
 		{
 			"Bird?", -- [1]
 			"Wolfsorr-Turalyon", -- [2]
@@ -660,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dWolfsorr|r",
 			[51] = 1685051519,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [21]
 		{
 			"|cffffff00Valley of Strength is under attack!|r", -- [1]
 			"", -- [2]
@@ -682,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1685051541,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [22]
 		{
 			"that is teh word", -- [1]
 			"Hugugg-Turalyon", -- [2]
@@ -704,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHugugg|r",
 			[51] = 1685051556,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [23]
 		{
 			"Max |cffffd000|Htrade:Player-3685-0D98EA7B:2018:164|h[Blacksmithing]|h|r Weapons/Shields/Pants/Wrist spec 41%insp", -- [1]
 			"Hexadin-Turalyon", -- [2]
@@ -726,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaHexadin|r",
 			[51] = 1685051566,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [24]
 		{
 			"|cffffff00Valley of Strength is under attack!|r", -- [1]
 			"", -- [2]
@@ -748,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1685051604,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [25]
 		{
 			"|cffffff00Valley of Strength is under attack!|r", -- [1]
 			"", -- [2]
@@ -770,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1685051664,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [26]
 		{
 			"|cffffff00The Broken Tusk is under attack!|r", -- [1]
 			"", -- [2]
@@ -792,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1685051695,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [27]
 		{
 			"|cffffd000|Htrade:Player-3685-0E0F4F9D:2018:164|h[Blacksmithing]|h|r Max Weaponsmith Shields/Bracers/Belts/Legs", -- [1]
 			"Grumpyknight-Turalyon", -- [2]
@@ -814,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aGrumpyknight|r",
 			[51] = 1685051698,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [28]
 		{
 			"VoH", -- [1]
 			"Kathieelee-Turalyon", -- [2]
@@ -836,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKathieelee|r",
 			[51] = 1685052036,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [29]
 		{
 			"go go go!", -- [1]
 			"Knibbler-Duskwood", -- [2]
@@ -858,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebKnibbler-Duskwood|r",
 			[51] = 1685052044,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [30]
 		{
 			"just for the record it is incredibly stressful to interrupt what i'm doing elsewhere every 30 mins to farm this thing.", -- [1]
 			"Kathieelee-Turalyon", -- [2]
@@ -880,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKathieelee|r",
 			[51] = 1685052257,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [31]
 		{
 			"eh fly to wheres next and pop on a movie no stress", -- [1]
 			"Hugugg-Turalyon", -- [2]
@@ -902,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHugugg|r",
 			[51] = 1685052285,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [32]
 		{
 			"next is azure span", -- [1]
 			"Augua-Turalyon", -- [2]
@@ -924,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAugua|r",
 			[51] = 1685052310,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [33]
 		{
 			"well i have an alt doing it, main doing other stuff plus an old ally toon for SW but still.  i cna't handle much.", -- [1]
 			"Kathieelee-Turalyon", -- [2]
@@ -946,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKathieelee|r",
 			[51] = 1685052316,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [34]
 		{
 			"Have you considered that nobody cares?", -- [1]
 			"Wolfsorr-Turalyon", -- [2]
@@ -968,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dWolfsorr|r",
 			[51] = 1685052317,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [35]
 		{
 			"ty", -- [1]
 			"Kathieelee-Turalyon", -- [2]
@@ -990,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKathieelee|r",
 			[51] = 1685052317,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [36]
 		{
 			"send it back in the womb", -- [1]
 			"Augua-Turalyon", -- [2]
@@ -1012,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAugua|r",
 			[51] = 1685052341,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [37]
 		{
 			"anyone need baa pet? got an extra", -- [1]
 			"Velinin-Bloodhoof", -- [2]
@@ -1034,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aVelinin-Bloodhoof|r",
 			[51] = 1685052380,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [38]
 		{
 			"That one goat man said \"Your are not prepared\" once. That was pretty cool.", -- [1]
 			"Ruka-Bloodhoof", -- [2]
@@ -1056,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dRuka-Bloodhoof|r",
 			[51] = 1685117004,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [39]
 		{
 			"Illidan is erotic, change my mind.", -- [1]
 			"Deathfox-Bloodhoof", -- [2]
@@ -1078,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDeathfox-Bloodhoof|r",
 			[51] = 1685117031,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [40]
 		{
 			"yee yee", -- [1]
 			"Xanzz-Duskwood", -- [2]
@@ -1100,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaXanzz-Duskwood|r",
 			[51] = 1685117035,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [41]
 		{
 			"is waking shores next?", -- [1]
 			"Barticus-Bloodhoof", -- [2]
@@ -1122,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBarticus-Bloodhoof|r",
 			[51] = 1685117039,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [42]
 		{
 			"Actually he said it twice if you did nighthold mythic", -- [1]
 			"Gatecreeper-Duskwood", -- [2]
@@ -1144,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeGatecreeper-Duskwood|r",
 			[51] = 1685117047,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [43]
 		{
 			"ill wake your shores", -- [1]
 			"Majexs-Turalyon", -- [2]
@@ -1166,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMajexs|r",
 			[51] = 1685117050,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [44]
 		{
 			"Knot me, bat daddy", -- [1]
 			"Ruka-Bloodhoof", -- [2]
@@ -1188,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dRuka-Bloodhoof|r",
 			[51] = 1685117054,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [45]
 		{
 			"niiiiiiice", -- [1]
 			"Barticus-Bloodhoof", -- [2]
@@ -1210,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBarticus-Bloodhoof|r",
 			[51] = 1685117060,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [46]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-17594-64-54049239|h[Guild: No Pain No Gain]|h|r] Casual guild looking to fill its ranks for DF: Casual play, Questing, Social, Mythic+!  Accepting all classes / roles and experience level! PST for more information!", -- [1]
 			"Shlagors-Duskwood", -- [2]
@@ -1232,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dShlagors-Duskwood|r",
 			[51] = 1685117064,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [47]
 		{
 			"he melts and then you see the health adjust to players", -- [1]
 			"Baraxxus-Turalyon", -- [2]
@@ -1254,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBaraxxus|r",
 			[51] = 1685117078,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [48]
 		{
 			"anyone need the pet", -- [1]
 			"Majexs-Turalyon", -- [2]
@@ -1276,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMajexs|r",
 			[51] = 1685117088,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [49]
 		{
 			"Yes!", -- [1]
 			"Wintekowa-Duskwood", -- [2]
@@ -1298,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aWintekowa-Duskwood|r",
 			[51] = 1685117092,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [50]
 		{
 			"anyone not need the ag?", -- [1]
 			"Bmadbro-Stormrage", -- [2]
@@ -1320,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Bmadbro-Stormrage|r",
 			[51] = 1685117094,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [51]
 		{
 			"i do", -- [1]
 			"Hayld-Drak'Tharon", -- [2]
@@ -1342,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffHayld-Drak'Tharon|r",
 			[51] = 1685117097,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [52]
 		{
 			"bag\"", -- [1]
 			"Bmadbro-Stormrage", -- [2]
@@ -1364,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Bmadbro-Stormrage|r",
 			[51] = 1685117097,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [53]
 		{
 			"I GOT A 200 ARMOR CHARM OH FUCK YES I AM A GOD NOW", -- [1]
 			"Deathfox-Bloodhoof", -- [2]
@@ -1386,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDeathfox-Bloodhoof|r",
 			[51] = 1685117098,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [54]
 		{
 			"open trade for Pet!", -- [1]
 			"Shiro-Turalyon", -- [2]
@@ -1408,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Shiro|r",
 			[51] = 1685117043,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [55]
 		{
 			"ty", -- [1]
 			"Wintekowa-Duskwood", -- [2]
@@ -1430,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aWintekowa-Duskwood|r",
 			[51] = 1685117044,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [56]
 		{
 			"to the waking shores, gl all ", -- [1]
 			"Histar-Turalyon", -- [2]
@@ -1452,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aHistar|r",
 			[51] = 1685117106,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [57]
 		{
 			"anyone need the pet?", -- [1]
 			"Cloonshot-Turalyon", -- [2]
@@ -1474,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Cloonshot|r",
 			[51] = 1685117110,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [58]
 		{
 			"still complaining about loot. shocker.", -- [1]
 			"Porunga-Turalyon", -- [2]
@@ -1496,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fPorunga|r",
 			[51] = 1685117111,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [59]
 		{
 			"My warrior mana has increased infinity percent! |cff0070dd|Hitem:142549::::::::10:72:::::::::|h[Serpent's Grand Charm]|h|r", -- [1]
 			"Ruka-Bloodhoof", -- [2]
@@ -1518,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dRuka-Bloodhoof|r",
 			[51] = 1685117111,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [60]
 		{
 			"WILL TRADE PET FGOR BAG", -- [1]
 			"Bmadbro-Stormrage", -- [2]
@@ -1540,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Bmadbro-Stormrage|r",
 			[51] = 1685117113,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
+		}, -- [61]
 		{
 			"pet available if anyone needs", -- [1]
 			"Knibbler-Duskwood", -- [2]
@@ -1562,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebKnibbler-Duskwood|r",
 			[51] = 1685117117,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [62]
 		{
 			"wisdom for gobli", -- [1]
 			"Shlagors-Duskwood", -- [2]
@@ -1584,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dShlagors-Duskwood|r",
 			[51] = 1685397557,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [63]
 		{
 			"The term is gobo", -- [1]
 			"Toxìc-Turalyon", -- [2]
@@ -1606,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Toxìc|r",
 			[51] = 1685397670,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [64]
 		{
 			"i thought it was gobi kotick", -- [1]
 			"Saelsael-Turalyon", -- [2]
@@ -1628,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSaelsael|r",
 			[51] = 1685397759,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [65]
 		{
 			"Gabimaru", -- [1]
 			"Blackreign-Turalyon", -- [2]
@@ -1650,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aBlackreign|r",
 			[51] = 1685397776,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [66]
 		{
 			"nah that one would escape with a golden parachute", -- [1]
 			"Kaydan-Turalyon", -- [2]
@@ -1672,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Kaydan|r",
 			[51] = 1685397724,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [67]
 		{
 			"loves you.", -- [1]
 			"Sebbastian-Turalyon", -- [2]
@@ -1694,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSebbastian|r",
 			[51] = 1685397736,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [77]
+		}, -- [68]
 		{
 			"can anyone craft |cffa335ee|Hitem:204681::::::::70:263::13:1:3524::::::|h[Enchanted Whelpling's Shadowflame Crest]|h|r?", -- [1]
 			"Gorok-Turalyon", -- [2]
@@ -1716,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddGorok|r",
 			[51] = 1685397827,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [69]
 		{
 			"is there a Black Friday sale? ", -- [1]
 			"Aires-Turalyon", -- [2]
@@ -1738,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dAires|r",
 			[51] = 1685397831,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
+		}, -- [70]
 		{
 			"yea...Treasure Goblins ", -- [1]
 			"Grummcrush-Bloodhoof", -- [2]
@@ -1760,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aGrummcrush-Bloodhoof|r",
 			[51] = 1685397799,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
+		}, -- [71]
 		{
 			"when does this stupid fckin event end, i gotta play d4 in less than 80 hours", -- [1]
 			"Saelsael-Turalyon", -- [2]
@@ -1782,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSaelsael|r",
 			[51] = 1685397867,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [72]
 		{
 			"let's fight over TVs!", -- [1]
 			"Aires-Turalyon", -- [2]
@@ -1804,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dAires|r",
 			[51] = 1685397871,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
+		}, -- [73]
 		{
 			"Stop pushing", -- [1]
 			"ßella-Turalyon", -- [2]
@@ -1826,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffßella|r",
 			[51] = 1685397881,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [74]
 		{
 			"6/15 iirc", -- [1]
 			"Irarelybathe-Turalyon", -- [2]
@@ -1848,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaIrarelybathe|r",
 			[51] = 1685397883,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [75]
 		{
 			"How about no", -- [1]
 			"Toxìc-Turalyon", -- [2]
@@ -1870,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Toxìc|r",
 			[51] = 1685397884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [76]
 		{
 			"what is a TV", -- [1]
 			"Dazzle-Bloodhoof", -- [2]
@@ -1892,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDazzle-Bloodhoof|r",
 			[51] = 1685397884,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [77]
 		{
 			"who touched my butt", -- [1]
 			"Featherstorm-Turalyon", -- [2]
@@ -1914,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaFeatherstorm|r",
 			[51] = 1685397891,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
+		}, -- [78]
 		{
 			"Treasure Goby...you're so cool.", -- [1]
 			"Arulumaya-Turalyon", -- [2]
@@ -1936,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Arulumaya|r",
 			[51] = 1685397893,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
+		}, -- [79]
 		{
 			"whos hand was that?", -- [1]
 			"Fistoffury-Bloodhoof", -- [2]
@@ -1958,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Fistoffury-Bloodhoof|r",
 			[51] = 1685397893,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [80]
 		{
 			"that thing you used to watch", -- [1]
 			"Irarelybathe-Turalyon", -- [2]
@@ -1980,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaIrarelybathe|r",
 			[51] = 1685397895,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [81]
 		{
 			"And with your mount I'm gonna rule", -- [1]
 			"Arulumaya-Turalyon", -- [2]
@@ -2002,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Arulumaya|r",
 			[51] = 1685397899,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [82]
 		{
 			"throw small children in the path to block other adults", -- [1]
 			"Stihlhoof-Turalyon", -- [2]
@@ -2024,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dStihlhoof|r",
 			[51] = 1685397841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [83]
 		{
 			"so go play we won't miss you", -- [1]
 			"Bozzo-Turalyon", -- [2]
@@ -2046,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeBozzo|r",
 			[51] = 1685397843,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [84]
 		{
 			"play smart", -- [1]
 			"Stihlhoof-Turalyon", -- [2]
@@ -2068,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dStihlhoof|r",
 			[51] = 1685397844,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [85]
 		{
 			"Oh Treasure Goby...understand.", -- [1]
 			"Arulumaya-Turalyon", -- [2]
@@ -2090,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Arulumaya|r",
 			[51] = 1685397847,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [95]
+		}, -- [86]
 		{
 			"I am but a troll in the world of warcraft", -- [1]
 			"Dazzle-Bloodhoof", -- [2]
@@ -2112,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDazzle-Bloodhoof|r",
 			[51] = 1685397850,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
+		}, -- [87]
 		{
 			"I'm gonna farm you to the very end.", -- [1]
 			"Arulumaya-Turalyon", -- [2]
@@ -2134,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Arulumaya|r",
 			[51] = 1685397852,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [97]
+		}, -- [88]
 		{
 			"is TV The Voodoo?", -- [1]
 			"Dazzle-Bloodhoof", -- [2]
@@ -2156,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffDazzle-Bloodhoof|r",
 			[51] = 1685397860,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [98]
+		}, -- [89]
 		{
 			"im missing the 2 of the wirt's otherwise id be fine just logging in doing a weekly m+", -- [1]
 			"Saelsael-Turalyon", -- [2]
@@ -2178,6 +1980,204 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSaelsael|r",
 			[51] = 1685397935,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"LF ENGINEER for recraft |cffa335ee|Hitem:198327::::::::70:105::13:1:3524:4:40:559:38:4:48:198238:52:206959:::::|h[Needlessly Complex Wristguards |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
+			"Foxform-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Foxform-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			231, -- [11]
+			"Player-3685-0CCE2C18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aFoxform|r",
+			[51] = 1702624177,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"LF tailor to recaft |cffa335ee|Hitem:193510::::::::70:266::13:1:3524:6:40:451:38:4:45:206960:46:194572:47:204710:50:206959:::::|h[Vibrant Wildercloth Wristwraps |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
+			"Emeraldflame-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Emeraldflame-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			259, -- [11]
+			"Player-3685-0712A510", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8788eeEmeraldflame|r",
+			[51] = 1702625345,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"how do i get onto the wall with the hierloom vendor without flying", -- [1]
+			"Curlyslash-Turalyon", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Curlyslash-Turalyon", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			295, -- [11]
+			"Player-3685-0E52A5F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa330c9Curlyslash|r",
+			[51] = 1702626497,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"LF Jewelcrafter Recraft |cffa335ee|Hitem:193002::::::::70:64::13:1:3524:6:40:261:38:4:48:194569:49:206961:50:206959:51:212536:::::|h[Choker of Shielding |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
+			"Déäth-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Déäth-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			81, -- [11]
+			"Player-3685-079F5ABF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebDéäth|r",
+			[51] = 1702795980,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"LF JC to craft lariat", -- [1]
+			"Allymarie-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Allymarie-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			162, -- [11]
+			"Player-3685-0DD7CC21", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffAllymarie|r",
+			[51] = 1702710254,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"lf |cffa335ee|Hitem:192999::::::::70:253::13:1:3524:2:40:258:38:4:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r craft pst", -- [1]
+			"Aeradom-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Aeradom-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			787, -- [11]
+			"Player-3685-0ABAC219", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffaad372Aeradom|r",
+			[51] = 1702846570,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"gently pats Kilpi.", -- [1]
+			"Tapionnuq", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kaydan-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			396, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tapionnuq",
+			[51] = 1704012325,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [97]
+		{
+			"gently pats Kilpi.", -- [1]
+			"Tapionnuq", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kaydan-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			397, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tapionnuq",
+			[51] = 1704012329,
+			[50] = "CHAT_MSG_EMOTE",
+		}, -- [98]
+		{
+			"gently pats Kilpi.", -- [1]
+			"Tapionnuq", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kaydan-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			402, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tapionnuq",
+			[51] = 1704012390,
+			[50] = "CHAT_MSG_EMOTE",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
@@ -2196,10 +2196,10 @@ ElvCharacterDB = {
 		"/who", -- [13]
 		"/cw grumpyknight thx for the bracers friend", -- [14]
 		"/cw grumpyknight are you able to proc 418 on those? I can send you a recraft", -- [15]
-		"/wa", -- [16]
-		"/2 nah that one would escape with a golden parachute", -- [17]
-		"/who Grumpyknight", -- [18]
-		"/cw grumpyknight are you able to proc rank 5 boots?", -- [19]
+		"/2 nah that one would escape with a golden parachute", -- [16]
+		"/who Grumpyknight", -- [17]
+		"/cw grumpyknight are you able to proc rank 5 boots?", -- [18]
+		"/wa", -- [19]
 		"/macro", -- [20]
 	},
 	["ConvertKeybindings"] = true,

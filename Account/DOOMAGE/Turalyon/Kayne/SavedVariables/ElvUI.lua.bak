@@ -2,204 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"WTS Flying Mount |cffa335ee|Hitem:153594::::::::60:105::13::1:28:872:::::|h[Xiwyllag ATV]|h|r 40k / two for 60k pst or inv me.", -- [1]
-			"Kokiriforest-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kokiriforest-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			382, -- [11]
-			"Player-3685-0DF2B50A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aKokiriforest|r",
-			[51] = 1668581552,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14796:Player-3685-0990B6B7:1:11:15:22:4294967295:4294967295:4294967295:4294967295|h[Superior]|h|r!", -- [1]
-			"Kayne-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kayne-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			555, -- [11]
-			"Player-3685-0990B6B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKayne|r",
-			[51] = 1668583557,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [2]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-1689-3685-47613316|h[Guild: Beyond]|h|r  is looking for more members! We are one of the oldest guilds on this server and still going strong! We do everything from raiding to mythic +, some pvp, old achieve runs, and more!", -- [1]
-			"Aevalya-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Aevalya-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			641, -- [11]
-			"Player-3685-0DF7D0FB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fAevalya|r",
-			[51] = 1668584517,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"WTS Flying Mount |cffa335ee|Hitem:153594::::::::60:105::13::1:28:872:::::|h[Xiwyllag ATV]|h|r 40k / two for 60k pst or inv me.", -- [1]
-			"Kokiriforest-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kokiriforest-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			654, -- [11]
-			"Player-3685-0DF2B50A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aKokiriforest|r",
-			[51] = 1668584705,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12367:Player-3685-0990B6B7:1:11:15:22:4294967295:4294967295:4294967295:4294967295|h[Set Up Us the Bomb]|h|r!", -- [1]
-			"Kayne-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kayne-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			844, -- [11]
-			"Player-3685-0990B6B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aKayne|r",
-			[51] = 1668586946,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [5]
-		{
-			"fail", -- [1]
-			"Mikya-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Mikya-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			14, -- [11]
-			"Player-3685-0703D328", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebMikya|r",
-			[51] = 1668628559,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"anyone have any clue why a whole spec isnt working?", -- [1]
-			"Aloula-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Aloula-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-3685-0724F6C5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00ff98Aloula|r",
-			[51] = 1668641883,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16278:Player-3685-07EB3288:1:11:16:22:4294967295:4294967295:4294967295:4294967295|h[Uldaman: Legacy of Tyr]|h|r!", -- [1]
-			"Doridos-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Doridos-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			126, -- [11]
-			"Player-3685-07EB3288", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Doridos|r",
-			[51] = 1668643079,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [8]
-		{
-			"is the fire primal invasion up?", -- [1]
-			"Gastonn-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gastonn-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			205, -- [11]
-			"Player-3685-0D06F635", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Gastonn|r",
-			[51] = 1668644670,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
 			"doesnt look like", -- [1]
 			"Guillare-Turalyon", -- [2]
 			"", -- [3]
@@ -220,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fGuillare|r",
 			[51] = 1668644717,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [1]
 		{
 			"I like your character design", -- [1]
 			"Erzin-Turalyon", -- [2]
@@ -242,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fErzin|r",
 			[51] = 1668645678,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [2]
 		{
 			"Yours too!", -- [1]
 			"Ankalagon-Turalyon", -- [2]
@@ -264,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAnkalagon|r",
 			[51] = 1668645688,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [3]
 		{
 			"Thank :D", -- [1]
 			"Erzin-Turalyon", -- [2]
@@ -286,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fErzin|r",
 			[51] = 1668645694,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [4]
 		{
 			"we're almost twins, too", -- [1]
 			"Ankalagon-Turalyon", -- [2]
@@ -308,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAnkalagon|r",
 			[51] = 1668645694,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [5]
 		{
 			"true", -- [1]
 			"Erzin-Turalyon", -- [2]
@@ -330,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fErzin|r",
 			[51] = 1668645704,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [6]
 		{
 			"So so dumb that the drakthyr can't fly like the worgens run... I have fuckin wings.", -- [1]
 			"Ægar-Turalyon", -- [2]
@@ -352,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fÆgar|r",
 			[51] = 1668646955,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [7]
 		{
 			"they get tired", -- [1]
 			"Fogdormu-Turalyon", -- [2]
@@ -374,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fFogdormu|r",
 			[51] = 1668646974,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [8]
 		{
 			"this is explained in the intro area", -- [1]
 			"Fogdormu-Turalyon", -- [2]
@@ -396,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fFogdormu|r",
 			[51] = 1668646920,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [9]
 		{
 			"Blizzard shit the bed with this race/", -- [1]
 			"Ægar-Turalyon", -- [2]
@@ -418,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fÆgar|r",
 			[51] = 1668646993,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [10]
 		{
 			"it's a lame excuse", -- [1]
 			"Rangari-Turalyon", -- [2]
@@ -440,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Rangari|r",
 			[51] = 1668647003,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [11]
 		{
 			"how long can you fly for irl", -- [1]
 			"Fogdormu-Turalyon", -- [2]
@@ -462,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fFogdormu|r",
 			[51] = 1668647017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [12]
 		{
 			"They had to pump something out so they had dingus in marketing yell out \"dwagons! Stormy Dwagons!\" and it wtuck.", -- [1]
 			"Ægar-Turalyon", -- [2]
@@ -484,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fÆgar|r",
 			[51] = 1668647043,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [13]
 		{
 			"Don't think the race is bad. But he is saying like normal flying, not soar (like druids can fly)", -- [1]
 			"Aevnass-Turalyon", -- [2]
@@ -506,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fAevnass|r",
 			[51] = 1668647049,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [14]
 		{
 			"druids are birds", -- [1]
 			"Fogdormu-Turalyon", -- [2]
@@ -528,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fFogdormu|r",
 			[51] = 1668647056,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [15]
 		{
 			"s+693", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -550,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1669407133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [16]
 		{
 			"BOAT", -- [1]
 			"Tiffy-Duskwood", -- [2]
@@ -572,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebTiffy-Duskwood|r",
 			[51] = 1669692428,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [26]
+		}, -- [17]
 		{
 			"LETS GO!!!!!!!!!!!!!!!!", -- [1]
 			"Exiin-Turalyon", -- [2]
@@ -594,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffExiin|r",
 			[51] = 1669692435,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [27]
+		}, -- [18]
 		{
 			"All aboard!", -- [1]
 			"Lizardofoz-Turalyon", -- [2]
@@ -616,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff33937fLizardofoz|r",
 			[51] = 1669692438,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [19]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16571:Player-3685-0990B6B7:1:1:8:23:4294967295:4294967295:4294967295:4294967295|h[Well Supplied]|h|r!", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -638,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1673237761,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [29]
+		}, -- [20]
 		{
 			"LF crafter for 405 |cffa335ee|Hitem:193001::::::::70:70:::::::::|h[Elemental Lariat]|h|r", -- [1]
 			"Anoki-Turalyon", -- [2]
@@ -660,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAnoki|r",
 			[51] = 1673918271,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [21]
 		{
 			"dragging chest up stairs atm, Earth-Warder's Vault", -- [1]
 			"Brandian-Turalyon", -- [2]
@@ -682,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aBrandian|r",
 			[51] = 1673920127,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [22]
 		{
 			"LF leatherworker Venom-Steeped Stompers Rank 4 or 5 PST", -- [1]
 			"Kazekiame-Turalyon", -- [2]
@@ -704,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddKazekiame|r",
 			[51] = 1673921620,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [23]
 		{
 			"Why the server shutdown?", -- [1]
 			"Mirlan-Turalyon", -- [2]
@@ -726,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMirlan|r",
 			[51] = 1673932805,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [24]
 		{
 			"dont know", -- [1]
 			"Valornete-Turalyon", -- [2]
@@ -748,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00ff98Valornete|r",
 			[51] = 1673932816,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [25]
 		{
 			"lame", -- [1]
 			"Mirlan-Turalyon", -- [2]
@@ -770,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMirlan|r",
 			[51] = 1673932885,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [26]
 		{
 			"other realms are having log on issues", -- [1]
 			"Kurian-Turalyon", -- [2]
@@ -792,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKurian|r",
 			[51] = 1673932905,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [27]
 		{
 			"?", -- [1]
 			"Kurian-Turalyon", -- [2]
@@ -814,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaKurian|r",
 			[51] = 1673932915,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [28]
 		{
 			"LF BS that can craft |cffa335ee|Hitem:191623::::::::70:252::13:1:3524:2:40:158:38:6:::::|h[Unstable Frostfire Belt |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r at 405.", -- [1]
 			"Dranor-Turalyon", -- [2]
@@ -836,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aDranor|r",
 			[51] = 1673936468,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [29]
 		{
 			"crafting 418 ilvl gear (415 guaranteed), no charge: |cffa335ee|Hitem:198326::::::::70:66::13:1:3524:2:40:619:38:7:::::|h[Battle-Ready Binoculars |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r|cffa335ee|Hitem:198323::::::::70:66::13:1:3524:2:40:616:38:7:::::|h[Lightweight Ocular Lenses |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r|cffa335ee|Hitem:198325::::::::70:66::13:1:3524:2:40:618:38:7:::::|h[Oscillating Wilderness Opticals |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r|cffa335ee|Hitem:198333::::::::70:66::13:1:3524:2:40:561:38:7:::::|h[Difficult Wrist Protectors |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r|cffa335ee|Hitem:198322::::::::70:66::13:1:3524:2:40:558:38:7:::::|h[Overengineered Sleeve Extenders |A:Professions-ChatIcon-Quality-Tier4:17:17::1|a]|h|r", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -858,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1673937736,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [30]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16566:Player-3685-0990B6B7:1:1:16:23:4294967295:4294967295:4294967295:4294967295|h[Great Shot!]|h|r!", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -880,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1673942264,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [40]
+		}, -- [31]
 		{
 			"rare @ |cffffff00|Hworldmap:2022:2488:6138|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Thorrell-Ravencrest", -- [2]
@@ -902,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aThorrell-Ravencrest|r",
 			[51] = 1673942813,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [32]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16400:Player-3685-0990B6B7:1:1:16:23:4294967295:4294967295:4294967295:4294967295|h[Explore the Waking Shores]|h|r!", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -924,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1673943209,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [42]
+		}, -- [33]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:16572:Player-3685-0990B6B7:1:1:16:23:4294967295:4294967295:4294967295:4294967295|h[Legendary Photograph]|h|r!", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -946,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1673944171,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [43]
+		}, -- [34]
 		{
 			"Yes chef!", -- [1]
 			"Phuon-Bloodhoof", -- [2]
@@ -968,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPhuon-Bloodhoof|r",
 			[51] = 1676875127,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
+		}, -- [35]
 		{
 			"Yes chef!", -- [1]
 			"Evilcorp-Bloodhoof", -- [2]
@@ -990,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddEvilcorp-Bloodhoof|r",
 			[51] = 1676875131,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
+		}, -- [36]
 		{
 			"Yes chef!", -- [1]
 			"Zmey-Turalyon", -- [2]
@@ -1012,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Zmey|r",
 			[51] = 1676875131,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [37]
 		{
 			"Yes chef!", -- [1]
 			"Kozue-Turalyon", -- [2]
@@ -1034,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebKozue|r",
 			[51] = 1676875131,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [38]
 		{
 			"Yes chef!", -- [1]
 			"Corronavirus-Bloodhoof", -- [2]
@@ -1056,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Corronavirus-Bloodhoof|r",
 			[51] = 1676875132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [39]
 		{
 			"Yes chef!", -- [1]
 			"Chedda-Bloodhoof", -- [2]
@@ -1078,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeChedda-Bloodhoof|r",
 			[51] = 1676875132,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [40]
 		{
 			"Yes chef!", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1100,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1676875133,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [41]
 		{
 			"Yes chef!", -- [1]
 			"Felspawn-Bloodhoof", -- [2]
@@ -1122,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffa330c9Felspawn-Bloodhoof|r",
 			[51] = 1676875134,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [42]
 		{
 			"Yes chef!", -- [1]
 			"Moonshadow-Turalyon", -- [2]
@@ -1144,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMoonshadow|r",
 			[51] = 1676875137,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [43]
 		{
 			"Yes chef!", -- [1]
 			"Trogdont-Duskwood", -- [2]
@@ -1166,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebTrogdont-Duskwood|r",
 			[51] = 1676875088,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [44]
 		{
 			"Yes chef!", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1188,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1676875096,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [45]
 		{
 			"Yes chef!", -- [1]
 			"Chedda-Bloodhoof", -- [2]
@@ -1210,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff8788eeChedda-Bloodhoof|r",
 			[51] = 1676875197,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [46]
 		{
 			"Yes chef!", -- [1]
 			"Moonshadow-Turalyon", -- [2]
@@ -1232,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aMoonshadow|r",
 			[51] = 1676875199,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [47]
 		{
 			"Yes chef!", -- [1]
 			"Kozue-Turalyon", -- [2]
@@ -1254,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc7ebKozue|r",
 			[51] = 1676875141,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [48]
 		{
 			"Yes chef!", -- [1]
 			"Phuon-Bloodhoof", -- [2]
@@ -1276,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddPhuon-Bloodhoof|r",
 			[51] = 1676875143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [49]
 		{
 			"Yes chef!", -- [1]
 			"Saviourself-Turalyon", -- [2]
@@ -1298,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSaviourself|r",
 			[51] = 1676875151,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [50]
 		{
 			"damn adam, you're bordering on altaholism", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1320,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1676935245,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
+		}, -- [51]
 		{
 			"lol yeah i know", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1342,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1676935210,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
+		}, -- [52]
 		{
 			"this char is just a blacksmith slave", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1364,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1676935291,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
+		}, -- [53]
 		{
 			"i'd play a healer, but this expac has made me wary", -- [1]
 			"Azados-Turalyon", -- [2]
@@ -1386,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAzados|r",
 			[51] = 1676935369,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
+		}, -- [54]
 		{
 			"yeah looks waaay too stressful lol", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1408,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1676935340,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
+		}, -- [55]
 		{
 			"|cffffd100|HclubFinder:ClubFinder-1-152860-3685-47611415|h[Guild: The Triad Alliance]|h|r is a casual guild of long history and exp'd leadership. We're here to have fun, whether it's new content or old. If that's you, send a tell or check us out.", -- [1]
 			"Rayvynos-Turalyon", -- [2]
@@ -1430,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaRayvynos|r",
 			[51] = 1678384960,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [56]
 		{
 			"hey adam", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1452,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317478,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+		}, -- [57]
 		{
 			"hey", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1474,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317583,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
+		}, -- [58]
 		{
 			"i farmed treasures and rares on my mage yesterday and got the enchanting recipe for the crafted crest thing", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1496,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317717,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
+		}, -- [59]
 		{
 			"oh nice", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1518,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317728,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [69]
+		}, -- [60]
 		{
 			"so you can make it now", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1540,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317807,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+		}, -- [61]
 		{
 			"so when mythic crests start to drop next week i can make those for 447 crafts", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1562,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317808,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [62]
 		{
 			"sweet", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1584,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317813,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [63]
 		{
 			"yea it takes 4 aspects crests though", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1606,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317764,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [64]
 		{
 			"I wanted to ask, does CN do group loot for raids? the raid trinkets this tier are looking insanely op so I might be forced to raid but I also don't wanna be that dick that rolls in and needs on stuff lol so I was considering raiding this tier", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1628,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317868,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [65]
 		{
 			"everyone has to do group loot, you cannot change it", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1650,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317832,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [66]
 		{
 			"blizz forced it in raids", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1672,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317835,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [67]
 		{
 			"oh okay", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1694,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317840,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
+		}, -- [68]
 		{
 			"welp", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1716,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317847,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [69]
 		{
 			"the loot rules are that you are allowed to win 2 items by need roll per week", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1738,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317850,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
+		}, -- [70]
 		{
 			"and erin keeps track of who wins by need roll", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1760,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317862,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
+		}, -- [71]
 		{
 			"makes sense", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1782,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317929,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
+		}, -- [72]
 		{
 			"I might talk to her. I don't need mythic trinkets", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1804,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317938,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
+		}, -- [73]
 		{
 			"and the raid times work for me", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1826,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317882,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [74]
 		{
 			"you can roll greed for offspec or sidegrades or whatever and that has no limit but they just dont want everyone needing on everything", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1848,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317883,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
+		}, -- [75]
 		{
 			"which is fair", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1870,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317900,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [76]
 		{
 			"yeah just kind of sucks someone has to keep track of that and there's no way to police that outside of lfr", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1892,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317986,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [77]
 		{
 			"yeah its just the honor system if your guild members actually follow", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1914,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317945,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [78]
 		{
 			"yeah and they do because they want to be invited back lol", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1936,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317965,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [79]
 		{
 			"lol yes", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -1958,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683317970,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [80]
 		{
 			"problem is it forces us away from ever pugging even a single slot", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -1980,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683317979,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [81]
 		{
 			"a rando pug with no skin in the game that may never speak to us again has no problem needing on everything", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -2002,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683318055,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [82]
 		{
 			"whata re you guys low on?", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -2024,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683318021,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [83]
 		{
 			"so if we end up with too few we have been cancelling rather than pug", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -2046,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683318021,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [84]
 		{
 			"hmm im not sure, valla is in charge of the roster and recruitment", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -2068,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683318108,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [85]
 		{
 			"ah okay", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -2090,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683318076,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [86]
 		{
 			"we pushed keys with her for a while", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -2112,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683318080,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [87]
 		{
 			"but from discord guild chat it looks like we aren't \"full\" on anything", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -2134,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683318086,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [88]
 		{
 			"yeah you know her then", -- [1]
 			"Kayne-Turalyon", -- [2]
@@ -2156,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aKayne|r",
 			[51] = 1683318172,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
+		}, -- [89]
 		{
 			"maybe I'll reach out to her then cause if the trinkets from raid remain OP, I'm gonna want them", -- [1]
 			"Slaminshaman-Turalyon", -- [2]
@@ -2178,29 +1980,227 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSlaminshaman|r",
 			[51] = 1683318296,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"Healing can't be simmed as far as I'm away what do you all think ", -- [1]
+			"Allias-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Allias-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1056, -- [11]
+			"Player-3685-07164814", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffAllias|r",
+			[51] = 1704567112,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"|cffa335ee|Hitem:193677::::::::70:256::2:5:9636:6652:9543:1672:8767:1:28:2155:::::|h[Furious Ragefeather]|h|r|cffa335ee|Hitem:159458:6556:192945::::::70:256::16:7:9639:6652:9516:9144:9563:9458:8767:1:28:1279:::::|h[Seal of the Regal Loa]|h|r vs |cffa335ee|Hitem:159631::::::::70:256::16:6:9639:6652:9144:9563:9458:8767:1:28:1279:::::|h[Lady Waycrest's Music Box]|h|r|cffa335ee|Hitem:158362::::::::70:256::16:7:9639:6652:9599:9144:9563:9458:8767:1:28:1279:::::|h[Lord Waycrest's Signet]|h|r", -- [1]
+			"Allias-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Allias-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1069, -- [11]
+			"Player-3685-07164814", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffAllias|r",
+			[51] = 1704567060,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"One's champion and one's adventurer", -- [1]
+			"Zenjas-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zenjas-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1131, -- [11]
+			"Player-3685-0700CD95", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebZenjas|r",
+			[51] = 1704567162,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"Yea I guess that true. The procs on Furious rage feather are", -- [1]
+			"Allias-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Allias-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1178, -- [11]
+			"Player-3685-07164814", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffAllias|r",
+			[51] = 1704567131,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"Are you disc or holy?", -- [1]
+			"Zenjas-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zenjas-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1180, -- [11]
+			"Player-3685-0700CD95", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3fc7ebZenjas|r",
+			[51] = 1704567132,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"use qe live they can sim healing items", -- [1]
+			"Daydreaming-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Daydreaming-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1184, -- [11]
+			"Player-3685-0E49C5E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffff7c0aDaydreaming|r",
+			[51] = 1704567135,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"good. disc", -- [1]
+			"Allias-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Allias-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1185, -- [11]
+			"Player-3685-07164814", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffffffffAllias|r",
+			[51] = 1704567135,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"LF BS TO RECRAFT |cffa335ee|Hitem:191985::::::::70:71::13:1:3524:4:40:160:38:4:48:206959:49:212537:::::|h[Infurious Warboots of Impunity |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r ", -- [1]
+			"Halfman-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Halfman-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-3685-07143A30", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc69b6dHalfman|r",
+			[51] = 1705992833,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"LF JC", -- [1]
+			"Tbh-Turalyon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tbh-Turalyon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-3685-0E571102", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffaad372Tbh|r",
+			[51] = 1705906800,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/g this char is just a blacksmith slave", -- [1]
-		"/g yeah looks waaay too stressful lol", -- [2]
-		"/rl", -- [3]
-		"/g hey", -- [4]
-		"/g i farmed treasures and rares on my mage yesterday and got the enchanting recipe for the crafted crest thing", -- [5]
-		"/g so when mythic crests start to drop next week i can make those for 447 crafts", -- [6]
-		"/g yea it takes 4 aspects crests though", -- [7]
-		"/g everyone has to do group loot, you cannot change it", -- [8]
-		"/g blizz forced it in raids", -- [9]
-		"/g the loot rules are that you are allowed to win 2 items by need roll per week", -- [10]
-		"/g and erin keeps track of who wins by need roll", -- [11]
-		"/g you can roll greed for offspec or sidegrades or whatever and that has no limit but they just dont want everyone needing on everything", -- [12]
-		"/g yeah just kind of sucks someone has to keep track of that and there's no way to police that outside of lfr", -- [13]
-		"/g yeah and they do because they want to be invited back lol", -- [14]
-		"/g problem is it forces us away from ever pugging even a single slot", -- [15]
-		"/g a rando pug with no skin in the game that may never speak to us again has no problem needing on everything", -- [16]
-		"/g so if we end up with too few we have been cancelling rather than pug", -- [17]
-		"/g hmm im not sure, valla is in charge of the roster and recruitment", -- [18]
-		"/g but from discord guild chat it looks like we aren't \"full\" on anything", -- [19]
-		"/g yeah you know her then", -- [20]
+		"/g i farmed treasures and rares on my mage yesterday and got the enchanting recipe for the crafted crest thing", -- [1]
+		"/g so when mythic crests start to drop next week i can make those for 447 crafts", -- [2]
+		"/g yea it takes 4 aspects crests though", -- [3]
+		"/g everyone has to do group loot, you cannot change it", -- [4]
+		"/g blizz forced it in raids", -- [5]
+		"/g the loot rules are that you are allowed to win 2 items by need roll per week", -- [6]
+		"/g and erin keeps track of who wins by need roll", -- [7]
+		"/g you can roll greed for offspec or sidegrades or whatever and that has no limit but they just dont want everyone needing on everything", -- [8]
+		"/g yeah just kind of sucks someone has to keep track of that and there's no way to police that outside of lfr", -- [9]
+		"/g yeah and they do because they want to be invited back lol", -- [10]
+		"/g problem is it forces us away from ever pugging even a single slot", -- [11]
+		"/g a rando pug with no skin in the game that may never speak to us again has no problem needing on everything", -- [12]
+		"/g so if we end up with too few we have been cancelling rather than pug", -- [13]
+		"/g hmm im not sure, valla is in charge of the roster and recruitment", -- [14]
+		"/g but from discord guild chat it looks like we aren't \"full\" on anything", -- [15]
+		"/g yeah you know her then", -- [16]
+		"/played", -- [17]
+		"/wa", -- [18]
+		"/macro", -- [19]
+		"/rl", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

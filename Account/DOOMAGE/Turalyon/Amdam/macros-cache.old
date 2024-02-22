@@ -91,6 +91,7 @@ END
 VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover, help, nodead][help, nodead][@player] Word of Glory
+/use Healthstone
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"

@@ -4,9 +4,9 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		"/ec", -- [1]
 		"/weakauras", -- [2]
-		"/clique", -- [3]
-		"/wa", -- [4]
-		"/macro", -- [5]
+		"/wa", -- [3]
+		"/macro", -- [4]
+		"/clique", -- [5]
 	},
 	["ChatHistoryLog"] = {
 		{

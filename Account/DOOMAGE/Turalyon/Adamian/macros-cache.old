@@ -1,15 +1,15 @@
-VER 3 0100000000000001 " " "134400"
-#showtooltip
-/cast [mod:alt] Azure Strike; Living Flame;
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000003 " " "134400"
 #showtooltip
-/cast [mod:alt] Deep Breath; Eternity Surge;
+/cast [mod:alt] Deep Breath; [spec:3] Blistering Scales; Eternity Surge;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "134400"
 #showtooltip
-/cast [mod:alt] Pyre; Disintegrate;
+/cast [mod:alt,spec:1] Pyre; [mod:alt,spec:3] Upheaval; Disintegrate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [mod:alt] Azure Strike; Living Flame;
 /script UIErrorsFrame:Clear()
 END

@@ -1,11 +1,11 @@
 
 OneRing_Config = nil
 OPie_SavedData = {
-	["_GameVersion"] = "10.2.0",
+	["_GameVersion"] = "10.2.5",
 	["CharProfiles"] = {
 	},
 	["_TimeBand"] = 0.8203125,
-	["_OPieVersion"] = "Zeta 3.5 (4.118)",
+	["_OPieVersion"] = "Zeta 4 (4.119)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["Bindings"] = {
@@ -75,10 +75,10 @@ OPie_SavedData = {
 					["show"] = "[spec:73/72] hide;",
 					["sliceToken"] = "ABuesXRQAcr",
 				}, -- [8]
-				["limit"] = "Badam-Turalyon",
+				["name"] = "Equipment Sets",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["name"] = "Equipment Sets",
+				["limit"] = "Badam-Turalyon",
 			},
 			["CommonTrades"] = {
 				{
@@ -469,10 +469,10 @@ OPie_SavedData = {
 					["show"] = "[spec:64/63] hide;",
 					["sliceToken"] = "ABue376TIGe",
 				}, -- [10]
-				["name"] = "Equipment sets",
+				["limit"] = "Adamancy-Turalyon",
 				["save"] = true,
 				["hotkey"] = "NUMPAD5",
-				["limit"] = "Adamancy-Turalyon",
+				["name"] = "Equipment sets",
 			},
 		},
 	},

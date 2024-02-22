@@ -150,3 +150,6 @@ BigWigs_Amirdrassil: enabled
 LittleWigs_BattleForAzeroth: enabled
 LittleWigs_Legion: enabled
 LittleWigs_Cataclysm: enabled
+BigWigs_Aberrus: enabled
+LittleWigs_BurningCrusade: enabled
+LittleWigs_WrathOfTheLichKing: enabled

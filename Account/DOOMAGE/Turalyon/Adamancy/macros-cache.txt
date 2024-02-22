@@ -63,7 +63,6 @@ VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/focus
 /cast [@mouseover][] Polymorph;
 /script UIErrorsFrame:Clear()
 END

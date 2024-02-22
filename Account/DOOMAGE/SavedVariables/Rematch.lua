@@ -34,40 +34,36 @@ Rematch5Settings = {
 	["PanelTabAnchor"] = "BOTTOMRIGHT",
 	["PetCardAlwaysShowHPXPText"] = false,
 	["CollapseOnEsc"] = false,
-	["QueueActiveSort"] = false,
-	["MaximizedLayout"] = "3-teams",
-	["HideMenuHelp"] = false,
+	["ConvertedTeams"] = {
+	},
 	["ReverseToolbar"] = false,
 	["ShowAbilityNumbers"] = false,
+	["HideMenuHelp"] = false,
 	["HideTruncatedTooltips"] = false,
+	["QueueActiveSort"] = false,
+	["MaximizedLayout"] = "3-teams",
 	["PetMarkerNames"] = {
 	},
 	["ResetExceptSearch"] = false,
-	["HidePetToast"] = true,
 	["PetCardCompactCollected"] = false,
 	["FavoriteFilters"] = {
 	},
-	["PetCardCanPin"] = false,
+	["StickyNewPets"] = false,
+	["ShowAbilityID"] = false,
+	["HidePetToast"] = true,
+	["ShowLoadedTeamPreferences"] = false,
+	["WasShownOnLogout"] = false,
+	["PetCardShowExpansionStat"] = false,
 	["BackupCount"] = 0,
 	["HideToolbarTooltips"] = false,
 	["DisplayUniqueTotal"] = false,
 	["BreedFormat"] = 1,
 	["TooltipBehavior"] = "Normal",
 	["HideOptionTooltips"] = false,
-	["ShowAbilityID"] = false,
-	["ShowLoadedTeamPreferences"] = false,
-	["PetCardShowExpansionStat"] = false,
-	["InteractOnMouseover"] = 0,
-	["ConvertedTeams"] = {
-	},
+	["MousewheelSpeed"] = "Normal",
 	["InteractOnTarget"] = 0,
-	["LastOpenJournal"] = true,
-	["ShowNewGroupTab"] = true,
-	["QueueSortOrder"] = 1,
-	["PetCardFlipKey"] = "Alt",
-	["MinimapButtonPosition"] = -162,
-	["RandomPetRules"] = 2,
-	["PetCardAlwaysShowHPBar"] = false,
+	["HideNotesButtonInBattle"] = false,
+	["InteractOnMouseover"] = 0,
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -107,6 +103,15 @@ Rematch5Settings = {
 		["Moveset"] = {
 		},
 	},
+	["ShowNewGroupTab"] = true,
+	["LastOpenJournal"] = true,
+	["QueueSortOrder"] = 1,
+	["ResetFilters"] = false,
+	["PetCardFlipKey"] = "Alt",
+	["MinimapButtonPosition"] = -162,
+	["RandomPetRules"] = 2,
+	["PetCardAlwaysShowHPBar"] = false,
+	["QueueRandomWhenEmpty"] = false,
 	["ScriptFilters"] = {
 		{
 			"Unnamed Pets", -- [1]
@@ -133,12 +138,12 @@ Rematch5Settings = {
 	},
 	["CardBehavior"] = "Normal",
 	["BoringLoreFont"] = false,
-	["LockPosition"] = false,
-	["NotesFont"] = "GameFontHighlight",
-	["ResetFilters"] = false,
+	["CompactTargetList"] = false,
 	["ExpandedGroups"] = {
 	},
-	["CompactTargetList"] = false,
+	["LockPosition"] = false,
+	["NotesFont"] = "GameFontHighlight",
+	["CombineGroupKey"] = "None",
 	["InteractOnSoftInteract"] = 0,
 	["AlwaysUsePetSatchel"] = false,
 	["TypeBarTab"] = 1,
@@ -148,11 +153,11 @@ Rematch5Settings = {
 	["NeverTeamTabs"] = false,
 	["SortByNickname"] = false,
 	["SafariHatShine"] = false,
-	["ResetSortWithFilters"] = false,
+	["PetCardCanPin"] = false,
 	["CompactTeamList"] = false,
+	["ResetSortWithFilters"] = false,
 	["HideLevelBubbles"] = false,
 	["LockWindow"] = false,
-	["StickyNewPets"] = false,
 	["LockNotesPosition"] = false,
 	["PetMarkers"] = {
 	},
@@ -232,13 +237,13 @@ Rematch4Settings = {
 		},
 		["Strong"] = {
 		},
-		["Similar"] = {
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Rarity"] = {
 		},
-		["Sources"] = {
+		["Similar"] = {
 		},
 		["Collected"] = {
 		},
@@ -257,13 +262,13 @@ Rematch4Settings = {
 	["QueueSortOrder"] = 1,
 	["ExpandedTargetHeaders"] = {
 	},
-	["PreferredMode"] = 1,
+	["ElvUIToastDefaulted"] = true,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
 	},
 	["JournalPanel"] = 1,
 	["CornerPos"] = "BOTTOMLEFT",
-	["ElvUIToastDefaulted"] = true,
+	["PreferredMode"] = 1,
 	["ScriptFilters"] = {
 		{
 			"Unnamed Pets", -- [1]

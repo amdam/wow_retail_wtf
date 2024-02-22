@@ -201,3 +201,4 @@ LittleWigs_BattleForAzeroth: enabled
 BigWigs_Aberrus: enabled
 RematchElvUISkin: disabled
 BigWigs_Amirdrassil: enabled
+LittleWigs_WrathOfTheLichKing: enabled
