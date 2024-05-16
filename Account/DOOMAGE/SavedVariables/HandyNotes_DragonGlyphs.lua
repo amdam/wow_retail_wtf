@@ -1,55 +1,61 @@
 
 HandyNotes_DragonGlyphsDB = {
-	["profileKeys"] = {
-		["Abel - Turalyon"] = "Abel - Turalyon",
-		["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-		["Furrys - Turalyon"] = "Furrys - Turalyon",
-		["Allevin - Turalyon"] = "Allevin - Turalyon",
-		["Asaam - Turalyon"] = "Asaam - Turalyon",
-		["Kayne - Turalyon"] = "Kayne - Turalyon",
-		["Badam - Turalyon"] = "Badam - Turalyon",
-		["Amdam - Turalyon"] = "Amdam - Turalyon",
-		["Christoff - Turalyon"] = "Christoff - Turalyon",
-		["Aduum - Turalyon"] = "Aduum - Turalyon",
-		["Adamian - Turalyon"] = "Adamian - Turalyon",
-		["Kaydan - Turalyon"] = "Kaydan - Turalyon",
-		["Adamn - Turalyon"] = "Adamn - Turalyon",
-		["Dreg - Turalyon"] = "Dreg - Turalyon",
-		["Adrid - Turalyon"] = "Adrid - Turalyon",
-		["Adomic - Turalyon"] = "Adomic - Turalyon",
-	},
-	["profiles"] = {
-		["Abel - Turalyon"] = {
-		},
-		["Adamancy - Turalyon"] = {
-		},
-		["Furrys - Turalyon"] = {
-		},
-		["Allevin - Turalyon"] = {
-		},
-		["Asaam - Turalyon"] = {
-		},
-		["Kayne - Turalyon"] = {
-		},
-		["Badam - Turalyon"] = {
-		},
-		["Amdam - Turalyon"] = {
-		},
-		["Christoff - Turalyon"] = {
-		},
-		["Aduum - Turalyon"] = {
-		},
-		["Adamian - Turalyon"] = {
-		},
-		["Kaydan - Turalyon"] = {
-		},
-		["Adamn - Turalyon"] = {
-		},
-		["Dreg - Turalyon"] = {
-		},
-		["Adrid - Turalyon"] = {
-		},
-		["Adomic - Turalyon"] = {
-		},
-	},
+["profileKeys"] = {
+["Allevin - Turalyon"] = "Allevin - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Amdam - Turalyon"] = "Amdam - Turalyon",
+["Badam - Turalyon"] = "Badam - Turalyon",
+["Kaydan - Turalyon"] = "Kaydan - Turalyon",
+["Christoff - Turalyon"] = "Christoff - Turalyon",
+["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Abel - Turalyon"] = "Abel - Turalyon",
+["Adamancy - Turalyon"] = "Adamancy - Turalyon",
+["Furrys - Turalyon"] = "Furrys - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Adamn - Turalyon"] = "Adamn - Turalyon",
+["Aduum - Turalyon"] = "Aduum - Turalyon",
+["Adamian - Turalyon"] = "Adamian - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
+},
+["profiles"] = {
+["Allevin - Turalyon"] = {
+},
+["Kayne - Turalyon"] = {
+},
+["Amdam - Turalyon"] = {
+},
+["Badam - Turalyon"] = {
+},
+["Kaydan - Turalyon"] = {
+},
+["Christoff - Turalyon"] = {
+},
+["Dreg - Turalyon"] = {
+},
+["Abel - Turalyon"] = {
+},
+["Adamancy - Turalyon"] = {
+},
+["Furrys - Turalyon"] = {
+},
+["Shado - Turalyon"] = {
+},
+["Adaam - Turalyon"] = {
+},
+["Adrid - Turalyon"] = {
+},
+["Asaam - Turalyon"] = {
+},
+["Adamn - Turalyon"] = {
+},
+["Aduum - Turalyon"] = {
+},
+["Adamian - Turalyon"] = {
+},
+["Adomic - Turalyon"] = {
+},
+},
 }

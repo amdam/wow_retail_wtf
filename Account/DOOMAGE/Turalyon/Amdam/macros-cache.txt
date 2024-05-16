@@ -31,7 +31,7 @@ END
 VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /stopcasting
-/use [@mouseover, help, nodead][help, nodead][@player] Blessing of Sacrifice
+/use [@mouseover, help, nodead][help, nodead][target=Dethtrap] Blessing of Sacrifice
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"

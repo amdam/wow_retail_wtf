@@ -1,300 +1,311 @@
 
 Rematch5Settings = {
-	["UseMinimapButton"] = false,
-	["ExpandedTargets"] = {
-	},
-	["CustomScale"] = false,
-	["CompactPetList"] = false,
-	["BreedSource"] = false,
-	["LastOpenLayout"] = "3-teams",
-	["CurrentLayout"] = "3-teams",
-	["ColorPetNames"] = true,
-	["ToolbarDismiss"] = false,
-	["DefaultPreferences"] = {
-	},
-	["AutoWinRecord"] = false,
-	["JournalLayout"] = "3-teams",
-	["GroupOrder"] = {
-		"group:favorites", -- [1]
-		"group:none", -- [2]
-	},
-	["HideNonBattlePets"] = false,
-	["DontSortByRelevance"] = false,
-	["ShowSpeciesID"] = false,
-	["UseDefaultJournal"] = false,
-	["AllowHiddenPets"] = false,
-	["PetCardNoMouseoverFlip"] = false,
-	["LevelingQueue"] = {
-	},
-	["PetCardForLinks"] = false,
-	["HideRarityBorders"] = false,
-	["CompactQueueList"] = false,
-	["KeepNotesOnScreen"] = false,
-	["QueueAutoLearn"] = false,
-	["PanelTabAnchor"] = "BOTTOMRIGHT",
-	["PetCardAlwaysShowHPXPText"] = false,
-	["CollapseOnEsc"] = false,
-	["ConvertedTeams"] = {
-	},
-	["ReverseToolbar"] = false,
-	["ShowAbilityNumbers"] = false,
-	["HideMenuHelp"] = false,
-	["HideTruncatedTooltips"] = false,
-	["QueueActiveSort"] = false,
-	["MaximizedLayout"] = "3-teams",
-	["PetMarkerNames"] = {
-	},
-	["ResetExceptSearch"] = false,
-	["PetCardCompactCollected"] = false,
-	["FavoriteFilters"] = {
-	},
-	["StickyNewPets"] = false,
-	["ShowAbilityID"] = false,
-	["HidePetToast"] = true,
-	["ShowLoadedTeamPreferences"] = false,
-	["WasShownOnLogout"] = false,
-	["PetCardShowExpansionStat"] = false,
-	["BackupCount"] = 0,
-	["HideToolbarTooltips"] = false,
-	["DisplayUniqueTotal"] = false,
-	["BreedFormat"] = 1,
-	["TooltipBehavior"] = "Normal",
-	["HideOptionTooltips"] = false,
-	["MousewheelSpeed"] = "Normal",
-	["InteractOnTarget"] = 0,
-	["HideNotesButtonInBattle"] = false,
-	["InteractOnMouseover"] = 0,
-	["Filters"] = {
-		["Other"] = {
-		},
-		["Stats"] = {
-		},
-		["Strong"] = {
-		},
-		["Marker"] = {
-		},
-		["Sources"] = {
-		},
-		["Sort"] = {
-		},
-		["Level"] = {
-		},
-		["Tough"] = {
-		},
-		["Types"] = {
-		},
-		["Expansion"] = {
-		},
-		["Rarity"] = {
-		},
-		["RawSearchText"] = "e",
-		["Similar"] = {
-		},
-		["Search"] = {
-		},
-		["Breed"] = {
-		},
-		["Script"] = {
-		},
-		["Collected"] = {
-		},
-		["Favorite"] = {
-		},
-		["Moveset"] = {
-		},
-	},
-	["ShowNewGroupTab"] = true,
-	["LastOpenJournal"] = true,
-	["QueueSortOrder"] = 1,
-	["ResetFilters"] = false,
-	["PetCardFlipKey"] = "Alt",
-	["MinimapButtonPosition"] = -162,
-	["RandomPetRules"] = 2,
-	["PetCardAlwaysShowHPBar"] = false,
-	["QueueRandomWhenEmpty"] = false,
-	["ScriptFilters"] = {
-		{
-			"Unnamed Pets", -- [1]
-			"-- Collected pets that still have their original name.\n\nreturn owned and not customName", -- [2]
-		}, -- [1]
-		{
-			"Partially Leveled", -- [1]
-			"-- Pets that have earned some xp in battle.\n\nreturn xp and xp>0", -- [2]
-		}, -- [2]
-		{
-			"Unique Abilities", -- [1]
-			"-- Pets with abilities not shared by other pets.\n\nif not count then\n  -- create count of each ability per species\n  count = {}\n  for speciesID in AllSpeciesIDs() do\n    for abilityID in AllAbilities(speciesID) do\n      if not count[abilityID] then\n        count[abilityID] = 0\n      end\n      count[abilityID] = count[abilityID] + 1\n    end\n  end\nend\n\nfor _,abilityID in ipairs(abilityList) do\n  if count[abilityID]==1 then\n    return true\n  end\nend", -- [2]
-		}, -- [3]
-		{
-			"Pets Without Rares", -- [1]
-			"-- Collected battle pets that have no rare version.\n\nif not rares then\n  rares = {}\n  for petID in AllPetIDs() do\n    if select(5,C_PetJournal.GetPetStats(petID))==4 then\n      rares[C_PetJournal.GetPetInfoByPetID(petID)]=true\n    end\n  end\nend\n\nif canBattle and owned and not rares[speciesID] then\n  return true\nend", -- [2]
-		}, -- [4]
-		{
-			"Hybrid Counters", -- [1]
-			"-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n", -- [2]
-		}, -- [5]
-	},
-	["SpecialSlots"] = {
-	},
-	["CardBehavior"] = "Normal",
-	["BoringLoreFont"] = false,
-	["CompactTargetList"] = false,
-	["ExpandedGroups"] = {
-	},
-	["LockPosition"] = false,
-	["NotesFont"] = "GameFontHighlight",
-	["CombineGroupKey"] = "None",
-	["InteractOnSoftInteract"] = 0,
-	["AlwaysUsePetSatchel"] = false,
-	["TypeBarTab"] = 1,
-	["AlwaysTeamTabs"] = false,
-	["HideTooltips"] = false,
-	["ShowNewGroupTabFix"] = true,
-	["NeverTeamTabs"] = false,
-	["SortByNickname"] = false,
-	["SafariHatShine"] = false,
-	["PetCardCanPin"] = false,
-	["CompactTeamList"] = false,
-	["ResetSortWithFilters"] = false,
-	["HideLevelBubbles"] = false,
-	["LockWindow"] = false,
-	["LockNotesPosition"] = false,
-	["PetMarkers"] = {
-	},
-	["AbilityBackground"] = "Icon",
-	["Anchor"] = "BOTTOMRIGHT",
-	["NoBackupReminder"] = false,
-	["ExpandedOptionsHeaders"] = {
-	},
-	["UseTypeBar"] = false,
-	["PetCardBackground"] = "Expansion",
-	["PetNotes"] = {
-	},
+["UseMinimapButton"] = false,
+["ExpandedTargets"] = {
+},
+["CustomScale"] = false,
+["CompactPetList"] = false,
+["BreedSource"] = false,
+["LastOpenLayout"] = "3-teams",
+["CurrentLayout"] = "3-teams",
+["ColorPetNames"] = true,
+["ToolbarDismiss"] = false,
+["DefaultPreferences"] = {
+},
+["AutoWinRecord"] = false,
+["JournalLayout"] = "3-teams",
+["GroupOrder"] = {
+"group:favorites",
+"group:none",
+},
+["HideNonBattlePets"] = false,
+["DontSortByRelevance"] = false,
+["ShowSpeciesID"] = false,
+["DontConfirmCaging"] = false,
+["UseDefaultJournal"] = false,
+["AllowHiddenPets"] = false,
+["ShowAfterBattle"] = false,
+["PetCardNoMouseoverFlip"] = false,
+["LevelingQueue"] = {
+},
+["PetCardForLinks"] = false,
+["HideRarityBorders"] = false,
+["PetNotes"] = {
+},
+["LoadHealthiest"] = false,
+["PetCardBackground"] = "Expansion",
+["UseTypeBar"] = false,
+["CompactQueueList"] = false,
+["ExpandedOptionsHeaders"] = {
+},
+["KeepNotesOnScreen"] = false,
+["QueueAutoLearn"] = false,
+["PanelTabAnchor"] = "BOTTOMRIGHT",
+["HidePreferenceBadges"] = false,
+["PetCardAlwaysShowHPXPText"] = false,
+["CollapseOnEsc"] = false,
+["Anchor"] = "BOTTOMRIGHT",
+["AbilityBackground"] = "Icon",
+["PetMarkerNames"] = {
+},
+["ResetExceptSearch"] = false,
+["LockWindow"] = false,
+["KeepCompanion"] = false,
+["QueueActiveSort"] = false,
+["MaximizedLayout"] = "3-teams",
+["HideLevelBubbles"] = false,
+["CompactTeamList"] = false,
+["ResetSortWithFilters"] = false,
+["PetCardShowExpansionStat"] = false,
+["InteractOnTarget"] = 0,
+["NeverTeamTabs"] = false,
+["HidePetToast"] = true,
+["SafariHatShine"] = false,
+["TooltipBehavior"] = "Normal",
+["AlwaysTeamTabs"] = false,
+["BackupCount"] = 0,
+["HideToolbarTooltips"] = false,
+["DisplayUniqueTotal"] = false,
+["BreedFormat"] = 1,
+["PetCardCanPin"] = false,
+["HideOptionTooltips"] = false,
+["MousewheelSpeed"] = "Normal",
+["TypeBarTab"] = 1,
+["HideTeamBadges"] = false,
+["InteractOnMouseover"] = 0,
+["AlwaysUsePetSatchel"] = false,
+["InteractOnSoftInteract"] = 0,
+["LastOpenJournal"] = true,
+["HideNotesButtonInBattle"] = false,
+["NotesFont"] = "GameFontHighlight",
+["PetCardFlipKey"] = "Alt",
+["MinimapButtonPosition"] = -162,
+["RandomPetRules"] = 2,
+["PetCardAlwaysShowHPBar"] = false,
+["SpecialSlots"] = {
+},
+["ShowNewGroupTab"] = true,
+["QueueSortOrder"] = 1,
+["CardBehavior"] = "Normal",
+["QueueRandomWhenEmpty"] = false,
+["LockPosition"] = false,
+["ScriptFilters"] = {
+{
+"Unnamed Pets",
+"-- Collected pets that still have their original name.\n\nreturn owned and not customName",
+},
+{
+"Partially Leveled",
+"-- Pets that have earned some xp in battle.\n\nreturn xp and xp>0",
+},
+{
+"Unique Abilities",
+"-- Pets with abilities not shared by other pets.\n\nif not count then\n  -- create count of each ability per species\n  count = {}\n  for speciesID in AllSpeciesIDs() do\n    for abilityID in AllAbilities(speciesID) do\n      if not count[abilityID] then\n        count[abilityID] = 0\n      end\n      count[abilityID] = count[abilityID] + 1\n    end\n  end\nend\n\nfor _,abilityID in ipairs(abilityList) do\n  if count[abilityID]==1 then\n    return true\n  end\nend",
+},
+{
+"Pets Without Rares",
+"-- Collected battle pets that have no rare version.\n\nif not rares then\n  rares = {}\n  for petID in AllPetIDs() do\n    if select(5,C_PetJournal.GetPetStats(petID))==4 then\n      rares[C_PetJournal.GetPetInfoByPetID(petID)]=true\n    end\n  end\nend\n\nif canBattle and owned and not rares[speciesID] then\n  return true\nend",
+},
+{
+"Hybrid Counters",
+"-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
+},
+},
+["BoringLoreFont"] = false,
+["HideLevelingBadges"] = false,
+["CombineGroupKey"] = "None",
+["ExpandedGroups"] = {
+},
+["CompactTargetList"] = false,
+["HideMarkerBadges"] = false,
+["ResetFilters"] = false,
+["HideTooltips"] = false,
+["ShowNewGroupTabFix"] = true,
+["Filters"] = {
+["Other"] = {
+},
+["Stats"] = {
+},
+["Strong"] = {
+},
+["Marker"] = {
+},
+["Sources"] = {
+},
+["Sort"] = {
+},
+["Level"] = {
+},
+["Tough"] = {
+},
+["Types"] = {
+},
+["Expansion"] = {
+},
+["Rarity"] = {
+},
+["RawSearchText"] = "\"Aura\"",
+["Similar"] = {
+},
+["Search"] = {
+["Pattern"] = "^[aA][uU][rR][aA]$",
+["Length"] = 6,
+},
+["Breed"] = {
+},
+["Script"] = {
+},
+["Collected"] = {
+},
+["Favorite"] = {
+},
+["Moveset"] = {
+},
+},
+["SortByNickname"] = false,
+["ShowAbilityID"] = false,
+["ShowLoadedTeamPreferences"] = false,
+["WasShownOnLogout"] = false,
+["StickyNewPets"] = false,
+["FavoriteFilters"] = {
+},
+["PetCardCompactCollected"] = false,
+["LockNotesPosition"] = false,
+["PetMarkers"] = {
+},
+["HideTruncatedTooltips"] = false,
+["HideMenuHelp"] = false,
+["NoBackupReminder"] = false,
+["HideNotesBadges"] = false,
+["ShowAbilityNumbers"] = false,
+["ReverseToolbar"] = false,
+["ConvertedTeams"] = {
+},
 }
 Rematch5SavedTeams = {
 }
 Rematch5SavedGroups = {
-	["group:favorites"] = {
-		["showTab"] = true,
-		["sortMode"] = 1,
-		["name"] = "Favorite Teams",
-		["teams"] = {
-		},
-		["meta"] = true,
-		["groupID"] = "group:favorites",
-		["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
-		["isExpanded"] = true,
-	},
-	["group:none"] = {
-		["showTab"] = true,
-		["sortMode"] = 1,
-		["name"] = "Ungrouped Teams",
-		["teams"] = {
-		},
-		["meta"] = true,
-		["groupID"] = "group:none",
-		["icon"] = "Interface\\Icons\\PetJournalPortrait",
-		["isExpanded"] = true,
-	},
+["group:favorites"] = {
+["showTab"] = true,
+["sortMode"] = 1,
+["name"] = "Favorite Teams",
+["isExpanded"] = true,
+["meta"] = true,
+["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
+["groupID"] = "group:favorites",
+["teams"] = {
+},
+},
+["group:none"] = {
+["showTab"] = true,
+["sortMode"] = 1,
+["name"] = "Ungrouped Teams",
+["isExpanded"] = true,
+["meta"] = true,
+["icon"] = "Interface\\Icons\\PetJournalPortrait",
+["groupID"] = "group:none",
+["teams"] = {
+},
+},
 }
 Rematch5SavedTargets = {
 }
 Rematch4Saved = {
 }
 Rematch4Settings = {
-	["NotesFont"] = "GameFontHighlight",
-	["JournalUsed"] = true,
-	["XPos"] = 852.7777099609375,
-	["HidePetToast"] = true,
-	["FavoriteFilters"] = {
-	},
-	["Sort"] = {
-		["Order"] = 1,
-		["FavoritesFirst"] = true,
-	},
-	["AllowHiddenPetsDefaulted"] = true,
-	["BackupCount"] = 0,
-	["TeamGroups"] = {
-		{
-			"General", -- [1]
-			"Interface\\Icons\\PetJournalPortrait", -- [2]
-		}, -- [1]
-	},
-	["QueueSanctuary"] = {
-	},
-	["Filters"] = {
-		["Other"] = {
-		},
-		["Expansion"] = {
-		},
-		["Script"] = {
-		},
-		["Moveset"] = {
-		},
-		["Tough"] = {
-		},
-		["Level"] = {
-		},
-		["Strong"] = {
-		},
-		["Sources"] = {
-		},
-		["Breed"] = {
-		},
-		["Rarity"] = {
-		},
-		["Similar"] = {
-		},
-		["Collected"] = {
-		},
-		["Favorite"] = {
-		},
-		["Types"] = {
-		},
-	},
-	["ExpandedOptHeaders"] = {
-	},
-	["SelectedTab"] = 1,
-	["SpecialSlots"] = {
-	},
-	["LevelingQueue"] = {
-	},
-	["QueueSortOrder"] = 1,
-	["ExpandedTargetHeaders"] = {
-	},
-	["ElvUIToastDefaulted"] = true,
-	["ActivePanel"] = 1,
-	["Sanctuary"] = {
-	},
-	["JournalPanel"] = 1,
-	["CornerPos"] = "BOTTOMLEFT",
-	["PreferredMode"] = 1,
-	["ScriptFilters"] = {
-		{
-			"Unnamed Pets", -- [1]
-			"-- Collected pets that still have their original name.\n\nreturn owned and not customName", -- [2]
-		}, -- [1]
-		{
-			"Partially Leveled", -- [1]
-			"-- Pets that have earned some xp in battle.\n\nreturn xp and xp>0", -- [2]
-		}, -- [2]
-		{
-			"Unique Abilities", -- [1]
-			"-- Pets with abilities not shared by other pets.\n\nif not count then\n  -- create count of each ability per species\n  count = {}\n  for speciesID in AllSpeciesIDs() do\n    for abilityID in AllAbilities(speciesID) do\n      if not count[abilityID] then\n        count[abilityID] = 0\n      end\n      count[abilityID] = count[abilityID] + 1\n    end\n  end\nend\n\nfor _,abilityID in ipairs(abilityList) do\n  if count[abilityID]==1 then\n    return true\n  end\nend", -- [2]
-		}, -- [3]
-		{
-			"Pets Without Rares", -- [1]
-			"-- Collected battle pets that have no rare version.\n\nif not rares then\n  rares = {}\n  for petID in AllPetIDs() do\n    if select(5,C_PetJournal.GetPetStats(petID))==4 then\n      rares[C_PetJournal.GetPetInfoByPetID(petID)]=true\n    end\n  end\nend\n\nif canBattle and owned and not rares[speciesID] then\n  return true\nend", -- [2]
-		}, -- [4]
-		{
-			"Hybrid Counters", -- [1]
-			"-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n", -- [2]
-		}, -- [5]
-	},
-	["YPos"] = 338,
-	["CustomScaleValue"] = 100,
-	["PetNotes"] = {
-	},
+["NotesFont"] = "GameFontHighlight",
+["JournalUsed"] = true,
+["XPos"] = 852.7777099609375,
+["HidePetToast"] = true,
+["FavoriteFilters"] = {
+},
+["Sort"] = {
+["Order"] = 1,
+["FavoritesFirst"] = true,
+},
+["AllowHiddenPetsDefaulted"] = true,
+["BackupCount"] = 0,
+["TeamGroups"] = {
+{
+"General",
+"Interface\\Icons\\PetJournalPortrait",
+},
+},
+["QueueSanctuary"] = {
+},
+["Filters"] = {
+["Other"] = {
+},
+["Expansion"] = {
+},
+["Script"] = {
+},
+["Types"] = {
+},
+["Favorite"] = {
+},
+["Collected"] = {
+},
+["Sources"] = {
+},
+["Similar"] = {
+},
+["Breed"] = {
+},
+["Rarity"] = {
+},
+["Strong"] = {
+},
+["Level"] = {
+},
+["Tough"] = {
+},
+["Moveset"] = {
+},
+},
+["ExpandedOptHeaders"] = {
+},
+["CustomScaleValue"] = 100,
+["SpecialSlots"] = {
+},
+["ScriptFilters"] = {
+{
+"Unnamed Pets",
+"-- Collected pets that still have their original name.\n\nreturn owned and not customName",
+},
+{
+"Partially Leveled",
+"-- Pets that have earned some xp in battle.\n\nreturn xp and xp>0",
+},
+{
+"Unique Abilities",
+"-- Pets with abilities not shared by other pets.\n\nif not count then\n  -- create count of each ability per species\n  count = {}\n  for speciesID in AllSpeciesIDs() do\n    for abilityID in AllAbilities(speciesID) do\n      if not count[abilityID] then\n        count[abilityID] = 0\n      end\n      count[abilityID] = count[abilityID] + 1\n    end\n  end\nend\n\nfor _,abilityID in ipairs(abilityList) do\n  if count[abilityID]==1 then\n    return true\n  end\nend",
+},
+{
+"Pets Without Rares",
+"-- Collected battle pets that have no rare version.\n\nif not rares then\n  rares = {}\n  for petID in AllPetIDs() do\n    if select(5,C_PetJournal.GetPetStats(petID))==4 then\n      rares[C_PetJournal.GetPetInfoByPetID(petID)]=true\n    end\n  end\nend\n\nif canBattle and owned and not rares[speciesID] then\n  return true\nend",
+},
+{
+"Hybrid Counters",
+"-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
+},
+},
+["ElvUIToastDefaulted"] = true,
+["ExpandedTargetHeaders"] = {
+},
+["PreferredMode"] = 1,
+["ActivePanel"] = 1,
+["Sanctuary"] = {
+},
+["JournalPanel"] = 1,
+["CornerPos"] = "BOTTOMLEFT",
+["QueueSortOrder"] = 1,
+["LevelingQueue"] = {
+},
+["YPos"] = 338,
+["SelectedTab"] = 1,
+["PetNotes"] = {
+},
 }
 RematchSaved = nil
 RematchSettings = nil

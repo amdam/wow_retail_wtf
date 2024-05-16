@@ -1,480 +1,480 @@
 
 OneRing_Config = nil
 OPie_SavedData = {
-	["_GameVersion"] = "10.2.5",
-	["CharProfiles"] = {
-	},
-	["_TimeBand"] = 0.8203125,
-	["_OPieVersion"] = "Zeta 4 (4.119)",
-	["ProfileStorage"] = {
-		["default"] = {
-			["Bindings"] = {
-				["ipmentSets1"] = false,
-				["CommonTrades"] = false,
-				["ipmentsets"] = false,
-				["ipmentSets2"] = "NUMPAD5",
-				["OPieTrinkets"] = false,
-				["OPieTracking"] = false,
-				["MageTravel"] = "ALT-P",
-				["WorldMarkers"] = "SHIFT-R",
-				["ipmentSets"] = false,
-				["PaladinAuras"] = "ALT-P",
-			},
-		},
-	},
-	["PersistentStorage"] = {
-		["AutoQuestWhitelist"] = {
-			[35704] = true,
-		},
-		["RingKeeper"] = {
-			["ipmentSets1"] = {
-				{
-					"equipmentset", -- [1]
-					"prot", -- [2]
-					["show"] = "[spec:71/72] hide;",
-					["sliceToken"] = "ABueskpEsp4",
-				}, -- [1]
-				{
-					"equipmentset", -- [1]
-					"prot trash", -- [2]
-					["show"] = "[spec:71/72] hide;",
-					["sliceToken"] = "ABueskpEsph",
-				}, -- [2]
-				{
-					"equipmentset", -- [1]
-					"fury", -- [2]
-					["show"] = "[spec:73/71] hide;",
-					["sliceToken"] = "ABueskpEspg",
-				}, -- [3]
-				{
-					"equipmentset", -- [1]
-					"speed", -- [2]
-					["sliceToken"] = "ABuescdCGT1",
-				}, -- [4]
-				{
-					"equipmentset", -- [1]
-					"fury aoe", -- [2]
-					["show"] = "[spec:73/71] hide;",
-					["sliceToken"] = "ABuesbhwQm1",
-				}, -- [5]
-				{
-					"equipmentset", -- [1]
-					"Fury boss def", -- [2]
-					["show"] = "[spec:73/71] hide;",
-					["sliceToken"] = "ABuesX3U/Ey",
-				}, -- [6]
-				{
-					"equipmentset", -- [1]
-					"arms st", -- [2]
-					["show"] = "[spec:73/72] hide;",
-					["sliceToken"] = "ABuesXRQAc1",
-				}, -- [7]
-				{
-					"equipmentset", -- [1]
-					"arms aoe", -- [2]
-					["show"] = "[spec:73/72] hide;",
-					["sliceToken"] = "ABuesXRQAcr",
-				}, -- [8]
-				["name"] = "Equipment Sets",
-				["save"] = true,
-				["hotkey"] = "NUMPAD5",
-				["limit"] = "Badam-Turalyon",
-			},
-			["CommonTrades"] = {
-				{
-					["sliceToken"] = "OPCCTc",
-					["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
-					["vm"] = 2,
-				}, -- [1]
-				{
-					["id"] = "/cast {{spell:2018/51300}}",
-					["sliceToken"] = "OPCCTb",
-					["vm"] = 2,
-				}, -- [2]
-				{
-					["id"] = "/cast {{spell:2259/51304}}",
-					["sliceToken"] = "OPCCTa",
-					["vm"] = 2,
-				}, -- [3]
-				{
-					["id"] = "/cast {{spell:4036/51306}}",
-					["sliceToken"] = "OPCCTg",
-					["vm"] = 2,
-				}, -- [4]
-				{
-					["sliceToken"] = "OPCCTfj",
-					["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
-					["vm"] = 2,
-				}, -- [5]
-				{
-					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
-					["sliceToken"] = "OPCCTj",
-					["vm"] = 2,
-				}, -- [6]
-				{
-					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
-					["sliceToken"] = "OPCCTi",
-					["vm"] = 2,
-				}, -- [7]
-				{
-					["sliceToken"] = "OPCCTt",
-					["id"] = "/cast {{spell:3908/51309}}",
-				}, -- [8]
-				{
-					["id"] = 194174,
-					["sliceToken"] = "OPCCTsj",
-					["vm"] = 2,
-				}, -- [9]
-				{
-					["id"] = "/cast [in:df,nomod,near:herb-overload][in:df,mod,nonear:herb-overload] {{spell:390392}}; {{spell:193290}}",
-					["sliceToken"] = "OPCCThj",
-					["vm"] = 2,
-				}, -- [10]
-				{
-					["sliceToken"] = "OPCCTr",
-					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
-					["vm"] = 2,
-				}, -- [11]
-				{
-					["id"] = 53428,
-					["sliceToken"] = "OPCCTu",
-				}, -- [12]
-				{
-					["sliceToken"] = "OPCCTe",
-					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
-				}, -- [13]
-				{
-					["id"] = "/cast {{spell:2108/51302}}",
-					["sliceToken"] = "OPCCTl",
-				}, -- [14]
-				{
-					["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
-					["sliceToken"] = "OPCCTm",
-				}, -- [15]
-				{
-					["c"] = "d8d1ad",
-					["sliceToken"] = "ABueaL4inxa",
-					["id"] = 3908,
-					["id2"] = 51309,
-				}, -- [16]
-				{
-					["sliceToken"] = "ABueaL4inxp",
-					["c"] = "b57f49",
-					["id"] = 2108,
-					["id2"] = 51302,
-				}, -- [17]
-				{
-					["sliceToken"] = "ABueaL4inxo",
-					["c"] = "f4aa0f",
-					["id"] = 2018,
-					["id2"] = 51300,
-				}, -- [18]
-				{
-					["sliceToken"] = "ABueaL4inx2",
-					["c"] = "3319e5",
-					["id"] = 25229,
-					["id2"] = 51311,
-				}, -- [19]
-				{
-					["c"] = "f4ef28",
-					["sliceToken"] = "ABueaL4inxi",
-					["id"] = 7411,
-					["id2"] = 51313,
-				}, -- [20]
-				{
-					["sliceToken"] = "ABueaL4inxu",
-					["c"] = "11ba9b",
-					["id"] = 2259,
-					["id2"] = 51304,
-				}, -- [21]
-				{
-					["c"] = "c13f0f",
-					["sliceToken"] = "ABueaL4inxy",
-					["id"] = 2550,
-					["id2"] = 51296,
-				}, -- [22]
-				{
-					["sliceToken"] = "ABueaL4inxt",
-					["c"] = "85de60",
-					["id"] = 45357,
-					["id2"] = 45363,
-				}, -- [23]
-				{
-					["sliceToken"] = "ABueaL4inx1",
-					["c"] = "bf2626",
-					["id"] = 3273,
-					["id2"] = 45542,
-				}, -- [24]
-				{
-					["sliceToken"] = "ABueaL4inxr",
-					["c"] = "e6b725",
-					["id"] = 4036,
-					["id2"] = 51306,
-				}, -- [25]
-				{
-					["sliceToken"] = "ABueaL4inxe",
-					["c"] = "ffac3d",
-					["id"] = 2656,
-				}, -- [26]
-				["save"] = true,
-				["v"] = 1,
-				["vm"] = 127,
-				["name"] = "Trade Skills",
-				["version"] = 4,
-				["hotkey"] = "ALT-T",
-			},
-			["OPieFlagStore"] = {
-				["StoreVersion"] = 3,
-			},
-			["ipmentSets2"] = {
-				{
-					"equipmentset", -- [1]
-					"ww st", -- [2]
-					["show"] = "[spec:268/270] hide;",
-					["sliceToken"] = "ABuesV=A731",
-				}, -- [1]
-				{
-					"equipmentset", -- [1]
-					"ww aoe", -- [2]
-					["show"] = "[spec:268/270] hide;",
-					["sliceToken"] = "ABuesV=A73r",
-				}, -- [2]
-				{
-					"equipmentset", -- [1]
-					"bromaster", -- [2]
-					["show"] = "[spec:269/270] hide;",
-					["sliceToken"] = "ABuesV=A73u",
-				}, -- [3]
-				["name"] = "Equipment Sets",
-				["save"] = true,
-				["hotkey"] = "NUMPAD5",
-				["limit"] = "Furrys-Turalyon",
-			},
-			["PaladinAuras"] = {
-				{
-					"ring", -- [1]
-					"PaladinBlessing", -- [2]
-					["sliceToken"] = "OPCPAb",
-					["onlyNonEmpty"] = true,
-				}, -- [1]
-				{
-					["id"] = 1022,
-					["sliceToken"] = "OPCPAt",
-				}, -- [2]
-				{
-					["id"] = 1044,
-					["sliceToken"] = "OPCPAe",
-				}, -- [3]
-				{
-					["id"] = 25780,
-					["sliceToken"] = "OPCPAf",
-				}, -- [4]
-				["name"] = "Paladin Buffs",
-				["save"] = true,
-				["hotkey"] = "ALT-P",
-				["limit"] = "PALADIN",
-			},
-			["MageTravel"] = {
-				{
-					["sliceToken"] = "OPCMVb",
-					["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
-					["vm"] = 2,
-				}, -- [1]
-				{
-					["sliceToken"] = "OPCMVv",
-					["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
-					["vm"] = 2,
-				}, -- [2]
-				{
-					["sliceToken"] = "OPCMVr",
-					["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
-					["vm"] = 2,
-				}, -- [3]
-				{
-					["sliceToken"] = "OPCMVs",
-					["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
-					["vm"] = 2,
-				}, -- [4]
-				{
-					["sliceToken"] = "OPCMVw",
-					["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
-					["vm"] = 2,
-				}, -- [5]
-				{
-					["sliceToken"] = "OPCMVd",
-					["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
-					["vm"] = 2,
-				}, -- [6]
-				{
-					["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
-					["sliceToken"] = "OPCMVt",
-				}, -- [7]
-				{
-					["id"] = "/cast [mod] {{spell:11418}}; {{spell:3563}}",
-					["sliceToken"] = "OPCMVu",
-					["vm"] = 2,
-				}, -- [8]
-				{
-					["sliceToken"] = "OPCMVi",
-					["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
-					["vm"] = 2,
-				}, -- [9]
-				{
-					["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
-					["sliceToken"] = "OPCMVo",
-				}, -- [10]
-				{
-					"ring", -- [1]
-					"ExtraPortals", -- [2]
-					["sliceToken"] = "OPCMVe",
-					["onlyNonEmpty"] = true,
-				}, -- [11]
-				{
-					["id"] = "/cast [mod] {{spell:32267}}; {{spell:32272}}",
-					["sliceToken"] = "OPCMVl",
-					["vm"] = 2,
-				}, -- [12]
-				{
-					["sliceToken"] = "OPCMVx",
-					["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
-					["vm"] = 2,
-				}, -- [13]
-				{
-					["sliceToken"] = "ABue3Xt7/Yi",
-					["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
-				}, -- [14]
-				{
-					["sliceToken"] = "OPCMV9",
-					["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
-				}, -- [15]
-				{
-					["sliceToken"] = "OPCMV0",
-					["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
-				}, -- [16]
-				{
-					["sliceToken"] = "OPCMV8",
-					["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
-				}, -- [17]
-				["save"] = true,
-				["v"] = 1,
-				["vm"] = 127,
-				["limit"] = "MAGE",
-				["name"] = "Portals and Teleports",
-				["hotkey"] = "ALT-G",
-			},
-			["ipmentSets"] = {
-				{
-					"equipmentset", -- [1]
-					"ret", -- [2]
-					["show"] = "[spec:66/65] hide;",
-					["sliceToken"] = "ABueaXJqq1wn",
-				}, -- [1]
-				{
-					"equipmentset", -- [1]
-					"ret aoe", -- [2]
-					["show"] = "[spec:66/65] hide;",
-					["sliceToken"] = "ABueaXJqq1w6",
-				}, -- [2]
-				{
-					"equipmentset", -- [1]
-					"prot", -- [2]
-					["show"] = "[spec:70/65] hide;",
-					["sliceToken"] = "ABueaXJqq1wb",
-				}, -- [3]
-				{
-					"equipmentset", -- [1]
-					"prot thicc", -- [2]
-					["show"] = "[spec:70/65] hide;",
-					["sliceToken"] = "ABueaXJqq1wc",
-				}, -- [4]
-				{
-					"equipmentset", -- [1]
-					"prot magic", -- [2]
-					["show"] = "[spec:70/65] hide;",
-					["sliceToken"] = "ABueaXJqq1wx",
-				}, -- [5]
-				{
-					"equipmentset", -- [1]
-					"speed", -- [2]
-					["sliceToken"] = "ABues4qgU6e",
-				}, -- [6]
-				{
-					"equipmentset", -- [1]
-					"holy", -- [2]
-					["show"] = "[spec:70/66] hide;",
-					["sliceToken"] = "ABues6epD11",
-				}, -- [7]
-				["name"] = "Equipment Sets",
-				["save"] = true,
-				["hotkey"] = "NUMPAD5",
-				["limit"] = "Amdam-Turalyon",
-			},
-			["ipmentsets"] = {
-				{
-					"equipmentset", -- [1]
-					"frost prydaz mag", -- [2]
-					["show"] = "[spec:63/62] hide;",
-					["sliceToken"] = "ABuea=brPp2",
-				}, -- [1]
-				{
-					"equipmentset", -- [1]
-					"prydaz shard", -- [2]
-					["show"] = "[spec:62/63] hide;",
-					["sliceToken"] = "ABuea=brPpr",
-				}, -- [2]
-				{
-					"equipmentset", -- [1]
-					"frost aoe", -- [2]
-					["show"] = "[spec:62/63] hide;",
-					["sliceToken"] = "ABueaL4inxQ",
-				}, -- [3]
-				{
-					"equipmentset", -- [1]
-					"frost", -- [2]
-					["show"] = "[spec:63/62] hide;",
-					["sliceToken"] = "ABueaL4inxn",
-				}, -- [4]
-				{
-					"equipmentset", -- [1]
-					"fire", -- [2]
-					["show"] = "[spec:62/64] hide;",
-					["sliceToken"] = "ABueaL4inxm",
-				}, -- [5]
-				{
-					"equipmentset", -- [1]
-					"ae fire", -- [2]
-					["show"] = "[spec:62/64] hide;",
-					["sliceToken"] = "ABueaL4inx6",
-				}, -- [6]
-				{
-					"equipmentset", -- [1]
-					"fire trash def", -- [2]
-					["show"] = "[spec:64/62] hide;",
-					["sliceToken"] = "ABuesyJbkEe",
-				}, -- [7]
-				{
-					"equipmentset", -- [1]
-					"fire boss def", -- [2]
-					["show"] = "[spec:64/62] hide;",
-					["sliceToken"] = "ABuesyL1Zle",
-				}, -- [8]
-				{
-					"equipmentset", -- [1]
-					"speed", -- [2]
-					["sliceToken"] = "ABue3hbB7Je",
-				}, -- [9]
-				{
-					"equipmentset", -- [1]
-					"arcane", -- [2]
-					["show"] = "[spec:64/63] hide;",
-					["sliceToken"] = "ABue376TIGe",
-				}, -- [10]
-				["name"] = "Equipment sets",
-				["save"] = true,
-				["hotkey"] = "NUMPAD5",
-				["limit"] = "Adamancy-Turalyon",
-			},
-		},
-	},
-	["_GameLocale"] = "enUS",
+["_GameVersion"] = "10.2.7",
+["CharProfiles"] = {
+},
+["_TimeBand"] = 0.8203125,
+["_OPieVersion"] = "Zeta 5a (4.121)",
+["ProfileStorage"] = {
+["default"] = {
+["Bindings"] = {
+["ipmentSets1"] = false,
+["CommonTrades"] = false,
+["ipmentsets"] = false,
+["ipmentSets2"] = "NUMPAD5",
+["OPieTrinkets"] = false,
+["OPieTracking"] = false,
+["MageTravel"] = "ALT-P",
+["WorldMarkers"] = "SHIFT-R",
+["ipmentSets"] = false,
+["PaladinAuras"] = "ALT-P",
+},
+},
+},
+["PersistentStorage"] = {
+["AutoQuestWhitelist"] = {
+[35704] = true,
+},
+["RingKeeper"] = {
+["ipmentSets1"] = {
+{
+"equipmentset",
+"prot",
+["show"] = "[spec:71/72] hide;",
+["sliceToken"] = "ABueskpEsp4",
+},
+{
+"equipmentset",
+"prot trash",
+["show"] = "[spec:71/72] hide;",
+["sliceToken"] = "ABueskpEsph",
+},
+{
+"equipmentset",
+"fury",
+["show"] = "[spec:73/71] hide;",
+["sliceToken"] = "ABueskpEspg",
+},
+{
+"equipmentset",
+"speed",
+["sliceToken"] = "ABuescdCGT1",
+},
+{
+"equipmentset",
+"fury aoe",
+["show"] = "[spec:73/71] hide;",
+["sliceToken"] = "ABuesbhwQm1",
+},
+{
+"equipmentset",
+"Fury boss def",
+["show"] = "[spec:73/71] hide;",
+["sliceToken"] = "ABuesX3U/Ey",
+},
+{
+"equipmentset",
+"arms st",
+["show"] = "[spec:73/72] hide;",
+["sliceToken"] = "ABuesXRQAc1",
+},
+{
+"equipmentset",
+"arms aoe",
+["show"] = "[spec:73/72] hide;",
+["sliceToken"] = "ABuesXRQAcr",
+},
+["limit"] = "Badam-Turalyon",
+["save"] = true,
+["hotkey"] = "NUMPAD5",
+["name"] = "Equipment Sets",
+},
+["CommonTrades"] = {
+{
+["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+["sliceToken"] = "OPCCTc",
+["vm"] = 2,
+},
+{
+["id"] = "/cast {{spell:2018/51300}}",
+["sliceToken"] = "OPCCTb",
+["vm"] = 2,
+},
+{
+["id"] = "/cast {{spell:2259/51304}}",
+["sliceToken"] = "OPCCTa",
+["vm"] = 2,
+},
+{
+["id"] = "/cast {{spell:4036/51306}}",
+["sliceToken"] = "OPCCTg",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
+["sliceToken"] = "OPCCTj",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
+["sliceToken"] = "OPCCTi",
+["vm"] = 2,
+},
+{
+["id"] = "/cast {{spell:3908/51309}}",
+["sliceToken"] = "OPCCTt",
+},
+{
+["id"] = 194174,
+["sliceToken"] = "OPCCTsj",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [in:df,nomod,near:herb-overload][in:df,mod,nonear:herb-overload] {{spell:390392}}; {{spell:193290}}",
+["sliceToken"] = "OPCCThj",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+["sliceToken"] = "OPCCTr",
+["vm"] = 2,
+},
+{
+["id"] = 53428,
+["sliceToken"] = "OPCCTu",
+},
+{
+["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+["sliceToken"] = "OPCCTe",
+},
+{
+["id"] = "/cast {{spell:2108/51302}}",
+["sliceToken"] = "OPCCTl",
+},
+{
+["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
+["sliceToken"] = "OPCCTm",
+},
+{
+["sliceToken"] = "ABueaL4inxa",
+["c"] = "d8d1ad",
+["id"] = 3908,
+["id2"] = 51309,
+},
+{
+["sliceToken"] = "ABueaL4inxp",
+["c"] = "b57f49",
+["id"] = 2108,
+["id2"] = 51302,
+},
+{
+["sliceToken"] = "ABueaL4inxo",
+["c"] = "f4aa0f",
+["id"] = 2018,
+["id2"] = 51300,
+},
+{
+["sliceToken"] = "ABueaL4inx2",
+["c"] = "3319e5",
+["id"] = 25229,
+["id2"] = 51311,
+},
+{
+["sliceToken"] = "ABueaL4inxi",
+["c"] = "f4ef28",
+["id"] = 7411,
+["id2"] = 51313,
+},
+{
+["sliceToken"] = "ABueaL4inxu",
+["c"] = "11ba9b",
+["id"] = 2259,
+["id2"] = 51304,
+},
+{
+["sliceToken"] = "ABueaL4inxy",
+["c"] = "c13f0f",
+["id"] = 2550,
+["id2"] = 51296,
+},
+{
+["sliceToken"] = "ABueaL4inxt",
+["c"] = "85de60",
+["id"] = 45357,
+["id2"] = 45363,
+},
+{
+["sliceToken"] = "ABueaL4inx1",
+["c"] = "bf2626",
+["id"] = 3273,
+["id2"] = 45542,
+},
+{
+["sliceToken"] = "ABueaL4inxr",
+["c"] = "e6b725",
+["id"] = 4036,
+["id2"] = 51306,
+},
+{
+["sliceToken"] = "ABueaL4inxe",
+["c"] = "ffac3d",
+["id"] = 2656,
+},
+["save"] = true,
+["v"] = 1,
+["vm"] = 127,
+["name"] = "Trade Skills",
+["version"] = 4,
+["hotkey"] = "ALT-T",
+},
+["OPieFlagStore"] = {
+["StoreVersion"] = 3,
+},
+["ipmentSets2"] = {
+{
+"equipmentset",
+"ww st",
+["show"] = "[spec:268/270] hide;",
+["sliceToken"] = "ABuesV=A731",
+},
+{
+"equipmentset",
+"ww aoe",
+["show"] = "[spec:268/270] hide;",
+["sliceToken"] = "ABuesV=A73r",
+},
+{
+"equipmentset",
+"bromaster",
+["show"] = "[spec:269/270] hide;",
+["sliceToken"] = "ABuesV=A73u",
+},
+["name"] = "Equipment Sets",
+["save"] = true,
+["hotkey"] = "NUMPAD5",
+["limit"] = "Furrys-Turalyon",
+},
+["PaladinAuras"] = {
+{
+"ring",
+"PaladinBlessing",
+["sliceToken"] = "OPCPAb",
+["onlyNonEmpty"] = true,
+},
+{
+["id"] = 1022,
+["sliceToken"] = "OPCPAt",
+},
+{
+["id"] = 1044,
+["sliceToken"] = "OPCPAe",
+},
+{
+["id"] = 25780,
+["sliceToken"] = "OPCPAf",
+},
+["name"] = "Paladin Buffs",
+["save"] = true,
+["hotkey"] = "ALT-P",
+["limit"] = "PALADIN",
+},
+["MageTravel"] = {
+{
+["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
+["sliceToken"] = "OPCMVb",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
+["sliceToken"] = "OPCMVv",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
+["sliceToken"] = "OPCMVr",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
+["sliceToken"] = "OPCMVs",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
+["sliceToken"] = "OPCMVw",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
+["sliceToken"] = "OPCMVd",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
+["sliceToken"] = "OPCMVt",
+},
+{
+["id"] = "/cast [mod] {{spell:11418}}; {{spell:3563}}",
+["sliceToken"] = "OPCMVu",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
+["sliceToken"] = "OPCMVi",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
+["sliceToken"] = "OPCMVo",
+},
+{
+"ring",
+"ExtraPortals",
+["sliceToken"] = "OPCMVe",
+["onlyNonEmpty"] = true,
+},
+{
+["id"] = "/cast [mod] {{spell:32267}}; {{spell:32272}}",
+["sliceToken"] = "OPCMVl",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
+["sliceToken"] = "OPCMVx",
+["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
+["sliceToken"] = "ABue3Xt7/Yi",
+},
+{
+["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
+["sliceToken"] = "OPCMV9",
+},
+{
+["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
+["sliceToken"] = "OPCMV0",
+},
+{
+["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
+["sliceToken"] = "OPCMV8",
+},
+["name"] = "Portals and Teleports",
+["limit"] = "MAGE",
+["vm"] = 127,
+["save"] = true,
+["hotkey"] = "ALT-G",
+["v"] = 1,
+},
+["ipmentSets"] = {
+{
+"equipmentset",
+"ret",
+["show"] = "[spec:66/65] hide;",
+["sliceToken"] = "ABueaXJqq1wn",
+},
+{
+"equipmentset",
+"ret aoe",
+["show"] = "[spec:66/65] hide;",
+["sliceToken"] = "ABueaXJqq1w6",
+},
+{
+"equipmentset",
+"prot",
+["show"] = "[spec:70/65] hide;",
+["sliceToken"] = "ABueaXJqq1wb",
+},
+{
+"equipmentset",
+"prot thicc",
+["show"] = "[spec:70/65] hide;",
+["sliceToken"] = "ABueaXJqq1wc",
+},
+{
+"equipmentset",
+"prot magic",
+["show"] = "[spec:70/65] hide;",
+["sliceToken"] = "ABueaXJqq1wx",
+},
+{
+"equipmentset",
+"speed",
+["sliceToken"] = "ABues4qgU6e",
+},
+{
+"equipmentset",
+"holy",
+["show"] = "[spec:70/66] hide;",
+["sliceToken"] = "ABues6epD11",
+},
+["name"] = "Equipment Sets",
+["save"] = true,
+["hotkey"] = "NUMPAD5",
+["limit"] = "Amdam-Turalyon",
+},
+["ipmentsets"] = {
+{
+"equipmentset",
+"frost prydaz mag",
+["show"] = "[spec:63/62] hide;",
+["sliceToken"] = "ABuea=brPp2",
+},
+{
+"equipmentset",
+"prydaz shard",
+["show"] = "[spec:62/63] hide;",
+["sliceToken"] = "ABuea=brPpr",
+},
+{
+"equipmentset",
+"frost aoe",
+["show"] = "[spec:62/63] hide;",
+["sliceToken"] = "ABueaL4inxQ",
+},
+{
+"equipmentset",
+"frost",
+["show"] = "[spec:63/62] hide;",
+["sliceToken"] = "ABueaL4inxn",
+},
+{
+"equipmentset",
+"fire",
+["show"] = "[spec:62/64] hide;",
+["sliceToken"] = "ABueaL4inxm",
+},
+{
+"equipmentset",
+"ae fire",
+["show"] = "[spec:62/64] hide;",
+["sliceToken"] = "ABueaL4inx6",
+},
+{
+"equipmentset",
+"fire trash def",
+["show"] = "[spec:64/62] hide;",
+["sliceToken"] = "ABuesyJbkEe",
+},
+{
+"equipmentset",
+"fire boss def",
+["show"] = "[spec:64/62] hide;",
+["sliceToken"] = "ABuesyL1Zle",
+},
+{
+"equipmentset",
+"speed",
+["sliceToken"] = "ABue3hbB7Je",
+},
+{
+"equipmentset",
+"arcane",
+["show"] = "[spec:64/63] hide;",
+["sliceToken"] = "ABue376TIGe",
+},
+["name"] = "Equipment sets",
+["save"] = true,
+["hotkey"] = "NUMPAD5",
+["limit"] = "Adamancy-Turalyon",
+},
+},
+},
+["_GameLocale"] = "enUS",
 }

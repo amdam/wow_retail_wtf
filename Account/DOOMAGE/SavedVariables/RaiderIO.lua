@@ -1,33 +1,33 @@
 
 RaiderIO_Config = {
-	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
-	["enableUnitTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["disableScoreColors"] = false,
-	["showDropDownCopyURL"] = true,
-	["showSimpleScoreColors"] = false,
-	["profilePoint"] = {
-		["y"] = 0,
-		["x"] = -16,
-		["point"] = "TOPLEFT",
-	},
-	["enableLFGTooltips"] = true,
-	["showMainsScore"] = true,
-	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
-	["enableLFGDropdown"] = true,
-	["enableGuildTooltips"] = true,
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["enableKeystoneTooltips"] = true,
+["alwaysExtendTooltip"] = false,
+["enableUnitTooltips"] = true,
+["enableFriendsTooltips"] = true,
+["disableScoreColors"] = false,
+["showDropDownCopyURL"] = true,
+["enableWhoTooltips"] = true,
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["enableLFGTooltips"] = true,
+["showMainsScore"] = true,
+["enableWhoMessages"] = true,
+["showSimpleScoreColors"] = false,
+["enableLFGDropdown"] = true,
+["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Adamancy-turalyon"
+RaiderIO_LastCharacter = "us-Adaam-turalyon"
 RaiderIO_MissingCharacters = {
-	["us-Msmanalow-bloodhoof"] = true,
-	["us-Desty-duskwood"] = true,
-	["us-Duckburg-turalyon"] = true,
-	["us-Indoril-turalyon"] = true,
-	["us-Lapse-turalyon"] = true,
-	["us-Valla-turalyon"] = true,
-	["us-Mad-turalyon"] = true,
+["us-Adaam-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

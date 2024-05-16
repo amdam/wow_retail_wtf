@@ -86,3 +86,4 @@ BigWigs_DragonIsles: enabled
 BigWigs_Aberrus: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
+BigWigs_VaultOfTheIncarnates: enabled

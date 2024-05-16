@@ -153,3 +153,4 @@ LittleWigs_Cataclysm: enabled
 BigWigs_Aberrus: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
+BigWigs_VaultOfTheIncarnates: enabled

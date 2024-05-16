@@ -1,0 +1,10 @@
+VER 3 0100000000000003 " " "134400"
+#showtooltip 
+/use [@mouseover, help, nodead][help, nodead][@player] Levitate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [mod:alt] Shadow Word: Pain; [spec:3] Vampiric Touch; Shadow Word: Pain;
+/script UIErrorsFrame:Clear()
+END

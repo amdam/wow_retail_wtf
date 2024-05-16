@@ -18,7 +18,7 @@ VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 /cast [spec:3] Icy Veins; [spec:1] Arcane Surge; [spec:2] Combustion;
 /cast Berserking
 /use 13
-/use Soul Igniter
+/use Dreambinder, Loom of the Great Cycle
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
