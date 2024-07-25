@@ -3,10 +3,10 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 ElvUI_BenikUI: enabled
-AngryKeystones: enabled
-ArkInventory: enabled
+AngryKeystones: disabled
+ArkInventory: disabled
 OPie_Classic: disabled
 TomCats: disabled
 HHTD: disabled
@@ -18,7 +18,7 @@ Details: enabled
 MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 ElvUI_VisualAuraTimers: disabled
 ElvUI_ExtraActionBars: disabled
 ElvUI_CastBarOverlay: disabled
@@ -97,3 +97,11 @@ BigWigs_Aberrus: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
 BigWigs_VaultOfTheIncarnates: enabled
+LittleWigs_MistsOfPandaria: enabled
+BigWigs_MistsOfPandaria: enabled
+Hekili: enabled
+ElvUI: enabled
+AdvancedInterfaceOptions: disabled
+HandyNotes: enabled
+TomTom: enabled
+VenturePlan: disabled

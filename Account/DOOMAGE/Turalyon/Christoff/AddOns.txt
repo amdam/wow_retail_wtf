@@ -3,7 +3,7 @@ OmniCC: enabled
 MikScrollingBattleText: enabled
 OPie: enabled
 ShadowedUnitFrames: disabled
-ArkInventory: enabled
+ArkInventory: disabled
 Quartz: disabled
 ShadowedUF_Options: enabled
 ElvUI: enabled
@@ -14,9 +14,9 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 ElvUI_BenikUI: enabled
-AngryKeystones: enabled
+AngryKeystones: disabled
 OPie_Classic: disabled
 WeakAurasCompanion: enabled
 TomCats: disabled
@@ -35,7 +35,7 @@ Details: enabled
 MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 ElvUI_DTBars2: disabled
 RaiderIO_DB_TW_H_R: disabled
 RaiderIO_DB_TW_H: disabled
@@ -96,3 +96,10 @@ BigWigs_Aberrus: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
 BigWigs_VaultOfTheIncarnates: enabled
+LittleWigs_MistsOfPandaria: enabled
+BigWigs_MistsOfPandaria: enabled
+Hekili: enabled
+AdvancedInterfaceOptions: disabled
+HandyNotes: enabled
+TomTom: enabled
+VenturePlan: disabled

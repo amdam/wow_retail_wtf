@@ -1,0 +1,15 @@
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/use [@cursor] Angelic Feather;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Levitate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Pain Suppression;
+/script UIErrorsFrame:Clear()
+END

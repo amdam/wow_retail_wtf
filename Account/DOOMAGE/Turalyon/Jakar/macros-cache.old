@@ -1,0 +1,10 @@
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/cast [mod:alt] Chain Lightning; Lightning Bolt;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Healing Surge;
+/script UIErrorsFrame:Clear()
+END

@@ -1,0 +1,46 @@
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Regrowth;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cast [mod:alt] Starfire; Wrath;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/cast [mod:alt] Sunfire; Moonfire;
+/script UIErrorsFrame:Clear() 
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [@mouseover] Rebirth;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/cast [mod:alt] Starfall; Starsurge;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [mod:alt] Soothe; Ironfur;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [mod:alt] Swipe; Thrash;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cast [mod:alt] Incapacitating Roar; Mangle;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "134400"
+#showtooltip
+/cast [mod:alt] Raze; Maul;
+/script UIErrorsFrame:Clear()
+END

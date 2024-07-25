@@ -86,7 +86,7 @@ Auc-Filter-Basic: enabled
 Auc-Advanced: disabled
 StaggerMeter: disabled
 RoguePowerBars: disabled
-ArkInventory: enabled
+ArkInventory: disabled
 AffDots: disabled
 affdots-mage: disabled
 TidyPlates_ThreatPlates: enabled
@@ -140,9 +140,9 @@ TipTac: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 ElvUI_BenikUI: enabled
-AngryKeystones: enabled
+AngryKeystones: disabled
 ElvUI_EverySecondCounts: disabled
 OPie_Classic: disabled
 WeakAurasCompanion: enabled
@@ -165,7 +165,7 @@ RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_A_R: disabled
-AdvancedInterfaceOptions: enabled
+AdvancedInterfaceOptions: disabled
 HealBot_Data: disabled
 HealBot_en: disabled
 MythicDungeonTools: enabled
@@ -173,7 +173,7 @@ Skada: disabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
 TipTacOptions: disabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 ElvUI_QuestXP: disabled
 Kui_Media: enabled
 Kui_Nameplates: enabled
@@ -223,3 +223,6 @@ LittleWigs_BattleForAzeroth: enabled
 LittleWigs_Cataclysm: enabled
 BigWigs_Aberrus: enabled
 LittleWigs_WrathOfTheLichKing: enabled
+BigWigs_MistsOfPandaria: enabled
+Hekili: enabled
+HandyNotes: enabled

@@ -1,5 +1,5 @@
 RoguePowerBars: disabled
-ArkInventory: enabled
+ArkInventory: disabled
 AffDots: disabled
 affdots-mage: enabled
 oqueue: disabled
@@ -31,7 +31,7 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 ElvUI_BenikUI: enabled
 ElvUI_EverySecondCounts: disabled
 RaiderIO_DB_TW_H_R: disabled
@@ -40,7 +40,7 @@ RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_A_R: disabled
-AngryKeystones: enabled
+AngryKeystones: disabled
 WeakAurasCompanion: enabled
 OPie_Classic: disabled
 ElvUI_VisualAuraTimers: disabled
@@ -62,11 +62,11 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A: disabled
 RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_EU_A: disabled
-AdvancedInterfaceOptions: enabled
+AdvancedInterfaceOptions: disabled
 HealBot_Data: disabled
 HealBot_en: disabled
 Omen: disabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 Skada: disabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
@@ -139,7 +139,7 @@ TomCats-Bundled-Mechagon: disabled
 TomCats-Bundled-Nazjatar: disabled
 TomCats-Bundled-Nzoth: disabled
 TomTom: enabled
-VenturePlan: enabled
+VenturePlan: disabled
 WeakAuras: enabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
@@ -202,3 +202,6 @@ BigWigs_Aberrus: enabled
 RematchElvUISkin: disabled
 BigWigs_Amirdrassil: enabled
 LittleWigs_WrathOfTheLichKing: enabled
+LittleWigs_MistsOfPandaria: enabled
+BigWigs_MistsOfPandaria: enabled
+Hekili: enabled

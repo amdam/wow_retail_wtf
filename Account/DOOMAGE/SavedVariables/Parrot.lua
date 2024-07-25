@@ -34,14 +34,17 @@ ParrotDB = {
 ["Skill deflects"] = {
 ["disabled"] = false,
 },
+["Heals over time"] = {
+["tag"] = "+[Amount] ([Name])",
+},
+["Pet skill absorbs"] = {
+["disabled"] = true,
+},
 ["Pet melee absorbs"] = {
 ["disabled"] = true,
 },
 ["Pet skill deflects"] = {
 ["disabled"] = true,
-},
-["Heals over time"] = {
-["tag"] = "+[Amount] ([Name])",
 },
 ["Pet melee misses"] = {
 ["disabled"] = true,
@@ -49,13 +52,16 @@ ParrotDB = {
 ["Pet skill dodges"] = {
 ["disabled"] = true,
 },
+["Melee parries"] = {
+["disabled"] = false,
+},
 ["Self heals"] = {
 ["tag"] = "+[Amount]",
 },
 ["Pet melee resists"] = {
 ["disabled"] = true,
 },
-["Melee parries"] = {
+["Melee resists"] = {
 ["disabled"] = false,
 },
 ["Pet skill reflects"] = {
@@ -64,32 +70,33 @@ ParrotDB = {
 ["Melee misses"] = {
 ["disabled"] = false,
 },
-["Melee resists"] = {
+["Reactive skills"] = {
+["tag"] = "[Amount]",
+},
+["Pet melee deflects"] = {
+["disabled"] = true,
+},
+["Melee absorbs"] = {
+["disabled"] = false,
+},
+["Skill blocks"] = {
 ["disabled"] = false,
 },
 ["Skill resists"] = {
 ["disabled"] = false,
 },
-["Melee absorbs"] = {
-["disabled"] = false,
-},
-["Pet skill resists"] = {
-["disabled"] = true,
-},
-["Reactive skills"] = {
-["tag"] = "[Amount]",
-},
 ["Melee immunes"] = {
 ["disabled"] = false,
 },
-["Pet melee deflects"] = {
-["disabled"] = true,
+["Pet melee damage"] = {
+["disabled"] = false,
 },
 ["Pet skill immunes"] = {
 ["disabled"] = true,
 },
-["Skill blocks"] = {
+["Pet skill DoTs"] = {
 ["disabled"] = false,
+["tag"] = "Pet [Amount]",
 },
 ["Skill dodges"] = {
 ["disabled"] = false,
@@ -97,8 +104,8 @@ ParrotDB = {
 ["Pet melee blocks"] = {
 ["disabled"] = true,
 },
-["Pet melee damage"] = {
-["disabled"] = false,
+["Pet heals over time"] = {
+["disabled"] = true,
 },
 ["Melee deflects"] = {
 ["disabled"] = false,
@@ -112,9 +119,8 @@ ParrotDB = {
 ["Spell steal"] = {
 ["disabled"] = true,
 },
-["Pet skill DoTs"] = {
-["disabled"] = false,
-["tag"] = "Pet [Amount]",
+["Dispel"] = {
+["disabled"] = true,
 },
 ["Pet skill blocks"] = {
 ["disabled"] = true,
@@ -122,17 +128,14 @@ ParrotDB = {
 ["Pet melee reflects"] = {
 ["disabled"] = true,
 },
-["Dispel fail"] = {
-["disabled"] = true,
+["Skill reflects"] = {
+["disabled"] = false,
 },
 ["Pet skill misses"] = {
 ["disabled"] = true,
 },
 ["Skill evades"] = {
 ["disabled"] = false,
-},
-["Pet skill absorbs"] = {
-["disabled"] = true,
 },
 ["Pet melee immunes"] = {
 ["disabled"] = true,
@@ -146,8 +149,8 @@ ParrotDB = {
 ["Spell interrupts"] = {
 ["disabled"] = true,
 },
-["Skill DoTs"] = {
-["tag"] = "[Amount]",
+["Pet melee evades"] = {
+["disabled"] = true,
 },
 ["Melee blocks"] = {
 ["disabled"] = false,
@@ -155,29 +158,26 @@ ParrotDB = {
 ["Skill absorbs"] = {
 ["disabled"] = false,
 },
-["Dispel"] = {
+["Pet skill evades"] = {
 ["disabled"] = true,
 },
 ["Pet melee dodges"] = {
 ["disabled"] = true,
 },
-["Pet melee evades"] = {
+["Pet skill resists"] = {
 ["disabled"] = true,
 },
-["Pet skill evades"] = {
+["Dispel fail"] = {
 ["disabled"] = true,
 },
-["Skill reflects"] = {
-["disabled"] = false,
-},
-["Pet heals over time"] = {
-["disabled"] = true,
-},
-["Skill damage"] = {
+["Skill DoTs"] = {
 ["tag"] = "[Amount]",
 },
 ["Pet spell interrupts"] = {
 ["disabled"] = true,
+},
+["Skill damage"] = {
+["tag"] = "[Amount]",
 },
 ["Pet skill damage"] = {
 ["disabled"] = false,
@@ -210,6 +210,9 @@ ParrotDB = {
 ["Skill parries"] = {
 ["disabled"] = true,
 },
+["Pet melee misses"] = {
+["disabled"] = true,
+},
 ["Skill deflects"] = {
 ["disabled"] = true,
 },
@@ -219,20 +222,14 @@ ParrotDB = {
 ["Heals over time"] = {
 ["tag"] = "([Name]) +[Amount]",
 },
-["Pet melee misses"] = {
+["Pet skill deflects"] = {
 ["disabled"] = true,
 },
-["Pet skill deflects"] = {
+["Environmental damage"] = {
 ["disabled"] = true,
 },
 ["Pet melee resists"] = {
 ["disabled"] = true,
-},
-["Pet skill dodges"] = {
-["disabled"] = true,
-},
-["Self heals"] = {
-["tag"] = "+[Amount]",
 },
 ["Melee parries"] = {
 ["disabled"] = true,
@@ -243,13 +240,19 @@ ParrotDB = {
 ["Melee resists"] = {
 ["disabled"] = true,
 },
+["Dispel fail"] = {
+["disabled"] = true,
+},
+["Pet skill reflects"] = {
+["disabled"] = true,
+},
 ["Melee misses"] = {
 ["disabled"] = true,
 },
-["Environmental damage"] = {
+["Pet melee damage"] = {
 ["disabled"] = true,
 },
-["Dispel fail"] = {
+["Skill resists"] = {
 ["disabled"] = true,
 },
 ["Melee absorbs"] = {
@@ -264,22 +267,22 @@ ParrotDB = {
 ["Melee immunes"] = {
 ["disabled"] = true,
 },
-["Pet skill resists"] = {
+["Skill reflects"] = {
 ["disabled"] = true,
 },
 ["Pet skill immunes"] = {
 ["disabled"] = true,
 },
-["Reactive skills"] = {
+["Dispel"] = {
 ["disabled"] = true,
 },
-["Skill dodges"] = {
+["Pet skill evades"] = {
 ["disabled"] = true,
 },
 ["Pet melee blocks"] = {
 ["disabled"] = true,
 },
-["Pet melee damage"] = {
+["Pet heals over time"] = {
 ["disabled"] = true,
 },
 ["Melee deflects"] = {
@@ -303,7 +306,7 @@ ParrotDB = {
 ["Pet melee reflects"] = {
 ["disabled"] = true,
 },
-["Pet melee evades"] = {
+["Spell steal"] = {
 ["disabled"] = true,
 },
 ["Pet melee deflects"] = {
@@ -327,7 +330,7 @@ ParrotDB = {
 ["Pet skill misses"] = {
 ["disabled"] = true,
 },
-["Skill resists"] = {
+["Pet melee evades"] = {
 ["disabled"] = true,
 },
 ["Melee blocks"] = {
@@ -336,28 +339,25 @@ ParrotDB = {
 ["Skill absorbs"] = {
 ["disabled"] = true,
 },
-["Dispel"] = {
+["Skill dodges"] = {
 ["disabled"] = true,
 },
 ["Pet melee dodges"] = {
 ["disabled"] = true,
 },
-["Spell steal"] = {
+["Pet skill resists"] = {
 ["disabled"] = true,
 },
-["Pet heals over time"] = {
+["Reactive skills"] = {
 ["disabled"] = true,
 },
-["Pet skill evades"] = {
+["Pet skill dodges"] = {
 ["disabled"] = true,
 },
-["Skill reflects"] = {
-["disabled"] = true,
+["Self heals"] = {
+["tag"] = "+[Amount]",
 },
 ["Skill damage"] = {
-["disabled"] = true,
-},
-["Pet skill reflects"] = {
 ["disabled"] = true,
 },
 ["Pet skill damage"] = {
@@ -407,7 +407,7 @@ ParrotDB = {
 ["Buff stack gains"] = {
 ["disabled"] = true,
 },
-["Enemy buff fades"] = {
+["Loot items"] = {
 ["disabled"] = true,
 },
 ["Item buff fades"] = {
@@ -446,16 +446,16 @@ ParrotDB = {
 ["Extra attacks"] = {
 ["disabled"] = true,
 },
-["Loot items"] = {
+["Enemy buff fades"] = {
 ["disabled"] = true,
 },
-["Enemy debuff fades"] = {
+["Debuff gains"] = {
 ["disabled"] = true,
 },
 ["Target buff gains"] = {
 ["disabled"] = true,
 },
-["Debuff gains"] = {
+["Enemy debuff fades"] = {
 ["disabled"] = true,
 },
 ["Debuff stack gains"] = {
@@ -544,27 +544,32 @@ ParrotDB = {
 ["Bears - Bloodscalp"] = "Default",
 ["Batgril - Bloodscalp"] = "Default",
 ["Aduum - Turalyon"] = "Default",
+["Jakar - Turalyon"] = "Default",
 ["Thugo - Bloodscalp"] = "Default",
 ["Cliance - Bloodscalp"] = "Default",
 ["Amdamn - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
 ["Furrys - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
 ["Christos - Turalyon"] = "Default",
 ["Caris - Turalyon"] = "Default",
-["Artoc - Silvermoon"] = "Default",
-["Adamn - Turalyon"] = "Default",
-["Elpy - Bloodscalp"] = "Default",
-["Adomic - Turalyon"] = "Default",
-["Adamn - Terokkar"] = "Default",
-["Adaam - Turalyon"] = "Default",
 ["Caldo - Turalyon"] = "Default",
-["Christifur - Turalyon"] = "Default",
-["Sunsong - Whisperwind"] = "Default",
+["Artoc - Silvermoon"] = "Default",
+["Adaam - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Fernie - Turalyon"] = "Default",
+["Elpy - Bloodscalp"] = "Default",
+["Dogs - Bloodscalp"] = "Default",
+["Adamn - Terokkar"] = "Default",
 ["Kayne - Turalyon"] = "Default",
-["Jeryn - Bloodscalp"] = "Default",
 ["Amdam - Turalyon"] = "Default",
+["Kurate - Turalyon"] = "Default",
+["Sunsong - Whisperwind"] = "Default",
+["Asaam - Turalyon"] = "Default",
+["Jeryn - Bloodscalp"] = "Default",
+["Beebo - Turalyon"] = "Default",
 ["Broddah - Doomhammer"] = "Default",
-["Amdam - Bloodscalp"] = "Default",
+["Badam - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Christoff - Turalyon"] = "Default",
@@ -577,14 +582,14 @@ ParrotDB = {
 ["Abel - Turalyon"] = "Default",
 ["Trasha - Bloodscalp"] = "Default",
 ["Arnette - Bloodscalp"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Adonis - Turalyon"] = "Default",
 ["Badam - Bloodscalp"] = "Default",
-["Dogs - Bloodscalp"] = "Default",
-["Badam - Turalyon"] = "Default",
+["Amdam - Bloodscalp"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Ayano - Whisperwind"] = "Default",
-["Beebo - Turalyon"] = "Default",
+["Christifur - Turalyon"] = "Default",
 ["Adris - Turalyon"] = "Default",
-["Asaam - Turalyon"] = "Default",
+["Tupac - Turalyon"] = "Default",
 ["Artoc - Zul'jin"] = "Default",
 ["Shado - Turalyon"] = "Default",
 },

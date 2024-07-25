@@ -1,0 +1,57 @@
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [mod:alt,known:The Hunt] The Hunt; Torment;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/cast [mod:alt,@cursor] Sigil of Flame; Blade Dance;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [@cursor,mod:alt,known:Elysian Decree] Elysian Decree; [@cursor] Sigil of Flame;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Spirit Bomb] Spirit Bomb; Soul Cleave;
+/script UIErrorsFrame:Clear() 
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/startattack
+/cast [mod:alt] Throw Glaive; [spec:2] Shear; [spec:1] Demon's Bite;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Essence Break] Essence Break; Felblade;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cancelaura Netherwalk
+/cast Netherwalk
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; Immolation Aura;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "134400"
+#showtooltip
+/cast [@cursor] Sigil of Misery
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "134400"
+#showtooltip
+/cast [@cursor] Sigil of Chains
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip
+/cast [@cursor] Sigil of Silence
+/script UIErrorsFrame:Clear()
+END

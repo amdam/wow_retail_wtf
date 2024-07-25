@@ -50,7 +50,7 @@ TipTacTalents: disabled
 TipTacOptions: disabled
 TomCats: disabled
 TomCats-Bundled-DeathsRising: disabled
-TomTom: disabled
+TomTom: enabled
 Tukui_NamePlateFeatures: disabled
 OmniCD: disabled
 ElvUI_Options: enabled
@@ -73,3 +73,16 @@ BigWigs_Aberrus: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
 BigWigs_VaultOfTheIncarnates: enabled
+LittleWigs_MistsOfPandaria: enabled
+BigWigs_MistsOfPandaria: enabled
+DejaCharacterStats: disabled
+Details: enabled
+Hekili: enabled
+ElvUI: enabled
+ElvUI_BenikUI: enabled
+ArkInventory: disabled
+AdvancedInterfaceOptions: disabled
+AngryKeystones: disabled
+HandyNotes: enabled
+WorldQuestTracker: disabled
+VenturePlan: disabled

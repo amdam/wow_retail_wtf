@@ -26,15 +26,17 @@ Rematch5Settings = {
 ["AllowHiddenPets"] = false,
 ["ShowAfterBattle"] = false,
 ["PetCardNoMouseoverFlip"] = false,
+["ShowAbilityNumbers"] = false,
 ["LevelingQueue"] = {
+},
+["ConvertedTeams"] = {
 },
 ["PetCardForLinks"] = false,
 ["HideRarityBorders"] = false,
-["ConvertedTeams"] = {
-},
-["LoadHealthiest"] = false,
 ["ReverseToolbar"] = false,
-["ShowAbilityNumbers"] = false,
+["LoadHealthiest"] = false,
+["LockWindow"] = false,
+["PetCardCompactCollected"] = false,
 ["CompactQueueList"] = false,
 ["HideNotesBadges"] = false,
 ["KeepNotesOnScreen"] = false,
@@ -48,16 +50,15 @@ Rematch5Settings = {
 ["PetMarkerNames"] = {
 },
 ["ResetExceptSearch"] = false,
-["PetCardCompactCollected"] = false,
+["CustomScaleValue"] = 100,
 ["FavoriteFilters"] = {
 },
 ["QueueActiveSort"] = false,
-["MaximizedLayout"] = "3-teams",
-["StickyNewPets"] = false,
+["KeepCompanion"] = false,
 ["WasShownOnLogout"] = false,
+["StickyNewPets"] = false,
 ["ShowLoadedTeamPreferences"] = false,
 ["ShowAbilityID"] = false,
-["InteractOnTarget"] = 0,
 ["Filters"] = {
 ["Other"] = {
 },
@@ -81,12 +82,12 @@ Rematch5Settings = {
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "\"Aura\"",
+["RawSearchText"] = "\"Leviathan Hatchling\"",
 ["Similar"] = {
 },
 ["Search"] = {
-["Pattern"] = "^[aA][uU][rR][aA]$",
-["Length"] = 6,
+["Pattern"] = "^[lL][eE][vV][iI][aA][tT][hH][aA][nN] [hH][aA][tT][cC][hH][lL][iI][nN][gG]$",
+["Length"] = 21,
 },
 ["Breed"] = {
 },
@@ -99,35 +100,37 @@ Rematch5Settings = {
 ["Moveset"] = {
 },
 },
+["InteractOnTarget"] = 0,
 ["HidePetToast"] = true,
 ["BreedFormat"] = 1,
-["PetCardCanPin"] = false,
 ["ResetFilters"] = false,
+["HideMarkerBadges"] = false,
 ["BackupCount"] = 0,
 ["HideToolbarTooltips"] = false,
 ["DisplayUniqueTotal"] = false,
 ["SafariHatShine"] = false,
-["TooltipBehavior"] = "Normal",
+["PetCardCanPin"] = false,
 ["HideOptionTooltips"] = false,
 ["MousewheelSpeed"] = "Normal",
-["HideMarkerBadges"] = false,
+["CompactTargetList"] = false,
 ["HideTeamBadges"] = false,
 ["InteractOnMouseover"] = 0,
-["CompactTargetList"] = false,
 ["ExpandedGroups"] = {
 },
+["TooltipBehavior"] = "Normal",
 ["LastOpenJournal"] = true,
 ["HideNotesButtonInBattle"] = false,
-["PetCardAlwaysShowHPBar"] = false,
+["HideLevelingBadges"] = false,
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
 ["RandomPetRules"] = 2,
-["HideLevelingBadges"] = false,
-["QueueRandomWhenEmpty"] = false,
-["ShowNewGroupTab"] = true,
-["QueueSortOrder"] = 1,
-["CardBehavior"] = "Normal",
+["PetCardAlwaysShowHPBar"] = false,
 ["BoringLoreFont"] = false,
+["ShowNewGroupTab"] = true,
+["SpecialSlots"] = {
+},
+["CardBehavior"] = "Normal",
+["QueueRandomWhenEmpty"] = false,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",
@@ -150,9 +153,8 @@ Rematch5Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
+["QueueSortOrder"] = 1,
 ["LockPosition"] = false,
-["SpecialSlots"] = {
-},
 ["NotesFont"] = "GameFontHighlight",
 ["CombineGroupKey"] = "None",
 ["InteractOnSoftInteract"] = 0,
@@ -166,9 +168,9 @@ Rematch5Settings = {
 ["PetCardShowExpansionStat"] = false,
 ["ResetSortWithFilters"] = false,
 ["CompactTeamList"] = false,
+["MaximizedLayout"] = "3-teams",
 ["HideLevelBubbles"] = false,
-["KeepCompanion"] = false,
-["LockWindow"] = false,
+["PreferencesPaused"] = false,
 ["LockNotesPosition"] = false,
 ["PetMarkers"] = {
 },
@@ -248,13 +250,13 @@ Rematch4Settings = {
 },
 ["Strong"] = {
 },
-["Similar"] = {
+["Sources"] = {
 },
 ["Breed"] = {
 },
 ["Rarity"] = {
 },
-["Sources"] = {
+["Similar"] = {
 },
 ["Collected"] = {
 },
@@ -273,13 +275,13 @@ Rematch4Settings = {
 ["QueueSortOrder"] = 1,
 ["ExpandedTargetHeaders"] = {
 },
-["PreferredMode"] = 1,
+["ElvUIToastDefaulted"] = true,
 ["ActivePanel"] = 1,
 ["Sanctuary"] = {
 },
 ["JournalPanel"] = 1,
 ["CornerPos"] = "BOTTOMLEFT",
-["ElvUIToastDefaulted"] = true,
+["PreferredMode"] = 1,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",

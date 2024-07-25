@@ -1,6 +1,6 @@
 BigWigs: enabled
 TinyTip: disabled
-TomTom: disabled
+TomTom: enabled
 Informant: disabled
 Enchantrix-Barker: disabled
 Enchantrix: disabled
@@ -9,7 +9,7 @@ Auc-Filter-Basic: enabled
 Auc-Advanced: disabled
 StaggerMeter: disabled
 RoguePowerBars: disabled
-ArkInventory: enabled
+ArkInventory: disabled
 AffDots: disabled
 affdots-mage: disabled
 TidyPlates_ThreatPlates: enabled
@@ -66,10 +66,10 @@ TipTac: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 ElvUI_BenikUI: enabled
 ElvUI_EverySecondCounts: disabled
-AngryKeystones: enabled
+AngryKeystones: disabled
 WeakAurasCompanion: enabled
 OPie_Classic: disabled
 TomCats: disabled
@@ -99,7 +99,7 @@ RaiderIO_DB_EU_A_R: disabled
 RaiderIO_DB_EU_A: disabled
 MythicDungeonTools: disabled
 Skada: disabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 ElvUI_QuestXP: disabled
 Kui_Media: enabled
 Kui_Nameplates: enabled
@@ -154,3 +154,9 @@ BigWigs_Aberrus: enabled
 LittleWigs_BurningCrusade: enabled
 LittleWigs_WrathOfTheLichKing: enabled
 BigWigs_VaultOfTheIncarnates: enabled
+LittleWigs_MistsOfPandaria: enabled
+BigWigs_MistsOfPandaria: enabled
+Hekili: enabled
+AdvancedInterfaceOptions: disabled
+HandyNotes: enabled
+VenturePlan: disabled

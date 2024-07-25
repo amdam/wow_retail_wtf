@@ -1,2206 +1,2206 @@
 
 ElvCharacterDB = {
-	["ConvertKeybindings"] = true,
-	["ChatEditHistory"] = {
-		"/i try not to step on blood pools except for that time or else there won't be enough", -- [1]
-		"/i she will have like a beam of light attached to you", -- [2]
-		"/i you know you did it right when it turns red", -- [3]
-		"/i thats pretty much it", -- [4]
-		"/i yeah ithink its bugged", -- [5]
-		"/i its not showing us what is being looted in the chat thing either", -- [6]
-		"/i usually does", -- [7]
-		"/i k she has those purple spiders during the fight too, so try not to touch them", -- [8]
-		"/i nope you can't damage them", -- [9]
-		"/i but yeah she makes copies of all of us", -- [10]
-		"/i and they slowly walk towards her, we have to kill them before they get to her", -- [11]
-		"/i oh nice just one looks like", -- [12]
-		"/i aah damn so close", -- [13]
-		"/i nice job", -- [14]
-		"/i eeh i got a dagger...", -- [15]
-		"/i this loot is whack lol", -- [16]
-		"/i lol", -- [17]
-		"/i thx all, take care", -- [18]
-		"/macro", -- [19]
-		"/wa", -- [20]
-	},
-	["ChatHistoryLog"] = {
-		{
-			"yes we cannot daamge boss until the totems die", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			143, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738525,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [1]
-		{
-			"and they have to die all at the same time or they heal back to full", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			146, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738533,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [2]
-		{
-			"each dps pick a totem, i can wait to pull until everyone is in position", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			147, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738610,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [3]
-		{
-			"i'll try to help anyone that falls behind", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			148, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738630,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [4]
-		{
-			"ok", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			151, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670738583,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [5]
-		{
-			"can i get a rez plz", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			152, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738589,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [6]
-		{
-			"enemy nameplates helps a lot on this guy", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			153, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738596,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [7]
-		{
-			"You're the only one who can rez", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			154, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738670,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
-		{
-			"lol", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			155, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738677,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
-		{
-			"rhytera can res", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738677,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [10]
-		{
-			"Oh, druid", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			157, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738694,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [11]
-		{
-			"i havent played in 14 years", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			158, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738640,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [12]
-		{
-			"Not a rogue", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			159, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738643,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [13]
-		{
-			"ready?", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			160, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738656,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [14]
-		{
-			"tank", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			161, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738724,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [15]
-		{
-			"are you alive?", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			162, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738731,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [16]
-		{
-			"You're still dead?", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			163, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738732,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [17]
-		{
-			"i will be alive in 2 seconds", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738746,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
-		{
-			"don't ankh you will have low mana", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738746,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [19]
-		{
-			"sweet  ", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			166, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738703,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
-		{
-			"1 sec", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			167, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738706,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [21]
-		{
-			"k go stand by a totem", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			168, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738706,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [22]
-		{
-			"careful for the green swirls on the ground", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			170, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738791,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [23]
-		{
-			"boss randomly jumps on people so have to run out of those", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738798,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [24]
-		{
-			"okay cool", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			172, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670738815,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [25]
-		{
-			"k", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			173, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738818,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
-		{
-			"ok lets give it a go", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			174, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738818,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [27]
-		{
-			"kjhfm drfhjm deyhgjm,eyujmeyt", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			178, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738776,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [28]
-		{
-			"i will leave so some one eals can step in sorry guys", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			185, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738862,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
-		{
-			"i think we should all focus on one totem at a time?", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			186, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670738830,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [30]
-		{
-			"instead of spreading out?", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			187, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670738836,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
-		{
-			"Noxious Stench also needs to be interrupted", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			188, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738841,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
-		{
-			"yeah on normal i didnt see them healing", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			189, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738904,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [33]
-		{
-			"sence when do hunters tank", -- [1]
-			"Iaania-Garithos", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Iaania-Garithos", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			190, -- [11]
-			"Player-1138-05E74A51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddIaania-Garithos|r",
-			[51] = 1670738906,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [34]
-		{
-			"need a dps to interrupt that", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			191, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738909,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [35]
-		{
-			"There isn't anything saying the totems heal other totems", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			194, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738911,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [36]
-		{
-			"i dont get mine until lvl 20 :/", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			197, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738913,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [37]
-		{
-			"These dungeons aren't friendly to low-level scaling", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			198, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738925,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [38]
-		{
-			"maybe the healing doesnt happen until higher difficulty", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738939,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [39]
-		{
-			"we can try one totem at a time, just make sure to dodge his leap", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			200, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738889,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [40]
-		{
-			"Dungeon info only says the totems heal the boss", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			204, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738971,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
-		{
-			"yeah you're right, i think on normal we can kill them one at a time", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			205, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738990,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [42]
-		{
-			"Even on the higher difficulties", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			206, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738994,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [43]
-		{
-			"mythic definitely have to die at the same time, been a while since i did bfa dungeons", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			207, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670738953,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [44]
-		{
-			"I can try to interrupt boss, but my silence is a 24 sec CD", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670738957,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
-		{
-			"ill try counterspell", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			209, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739032,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
-		{
-			"ok", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			210, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739046,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [47]
-		{
-			"right side?", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			212, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739057,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
-		{
-			"nice job", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			220, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739235,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [49]
-		{
-			"whew gj", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			222, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739237,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [50]
-		{
-			"can i get rez plz", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			223, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739238,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [51]
-		{
-			"ty", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			226, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739192,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [52]
-		{
-			"Been a bit since a boss fight felt a little intense", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			227, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670739269,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [53]
-		{
-			"why did i get cloth |cff0070dd|Hitem:158348::::::::16:581::1:3:6710:42:8811:2:28:500:9:16:::::|h[Wraps of Everliving Fealty]|h|r", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			228, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739269,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [54]
-		{
-			"lol", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			229, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670739283,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
-		{
-			"first time healing on this guy lol", -- [1]
-			"Sleymonzil-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sleymonzil-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			230, -- [11]
-			"Player-60-0EE813E8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffSleymonzil-Stormrage|r",
-			[51] = 1670739284,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [56]
-		{
-			"you did great", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739297,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [57]
-		{
-			"especially since i can't interrupt lol", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			232, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739244,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [58]
-		{
-			"sorry", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			295, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739462,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [59]
-		{
-			"whats the deal with this one", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			332, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739588,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [60]
-		{
-			"ok kill mask guys when they spawn, stand near a bloody pool and when she casts the infusion thing you want to step in the blood", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			333, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739597,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [61]
-		{
-			"try not to step on blood pools except for that time or else there won't be enough", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			334, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739560,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [62]
-		{
-			"got it", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			335, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739631,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [63]
-		{
-			"she will have like a beam of light attached to you", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			336, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739633,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [64]
-		{
-			"you know you did it right when it turns red", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			337, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739637,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [65]
-		{
-			"thats pretty much it", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			338, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739643,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [66]
-		{
-			"ty", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			340, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739649,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [67]
-		{
-			"nice", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			357, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739765,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [68]
-		{
-			"nice job", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			358, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739766,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [69]
-		{
-			"lol plate", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			361, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739772,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [70]
-		{
-			"Nice job indeed", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670739775,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [71]
-		{
-			"ill trade ya the cloth", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			363, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739779,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [72]
-		{
-			"Loot is being weird...", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			364, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670739721,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [73]
-		{
-			"yeah ithink its bugged", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			365, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739727,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [74]
-		{
-			"its not showing us what is being looted in the chat thing either", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739737,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [75]
-		{
-			"usually does", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			367, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739738,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [76]
-		{
-			"It's showing me at least", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			369, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670739810,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [77]
-		{
-			"k she has those purple spiders during the fight too, so try not to touch them", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			370, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739780,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [78]
-		{
-			"ok. we cant kill them correct?", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			371, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739795,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
-		{
-			"There is something called Soulspawns we do want to kill.", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			372, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670739866,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
-		{
-			"nope you can't damage them", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			373, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739868,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [81]
-		{
-			"but yeah she makes copies of all of us", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			374, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739875,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [82]
-		{
-			"and they slowly walk towards her, we have to kill them before they get to her", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			375, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739884,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [83]
-		{
-			"ok", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			376, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739893,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [84]
-		{
-			"oh nice just one looks like", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			380, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739861,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [85]
-		{
-			"ty", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			384, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670739986,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [86]
-		{
-			"Soulrend on Adomic", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			396, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670739972,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"Soulrend on Adomic", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			399, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740074,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"aah damn so close", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			404, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740031,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [89]
-		{
-			"jesus", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			410, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670740181,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [90]
-		{
-			"nice", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			428, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670740269,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [91]
-		{
-			"nice job", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			431, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740276,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [92]
-		{
-			"Not too bad that time around", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			432, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670740282,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [93]
-		{
-			"eeh i got a dagger...", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			433, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740343,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [94]
-		{
-			"ty", -- [1]
-			"Noslo-Daggerspine", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Noslo-Daggerspine", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			434, -- [11]
-			"Player-1136-092A0EE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebNoslo-Daggerspine|r",
-			[51] = 1670740344,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [95]
-		{
-			"this loot is whack lol", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			435, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740352,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [96]
-		{
-			"Just tape two together.", -- [1]
-			"Kazumae-Tanaris", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kazumae-Tanaris", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			436, -- [11]
-			"Player-158-0B923D09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Kazumae-Tanaris|r",
-			[51] = 1670740355,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [97]
-		{
-			"lol", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			437, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740360,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [98]
-		{
-			"thx all, take care", -- [1]
-			"Adomic-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adomic-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			438, -- [11]
-			"Player-3685-0E0216CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Adomic|r",
-			[51] = 1670740364,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [99]
-	},
+["ConvertKeybindings"] = true,
+["ChatEditHistory"] = {
+"/i try not to step on blood pools except for that time or else there won't be enough",
+"/i she will have like a beam of light attached to you",
+"/i you know you did it right when it turns red",
+"/i thats pretty much it",
+"/i yeah ithink its bugged",
+"/i its not showing us what is being looted in the chat thing either",
+"/i usually does",
+"/i k she has those purple spiders during the fight too, so try not to touch them",
+"/i nope you can't damage them",
+"/i but yeah she makes copies of all of us",
+"/i and they slowly walk towards her, we have to kill them before they get to her",
+"/i oh nice just one looks like",
+"/i aah damn so close",
+"/i nice job",
+"/i eeh i got a dagger...",
+"/i this loot is whack lol",
+"/i lol",
+"/i thx all, take care",
+"/macro",
+"/wa",
+},
+["ChatHistoryLog"] = {
+{
+"yes we cannot daamge boss until the totems die",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+143,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738525,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"and they have to die all at the same time or they heal back to full",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+146,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738533,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"each dps pick a totem, i can wait to pull until everyone is in position",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+147,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738610,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"i'll try to help anyone that falls behind",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+148,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738630,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"ok",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+151,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670738583,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"can i get a rez plz",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+152,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738589,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"enemy nameplates helps a lot on this guy",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+153,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738596,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"You're the only one who can rez",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+154,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738670,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"lol",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+155,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738677,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"rhytera can res",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+156,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738677,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Oh, druid",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+157,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738694,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"i havent played in 14 years",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+158,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738640,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"Not a rogue",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+159,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738643,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ready?",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+160,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738656,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"tank",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+161,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738724,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"are you alive?",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+162,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738731,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"You're still dead?",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+163,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738732,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"i will be alive in 2 seconds",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+164,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738746,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"don't ankh you will have low mana",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+165,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738746,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"sweet  ",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+166,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738703,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"1 sec",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+167,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738706,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"k go stand by a totem",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+168,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738706,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"careful for the green swirls on the ground",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+170,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738791,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"boss randomly jumps on people so have to run out of those",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+171,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738798,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"okay cool",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+172,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670738815,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"k",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+173,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738818,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ok lets give it a go",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+174,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738818,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"kjhfm drfhjm deyhgjm,eyujmeyt",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+178,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738776,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"i will leave so some one eals can step in sorry guys",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+185,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738862,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"i think we should all focus on one totem at a time?",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+186,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670738830,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"instead of spreading out?",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+187,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670738836,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"Noxious Stench also needs to be interrupted",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+188,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738841,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"yeah on normal i didnt see them healing",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+189,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738904,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"sence when do hunters tank",
+"Iaania-Garithos",
+"",
+"",
+"Iaania-Garithos",
+"",
+0,
+0,
+"",
+0,
+190,
+"Player-1138-05E74A51",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddIaania-Garithos|r",
+[51] = 1670738906,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"need a dps to interrupt that",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+191,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738909,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"There isn't anything saying the totems heal other totems",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+194,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738911,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"i dont get mine until lvl 20 :/",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+197,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738913,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"These dungeons aren't friendly to low-level scaling",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+198,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738925,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"maybe the healing doesnt happen until higher difficulty",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+199,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738939,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"we can try one totem at a time, just make sure to dodge his leap",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+200,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738889,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Dungeon info only says the totems heal the boss",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+204,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738971,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"yeah you're right, i think on normal we can kill them one at a time",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+205,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738990,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Even on the higher difficulties",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+206,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738994,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"mythic definitely have to die at the same time, been a while since i did bfa dungeons",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+207,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670738953,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"I can try to interrupt boss, but my silence is a 24 sec CD",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+208,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670738957,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ill try counterspell",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+209,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739032,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ok",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+210,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739046,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"right side?",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+212,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739057,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"nice job",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+220,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739235,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"whew gj",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+222,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739237,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"can i get rez plz",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+223,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739238,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ty",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+226,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739192,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"Been a bit since a boss fight felt a little intense",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+227,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670739269,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"why did i get cloth |cff0070dd|Hitem:158348::::::::16:581::1:3:6710:42:8811:2:28:500:9:16:::::|h[Wraps of Everliving Fealty]|h|r",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+228,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739269,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"lol",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+229,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670739283,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"first time healing on this guy lol",
+"Sleymonzil-Stormrage",
+"",
+"",
+"Sleymonzil-Stormrage",
+"",
+0,
+0,
+"",
+0,
+230,
+"Player-60-0EE813E8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffSleymonzil-Stormrage|r",
+[51] = 1670739284,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"you did great",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+231,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739297,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"especially since i can't interrupt lol",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+232,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739244,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"sorry",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+295,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739462,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"whats the deal with this one",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+332,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739588,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ok kill mask guys when they spawn, stand near a bloody pool and when she casts the infusion thing you want to step in the blood",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+333,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739597,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"try not to step on blood pools except for that time or else there won't be enough",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+334,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739560,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"got it",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+335,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739631,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"she will have like a beam of light attached to you",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+336,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739633,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"you know you did it right when it turns red",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+337,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739637,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"thats pretty much it",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+338,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739643,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"ty",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+340,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739649,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"nice",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+357,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739765,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"nice job",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+358,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739766,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"lol plate",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+361,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739772,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"Nice job indeed",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+362,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670739775,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"ill trade ya the cloth",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+363,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739779,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"Loot is being weird...",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+364,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670739721,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"yeah ithink its bugged",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+365,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739727,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"its not showing us what is being looted in the chat thing either",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+366,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739737,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"usually does",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+367,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739738,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"It's showing me at least",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+369,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670739810,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"k she has those purple spiders during the fight too, so try not to touch them",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+370,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739780,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"ok. we cant kill them correct?",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+371,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739795,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"There is something called Soulspawns we do want to kill.",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+372,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670739866,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"nope you can't damage them",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+373,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739868,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"but yeah she makes copies of all of us",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+374,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739875,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"and they slowly walk towards her, we have to kill them before they get to her",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+375,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739884,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"ok",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+376,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739893,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"oh nice just one looks like",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+380,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739861,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"ty",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+384,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670739986,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"Soulrend on Adomic",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+396,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670739972,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Soulrend on Adomic",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+399,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740074,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"aah damn so close",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+404,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740031,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"jesus",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+410,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670740181,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"nice",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+428,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670740269,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"nice job",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+431,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740276,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Not too bad that time around",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+432,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670740282,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"eeh i got a dagger...",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+433,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740343,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"ty",
+"Noslo-Daggerspine",
+"",
+"",
+"Noslo-Daggerspine",
+"",
+0,
+0,
+"",
+0,
+434,
+"Player-1136-092A0EE8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebNoslo-Daggerspine|r",
+[51] = 1670740344,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"this loot is whack lol",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+435,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740352,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Just tape two together.",
+"Kazumae-Tanaris",
+"",
+"",
+"Kazumae-Tanaris",
+"",
+0,
+0,
+"",
+0,
+436,
+"Player-158-0B923D09",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Kazumae-Tanaris|r",
+[51] = 1670740355,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"lol",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+437,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740360,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"thx all, take care",
+"Adomic-Turalyon",
+"",
+"",
+"Adomic-Turalyon",
+"",
+0,
+0,
+"",
+0,
+438,
+"Player-3685-0E0216CF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Adomic|r",
+[51] = 1670740364,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+},
 }

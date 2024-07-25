@@ -1,0 +1,61 @@
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [mod:alt] Spinning Crane Kick; Tiger Palm;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Tiger's Lust;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/cast [mod:alt] Breath of Fire; Keg Smash;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Flying Serpent Kick] Flying Serpent Kick; [mod:alt] Heroic Leap; Blackout Kick;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Chi Wave] Chi Wave; [mod:alt] Crackling Jade Lightning; Provoke;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cast [mod:alt] Crackling Jade Lightning; Strike of the Windlord;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/cast [mod:alt] Touch of Death; Purifying Brew;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [mod:alt] Rushing Jade Wind; Rising Sun Kick;
+/script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000009 " " "134400"
+#showtooltip
+/cast [mod:alt] Touch of Death; Chi Burst;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Detox;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip
+/cast [mod:alt,known:Jadefire Stomp] Jadefire Stomp; Fists of Fury;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip
+/cast [known:Serenity] Serenity; Storm, Earth, and Fire;
+/use Lifestorm;
+/script UIErrorsFrame:Clear()
+END

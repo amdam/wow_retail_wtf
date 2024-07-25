@@ -1,2206 +1,2206 @@
 
 ElvCharacterDB = {
-	["ConvertKeybindings"] = true,
-	["ChatEditHistory"] = {
-		"/p do you have barbed shot yet?", -- [1]
-		"/p or bestial wrath?", -- [2]
-		"/p ok we finished this side quest area, there's 1 more or we can progress the main story", -- [3]
-		"/p or we could do another dungeon", -- [4]
-		"/p same, i think miles is throwing food on the floor", -- [5]
-		"/p lol taylor gave him cereal and then let him dump it all over the floor", -- [6]
-		"/p lets do another dungeon, its really good exp", -- [7]
-		"/macro", -- [8]
-		"/p np bro", -- [9]
-		"/p ez", -- [10]
-		"/p lol yep", -- [11]
-		"/p you got blowed up", -- [12]
-		"/p i coul dnot save you", -- [13]
-		"/p i need to take a shower and get this boy down for his nap", -- [14]
-		"/p then i will come over", -- [15]
-		"/p come in here", -- [16]
-		"/p this is an inn", -- [17]
-		"/p k see you soon", -- [18]
-		"/p you can keep going if you want, we should just dungeon level", -- [19]
-		"/p its faster i think", -- [20]
-	},
-	["ChatHistoryLog"] = {
-		{
-			"and grab the flight path here too", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			115, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669489711,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"want to try a dungeon?", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669489755,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"yyeah", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			117, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669489764,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"nice instant queue", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			120, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669489785,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"guess kuz im a healer", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			121, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669489792,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"sweet", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			122, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669489798,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"cept some scrub is afk", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			123, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669489812,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"Cyclone Strike on Eurodyne", -- [1]
-			"Eurodyne-Trollbane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Eurodyne-Trollbane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			151, -- [11]
-			"Player-1175-0EE23B95", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaEurodyne-Trollbane|r",
-			[51] = 1669489930,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Conduction on Rhonchie", -- [1]
-			"Rhonchie-Trollbane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rhonchie-Trollbane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			153, -- [11]
-			"Player-1175-0EE05430", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Rhonchie-Trollbane|r",
-			[51] = 1669489941,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"3", -- [1]
-			"Rhonchie-Trollbane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rhonchie-Trollbane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			154, -- [11]
-			"Player-1175-0EE05430", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Rhonchie-Trollbane|r",
-			[51] = 1669489943,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"2", -- [1]
-			"Rhonchie-Trollbane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rhonchie-Trollbane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			155, -- [11]
-			"Player-1175-0EE05430", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Rhonchie-Trollbane|r",
-			[51] = 1669489944,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"1", -- [1]
-			"Rhonchie-Trollbane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Rhonchie-Trollbane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			156, -- [11]
-			"Player-1175-0EE05430", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Rhonchie-Trollbane|r",
-			[51] = 1669489945,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"lol i just gained 2 lvls", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			260, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669490847,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"nicee", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669490862,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
-		{
-			"ok now right click your portrait and click leave instance group", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669490870,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"ez pz", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			274, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669490899,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"healing as this spec is kind of a pain without any aoe heals lol", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669490917,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
-		{
-			"too low level", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			276, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669490918,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
-		{
-			"ez modeee", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			277, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669490931,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"there we go now i got the aoe heal", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			280, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669490976,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
-		{
-			"very nice", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			282, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669490984,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"sec im going to autofollow you and go get miles some breakfast real quick", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			308, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491058,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
-		{
-			"oh niceee", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			311, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669491077,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"yes level me my minion", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			362, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491597,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"lol", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			367, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669491619,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"balls i need to loot some quest items", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			371, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491637,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"too bad it doesnt auto loot fory ou", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			376, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669491600,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"that would make it way too easy to bot lol", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			383, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491689,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
-		{
-			"looks like you're still missing some fuzzy tales", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			430, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491824,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
-		{
-			"tails*", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			431, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491825,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
-		{
-			"i need fuzzy tails dammit", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			468, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492017,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"ok i  tink we got all of these ones", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			469, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492019,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
-		{
-			"oh ya", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			470, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669491963,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"oh its the stags", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			487, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492057,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
-		{
-			"nah its the raccoons", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			489, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492065,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [35]
-		{
-			"lol", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			497, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492078,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"its group looting, so when you loot something it loots everything near the one you are looting", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			498, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492098,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
-		{
-			"so you dont have to go around clicking on every single mob you killed to loot them", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			499, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492111,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
-		{
-			"i like it", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			500, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492119,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
-		{
-			"oh we forgot old frostclaw", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			525, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492156,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
-		{
-			"i killed that bastard", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			526, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492164,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
-		{
-			"i will destroy him", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			527, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492181,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
-		{
-			"ah yeah watch out, lvl 16", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			538, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492272,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
-		{
-			"im lvl 18", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			539, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492286,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
-		{
-			"well aren't you just an overachiever", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			540, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492309,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
-		{
-			"yes", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			542, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492332,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
-		{
-			"think we have to go this way now", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			543, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492343,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
-		{
-			"oo lets kill this rare", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			609, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492506,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
-		{
-			"what rare", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			623, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492599,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
-		{
-			"this way", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			626, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492605,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
-		{
-			"its the star on the map", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			628, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492610,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
-		{
-			"rekt", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			652, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492675,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
-		{
-			"but he didnt drop anything, we got jipped", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			655, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492688,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
-		{
-			"we got JEWED is the correct term", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			659, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492700,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"its nice i have the kill shot skill for the last hit", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			687, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492793,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
-		{
-			"and i can run up and hamstring them so they are slow", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			688, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492747,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
-		{
-			"nice", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			689, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492824,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
-		{
-			"kill shot is a sweet ability", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			690, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492837,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
-		{
-			"do you have barbed shot yet?", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			691, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492846,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
-		{
-			"or bestial wrath?", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			692, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492848,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
-		{
-			"i have barbed shot", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			699, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492902,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
-		{
-			"ok we finished this side quest area, there's 1 more or we can progress the main story", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			700, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492944,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
-		{
-			"or we could do another dungeon", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			701, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669492953,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
-		{
-			"one sec", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			702, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669492988,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
-		{
-			"same, i think miles is throwing food on the floor", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			703, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669493004,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
-		{
-			"lol", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			704, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669493018,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
-		{
-			"lol taylor gave him cereal and then let him dump it all over the floor", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			706, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669493099,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
-		{
-			"lol tay tay slackin", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			707, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669493141,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"lets do another dungeon, its really good exp", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			708, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669493107,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
-		{
-			"sweet", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			711, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669493160,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
-		{
-			"gz", -- [1]
-			"Larrolld-Tichondrius", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Larrolld-Tichondrius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			767, -- [11]
-			"Player-11-0E26B13E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebLarrolld-Tichondrius|r",
-			[51] = 1669493459,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [71]
-		{
-			"bro", -- [1]
-			"Roman-Elune", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Roman-Elune", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			896, -- [11]
-			"Player-67-0EE2AEBD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aRoman-Elune|r",
-			[51] = 1669493911,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [72]
-		{
-			"Explosive Burst on Caldo", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			952, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494257,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"Explosive Burst on Celdine", -- [1]
-			"Celdine-SilverHand", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Celdine-SilverHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			953, -- [11]
-			"Player-12-0DC37F15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeldine-SilverHand|r",
-			[51] = 1669494257,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"3", -- [1]
-			"Celdine-SilverHand", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Celdine-SilverHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			954, -- [11]
-			"Player-12-0DC37F15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeldine-SilverHand|r",
-			[51] = 1669494258,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [75]
-		{
-			"2", -- [1]
-			"Celdine-SilverHand", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Celdine-SilverHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			955, -- [11]
-			"Player-12-0DC37F15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeldine-SilverHand|r",
-			[51] = 1669494259,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"1", -- [1]
-			"Celdine-SilverHand", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Celdine-SilverHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			956, -- [11]
-			"Player-12-0DC37F15", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCeldine-SilverHand|r",
-			[51] = 1669494260,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"Explosive Burst on Caldo", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			966, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494245,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Explosive Burst on Caldo", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			975, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494321,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"thanks bro", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			997, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494348,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
-		{
-			"np bro", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1001, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494356,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [81]
-		{
-			"ez", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1009, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494377,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
-		{
-			"he killed me", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1010, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494414,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
-		{
-			"i dieded", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1012, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494419,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
-		{
-			"lol yep", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1013, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494361,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
-		{
-			"you got blowed up", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1014, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494365,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
-		{
-			"i coul dnot save you", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1015, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494429,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
-		{
-			"i need to take a shower and get this boy down for his nap", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1016, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494447,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
-		{
-			"then i will come over", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1017, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494449,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
-		{
-			"ok sweet", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1018, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494457,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
-		{
-			"i will be ready", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1019, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494461,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
-		{
-			"come in here", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1020, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494465,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"this is an inn", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1021, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494468,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
-		{
-			"k see you soon", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1022, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494424,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
-		{
-			"just log here then eh", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1023, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494426,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
-		{
-			"you can keep going if you want, we should just dungeon level", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1024, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494495,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
-		{
-			"its faster i think", -- [1]
-			"Caldo-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Caldo-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1025, -- [11]
-			"Player-3685-0DFD64F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCaldo|r",
-			[51] = 1669494498,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
-		{
-			"sweet", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1026, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494501,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
-		{
-			"see you soon boi", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1027, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1669494507,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
-	},
+["ConvertKeybindings"] = true,
+["ChatEditHistory"] = {
+"/p do you have barbed shot yet?",
+"/p or bestial wrath?",
+"/p ok we finished this side quest area, there's 1 more or we can progress the main story",
+"/p or we could do another dungeon",
+"/p same, i think miles is throwing food on the floor",
+"/p lol taylor gave him cereal and then let him dump it all over the floor",
+"/p lets do another dungeon, its really good exp",
+"/macro",
+"/p np bro",
+"/p ez",
+"/p lol yep",
+"/p you got blowed up",
+"/p i coul dnot save you",
+"/p i need to take a shower and get this boy down for his nap",
+"/p then i will come over",
+"/p come in here",
+"/p this is an inn",
+"/p k see you soon",
+"/p you can keep going if you want, we should just dungeon level",
+"/p its faster i think",
+},
+["ChatHistoryLog"] = {
+{
+"and grab the flight path here too",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+115,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669489711,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"want to try a dungeon?",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+116,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669489755,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"yyeah",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+117,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669489764,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"nice instant queue",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+120,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669489785,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"guess kuz im a healer",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+121,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669489792,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"sweet",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+122,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669489798,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"cept some scrub is afk",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+123,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669489812,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"Cyclone Strike on Eurodyne",
+"Eurodyne-Trollbane",
+"",
+"",
+"Eurodyne-Trollbane",
+"",
+0,
+0,
+"",
+0,
+151,
+"Player-1175-0EE23B95",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaEurodyne-Trollbane|r",
+[51] = 1669489930,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Conduction on Rhonchie",
+"Rhonchie-Trollbane",
+"",
+"",
+"Rhonchie-Trollbane",
+"",
+0,
+0,
+"",
+0,
+153,
+"Player-1175-0EE05430",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Rhonchie-Trollbane|r",
+[51] = 1669489941,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"3",
+"Rhonchie-Trollbane",
+"",
+"",
+"Rhonchie-Trollbane",
+"",
+0,
+0,
+"",
+0,
+154,
+"Player-1175-0EE05430",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Rhonchie-Trollbane|r",
+[51] = 1669489943,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"2",
+"Rhonchie-Trollbane",
+"",
+"",
+"Rhonchie-Trollbane",
+"",
+0,
+0,
+"",
+0,
+155,
+"Player-1175-0EE05430",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Rhonchie-Trollbane|r",
+[51] = 1669489944,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"1",
+"Rhonchie-Trollbane",
+"",
+"",
+"Rhonchie-Trollbane",
+"",
+0,
+0,
+"",
+0,
+156,
+"Player-1175-0EE05430",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Rhonchie-Trollbane|r",
+[51] = 1669489945,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"lol i just gained 2 lvls",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+260,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669490847,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"nicee",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+266,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669490862,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"ok now right click your portrait and click leave instance group",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+267,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669490870,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ez pz",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+274,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669490899,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"healing as this spec is kind of a pain without any aoe heals lol",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+275,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669490917,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"too low level",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+276,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669490918,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ez modeee",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+277,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669490931,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"there we go now i got the aoe heal",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+280,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669490976,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"very nice",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+282,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669490984,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"sec im going to autofollow you and go get miles some breakfast real quick",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+308,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491058,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh niceee",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+311,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669491077,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"yes level me my minion",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+362,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491597,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+367,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669491619,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"balls i need to loot some quest items",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+371,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491637,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"too bad it doesnt auto loot fory ou",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+376,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669491600,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"that would make it way too easy to bot lol",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+383,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491689,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"looks like you're still missing some fuzzy tales",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+430,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491824,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"tails*",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+431,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491825,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i need fuzzy tails dammit",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+468,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492017,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"ok i  tink we got all of these ones",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+469,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492019,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh ya",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+470,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669491963,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh its the stags",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+487,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492057,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"nah its the raccoons",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+489,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492065,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+497,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492078,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"its group looting, so when you loot something it loots everything near the one you are looting",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+498,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492098,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"so you dont have to go around clicking on every single mob you killed to loot them",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+499,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492111,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i like it",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+500,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492119,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"oh we forgot old frostclaw",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+525,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492156,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i killed that bastard",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+526,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492164,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i will destroy him",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+527,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492181,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ah yeah watch out, lvl 16",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+538,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492272,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"im lvl 18",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+539,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492286,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"well aren't you just an overachiever",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+540,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492309,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"yes",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+542,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492332,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"think we have to go this way now",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+543,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492343,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oo lets kill this rare",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+609,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492506,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"what rare",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+623,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492599,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"this way",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+626,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492605,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"its the star on the map",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+628,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492610,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"rekt",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+652,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492675,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"but he didnt drop anything, we got jipped",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+655,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492688,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"we got JEWED is the correct term",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+659,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492700,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"its nice i have the kill shot skill for the last hit",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+687,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492793,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"and i can run up and hamstring them so they are slow",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+688,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492747,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"nice",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+689,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492824,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"kill shot is a sweet ability",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+690,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492837,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"do you have barbed shot yet?",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+691,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492846,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"or bestial wrath?",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+692,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492848,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i have barbed shot",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+699,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492902,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"ok we finished this side quest area, there's 1 more or we can progress the main story",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+700,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492944,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"or we could do another dungeon",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+701,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669492953,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"one sec",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+702,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669492988,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"same, i think miles is throwing food on the floor",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+703,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669493004,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+704,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669493018,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"lol taylor gave him cereal and then let him dump it all over the floor",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+706,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669493099,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol tay tay slackin",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+707,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669493141,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"lets do another dungeon, its really good exp",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+708,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669493107,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"sweet",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+711,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669493160,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"gz",
+"Larrolld-Tichondrius",
+"",
+"",
+"Larrolld-Tichondrius",
+"",
+0,
+0,
+"",
+0,
+767,
+"Player-11-0E26B13E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebLarrolld-Tichondrius|r",
+[51] = 1669493459,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"bro",
+"Roman-Elune",
+"",
+"",
+"Roman-Elune",
+"",
+0,
+0,
+"",
+0,
+896,
+"Player-67-0EE2AEBD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aRoman-Elune|r",
+[51] = 1669493911,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Explosive Burst on Caldo",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+952,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494257,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Explosive Burst on Celdine",
+"Celdine-SilverHand",
+"",
+"",
+"Celdine-SilverHand",
+"",
+0,
+0,
+"",
+0,
+953,
+"Player-12-0DC37F15",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aCeldine-SilverHand|r",
+[51] = 1669494257,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"3",
+"Celdine-SilverHand",
+"",
+"",
+"Celdine-SilverHand",
+"",
+0,
+0,
+"",
+0,
+954,
+"Player-12-0DC37F15",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aCeldine-SilverHand|r",
+[51] = 1669494258,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"2",
+"Celdine-SilverHand",
+"",
+"",
+"Celdine-SilverHand",
+"",
+0,
+0,
+"",
+0,
+955,
+"Player-12-0DC37F15",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aCeldine-SilverHand|r",
+[51] = 1669494259,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"1",
+"Celdine-SilverHand",
+"",
+"",
+"Celdine-SilverHand",
+"",
+0,
+0,
+"",
+0,
+956,
+"Player-12-0DC37F15",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aCeldine-SilverHand|r",
+[51] = 1669494260,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Explosive Burst on Caldo",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+966,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494245,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Explosive Burst on Caldo",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+975,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494321,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"thanks bro",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+997,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494348,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"np bro",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1001,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494356,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ez",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1009,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494377,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"he killed me",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1010,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494414,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i dieded",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1012,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494419,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"lol yep",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1013,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494361,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"you got blowed up",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1014,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494365,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i coul dnot save you",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1015,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494429,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i need to take a shower and get this boy down for his nap",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1016,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494447,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"then i will come over",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1017,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494449,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ok sweet",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1018,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494457,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i will be ready",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1019,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494461,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"come in here",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1020,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494465,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"this is an inn",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1021,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494468,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"k see you soon",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1022,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494424,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"just log here then eh",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1023,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494426,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"you can keep going if you want, we should just dungeon level",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1024,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494495,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"its faster i think",
+"Caldo-Turalyon",
+"",
+"",
+"Caldo-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1025,
+"Player-3685-0DFD64F7",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffCaldo|r",
+[51] = 1669494498,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"sweet",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1026,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494501,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"see you soon boi",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1027,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1669494507,
+[50] = "CHAT_MSG_PARTY",
+},
+},
 }

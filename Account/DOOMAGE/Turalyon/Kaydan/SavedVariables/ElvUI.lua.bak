@@ -1,2206 +1,2206 @@
 
 ElvCharacterDB = {
-	["ChatHistoryLog"] = {
-		{
-			"LF armorsmith for 418 allied wristguards of companionship", -- [1]
-			"Kaydan-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kaydan-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2550, -- [11]
-			"Player-3685-0A95F80C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Kaydan|r",
-			[51] = 1680378637,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"Heroic Raid VOTI || Full clear 8/8 boss - 260k gold || only Raszageth(AoTC) - 120k", -- [1]
-			"Kissme-Turalyon", -- [2]
-			"", -- [3]
-			"5. Trade (Services) - City", -- [4]
-			"Kissme-Turalyon", -- [5]
-			"", -- [6]
-			42, -- [7]
-			5, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			2552, -- [11]
-			"Player-3685-0E18F5D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffKissme|r",
-			[51] = 1680378721,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"thx for the bracers friend", -- [1]
-			"Grumpyknight-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Grumpyknight-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1809, -- [11]
-			"Player-3685-0E0F4F9D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aGrumpyknight|r",
-			[51] = 1680743472,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [3]
-		{
-			"are you able to proc 418 on those? I can send you a recraft", -- [1]
-			"Grumpyknight-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Grumpyknight-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1811, -- [11]
-			"Player-3685-0E0F4F9D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aGrumpyknight|r",
-			[51] = 1680743560,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [4]
-		{
-			"anyone know why I am not seeing the mount available for purchase in the trading post?", -- [1]
-			"Dionetes-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Dionetes-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			46, -- [11]
-			"Player-64-0EF4787E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebDionetes-Duskwood|r",
-			[51] = 1682985412,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"cause there isnt one?", -- [1]
-			"Majexs-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Majexs-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			49, -- [11]
-			"Player-3685-07250074", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaMajexs|r",
-			[51] = 1682985370,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"LFR |cffa335ee|Hitem:204217::::::::70:262:::::::::|h[Unstable Elementium]|h|r crafter", -- [1]
-			"Naf-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Naf-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			278, -- [11]
-			"Player-3685-09BD7348", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddNaf|r",
-			[51] = 1682986843,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"did i just get baited", -- [1]
-			"Kikehwet-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Kikehwet-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			929, -- [11]
-			"Player-73-0ED882BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
-			[51] = 1685050682,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"to come back to the sl ", -- [1]
-			"Kikehwet-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Kikehwet-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			930, -- [11]
-			"Player-73-0ED882BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
-			[51] = 1685050748,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"is the wa accurate?", -- [1]
-			"Kikehwet-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Kikehwet-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			931, -- [11]
-			"Player-73-0ED882BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
-			[51] = 1685050777,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"it was just in tal but actually onharan or something", -- [1]
-			"Kikehwet-BleedingHollow", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Kikehwet-BleedingHollow", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			932, -- [11]
-			"Player-73-0ED882BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKikehwet-BleedingHollow|r",
-			[51] = 1685050792,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"if youre using 1.0.2 yes", -- [1]
-			"Sedethul-Thunderhorn", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Sedethul-Thunderhorn", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			934, -- [11]
-			"Player-1129-0B8E9ED3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fSedethul-Thunderhorn|r",
-			[51] = 1685050816,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"alright wheres that gay little goblin gonna spawn", -- [1]
-			"Rubidhius-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Rubidhius-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			937, -- [11]
-			"Player-64-0EEADE9D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fRubidhius-Duskwood|r",
-			[51] = 1685050941,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"Somewhere.", -- [1]
-			"Sigvardr-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Sigvardr-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			938, -- [11]
-			"Player-3685-0717EC54", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dSigvardr|r",
-			[51] = 1685050976,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"|cffffd000|Htrade:Player-3685-0E0F4F9D:2018:164|h[Blacksmithing]|h|r Max Weaponsmith Shields/Bracers/Belts/Legs", -- [1]
-			"Grumpyknight-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Grumpyknight-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			942, -- [11]
-			"Player-3685-0E0F4F9D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aGrumpyknight|r",
-			[51] = 1685051084,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"LF |cffa335ee|Hitem:193463::::::::70:262::13:1:3524:4:40:387:38:8:45:204682:48:204440:::::|h[Wind Spirit's Lasso |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r craft", -- [1]
-			"Timothy-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Timothy-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			947, -- [11]
-			"Player-3685-09E8D88F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddTimothy|r",
-			[51] = 1685051126,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"next goblin is in org right?", -- [1]
-			"Augua-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Augua-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			959, -- [11]
-			"Player-3685-06F54B0F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aAugua|r",
-			[51] = 1685051503,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			"Ahoy.", -- [1]
-			"Wolfsorr-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wolfsorr-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			960, -- [11]
-			"Player-3685-0E2219A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dWolfsorr|r",
-			[51] = 1685051510,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"thats the word", -- [1]
-			"Hugugg-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hugugg-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			961, -- [11]
-			"Player-3685-0DF1587E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aHugugg|r",
-			[51] = 1685051513,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"yes, theres a WA made by voz that will tell  you NA times", -- [1]
-			"Kawaii-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kawaii-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			962, -- [11]
-			"Player-3685-0AA37E76", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00ff98Kawaii|r",
-			[51] = 1685051518,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"Bird?", -- [1]
-			"Wolfsorr-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wolfsorr-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			963, -- [11]
-			"Player-3685-0E2219A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dWolfsorr|r",
-			[51] = 1685051519,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"|cffffff00Valley of Strength is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Orgrimmar", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Orgrimmar", -- [9]
-			0, -- [10]
-			966, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1685051541,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"that is teh word", -- [1]
-			"Hugugg-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hugugg-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			970, -- [11]
-			"Player-3685-0DF1587E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aHugugg|r",
-			[51] = 1685051556,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"Max |cffffd000|Htrade:Player-3685-0D98EA7B:2018:164|h[Blacksmithing]|h|r Weapons/Shields/Pants/Wrist spec 41%insp", -- [1]
-			"Hexadin-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hexadin-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			974, -- [11]
-			"Player-3685-0D98EA7B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaHexadin|r",
-			[51] = 1685051566,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"|cffffff00Valley of Strength is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Orgrimmar", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Orgrimmar", -- [9]
-			0, -- [10]
-			979, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1685051604,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"|cffffff00Valley of Strength is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Orgrimmar", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Orgrimmar", -- [9]
-			0, -- [10]
-			981, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1685051664,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"|cffffff00The Broken Tusk is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Orgrimmar", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Orgrimmar", -- [9]
-			0, -- [10]
-			985, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1685051695,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"|cffffd000|Htrade:Player-3685-0E0F4F9D:2018:164|h[Blacksmithing]|h|r Max Weaponsmith Shields/Bracers/Belts/Legs", -- [1]
-			"Grumpyknight-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Grumpyknight-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			986, -- [11]
-			"Player-3685-0E0F4F9D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aGrumpyknight|r",
-			[51] = 1685051698,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"VoH", -- [1]
-			"Kathieelee-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Kathieelee-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			991, -- [11]
-			"Player-3685-0723B9F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaKathieelee|r",
-			[51] = 1685052036,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"go go go!", -- [1]
-			"Knibbler-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Knibbler-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			992, -- [11]
-			"Player-64-0ED37AB5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebKnibbler-Duskwood|r",
-			[51] = 1685052044,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"just for the record it is incredibly stressful to interrupt what i'm doing elsewhere every 30 mins to farm this thing.", -- [1]
-			"Kathieelee-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kathieelee-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1004, -- [11]
-			"Player-3685-0723B9F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaKathieelee|r",
-			[51] = 1685052257,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"eh fly to wheres next and pop on a movie no stress", -- [1]
-			"Hugugg-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hugugg-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1005, -- [11]
-			"Player-3685-0DF1587E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aHugugg|r",
-			[51] = 1685052285,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"next is azure span", -- [1]
-			"Augua-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Augua-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1028, -- [11]
-			"Player-3685-06F54B0F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aAugua|r",
-			[51] = 1685052310,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"well i have an alt doing it, main doing other stuff plus an old ally toon for SW but still.  i cna't handle much.", -- [1]
-			"Kathieelee-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kathieelee-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1029, -- [11]
-			"Player-3685-0723B9F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaKathieelee|r",
-			[51] = 1685052316,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"Have you considered that nobody cares?", -- [1]
-			"Wolfsorr-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wolfsorr-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1030, -- [11]
-			"Player-3685-0E2219A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dWolfsorr|r",
-			[51] = 1685052317,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"ty", -- [1]
-			"Kathieelee-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kathieelee-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1031, -- [11]
-			"Player-3685-0723B9F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaKathieelee|r",
-			[51] = 1685052317,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"send it back in the womb", -- [1]
-			"Augua-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Augua-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1032, -- [11]
-			"Player-3685-06F54B0F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aAugua|r",
-			[51] = 1685052341,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"anyone need baa pet? got an extra", -- [1]
-			"Velinin-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Velinin-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			1042, -- [11]
-			"Player-64-03306E60", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aVelinin-Bloodhoof|r",
-			[51] = 1685052380,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"That one goat man said \"Your are not prepared\" once. That was pretty cool.", -- [1]
-			"Ruka-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Ruka-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-64-0F0BD11E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dRuka-Bloodhoof|r",
-			[51] = 1685117004,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
-		{
-			"Illidan is erotic, change my mind.", -- [1]
-			"Deathfox-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Deathfox-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			3, -- [11]
-			"Player-64-0E1B4163", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aDeathfox-Bloodhoof|r",
-			[51] = 1685117031,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"yee yee", -- [1]
-			"Xanzz-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Xanzz-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			4, -- [11]
-			"Player-64-0B37833E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaXanzz-Duskwood|r",
-			[51] = 1685117035,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"is waking shores next?", -- [1]
-			"Barticus-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Barticus-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			5, -- [11]
-			"Player-64-027EB8B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBarticus-Bloodhoof|r",
-			[51] = 1685117039,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Actually he said it twice if you did nighthold mythic", -- [1]
-			"Gatecreeper-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Gatecreeper-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			7, -- [11]
-			"Player-64-0EC5A256", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeGatecreeper-Duskwood|r",
-			[51] = 1685117047,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"ill wake your shores", -- [1]
-			"Majexs-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Majexs-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			8, -- [11]
-			"Player-3685-07250074", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMajexs|r",
-			[51] = 1685117050,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"Knot me, bat daddy", -- [1]
-			"Ruka-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Ruka-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			9, -- [11]
-			"Player-64-0F0BD11E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dRuka-Bloodhoof|r",
-			[51] = 1685117054,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"niiiiiiice", -- [1]
-			"Barticus-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Barticus-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			10, -- [11]
-			"Player-64-027EB8B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBarticus-Bloodhoof|r",
-			[51] = 1685117060,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-17594-64-54049239|h[Guild: No Pain No Gain]|h|r] Casual guild looking to fill its ranks for DF: Casual play, Questing, Social, Mythic+!  Accepting all classes / roles and experience level! PST for more information!", -- [1]
-			"Shlagors-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Shlagors-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			11, -- [11]
-			"Player-64-0897F7B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dShlagors-Duskwood|r",
-			[51] = 1685117064,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
-		{
-			"he melts and then you see the health adjust to players", -- [1]
-			"Baraxxus-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Baraxxus-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			15, -- [11]
-			"Player-3685-0DF2F5B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dBaraxxus|r",
-			[51] = 1685117078,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
-		{
-			"anyone need the pet", -- [1]
-			"Majexs-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Majexs-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			18, -- [11]
-			"Player-3685-07250074", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMajexs|r",
-			[51] = 1685117088,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"Yes!", -- [1]
-			"Wintekowa-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wintekowa-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			19, -- [11]
-			"Player-64-0BFF85B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aWintekowa-Duskwood|r",
-			[51] = 1685117092,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"anyone not need the ag?", -- [1]
-			"Bmadbro-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bmadbro-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			20, -- [11]
-			"Player-60-0EF049B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Bmadbro-Stormrage|r",
-			[51] = 1685117094,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
-		{
-			"i do", -- [1]
-			"Hayld-Drak'Tharon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hayld-Drak'Tharon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			21, -- [11]
-			"Player-127-08C1D4B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffHayld-Drak'Tharon|r",
-			[51] = 1685117097,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
-		{
-			"bag\"", -- [1]
-			"Bmadbro-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bmadbro-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			22, -- [11]
-			"Player-60-0EF049B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Bmadbro-Stormrage|r",
-			[51] = 1685117097,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
-		{
-			"I GOT A 200 ARMOR CHARM OH FUCK YES I AM A GOD NOW", -- [1]
-			"Deathfox-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Deathfox-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			24, -- [11]
-			"Player-64-0E1B4163", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc41e3aDeathfox-Bloodhoof|r",
-			[51] = 1685117098,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
-		{
-			"open trade for Pet!", -- [1]
-			"Shiro-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shiro-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			27, -- [11]
-			"Player-3685-0ACF2EF1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Shiro|r",
-			[51] = 1685117043,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"ty", -- [1]
-			"Wintekowa-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wintekowa-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			28, -- [11]
-			"Player-64-0BFF85B1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aWintekowa-Duskwood|r",
-			[51] = 1685117044,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
-		{
-			"to the waking shores, gl all ", -- [1]
-			"Histar-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Histar-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			29, -- [11]
-			"Player-3685-0E10ABB3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aHistar|r",
-			[51] = 1685117106,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
-		{
-			"anyone need the pet?", -- [1]
-			"Cloonshot-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cloonshot-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			30, -- [11]
-			"Player-3685-0E1AB4CD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Cloonshot|r",
-			[51] = 1685117110,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"still complaining about loot. shocker.", -- [1]
-			"Porunga-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Porunga-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			31, -- [11]
-			"Player-3685-0DF84C98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fPorunga|r",
-			[51] = 1685117111,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
-		{
-			"My warrior mana has increased infinity percent! |cff0070dd|Hitem:142549::::::::10:72:::::::::|h[Serpent's Grand Charm]|h|r", -- [1]
-			"Ruka-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Ruka-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			32, -- [11]
-			"Player-64-0F0BD11E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dRuka-Bloodhoof|r",
-			[51] = 1685117111,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
-		{
-			"WILL TRADE PET FGOR BAG", -- [1]
-			"Bmadbro-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bmadbro-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			34, -- [11]
-			"Player-60-0EF049B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Bmadbro-Stormrage|r",
-			[51] = 1685117113,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"pet available if anyone needs", -- [1]
-			"Knibbler-Duskwood", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Knibbler-Duskwood", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			36, -- [11]
-			"Player-64-0ED37AB5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebKnibbler-Duskwood|r",
-			[51] = 1685117117,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"wisdom for gobli", -- [1]
-			"Shlagors-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Shlagors-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			2477, -- [11]
-			"Player-64-0897F7B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dShlagors-Duskwood|r",
-			[51] = 1685397557,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
-		{
-			"The term is gobo", -- [1]
-			"Toxìc-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Toxìc-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2482, -- [11]
-			"Player-3685-07A18703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffff468Toxìc|r",
-			[51] = 1685397670,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
-		{
-			"i thought it was gobi kotick", -- [1]
-			"Saelsael-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saelsael-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2483, -- [11]
-			"Player-3685-0E034BC8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aSaelsael|r",
-			[51] = 1685397759,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
-		{
-			"Gabimaru", -- [1]
-			"Blackreign-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Blackreign-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2484, -- [11]
-			"Player-3685-0A6F5B56", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aBlackreign|r",
-			[51] = 1685397776,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
-		{
-			"nah that one would escape with a golden parachute", -- [1]
-			"Kaydan-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kaydan-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2486, -- [11]
-			"Player-3685-0A95F80C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Kaydan|r",
-			[51] = 1685397724,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
-		{
-			"loves you.", -- [1]
-			"Sebbastian-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sebbastian-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2487, -- [11]
-			"Player-3685-0710FB3E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSebbastian|r",
-			[51] = 1685397736,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [68]
-		{
-			"can anyone craft |cffa335ee|Hitem:204681::::::::70:263::13:1:3524::::::|h[Enchanted Whelpling's Shadowflame Crest]|h|r?", -- [1]
-			"Gorok-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gorok-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2489, -- [11]
-			"Player-3685-0DECF4EA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddGorok|r",
-			[51] = 1685397827,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
-		{
-			"is there a Black Friday sale? ", -- [1]
-			"Aires-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aires-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2490, -- [11]
-			"Player-3685-07157805", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dAires|r",
-			[51] = 1685397831,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"yea...Treasure Goblins ", -- [1]
-			"Grummcrush-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Grummcrush-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2492, -- [11]
-			"Player-64-06242F39", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aGrummcrush-Bloodhoof|r",
-			[51] = 1685397799,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"when does this stupid fckin event end, i gotta play d4 in less than 80 hours", -- [1]
-			"Saelsael-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saelsael-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2493, -- [11]
-			"Player-3685-0E034BC8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aSaelsael|r",
-			[51] = 1685397867,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
-		{
-			"let's fight over TVs!", -- [1]
-			"Aires-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aires-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2495, -- [11]
-			"Player-3685-07157805", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dAires|r",
-			[51] = 1685397871,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"Stop pushing", -- [1]
-			"ßella-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"ßella-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2496, -- [11]
-			"Player-3685-07049501", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffßella|r",
-			[51] = 1685397881,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"6/15 iirc", -- [1]
-			"Irarelybathe-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Irarelybathe-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2497, -- [11]
-			"Player-3685-0E223A23", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaIrarelybathe|r",
-			[51] = 1685397883,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
-		{
-			"How about no", -- [1]
-			"Toxìc-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toxìc-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2498, -- [11]
-			"Player-3685-07A18703", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Toxìc|r",
-			[51] = 1685397884,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [76]
-		{
-			"what is a TV", -- [1]
-			"Dazzle-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dazzle-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2499, -- [11]
-			"Player-64-0991A1DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffDazzle-Bloodhoof|r",
-			[51] = 1685397884,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"who touched my butt", -- [1]
-			"Featherstorm-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Featherstorm-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2500, -- [11]
-			"Player-3685-0DFB52C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaFeatherstorm|r",
-			[51] = 1685397891,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Treasure Goby...you're so cool.", -- [1]
-			"Arulumaya-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arulumaya-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2501, -- [11]
-			"Player-3685-08EA939A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Arulumaya|r",
-			[51] = 1685397893,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"whos hand was that?", -- [1]
-			"Fistoffury-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fistoffury-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2502, -- [11]
-			"Player-64-0BFDA2DC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Fistoffury-Bloodhoof|r",
-			[51] = 1685397893,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"that thing you used to watch", -- [1]
-			"Irarelybathe-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Irarelybathe-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2503, -- [11]
-			"Player-3685-0E223A23", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaIrarelybathe|r",
-			[51] = 1685397895,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
-		{
-			"And with your mount I'm gonna rule", -- [1]
-			"Arulumaya-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arulumaya-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2504, -- [11]
-			"Player-3685-08EA939A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Arulumaya|r",
-			[51] = 1685397899,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
-		{
-			"throw small children in the path to block other adults", -- [1]
-			"Stihlhoof-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stihlhoof-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2505, -- [11]
-			"Player-3685-0A28844E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dStihlhoof|r",
-			[51] = 1685397841,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
-		{
-			"so go play we won't miss you", -- [1]
-			"Bozzo-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bozzo-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2506, -- [11]
-			"Player-3685-07243489", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeBozzo|r",
-			[51] = 1685397843,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
-		{
-			"play smart", -- [1]
-			"Stihlhoof-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stihlhoof-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2507, -- [11]
-			"Player-3685-0A28844E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dStihlhoof|r",
-			[51] = 1685397844,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
-		{
-			"Oh Treasure Goby...understand.", -- [1]
-			"Arulumaya-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arulumaya-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2509, -- [11]
-			"Player-3685-08EA939A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Arulumaya|r",
-			[51] = 1685397847,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
-		{
-			"I am but a troll in the world of warcraft", -- [1]
-			"Dazzle-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dazzle-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2510, -- [11]
-			"Player-64-0991A1DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffDazzle-Bloodhoof|r",
-			[51] = 1685397850,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"I'm gonna farm you to the very end.", -- [1]
-			"Arulumaya-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Arulumaya-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2511, -- [11]
-			"Player-3685-08EA939A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Arulumaya|r",
-			[51] = 1685397852,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"is TV The Voodoo?", -- [1]
-			"Dazzle-Bloodhoof", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dazzle-Bloodhoof", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			2512, -- [11]
-			"Player-64-0991A1DD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffDazzle-Bloodhoof|r",
-			[51] = 1685397860,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
-		{
-			"im missing the 2 of the wirt's otherwise id be fine just logging in doing a weekly m+", -- [1]
-			"Saelsael-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saelsael-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2513, -- [11]
-			"Player-3685-0E034BC8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aSaelsael|r",
-			[51] = 1685397935,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
-		{
-			"LF ENGINEER for recraft |cffa335ee|Hitem:198327::::::::70:105::13:1:3524:4:40:559:38:4:48:198238:52:206959:::::|h[Needlessly Complex Wristguards |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
-			"Foxform-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Foxform-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-3685-0CCE2C18", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aFoxform|r",
-			[51] = 1702624177,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
-		{
-			"LF tailor to recaft |cffa335ee|Hitem:193510::::::::70:266::13:1:3524:6:40:451:38:4:45:206960:46:194572:47:204710:50:206959:::::|h[Vibrant Wildercloth Wristwraps |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
-			"Emeraldflame-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Emeraldflame-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-3685-0712A510", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeEmeraldflame|r",
-			[51] = 1702625345,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
-		{
-			"how do i get onto the wall with the hierloom vendor without flying", -- [1]
-			"Curlyslash-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Orgrimmar", -- [4]
-			"Curlyslash-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Orgrimmar", -- [9]
-			0, -- [10]
-			295, -- [11]
-			"Player-3685-0E52A5F0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Curlyslash|r",
-			[51] = 1702626497,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
-		{
-			"LF Jewelcrafter Recraft |cffa335ee|Hitem:193002::::::::70:64::13:1:3524:6:40:261:38:4:48:194569:49:206961:50:206959:51:212536:::::|h[Choker of Shielding |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r", -- [1]
-			"Déäth-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Déäth-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			81, -- [11]
-			"Player-3685-079F5ABF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebDéäth|r",
-			[51] = 1702795980,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
-		{
-			"LF JC to craft lariat", -- [1]
-			"Allymarie-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Allymarie-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			162, -- [11]
-			"Player-3685-0DD7CC21", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffAllymarie|r",
-			[51] = 1702710254,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
-		{
-			"lf |cffa335ee|Hitem:192999::::::::70:253::13:1:3524:2:40:258:38:4:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r craft pst", -- [1]
-			"Aeradom-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Aeradom-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			787, -- [11]
-			"Player-3685-0ABAC219", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Aeradom|r",
-			[51] = 1702846570,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
-		{
-			"gently pats Kilpi.", -- [1]
-			"Tapionnuq", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kaydan-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			396, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Tapionnuq",
-			[51] = 1704012325,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [97]
-		{
-			"gently pats Kilpi.", -- [1]
-			"Tapionnuq", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kaydan-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			397, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Tapionnuq",
-			[51] = 1704012329,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [98]
-		{
-			"gently pats Kilpi.", -- [1]
-			"Tapionnuq", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kaydan-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			402, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Tapionnuq",
-			[51] = 1704012390,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [99]
-	},
-	["ChatEditHistory"] = {
-		"just started yesterday but i had this toon 120 for a while", -- [1]
-		"so i had some rep already from leveling", -- [2]
-		"im shit geared too, i just sent some of my corrupted token things to this char and i can smash the wq open world content easy", -- [3]
-		"haven't tried to unlock visions or antyhing, just doing wqs for rep", -- [4]
-		"yep another reason i picked dh for my horde toon", -- [5]
-		"lol", -- [6]
-		"19.6k/21000 with honorbound", -- [7]
-		"got 2k rep from the assault", -- [8]
-		"just from the turn-in", -- [9]
-		"not counting the wqs", -- [10]
-		"/2 LF armorsmith for 418 allied wristguards of companionship", -- [11]
-		"/who blacksmith", -- [12]
-		"/who", -- [13]
-		"/cw grumpyknight thx for the bracers friend", -- [14]
-		"/cw grumpyknight are you able to proc 418 on those? I can send you a recraft", -- [15]
-		"/2 nah that one would escape with a golden parachute", -- [16]
-		"/who Grumpyknight", -- [17]
-		"/cw grumpyknight are you able to proc rank 5 boots?", -- [18]
-		"/wa", -- [19]
-		"/macro", -- [20]
-	},
-	["ConvertKeybindings"] = true,
+["ChatHistoryLog"] = {
+{
+"LF armorsmith for 418 allied wristguards of companionship",
+"Kaydan-Turalyon",
+"",
+"2. Trade - City",
+"Kaydan-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2550,
+"Player-3685-0A95F80C",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Kaydan|r",
+[51] = 1680378637,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Heroic Raid VOTI || Full clear 8/8 boss - 260k gold || only Raszageth(AoTC) - 120k",
+"Kissme-Turalyon",
+"",
+"5. Trade (Services) - City",
+"Kissme-Turalyon",
+"",
+42,
+5,
+"Trade (Services) - City",
+0,
+2552,
+"Player-3685-0E18F5D6",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffffffffKissme|r",
+[51] = 1680378721,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"thx for the bracers friend",
+"Grumpyknight-Turalyon",
+"",
+"",
+"Grumpyknight-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1809,
+"Player-3685-0E0F4F9D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aGrumpyknight|r",
+[51] = 1680743472,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"are you able to proc 418 on those? I can send you a recraft",
+"Grumpyknight-Turalyon",
+"",
+"",
+"Grumpyknight-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1811,
+"Player-3685-0E0F4F9D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aGrumpyknight|r",
+[51] = 1680743560,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"anyone know why I am not seeing the mount available for purchase in the trading post?",
+"Dionetes-Duskwood",
+"",
+"1. General - Orgrimmar",
+"Dionetes-Duskwood",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+46,
+"Player-64-0EF4787E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebDionetes-Duskwood|r",
+[51] = 1682985412,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"cause there isnt one?",
+"Majexs-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Majexs-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+49,
+"Player-3685-07250074",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaMajexs|r",
+[51] = 1682985370,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LFR |cffa335ee|Hitem:204217::::::::70:262:::::::::|h[Unstable Elementium]|h|r crafter",
+"Naf-Turalyon",
+"",
+"2. Trade - City",
+"Naf-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+278,
+"Player-3685-09BD7348",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddNaf|r",
+[51] = 1682986843,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"did i just get baited",
+"Kikehwet-BleedingHollow",
+"",
+"1. General - Oribos",
+"Kikehwet-BleedingHollow",
+"",
+1,
+1,
+"General - Oribos",
+0,
+929,
+"Player-73-0ED882BC",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKikehwet-BleedingHollow|r",
+[51] = 1685050682,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"to come back to the sl ",
+"Kikehwet-BleedingHollow",
+"",
+"1. General - Oribos",
+"Kikehwet-BleedingHollow",
+"",
+1,
+1,
+"General - Oribos",
+0,
+930,
+"Player-73-0ED882BC",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKikehwet-BleedingHollow|r",
+[51] = 1685050748,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"is the wa accurate?",
+"Kikehwet-BleedingHollow",
+"",
+"1. General - Oribos",
+"Kikehwet-BleedingHollow",
+"",
+1,
+1,
+"General - Oribos",
+0,
+931,
+"Player-73-0ED882BC",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKikehwet-BleedingHollow|r",
+[51] = 1685050777,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"it was just in tal but actually onharan or something",
+"Kikehwet-BleedingHollow",
+"",
+"1. General - Oribos",
+"Kikehwet-BleedingHollow",
+"",
+1,
+1,
+"General - Oribos",
+0,
+932,
+"Player-73-0ED882BC",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKikehwet-BleedingHollow|r",
+[51] = 1685050792,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"if youre using 1.0.2 yes",
+"Sedethul-Thunderhorn",
+"",
+"1. General - Oribos",
+"Sedethul-Thunderhorn",
+"",
+1,
+1,
+"General - Oribos",
+0,
+934,
+"Player-1129-0B8E9ED3",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fSedethul-Thunderhorn|r",
+[51] = 1685050816,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"alright wheres that gay little goblin gonna spawn",
+"Rubidhius-Duskwood",
+"",
+"1. General - Orgrimmar",
+"Rubidhius-Duskwood",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+937,
+"Player-64-0EEADE9D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fRubidhius-Duskwood|r",
+[51] = 1685050941,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Somewhere.",
+"Sigvardr-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Sigvardr-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+938,
+"Player-3685-0717EC54",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dSigvardr|r",
+[51] = 1685050976,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffd000|Htrade:Player-3685-0E0F4F9D:2018:164|h[Blacksmithing]|h|r Max Weaponsmith Shields/Bracers/Belts/Legs",
+"Grumpyknight-Turalyon",
+"",
+"2. Trade - City",
+"Grumpyknight-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+942,
+"Player-3685-0E0F4F9D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc41e3aGrumpyknight|r",
+[51] = 1685051084,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LF |cffa335ee|Hitem:193463::::::::70:262::13:1:3524:4:40:387:38:8:45:204682:48:204440:::::|h[Wind Spirit's Lasso |A:Professions-ChatIcon-Quality-Tier5:17:17::1|a]|h|r craft",
+"Timothy-Turalyon",
+"",
+"2. Trade - City",
+"Timothy-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+947,
+"Player-3685-09E8D88F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddTimothy|r",
+[51] = 1685051126,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"next goblin is in org right?",
+"Augua-Turalyon",
+"",
+"2. Trade - City",
+"Augua-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+959,
+"Player-3685-06F54B0F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aAugua|r",
+[51] = 1685051503,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Ahoy.",
+"Wolfsorr-Turalyon",
+"",
+"2. Trade - City",
+"Wolfsorr-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+960,
+"Player-3685-0E2219A6",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dWolfsorr|r",
+[51] = 1685051510,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"thats the word",
+"Hugugg-Turalyon",
+"",
+"2. Trade - City",
+"Hugugg-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+961,
+"Player-3685-0DF1587E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aHugugg|r",
+[51] = 1685051513,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"yes, theres a WA made by voz that will tell  you NA times",
+"Kawaii-Turalyon",
+"",
+"2. Trade - City",
+"Kawaii-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+962,
+"Player-3685-0AA37E76",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff00ff98Kawaii|r",
+[51] = 1685051518,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Bird?",
+"Wolfsorr-Turalyon",
+"",
+"2. Trade - City",
+"Wolfsorr-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+963,
+"Player-3685-0E2219A6",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dWolfsorr|r",
+[51] = 1685051519,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Valley of Strength is under attack!|r",
+"",
+"",
+"3. LocalDefense - Orgrimmar",
+"",
+"",
+22,
+3,
+"LocalDefense - Orgrimmar",
+0,
+966,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1685051541,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"that is teh word",
+"Hugugg-Turalyon",
+"",
+"2. Trade - City",
+"Hugugg-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+970,
+"Player-3685-0DF1587E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aHugugg|r",
+[51] = 1685051556,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Max |cffffd000|Htrade:Player-3685-0D98EA7B:2018:164|h[Blacksmithing]|h|r Weapons/Shields/Pants/Wrist spec 41%insp",
+"Hexadin-Turalyon",
+"",
+"2. Trade - City",
+"Hexadin-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+974,
+"Player-3685-0D98EA7B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaHexadin|r",
+[51] = 1685051566,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Valley of Strength is under attack!|r",
+"",
+"",
+"3. LocalDefense - Orgrimmar",
+"",
+"",
+22,
+3,
+"LocalDefense - Orgrimmar",
+0,
+979,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1685051604,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Valley of Strength is under attack!|r",
+"",
+"",
+"3. LocalDefense - Orgrimmar",
+"",
+"",
+22,
+3,
+"LocalDefense - Orgrimmar",
+0,
+981,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1685051664,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Broken Tusk is under attack!|r",
+"",
+"",
+"3. LocalDefense - Orgrimmar",
+"",
+"",
+22,
+3,
+"LocalDefense - Orgrimmar",
+0,
+985,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1685051695,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffd000|Htrade:Player-3685-0E0F4F9D:2018:164|h[Blacksmithing]|h|r Max Weaponsmith Shields/Bracers/Belts/Legs",
+"Grumpyknight-Turalyon",
+"",
+"2. Trade - City",
+"Grumpyknight-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+986,
+"Player-3685-0E0F4F9D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc41e3aGrumpyknight|r",
+[51] = 1685051698,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"VoH",
+"Kathieelee-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Kathieelee-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+991,
+"Player-3685-0723B9F1",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaKathieelee|r",
+[51] = 1685052036,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"go go go!",
+"Knibbler-Duskwood",
+"",
+"1. General - Orgrimmar",
+"Knibbler-Duskwood",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+992,
+"Player-64-0ED37AB5",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebKnibbler-Duskwood|r",
+[51] = 1685052044,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"just for the record it is incredibly stressful to interrupt what i'm doing elsewhere every 30 mins to farm this thing.",
+"Kathieelee-Turalyon",
+"",
+"2. Trade - City",
+"Kathieelee-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1004,
+"Player-3685-0723B9F1",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaKathieelee|r",
+[51] = 1685052257,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"eh fly to wheres next and pop on a movie no stress",
+"Hugugg-Turalyon",
+"",
+"2. Trade - City",
+"Hugugg-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1005,
+"Player-3685-0DF1587E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aHugugg|r",
+[51] = 1685052285,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"next is azure span",
+"Augua-Turalyon",
+"",
+"2. Trade - City",
+"Augua-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1028,
+"Player-3685-06F54B0F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aAugua|r",
+[51] = 1685052310,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"well i have an alt doing it, main doing other stuff plus an old ally toon for SW but still.  i cna't handle much.",
+"Kathieelee-Turalyon",
+"",
+"2. Trade - City",
+"Kathieelee-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1029,
+"Player-3685-0723B9F1",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaKathieelee|r",
+[51] = 1685052316,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Have you considered that nobody cares?",
+"Wolfsorr-Turalyon",
+"",
+"2. Trade - City",
+"Wolfsorr-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1030,
+"Player-3685-0E2219A6",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dWolfsorr|r",
+[51] = 1685052317,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"ty",
+"Kathieelee-Turalyon",
+"",
+"2. Trade - City",
+"Kathieelee-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1031,
+"Player-3685-0723B9F1",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaKathieelee|r",
+[51] = 1685052317,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"send it back in the womb",
+"Augua-Turalyon",
+"",
+"2. Trade - City",
+"Augua-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1032,
+"Player-3685-06F54B0F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aAugua|r",
+[51] = 1685052341,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"anyone need baa pet? got an extra",
+"Velinin-Bloodhoof",
+"",
+"",
+"Velinin-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+1042,
+"Player-64-03306E60",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aVelinin-Bloodhoof|r",
+[51] = 1685052380,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"That one goat man said \"Your are not prepared\" once. That was pretty cool.",
+"Ruka-Bloodhoof",
+"",
+"1. General - Orgrimmar",
+"Ruka-Bloodhoof",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+2,
+"Player-64-0F0BD11E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dRuka-Bloodhoof|r",
+[51] = 1685117004,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Illidan is erotic, change my mind.",
+"Deathfox-Bloodhoof",
+"",
+"1. General - Orgrimmar",
+"Deathfox-Bloodhoof",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+3,
+"Player-64-0E1B4163",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc41e3aDeathfox-Bloodhoof|r",
+[51] = 1685117031,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"yee yee",
+"Xanzz-Duskwood",
+"",
+"",
+"Xanzz-Duskwood",
+"",
+0,
+0,
+"",
+1,
+4,
+"Player-64-0B37833E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaXanzz-Duskwood|r",
+[51] = 1685117035,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"is waking shores next?",
+"Barticus-Bloodhoof",
+"",
+"",
+"Barticus-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+5,
+"Player-64-027EB8B4",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dBarticus-Bloodhoof|r",
+[51] = 1685117039,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Actually he said it twice if you did nighthold mythic",
+"Gatecreeper-Duskwood",
+"",
+"1. General - Orgrimmar",
+"Gatecreeper-Duskwood",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+7,
+"Player-64-0EC5A256",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeGatecreeper-Duskwood|r",
+[51] = 1685117047,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"ill wake your shores",
+"Majexs-Turalyon",
+"",
+"",
+"Majexs-Turalyon",
+"",
+0,
+0,
+"",
+1,
+8,
+"Player-3685-07250074",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaMajexs|r",
+[51] = 1685117050,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Knot me, bat daddy",
+"Ruka-Bloodhoof",
+"",
+"1. General - Orgrimmar",
+"Ruka-Bloodhoof",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+9,
+"Player-64-0F0BD11E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dRuka-Bloodhoof|r",
+[51] = 1685117054,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"niiiiiiice",
+"Barticus-Bloodhoof",
+"",
+"",
+"Barticus-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+10,
+"Player-64-027EB8B4",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dBarticus-Bloodhoof|r",
+[51] = 1685117060,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"|cffffd100|HclubFinder:ClubFinder-1-17594-64-54049239|h[Guild: No Pain No Gain]|h|r] Casual guild looking to fill its ranks for DF: Casual play, Questing, Social, Mythic+!  Accepting all classes / roles and experience level! PST for more information!",
+"Shlagors-Duskwood",
+"",
+"1. General - Orgrimmar",
+"Shlagors-Duskwood",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+11,
+"Player-64-0897F7B7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dShlagors-Duskwood|r",
+[51] = 1685117064,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"he melts and then you see the health adjust to players",
+"Baraxxus-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Baraxxus-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+15,
+"Player-3685-0DF2F5B1",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dBaraxxus|r",
+[51] = 1685117078,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"anyone need the pet",
+"Majexs-Turalyon",
+"",
+"",
+"Majexs-Turalyon",
+"",
+0,
+0,
+"",
+1,
+18,
+"Player-3685-07250074",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaMajexs|r",
+[51] = 1685117088,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Yes!",
+"Wintekowa-Duskwood",
+"",
+"",
+"Wintekowa-Duskwood",
+"",
+0,
+0,
+"",
+1,
+19,
+"Player-64-0BFF85B1",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aWintekowa-Duskwood|r",
+[51] = 1685117092,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"anyone not need the ag?",
+"Bmadbro-Stormrage",
+"",
+"",
+"Bmadbro-Stormrage",
+"",
+0,
+0,
+"",
+1,
+20,
+"Player-60-0EF049B0",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bmadbro-Stormrage|r",
+[51] = 1685117094,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"i do",
+"Hayld-Drak'Tharon",
+"",
+"",
+"Hayld-Drak'Tharon",
+"",
+0,
+0,
+"",
+1,
+21,
+"Player-127-08C1D4B9",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffHayld-Drak'Tharon|r",
+[51] = 1685117097,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"bag\"",
+"Bmadbro-Stormrage",
+"",
+"",
+"Bmadbro-Stormrage",
+"",
+0,
+0,
+"",
+1,
+22,
+"Player-60-0EF049B0",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bmadbro-Stormrage|r",
+[51] = 1685117097,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"I GOT A 200 ARMOR CHARM OH FUCK YES I AM A GOD NOW",
+"Deathfox-Bloodhoof",
+"",
+"1. General - Orgrimmar",
+"Deathfox-Bloodhoof",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+24,
+"Player-64-0E1B4163",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc41e3aDeathfox-Bloodhoof|r",
+[51] = 1685117098,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"open trade for Pet!",
+"Shiro-Turalyon",
+"",
+"",
+"Shiro-Turalyon",
+"",
+0,
+0,
+"",
+1,
+27,
+"Player-3685-0ACF2EF1",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Shiro|r",
+[51] = 1685117043,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"ty",
+"Wintekowa-Duskwood",
+"",
+"",
+"Wintekowa-Duskwood",
+"",
+0,
+0,
+"",
+1,
+28,
+"Player-64-0BFF85B1",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aWintekowa-Duskwood|r",
+[51] = 1685117044,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"to the waking shores, gl all ",
+"Histar-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Histar-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+29,
+"Player-3685-0E10ABB3",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aHistar|r",
+[51] = 1685117106,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"anyone need the pet?",
+"Cloonshot-Turalyon",
+"",
+"",
+"Cloonshot-Turalyon",
+"",
+0,
+0,
+"",
+1,
+30,
+"Player-3685-0E1AB4CD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Cloonshot|r",
+[51] = 1685117110,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"still complaining about loot. shocker.",
+"Porunga-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Porunga-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+31,
+"Player-3685-0DF84C98",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fPorunga|r",
+[51] = 1685117111,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"My warrior mana has increased infinity percent! |cff0070dd|Hitem:142549::::::::10:72:::::::::|h[Serpent's Grand Charm]|h|r",
+"Ruka-Bloodhoof",
+"",
+"1. General - Orgrimmar",
+"Ruka-Bloodhoof",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+32,
+"Player-64-0F0BD11E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dRuka-Bloodhoof|r",
+[51] = 1685117111,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"WILL TRADE PET FGOR BAG",
+"Bmadbro-Stormrage",
+"",
+"",
+"Bmadbro-Stormrage",
+"",
+0,
+0,
+"",
+1,
+34,
+"Player-60-0EF049B0",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bmadbro-Stormrage|r",
+[51] = 1685117113,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"pet available if anyone needs",
+"Knibbler-Duskwood",
+"",
+"",
+"Knibbler-Duskwood",
+"",
+0,
+0,
+"",
+1,
+36,
+"Player-64-0ED37AB5",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebKnibbler-Duskwood|r",
+[51] = 1685117117,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"wisdom for gobli",
+"Shlagors-Duskwood",
+"",
+"1. General - Orgrimmar",
+"Shlagors-Duskwood",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+2477,
+"Player-64-0897F7B7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dShlagors-Duskwood|r",
+[51] = 1685397557,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"The term is gobo",
+"Toxìc-Turalyon",
+"",
+"2. Trade - City",
+"Toxìc-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2482,
+"Player-3685-07A18703",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffff468Toxìc|r",
+[51] = 1685397670,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"i thought it was gobi kotick",
+"Saelsael-Turalyon",
+"",
+"2. Trade - City",
+"Saelsael-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2483,
+"Player-3685-0E034BC8",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aSaelsael|r",
+[51] = 1685397759,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Gabimaru",
+"Blackreign-Turalyon",
+"",
+"2. Trade - City",
+"Blackreign-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2484,
+"Player-3685-0A6F5B56",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aBlackreign|r",
+[51] = 1685397776,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"nah that one would escape with a golden parachute",
+"Kaydan-Turalyon",
+"",
+"2. Trade - City",
+"Kaydan-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2486,
+"Player-3685-0A95F80C",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Kaydan|r",
+[51] = 1685397724,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"loves you.",
+"Sebbastian-Turalyon",
+"",
+"",
+"Sebbastian-Turalyon",
+"",
+0,
+0,
+"",
+0,
+2487,
+"Player-3685-0710FB3E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaSebbastian|r",
+[51] = 1685397736,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"can anyone craft |cffa335ee|Hitem:204681::::::::70:263::13:1:3524::::::|h[Enchanted Whelpling's Shadowflame Crest]|h|r?",
+"Gorok-Turalyon",
+"",
+"2. Trade - City",
+"Gorok-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2489,
+"Player-3685-0DECF4EA",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddGorok|r",
+[51] = 1685397827,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"is there a Black Friday sale? ",
+"Aires-Turalyon",
+"",
+"",
+"Aires-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2490,
+"Player-3685-07157805",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dAires|r",
+[51] = 1685397831,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"yea...Treasure Goblins ",
+"Grummcrush-Bloodhoof",
+"",
+"",
+"Grummcrush-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+2492,
+"Player-64-06242F39",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aGrummcrush-Bloodhoof|r",
+[51] = 1685397799,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"when does this stupid fckin event end, i gotta play d4 in less than 80 hours",
+"Saelsael-Turalyon",
+"",
+"2. Trade - City",
+"Saelsael-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2493,
+"Player-3685-0E034BC8",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aSaelsael|r",
+[51] = 1685397867,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"let's fight over TVs!",
+"Aires-Turalyon",
+"",
+"",
+"Aires-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2495,
+"Player-3685-07157805",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dAires|r",
+[51] = 1685397871,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Stop pushing",
+"ßella-Turalyon",
+"",
+"",
+"ßella-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2496,
+"Player-3685-07049501",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffßella|r",
+[51] = 1685397881,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"6/15 iirc",
+"Irarelybathe-Turalyon",
+"",
+"2. Trade - City",
+"Irarelybathe-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2497,
+"Player-3685-0E223A23",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaIrarelybathe|r",
+[51] = 1685397883,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"How about no",
+"Toxìc-Turalyon",
+"",
+"",
+"Toxìc-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2498,
+"Player-3685-07A18703",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Toxìc|r",
+[51] = 1685397884,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"what is a TV",
+"Dazzle-Bloodhoof",
+"",
+"",
+"Dazzle-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+2499,
+"Player-64-0991A1DD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffDazzle-Bloodhoof|r",
+[51] = 1685397884,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"who touched my butt",
+"Featherstorm-Turalyon",
+"",
+"",
+"Featherstorm-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2500,
+"Player-3685-0DFB52C8",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaFeatherstorm|r",
+[51] = 1685397891,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Treasure Goby...you're so cool.",
+"Arulumaya-Turalyon",
+"",
+"",
+"Arulumaya-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2501,
+"Player-3685-08EA939A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Arulumaya|r",
+[51] = 1685397893,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"whos hand was that?",
+"Fistoffury-Bloodhoof",
+"",
+"",
+"Fistoffury-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+2502,
+"Player-64-0BFDA2DC",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Fistoffury-Bloodhoof|r",
+[51] = 1685397893,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"that thing you used to watch",
+"Irarelybathe-Turalyon",
+"",
+"",
+"Irarelybathe-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2503,
+"Player-3685-0E223A23",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaIrarelybathe|r",
+[51] = 1685397895,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"And with your mount I'm gonna rule",
+"Arulumaya-Turalyon",
+"",
+"",
+"Arulumaya-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2504,
+"Player-3685-08EA939A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Arulumaya|r",
+[51] = 1685397899,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"throw small children in the path to block other adults",
+"Stihlhoof-Turalyon",
+"",
+"",
+"Stihlhoof-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2505,
+"Player-3685-0A28844E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dStihlhoof|r",
+[51] = 1685397841,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"so go play we won't miss you",
+"Bozzo-Turalyon",
+"",
+"2. Trade - City",
+"Bozzo-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2506,
+"Player-3685-07243489",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeBozzo|r",
+[51] = 1685397843,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"play smart",
+"Stihlhoof-Turalyon",
+"",
+"",
+"Stihlhoof-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2507,
+"Player-3685-0A28844E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dStihlhoof|r",
+[51] = 1685397844,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"Oh Treasure Goby...understand.",
+"Arulumaya-Turalyon",
+"",
+"",
+"Arulumaya-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2509,
+"Player-3685-08EA939A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Arulumaya|r",
+[51] = 1685397847,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"I am but a troll in the world of warcraft",
+"Dazzle-Bloodhoof",
+"",
+"",
+"Dazzle-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+2510,
+"Player-64-0991A1DD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffDazzle-Bloodhoof|r",
+[51] = 1685397850,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"I'm gonna farm you to the very end.",
+"Arulumaya-Turalyon",
+"",
+"",
+"Arulumaya-Turalyon",
+"",
+0,
+0,
+"",
+1,
+2511,
+"Player-3685-08EA939A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffff468Arulumaya|r",
+[51] = 1685397852,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"is TV The Voodoo?",
+"Dazzle-Bloodhoof",
+"",
+"",
+"Dazzle-Bloodhoof",
+"",
+0,
+0,
+"",
+1,
+2512,
+"Player-64-0991A1DD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffDazzle-Bloodhoof|r",
+[51] = 1685397860,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"im missing the 2 of the wirt's otherwise id be fine just logging in doing a weekly m+",
+"Saelsael-Turalyon",
+"",
+"2. Trade - City",
+"Saelsael-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2513,
+"Player-3685-0E034BC8",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aSaelsael|r",
+[51] = 1685397935,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LF ENGINEER for recraft |cffa335ee|Hitem:198327::::::::70:105::13:1:3524:4:40:559:38:4:48:198238:52:206959:::::|h[Needlessly Complex Wristguards |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r",
+"Foxform-Turalyon",
+"",
+"2. Trade - City",
+"Foxform-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+231,
+"Player-3685-0CCE2C18",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aFoxform|r",
+[51] = 1702624177,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LF tailor to recaft |cffa335ee|Hitem:193510::::::::70:266::13:1:3524:6:40:451:38:4:45:206960:46:194572:47:204710:50:206959:::::|h[Vibrant Wildercloth Wristwraps |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r",
+"Emeraldflame-Turalyon",
+"",
+"2. Trade - City",
+"Emeraldflame-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+259,
+"Player-3685-0712A510",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeEmeraldflame|r",
+[51] = 1702625345,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"how do i get onto the wall with the hierloom vendor without flying",
+"Curlyslash-Turalyon",
+"",
+"1. General - Orgrimmar",
+"Curlyslash-Turalyon",
+"",
+1,
+1,
+"General - Orgrimmar",
+0,
+295,
+"Player-3685-0E52A5F0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Curlyslash|r",
+[51] = 1702626497,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LF Jewelcrafter Recraft |cffa335ee|Hitem:193002::::::::70:64::13:1:3524:6:40:261:38:4:48:194569:49:206961:50:206959:51:212536:::::|h[Choker of Shielding |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r",
+"Déäth-Turalyon",
+"",
+"2. Trade - City",
+"Déäth-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+81,
+"Player-3685-079F5ABF",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebDéäth|r",
+[51] = 1702795980,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LF JC to craft lariat",
+"Allymarie-Turalyon",
+"",
+"2. Trade - City",
+"Allymarie-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+162,
+"Player-3685-0DD7CC21",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffffffffAllymarie|r",
+[51] = 1702710254,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"lf |cffa335ee|Hitem:192999::::::::70:253::13:1:3524:2:40:258:38:4:::::|h[Signet of Titanic Insight |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r craft pst",
+"Aeradom-Turalyon",
+"",
+"2. Trade - City",
+"Aeradom-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+787,
+"Player-3685-0ABAC219",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Aeradom|r",
+[51] = 1702846570,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"gently pats Kilpi.",
+"Tapionnuq",
+"",
+"",
+"Kaydan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+396,
+false,
+0,
+false,
+false,
+false,
+false,
+[52] = "Tapionnuq",
+[51] = 1704012325,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"gently pats Kilpi.",
+"Tapionnuq",
+"",
+"",
+"Kaydan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+397,
+false,
+0,
+false,
+false,
+false,
+false,
+[52] = "Tapionnuq",
+[51] = 1704012329,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"gently pats Kilpi.",
+"Tapionnuq",
+"",
+"",
+"Kaydan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+402,
+false,
+0,
+false,
+false,
+false,
+false,
+[52] = "Tapionnuq",
+[51] = 1704012390,
+[50] = "CHAT_MSG_EMOTE",
+},
+},
+["ChatEditHistory"] = {
+"so i had some rep already from leveling",
+"im shit geared too, i just sent some of my corrupted token things to this char and i can smash the wq open world content easy",
+"haven't tried to unlock visions or antyhing, just doing wqs for rep",
+"yep another reason i picked dh for my horde toon",
+"lol",
+"19.6k/21000 with honorbound",
+"got 2k rep from the assault",
+"just from the turn-in",
+"not counting the wqs",
+"/2 LF armorsmith for 418 allied wristguards of companionship",
+"/who blacksmith",
+"/who",
+"/cw grumpyknight thx for the bracers friend",
+"/cw grumpyknight are you able to proc 418 on those? I can send you a recraft",
+"/2 nah that one would escape with a golden parachute",
+"/who Grumpyknight",
+"/cw grumpyknight are you able to proc rank 5 boots?",
+"/wa",
+"/macro",
+"/raidinfo",
+},
+["ConvertKeybindings"] = true,
 }

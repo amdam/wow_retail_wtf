@@ -1,47 +1,45 @@
 
 SimulationCraftDB = {
 ["profileKeys"] = {
-["Christifur - Turalyon"] = "Christifur - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
-["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Allevin - Turalyon"] = "Allevin - Turalyon",
+["Svend - Turalyon"] = "Svend - Turalyon",
 ["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Aduum - Turalyon"] = "Aduum - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
-["Kaydan - Turalyon"] = "Kaydan - Turalyon",
-["Christoff - Turalyon"] = "Christoff - Turalyon",
-["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Jakar - Turalyon"] = "Jakar - Turalyon",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
-["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Artoc - Zul'jin"] = "Artoc - Zul'jin",
 ["Abel - Turalyon"] = "Abel - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
-["Asaam - Turalyon"] = "Asaam - Turalyon",
-["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Svend - Turalyon"] = "Svend - Turalyon",
-["Allevin - Turalyon"] = "Allevin - Turalyon",
 ["Caris - Turalyon"] = "Caris - Turalyon",
-["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Artoc - Silvermoon"] = "Artoc - Silvermoon",
-["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-["Adris - Turalyon"] = "Adris - Turalyon",
+["Adamn - Turalyon"] = "Adamn - Turalyon",
+["Fernie - Turalyon"] = "Fernie - Turalyon",
+["Kurate - Turalyon"] = "Kurate - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
-["Artoc - Zul'jin"] = "Artoc - Zul'jin",
+["Kaydan - Turalyon"] = "Kaydan - Turalyon",
+["Christoff - Turalyon"] = "Christoff - Turalyon",
+["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Adonis - Turalyon"] = "Adonis - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Christifur - Turalyon"] = "Christifur - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Adris - Turalyon"] = "Adris - Turalyon",
+["Tupac - Turalyon"] = "Tupac - Turalyon",
+["Broddah - Doomhammer"] = "Broddah - Doomhammer",
 ["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
-["Christifur - Turalyon"] = {
+["Allevin - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
-},
-["Kayne - Turalyon"] = {
-["minimap"] = {
-["minimapPos"] = 324.307535653447,
-},
-},
-["Sterbodhehm - Turalyon"] = {
+["Svend - Turalyon"] = {
 },
 ["Adaam - Turalyon"] = {
 },
@@ -49,21 +47,11 @@ SimulationCraftDB = {
 },
 ["Aduum - Turalyon"] = {
 },
-["Adrid - Turalyon"] = {
-["frame"] = {
-["ofsx"] = 7.780948362778872e-05,
-["ofsy"] = 3.890474181389436e-05,
-},
-},
-["Kaydan - Turalyon"] = {
-},
-["Christoff - Turalyon"] = {
-},
-["Dreg - Turalyon"] = {
+["Jakar - Turalyon"] = {
 },
 ["Adamian - Turalyon"] = {
 },
-["Amdamn - Bloodscalp"] = {
+["Artoc - Zul'jin"] = {
 },
 ["Abel - Turalyon"] = {
 },
@@ -76,19 +64,21 @@ SimulationCraftDB = {
 ["minimapPos"] = 42.40893992104903,
 },
 },
+["Furrys - Turalyon"] = {
+},
+["Caris - Turalyon"] = {
+},
+["Artoc - Silvermoon"] = {
+},
 ["Adamn - Turalyon"] = {
 },
-["Furrys - Turalyon"] = {
+["Fernie - Turalyon"] = {
+},
+["Kurate - Turalyon"] = {
 },
 ["Asaam - Turalyon"] = {
 },
-["Broddah - Doomhammer"] = {
-},
-["Svend - Turalyon"] = {
-},
-["Allevin - Turalyon"] = {
-},
-["Caris - Turalyon"] = {
+["Sterbodhehm - Turalyon"] = {
 },
 ["Amdam - Turalyon"] = {
 ["frame"] = {
@@ -96,19 +86,44 @@ SimulationCraftDB = {
 ["ofsy"] = -0.5925581455230713,
 },
 },
-["Artoc - Silvermoon"] = {
-},
-["Adreya - Bloodscalp"] = {
-},
-["Adris - Turalyon"] = {
-},
 ["Badam - Turalyon"] = {
 ["frame"] = {
 ["ofsx"] = 7.780948362778872e-05,
 ["ofsy"] = 3.890474181389436e-05,
 },
 },
-["Artoc - Zul'jin"] = {
+["Kaydan - Turalyon"] = {
+},
+["Christoff - Turalyon"] = {
+},
+["Adreya - Bloodscalp"] = {
+},
+["Amdamn - Bloodscalp"] = {
+},
+["Adonis - Turalyon"] = {
+},
+["Adomic - Turalyon"] = {
+},
+["Dreg - Turalyon"] = {
+},
+["Christifur - Turalyon"] = {
+},
+["Kayne - Turalyon"] = {
+["minimap"] = {
+["minimapPos"] = 324.307535653447,
+},
+},
+["Adrid - Turalyon"] = {
+["frame"] = {
+["ofsx"] = 7.780948362778872e-05,
+["ofsy"] = 3.890474181389436e-05,
+},
+},
+["Adris - Turalyon"] = {
+},
+["Tupac - Turalyon"] = {
+},
+["Broddah - Doomhammer"] = {
 },
 ["Shado - Turalyon"] = {
 },

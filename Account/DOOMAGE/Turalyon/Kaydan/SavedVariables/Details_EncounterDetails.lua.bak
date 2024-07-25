@@ -1,240 +1,391 @@
 
 EncounterDetailsDB = {
-	["chartData"] = {
-		[210] = {
-		},
-		[211] = {
-		},
-		[212] = {
-		},
-		[213] = {
-		},
-		[214] = {
-		},
-		[215] = {
-		},
-		[216] = {
-		},
-		[217] = {
-		},
-		[186] = {
-		},
-		[218] = {
-		},
-		[187] = {
-		},
-		[219] = {
-		},
-		[188] = {
-		},
-		[220] = {
-		},
-		[189] = {
-		},
-		[221] = {
-		},
-		[190] = {
-		},
-		[222] = {
-		},
-		[191] = {
-		},
-		[223] = {
-		},
-		[192] = {
-		},
-		[224] = {
-		},
-		[193] = {
-		},
-		[225] = {
-		},
-		[194] = {
-		},
-		[226] = {
-			["Raid Damage Done"] = {
-				29403, -- [1]
-				0, -- [2]
-				14699, -- [3]
-				0, -- [4]
-				0, -- [5]
-				4092, -- [6]
-				455, -- [7]
-				17251, -- [8]
-				1040, -- [9]
-				754, -- [10]
-				647, -- [11]
-				1209, -- [12]
-				["max_value"] = 29403,
-				["__time"] = 1704091304,
-			},
-		},
-		[195] = {
-		},
-		[227] = {
-			["Raid Damage Done"] = {
-				15924, -- [1]
-				3686, -- [2]
-				15302, -- [3]
-				1848, -- [4]
-				30500, -- [5]
-				2960, -- [6]
-				["max_value"] = 30500,
-				["__time"] = 1704091337,
-			},
-		},
-		[196] = {
-		},
-		[228] = {
-			["Raid Damage Done"] = {
-				156, -- [1]
-				["max_value"] = 156,
-				["__time"] = 1704091340,
-			},
-		},
-		[197] = {
-		},
-		[229] = {
-			["Raid Damage Done"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0, -- [4]
-				0, -- [5]
-				0, -- [6]
-				0, -- [7]
-				0, -- [8]
-				0, -- [9]
-				0, -- [10]
-				0, -- [11]
-				0, -- [12]
-				0, -- [13]
-				0, -- [14]
-				0, -- [15]
-				0, -- [16]
-				0, -- [17]
-				0, -- [18]
-				0, -- [19]
-				0, -- [20]
-				0, -- [21]
-				0, -- [22]
-				0, -- [23]
-				0, -- [24]
-				["__time"] = 1704091582,
-			},
-		},
-		[198] = {
-		},
-		[230] = {
-			["Raid Damage Done"] = {
-				15466, -- [1]
-				4385, -- [2]
-				15421, -- [3]
-				5408, -- [4]
-				16351, -- [5]
-				38151, -- [6]
-				20956, -- [7]
-				6264, -- [8]
-				568, -- [9]
-				0, -- [10]
-				0, -- [11]
-				0, -- [12]
-				0, -- [13]
-				0, -- [14]
-				490, -- [15]
-				236, -- [16]
-				0, -- [17]
-				21484, -- [18]
-				1987, -- [19]
-				31502, -- [20]
-				188, -- [21]
-				3787, -- [22]
-				6545, -- [23]
-				1295, -- [24]
-				["max_value"] = 38151,
-				["__time"] = 1704091744,
-			},
-		},
-		[199] = {
-		},
-		[231] = {
-			["Raid Damage Done"] = {
-				1235, -- [1]
-				4075, -- [2]
-				500, -- [3]
-				3502, -- [4]
-				2672, -- [5]
-				3669, -- [6]
-				17328, -- [7]
-				1431, -- [8]
-				17499, -- [9]
-				6215, -- [10]
-				4923, -- [11]
-				661, -- [12]
-				0, -- [13]
-				0, -- [14]
-				0, -- [15]
-				0, -- [16]
-				0, -- [17]
-				0, -- [18]
-				0, -- [19]
-				0, -- [20]
-				0, -- [21]
-				0, -- [22]
-				0, -- [23]
-				0, -- [24]
-				0, -- [25]
-				0, -- [26]
-				548, -- [27]
-				243, -- [28]
-				36100, -- [29]
-				531, -- [30]
-				3777, -- [31]
-				1269, -- [32]
-				20864, -- [33]
-				1515, -- [34]
-				1448, -- [35]
-				["max_value"] = 36100,
-				["__time"] = 1704091789,
-			},
-		},
-		[200] = {
-		},
-		[232] = {
-			["Raid Damage Done"] = {
-				2779, -- [1]
-				29473, -- [2]
-				1056, -- [3]
-				4804, -- [4]
-				1229, -- [5]
-				4580, -- [6]
-				1159, -- [7]
-				4804, -- [8]
-				["max_value"] = 29473,
-				["__time"] = 1704091811,
-			},
-		},
-		[201] = {
-		},
-		[202] = {
-		},
-		[203] = {
-		},
-		[204] = {
-		},
-		[205] = {
-		},
-		[206] = {
-		},
-		[207] = {
-		},
-		[208] = {
-		},
-		[209] = {
-		},
-	},
-	["encounter_spells"] = {
-	},
-	["emotes"] = {
-	},
+["chartData"] = {
+[262] = {
+["Raid Damage Done"] = {
+["__time"] = 1720563720,
+},
+},
+[270] = {
+["Raid Damage Done"] = {
+104477,
+["max_value"] = 104477,
+["__time"] = 1720563862,
+},
+},
+[263] = {
+["Raid Damage Done"] = {
+148863,
+["max_value"] = 148863,
+["__time"] = 1720563758,
+},
+},
+[271] = {
+["Raid Damage Done"] = {
+377118,
+["max_value"] = 377118,
+["__time"] = 1720563879,
+},
+},
+[256] = {
+["Raid Damage Done"] = {
+39607,
+133036,
+0,
+["max_value"] = 133036,
+["__time"] = 1720563605,
+},
+},
+[264] = {
+["Raid Damage Done"] = {
+["__time"] = 1720563759,
+},
+},
+[272] = {
+["Raid Damage Done"] = {
+171691,
+["max_value"] = 171691,
+["__time"] = 1720563938,
+},
+},
+[257] = {
+["Raid Damage Done"] = {
+81943,
+79214,
+["max_value"] = 81943,
+["__time"] = 1720563631,
+},
+},
+[265] = {
+["Raid Damage Done"] = {
+167010,
+["max_value"] = 167010,
+["__time"] = 1720563764,
+},
+},
+[273] = {
+["Raid Damage Done"] = {
+95599,
+["max_value"] = 95599,
+["__time"] = 1720563949,
+},
+},
+[258] = {
+["Raid Damage Done"] = {
+["__time"] = 1720563645,
+},
+},
+[266] = {
+["Raid Damage Done"] = {
+57430,
+["max_value"] = 57430,
+["__time"] = 1720563835,
+},
+},
+[274] = {
+["Raid Damage Done"] = {
+["__time"] = 1720563967,
+},
+},
+[259] = {
+["Raid Damage Done"] = {
+410764,
+161731,
+["max_value"] = 410764,
+["__time"] = 1720563647,
+},
+},
+[267] = {
+["Raid Damage Done"] = {
+33005,
+["max_value"] = 33005,
+["__time"] = 1720563837,
+},
+},
+[275] = {
+["Raid Damage Done"] = {
+393374,
+1843599,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+158935,
+0,
+158935,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+152577,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+["max_value"] = 1843599,
+["__time"] = 1720564234,
+},
+},
+[254] = {
+},
+[260] = {
+["Raid Damage Done"] = {
+11486,
+45944,
+45944,
+0,
+0,
+11486,
+["max_value"] = 45944,
+["__time"] = 1720563672,
+},
+},
+[268] = {
+["Raid Damage Done"] = {
+["__time"] = 1720563841,
+},
+},
+[261] = {
+["Raid Damage Done"] = {
+4,
+["max_value"] = 4,
+["__time"] = 1720563676,
+},
+},
+[269] = {
+["Raid Damage Done"] = {
+104477,
+["max_value"] = 104477,
+["__time"] = 1720563848,
+},
+},
+},
+["encounter_spells"] = {
+[39855] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Blade of Azzinoth",
+},
+[40598] = {
+["school"] = 4,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Illidan Stormrage",
+},
+[39849] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Illidan Stormrage",
+},
+[40810] = {
+["school"] = 1,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Mother Shahraz",
+},
+[41478] = {
+["school"] = 64,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "High Nethermancer Zerevor",
+},
+[41471] = {
+["school"] = 2,
+["token"] = {
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Lady Malande",
+},
+[40647] = {
+["school"] = 1,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Illidan Stormrage",
+},
+[39635] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Illidan Stormrage",
+},
+[41248] = {
+["school"] = 32,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Hungering Soul Fragment",
+},
+[39835] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "High Warlord Naj'entus",
+},
+[40683] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Illidan Stormrage",
+},
+},
+["emotes"] = {
+{
+{
+39.4429999999702,
+"Is this it, mortals? Is this all the fury you can muster?",
+"Illidan Stormrage",
+7,
+},
+{
+49.17400000011548,
+"Their fury pales before mine, Illidan. We have some unsettled business between us.",
+"Maiev Shadowsong",
+7,
+},
+{
+57.67599999997765,
+"Maiev... How is it even possible?",
+"Illidan Stormrage",
+7,
+},
+{
+63.75999999977648,
+"My long hunt is finally over. Today, Justice will be done!",
+"Maiev Shadowsong",
+7,
+},
+{
+73.48300000000745,
+"Feel the hatred of ten thousand years!",
+"Illidan Stormrage",
+7,
+},
+{
+75.88700000010431,
+"It is finished. You are beaten.",
+"Maiev Shadowsong",
+7,
+},
+{
+81.97999999998137,
+"You have won... Maiev. But the huntress... is nothing without the hunt. You... are nothing... without me.",
+"Illidan Stormrage",
+7,
+},
+["boss"] = "Illidan Stormrage",
+},
+{
+["boss"] = "The Illidari Council",
+},
+{
+{
+0.1990000000223517,
+"So... business or pleasure?",
+"Mother Shahraz",
+7,
+},
+["boss"] = "Mother Shahraz",
+},
+},
 }

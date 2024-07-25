@@ -10,9 +10,9 @@ DBM-Raids-Dragonflight: enabled
 DBM-Raids-WarWithin: enabled
 DBM-DragonIsles: enabled
 DBM-KhazAlgar: enabled
-AdvancedInterfaceOptions: enabled
-AngryKeystones: enabled
-ArkInventory: enabled
+AdvancedInterfaceOptions: disabled
+AngryKeystones: disabled
+ArkInventory: disabled
 ArkInventoryConfig: enabled
 ArkInventoryRules: enabled
 ArkInventoryRules_Example: disabled
@@ -47,7 +47,7 @@ BigWigs_Plugins: enabled
 BigWigs_VaultOfTheIncarnates: enabled
 Clique: enabled
 Coordinates: enabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 DeleteManaGem: enabled
 Details: enabled
 Details_Compare2: enabled
@@ -114,13 +114,13 @@ TipTacOptions: disabled
 TipTacTalents: disabled
 TomCats: disabled
 TomTom: enabled
-VenturePlan: enabled
+VenturePlan: disabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 WeakAurasCompanion: enabled
@@ -140,3 +140,4 @@ ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
 OPie_Classic: disabled
 Blizzard_CombatText: enabled
+BigWigs_MistsOfPandaria: enabled

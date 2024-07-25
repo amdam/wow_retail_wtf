@@ -1,0 +1,35 @@
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Lay on Hands;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Blessing of Freedom;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Word of Glory
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Blessing of Sacrifice;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/use [@mouseover, help, nodead][help, nodead][@player] Cleanse Toxins;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Execution Sentence] Execution Sentence; [mod:alt,known:Final Reckoning,@player] Final Reckoning; Templar's Verdict;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/use [@mouseover] Intercession;
+/script UIErrorsFrame:Clear()
+END

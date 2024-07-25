@@ -1,9 +1,3 @@
-VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/startattack
-/cast [nomodifier] Torment; /cast [modifier:alt] Throw Glaive;
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000004 " " "134400"
 #showtooltip
 /cast [mod:alt,@cursor] Sigil of Flame; [spec:1] Blade Dance; [@cursor] Sigil of Flame;
@@ -28,5 +22,16 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
 /cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; [@cursor] Sigil of Flame;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [mod:alt,@cursor] Elysian Decree; Felblade;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast [nomodifier] Torment; /cast [modifier:alt] Throw Glaive;
 /script UIErrorsFrame:Clear()
 END

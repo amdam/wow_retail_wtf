@@ -36,7 +36,7 @@ Auc-Filter-Basic: enabled
 Auc-Advanced: disabled
 StaggerMeter: disabled
 RoguePowerBars: disabled
-ArkInventory: enabled
+ArkInventory: disabled
 AffDots: enabled
 affdots-mage: enabled
 oqueue: disabled
@@ -143,10 +143,10 @@ HHTD: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-WorldQuestTracker: enabled
+WorldQuestTracker: disabled
 ElvUI_BenikUI: enabled
 ElvUI_EverySecondCounts: disabled
-AngryKeystones: enabled
+AngryKeystones: disabled
 WeakAurasCompanion: enabled
 OPie_Classic: disabled
 TomCats: disabled
@@ -174,14 +174,14 @@ RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_EU_A_R: disabled
 RaiderIO_DB_EU_A: disabled
-AdvancedInterfaceOptions: enabled
+AdvancedInterfaceOptions: disabled
 HealBot_Data: disabled
 HealBot_en: disabled
 MythicDungeonTools: enabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
 TipTacOptions: disabled
-DejaCharacterStats: enabled
+DejaCharacterStats: disabled
 ElvUI_QuestXP: disabled
 ElvUI_CustomTags: disabled
 RaiderIO_DB_TW_F: disabled
@@ -227,3 +227,7 @@ LittleWigs_Cataclysm: enabled
 VenturePlanSoDMissions: disabled
 RematchElvUISkin: disabled
 BigWigs_Amirdrassil: enabled
+BigWigs_MistsOfPandaria: enabled
+Hekili: enabled
+HandyNotes: enabled
+VenturePlan: disabled
