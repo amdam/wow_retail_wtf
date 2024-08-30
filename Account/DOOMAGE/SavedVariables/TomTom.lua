@@ -83,6 +83,8 @@ TomTomWaypointsM = {
 ["Abel - Turalyon"] = "Abel - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Furrys - Turalyon"] = "Furrys - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
@@ -90,7 +92,7 @@ TomTomWaypointsM = {
 ["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
 ["Shado - Turalyon"] = "Shado - Turalyon",
@@ -124,6 +126,10 @@ TomTomWaypointsM = {
 },
 ["Adomic - Turalyon"] = {
 },
+["Furrys - Turalyon"] = {
+},
+["Adaam - Turalyon"] = {
+},
 ["Badam - Turalyon"] = {
 },
 ["Adonis - Turalyon"] = {
@@ -138,7 +144,7 @@ TomTomWaypointsM = {
 },
 ["Amdam - Turalyon"] = {
 },
-["Adaam - Turalyon"] = {
+["Adamn - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },

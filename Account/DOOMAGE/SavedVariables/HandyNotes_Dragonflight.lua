@@ -28,9 +28,9 @@ HandyNotes_DragonflightDB = {
 },
 ["profiles"] = {
 ["Default"] = {
-["icon_display_scout_pack"] = false,
-["icon_display_disturbed_dirt"] = false,
+["icon_display_disturbed_dirt"] = true,
 ["icon_display_profession_rares"] = false,
+["icon_display_scout_pack"] = true,
 ["icon_display_dragonrace"] = false,
 ["icon_display_small_treasures"] = true,
 },

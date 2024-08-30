@@ -52,9 +52,9 @@ Rematch5Settings = {
 },
 ["HideLevelBubbles"] = false,
 ["CustomScaleValue"] = 100,
-["MaximizedLayout"] = "3-teams",
-["QueueActiveSort"] = false,
 ["KeepCompanion"] = false,
+["QueueActiveSort"] = false,
+["MaximizedLayout"] = "3-teams",
 ["CompactTeamList"] = false,
 ["ResetSortWithFilters"] = false,
 ["PetCardShowExpansionStat"] = false,
@@ -83,13 +83,13 @@ Rematch5Settings = {
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
 ["RandomPetRules"] = 2,
-["HideLevelingBadges"] = false,
-["QueueSortOrder"] = 1,
-["ShowNewGroupTab"] = true,
+["PetCardAlwaysShowHPBar"] = false,
 ["SpecialSlots"] = {
 },
+["ShowNewGroupTab"] = true,
+["QueueSortOrder"] = 1,
 ["CardBehavior"] = "Normal",
-["BoringLoreFont"] = false,
+["QueueRandomWhenEmpty"] = false,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",
@@ -112,8 +112,8 @@ Rematch5Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
-["QueueRandomWhenEmpty"] = false,
-["PetCardAlwaysShowHPBar"] = false,
+["BoringLoreFont"] = false,
+["HideLevelingBadges"] = false,
 ["HideNotesButtonInBattle"] = false,
 ["CombineGroupKey"] = "None",
 ["ExpandedGroups"] = {
@@ -146,12 +146,12 @@ Rematch5Settings = {
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "\"Leviathan Hatchling\"",
+["RawSearchText"] = "\"Vanilla\"",
 ["Similar"] = {
 },
 ["Search"] = {
-["Pattern"] = "^[lL][eE][vV][iI][aA][tT][hH][aA][nN] [hH][aA][tT][cC][hH][lL][iI][nN][gG]$",
-["Length"] = 21,
+["Pattern"] = "^[vV][aA][nN][iI][lL][lL][aA]$",
+["Length"] = 9,
 },
 ["Breed"] = {
 },
@@ -248,9 +248,9 @@ Rematch4Settings = {
 },
 ["Collected"] = {
 },
-["Similar"] = {
-},
 ["Sources"] = {
+},
+["Similar"] = {
 },
 ["Breed"] = {
 },
@@ -292,10 +292,10 @@ Rematch4Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
-["PreferredMode"] = 1,
+["ElvUIToastDefaulted"] = true,
 ["ExpandedTargetHeaders"] = {
 },
-["ElvUIToastDefaulted"] = true,
+["PreferredMode"] = 1,
 ["ActivePanel"] = 1,
 ["Sanctuary"] = {
 },

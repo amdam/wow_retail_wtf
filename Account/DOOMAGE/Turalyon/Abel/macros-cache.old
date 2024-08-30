@@ -5,7 +5,7 @@ VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:shift,spec:3,known:Void Torrent] Void Torrent; [mod:alt,known:Divine Star] Divine Star; [mod:alt,known:Halo] Halo; Smite;
+/cast [mod:shift,spec:3,known:Void Torrent] Void Torrent; [mod:alt,known:Divine Star] Divine Star; [mod:alt,known:Halo] Halo; [spec:3,known:Mind Spike] Mind Spike; Smite;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
@@ -64,7 +64,7 @@ VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,spec:3,talent7/3] Surrender to Madness; Shadow Word: Death;
+/cast [mod:alt,spec:3] Mind Flay: Insanity; Shadow Word: Death;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000E " " "134400"

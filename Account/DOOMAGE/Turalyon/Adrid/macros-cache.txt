@@ -72,3 +72,8 @@ VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 /cast [mod:shift] Sniper Shot; [mod:alt] Bursting Shot; [nochanneling] Aimed Shot
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000012 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Explosive Shot] Explosive Shot; Barbed Shot;
+/script UIErrorsFrame:Clear()
+END

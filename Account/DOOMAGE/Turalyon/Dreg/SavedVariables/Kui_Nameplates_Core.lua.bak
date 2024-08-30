@@ -1,4 +1,4 @@
 
 KuiNameplatesCoreCharacterSaved = {
-	["profile"] = "default",
+["profile"] = "default",
 }

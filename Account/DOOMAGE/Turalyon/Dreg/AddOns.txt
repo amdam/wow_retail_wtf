@@ -13,7 +13,7 @@ HHTD: disabled
 ElvUI_BenikUI_Classic: disabled
 ElvUI_OptionsUI: enabled
 NPCScan: disabled
-OPie: disabled
+OPie: enabled
 ElvUI_BenikUI: enabled
 Clique: enabled
 Details: enabled
@@ -23,8 +23,8 @@ MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
 TipTac: disabled
-WorldQuestTracker: disabled
-DejaCharacterStats: disabled
+WorldQuestTracker: enabled
+DejaCharacterStats: enabled
 ElvUI_DTBars2: disabled
 RaiderIO_DB_TW_H_R: disabled
 RaiderIO_DB_TW_H: disabled
@@ -50,10 +50,10 @@ BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 BigWigs_Shadowlands: enabled
-Kui_Media: disabled
-Kui_Nameplates: disabled
-Kui_Nameplates_Core: disabled
-Kui_Nameplates_Core_Config: disabled
+Kui_Media: enabled
+Kui_Nameplates: enabled
+Kui_Nameplates_Core: enabled
+Kui_Nameplates_Core_Config: enabled
 OmniCD: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
@@ -95,3 +95,4 @@ AdvancedInterfaceOptions: disabled
 HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
+Baganator: enabled

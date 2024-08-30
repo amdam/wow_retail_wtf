@@ -5,7 +5,7 @@ TinyTip: enabled
 DBM-Core: enabled
 OmniCC: enabled
 MikScrollingBattleText: enabled
-OPie: disabled
+OPie: enabled
 ShadowedUnitFrames: disabled
 ArkInventory: disabled
 Quartz: disabled
@@ -18,7 +18,7 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 AngryKeystones: disabled
 OPie_Classic: disabled
@@ -60,12 +60,12 @@ Skada: disabled
 TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 ElvUI_QuestXP: disabled
-Kui_Media: disabled
-Kui_Nameplates: disabled
-Kui_Nameplates_Core: disabled
-Kui_Nameplates_Core_Config: disabled
+Kui_Media: enabled
+Kui_Nameplates: enabled
+Kui_Nameplates_Core: enabled
+Kui_Nameplates_Core_Config: enabled
 OmniCD: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
@@ -108,3 +108,4 @@ Hekili: enabled
 HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
+Baganator: enabled

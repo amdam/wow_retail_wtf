@@ -1,585 +1,607 @@
 
 ElvCharacterDB = {
-	["ConvertKeybindings"] = true,
-	["ChatEditHistory"] = {
-		"/ec", -- [1]
-		"/weakauras", -- [2]
-		"/wa", -- [3]
-		"/macro", -- [4]
-		"/clique", -- [5]
-	},
-	["ChatHistoryLog"] = {
-		{
-			"man thats kinda harsh...they kicked the elves ship off the docks ", -- [1]
-			"Wõrgén-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Wõrgén-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			735, -- [11]
-			"Player-64-0E56C447", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeWõrgén-Bloodhoof|r",
-			[51] = 1669252289,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"hell they kicked it out of the entire harbor", -- [1]
-			"Wõrgén-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Wõrgén-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			739, -- [11]
-			"Player-64-0E56C447", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeWõrgén-Bloodhoof|r",
-			[51] = 1669252374,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"portal>ship\\", -- [1]
-			"Lunarkitty-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Lunarkitty-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			744, -- [11]
-			"Player-3685-06FAC2B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aLunarkitty|r",
-			[51] = 1669252336,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"Actually it's still there. just ina different phase", -- [1]
-			"Nyrri-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Nyrri-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			755, -- [11]
-			"Player-64-0EDEB04C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fNyrri-Duskwood|r",
-			[51] = 1669252363,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"portal>hearthstone>ship", -- [1]
-			"Terthill-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Terthill-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			758, -- [11]
-			"Player-3685-0DEDE732", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeTerthill|r",
-			[51] = 1669252391,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"i dont believe in temporal physics", -- [1]
-			"Wõrgén-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Wõrgén-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			759, -- [11]
-			"Player-64-0E56C447", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeWõrgén-Bloodhoof|r",
-			[51] = 1669252397,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"but if yall are cool with them kicking all the refugees ship out of the harbor...ok then..all good", -- [1]
-			"Wõrgén-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Wõrgén-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			762, -- [11]
-			"Player-64-0E56C447", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8788eeWõrgén-Bloodhoof|r",
-			[51] = 1669252452,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"Yes, kick refugees out. Do it IRL too", -- [1]
-			"Grelin-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Grelin-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			765, -- [11]
-			"Player-3685-0724A4E4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dGrelin|r",
-			[51] = 1669252552,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"Anyone need |cff0070dd|Hitem:199837::::::::60:1468::::1:28:2425:::::|h[Dimmed Primeval Earth]|h|r?", -- [1]
-			"Ephemeral-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Ephemeral-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			36, -- [11]
-			"Player-64-0EDCD3C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fEphemeral-Duskwood|r",
-			[51] = 1669269894,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"is there like a rent a healer service somewhere?", -- [1]
-			"Zemkar-Turalyon", -- [2]
-			"", -- [3]
-			"4. Trade (Services) - City", -- [4]
-			"Zemkar-Turalyon", -- [5]
-			"", -- [6]
-			42, -- [7]
-			4, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			65, -- [11]
-			"Player-3685-08E50F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Zemkar|r",
-			[51] = 1669270231,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"what you need?", -- [1]
-			"Pipfanie-Turalyon", -- [2]
-			"", -- [3]
-			"4. Trade (Services) - City", -- [4]
-			"Pipfanie-Turalyon", -- [5]
-			"", -- [6]
-			42, -- [7]
-			4, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			69, -- [11]
-			"Player-3685-0722731A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddPipfanie|r",
-			[51] = 1669270266,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"dungeons or island expeditions or something to level", -- [1]
-			"Zemkar-Turalyon", -- [2]
-			"", -- [3]
-			"4. Trade (Services) - City", -- [4]
-			"Zemkar-Turalyon", -- [5]
-			"", -- [6]
-			42, -- [7]
-			4, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			70, -- [11]
-			"Player-3685-08E50F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Zemkar|r",
-			[51] = 1669270284,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"I'll just head to the badlands and suffer for a few levels", -- [1]
-			"Zemkar-Turalyon", -- [2]
-			"", -- [3]
-			"4. Trade (Services) - City", -- [4]
-			"Zemkar-Turalyon", -- [5]
-			"", -- [6]
-			42, -- [7]
-			4, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			73, -- [11]
-			"Player-3685-08E50F1C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Zemkar|r",
-			[51] = 1669270362,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"okie   what lvl are you?", -- [1]
-			"Pipfanie-Turalyon", -- [2]
-			"", -- [3]
-			"4. Trade (Services) - City", -- [4]
-			"Pipfanie-Turalyon", -- [5]
-			"", -- [6]
-			42, -- [7]
-			4, -- [8]
-			"Trade (Services) - City", -- [9]
-			0, -- [10]
-			74, -- [11]
-			"Player-3685-0722731A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddPipfanie|r",
-			[51] = 1669270325,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"is there a quick way to get to booty bay from stormwind?", -- [1]
-			"Stormer-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Stormer-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			148, -- [11]
-			"Player-3685-0DFC84BF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddStormer|r",
-			[51] = 1669271357,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"icant figure out how to even build a deck anymore", -- [1]
-			"|Kq42|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31, -- [11]
-			false, -- [12]
-			44, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "TayTay",
-			[51] = 1669317008,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [16]
-		{
-			"whats up with the over 1hr dungeon que  =(", -- [1]
-			"Badassdragon-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Badassdragon-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			41, -- [11]
-			"Player-3685-0DFC9E95", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fBadassdragon|r",
-			[51] = 1669317954,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			"normal ppl dont play wow on thanksgiving day", -- [1]
-			"Hotpocket-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Hotpocket-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			42, -- [11]
-			"Player-3685-07093AB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebHotpocket|r",
-			[51] = 1669317908,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"they have families", -- [1]
-			"Hotpocket-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Hotpocket-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			43, -- [11]
-			"Player-3685-07093AB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebHotpocket|r",
-			[51] = 1669317911,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"theres a lot of un normalaround here should b e flooded lol", -- [1]
-			"Badassdragon-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Badassdragon-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			44, -- [11]
-			"Player-3685-0DFC9E95", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fBadassdragon|r",
-			[51] = 1669317990,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"fair point", -- [1]
-			"Hotpocket-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Hotpocket-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			47, -- [11]
-			"Player-3685-07093AB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebHotpocket|r",
-			[51] = 1669317960,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"next boat", -- [1]
-			"Nightshades-Turalyon", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nightshades-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			29, -- [11]
-			"Player-3685-07026DFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Nightshades|r",
-			[51] = 1669694199,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"2.5 minutes", -- [1]
-			"Nightshades-Turalyon", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Nightshades-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			31, -- [11]
-			"Player-3685-07026DFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Nightshades|r",
-			[51] = 1669694207,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"where are the pvp vendors here?", -- [1]
-			"Déréth-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Déréth-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			52, -- [11]
-			"Player-61-0F1CFD51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddDéréth-Zul'jin|r",
-			[51] = 1692749380,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"southeast old town", -- [1]
-			"Driltock-Whisperwind", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Driltock-Whisperwind", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			53, -- [11]
-			"Player-55-0D8EFFD7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dDriltock-Whisperwind|r",
-			[51] = 1692749397,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			" ty!", -- [1]
-			"Déréth-Zul'jin", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Déréth-Zul'jin", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			54, -- [11]
-			"Player-61-0F1CFD51", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddDéréth-Zul'jin|r",
-			[51] = 1692749343,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-	},
+["ConvertKeybindings"] = true,
+["ChatEditHistory"] = {
+"/ec",
+"/weakauras",
+"/macro",
+"/clique",
+"/wa",
+},
+["ChatHistoryLog"] = {
+{
+"man thats kinda harsh...they kicked the elves ship off the docks ",
+"Wõrgén-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Wõrgén-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+735,
+"Player-64-0E56C447",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeWõrgén-Bloodhoof|r",
+[51] = 1669252289,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"hell they kicked it out of the entire harbor",
+"Wõrgén-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Wõrgén-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+739,
+"Player-64-0E56C447",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeWõrgén-Bloodhoof|r",
+[51] = 1669252374,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"portal>ship\\",
+"Lunarkitty-Turalyon",
+"",
+"1. General - Stormwind City",
+"Lunarkitty-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+744,
+"Player-3685-06FAC2B5",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aLunarkitty|r",
+[51] = 1669252336,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Actually it's still there. just ina different phase",
+"Nyrri-Duskwood",
+"",
+"1. General - Stormwind City",
+"Nyrri-Duskwood",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+755,
+"Player-64-0EDEB04C",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fNyrri-Duskwood|r",
+[51] = 1669252363,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"portal>hearthstone>ship",
+"Terthill-Turalyon",
+"",
+"1. General - Stormwind City",
+"Terthill-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+758,
+"Player-3685-0DEDE732",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeTerthill|r",
+[51] = 1669252391,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"i dont believe in temporal physics",
+"Wõrgén-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Wõrgén-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+759,
+"Player-64-0E56C447",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeWõrgén-Bloodhoof|r",
+[51] = 1669252397,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"but if yall are cool with them kicking all the refugees ship out of the harbor...ok then..all good",
+"Wõrgén-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Wõrgén-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+762,
+"Player-64-0E56C447",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8788eeWõrgén-Bloodhoof|r",
+[51] = 1669252452,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Yes, kick refugees out. Do it IRL too",
+"Grelin-Turalyon",
+"",
+"1. General - Stormwind City",
+"Grelin-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+765,
+"Player-3685-0724A4E4",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dGrelin|r",
+[51] = 1669252552,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Anyone need |cff0070dd|Hitem:199837::::::::60:1468::::1:28:2425:::::|h[Dimmed Primeval Earth]|h|r?",
+"Ephemeral-Duskwood",
+"",
+"1. General - Badlands",
+"Ephemeral-Duskwood",
+"",
+1,
+1,
+"General - Badlands",
+0,
+36,
+"Player-64-0EDCD3C7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fEphemeral-Duskwood|r",
+[51] = 1669269894,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"is there like a rent a healer service somewhere?",
+"Zemkar-Turalyon",
+"",
+"4. Trade (Services) - City",
+"Zemkar-Turalyon",
+"",
+42,
+4,
+"Trade (Services) - City",
+0,
+65,
+"Player-3685-08E50F1C",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Zemkar|r",
+[51] = 1669270231,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"what you need?",
+"Pipfanie-Turalyon",
+"",
+"4. Trade (Services) - City",
+"Pipfanie-Turalyon",
+"",
+42,
+4,
+"Trade (Services) - City",
+0,
+69,
+"Player-3685-0722731A",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddPipfanie|r",
+[51] = 1669270266,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"dungeons or island expeditions or something to level",
+"Zemkar-Turalyon",
+"",
+"4. Trade (Services) - City",
+"Zemkar-Turalyon",
+"",
+42,
+4,
+"Trade (Services) - City",
+0,
+70,
+"Player-3685-08E50F1C",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Zemkar|r",
+[51] = 1669270284,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"I'll just head to the badlands and suffer for a few levels",
+"Zemkar-Turalyon",
+"",
+"4. Trade (Services) - City",
+"Zemkar-Turalyon",
+"",
+42,
+4,
+"Trade (Services) - City",
+0,
+73,
+"Player-3685-08E50F1C",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Zemkar|r",
+[51] = 1669270362,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"okie   what lvl are you?",
+"Pipfanie-Turalyon",
+"",
+"4. Trade (Services) - City",
+"Pipfanie-Turalyon",
+"",
+42,
+4,
+"Trade (Services) - City",
+0,
+74,
+"Player-3685-0722731A",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddPipfanie|r",
+[51] = 1669270325,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"is there a quick way to get to booty bay from stormwind?",
+"Stormer-Turalyon",
+"",
+"1. General - Stormwind City",
+"Stormer-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+148,
+"Player-3685-0DFC84BF",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddStormer|r",
+[51] = 1669271357,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"icant figure out how to even build a deck anymore",
+"|Kq42|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+31,
+false,
+44,
+false,
+false,
+false,
+false,
+[52] = "TayTay",
+[51] = 1669317008,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"whats up with the over 1hr dungeon que  =(",
+"Badassdragon-Turalyon",
+"",
+"1. General - Stormwind City",
+"Badassdragon-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+41,
+"Player-3685-0DFC9E95",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fBadassdragon|r",
+[51] = 1669317954,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"normal ppl dont play wow on thanksgiving day",
+"Hotpocket-Turalyon",
+"",
+"1. General - Stormwind City",
+"Hotpocket-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+42,
+"Player-3685-07093AB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebHotpocket|r",
+[51] = 1669317908,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"they have families",
+"Hotpocket-Turalyon",
+"",
+"1. General - Stormwind City",
+"Hotpocket-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+43,
+"Player-3685-07093AB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebHotpocket|r",
+[51] = 1669317911,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"theres a lot of un normalaround here should b e flooded lol",
+"Badassdragon-Turalyon",
+"",
+"1. General - Stormwind City",
+"Badassdragon-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+44,
+"Player-3685-0DFC9E95",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fBadassdragon|r",
+[51] = 1669317990,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"fair point",
+"Hotpocket-Turalyon",
+"",
+"1. General - Stormwind City",
+"Hotpocket-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+47,
+"Player-3685-07093AB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebHotpocket|r",
+[51] = 1669317960,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"next boat",
+"Nightshades-Turalyon",
+"Common",
+"",
+"Nightshades-Turalyon",
+"",
+0,
+0,
+"",
+7,
+29,
+"Player-3685-07026DFF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Nightshades|r",
+[51] = 1669694199,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"2.5 minutes",
+"Nightshades-Turalyon",
+"Common",
+"",
+"Nightshades-Turalyon",
+"",
+0,
+0,
+"",
+7,
+31,
+"Player-3685-07026DFF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Nightshades|r",
+[51] = 1669694207,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"where are the pvp vendors here?",
+"Déréth-Zul'jin",
+"",
+"1. General - Stormwind City",
+"Déréth-Zul'jin",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+52,
+"Player-61-0F1CFD51",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddDéréth-Zul'jin|r",
+[51] = 1692749380,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"southeast old town",
+"Driltock-Whisperwind",
+"",
+"1. General - Stormwind City",
+"Driltock-Whisperwind",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+53,
+"Player-55-0D8EFFD7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dDriltock-Whisperwind|r",
+[51] = 1692749397,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+" ty!",
+"Déréth-Zul'jin",
+"",
+"1. General - Stormwind City",
+"Déréth-Zul'jin",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+54,
+"Player-61-0F1CFD51",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddDéréth-Zul'jin|r",
+[51] = 1692749343,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"thok ka nuk golar gi thok ro'th, kil mog zaga gesh'zugas",
+"Torg-Turalyon",
+"Orcish",
+"",
+"Torg-Turalyon",
+"",
+0,
+0,
+"",
+1,
+96,
+"Player-3685-0D4F9C33",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aTorg|r",
+[51] = 1722905659,
+[50] = "CHAT_MSG_YELL",
+},
+},
 }

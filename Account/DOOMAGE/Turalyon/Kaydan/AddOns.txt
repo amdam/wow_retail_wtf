@@ -12,7 +12,7 @@ WeakAurasArchive: enabled
 HHTD: disabled
 ElvUI_BenikUI_Classic: disabled
 NPCScan: disabled
-OPie: disabled
+OPie: enabled
 ElvUI_BenikUI: enabled
 Clique: enabled
 Details: enabled
@@ -22,8 +22,8 @@ MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
 TipTac: disabled
-WorldQuestTracker: disabled
-DejaCharacterStats: disabled
+WorldQuestTracker: enabled
+DejaCharacterStats: enabled
 Kui_Media: enabled
 Kui_Nameplates: enabled
 Kui_Nameplates_Core: enabled
@@ -77,3 +77,4 @@ AdvancedInterfaceOptions: disabled
 HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
+Baganator: enabled

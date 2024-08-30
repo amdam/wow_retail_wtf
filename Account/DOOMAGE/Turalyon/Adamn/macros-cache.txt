@@ -1,11 +1,11 @@
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Shiv; [spec:1][spec:2] Ambush; [spec:3] Symbols of Death;
+/cast [mod:alt,known:Shiv] Shiv; [spec:1,spec:2] Ambush; [known:Cold Blood] Cold Blood; Ambush;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,spec:2] Roll the Bones; [mod:alt,spec:1] Garrote; [mod:alt,known:Cold Blood] Cold Blood; Slice and Dice;
+/cast [mod:alt,spec:2] Roll the Bones; [mod:alt,spec:1] Garrote; Slice and Dice;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000B " " "ABILITY_ROGUE_TRICKSOFTHETRADE"
@@ -16,7 +16,7 @@ VER 3 010000000000000B " " "ABILITY_ROGUE_TRICKSOFTHETRADE"
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1] Vendetta; [spec:2] Adrenaline Rush; [spec:3] Shadow Blades;
+/cast [spec:1] Deathmark; [spec:2] Adrenaline Rush; [spec:3] Shadow Blades;
 /cast [spec:3] Symbols of Death;
 /use 13
 /script UIErrorsFrame:Clear();
@@ -56,13 +56,13 @@ END
 VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Shuriken Tornado] Shuriken Tornado; Rupture; 
+/cast [mod:alt,known:Shuriken Tornado] Shuriken Tornado; [mod:alt,known:Crimson Tempest] Crimson Tempest; Rupture; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,spec:3] Shuriken Toss; [mod:alt,spec:1] Poisoned Knife; [spec:1] Garrote; [spec:3] Secret Technique;
+/cast [mod:alt,spec:3] Shuriken Toss; [mod:alt,known:Echoing Reprimand] Echoing Reprimand; [spec:3] Secret Technique;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
@@ -71,9 +71,18 @@ VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000019 " " "134400"
-#showtooltip Secret Technique 
+#showtooltip
 /startattack
-/cast [known:Cold Blood] Cold Blood;
-/cast Secret Technique;
+/cast [mod:alt,known:Flagellation] Flagellation; Secret Technique;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001A " " "134400"
+#showtooltip
+/cast [mod:alt] Shiv; Garrote;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001B " " "134400"
+#showtooltip
+/cast [mod:alt] Kingsbane; Echoing Reprimand;
 /script UIErrorsFrame:Clear()
 END

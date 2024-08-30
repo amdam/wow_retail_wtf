@@ -40,7 +40,7 @@ RaiderIO_DB_TW_F: disabled
 RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_F: disabled
 BigWigs: disabled
-Kui_Media: disabled
+Kui_Media: enabled
 Kui_Nameplates: enabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
@@ -79,7 +79,7 @@ LittleWigs_WrathOfTheLichKing: enabled
 BigWigs_VaultOfTheIncarnates: enabled
 LittleWigs_MistsOfPandaria: enabled
 BigWigs_MistsOfPandaria: enabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 Details: enabled
 Hekili: enabled
 ElvUI: enabled
@@ -88,6 +88,8 @@ ArkInventory: disabled
 AdvancedInterfaceOptions: disabled
 AngryKeystones: disabled
 HandyNotes: enabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 TomTom: enabled
 VenturePlan: disabled
+OPie: enabled
+Baganator: enabled

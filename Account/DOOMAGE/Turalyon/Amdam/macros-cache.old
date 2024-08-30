@@ -1,7 +1,7 @@
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,@player] Word of Glory; [spec:2] Shield of the Righteous; [spec:3] Wake of Ashes; 
+/cast [mod:alt,spec:2] Eye of Tyr; [spec:2] Shield of the Righteous; [spec:3] Wake of Ashes; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
@@ -31,7 +31,7 @@ END
 VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /stopcasting
-/use [@mouseover, help, nodead][help, nodead][@player] Blessing of Sacrifice
+/use [@mouseover, help, nodead][help, nodead][target=Dethtrap] Blessing of Sacrifice
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
@@ -98,7 +98,12 @@ VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
 /cast [@focus,known:Repentance] Repentance; [known:Blinding Light] Blinding Light;
 /script UIErrorsFrame:Clear()
 END
-VER 3 010000000000001C " " "134400"
+VER 3 010000000000001D " " "134400"
+#showtooltip
+/cast [mod:alt] Eye of Tyr; Hand of Reckoning;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001C "focus" "523893"
 #showtooltip
 /cast [@focus,exists][] Rebuke;
 /script UIErrorsFrame:Clear()

@@ -1,2206 +1,2206 @@
 
 ElvCharacterDB = {
-	["ChatHistoryLog"] = {
-		{
-			"thanks guys", -- [1]
-			"Khansus-Shadowmoon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Khansus-Shadowmoon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"Player-154-09FC7A95", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Khansus-Shadowmoon|r",
-			[51] = 1616031519,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"neeed ring?", -- [1]
-			"Holydaz-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Holydaz-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			328, -- [11]
-			"Player-96-0B496FDD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHolydaz-Eonar|r",
-			[51] = 1616031524,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"yeah:c", -- [1]
-			"Zepelewe-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zepelewe-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			"Player-1427-07FBE8B9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cZepelewe-Ragnaros|r",
-			[51] = 1616031531,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"darn", -- [1]
-			"Holydaz-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Holydaz-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			330, -- [11]
-			"Player-96-0B496FDD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHolydaz-Eonar|r",
-			[51] = 1616031537,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"back to bgs", -- [1]
-			"Holydaz-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Holydaz-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			333, -- [11]
-			"Player-96-0B496FDD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHolydaz-Eonar|r",
-			[51] = 1616031538,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"gonna do a run or 2 adam if you're interested in joining?", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			40, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1621475541,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
-		{
-			"was gonna see if CN is going to do their achivement run tonight", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			61, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Christoff|r",
-			[51] = 1621475574,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
-		{
-			"or did valla say theyre not doing it?", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			102, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Christoff|r",
-			[51] = 1621475626,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"i didn't talk to her", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			115, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1621475644,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"no we haven't talked to her", -- [1]
-			"Taugul-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-3685-08487D9A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Taugul|r",
-			[51] = 1621475644,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14328:Player-3685-09491807:1:6:26:21:4294967295:4294967295:4294967295:4294967295|h[Professional Shadowlands Master]|h|r!", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Christoff-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1142, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Christoff|r",
-			[51] = 1624734908,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [11]
-		{
-			"h", -- [1]
-			"Maaddix-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Maaddix-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			1693, -- [11]
-			"Player-64-017D168C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Maaddix-Bloodhoof|r",
-			[51] = 1629852153,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"uh..... bootay?", -- [1]
-			"Deathtsar-Hellscream", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Deathtsar-Hellscream", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			1694, -- [11]
-			"Player-53-0301A989", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaDeathtsar-Hellscream|r",
-			[51] = 1629852165,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"I", -- [1]
-			"Çaylarn-Duskwood", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Çaylarn-Duskwood", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			1695, -- [11]
-			"Player-64-0BF7DD55", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Çaylarn-Duskwood|r",
-			[51] = 1629852167,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"w", -- [1]
-			"Deathtsar-Hellscream", -- [2]
-			"", -- [3]
-			"1. General - Oribos", -- [4]
-			"Deathtsar-Hellscream", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Oribos", -- [9]
-			0, -- [10]
-			1696, -- [11]
-			"Player-53-0301A989", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaDeathtsar-Hellscream|r",
-			[51] = 1629852184,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"time for badam to make a comeback?", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			258, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1631582242,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
-		{
-			"it may be time", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Christoff|r",
-			[51] = 1631582272,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
-		{
-			"lol that fury dps boggled your mind didn't it", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			287, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1631582323,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
-		{
-			"yeah its pretty nuts", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			296, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Christoff|r",
-			[51] = 1631582353,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
-		{
-			"dope", -- [1]
-			"Dissick-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			558, -- [11]
-			"Player-3685-09A3CFFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dissick|r",
-			[51] = 1663110080,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
-		{
-			"I chose |cffa335ee|Hitem:189754::::::::60:65::91:4:8758:6652:1537:6646::::::|h[Genesis Lathe]|h|r", -- [1]
-			"Dissick-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			559, -- [11]
-			"Player-3685-09A3CFFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Dissick|r",
-			[51] = 1663110082,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
-		{
-			"everything about this game is frustrating now", -- [1]
-			"Spiritmonger-Ysera", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Spiritmonger-Ysera", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			105, -- [11]
-			"Player-63-0A999B0B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa330c9Spiritmonger-Ysera|r",
-			[51] = 1667323175,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"fair lol", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			106, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323181,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"now I have to find a new class to main im thinking of not even buying the expansion at this point", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			111, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323197,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"gonna be a long winter if I don't buy it lol", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			114, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323223,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"LOL God of War and COD are calling me", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			115, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323235,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"yeah very true.", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323246,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"I looked for a refund for pre-purchase, but couldn't find a way", -- [1]
-			"Barbi-Hellscream", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Barbi-Hellscream", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			118, -- [11]
-			"Player-53-0CCFDFB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffBarbi-Hellscream|r",
-			[51] = 1667323259,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"i dddnt pre purchase it because i had a feeling something like this would happen", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			125, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323280,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"I tried to get a refund for a enhance boost in wrath next day wouldn't give it either.", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			127, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323284,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"massive nerf instead of tweaking a class", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			134, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323289,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"LOL", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			136, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323310,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"I'll prob still play it and try to shine as a nerfed class probably a pipe dream.", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			138, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323263,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"do you think there is any chance they rework the nerf or na", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			139, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323328,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"My shammy finally felt good in Torghast. RIP", -- [1]
-			"Mortadella-AeriePeak", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Mortadella-AeriePeak", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			140, -- [11]
-			"Player-1426-0DBDA6AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebMortadella-AeriePeak|r",
-			[51] = 1667323339,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"maybe once the raids results are out", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			141, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323341,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"so dissapointed man kinda sucks ", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			146, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323352,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"always wanted to main shaman", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			158, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323369,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
-		{
-			"so do it", -- [1]
-			"Barbi-Hellscream", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Barbi-Hellscream", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			163, -- [11]
-			"Player-53-0CCFDFB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffBarbi-Hellscream|r",
-			[51] = 1667323377,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
-		{
-			"shadow priest got everything buffed", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			165, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323323,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"but the nerf is insane barbi ", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			167, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323392,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
-		{
-			"even demo warlock", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			169, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323403,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
-		{
-			"shaman was always a utility class, not a straight dps class", -- [1]
-			"Barbi-Hellscream", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Barbi-Hellscream", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			170, -- [11]
-			"Player-53-0CCFDFB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffBarbi-Hellscream|r",
-			[51] = 1667323413,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"warlocks are only good for cookies and dps", -- [1]
-			"Barbi-Hellscream", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Barbi-Hellscream", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-53-0CCFDFB7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffffffffBarbi-Hellscream|r",
-			[51] = 1667323423,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
-		{
-			"pay to play how they want it I guess.", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			172, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323424,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"the fact that we follow the \"always been\" trend is what caused the massive nerf :/", -- [1]
-			"Koraro-Dalaran", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koraro-Dalaran", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			173, -- [11]
-			"Player-3683-093D75B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddKoraro-Dalaran|r",
-			[51] = 1667323452,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
-		{
-			"go back to stat templates and turn a knob in legion to adjust ", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			174, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323455,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
-		{
-			"30 ilvl was 3% more damage.. now its like 30k health difference", -- [1]
-			"Finalwhisper-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Finalwhisper-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-64-0BDFD970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
-			[51] = 1667323495,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
-		{
-			"getting back to the DAY of the Dead question... calendar says it starts at 10am server... but nothing going on in cemetary", -- [1]
-			"Aeri-Staghelm", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Aeri-Staghelm", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			185, -- [11]
-			"Player-160-00372772", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Aeri-Staghelm|r",
-			[51] = 1667323613,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
-		{
-			"is it starting at 10am PST?", -- [1]
-			"Aeri-Staghelm", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Aeri-Staghelm", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			197, -- [11]
-			"Player-160-00372772", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Aeri-Staghelm|r",
-			[51] = 1667323640,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
-		{
-			"WTS |cffffffff|Hitem:178926::::::::60:72::69:4:7193:7882:8156:1588:1:28:2142::::Player-52-0D462FF0:|h[Shadowghast Ring]|h|r ", -- [1]
-			"Kathor-Alleria", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Kathor-Alleria", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			30, -- [11]
-			"Player-52-0863D956", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc69b6dKathor-Alleria|r",
-			[51] = 1667344955,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:15218:Player-3685-09491807:1:11:17:22:4294967295:4294967295:4294967295:4294967295|h[WoW's 18th Anniversary]|h|r!", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Christoff-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aChristoff|r",
-			[51] = 1668735009,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [52]
-		{
-			"WTS Flying Mount |cffa335ee|Hitem:153594::::::::60:105::13::1:28:872:::::|h[Xiwyllag ATV]|h|r 40k / two for 60k pst or inv me.\\", -- [1]
-			"Kokiriforest-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kokiriforest-Turalyon", -- [5]
-			"AFK", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			25, -- [11]
-			"Player-3685-0DF2B50A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aKokiriforest|r",
-			[51] = 1668735380,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"|cffffd100|HclubFinder:ClubFinder-1-1689-3685-47613316|h[Guild: Beyond]|h|r is looking for more members! We are one of the oldest guilds on this server and still going strong! We do everything from raiding to mythic +, some pvp, old achieve runs, and more!", -- [1]
-			"Tippsy-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tippsy-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			30, -- [11]
-			"Player-3685-06FE5FC1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebTippsy|r",
-			[51] = 1668735473,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
-		{
-			"clique", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Christoff-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			44, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aChristoff|r",
-			[51] = 1668736008,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"WTS Flying Mount |cffa335ee|Hitem:153594::::::::60:105::13::1:28:872:::::|h[Xiwyllag ATV]|h|r 40k / two for 60k pst or inv me.\\", -- [1]
-			"Kokiriforest-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kokiriforest-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-3685-0DF2B50A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aKokiriforest|r",
-			[51] = 1668736150,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
-		{
-			"i got stuck in a chair lol. now i'm just waiting on wow's stuck character service to work lol", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			71, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "dougyfresh",
-			[51] = 1668736813,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [57]
-		{
-			"lol what?!", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			72, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "dougyfresh",
-			[51] = 1668736839,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [58]
-		{
-			"what do you mean you're stuck in a chair?", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			73, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "dougyfresh",
-			[51] = 1668736847,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [59]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16278:Player-3685-09491807:1:11:17:22:4294967295:4294967295:4294967295:4294967295|h[Uldaman: Legacy of Tyr]|h|r!", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Christoff-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			248, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aChristoff|r",
-			[51] = 1668738676,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [60]
-		{
-			"Come stretch your paws with |cffffd100|HclubFinder:ClubFinder-1-155216-3685-95039213|h[Guild: Herd of Cats]|h|r (all SL AotC) in season 4 raids! Recruiting moar DPS for raid, Thurs 8-10/Sat 8-11pm server. Join us for Mythic Mondays! All are welcome :)", -- [1]
-			"Sandara-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Sandara-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			273, -- [11]
-			"Player-3685-0704B2B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddSandara|r",
-			[51] = 1668739014,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
-		{
-			"lol nope. logged me out and told me to wait for an email saying im unstuck. just logged in again and im still stuck", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			302, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753230,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [62]
-		{
-			"their customer service is garbage, don't rely on them", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			303, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753186,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [63]
-		{
-			"did you set your hearthstone to boralus yet?", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			304, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753198,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [64]
-		{
-			"you can just heart", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			305, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753203,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [65]
-		{
-			"or i can superfriend summon you", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			306, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753208,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [66]
-		{
-			"the hearthstone worked", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			309, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753266,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [67]
-		{
-			"lol thats gay", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			310, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753270,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [68]
-		{
-			"oh good", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			311, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753274,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [69]
-		{
-			"idk if you wanted to play the story or what but the pre expansion launch event thing is going on right now and i guess its' pretty good xp", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			312, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753312,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [70]
-		{
-			"what event?", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			314, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753334,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [71]
-		{
-			"if you look at your world map, there are a few primal elements things in a few places", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			315, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753372,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [72]
-		{
-			"1 in easter kingdoms and 2 in kalimdor", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			316, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753378,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [73]
-		{
-			"we can basically just join a group and everyone just kills a bunch of shit around us", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			320, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753440,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [74]
-		{
-			"oh i just have to travel over then", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			321, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753446,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [75]
-		{
-			"and the levels just get poured all over us", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			322, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753447,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [76]
-		{
-			"i think so, can you see them on the map?", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			323, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753518,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [77]
-		{
-			"yeah i can", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753539,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [78]
-		{
-			"that sounds fun", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			327, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753482,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [79]
-		{
-			"oh nice, plus they drop these essence things you can use to buy catch-up gear ", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			328, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753497,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [80]
-		{
-			"so you'll be all ready to go when the expansion launches on the 28th", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753508,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [81]
-		{
-			"let me try on my dk maybe he can get powerleveled lol", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			331, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753589,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [82]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16278:Player-3685-09A3CFFD:1:11:18:22:4294967295:4294967295:4294967295:4294967295|h[Uldaman: Legacy of Tyr]|h|r!", -- [1]
-			"Dissick-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dissick-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			9, -- [11]
-			"Player-3685-09A3CFFD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDissick|r",
-			[51] = 1668822788,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [83]
-		{
-			"wtf are all 3 invasions earth lord atm", -- [1]
-			"Kiing-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Kiing-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			16, -- [11]
-			"Player-3685-0DE5F245", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaKiing|r",
-			[51] = 1668823332,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
-		{
-			"Yep lol", -- [1]
-			"Sellah-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Sellah-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			17, -- [11]
-			"Player-3685-0AA18E9B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Sellah|r",
-			[51] = 1668823502,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
-		{
-			"Come stretch your paws with |cffffd100|HclubFinder:ClubFinder-1-155216-3685-95039213|h[Guild: Herd of Cats]|h|r (all SL AotC) in season 4 raids! Recruiting moar DPS for raid, Thurs 8-10/Sat 8-11pm server. Join us for Mythic Mondays! All are welcome :)", -- [1]
-			"Sandara-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Sandara-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			20, -- [11]
-			"Player-3685-0704B2B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff0070ddSandara|r",
-			[51] = 1668824376,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
-		{
-			"man this gear looks real weird on me", -- [1]
-			"Boogalu-Turalyon", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Boogalu-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			24, -- [11]
-			"Player-3685-0714D010", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddBoogalu|r",
-			[51] = 1668824946,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"is there a raid?", -- [1]
-			"Dragdeeznuts-Turalyon", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Dragdeeznuts-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			58, -- [11]
-			"Player-3685-0DF8172D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff33937fDragdeeznuts|r",
-			[51] = 1668846633,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
-		{
-			"zzz", -- [1]
-			"Akyto-Turalyon", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Akyto-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			88, -- [11]
-			"Player-3685-0A3AD42C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Akyto|r",
-			[51] = 1668847059,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
-		{
-			"MOG ZIL'NOK ZUG ZAGA ", -- [1]
-			"Shamøø-Turalyon", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Shamøø-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			1, -- [10]
-			222, -- [11]
-			"Player-3685-08C391E1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddShamøø|r",
-			[51] = 1668848887,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [90]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:5752:Player-3685-09491807:1:11:18:22:4294967295:4294967295:4294967295:4294967295|h[Justly Rewarded]|h|r!", -- [1]
-			"Christoff-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Christoff-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-3685-09491807", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aChristoff|r",
-			[51] = 1668849155,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [91]
-		{
-			"|cff0070dd|Hitem:199839::::::::60:1467::::1:28:2425:::::|h[Dimmed Primeval Water]|h|r extra water here if anyone needs", -- [1]
-			"Fiostrasza-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Fiostrasza-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			88, -- [11]
-			"Player-64-0EDC93B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fFiostrasza-Bloodhoof|r",
-			[51] = 1668883942,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
-		{
-			"anyone need |cff0070dd|Hitem:199839::::::::57:62::::1:28:2425:::::|h[Dimmed Primeval Water]|h|r", -- [1]
-			"Cheetage-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Cheetage-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			92, -- [11]
-			"Player-3685-06F7FFB5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3fc7ebCheetage|r",
-			[51] = 1668883987,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
-		{
-			"i need fire for the last one :(", -- [1]
-			"Tobius-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Tobius-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			97, -- [11]
-			"Player-64-0571C6EA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff48cbaTobius-Bloodhoof|r",
-			[51] = 1668884093,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
-		{
-			"#sameteam", -- [1]
-			"Fiostrasza-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Fiostrasza-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			98, -- [11]
-			"Player-64-0EDC93B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fFiostrasza-Bloodhoof|r",
-			[51] = 1668884040,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
-		{
-			"|cff0070dd|Hitem:199380::::::::60:1467::26:2:6652:8936:2:28:2425:9:60:::::|h[Cyclonic Drape]|h|r also off water boss if anyone needs", -- [1]
-			"Fiostrasza-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Badlands", -- [4]
-			"Fiostrasza-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Badlands", -- [9]
-			0, -- [10]
-			102, -- [11]
-			"Player-64-0EDC93B4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fFiostrasza-Bloodhoof|r",
-			[51] = 1668884062,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
-		{
-			"well the boat has a timer now", -- [1]
-			"Wumborama-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			207, -- [11]
-			"Player-3685-08CF9F04", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Wumborama|r",
-			[51] = 1669693063,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
-		{
-			"yay the boat is here lol", -- [1]
-			"Wumborama-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			210, -- [11]
-			"Player-3685-08CF9F04", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Wumborama|r",
-			[51] = 1669693168,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
-		{
-			"Servers so bad I got 50% to level 61 with pet battles while waiting", -- [1]
-			"Oortaelia-Turalyon", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Oortaelia-Turalyon", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			213, -- [11]
-			"Player-3685-07217C01", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aOortaelia|r",
-			[51] = 1669693222,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
-	},
-	["ChatEditHistory"] = {
-		"/s clique", -- [1]
-		"lol what?!", -- [2]
-		"what do you mean you're stuck in a chair?", -- [3]
-		"their customer service is garbage, don't rely on them", -- [4]
-		"did you set your hearthstone to boralus yet?", -- [5]
-		"you can just heart", -- [6]
-		"or i can superfriend summon you", -- [7]
-		"oh good", -- [8]
-		"idk if you wanted to play the story or what but the pre expansion launch event thing is going on right now and i guess its' pretty good xp", -- [9]
-		"if you look at your world map, there are a few primal elements things in a few places", -- [10]
-		"1 in easter kingdoms and 2 in kalimdor", -- [11]
-		"we can basically just join a group and everyone just kills a bunch of shit around us", -- [12]
-		"and the levels just get poured all over us", -- [13]
-		"i think so, can you see them on the map?", -- [14]
-		"oh nice, plus they drop these essence things you can use to buy catch-up gear", -- [15]
-		"so you'll be all ready to go when the expansion launches on the 28th", -- [16]
-		"let me try on my dk maybe he can get powerleveled lol", -- [17]
-		"/weakauras", -- [18]
-		"/clique", -- [19]
-		"/macro", -- [20]
-	},
-	["ConvertKeybindings"] = true,
+["ChatHistoryLog"] = {
+{
+"uh..... bootay?",
+"Deathtsar-Hellscream",
+"",
+"1. General - Oribos",
+"Deathtsar-Hellscream",
+"",
+1,
+1,
+"General - Oribos",
+0,
+1694,
+"Player-53-0301A989",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaDeathtsar-Hellscream|r",
+[51] = 1629852165,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"I",
+"Çaylarn-Duskwood",
+"",
+"1. General - Oribos",
+"Çaylarn-Duskwood",
+"",
+1,
+1,
+"General - Oribos",
+0,
+1695,
+"Player-64-0BF7DD55",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffe7b09Çaylarn-Duskwood|r",
+[51] = 1629852167,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"w",
+"Deathtsar-Hellscream",
+"",
+"1. General - Oribos",
+"Deathtsar-Hellscream",
+"",
+1,
+1,
+"General - Oribos",
+0,
+1696,
+"Player-53-0301A989",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaDeathtsar-Hellscream|r",
+[51] = 1629852184,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"time for badam to make a comeback?",
+"Azados-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+258,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff38bb9Azados|r",
+[51] = 1631582242,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"it may be time",
+"Christoff-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+259,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Christoff|r",
+[51] = 1631582272,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"lol that fury dps boggled your mind didn't it",
+"Azados-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+287,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff38bb9Azados|r",
+[51] = 1631582323,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"yeah its pretty nuts",
+"Christoff-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+296,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Christoff|r",
+[51] = 1631582353,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"dope",
+"Dissick-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+558,
+"Player-3685-09A3CFFD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff38bb9Dissick|r",
+[51] = 1663110080,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"I chose |cffa335ee|Hitem:189754::::::::60:65::91:4:8758:6652:1537:6646::::::|h[Genesis Lathe]|h|r",
+"Dissick-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+559,
+"Player-3685-09A3CFFD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff38bb9Dissick|r",
+[51] = 1663110082,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"everything about this game is frustrating now",
+"Spiritmonger-Ysera",
+"",
+"1. General - Stormwind City",
+"Spiritmonger-Ysera",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+105,
+"Player-63-0A999B0B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffa330c9Spiritmonger-Ysera|r",
+[51] = 1667323175,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"fair lol",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+106,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323181,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"now I have to find a new class to main im thinking of not even buying the expansion at this point",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+111,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323197,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"gonna be a long winter if I don't buy it lol",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+114,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323223,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LOL God of War and COD are calling me",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+115,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323235,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"yeah very true.",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+116,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323246,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"I looked for a refund for pre-purchase, but couldn't find a way",
+"Barbi-Hellscream",
+"",
+"1. General - Stormwind City",
+"Barbi-Hellscream",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+118,
+"Player-53-0CCFDFB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffffffffBarbi-Hellscream|r",
+[51] = 1667323259,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"i dddnt pre purchase it because i had a feeling something like this would happen",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+125,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323280,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"I tried to get a refund for a enhance boost in wrath next day wouldn't give it either.",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+127,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323284,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"massive nerf instead of tweaking a class",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+134,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323289,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LOL",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+136,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323310,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"I'll prob still play it and try to shine as a nerfed class probably a pipe dream.",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+138,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323263,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"do you think there is any chance they rework the nerf or na",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+139,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323328,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"My shammy finally felt good in Torghast. RIP",
+"Mortadella-AeriePeak",
+"",
+"1. General - Stormwind City",
+"Mortadella-AeriePeak",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+140,
+"Player-1426-0DBDA6AA",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebMortadella-AeriePeak|r",
+[51] = 1667323339,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"maybe once the raids results are out",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+141,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323341,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"so dissapointed man kinda sucks ",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+146,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323352,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"always wanted to main shaman",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+158,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323369,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"so do it",
+"Barbi-Hellscream",
+"",
+"1. General - Stormwind City",
+"Barbi-Hellscream",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+163,
+"Player-53-0CCFDFB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffffffffBarbi-Hellscream|r",
+[51] = 1667323377,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"shadow priest got everything buffed",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+165,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323323,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"but the nerf is insane barbi ",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+167,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323392,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"even demo warlock",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+169,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323403,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"shaman was always a utility class, not a straight dps class",
+"Barbi-Hellscream",
+"",
+"1. General - Stormwind City",
+"Barbi-Hellscream",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+170,
+"Player-53-0CCFDFB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffffffffBarbi-Hellscream|r",
+[51] = 1667323413,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"warlocks are only good for cookies and dps",
+"Barbi-Hellscream",
+"",
+"1. General - Stormwind City",
+"Barbi-Hellscream",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+171,
+"Player-53-0CCFDFB7",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffffffffBarbi-Hellscream|r",
+[51] = 1667323423,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"pay to play how they want it I guess.",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+172,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323424,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"the fact that we follow the \"always been\" trend is what caused the massive nerf :/",
+"Koraro-Dalaran",
+"",
+"1. General - Stormwind City",
+"Koraro-Dalaran",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+173,
+"Player-3683-093D75B0",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddKoraro-Dalaran|r",
+[51] = 1667323452,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"go back to stat templates and turn a knob in legion to adjust ",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+174,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323455,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"30 ilvl was 3% more damage.. now its like 30k health difference",
+"Finalwhisper-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Finalwhisper-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+176,
+"Player-64-0BDFD970",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Finalwhisper-Bloodhoof|r",
+[51] = 1667323495,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"getting back to the DAY of the Dead question... calendar says it starts at 10am server... but nothing going on in cemetary",
+"Aeri-Staghelm",
+"",
+"1. General - Stormwind City",
+"Aeri-Staghelm",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+185,
+"Player-160-00372772",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Aeri-Staghelm|r",
+[51] = 1667323613,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"is it starting at 10am PST?",
+"Aeri-Staghelm",
+"",
+"1. General - Stormwind City",
+"Aeri-Staghelm",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+197,
+"Player-160-00372772",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Aeri-Staghelm|r",
+[51] = 1667323640,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"WTS |cffffffff|Hitem:178926::::::::60:72::69:4:7193:7882:8156:1588:1:28:2142::::Player-52-0D462FF0:|h[Shadowghast Ring]|h|r ",
+"Kathor-Alleria",
+"",
+"1. General - Stormwind City",
+"Kathor-Alleria",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+30,
+"Player-52-0863D956",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc69b6dKathor-Alleria|r",
+[51] = 1667344955,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:15218:Player-3685-09491807:1:11:17:22:4294967295:4294967295:4294967295:4294967295|h[WoW's 18th Anniversary]|h|r!",
+"Christoff-Turalyon",
+"",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+0,
+2,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1668735009,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"WTS Flying Mount |cffa335ee|Hitem:153594::::::::60:105::13::1:28:872:::::|h[Xiwyllag ATV]|h|r 40k / two for 60k pst or inv me.\\",
+"Kokiriforest-Turalyon",
+"",
+"2. Trade - City",
+"Kokiriforest-Turalyon",
+"AFK",
+2,
+2,
+"Trade - City",
+0,
+25,
+"Player-3685-0DF2B50A",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aKokiriforest|r",
+[51] = 1668735380,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffd100|HclubFinder:ClubFinder-1-1689-3685-47613316|h[Guild: Beyond]|h|r is looking for more members! We are one of the oldest guilds on this server and still going strong! We do everything from raiding to mythic +, some pvp, old achieve runs, and more!",
+"Tippsy-Turalyon",
+"",
+"2. Trade - City",
+"Tippsy-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+30,
+"Player-3685-06FE5FC1",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebTippsy|r",
+[51] = 1668735473,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"clique",
+"Christoff-Turalyon",
+"Common",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+7,
+44,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1668736008,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"WTS Flying Mount |cffa335ee|Hitem:153594::::::::60:105::13::1:28:872:::::|h[Xiwyllag ATV]|h|r 40k / two for 60k pst or inv me.\\",
+"Kokiriforest-Turalyon",
+"",
+"2. Trade - City",
+"Kokiriforest-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+48,
+"Player-3685-0DF2B50A",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aKokiriforest|r",
+[51] = 1668736150,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"i got stuck in a chair lol. now i'm just waiting on wow's stuck character service to work lol",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+71,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "dougyfresh",
+[51] = 1668736813,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"lol what?!",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+72,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "dougyfresh",
+[51] = 1668736839,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"what do you mean you're stuck in a chair?",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+73,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "dougyfresh",
+[51] = 1668736847,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16278:Player-3685-09491807:1:11:17:22:4294967295:4294967295:4294967295:4294967295|h[Uldaman: Legacy of Tyr]|h|r!",
+"Christoff-Turalyon",
+"",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+0,
+248,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1668738676,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"Come stretch your paws with |cffffd100|HclubFinder:ClubFinder-1-155216-3685-95039213|h[Guild: Herd of Cats]|h|r (all SL AotC) in season 4 raids! Recruiting moar DPS for raid, Thurs 8-10/Sat 8-11pm server. Join us for Mythic Mondays! All are welcome :)",
+"Sandara-Turalyon",
+"",
+"1. General - Stormwind City",
+"Sandara-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+273,
+"Player-3685-0704B2B4",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddSandara|r",
+[51] = 1668739014,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"lol nope. logged me out and told me to wait for an email saying im unstuck. just logged in again and im still stuck",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+302,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753230,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"their customer service is garbage, don't rely on them",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+303,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753186,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"did you set your hearthstone to boralus yet?",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+304,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753198,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"you can just heart",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+305,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753203,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"or i can superfriend summon you",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+306,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753208,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"the hearthstone worked",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+309,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753266,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"lol thats gay",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+310,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753270,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"oh good",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+311,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753274,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"idk if you wanted to play the story or what but the pre expansion launch event thing is going on right now and i guess its' pretty good xp",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+312,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753312,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"what event?",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+314,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753334,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"if you look at your world map, there are a few primal elements things in a few places",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+315,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753372,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"1 in easter kingdoms and 2 in kalimdor",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+316,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753378,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"we can basically just join a group and everyone just kills a bunch of shit around us",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+320,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753440,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"oh i just have to travel over then",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+321,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753446,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"and the levels just get poured all over us",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+322,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753447,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"i think so, can you see them on the map?",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+323,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753518,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"yeah i can",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+326,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753539,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"that sounds fun",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+327,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753482,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"oh nice, plus they drop these essence things you can use to buy catch-up gear ",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+328,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753497,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"so you'll be all ready to go when the expansion launches on the 28th",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+329,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753508,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"let me try on my dk maybe he can get powerleveled lol",
+"|Kq15|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+331,
+false,
+34,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372dougyfresh|r",
+[51] = 1668753589,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16278:Player-3685-09A3CFFD:1:11:18:22:4294967295:4294967295:4294967295:4294967295|h[Uldaman: Legacy of Tyr]|h|r!",
+"Dissick-Turalyon",
+"",
+"",
+"Dissick-Turalyon",
+"",
+0,
+0,
+"",
+0,
+9,
+"Player-3685-09A3CFFD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDissick|r",
+[51] = 1668822788,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"wtf are all 3 invasions earth lord atm",
+"Kiing-Turalyon",
+"",
+"1. General - Stormwind City",
+"Kiing-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+16,
+"Player-3685-0DE5F245",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaKiing|r",
+[51] = 1668823332,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Yep lol",
+"Sellah-Turalyon",
+"",
+"1. General - Stormwind City",
+"Sellah-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+17,
+"Player-3685-0AA18E9B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Sellah|r",
+[51] = 1668823502,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Come stretch your paws with |cffffd100|HclubFinder:ClubFinder-1-155216-3685-95039213|h[Guild: Herd of Cats]|h|r (all SL AotC) in season 4 raids! Recruiting moar DPS for raid, Thurs 8-10/Sat 8-11pm server. Join us for Mythic Mondays! All are welcome :)",
+"Sandara-Turalyon",
+"",
+"1. General - Stormwind City",
+"Sandara-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+20,
+"Player-3685-0704B2B4",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff0070ddSandara|r",
+[51] = 1668824376,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"man this gear looks real weird on me",
+"Boogalu-Turalyon",
+"Common",
+"",
+"Boogalu-Turalyon",
+"",
+0,
+0,
+"",
+7,
+24,
+"Player-3685-0714D010",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddBoogalu|r",
+[51] = 1668824946,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"is there a raid?",
+"Dragdeeznuts-Turalyon",
+"Common",
+"",
+"Dragdeeznuts-Turalyon",
+"",
+0,
+0,
+"",
+7,
+58,
+"Player-3685-0DF8172D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff33937fDragdeeznuts|r",
+[51] = 1668846633,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"zzz",
+"Akyto-Turalyon",
+"Common",
+"",
+"Akyto-Turalyon",
+"",
+0,
+0,
+"",
+7,
+88,
+"Player-3685-0A3AD42C",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Akyto|r",
+[51] = 1668847059,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"MOG ZIL'NOK ZUG ZAGA ",
+"Shamøø-Turalyon",
+"Orcish",
+"",
+"Shamøø-Turalyon",
+"",
+0,
+0,
+"",
+1,
+222,
+"Player-3685-08C391E1",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddShamøø|r",
+[51] = 1668848887,
+[50] = "CHAT_MSG_YELL",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:5752:Player-3685-09491807:1:11:18:22:4294967295:4294967295:4294967295:4294967295|h[Justly Rewarded]|h|r!",
+"Christoff-Turalyon",
+"",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+0,
+239,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1668849155,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"|cff0070dd|Hitem:199839::::::::60:1467::::1:28:2425:::::|h[Dimmed Primeval Water]|h|r extra water here if anyone needs",
+"Fiostrasza-Bloodhoof",
+"",
+"1. General - Badlands",
+"Fiostrasza-Bloodhoof",
+"",
+1,
+1,
+"General - Badlands",
+0,
+88,
+"Player-64-0EDC93B4",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fFiostrasza-Bloodhoof|r",
+[51] = 1668883942,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"anyone need |cff0070dd|Hitem:199839::::::::57:62::::1:28:2425:::::|h[Dimmed Primeval Water]|h|r",
+"Cheetage-Turalyon",
+"",
+"1. General - Badlands",
+"Cheetage-Turalyon",
+"",
+1,
+1,
+"General - Badlands",
+0,
+92,
+"Player-3685-06F7FFB5",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3fc7ebCheetage|r",
+[51] = 1668883987,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"i need fire for the last one :(",
+"Tobius-Bloodhoof",
+"",
+"1. General - Badlands",
+"Tobius-Bloodhoof",
+"",
+1,
+1,
+"General - Badlands",
+0,
+97,
+"Player-64-0571C6EA",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfff48cbaTobius-Bloodhoof|r",
+[51] = 1668884093,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"#sameteam",
+"Fiostrasza-Bloodhoof",
+"",
+"1. General - Badlands",
+"Fiostrasza-Bloodhoof",
+"",
+1,
+1,
+"General - Badlands",
+0,
+98,
+"Player-64-0EDC93B4",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fFiostrasza-Bloodhoof|r",
+[51] = 1668884040,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cff0070dd|Hitem:199380::::::::60:1467::26:2:6652:8936:2:28:2425:9:60:::::|h[Cyclonic Drape]|h|r also off water boss if anyone needs",
+"Fiostrasza-Bloodhoof",
+"",
+"1. General - Badlands",
+"Fiostrasza-Bloodhoof",
+"",
+1,
+1,
+"General - Badlands",
+0,
+102,
+"Player-64-0EDC93B4",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fFiostrasza-Bloodhoof|r",
+[51] = 1668884062,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"well the boat has a timer now",
+"Wumborama-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+207,
+"Player-3685-08CF9F04",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Wumborama|r",
+[51] = 1669693063,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"yay the boat is here lol",
+"Wumborama-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+210,
+"Player-3685-08CF9F04",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Wumborama|r",
+[51] = 1669693168,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"Servers so bad I got 50% to level 61 with pet battles while waiting",
+"Oortaelia-Turalyon",
+"",
+"1. General - Stormwind City",
+"Oortaelia-Turalyon",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+213,
+"Player-3685-07217C01",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aOortaelia|r",
+[51] = 1669693222,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+86,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1722751188,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Work order for |cff0070dd|Hitem:191886::::::::70:104::13:1:3524::::::|h[Alvin the Anvil]|h|r up",
+"Diannysus-Turalyon",
+"",
+"2. Trade - City",
+"Diannysus-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+87,
+"Player-3685-071E976B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aDiannysus|r",
+[51] = 1722664837,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+88,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1722664861,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"time to spend 5 mins killing the lich king",
+"Outraged-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+81,
+"Player-3685-09A51F40",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dOutraged|r",
+[51] = 1722790436,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"you mean 5 seconds tagging him and then going afk? :D",
+"Christoff-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+84,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1722790534,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"I should do that",
+"Outraged-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+88,
+"Player-3685-09A51F40",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dOutraged|r",
+[51] = 1722790569,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:15805:Player-3685-09491807:1:8:4:24:4294967295:4294967295:4294967295:4294967295|h[Level 70]|h|r!",
+"Christoff-Turalyon",
+"",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+0,
+165,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1722791499,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"Many whelps! Handle it!",
+"Autorious-MoonGuard",
+"",
+"",
+"Autorious-MoonGuard",
+"",
+0,
+0,
+"",
+7,
+370,
+"Player-3675-0AB36591",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dAutorious-MoonGuard|r",
+[51] = 1724285523,
+[50] = "CHAT_MSG_YELL",
+},
+{
+"{triangle} Zygor Guides: I just leveled up from 19 to 20! (2 minutes)",
+"Narnu-Turalyon",
+"",
+"",
+"Narnu-Turalyon",
+"",
+0,
+0,
+"",
+0,
+421,
+"Player-3685-0E8ABBA6",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddNarnu|r",
+[51] = 1724286042,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"{triangle} Zygor Guides: I just leveled up from 22 to 23! (4 minutes)",
+"Narnu-Turalyon",
+"",
+"",
+"Narnu-Turalyon",
+"",
+0,
+0,
+"",
+0,
+491,
+"Player-3685-0E8ABBA6",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddNarnu|r",
+[51] = 1724286609,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:18977:Player-3685-09491807:1:8:21:24:4294967295:4294967295:4294967295:4294967295|h[Draconically Epic]|h|r!",
+"Christoff-Turalyon",
+"",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+0,
+527,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1724286991,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:18976:Player-3685-09491807:1:8:21:24:4294967295:4294967295:4294967295:4294967295|h[Draconically Superior]|h|r!",
+"Christoff-Turalyon",
+"",
+"",
+"Christoff-Turalyon",
+"",
+0,
+0,
+"",
+0,
+530,
+"Player-3685-09491807",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aChristoff|r",
+[51] = 1724286991,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+},
+["ChatEditHistory"] = {
+"what do you mean you're stuck in a chair?",
+"their customer service is garbage, don't rely on them",
+"did you set your hearthstone to boralus yet?",
+"you can just heart",
+"or i can superfriend summon you",
+"oh good",
+"idk if you wanted to play the story or what but the pre expansion launch event thing is going on right now and i guess its' pretty good xp",
+"if you look at your world map, there are a few primal elements things in a few places",
+"1 in easter kingdoms and 2 in kalimdor",
+"we can basically just join a group and everyone just kills a bunch of shit around us",
+"and the levels just get poured all over us",
+"i think so, can you see them on the map?",
+"oh nice, plus they drop these essence things you can use to buy catch-up gear",
+"so you'll be all ready to go when the expansion launches on the 28th",
+"let me try on my dk maybe he can get powerleveled lol",
+"/weakauras",
+"/clique",
+"/wa",
+"/g you mean 5 seconds tagging him and then going afk? :D",
+"/macro",
+},
+["ConvertKeybindings"] = true,
 }

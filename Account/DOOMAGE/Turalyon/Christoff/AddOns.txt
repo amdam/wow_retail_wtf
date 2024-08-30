@@ -14,7 +14,7 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 AngryKeystones: disabled
 OPie_Classic: disabled
@@ -35,7 +35,7 @@ Details: enabled
 MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 ElvUI_DTBars2: disabled
 RaiderIO_DB_TW_H_R: disabled
 RaiderIO_DB_TW_H: disabled
@@ -68,10 +68,10 @@ RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
-Kui_Media: disabled
-Kui_Nameplates: disabled
-Kui_Nameplates_Core: disabled
-Kui_Nameplates_Core_Config: disabled
+Kui_Media: enabled
+Kui_Nameplates: enabled
+Kui_Nameplates_Core: enabled
+Kui_Nameplates_Core_Config: enabled
 OmniCD: disabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
@@ -103,3 +103,4 @@ AdvancedInterfaceOptions: disabled
 HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
+Baganator: enabled

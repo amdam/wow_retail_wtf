@@ -1,6 +1,51 @@
 
 EncounterDetailsDB = {
 ["chartData"] = {
+[3554] = {
+},
+[3555] = {
+},
+[3556] = {
+},
+[3557] = {
+},
+[3558] = {
+},
+[3559] = {
+["Raid Damage Done"] = {
+30621,
+33579,
+9435,
+13274,
+10041,
+7584,
+19869,
+23314,
+20590,
+124994,
+1174,
+25730,
+1901,
+63135,
+40630,
+23467,
+9418,
+50955,
+49818,
+34175,
+["max_value"] = 124994,
+["__time"] = 1723608696,
+},
+},
+[3560] = {
+["Raid Damage Done"] = {
+11873,
+9236,
+0,
+["max_value"] = 11873,
+["__time"] = 1723608772,
+},
+},
 },
 ["encounter_spells"] = {
 [369043] = {
@@ -3290,12 +3335,12 @@ EncounterDetailsDB = {
 ["SPELL_PERIODIC_DAMAGE"] = true,
 },
 },
-[70952] = {
+[369662] = {
 ["school"] = 1,
 ["token"] = {
-["SPELL_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Prince Valanar",
+["source"] = "Quaking Totem",
 },
 [322936] = {
 ["school"] = 1,
@@ -3332,12 +3377,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Stitchflesh's Creation",
 },
-[369662] = {
+[70952] = {
 ["school"] = 1,
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Quaking Totem",
+["source"] = "Prince Valanar",
 },
 [55968] = {
 ["school"] = 1,
@@ -3500,13 +3545,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Devos",
 },
-[59837] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Loken",
-},
 [72737] = {
 ["school"] = 64,
 ["type"] = "BUFF",
@@ -3515,6 +3553,13 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Deathbringer Saurfang",
+},
+[59837] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Loken",
 },
 [84522] = {
 ["school"] = 8,
@@ -3743,14 +3788,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Prince Keleseth",
 },
-[71595] = {
-["school"] = 2,
+[369573] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_HEAL"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Captain Arnath",
+["source"] = "Baelog",
 },
 [334970] = {
 ["school"] = 32,
@@ -3761,13 +3805,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Mueh'zala",
 },
-[369573] = {
-["school"] = 1,
+[71595] = {
+["school"] = 2,
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_HEAL"] = true,
 },
-["source"] = "Baelog",
+["source"] = "Captain Arnath",
 },
 [84521] = {
 ["school"] = 8,
@@ -3938,24 +3983,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Emberon",
 },
-[320144] = {
-["school"] = 1,
-["type"] = "DEBUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Millificent Manastorm",
-},
-[324490] = {
-["school"] = 1,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
-},
-["source"] = "Globgrog",
-},
 [324085] = {
 ["school"] = 1,
 ["type"] = "BUFF",
@@ -3964,6 +3991,14 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Dessia the Decapitator",
+},
+[324490] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Globgrog",
 },
 [70189] = {
 ["school"] = 8,
@@ -3974,6 +4009,16 @@ EncounterDetailsDB = {
 ["SPELL_PERIODIC_DAMAGE"] = true,
 },
 ["source"] = "Spire Gargoyle",
+},
+[320144] = {
+["school"] = 1,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Millificent Manastorm",
 },
 [326281] = {
 ["school"] = 1,
@@ -4211,15 +4256,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Alaraena-Stormrage",
 },
-[91872] = {
-["school"] = 8,
-["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Servant of Siamat",
-},
 [375286] = {
 ["school"] = 4,
 ["type"] = "DEBUFF",
@@ -4238,6 +4274,15 @@ EncounterDetailsDB = {
 ["SPELL_PERIODIC_DAMAGE"] = true,
 },
 ["source"] = "Mueh'zala",
+},
+[91872] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Servant of Siamat",
 },
 [81642] = {
 ["school"] = 8,
@@ -4420,14 +4465,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Crystalline Keeper",
 },
-[369006] = {
-["school"] = 4,
-["type"] = "DEBUFF",
+[69021] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Emberon",
+["source"] = "Ick",
 },
 [57091] = {
 ["school"] = 20,
@@ -4458,13 +4502,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Harbinger of Darkness",
 },
-[69021] = {
-["school"] = 1,
+[369006] = {
+["school"] = 4,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
 },
-["source"] = "Ick",
+["source"] = "Emberon",
 },
 [319902] = {
 ["school"] = 32,

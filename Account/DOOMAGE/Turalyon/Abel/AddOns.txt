@@ -3,7 +3,7 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 AngryKeystones: disabled
 ArkInventory: disabled
@@ -12,13 +12,13 @@ TomCats: disabled
 HHTD: disabled
 ElvUI_BenikUI_Classic: disabled
 NPCScan: disabled
-OPie: disabled
+OPie: enabled
 Clique: enabled
 Details: enabled
 MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 ElvUI_VisualAuraTimers: disabled
 ElvUI_ExtraActionBars: disabled
 ElvUI_CastBarOverlay: disabled
@@ -105,3 +105,4 @@ AdvancedInterfaceOptions: disabled
 HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
+Baganator: enabled

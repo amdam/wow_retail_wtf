@@ -68,14 +68,14 @@ VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
-#showtooltip Celestial Alignment
-/use 13
+#showtooltip
 /cast [spec:1] Celestial Alignment;
+/use 13
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000F " " "134400"
 #showtooltip
-/cast [mod:alt,known:Wild Mushroom] Wild Mushroom; Sunfire;
+/cast [mod:alt] Incapacitating Roar; Sunfire;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000010 " " "134400"

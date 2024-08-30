@@ -1,3 +1,8 @@
+VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+/use Phial of Serenity
+END
 VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
 /stopcasting
 /click [target=mouseover] ExtraActionButton1
@@ -12,11 +17,6 @@ VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
 /way 23.7 42.5 Warden Casad 
 /way 20.8 39.2 Kivarr (cave)
 /way 25.7 38.9 Te'zan
-END
-VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use 14
-/use Phial of Serenity
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
@@ -66,12 +66,12 @@ END
 VER 3 000000000000002D "fel" "135826"
 /target Fel Explosives
 END
+VER 3 0000000000000062 "focus" "132150"
+/focus
+END
 VER 3 000000000000002E "focus" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [target=focus] Repentance
-END
-VER 3 0000000000000062 "focus" "132150"
-/focus
 END
 VER 3 0000000000000064 "fyr'alath blp" "5205711"
 /run local a=C_CurrencyInfo.GetCurrencyInfo(2784)if type(a)=="table" then print("\124cffff8000Fyr'alath's Bad Luck Protection:\124r",a.quantity)end

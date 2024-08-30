@@ -58,7 +58,7 @@ tekDebug: enabled
 DBM-Core: enabled
 OmniCC: enabled
 MikScrollingBattleText: enabled
-OPie: disabled
+OPie: enabled
 ShadowedUnitFrames: disabled
 Quartz: disabled
 ElvUI: enabled
@@ -68,7 +68,7 @@ TipTac: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 AngryKeystones: disabled
 ElvUI_EverySecondCounts: disabled
@@ -81,7 +81,7 @@ Clique: enabled
 Details: enabled
 MythicDungeonTools: enabled
 Skada: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 ElvUI_VisualAuraTimers: disabled
 ElvUI_ExtraActionBars: disabled
 ElvUI_CastBarOverlay: disabled
@@ -156,3 +156,4 @@ Hekili: enabled
 AdvancedInterfaceOptions: disabled
 HandyNotes: enabled
 VenturePlan: disabled
+Baganator: enabled

@@ -1,22 +1,6 @@
 
 EncounterDetailsDB = {
 ["chartData"] = {
-[1652] = {
-},
-[1638] = {
-},
-[1654] = {
-},
-[1655] = {
-},
-[1657] = {
-},
-[1642] = {
-},
-[1644] = {
-},
-[1648] = {
-},
 },
 ["encounter_spells"] = {
 [114460] = {
@@ -1597,15 +1581,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Feng the Accursed",
 },
-[396874] = {
-["school"] = 16,
-["type"] = "DEBUFF",
+[112929] = {
+["school"] = 32,
+["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Wise Mari",
+["source"] = "Gripping Hatred",
 },
 [121447] = {
 ["school"] = 4,
@@ -1625,14 +1608,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Mu'Shiba",
 },
-[112929] = {
+[117222] = {
 ["school"] = 32,
-["type"] = "BUFF",
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Gripping Hatred",
+["source"] = "Gara'jal the Spiritbinder",
 },
 [118988] = {
 ["school"] = 1,
@@ -1644,13 +1625,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Gekkan",
 },
-[117222] = {
-["school"] = 32,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Gara'jal the Spiritbinder",
-},
 [120759] = {
 ["school"] = 1,
 ["type"] = "BUFF",
@@ -1659,6 +1633,15 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Commander Vo'jak",
+},
+[115139] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Thalnos the Soulrender",
 },
 [116018] = {
 ["school"] = 1,
@@ -1670,14 +1653,15 @@ EncounterDetailsDB = {
 },
 ["source"] = "Feng the Accursed",
 },
-[115139] = {
-["school"] = 1,
-["type"] = "BUFF",
+[396874] = {
+["school"] = 16,
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+["SPELL_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Thalnos the Soulrender",
+["source"] = "Wise Mari",
 },
 [59638] = {
 ["school"] = 16,
@@ -1703,14 +1687,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Wander's Colossal Book of Shadow Puppets",
 },
-[116977] = {
-["school"] = 1,
+[102572] = {
+["school"] = 8,
 ["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Stone Quilen",
+["source"] = "Azure Serpent",
 },
 [115002] = {
 ["school"] = 1,
@@ -1729,18 +1711,20 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Defender",
 },
-[102572] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Azure Serpent",
-},
 [128889] = {
 ["school"] = 1,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
+},
+[121443] = {
+["school"] = 8,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+},
+["source"] = "Wing Leader Ner'onok",
 },
 [115827] = {
 ["school"] = 1,
@@ -1760,14 +1744,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Azure Serpent",
 },
-[121443] = {
-["school"] = 8,
-["type"] = "DEBUFF",
+[116977] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Wing Leader Ner'onok",
+["source"] = "Stone Quilen",
 },
 [111324] = {
 ["school"] = 1,
@@ -1963,14 +1947,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Hopper",
 },
-[115829] = {
-["school"] = 1,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Amethyst Guardian",
-},
 [124283] = {
 ["school"] = 1,
 ["token"] = {
@@ -1985,6 +1961,15 @@ EncounterDetailsDB = {
 ["SPELL_DAMAGE"] = true,
 },
 },
+[128233] = {
+["school"] = 2,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Scarlet Evangelist",
+},
 [111775] = {
 ["school"] = 32,
 ["token"] = {
@@ -1994,17 +1979,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Lilian Voss",
 },
-[106823] = {
-["school"] = 4,
-["type"] = "DEBUFF",
+[115829] = {
+["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
-["SPELL_DAMAGE"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-["SPELL_CAST_START"] = true,
 },
-["source"] = "Liu Flameheart",
+["source"] = "Amethyst Guardian",
 },
 [119374] = {
 ["school"] = 1,
@@ -2036,13 +2017,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Ming the Cunning",
 },
-[107047] = {
-["school"] = 1,
+[123996] = {
+["school"] = 8,
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Striker Ga'dok",
+["source"] = "Xuen",
 },
 [107270] = {
 ["school"] = 1,
@@ -2060,14 +2040,17 @@ EncounterDetailsDB = {
 },
 ["source"] = "Ming the Cunning",
 },
-[114999] = {
-["school"] = 32,
+[106823] = {
+["school"] = 4,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Taran Zhu",
+["source"] = "Liu Flameheart",
 },
 [114009] = {
 ["school"] = 4,
@@ -2081,13 +2064,6 @@ EncounterDetailsDB = {
 ["SPELL_DAMAGE"] = true,
 },
 ["source"] = "Cat",
-},
-[123996] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Xuen",
 },
 [107121] = {
 ["school"] = 1,
@@ -2110,6 +2086,14 @@ EncounterDetailsDB = {
 ["SPELL_AURA_APPLIED"] = true,
 },
 ["source"] = "Aragen-CenarionCircle",
+},
+[107047] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Striker Ga'dok",
 },
 [113690] = {
 ["school"] = 4,
@@ -2263,14 +2247,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Defender",
 },
-[128233] = {
-["school"] = 2,
+[114999] = {
+["school"] = 32,
 ["token"] = {
 ["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Scarlet Evangelist",
+["source"] = "Taran Zhu",
 },
 [123496] = {
 ["school"] = 1,

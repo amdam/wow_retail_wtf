@@ -9,7 +9,7 @@ WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 ElvUI_OptionsUI: enabled
 NPCScan: disabled
-OPie: disabled
+OPie: enabled
 ElvUI_BenikUI: enabled
 ArkInventory: disabled
 Clique: enabled
@@ -48,8 +48,8 @@ TipTacItemRef: disabled
 TipTacOptions: disabled
 TipTacTalents: disabled
 TomCats: disabled
-WorldQuestTracker: disabled
-DejaCharacterStats: disabled
+WorldQuestTracker: enabled
+DejaCharacterStats: enabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
@@ -101,3 +101,4 @@ ElvUI: enabled
 HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
+Baganator: enabled

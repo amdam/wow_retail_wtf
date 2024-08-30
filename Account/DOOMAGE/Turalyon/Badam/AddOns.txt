@@ -140,7 +140,7 @@ TipTac: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 AngryKeystones: disabled
 ElvUI_EverySecondCounts: disabled
@@ -173,7 +173,7 @@ Skada: disabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
 TipTacOptions: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 ElvUI_QuestXP: disabled
 Kui_Media: enabled
 Kui_Nameplates: enabled
@@ -226,3 +226,4 @@ LittleWigs_WrathOfTheLichKing: enabled
 BigWigs_MistsOfPandaria: enabled
 Hekili: enabled
 HandyNotes: enabled
+Baganator: enabled

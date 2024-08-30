@@ -1,244 +1,15 @@
 
 EncounterDetailsDB = {
 ["chartData"] = {
-[262] = {
-["Raid Damage Done"] = {
-["__time"] = 1720563720,
+[374] = {
 },
+[375] = {
 },
-[270] = {
-["Raid Damage Done"] = {
-104477,
-["max_value"] = 104477,
-["__time"] = 1720563862,
+[376] = {
 },
+[372] = {
 },
-[263] = {
-["Raid Damage Done"] = {
-148863,
-["max_value"] = 148863,
-["__time"] = 1720563758,
-},
-},
-[271] = {
-["Raid Damage Done"] = {
-377118,
-["max_value"] = 377118,
-["__time"] = 1720563879,
-},
-},
-[256] = {
-["Raid Damage Done"] = {
-39607,
-133036,
-0,
-["max_value"] = 133036,
-["__time"] = 1720563605,
-},
-},
-[264] = {
-["Raid Damage Done"] = {
-["__time"] = 1720563759,
-},
-},
-[272] = {
-["Raid Damage Done"] = {
-171691,
-["max_value"] = 171691,
-["__time"] = 1720563938,
-},
-},
-[257] = {
-["Raid Damage Done"] = {
-81943,
-79214,
-["max_value"] = 81943,
-["__time"] = 1720563631,
-},
-},
-[265] = {
-["Raid Damage Done"] = {
-167010,
-["max_value"] = 167010,
-["__time"] = 1720563764,
-},
-},
-[273] = {
-["Raid Damage Done"] = {
-95599,
-["max_value"] = 95599,
-["__time"] = 1720563949,
-},
-},
-[258] = {
-["Raid Damage Done"] = {
-["__time"] = 1720563645,
-},
-},
-[266] = {
-["Raid Damage Done"] = {
-57430,
-["max_value"] = 57430,
-["__time"] = 1720563835,
-},
-},
-[274] = {
-["Raid Damage Done"] = {
-["__time"] = 1720563967,
-},
-},
-[259] = {
-["Raid Damage Done"] = {
-410764,
-161731,
-["max_value"] = 410764,
-["__time"] = 1720563647,
-},
-},
-[267] = {
-["Raid Damage Done"] = {
-33005,
-["max_value"] = 33005,
-["__time"] = 1720563837,
-},
-},
-[275] = {
-["Raid Damage Done"] = {
-393374,
-1843599,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-158935,
-0,
-158935,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-152577,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-["max_value"] = 1843599,
-["__time"] = 1720564234,
-},
-},
-[254] = {
-},
-[260] = {
-["Raid Damage Done"] = {
-11486,
-45944,
-45944,
-0,
-0,
-11486,
-["max_value"] = 45944,
-["__time"] = 1720563672,
-},
-},
-[268] = {
-["Raid Damage Done"] = {
-["__time"] = 1720563841,
-},
-},
-[261] = {
-["Raid Damage Done"] = {
-4,
-["max_value"] = 4,
-["__time"] = 1720563676,
-},
-},
-[269] = {
-["Raid Damage Done"] = {
-104477,
-["max_value"] = 104477,
-["__time"] = 1720563848,
-},
+[373] = {
 },
 },
 ["encounter_spells"] = {
@@ -332,43 +103,37 @@ EncounterDetailsDB = {
 ["emotes"] = {
 {
 {
-39.4429999999702,
+38.40400000000955,
 "Is this it, mortals? Is this all the fury you can muster?",
 "Illidan Stormrage",
 7,
 },
 {
-49.17400000011548,
+48.06100000001607,
 "Their fury pales before mine, Illidan. We have some unsettled business between us.",
 "Maiev Shadowsong",
 7,
 },
 {
-57.67599999997765,
+56.46299999998882,
 "Maiev... How is it even possible?",
 "Illidan Stormrage",
 7,
 },
 {
-63.75999999977648,
+62.69700000001467,
 "My long hunt is finally over. Today, Justice will be done!",
 "Maiev Shadowsong",
 7,
 },
 {
-73.48300000000745,
-"Feel the hatred of ten thousand years!",
-"Illidan Stormrage",
-7,
-},
-{
-75.88700000010431,
+72.42699999999604,
 "It is finished. You are beaten.",
 "Maiev Shadowsong",
 7,
 },
 {
-81.97999999998137,
+78.37799999999697,
 "You have won... Maiev. But the huntress... is nothing without the hunt. You... are nothing... without me.",
 "Illidan Stormrage",
 7,
@@ -379,12 +144,6 @@ EncounterDetailsDB = {
 ["boss"] = "The Illidari Council",
 },
 {
-{
-0.1990000000223517,
-"So... business or pleasure?",
-"Mother Shahraz",
-7,
-},
 ["boss"] = "Mother Shahraz",
 },
 },

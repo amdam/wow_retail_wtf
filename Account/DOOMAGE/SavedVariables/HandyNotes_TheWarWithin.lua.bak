@@ -1,0 +1,14 @@
+
+HandyNotes_TheWarWithinDB = {
+["profileKeys"] = {
+["Dreg - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Adamancy - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["icon_display_disturbed_earth"] = true,
+},
+},
+}

@@ -16,13 +16,15 @@ VER 3 010000000000000B " " "ABILITY_ROGUE_TRICKSOFTHETRADE"
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1] Vendetta; [spec:2] Adrenaline Rush; [spec:3] Shadow Blades;
+/cast [spec:1] Deathmark; [spec:2] Adrenaline Rush; [spec:3] Shadow Blades;
+/cast [spec:3] Symbols of Death;
 /use 13
 /script UIErrorsFrame:Clear();
 END
 VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier] Shadow Dance; /cast [modifier:alt] Crimson Vial
+/cast [] Shadow Dance;
+/cast [known:Thistle Tea] Thistle Tea; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
@@ -54,13 +56,13 @@ END
 VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Shuriken Tornado] Shuriken Tornado; Rupture; 
+/cast [mod:alt,known:Shuriken Tornado] Shuriken Tornado; [mod:alt,known:Crimson Tempest] Crimson Tempest; Rupture; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,spec:3] Shuriken Toss; [mod:alt,spec:1] Poisoned Knife; [spec:1] Garrote; [spec:3] Secret Technique;
+/cast [mod:alt,spec:3] Shuriken Toss; [mod:alt,known:Echoing Reprimand] Echoing Reprimand; [spec:1] Garrote; [spec:3] Secret Technique;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"

@@ -1,2204 +1,2204 @@
 
 ElvCharacterDB = {
-	["ChatHistoryLog"] = {
-		{
-			"as long as you're accessing your library, it's locked for anyone ele", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			228, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956181,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"*else", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			229, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956183,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"oh", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			230, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956184,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"it USED to be on a per game basis", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956198,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"but they didn't like people sharing with each other, which is the whole point of the system...", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			232, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956211,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"stupid", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			233, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956255,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [6]
-		{
-			"aly and i are gonna dick around in lowish stones if anyone wants to go", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			234, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956383,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [7]
-		{
-			"arwyl \"fun\"", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			235, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956386,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [8]
-		{
-			"what do you mean dick around", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			236, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956402,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"like play my hunter dick around", -- [1]
-			"Ralahala-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ralahala", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			237, -- [11]
-			"Player-3685-07D8BE06", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ralahala|r",
-			[51] = 1527956409,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"lol", -- [1]
-			"Ralahala-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ralahala", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			238, -- [11]
-			"Player-3685-07D8BE06", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ralahala|r",
-			[51] = 1527956411,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
-		{
-			"she's practicing hunter", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956412,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
-		{
-			"I thought she already knew hunter", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			240, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956420,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
-		{
-			"she hasn't played it in like 6 months", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			241, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956433,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [14]
-		{
-			"not for m+. new talents and whatnot", -- [1]
-			"Ralahala-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ralahala", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			242, -- [11]
-			"Player-3685-07D8BE06", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ralahala|r",
-			[51] = 1527956434,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [15]
-		{
-			"maybe longer", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			243, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956434,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [16]
-		{
-			"yea sure I'll dick around", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			244, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956440,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [17]
-		{
-			"you can play unholy lol", -- [1]
-			"Ralahala-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ralahala", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			245, -- [11]
-			"Player-3685-07D8BE06", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ralahala|r",
-			[51] = 1527956448,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [18]
-		{
-			"eww no", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			246, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956455,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [19]
-		{
-			"you've seen adam, goes away for 2 weeks, bucket full of rust comes off", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			247, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956456,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [20]
-		{
-			"what", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			248, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956472,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [21]
-		{
-			"he's pretty good", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			249, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956475,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
-		{
-			"when he practices lol", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			250, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1527956491,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [23]
-		{
-			"He doesn't need practice", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			251, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1527956500,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [24]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:6609:Player-3685-093D597F:1:6:2:18:4294967295:4294967295:4294967295:4294967295|h[No Favorites]|h|r!", -- [1]
-			"Naiendra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naiendra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			66, -- [11]
-			"Player-3685-093D597F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Naiendra|r",
-			[51] = 1527973178,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [25]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:6610:Player-3685-093D597F:1:6:2:18:4294967295:4294967295:4294967295:4294967295|h[All Pets Allowed]|h|r!", -- [1]
-			"Naiendra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naiendra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			67, -- [11]
-			"Player-3685-093D597F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Naiendra|r",
-			[51] = 1527973178,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [26]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:6581:Player-3685-093D597F:1:6:2:18:4294967295:4294967295:4294967295:4294967295|h[Pro Pet Crew]|h|r!", -- [1]
-			"Naiendra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naiendra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			101, -- [11]
-			"Player-3685-093D597F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Naiendra|r",
-			[51] = 1527973507,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [27]
-		{
-			"hi adam", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			56, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528168115,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [28]
-		{
-			"what does internal mail database error mean", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			68, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168476,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [29]
-		{
-			"i had sold auctions and i clicked open all and i didnt get all my money", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			69, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168505,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [30]
-		{
-			":/", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			70, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168508,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
-		{
-			"you dun goofed son", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			71, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528168519,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [32]
-		{
-			"so my 400k is poof?", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			73, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168562,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
-		{
-			"no it just hasnt loaded in yet", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			76, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528168604,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
-		{
-			"into my inventory?", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			77, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168615,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [35]
-		{
-			"the mail", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			78, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528168633,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
-		{
-			"i saw it in the mail, i moused over it and saw the amount it was going to give me, then i clicked open all and it opened everything but i didnt get the money", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			79, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168696,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
-		{
-			"guess i need to open a ticket...", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			81, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528168762,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
-		{
-			"it doesnt help me I already have a 23 in tikme", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			96, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528169116,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
-		{
-			"yeah all of us do", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			97, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1528169130,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
-		{
-			"well poo", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			98, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1528169131,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
-		{
-			"watch the 24 be a vault", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			99, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1528169136,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
-		{
-			"i'm too tired for the 24 if we succeed", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			100, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1528169146,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
-		{
-			"this is my last one", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			101, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1528169148,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
-		{
-			"hey adam", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528245985,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
-		{
-			"you wanna do a lower", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528245989,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
-		{
-			"mythic plus", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528245993,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
-		{
-			"23", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528245997,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
-		{
-			"mmmmmmmmm", -- [1]
-			"Tietra-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tietra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6, -- [11]
-			"Player-3685-08DC61A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aTietra|r",
-			[51] = 1528246000,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
-		{
-			"mm i would but im gonna go work out here in about 20 minutes", -- [1]
-			"Aduum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aduum", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8, -- [11]
-			"Player-3685-07EA9A90", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddAduum|r",
-			[51] = 1528246032,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
-		{
-			"|cffffff00The Great Forge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			9, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528246072,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"|cffffff00Ironforge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			70, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528246534,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
-		{
-			"|cffffff00Ironforge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			66, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528415517,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"|cffffff00The Great Forge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			67, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528415530,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
-		{
-			"|cffffff00Ironforge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			4, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528514179,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
-		{
-			"|cffffff00Ironforge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			52, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528514243,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
-		{
-			"|cffffff00The Great Forge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			57, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528514287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
-		{
-			"|cffffff00The Commons is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			59, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528514302,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
-		{
-			"|cffffff00Ironforge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			60, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528514314,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
-		{
-			"|cffffff00The Commons is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
-			0, -- [10]
-			61, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1528514369,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
-		{
-			"how ya'll doing today?", -- [1]
-			"Putmoredots-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Putmoredots", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11, -- [11]
-			"Player-3685-09C46520", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPutmoredots|r",
-			[51] = 1529020462,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
-		{
-			"good, how are you?", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			35, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1529020518,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
-		{
-			"doing pretty good", -- [1]
-			"Putmoredots-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Putmoredots", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			46, -- [11]
-			"Player-3685-09C46520", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPutmoredots|r",
-			[51] = 1529020547,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
-		{
-			"joey, you afk or something?", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Azados", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			54, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAzados|r",
-			[51] = 1529020556,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
-		{
-			"haven't seen that shaman in a loooong time", -- [1]
-			"Pawpados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			369, -- [11]
-			"Player-3685-0723E940", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Pawpados|r",
-			[51] = 1572038854,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
-		{
-			"wts |cffa335ee|Hitem:175009::::::::120:270::5:8:4823:6578:6579:6437:6455:6513:1502:4786:::|h[Zealous Ritualist's Reverie]|h|r ", -- [1]
-			"Crazifist-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crazifist-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			227, -- [11]
-			"Player-3685-0A42A56F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Crazifist|r",
-			[51] = 1597767149,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
-		{
-			"wts |cff0070dd|Hbattlepet:328:2:3:204:26:21:BattlePet-0-00000935B8A5:38777|h[Purple Puffer]|h|r 80k", -- [1]
-			"Yolodolo-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Yolodolo-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			185, -- [11]
-			"Player-3685-0B7CE234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Yolodolo|r",
-			[51] = 1597878937,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
-		{
-			"wts |cff0070dd|Hbattlepet:328:25:3:1400:325:260:0000000000000000:0|h[Purple Puffer]|h|r 80k way cheaper then AH ", -- [1]
-			"Yolodolo-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Yolodolo-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			309, -- [11]
-			"Player-3685-0B7CE234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Yolodolo|r",
-			[51] = 1597879039,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
-		{
-			"wts |cff0070dd|Hbattlepet:328:2:3:204:26:21:BattlePet-0-00000935B8A5:38777|h[Purple Puffer]|h|r80k ", -- [1]
-			"Yolodolo-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Yolodolo-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			334, -- [11]
-			"Player-3685-0B7CE234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Yolodolo|r",
-			[51] = 1597879188,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
-		{
-			"wts |cff0070dd|Hbattlepet:328:2:3:204:26:21:BattlePet-0-00000935B8A5:38777|h[Purple Puffer]|h|r80k", -- [1]
-			"Yolodolo-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Yolodolo-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			367, -- [11]
-			"Player-3685-0B7CE234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Yolodolo|r",
-			[51] = 1597879346,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
-		{
-			"if u can find vulnerabilities and CRACK the codes on beta that will help avoid some colossal problems u would have on live", -- [1]
-			"Reì-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Reì-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-3685-0724866F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Reì|r",
-			[51] = 1597946908,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
-		{
-			"I mean its called beta testing for a reason right?", -- [1]
-			"Hagnir-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hagnir-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			32, -- [11]
-			"Player-3685-0AF4F01B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHagnir|r",
-			[51] = 1597947019,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
-		{
-			"its impossible to fix every game breaking glitch the game would have but rextroy in my opinion is a legend a lot of stuff bliz would not fix had it not been for him finding vulnerabilities", -- [1]
-			"Reì-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Reì-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			38, -- [11]
-			"Player-3685-0724866F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Reì|r",
-			[51] = 1597947042,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
-		{
-			"they need to have people like him and others goin in i hope he keeps doing what he is doing maybe we will has a better game for once", -- [1]
-			"Reì-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Reì-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			39, -- [11]
-			"Player-3685-0724866F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Reì|r",
-			[51] = 1597947070,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
-		{
-			"bug hunters are under appreciated for sure ", -- [1]
-			"Hagnir-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hagnir-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			40, -- [11]
-			"Player-3685-0AF4F01B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHagnir|r",
-			[51] = 1597947075,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
-		{
-			"imo ", -- [1]
-			"Hagnir-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hagnir-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			41, -- [11]
-			"Player-3685-0AF4F01B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHagnir|r",
-			[51] = 1597947078,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
-		{
-			"rextroy is like the king of bug hunters trust me he do some crazy stuff even i would of not spotted", -- [1]
-			"Reì-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Reì-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			42, -- [11]
-			"Player-3685-0724866F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Reì|r",
-			[51] = 1597947106,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
-		{
-			"Turalyon is on the throne, because of the prepatch event that has not been put in yet, but the TLDR is that sylvanas has kidnapped some faction leaders", -- [1]
-			"Thiccdaddy-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Thiccdaddy-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-3685-0A36C9F6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Thiccdaddy|r",
-			[51] = 1602638427,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
-		{
-			"you'll find out after the preexcap event launches ", -- [1]
-			"Mikya-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mikya-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			260, -- [11]
-			"Player-3685-0703D328", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMikya|r",
-			[51] = 1602638427,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
-		{
-			"omg spoilers", -- [1]
-			"Mikya-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mikya-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-3685-0703D328", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMikya|r",
-			[51] = 1602638431,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
-		{
-			"Because Anduin is in the Shadowlands, Turalyon was left in charge.", -- [1]
-			"Thro-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Thro-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-3685-0CD1E61F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaThro|r",
-			[51] = 1602638435,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
-		{
-			"Good work, bois", -- [1]
-			"Mortbelle-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mortbelle-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			264, -- [11]
-			"Player-3685-0B3D648D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Mortbelle|r",
-			[51] = 1602638443,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
-		{
-			"if I could roll my eyes via text I would...", -- [1]
-			"Yåësérä-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Yåësérä-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-3685-07111700", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcYåësérä|r",
-			[51] = 1602638444,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
-		{
-			"wait so when will i get the quest for that?", -- [1]
-			"Darkenling-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Darkenling-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-3685-0ABF945D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edDarkenling|r",
-			[51] = 1602638453,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
-		{
-			"Soon(TM)", -- [1]
-			"Mikya-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mikya-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-3685-0703D328", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaMikya|r",
-			[51] = 1602638459,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
-		{
-			"In like.. 3 weeks or so.", -- [1]
-			"Thro-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Thro-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			268, -- [11]
-			"Player-3685-0CD1E61F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaThro|r",
-			[51] = 1602638463,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
-		{
-			"oh ok ty", -- [1]
-			"Darkenling-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Darkenling-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-3685-0ABF945D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edDarkenling|r",
-			[51] = 1602638468,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
-		{
-			"Bet less than that", -- [1]
-			"Mortbelle-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mortbelle-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-3685-0B3D648D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Mortbelle|r",
-			[51] = 1602638477,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
-		{
-			"Don't recall the \"learn your new talents\" phase lasting that long", -- [1]
-			"Mortbelle-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mortbelle-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			271, -- [11]
-			"Player-3685-0B3D648D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Mortbelle|r",
-			[51] = 1602638487,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
-		{
-			"just played again after 2 months to wait for pre patch", -- [1]
-			"Darkenling-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Darkenling-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			272, -- [11]
-			"Player-3685-0ABF945D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edDarkenling|r",
-			[51] = 1602638506,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
-		{
-			"|cff0070dd|Hbattlepet:1753:1:3:150:12:11:0000000000000000:65630|h[Bleakwater Jelly]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			469, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168133,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [91]
-		{
-			"|cff0070dd|Hbattlepet:2548:1:3:169:10:10:0000000000000000:90140|h[Everburning Treant]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			471, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168141,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [92]
-		{
-			"|cff0070dd|Hbattlepet:1623:1:3:158:11:11:0000000000000000:61887|h[Leviathan Hatchling]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			472, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168145,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [93]
-		{
-			"|cff0070dd|Hbattlepet:1955:1:3:145:14:10:0000000000000000:73671|h[Magma Rageling]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			473, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168147,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [94]
-		{
-			"|cff0070dd|Hbattlepet:2692:1:3:152:11:12:0000000000000000:91028|h[Lightless Ambusher]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			474, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168153,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [95]
-		{
-			"|cff0070dd|Hbattlepet:1628:1:3:155:11:11:0000000000000000:0|h[Sister of Temptation]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			475, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168157,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [96]
-		{
-			"|cff0070dd|Hbattlepet:2833:1:3:164:11:10:0000000000000000:94706|h[Void-Scarred Anubisath]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			477, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168163,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [97]
-		{
-			"|cff0070dd|Hbattlepet:2566:1:3:157:10:12:0000000000000000:77901|h[Albatross Hatchling]|h|r", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			478, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Releaf|r",
-			[51] = 1604168174,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [98]
-		{
-			"lf GUILD", -- [1]
-			"Darthhemi-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Darthhemi-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			22, -- [11]
-			"Player-3685-0DFE3498", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff33937fDarthhemi|r",
-			[51] = 1669671941,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
-	},
-	["ChatEditHistory"] = {
-		"/g :/", -- [1]
-		"/g mm i would but im gonna go work out here in about 20 minutes", -- [2]
-		"/cw Releaf |cff0070dd|Hbattlepet:1628:1:3:155:11:11:0000000000000000:0|h[Sister of Temptation]|h|r", -- [3]
-		"/g what does internal mail database error mean", -- [4]
-		"/g i had sold auctions and i clicked open all and i didnt get all my money", -- [5]
-		"/cw Releaf |cff0070dd|Hbattlepet:2833:1:3:164:11:10:0000000000000000:94706|h[Void-Scarred Anubisath]|h|r", -- [6]
-		"/g guess i need to open a ticket...", -- [7]
-		"/g so my 400k is poof?", -- [8]
-		"/ec", -- [9]
-		"/g i saw it in the mail, i moused over it and saw the amount it was going to give me, then i clicked open all and it opened everything but i didnt get the money", -- [10]
-		"/cw Releaf |cff0070dd|Hbattlepet:2692:1:3:152:11:12:0000000000000000:91028|h[Lightless Ambusher]|h|r", -- [11]
-		"/cw Releaf |cff0070dd|Hbattlepet:1623:1:3:158:11:11:0000000000000000:61887|h[Leviathan Hatchling]|h|r", -- [12]
-		"/g into my inventory?", -- [13]
-		"/cw Releaf |cff0070dd|Hbattlepet:2566:1:3:157:10:12:0000000000000000:77901|h[Albatross Hatchling]|h|r", -- [14]
-		"/cw Releaf |cff0070dd|Hbattlepet:1955:1:3:145:14:10:0000000000000000:73671|h[Magma Rageling]|h|r", -- [15]
-		"/cw Releaf |cff0070dd|Hbattlepet:2548:1:3:169:10:10:0000000000000000:90140|h[Everburning Treant]|h|r", -- [16]
-		"/cw Releaf |cff0070dd|Hbattlepet:1753:1:3:150:12:11:0000000000000000:65630|h[Bleakwater Jelly]|h|r", -- [17]
-		"/reload", -- [18]
-	},
-	["ConvertKeybindings"] = true,
+["ChatHistoryLog"] = {
+{
+"as long as you're accessing your library, it's locked for anyone ele",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+228,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956181,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"*else",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+229,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956183,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"oh",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+230,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956184,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"it USED to be on a per game basis",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+231,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956198,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"but they didn't like people sharing with each other, which is the whole point of the system...",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+232,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956211,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"stupid",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+233,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956255,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"aly and i are gonna dick around in lowish stones if anyone wants to go",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+234,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956383,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"arwyl \"fun\"",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+235,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956386,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"what do you mean dick around",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+236,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956402,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"like play my hunter dick around",
+"Ralahala-Turalyon",
+"",
+"",
+"Ralahala",
+"",
+0,
+0,
+"",
+0,
+237,
+"Player-3685-07D8BE06",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Ralahala|r",
+[51] = 1527956409,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"lol",
+"Ralahala-Turalyon",
+"",
+"",
+"Ralahala",
+"",
+0,
+0,
+"",
+0,
+238,
+"Player-3685-07D8BE06",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Ralahala|r",
+[51] = 1527956411,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"she's practicing hunter",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+239,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956412,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"I thought she already knew hunter",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+240,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956420,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"she hasn't played it in like 6 months",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+241,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956433,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"not for m+. new talents and whatnot",
+"Ralahala-Turalyon",
+"",
+"",
+"Ralahala",
+"",
+0,
+0,
+"",
+0,
+242,
+"Player-3685-07D8BE06",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Ralahala|r",
+[51] = 1527956434,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"maybe longer",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+243,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956434,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"yea sure I'll dick around",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+244,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956440,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"you can play unholy lol",
+"Ralahala-Turalyon",
+"",
+"",
+"Ralahala",
+"",
+0,
+0,
+"",
+0,
+245,
+"Player-3685-07D8BE06",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Ralahala|r",
+[51] = 1527956448,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"eww no",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+246,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956455,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"you've seen adam, goes away for 2 weeks, bucket full of rust comes off",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+247,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956456,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"what",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+248,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956472,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"he's pretty good",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+249,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956475,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"when he practices lol",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+250,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1527956491,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"He doesn't need practice",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+251,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1527956500,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:6609:Player-3685-093D597F:1:6:2:18:4294967295:4294967295:4294967295:4294967295|h[No Favorites]|h|r!",
+"Naiendra-Turalyon",
+"",
+"",
+"Naiendra",
+"",
+0,
+0,
+"",
+0,
+66,
+"Player-3685-093D597F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Naiendra|r",
+[51] = 1527973178,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:6610:Player-3685-093D597F:1:6:2:18:4294967295:4294967295:4294967295:4294967295|h[All Pets Allowed]|h|r!",
+"Naiendra-Turalyon",
+"",
+"",
+"Naiendra",
+"",
+0,
+0,
+"",
+0,
+67,
+"Player-3685-093D597F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Naiendra|r",
+[51] = 1527973178,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:6581:Player-3685-093D597F:1:6:2:18:4294967295:4294967295:4294967295:4294967295|h[Pro Pet Crew]|h|r!",
+"Naiendra-Turalyon",
+"",
+"",
+"Naiendra",
+"",
+0,
+0,
+"",
+0,
+101,
+"Player-3685-093D597F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Naiendra|r",
+[51] = 1527973507,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"hi adam",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+56,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528168115,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"what does internal mail database error mean",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+68,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168476,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"i had sold auctions and i clicked open all and i didnt get all my money",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+69,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168505,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+":/",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+70,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168508,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"you dun goofed son",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+71,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528168519,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"so my 400k is poof?",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+73,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168562,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"no it just hasnt loaded in yet",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+76,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528168604,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"into my inventory?",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+77,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168615,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"the mail",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+78,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528168633,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"i saw it in the mail, i moused over it and saw the amount it was going to give me, then i clicked open all and it opened everything but i didnt get the money",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+79,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168696,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"guess i need to open a ticket...",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+81,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528168762,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"it doesnt help me I already have a 23 in tikme",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+96,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528169116,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"yeah all of us do",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+97,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1528169130,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"well poo",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+98,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1528169131,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"watch the 24 be a vault",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+99,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1528169136,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"i'm too tired for the 24 if we succeed",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+100,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1528169146,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"this is my last one",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+101,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1528169148,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"hey adam",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+2,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528245985,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"you wanna do a lower",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+3,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528245989,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"mythic plus",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+4,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528245993,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"23",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+5,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528245997,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"mmmmmmmmm",
+"Tietra-Turalyon",
+"",
+"",
+"Tietra",
+"",
+0,
+0,
+"",
+0,
+6,
+"Player-3685-08DC61A2",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aTietra|r",
+[51] = 1528246000,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"mm i would but im gonna go work out here in about 20 minutes",
+"Aduum-Turalyon",
+"",
+"",
+"Aduum",
+"",
+0,
+0,
+"",
+0,
+8,
+"Player-3685-07EA9A90",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddAduum|r",
+[51] = 1528246032,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"|cffffff00The Great Forge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+9,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528246072,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Ironforge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+70,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528246534,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Ironforge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+66,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528415517,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Great Forge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+67,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528415530,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Ironforge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+4,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528514179,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Ironforge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+52,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528514243,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Great Forge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+57,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528514287,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Commons is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+59,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528514302,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Ironforge is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+60,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528514314,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Commons is under attack!|r",
+"",
+"",
+"3. LocalDefense - Ironforge",
+"",
+"",
+22,
+3,
+"LocalDefense - Ironforge",
+0,
+61,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1528514369,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"how ya'll doing today?",
+"Putmoredots-Turalyon",
+"",
+"",
+"Putmoredots",
+"",
+0,
+0,
+"",
+0,
+11,
+"Player-3685-09C46520",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8787edPutmoredots|r",
+[51] = 1529020462,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"good, how are you?",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+35,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1529020518,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"doing pretty good",
+"Putmoredots-Turalyon",
+"",
+"",
+"Putmoredots",
+"",
+0,
+0,
+"",
+0,
+46,
+"Player-3685-09C46520",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8787edPutmoredots|r",
+[51] = 1529020547,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"joey, you afk or something?",
+"Azados-Turalyon",
+"",
+"",
+"Azados",
+"",
+0,
+0,
+"",
+0,
+54,
+"Player-3685-07251D87",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAzados|r",
+[51] = 1529020556,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"haven't seen that shaman in a loooong time",
+"Pawpados-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+369,
+"Player-3685-0723E940",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Pawpados|r",
+[51] = 1572038854,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"wts |cffa335ee|Hitem:175009::::::::120:270::5:8:4823:6578:6579:6437:6455:6513:1502:4786:::|h[Zealous Ritualist's Reverie]|h|r ",
+"Crazifist-Turalyon",
+"",
+"2. Trade - City",
+"Crazifist-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+227,
+"Player-3685-0A42A56F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff00fe95Crazifist|r",
+[51] = 1597767149,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"wts |cff0070dd|Hbattlepet:328:2:3:204:26:21:BattlePet-0-00000935B8A5:38777|h[Purple Puffer]|h|r 80k",
+"Yolodolo-Turalyon",
+"",
+"2. Trade - City",
+"Yolodolo-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+185,
+"Player-3685-0B7CE234",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Yolodolo|r",
+[51] = 1597878937,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"wts |cff0070dd|Hbattlepet:328:25:3:1400:325:260:0000000000000000:0|h[Purple Puffer]|h|r 80k way cheaper then AH ",
+"Yolodolo-Turalyon",
+"",
+"2. Trade - City",
+"Yolodolo-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+309,
+"Player-3685-0B7CE234",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Yolodolo|r",
+[51] = 1597879039,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"wts |cff0070dd|Hbattlepet:328:2:3:204:26:21:BattlePet-0-00000935B8A5:38777|h[Purple Puffer]|h|r80k ",
+"Yolodolo-Turalyon",
+"",
+"2. Trade - City",
+"Yolodolo-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+334,
+"Player-3685-0B7CE234",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Yolodolo|r",
+[51] = 1597879188,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"wts |cff0070dd|Hbattlepet:328:2:3:204:26:21:BattlePet-0-00000935B8A5:38777|h[Purple Puffer]|h|r80k",
+"Yolodolo-Turalyon",
+"",
+"2. Trade - City",
+"Yolodolo-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+367,
+"Player-3685-0B7CE234",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Yolodolo|r",
+[51] = 1597879346,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"if u can find vulnerabilities and CRACK the codes on beta that will help avoid some colossal problems u would have on live",
+"Reì-Turalyon",
+"",
+"2. Trade - City",
+"Reì-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+2,
+"Player-3685-0724866F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Reì|r",
+[51] = 1597946908,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"I mean its called beta testing for a reason right?",
+"Hagnir-Turalyon",
+"",
+"2. Trade - City",
+"Hagnir-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+32,
+"Player-3685-0AF4F01B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc59a6cHagnir|r",
+[51] = 1597947019,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"its impossible to fix every game breaking glitch the game would have but rextroy in my opinion is a legend a lot of stuff bliz would not fix had it not been for him finding vulnerabilities",
+"Reì-Turalyon",
+"",
+"2. Trade - City",
+"Reì-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+38,
+"Player-3685-0724866F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Reì|r",
+[51] = 1597947042,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"they need to have people like him and others goin in i hope he keeps doing what he is doing maybe we will has a better game for once",
+"Reì-Turalyon",
+"",
+"2. Trade - City",
+"Reì-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+39,
+"Player-3685-0724866F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Reì|r",
+[51] = 1597947070,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"bug hunters are under appreciated for sure ",
+"Hagnir-Turalyon",
+"",
+"2. Trade - City",
+"Hagnir-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+40,
+"Player-3685-0AF4F01B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc59a6cHagnir|r",
+[51] = 1597947075,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"imo ",
+"Hagnir-Turalyon",
+"",
+"2. Trade - City",
+"Hagnir-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+41,
+"Player-3685-0AF4F01B",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc59a6cHagnir|r",
+[51] = 1597947078,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"rextroy is like the king of bug hunters trust me he do some crazy stuff even i would of not spotted",
+"Reì-Turalyon",
+"",
+"2. Trade - City",
+"Reì-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+42,
+"Player-3685-0724866F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffef367Reì|r",
+[51] = 1597947106,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Turalyon is on the throne, because of the prepatch event that has not been put in yet, but the TLDR is that sylvanas has kidnapped some faction leaders",
+"Thiccdaddy-Turalyon",
+"",
+"2. Trade - City",
+"Thiccdaddy-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+259,
+"Player-3685-0A36C9F6",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffe7b09Thiccdaddy|r",
+[51] = 1602638427,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"you'll find out after the preexcap event launches ",
+"Mikya-Turalyon",
+"",
+"2. Trade - City",
+"Mikya-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+260,
+"Player-3685-0703D328",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaMikya|r",
+[51] = 1602638427,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"omg spoilers",
+"Mikya-Turalyon",
+"",
+"2. Trade - City",
+"Mikya-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+261,
+"Player-3685-0703D328",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaMikya|r",
+[51] = 1602638431,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Because Anduin is in the Shadowlands, Turalyon was left in charge.",
+"Thro-Turalyon",
+"",
+"2. Trade - City",
+"Thro-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+262,
+"Player-3685-0CD1E61F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaThro|r",
+[51] = 1602638435,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Good work, bois",
+"Mortbelle-Turalyon",
+"",
+"2. Trade - City",
+"Mortbelle-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+264,
+"Player-3685-0B3D648D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc31d39Mortbelle|r",
+[51] = 1602638443,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"if I could roll my eyes via text I would...",
+"Yåësérä-Turalyon",
+"",
+"2. Trade - City",
+"Yåësérä-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+265,
+"Player-3685-07111700",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff006fdcYåësérä|r",
+[51] = 1602638444,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"wait so when will i get the quest for that?",
+"Darkenling-Turalyon",
+"",
+"2. Trade - City",
+"Darkenling-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+266,
+"Player-3685-0ABF945D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8687edDarkenling|r",
+[51] = 1602638453,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Soon(TM)",
+"Mikya-Turalyon",
+"",
+"2. Trade - City",
+"Mikya-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+267,
+"Player-3685-0703D328",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaMikya|r",
+[51] = 1602638459,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"In like.. 3 weeks or so.",
+"Thro-Turalyon",
+"",
+"2. Trade - City",
+"Thro-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+268,
+"Player-3685-0CD1E61F",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff3ec6eaThro|r",
+[51] = 1602638463,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"oh ok ty",
+"Darkenling-Turalyon",
+"",
+"2. Trade - City",
+"Darkenling-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+269,
+"Player-3685-0ABF945D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8687edDarkenling|r",
+[51] = 1602638468,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Bet less than that",
+"Mortbelle-Turalyon",
+"",
+"2. Trade - City",
+"Mortbelle-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+270,
+"Player-3685-0B3D648D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc31d39Mortbelle|r",
+[51] = 1602638477,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Don't recall the \"learn your new talents\" phase lasting that long",
+"Mortbelle-Turalyon",
+"",
+"2. Trade - City",
+"Mortbelle-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+271,
+"Player-3685-0B3D648D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc31d39Mortbelle|r",
+[51] = 1602638487,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"just played again after 2 months to wait for pre patch",
+"Darkenling-Turalyon",
+"",
+"2. Trade - City",
+"Darkenling-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+272,
+"Player-3685-0ABF945D",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8687edDarkenling|r",
+[51] = 1602638506,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cff0070dd|Hbattlepet:1753:1:3:150:12:11:0000000000000000:65630|h[Bleakwater Jelly]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+469,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168133,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:2548:1:3:169:10:10:0000000000000000:90140|h[Everburning Treant]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+471,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168141,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:1623:1:3:158:11:11:0000000000000000:61887|h[Leviathan Hatchling]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+472,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168145,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:1955:1:3:145:14:10:0000000000000000:73671|h[Magma Rageling]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+473,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168147,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:2692:1:3:152:11:12:0000000000000000:91028|h[Lightless Ambusher]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+474,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168153,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:1628:1:3:155:11:11:0000000000000000:0|h[Sister of Temptation]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+475,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168157,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:2833:1:3:164:11:10:0000000000000000:94706|h[Void-Scarred Anubisath]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+477,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168163,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"|cff0070dd|Hbattlepet:2566:1:3:157:10:12:0000000000000000:77901|h[Albatross Hatchling]|h|r",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+478,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffe7b09Releaf|r",
+[51] = 1604168174,
+[50] = "CHAT_MSG_WHISPER_INFORM",
+},
+{
+"lf GUILD",
+"Darthhemi-Turalyon",
+"",
+"2. Trade - City",
+"Darthhemi-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+22,
+"Player-3685-0DFE3498",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff33937fDarthhemi|r",
+[51] = 1669671941,
+[50] = "CHAT_MSG_CHANNEL",
+},
+},
+["ChatEditHistory"] = {
+"/g :/",
+"/g mm i would but im gonna go work out here in about 20 minutes",
+"/cw Releaf |cff0070dd|Hbattlepet:1628:1:3:155:11:11:0000000000000000:0|h[Sister of Temptation]|h|r",
+"/g what does internal mail database error mean",
+"/g i had sold auctions and i clicked open all and i didnt get all my money",
+"/cw Releaf |cff0070dd|Hbattlepet:2833:1:3:164:11:10:0000000000000000:94706|h[Void-Scarred Anubisath]|h|r",
+"/g guess i need to open a ticket...",
+"/g so my 400k is poof?",
+"/ec",
+"/g i saw it in the mail, i moused over it and saw the amount it was going to give me, then i clicked open all and it opened everything but i didnt get the money",
+"/cw Releaf |cff0070dd|Hbattlepet:2692:1:3:152:11:12:0000000000000000:91028|h[Lightless Ambusher]|h|r",
+"/cw Releaf |cff0070dd|Hbattlepet:1623:1:3:158:11:11:0000000000000000:61887|h[Leviathan Hatchling]|h|r",
+"/g into my inventory?",
+"/cw Releaf |cff0070dd|Hbattlepet:2566:1:3:157:10:12:0000000000000000:77901|h[Albatross Hatchling]|h|r",
+"/cw Releaf |cff0070dd|Hbattlepet:1955:1:3:145:14:10:0000000000000000:73671|h[Magma Rageling]|h|r",
+"/cw Releaf |cff0070dd|Hbattlepet:2548:1:3:169:10:10:0000000000000000:90140|h[Everburning Treant]|h|r",
+"/cw Releaf |cff0070dd|Hbattlepet:1753:1:3:150:12:11:0000000000000000:65630|h[Bleakwater Jelly]|h|r",
+"/reload",
+},
+["ConvertKeybindings"] = true,
 }

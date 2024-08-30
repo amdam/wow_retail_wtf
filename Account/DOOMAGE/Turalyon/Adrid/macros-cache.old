@@ -62,7 +62,7 @@ VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1] Aspect of the Wild; [spec:2] Trueshot
+/cast [spec:1] Call of the Wild; [spec:2] Trueshot
 /use 13
 /cast Bestial Wrath
 /use 13

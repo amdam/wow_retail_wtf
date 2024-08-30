@@ -25,9 +25,33 @@ RaiderIO_Config = {
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Adamancy-turalyon"
+RaiderIO_LastCharacter = "us-Kayne-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Argomu-turalyon"] = true,
+["us-Velex-turalyon"] = true,
+["us-Kayne-turalyon"] = true,
+["us-Grandmajim-turalyon"] = true,
+["us-Dhamydeath-turalyon"] = true,
+["us-Grosjambes-turalyon"] = true,
+["us-Superhans-turalyon"] = true,
+["us-Zarrt-turalyon"] = true,
+["us-Bougris-turalyon"] = true,
+["us-Chaosdemon-turalyon"] = true,
+["us-Crybearnate-turalyon"] = true,
+["us-Warzul-turalyon"] = true,
+["us-Gorthraw-turalyon"] = true,
+["us-Elrogan-trollbane"] = true,
+["us-Hideypants-bloodhoof"] = true,
+["us-Lockverd-duskwood"] = true,
+["us-Platt-turalyon"] = true,
+["us-Dertap-turalyon"] = true,
+["us-Ishalin-turalyon"] = true,
+["us-Omegadan-bloodhoof"] = true,
+["us-Eryia-turalyon"] = true,
+["us-Lumberbuddy-turalyon"] = true,
+["us-Necromisis-area-52"] = true,
+["us-Axee-turalyon"] = true,
+["us-Ashieldu-turalyon"] = true,
+["us-Owy-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

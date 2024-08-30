@@ -37,11 +37,16 @@ VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000008 " " "134400"
 #showtooltip
-/cast [] Felblade;
+/cast [mod:alt,known:Essence Break] Essence Break; Felblade;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "134400"
 #showtooltip
 /cast [mod:alt] Throw Glaive; [spec:2] Shear;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "134400"
+#showtooltip
+/cast [mod:alt] Throw Glaive; Demon's Bite;
 /script UIErrorsFrame:Clear()
 END

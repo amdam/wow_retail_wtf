@@ -1,21 +1,11 @@
-VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [modifier:alt] Earthquake; Earth Shock
-/script UIErrorsFrame:Clear()
-END
-VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [nomodifier] Stormstrike; /cast [modifier:alt] Sundering
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:alt] Chain Lightning; Lightning Bolt;
+/cast [mod:alt] Chain Lightning; Lightning Bolt;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1,mod:alt] Thunderstorm; Lava Burst
+/cast Lava Burst
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000007 " " "134400"
@@ -25,6 +15,31 @@ VER 3 0100000000000007 " " "134400"
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,spec:1,talent:4/3] Liquid Magma Totem; [mod:shift] Frost Shock; Flame Shock;
+/cast [mod:alt,known:Liquid Magma Totem] Liquid Magma Totem; [mod:alt,known:Fire Nova] Fire Nova; Flame Shock;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] Earthquake;[known:Earth Shock] Earth Shock; [known:Elemental Blast] Elemental Blast
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Crash Lightning] Crash Lightning; Stormstrike;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Thunderstorm] Thunderstorm; Frost Shock;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [mod:alt] Sundering; Lava Lash;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "134400"
+#showtooltip
+/cast [mod:alt,known:Primordial Wave] Primordial Wave; Lava Burst;
 /script UIErrorsFrame:Clear()
 END

@@ -4,15 +4,15 @@ OmniCCDB = {
 ["Fernie - Turalyon"] = "Default",
 ["Adomic - Turalyon"] = "Default",
 ["Allevin - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Caldo - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
 ["Jakar - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
 ["Artoc - Zul'jin"] = "Default",
 ["Kurate - Turalyon"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
@@ -30,12 +30,12 @@ OmniCCDB = {
 ["Svend - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Shado - Turalyon"] = "Default",
 },
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "10.2.9",
+["addonVersion"] = "11.0.1",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -63,11 +63,11 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
-["seconds"] = {
-},
 ["soon"] = {
 },
 ["minutes"] = {
+},
+["seconds"] = {
 },
 },
 },
@@ -86,10 +86,10 @@ OmniCCDB = {
 ["scale"] = 0.75000000372529,
 },
 ["charging"] = {
-["r"] = 1,
+["b"] = 0.4,
 ["scale"] = 0.650000002235174,
 ["g"] = 0.98,
-["b"] = 0.4,
+["r"] = 1,
 },
 ["controlled"] = {
 ["scale"] = 1.50000001490116,
@@ -101,17 +101,17 @@ OmniCCDB = {
 },
 ["Ignore"] = {
 ["textStyles"] = {
-["seconds"] = {
+["soon"] = {
 },
 ["minutes"] = {
 },
-["soon"] = {
+["seconds"] = {
 },
 ["charging"] = {
-["r"] = 1,
+["b"] = 0.4,
 ["scale"] = 0.65,
 ["g"] = 0.98,
-["b"] = 0.4,
+["r"] = 1,
 },
 },
 ["minDuration"] = 3,
@@ -124,6 +124,7 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
+["version"] = "8.2.5",
 ["groups"] = {
 {
 ["id"] = "Ignore",
@@ -134,7 +135,7 @@ OmniCC4Config = {
 ["enabled"] = true,
 },
 },
-["version"] = "8.2.5",
+["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -252,5 +253,4 @@ OmniCC4Config = {
 ["fontFace"] = "Fonts\\FRIZQT__.TTF",
 },
 },
-["engine"] = "AniUpdater",
 }

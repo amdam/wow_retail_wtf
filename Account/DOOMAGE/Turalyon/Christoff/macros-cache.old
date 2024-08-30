@@ -68,9 +68,9 @@ VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1] Celestial Alignment;
+#showtooltip Celestial Alignment
 /use 13
+/cast [spec:1] Celestial Alignment;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000F " " "134400"

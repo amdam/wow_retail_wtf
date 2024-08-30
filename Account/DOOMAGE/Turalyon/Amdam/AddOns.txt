@@ -136,14 +136,14 @@ ReagentRestocker: enabled
 TradeSkillMaster: enabled
 InsertAnyModsHereThatYourRuleMightNeed: enabled
 DBM-Core: enabled
-OPie: disabled
+OPie: enabled
 ElvUI: enabled
 HealBot: disabled
 HHTD: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 ElvUI_EverySecondCounts: disabled
 AngryKeystones: disabled
@@ -181,7 +181,7 @@ MythicDungeonTools: enabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
 TipTacOptions: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 ElvUI_QuestXP: disabled
 ElvUI_CustomTags: disabled
 RaiderIO_DB_TW_F: disabled
@@ -231,3 +231,4 @@ BigWigs_MistsOfPandaria: enabled
 Hekili: enabled
 HandyNotes: enabled
 VenturePlan: disabled
+Baganator: enabled

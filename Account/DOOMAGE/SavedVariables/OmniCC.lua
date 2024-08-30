@@ -2,21 +2,21 @@
 OmniCCDB = {
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "10.2.9",
+["addonVersion"] = "11.0.1",
 },
 ["profileKeys"] = {
 ["Fernie - Turalyon"] = "Default",
 ["Shado - Turalyon"] = "Default",
 ["Allevin - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
 ["Artoc - Zul'jin"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Caldo - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
 ["Jakar - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
 ["Kurate - Turalyon"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
@@ -34,7 +34,7 @@ OmniCCDB = {
 ["Adaam - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
 ["Adomic - Turalyon"] = "Default",
 },
 ["profiles"] = {
@@ -63,11 +63,11 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
+["minutes"] = {
+},
 ["soon"] = {
 },
 ["seconds"] = {
-},
-["minutes"] = {
 },
 },
 },
@@ -86,10 +86,10 @@ OmniCCDB = {
 ["scale"] = 0.75000000372529,
 },
 ["charging"] = {
-["r"] = 1,
+["b"] = 0.4,
 ["scale"] = 0.650000002235174,
 ["g"] = 0.98,
-["b"] = 0.4,
+["r"] = 1,
 },
 ["controlled"] = {
 ["scale"] = 1.50000001490116,
@@ -103,15 +103,15 @@ OmniCCDB = {
 ["textStyles"] = {
 ["minutes"] = {
 },
-["seconds"] = {
-},
 ["soon"] = {
 },
+["seconds"] = {
+},
 ["charging"] = {
-["r"] = 1,
+["b"] = 0.4,
 ["scale"] = 0.65,
 ["g"] = 0.98,
-["b"] = 0.4,
+["r"] = 1,
 },
 },
 ["minDuration"] = 3,
@@ -124,7 +124,6 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
-["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -242,6 +241,8 @@ OmniCC4Config = {
 ["scaleText"] = true,
 },
 },
+["engine"] = "AniUpdater",
+["version"] = "8.2.5",
 ["groups"] = {
 {
 ["id"] = "Ignore",
@@ -252,5 +253,4 @@ OmniCC4Config = {
 ["enabled"] = true,
 },
 },
-["version"] = "8.2.5",
 }

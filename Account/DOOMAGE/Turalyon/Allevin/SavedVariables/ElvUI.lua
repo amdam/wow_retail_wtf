@@ -1,2207 +1,2207 @@
 
 ElvCharacterDB = {
-	["ChatHistoryLog"] = {
-		{
-			"hey", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3453, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603574527,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"how's taylor this weekend?", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3459, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1603574533,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [2]
-		{
-			"feeling quite a bit better i think", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3466, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603574544,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [3]
-		{
-			"excellent, pass on my regards", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3471, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1603574555,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [4]
-		{
-			"will do", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3490, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603574614,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [5]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:31:Player-3685-0CD0697A:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[A Simple Re-Quest]|h|r!", -- [1]
-			"Mongcruel-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mongcruel-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3493, -- [11]
-			"Player-3685-0CD0697A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Mongcruel|r",
-			[51] = 1603574667,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [6]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:973:Player-3685-0CD0697A:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[5 Daily Quests Completed]|h|r!", -- [1]
-			"Mongcruel-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mongcruel-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3494, -- [11]
-			"Player-3685-0CD0697A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Mongcruel|r",
-			[51] = 1603574667,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [7]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:11214:Player-3685-071EEB1F:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Many Missions]|h|r!", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Taelyria-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3527, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603574727,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [8]
-		{
-			"check out aly's nerdy tat in discord", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3561, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1603574846,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [9]
-		{
-			"lol", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3600, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603574935,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [10]
-		{
-			"needs a \"support our troops\" caption", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3618, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603574984,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [11]
-		{
-			"|cffffff00|Hworldmap:1161:6436:2793|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3624, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1603575016,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
-		{
-			"lol", -- [1]
-			"Azados-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3638, -- [11]
-			"Player-3685-07251D87", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Azados|r",
-			[51] = 1603575042,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
-		{
-			"i havnt done bc since it released. what just happend", -- [1]
-			"Warlady-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlady-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3676, -- [11]
-			"Player-9-0ACAA423", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cWarlady-Kil'jaeden|r",
-			[51] = 1603575143,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [14]
-		{
-			"boss pulled whole room", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3677, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575151,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [15]
-		{
-			"Don't releease  if you die", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3684, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575218,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [16]
-		{
-			"inc", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3685, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575220,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [17]
-		{
-			"or do release... lol", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3691, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575259,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
-		{
-			"lol", -- [1]
-			"Omybrad-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Omybrad-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3692, -- [11]
-			"Player-76-0B1F6CD6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Omybrad-Sargeras|r",
-			[51] = 1603575266,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [19]
-		{
-			"i saw it after", -- [1]
-			"Omybrad-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Omybrad-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3693, -- [11]
-			"Player-76-0B1F6CD6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Omybrad-Sargeras|r",
-			[51] = 1603575269,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
-		{
-			"i realeased lol", -- [1]
-			"Omybrad-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Omybrad-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3695, -- [11]
-			"Player-76-0B1F6CD6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Omybrad-Sargeras|r",
-			[51] = 1603575271,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [21]
-		{
-			"so how do we kill this guy?", -- [1]
-			"Warlady-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlady-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3698, -- [11]
-			"Player-9-0ACAA423", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cWarlady-Kil'jaeden|r",
-			[51] = 1603575279,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [22]
-		{
-			"Should be fine now", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3699, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575285,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [23]
-		{
-			"Hunter and I cleared all the extra trash", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3701, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575292,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
-		{
-			"what about his little beacons?", -- [1]
-			"Warlady-Kil'jaeden", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Warlady-Kil'jaeden", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3706, -- [11]
-			"Player-9-0ACAA423", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cWarlady-Kil'jaeden|r",
-			[51] = 1603575311,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [25]
-		{
-			"can just cleave them i think", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3707, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603575325,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
-		{
-			"I think you're supposed to kill them. But doesn't really matter", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3708, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575329,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [27]
-		{
-			"They become adds if you don't kill them", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3710, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575339,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [28]
-		{
-			"ah yeah we'll kill him before that happens tho", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3711, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603575349,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:651:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Mana-Tombs]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3728, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603575446,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [30]
-		{
-			"Wow Allevin that's great", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3740, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603575450,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [31]
-		{
-			"Nice, thanks for the run all!", -- [1]
-			"Teneth-Eonar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teneth-Eonar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3750, -- [11]
-			"Player-96-0CDA837A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcTeneth-Eonar|r",
-			[51] = 1603575457,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
-		{
-			"Proud of you bro", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3751, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603575468,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [33]
-		{
-			"when are you going to uninstall that addon", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3752, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603575484,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [34]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14782:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Level 50]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3759, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603575505,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [35]
-		{
-			"You are the wind beneath my wings that lift me up from constant depression, just seeing you strive in your everyday leveling brings me joy", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3768, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603575515,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [36]
-		{
-			"We should totes fuck", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3774, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603575536,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [37]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14014:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Heritage of the Mechagnome]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3795, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1603575640,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [38]
-		{
-			"I have been working on that for ages Allevin", -- [1]
-			"Taelyria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3811, -- [11]
-			"Player-3685-071EEB1F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeTaelyria|r",
-			[51] = 1603575827,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
-		{
-			"|cffffff00Cathedral Square is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3817, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603575991,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"|cffffff00Lion's Rest is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3818, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576047,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
-		{
-			"|cffffff00Cathedral Square is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3820, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576186,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
-		{
-			"|cffffff00Cathedral Square is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3822, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576266,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"|cffffff00Cathedral Square is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3823, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576332,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3824, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576345,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3825, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576560,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3827, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576568,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3832, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576621,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3836, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576738,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3837, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576740,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3838, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576804,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3839, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576868,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3840, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576909,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"|cffffff00The Canals is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3841, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576950,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3842, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603576970,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3844, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603577059,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3845, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603577121,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
-		{
-			"|cffffff00Stormwind City is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3850, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603577156,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
-		{
-			"|cffffff00Trade District is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Stormwind City", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Stormwind City", -- [9]
-			0, -- [10]
-			3854, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "",
-			[51] = 1603577489,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
-		{
-			"did Trial of Style add anything new this time?", -- [1]
-			"Drizzelle-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Drizzelle-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			5, -- [11]
-			"Player-64-06ED92AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcDrizzelle-Bloodhoof|r",
-			[51] = 1616346815,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
-		{
-			"i don't think so", -- [1]
-			"Ishemadbro-Medivh", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Ishemadbro-Medivh", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			18, -- [11]
-			"Player-52-0C8196F2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Ishemadbro-Medivh|r",
-			[51] = 1616346890,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
-		{
-			"Lame. Trial of Style hasn't had any new Tmogs added in a long time >.>", -- [1]
-			"Drizzelle-Bloodhoof", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Drizzelle-Bloodhoof", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			21, -- [11]
-			"Player-64-06ED92AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcDrizzelle-Bloodhoof|r",
-			[51] = 1616346948,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
-		{
-			"LF guild to join", -- [1]
-			"Jerbearz-Alleria", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Jerbearz-Alleria", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			73, -- [11]
-			"Player-52-0D0EFD10", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff8687edJerbearz-Alleria|r",
-			[51] = 1616350098,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
-		{
-			"new patch any good?", -- [1]
-			"|Kq12|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			false, -- [12]
-			28, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcFables|r",
-			[51] = 1627342076,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Fables",
-		}, -- [64]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14334:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[Into the Maw]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			464, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1628443454,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [65]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:506:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[500 Quests Completed]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			470, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1628443475,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [66]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14627:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[Choosing Your Purpose]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			504, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1628444089,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [67]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13878:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[The Master of Revendreth]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4213, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1629261073,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [68]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14206:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[Blade of the Primus]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4214, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1629261073,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [69]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14164:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[Awaken, Ardenweald]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4215, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1629261073,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [70]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14281:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[The Path to Ascension]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4216, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edAllevin|r",
-			[51] = 1629261073,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [71]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16543:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Tetrachromancer]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			14, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681573231,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [72]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:507:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[1000 Quests Completed]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			188, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681575404,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [73]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:8921:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Welcome to Draenor]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			598, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681578069,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [74]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16571:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Well Supplied]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			860, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681579705,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [75]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16291:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[An Ancient Awakening]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681795902,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [76]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16292:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Mastering the Waygates]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681795902,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [77]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9100:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[More Plots]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			34, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681796154,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [78]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9528:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[On the Shadow's Trail]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			382, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681800077,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [79]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:14783:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Level 60]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			453, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681800664,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [80]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9017:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Water Management]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			932, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681803309,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [81]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9044:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[The Everbloom]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1054, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681803710,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [82]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9053:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Everbloom]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1059, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681803710,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [83]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:9223:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Weed Whacker]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1060, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1681803710,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [84]
-		{
-			"ty", -- [1]
-			"Mizz-Dragonblight", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mizz-Dragonblight", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1078, -- [11]
-			"Player-114-087EE5D6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMizz-Dragonblight|r",
-			[51] = 1681803718,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [85]
-		{
-			"Allevin can we get portal", -- [1]
-			"Bjornoo-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bjornoo-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			384, -- [11]
-			"Player-76-0B91A445", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBjornoo-Sargeras|r",
-			[51] = 1682578812,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [86]
-		{
-			"?", -- [1]
-			"Bjornoo-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bjornoo-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			385, -- [11]
-			"Player-76-0B91A445", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBjornoo-Sargeras|r",
-			[51] = 1682578816,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [87]
-		{
-			"where at?", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			386, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682578827,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [88]
-		{
-			"oh right", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			387, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682578897,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [89]
-		{
-			"sec", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			388, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682578897,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [90]
-		{
-			"so we can summon priest", -- [1]
-			"Bjornoo-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bjornoo-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			389, -- [11]
-			"Player-76-0B91A445", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBjornoo-Sargeras|r",
-			[51] = 1682578897,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [91]
-		{
-			"thank you", -- [1]
-			"Bjornoo-Sargeras", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bjornoo-Sargeras", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			390, -- [11]
-			"Player-76-0B91A445", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBjornoo-Sargeras|r",
-			[51] = 1682578875,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [92]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:670:Player-3685-0ACADE27:1:4:26:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underbog]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			496, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682579075,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [93]
-		{
-			"'s |cffffd000|Htrade:Player-3685-092529FC:25229:755|h[Jewelcrafting]|h|r Emporium is open for business. Lariats up to 418, rank 3 gems all cuts, and as much elementium as you have mats for. ", -- [1]
-			"Látsyrc-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Látsyrc-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			286, -- [11]
-			"Player-3685-092529FC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffaad372Látsyrc|r",
-			[51] = 1682874273,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
-		{
-			"Interrupted Shadowmoon Acolyte's |cff71d5ff|Hspell:15587:0|h[Mind Blast]|h|r!", -- [1]
-			"Cinnamoon-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cinnamoon-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"Player-3685-0725150B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00ff98Cinnamoon|r",
-			[51] = 1682874518,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [95]
-		{
-			"Beatdown on Allevin", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			675, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682874995,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [96]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:657:Player-3685-0ACADE27:1:4:30:23:4294967295:4294967295:4294967295:4294967295|h[The Shattered Halls]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			737, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682875126,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:678:Player-3685-0ACADE27:1:4:30:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Shattered Halls]|h|r!", -- [1]
-			"Allevin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Allevin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			738, -- [11]
-			"Player-3685-0ACADE27", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8788eeAllevin|r",
-			[51] = 1682875126,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
-		{
-			"ty all", -- [1]
-			"Lathathdria-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lathathdria-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			768, -- [11]
-			"Player-3685-0E1C38E6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffLathathdria|r",
-			[51] = 1682875132,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [99]
-	},
-	["ChatEditHistory"] = {
-		"/g oh shit i totally forgot about that lmao", -- [1]
-		"/g moar golde", -- [2]
-		"/g sure i can do a few runs", -- [3]
-		"/i hi", -- [4]
-		"/i we going to rescue the guy?", -- [5]
-		"/g hey", -- [6]
-		"/g feeling quite a bit better i think", -- [7]
-		"/g will do", -- [8]
-		"/g lol", -- [9]
-		"/g needs a \"support our troops\" caption", -- [10]
-		"/i can just cleave them i think", -- [11]
-		"/i ah yeah we'll kill him before that happens tho", -- [12]
-		"/g when are you going to uninstall that addon", -- [13]
-		"/wa", -- [14]
-		"/macro", -- [15]
-		"/i where at?", -- [16]
-		"/i oh right", -- [17]
-		"/i sec", -- [18]
-		"/clique", -- [19]
-		"/weakauras", -- [20]
-	},
-	["ConvertKeybindings"] = true,
+["ChatHistoryLog"] = {
+{
+"Proud of you bro",
+"Taelyria-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+3751,
+"Player-3685-071EEB1F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffefefeTaelyria|r",
+[51] = 1603575468,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"when are you going to uninstall that addon",
+"Allevin-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+3752,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1603575484,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14782:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Level 50]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+3759,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1603575505,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"You are the wind beneath my wings that lift me up from constant depression, just seeing you strive in your everyday leveling brings me joy",
+"Taelyria-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+3768,
+"Player-3685-071EEB1F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffefefeTaelyria|r",
+[51] = 1603575515,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"We should totes fuck",
+"Taelyria-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+3774,
+"Player-3685-071EEB1F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffefefeTaelyria|r",
+[51] = 1603575536,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14014:Player-3685-0ACADE27:1:10:24:20:4294967295:4294967295:4294967295:4294967295|h[Heritage of the Mechagnome]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+3795,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1603575640,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"I have been working on that for ages Allevin",
+"Taelyria-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+3811,
+"Player-3685-071EEB1F",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfffefefeTaelyria|r",
+[51] = 1603575827,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"|cffffff00Cathedral Square is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3817,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603575991,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Lion's Rest is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3818,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576047,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Cathedral Square is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3820,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576186,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Cathedral Square is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3822,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576266,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Cathedral Square is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3823,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576332,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3824,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576345,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3825,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576560,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3827,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576568,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3832,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576621,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3836,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576738,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3837,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576740,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3838,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576804,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3839,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576868,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3840,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576909,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00The Canals is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3841,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576950,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3842,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603576970,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3844,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603577059,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3845,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603577121,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Stormwind City is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3850,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603577156,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"|cffffff00Trade District is under attack!|r",
+"",
+"",
+"3. LocalDefense - Stormwind City",
+"",
+"",
+22,
+3,
+"LocalDefense - Stormwind City",
+0,
+3854,
+false,
+0,
+false,
+false,
+false,
+true,
+[52] = "",
+[51] = 1603577489,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"did Trial of Style add anything new this time?",
+"Drizzelle-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Drizzelle-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+5,
+"Player-64-06ED92AD",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff006fdcDrizzelle-Bloodhoof|r",
+[51] = 1616346815,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"i don't think so",
+"Ishemadbro-Medivh",
+"",
+"1. General - Stormwind City",
+"Ishemadbro-Medivh",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+18,
+"Player-52-0C8196F2",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffc31d39Ishemadbro-Medivh|r",
+[51] = 1616346890,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Lame. Trial of Style hasn't had any new Tmogs added in a long time >.>",
+"Drizzelle-Bloodhoof",
+"",
+"1. General - Stormwind City",
+"Drizzelle-Bloodhoof",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+21,
+"Player-64-06ED92AD",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff006fdcDrizzelle-Bloodhoof|r",
+[51] = 1616346948,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"LF guild to join",
+"Jerbearz-Alleria",
+"",
+"1. General - Stormwind City",
+"Jerbearz-Alleria",
+"",
+1,
+1,
+"General - Stormwind City",
+0,
+73,
+"Player-52-0D0EFD10",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff8687edJerbearz-Alleria|r",
+[51] = 1616350098,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"new patch any good?",
+"|Kq12|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+270,
+false,
+28,
+false,
+false,
+false,
+false,
+[52] = "|cff006fdcFables|r",
+[51] = 1627342076,
+[50] = "CHAT_MSG_BN_WHISPER",
+[53] = "Fables",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14334:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[Into the Maw]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+464,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1628443454,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:506:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[500 Quests Completed]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+470,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1628443475,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14627:Player-3685-0ACADE27:1:8:8:21:4294967295:4294967295:4294967295:4294967295|h[Choosing Your Purpose]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+504,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1628444089,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:13878:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[The Master of Revendreth]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+4213,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1629261073,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14206:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[Blade of the Primus]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+4214,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1629261073,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14164:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[Awaken, Ardenweald]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+4215,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1629261073,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14281:Player-3685-0ACADE27:1:8:17:21:4294967295:4294967295:4294967295:4294967295|h[The Path to Ascension]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+4216,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8687edAllevin|r",
+[51] = 1629261073,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16543:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Tetrachromancer]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+14,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681573231,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:507:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[1000 Quests Completed]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+188,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681575404,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:8921:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Welcome to Draenor]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+598,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681578069,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16571:Player-3685-0ACADE27:1:4:15:23:4294967295:4294967295:4294967295:4294967295|h[Well Supplied]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+860,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681579705,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16291:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[An Ancient Awakening]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681795902,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16292:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Mastering the Waygates]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+2,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681795902,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:9100:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[More Plots]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+34,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681796154,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:9528:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[On the Shadow's Trail]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+382,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681800077,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:14783:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Level 60]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+453,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681800664,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:9017:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Water Management]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+932,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681803309,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:9044:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[The Everbloom]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1054,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681803710,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:9053:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Everbloom]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1059,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681803710,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:9223:Player-3685-0ACADE27:1:4:17:23:4294967295:4294967295:4294967295:4294967295|h[Weed Whacker]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1060,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1681803710,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"ty",
+"Mizz-Dragonblight",
+"",
+"",
+"Mizz-Dragonblight",
+"",
+0,
+0,
+"",
+0,
+1078,
+"Player-114-087EE5D6",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffMizz-Dragonblight|r",
+[51] = 1681803718,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Allevin can we get portal",
+"Bjornoo-Sargeras",
+"",
+"",
+"Bjornoo-Sargeras",
+"",
+0,
+0,
+"",
+0,
+384,
+"Player-76-0B91A445",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dBjornoo-Sargeras|r",
+[51] = 1682578812,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"?",
+"Bjornoo-Sargeras",
+"",
+"",
+"Bjornoo-Sargeras",
+"",
+0,
+0,
+"",
+0,
+385,
+"Player-76-0B91A445",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dBjornoo-Sargeras|r",
+[51] = 1682578816,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"where at?",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+386,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682578827,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"oh right",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+387,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682578897,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"sec",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+388,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682578897,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"so we can summon priest",
+"Bjornoo-Sargeras",
+"",
+"",
+"Bjornoo-Sargeras",
+"",
+0,
+0,
+"",
+0,
+389,
+"Player-76-0B91A445",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dBjornoo-Sargeras|r",
+[51] = 1682578897,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"thank you",
+"Bjornoo-Sargeras",
+"",
+"",
+"Bjornoo-Sargeras",
+"",
+0,
+0,
+"",
+0,
+390,
+"Player-76-0B91A445",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc69b6dBjornoo-Sargeras|r",
+[51] = 1682578875,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:670:Player-3685-0ACADE27:1:4:26:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: Underbog]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+496,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682579075,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"'s |cffffd000|Htrade:Player-3685-092529FC:25229:755|h[Jewelcrafting]|h|r Emporium is open for business. Lariats up to 418, rank 3 gems all cuts, and as much elementium as you have mats for. ",
+"Látsyrc-Turalyon",
+"",
+"2. Trade - City",
+"Látsyrc-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+286,
+"Player-3685-092529FC",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffaad372Látsyrc|r",
+[51] = 1682874273,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"Interrupted Shadowmoon Acolyte's |cff71d5ff|Hspell:15587:0|h[Mind Blast]|h|r!",
+"Cinnamoon-Turalyon",
+"",
+"",
+"Cinnamoon-Turalyon",
+"",
+0,
+0,
+"",
+0,
+366,
+"Player-3685-0725150B",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Cinnamoon|r",
+[51] = 1682874518,
+[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+},
+{
+"Beatdown on Allevin",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+675,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682874995,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:657:Player-3685-0ACADE27:1:4:30:23:4294967295:4294967295:4294967295:4294967295|h[The Shattered Halls]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+737,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682875126,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:678:Player-3685-0ACADE27:1:4:30:23:4294967295:4294967295:4294967295:4294967295|h[Heroic: The Shattered Halls]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+738,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1682875126,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"ty all",
+"Lathathdria-Turalyon",
+"",
+"",
+"Lathathdria-Turalyon",
+"",
+0,
+0,
+"",
+0,
+768,
+"Player-3685-0E1C38E6",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffLathathdria|r",
+[51] = 1682875132,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"makes some strange gestures.",
+"Felines-Turalyon",
+"",
+"",
+"Felines-Turalyon",
+"",
+0,
+0,
+"",
+0,
+160,
+"Player-3685-0D762214",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaFelines|r",
+[51] = 1722754192,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:15805:Player-3685-0ACADE27:1:8:5:24:4294967295:4294967295:4294967295:4294967295|h[Level 70]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+123,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1722877604,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"{rt3} RestedXP Guides: I just leveled from 61 to 62 in 9 minutes 47 seconds",
+"Schöpfer-Turalyon",
+"",
+"",
+"Schöpfer-Turalyon",
+"",
+0,
+0,
+"",
+0,
+145,
+"Player-3685-070E4CE9",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddSchöpfer|r",
+[51] = 1723522401,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"{triangle} Zygor Guides: I just leveled up from 23 to 24! (7 minutes)",
+"Kelouri-Bloodhoof",
+"",
+"",
+"Kelouri-Bloodhoof",
+"",
+0,
+0,
+"",
+0,
+691,
+"Player-64-0F19FCB0",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaKelouri-Bloodhoof|r",
+[51] = 1723444719,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"no]",
+"Summonetta-Turalyon",
+"Orcish",
+"",
+"Summonetta-Turalyon",
+"",
+0,
+0,
+"",
+1,
+610,
+"Player-3685-0700A327",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeSummonetta|r",
+[51] = 1723618795,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"{triangle} Zygor Guides: I just leveled up from 10 to 11! (24 minutes)",
+"Huntaqiah-Bloodhoof",
+"",
+"",
+"Huntaqiah-Bloodhoof",
+"",
+0,
+0,
+"",
+0,
+647,
+"Player-64-0F80F452",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Huntaqiah-Bloodhoof|r",
+[51] = 1723619009,
+[50] = "CHAT_MSG_EMOTE",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:18977:Player-3685-0ACADE27:1:8:14:24:4294967295:4294967295:4294967295:4294967295|h[Draconically Epic]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+723,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1723619388,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:18976:Player-3685-0ACADE27:1:8:14:24:4294967295:4294967295:4294967295:4294967295|h[Draconically Superior]|h|r!",
+"Allevin-Turalyon",
+"",
+"",
+"Allevin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+726,
+"Player-3685-0ACADE27",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeAllevin|r",
+[51] = 1723619388,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"no sorry 40",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+412,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723928963,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"available on vendor Rabul in valdrakken 35.6 59.2",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+414,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723928983,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"oh that's fucking dirty dude",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+421,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929020,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"hmm where did they move the professions tab lol",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+422,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929027,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"new spellbook doesn't seem to have it",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+424,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929032,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"actually, reputations are account wide now so irrelevant",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+425,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929034,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"hit 'k'",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+426,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929040,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"|Hitem:198947::::::::70:66::14::1:28:2078:::::|h[Technique: Chef's Splendid Rolling Pin]|h",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+428,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929055,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"hmm k isnt bound to anything",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+429,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929006,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"on mini menu, next to character",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+430,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929083,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"the sword and ax pick",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+431,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929094,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"not sword, hammer",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+432,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929107,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"ah",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+433,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929060,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"i wonder why your professions got unbound",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+434,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929069,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"i can't imagine you use k for anything",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+435,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929075,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"nope lol",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+436,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929139,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"ugh i only have inscrip 4",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+437,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929148,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"been 'k' since vanilla dude lol",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+438,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929151,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"let me take a look, might be able to boost it fast, i can get you some herbs",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+439,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929170,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"weird lol i have never used k for any keybind like ever",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+440,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929171,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:15642:Player-3685-08CF9F04:1:8:17:24:4294967295:4294967295:4294967295:4294967295|h[Proven Pet Parent]|h|r!",
+"Wumborama-Turalyon",
+"",
+"",
+"Wumborama-Turalyon",
+"",
+0,
+0,
+"",
+0,
+441,
+"Player-3685-08CF9F04",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Wumborama|r",
+[51] = 1723929220,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"nah, this is too complicated to bring a scribe up",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+443,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929291,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"just easier to put work order back up on mage and pray",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+446,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929299,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"lol alright let me go list that again",
+"|Kp10|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+447,
+false,
+7,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaDos|r",
+[51] = 1723929249,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+},
+["ChatEditHistory"] = {
+"/g lol",
+"/g needs a \"support our troops\" caption",
+"/i can just cleave them i think",
+"/i ah yeah we'll kill him before that happens tho",
+"/g when are you going to uninstall that addon",
+"/i where at?",
+"/i oh right",
+"/i sec",
+"/weakauras",
+"/clique",
+"/macro",
+"/wa",
+"hmm where did they move the professions tab lol",
+"new spellbook doesn't seem to have it",
+"hmm k isnt bound to anything",
+"ah",
+"nope lol",
+"ugh i only have inscrip 4",
+"weird lol i have never used k for any keybind like ever",
+"lol alright let me go list that again",
+},
+["ConvertKeybindings"] = true,
 }

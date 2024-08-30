@@ -31,7 +31,7 @@ Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 AtlasLoot: disabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 ElvUI_EverySecondCounts: disabled
 RaiderIO_DB_TW_H_R: disabled
@@ -66,7 +66,7 @@ AdvancedInterfaceOptions: disabled
 HealBot_Data: disabled
 HealBot_en: disabled
 Omen: disabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 Skada: disabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
@@ -205,3 +205,4 @@ LittleWigs_WrathOfTheLichKing: enabled
 LittleWigs_MistsOfPandaria: enabled
 BigWigs_MistsOfPandaria: enabled
 Hekili: enabled
+Baganator: enabled

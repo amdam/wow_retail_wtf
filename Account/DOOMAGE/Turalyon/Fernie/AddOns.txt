@@ -48,7 +48,7 @@ BigWigs_Plugins: enabled
 BigWigs_VaultOfTheIncarnates: enabled
 Clique: enabled
 Coordinates: enabled
-DejaCharacterStats: disabled
+DejaCharacterStats: enabled
 DeleteManaGem: enabled
 Details: enabled
 Details_Compare2: enabled
@@ -121,7 +121,7 @@ WeakAurasArchive: enabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
-WorldQuestTracker: disabled
+WorldQuestTracker: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 WeakAurasCompanion: enabled
@@ -141,3 +141,4 @@ ElvUI_BuffHighlight: disabled
 kExtraBossFrames: disabled
 OPie_Classic: disabled
 Blizzard_CombatText: enabled
+Baganator: enabled
