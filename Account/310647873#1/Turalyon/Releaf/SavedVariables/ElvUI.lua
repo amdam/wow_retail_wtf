@@ -1,2206 +1,2206 @@
 
 ElvCharacterDB = {
-	["ChatHistoryLog"] = {
-		{
-			"BYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAkkgISIESSikIFol4AJJRKyBISOQItkWSCBNAC", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			454, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670889063,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"hmm that didnt work", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			455, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670889070,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [2]
-		{
-			"Miles?", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			456, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670889077,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"https://www.icy-veins.com/wow/balance-druid-pve-dps-spec-builds-talents", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			457, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670889079,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"do you want to do the dungeon or wait till later?", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			501, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890044,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"im scared", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			503, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890054,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"its ok you'll do fine", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			504, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890064,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"no", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			505, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890069,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"dont you want to complete the quest?", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			506, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890077,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"okay", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			507, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890023,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"prob a blue item reward", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			508, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890028,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
-		{
-			"just queue as dps", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			510, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890113,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [12]
-		{
-			"what is your item level?", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890118,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
-		{
-			"253", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			512, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890123,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"whats the highest?", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			514, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890133,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
-		{
-			"around 380 right now", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			515, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890093,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"my mage is 374", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			516, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890162,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [17]
-		{
-			"of course", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890168,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"raid doesnt come out until tomorrow", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			518, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890175,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
-		{
-			"then better gear will be available", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			519, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890182,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
-		{
-			"no", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			521, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890140,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"nooo", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			522, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890145,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"you will do fine, iwill protect you", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			523, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890154,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"lies", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			524, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890221,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"i dont wanna", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			525, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890255,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"wanna do some quests", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			535, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670890490,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"ok", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			536, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670890496,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16581:Player-3685-08CF9F04:1:12:12:22:4294967295:4294967295:4294967295:4294967295|h[Seeing Blue]|h|r!", -- [1]
-			"Wumborama-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wumborama-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			600, -- [11]
-			"Player-3685-08CF9F04", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Wumborama|r",
-			[51] = 1670890848,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [28]
-		{
-			"i can't see you", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			638, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891077,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
-		{
-			"im back", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			655, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670891127,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"oh where did you go", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			656, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891135,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
-		{
-			"movie", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			657, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670891140,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"oh", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			658, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891151,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"thats why", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			659, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891153,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
-		{
-			"hold on i need this swoglet", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			700, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670891279,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
-		{
-			"ok", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			706, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891230,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
-		{
-			"did you figure out the camera?", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			778, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891452,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
-		{
-			"no", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			780, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670891480,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
-		{
-			"im dumb", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			781, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670891485,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
-		{
-			"look at the whelp until he sorta glows, then hit 1", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			782, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670891493,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
-		{
-			"where are you?", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			50, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670892404,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
-		{
-			"i need to kill some more proto drakes", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			294, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670894467,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
-		{
-			"do you see this grand hunt thing", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			306, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670894753,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16544:Player-3685-0717C7FF:1:12:12:22:4294967295:4294967295:4294967295:4294967295|h[Grand Hunter]|h|r!", -- [1]
-			"Badam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Badam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			357, -- [11]
-			"Player-3685-0717C7FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBadam|r",
-			[51] = 1670895164,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [44]
-		{
-			"hi skitties", -- [1]
-			"Wumborama-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			371, -- [11]
-			"Player-3685-08CF9F04", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa330c9Wumborama|r",
-			[51] = 1670895859,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
-		{
-			"when people talk can you hear them?", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			406, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670896500,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
-		{
-			"or do peope just not say anything?", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			408, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670896512,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [47]
-		{
-			"well they are obv saying something, but its wierd i cannot hear them", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			409, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1670896613,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:508:Player-3685-0DD75A80:1:12:12:22:4294967295:4294967295:4294967295:4294967295|h[1500 Quests Completed]|h|r!", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chumisfum-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			430, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670897410,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [49]
-		{
-			"hi skit", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			435, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670897982,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
-		{
-			"how are you", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			436, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670897984,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
-		{
-			"hey dude", -- [1]
-			"Suniza-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			437, -- [11]
-			"Player-3685-07250229", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Suniza|r",
-			[51] = 1670897953,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16266:Player-3685-07D8BE06:1:12:12:22:4294967295:4294967295:4294967295:4294967295|h[Ruby Life Pools]|h|r!", -- [1]
-			"Ralahala-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ralahala-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			438, -- [11]
-			"Player-3685-07D8BE06", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ralahala|r",
-			[51] = 1670897976,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [53]
-		{
-			"did you see elon musk coming on stage at a dave chapelle show", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			439, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670898228,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
-		{
-			"and he just got booed", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			440, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670898232,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
-		{
-			"and dave tried to salvage it", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			441, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670898238,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
-		{
-			"no luck", -- [1]
-			"Chumisfum-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			442, -- [11]
-			"Player-3685-0DD75A80", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Chumisfum|r",
-			[51] = 1670898181,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:16334:Player-3685-0908462E:1:12:14:22:4294967295:4294967295:4294967295:4294967295|h[Waking Hope]|h|r!", -- [1]
-			"Releaf-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Releaf-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33, -- [11]
-			"Player-3685-0908462E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aReleaf|r",
-			[51] = 1671068934,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [58]
-		{
-			"what do you want for dinner tonight?", -- [1]
-			"|Kq1|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			160, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671069967,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [59]
-		{
-			"i'm not super hungry right now since we just had sushi", -- [1]
-			"|Kq1|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			162, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671070002,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [60]
-		{
-			"would be okay with leftover stew or something", -- [1]
-			"|Kq1|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671070010,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [61]
-		{
-			"okay", -- [1]
-			"|Kq1|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671070021,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [62]
-		{
-			"Nice work", -- [1]
-			"Aphenglow-Skywall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aphenglow-Skywall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			225, -- [11]
-			"Player-86-08FA3562", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aAphenglow-Skywall|r",
-			[51] = 1671085094,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
-		{
-			"all turn in for next step", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			232, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085166,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
-		{
-			"im on next step", -- [1]
-			"Tathy-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tathy-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			233, -- [11]
-			"Player-61-0B5AF0A7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebTathy-Zul'jin|r",
-			[51] = 1671085173,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"Aphen", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			234, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085181,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
-		{
-			"there we go", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			235, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085190,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
-		{
-			"ready for the next", -- [1]
-			"Aphenglow-Skywall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aphenglow-Skywall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			236, -- [11]
-			"Player-86-08FA3562", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aAphenglow-Skywall|r",
-			[51] = 1671085196,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [68]
-		{
-			"here we go", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			240, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085153,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
-		{
-			"MOTW?", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			242, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085160,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
-		{
-			"druid buff", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			245, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085237,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
-		{
-			"anyone able to remove disease?", -- [1]
-			"Tathy-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tathy-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			260, -- [11]
-			"Player-61-0B5AF0A7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebTathy-Zul'jin|r",
-			[51] = 1671085322,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
-		{
-			"i can", -- [1]
-			"Jethamer-Llane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jethamer-Llane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-99-002B2688", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaJethamer-Llane|r",
-			[51] = 1671085331,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
-		{
-			"ty", -- [1]
-			"Tathy-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tathy-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-61-0B5AF0A7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebTathy-Zul'jin|r",
-			[51] = 1671085336,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
-		{
-			"are there five altogether?", -- [1]
-			"Aphenglow-Skywall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aphenglow-Skywall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			285, -- [11]
-			"Player-86-08FA3562", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aAphenglow-Skywall|r",
-			[51] = 1671085442,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
-		{
-			"dunno", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			286, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085449,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
-		{
-			"lag", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			305, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085627,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
-		{
-			"UGH", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			309, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085732,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
-		{
-			"gj we got it", -- [1]
-			"Jethamer-Llane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jethamer-Llane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			315, -- [11]
-			"Player-99-002B2688", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaJethamer-Llane|r",
-			[51] = 1671085684,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
-		{
-			"one more", -- [1]
-			"Aphenglow-Skywall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aphenglow-Skywall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			325, -- [11]
-			"Player-86-08FA3562", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aAphenglow-Skywall|r",
-			[51] = 1671085767,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
-		{
-			"so not lag, that is awful", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			330, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085792,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
-		{
-			"time for the WQ haha", -- [1]
-			"Tathy-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tathy-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			336, -- [11]
-			"Player-61-0B5AF0A7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebTathy-Zul'jin|r",
-			[51] = 1671085814,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
-		{
-			"how do we summon", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			337, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085901,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
-		{
-			"thank you everyone.  That is all of them", -- [1]
-			"Aphenglow-Skywall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Aphenglow-Skywall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			347, -- [11]
-			"Player-86-08FA3562", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aAphenglow-Skywall|r",
-			[51] = 1671085911,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
-		{
-			"wait", -- [1]
-			"Mennee-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mennee-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			348, -- [11]
-			"Player-60-0B408128", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMennee-Stormrage|r",
-			[51] = 1671085914,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
-		{
-			"talk to fight guy", -- [1]
-			"Tathy-Zul'jin", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tathy-Zul'jin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			349, -- [11]
-			"Player-61-0B5AF0A7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebTathy-Zul'jin|r",
-			[51] = 1671085915,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
-		{
-			"Hey baby", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146555,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [87]
-		{
-			"well hello", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			13, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146575,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [88]
-		{
-			"what do you say we make a not so silent night?", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			19, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146738,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [89]
-		{
-			"hah christmas pickup lines", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			24, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146841,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [90]
-		{
-			"what are my favorite stats again?", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			38, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146923,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [91]
-		{
-			"for balance?", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			39, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146966,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [92]
-		{
-			"sure", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			40, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671146974,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [93]
-		{
-			"intellect > mastery >= haste >> crit > vers", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			41, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671147022,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [94]
-		{
-			"so mastery haste", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			42, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671147044,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [95]
-		{
-			"I'm dreaming of a white christmas", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			64, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671147234,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [96]
-		{
-			"but im not talking about snow :)", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			65, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671147256,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [97]
-		{
-			"woow", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			66, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671147261,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [98]
-		{
-			"you could shimmy down my chimney tonight ", -- [1]
-			"|Kq2|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			67, -- [11]
-			false, -- [12]
-			2, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebamdam|r",
-			[51] = 1671147321,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [99]
-	},
-	["ChatEditHistory"] = {
-		"/pet", -- [1]
-		"/p im back", -- [2]
-		"/p movie", -- [3]
-		"/p hold on i need this swoglet", -- [4]
-		"/p no", -- [5]
-		"/p im dumb", -- [6]
-		"/p where are you?", -- [7]
-		"/p when people talk can you hear them?", -- [8]
-		"/p or do peope just not say anything?", -- [9]
-		"/p well they are obv saying something, but its wierd i cannot hear them", -- [10]
-		"/parrot", -- [11]
-		"what do you want for dinner tonight?", -- [12]
-		"okay", -- [13]
-		"Hey baby", -- [14]
-		"what do you say we make a not so silent night?", -- [15]
-		"what are my favorite stats again?", -- [16]
-		"sure", -- [17]
-		"I'm dreaming of a white christmas", -- [18]
-		"but im not talking about snow :)", -- [19]
-		"you could shimmy down my chimney tonight", -- [20]
-	},
-	["ConvertKeybindings"] = true,
+["ChatHistoryLog"] = {
+{
+"did you want to do more campaign for a bit?",
+"|Kp4|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+322,
+false,
+2,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaamdam|r",
+[51] = 1726205167,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"or should i find a group",
+"|Kp4|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+332,
+false,
+2,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaamdam|r",
+[51] = 1726205263,
+[50] = "CHAT_MSG_BN_WHISPER",
+},
+{
+"um idk",
+"|Kp4|k",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+347,
+false,
+2,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaamdam|r",
+[51] = 1726205395,
+[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+},
+{
+"anyone delvin",
+"Amdam-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+359,
+"Player-3685-0722C2B9",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAmdam|r",
+[51] = 1726205448,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"lf jc/bs",
+"Ctrld-Turalyon",
+"",
+"2. Trade - City",
+"Ctrld-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+4,
+"Player-3685-0E78E53E",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cfffff468Ctrld|r",
+[51] = 1726254557,
+[50] = "CHAT_MSG_CHANNEL",
+},
+{
+"are you on campaign?",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+65,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726254848,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i have to ruin wax pots and defeat torchsnarl",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+77,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726254871,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"did you already do that",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+78,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726254873,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"yeah",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+83,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726254952,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"where are you?",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+189,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726255369,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"hello?",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+242,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726255571,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i'm omw",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+247,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726255591,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"are you just herbing?",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+250,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726255668,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"what quest are you on",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+251,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726255679,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"im waiting for you yeah ",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+252,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726255622,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"new candle new hope",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+261,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726255729,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"oh you have to go in the instance by yourself i think",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+270,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726255695,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i thought you already did that i just finished it",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+271,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726255700,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i dont think we can do it together anyway",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+272,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726255708,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:40450:Player-60-0F555CCA:1:9:13:24:4294967295:4294967295:4294967295:4294967295|h[Buddy System II]|h|r!",
+"Yughiicsv-Stormrage",
+"",
+"",
+"Yughiicsv-Stormrage",
+"",
+0,
+0,
+"",
+0,
+368,
+"Player-60-0F555CCA",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeYughiicsv-Stormrage|r",
+[51] = 1726256193,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:40648:Player-3685-07250438:1:9:13:24:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Stonevault]|h|r!",
+"Nurwi-Turalyon",
+"",
+"",
+"Nurwi-Turalyon",
+"",
+0,
+0,
+"",
+0,
+53,
+"Player-3685-07250438",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aNurwi|r",
+[51] = 1726264164,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:40648:Player-3685-0E078A5A:1:9:13:24:4294967295:4294967295:4294967295:4294967295|h[Mythic: The Stonevault]|h|r!",
+"Khandios-Turalyon",
+"",
+"",
+"Khandios-Turalyon",
+"",
+0,
+0,
+"",
+0,
+54,
+"Player-3685-0E078A5A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddKhandios|r",
+[51] = 1726264164,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"gonna take a break for a bit, thx for the runs",
+"Amdam-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+69,
+"Player-3685-0722C2B9",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cfff48cbaAmdam|r",
+[51] = 1726264228,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"sounds good! Thanks all!!",
+"Khandios-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+74,
+"Player-3685-0E078A5A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddKhandios|r",
+[51] = 1726264248,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"how often do we get a catalyst token. Weekly or every other?",
+"Rhynox-Area52",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+77,
+"Player-3676-0E89960C",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff8788eeRhynox|r",
+[51] = 1726264357,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"not sure yet",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+80,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726264408,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"i think its every other",
+"Rambozo-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+82,
+"Player-3685-0E698FAF",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffffffffRambozo|r",
+[51] = 1726264429,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"thanks for runs, it was fun!",
+"Nurwi-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+84,
+"Player-3685-07250438",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aNurwi|r",
+[51] = 1726264479,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"no stress",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+87,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726264577,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:16334:Player-3685-06F66617:1:9:13:24:4294967295:4294967295:4294967295:4294967295|h[Waking Hope]|h|r!",
+"Pheel-Turalyon",
+"",
+"",
+"Pheel-Turalyon",
+"",
+0,
+0,
+"",
+0,
+353,
+"Player-3685-06F66617",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aPheel|r",
+[51] = 1726265883,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"anyone a jc?",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+439,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266173,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"where you at",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+442,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266207,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"anyone want to do a delve?",
+"Khandios-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+465,
+"Player-3685-0E078A5A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddKhandios|r",
+[51] = 1726266290,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"t8?",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+470,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266309,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"yeah",
+"Khandios-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+472,
+"Player-3685-0E078A5A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddKhandios|r",
+[51] = 1726266313,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"hell yeah lets give it a go",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+483,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266320,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"any heals?",
+"Nurwi-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+486,
+"Player-3685-07250438",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aNurwi|r",
+[51] = 1726266335,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"i did some earlier 3 man team was do able",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+490,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266364,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"just aggro and kite well we kill",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+493,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266376,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"actually didnt notice the time , i gotta go grab the child from school",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+502,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266425,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"ill be back",
+"Bubzasoraz-Sargeras",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+504,
+"Player-76-0BCD44EE",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffa330c9Bubzasoraz|r",
+[51] = 1726266428,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"doe she have recepies?",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+564,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266681,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"who?",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+565,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266692,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"it just said i unlocked stuff",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+566,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266702,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"oh from the renown guy",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+567,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266713,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"over here",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+568,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266717,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"where is he",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+569,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266660,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"yep, delves are still broken lol",
+"Khandios-Turalyon",
+"",
+"",
+"",
+"",
+0,
+0,
+"",
+0,
+574,
+"Player-3685-0E078A5A",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff0070ddKhandios|r",
+[51] = 1726266733,
+[50] = "CHAT_MSG_GUILD",
+},
+{
+"it still costs |cff0070dd|Hitem:210814::::::::76:269:::::::::|h[Artisan's Acuity]|h|r",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+575,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266742,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"which you only have so much of",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+576,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266750,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"GUACAMOLE??",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+577,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266751,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"so gotta prioritize what you want to buy",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+578,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266760,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i only have 410",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+579,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266773,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"lol the pet",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+580,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266774,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"I know what I want",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+581,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266785,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"eyy i leveled",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+583,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266838,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"I am so proud of you",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+584,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266860,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"turn your wax into this guy",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+586,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266868,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"he gives you exp for each turn in",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+587,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266872,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"middles",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+589,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266878,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"also while looting treasures, if you happen to find a Profaned Tinderbox, you should auction that asap",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+595,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266904,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"theyre worth almost 10k",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+596,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266909,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh I have a few",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+597,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266939,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"for real",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+601,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266964,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"some big money there",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+602,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726266976,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"yeah 4",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+603,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726266998,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"dayum yeah you should sell those",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+604,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267008,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol kiddind",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+605,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267014,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"%s has earned the achievement |cffffff00|Hachievement:40732:Player-3685-0723603D:1:9:13:24:4294967295:4294967295:4294967295:4294967295|h[Heavy-Handed]|h|r!",
+"Inerebus-Turalyon",
+"",
+"",
+"Inerebus-Turalyon",
+"",
+0,
+0,
+"",
+0,
+606,
+"Player-3685-0723603D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebInerebus|r",
+[51] = 1726267042,
+[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+},
+{
+"how do I show him the wax?",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+607,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267042,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"did you talk to middles",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+608,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267053,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"theres a button you click",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+609,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267059,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"you turn in 5 at a time",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+610,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267063,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"but get at least one for every disturbed dirt pile you loot",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+611,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267021,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"so i always try to loot those",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+612,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267085,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"can you make me a sickle",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+614,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267137,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i can check if my dk can",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+615,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267147,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"you don't have one already?",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+616,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267152,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"or is it the dragon isles one",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+617,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267162,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i have a dragon ilses one ",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+618,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267165,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"ok let me look at my dk",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+619,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267171,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"is there not a better one now?",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+621,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267177,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"shuld we go get the kiddos?",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+644,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267341,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"where did you go",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+646,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267351,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"how dare you",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+652,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267391,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"how dare i?",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+654,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267396,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"what i crafted you a sickle",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+655,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267403,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"isnt that what you wanted",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+656,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267408,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"a rank 2 sickle ",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+657,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267410,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol i can't rank3 them yet",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+659,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267425,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"takes a while to max out profession equipment crafts",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+661,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267451,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"...",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+662,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267458,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i also didnt spec into weapons on my dk",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+663,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267472,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"I thought i meant more to you than this",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+664,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267472,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol i dont even have full on equipment on this char",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+665,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267491,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"missing a back item",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+666,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267441,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"just too expensive right now",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+668,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267511,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"whats next for quest",
+"Drunkan-Turalyon",
+"",
+"",
+"Drunkan-Turalyon",
+"",
+0,
+0,
+"",
+0,
+669,
+"Player-3685-07180DDD",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff00ff98Drunkan|r",
+[51] = 1726267573,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"miies and maddie",
+"Releaf-Turalyon",
+"",
+"",
+"Releaf-Turalyon",
+"",
+0,
+0,
+"",
+0,
+671,
+"Player-3685-0908462E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aReleaf|r",
+[51] = 1726267584,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+},
+["ChatEditHistory"] = {
+"/p doe she have recepies?",
+"/p it just said i unlocked stuff",
+"/p where is he",
+"/p GUACAMOLE??",
+"/p i only have 410",
+"/p I know what I want",
+"/p I am so proud of you",
+"/p oh I have a few",
+"/p yeah 4",
+"/p lol kiddind",
+"/p how do I show him the wax?",
+"/p can you make me a sickle",
+"/p i have a dragon ilses one",
+"/p is there not a better one now?",
+"/p shuld we go get the kiddos?",
+"/p how dare you",
+"/p a rank 2 sickle",
+"/p ...",
+"/p I thought i meant more to you than this",
+"/p miies and maddie",
+},
+["ConvertKeybindings"] = true,
 }

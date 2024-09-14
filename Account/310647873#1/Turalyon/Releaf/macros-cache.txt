@@ -74,6 +74,16 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 /cast Convoke the Spirits
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000011 " " "134400"
+#showtooltip
+/cast [mod:alt] Force of Nature; Stellar Flare;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "134400"
+#showtoolitp
+/cast [known:Fury of Elune] Fury of Elune; [known:New Moon] New Moon;
+/script UIErrorsFrame:Clear()
+END
 VER 3 0100000000000003 "revitalize" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Revitalize

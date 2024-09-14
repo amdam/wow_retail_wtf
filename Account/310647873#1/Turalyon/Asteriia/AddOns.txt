@@ -5,7 +5,7 @@ Atlas: disabled
 _Cursor: disabled
 ACP: disabled
 affdots-mage: disabled
-ArkInventory: enabled
+ArkInventory: disabled
 ArkInventoryConfig: enabled
 ArkInventoryRules: enabled
 ArkInventoryRules_Example: enabled
@@ -283,3 +283,14 @@ ElvUI_DTBars2: disabled
 ElvUI_QuestXP: disabled
 WeakAurasCompanion: enabled
 AllTheThings: disabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+ElvUI_CustomTags: disabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_UnitFramePlugin: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+kExtraBossFrames: disabled
+OPie_Classic: disabled
+Blizzard_CombatText: enabled
+ElvUI_Options: enabled

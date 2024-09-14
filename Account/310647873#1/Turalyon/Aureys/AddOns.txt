@@ -38,3 +38,9 @@ RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+Blizzard_CombatText: enabled
+ArkInventory: disabled
+ElvUI_Options: enabled
