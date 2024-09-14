@@ -5,7 +5,7 @@ OPie_SavedData = {
 ["CharProfiles"] = {
 },
 ["_TimeBand"] = 0.8203125,
-["_OPieVersion"] = "Ælling 4 (4.128)",
+["_OPieVersion"] = "Ælling 5 (4.129)",
 ["ProfileStorage"] = {
 ["default"] = {
 ["RotationTokens"] = {
@@ -232,7 +232,7 @@ OPie_SavedData = {
 ["id"] = 2656,
 },
 ["save"] = true,
-["v"] = 2,
+["v"] = 3,
 ["hotkey"] = "ALT-T",
 ["name"] = "Trade Skills",
 ["version"] = 4,
@@ -318,11 +318,11 @@ OPie_SavedData = {
 {
 ["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 ["sliceToken"] = "OPCMVd",
-["vm"] = 2,
 },
 {
 ["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
 ["sliceToken"] = "OPCMVt",
+["vm"] = 2,
 },
 {
 ["id"] = "/cast [mod] {{spell:11418}}; {{spell:3563}}",
@@ -337,6 +337,7 @@ OPie_SavedData = {
 {
 ["id"] = "/cast [mod] {{spell:11417}}; {{spell:3567}}",
 ["sliceToken"] = "OPCMVo",
+["vm"] = 3,
 },
 {
 "ring",
@@ -348,6 +349,10 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:32267}}; {{spell:32272}}",
 ["sliceToken"] = "OPCMVl",
 ["vm"] = 2,
+},
+{
+["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}}",
+["sliceToken"] = "OPCMV1",
 },
 {
 ["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
@@ -374,12 +379,12 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
 },
-["name"] = "Portals and Teleports",
 ["limit"] = "MAGE",
+["name"] = "Portals and Teleports",
 ["hotkey"] = "ALT-G",
 ["save"] = true,
 ["vm"] = 127,
-["v"] = 1,
+["v"] = 2,
 },
 ["ipmentSets"] = {
 {
@@ -476,10 +481,10 @@ OPie_SavedData = {
 ["show"] = "[spec:73/72] hide;",
 ["sliceToken"] = "ABuesXRQAcr",
 },
-["limit"] = "Badam-Turalyon",
+["name"] = "Equipment Sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment Sets",
+["limit"] = "Badam-Turalyon",
 },
 },
 },

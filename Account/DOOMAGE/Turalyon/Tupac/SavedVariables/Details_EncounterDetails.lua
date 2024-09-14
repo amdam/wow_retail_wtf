@@ -337,14 +337,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Chuuma-LaughingSkull",
 },
-[107356] = {
-["school"] = 32,
+[120759] = {
+["school"] = 1,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Taran Zhu",
+["source"] = "Commander Vo'jak",
 },
 [111772] = {
 ["school"] = 1,
@@ -369,13 +369,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Commander Durand",
 },
-[80182] = {
-["school"] = 1,
+[429216] = {
+["school"] = 4,
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Drunken Hozen Brawler",
+["source"] = "Chuuma-LaughingSkull",
 },
 [114386] = {
 ["school"] = 16,
@@ -398,41 +397,39 @@ EncounterDetailsDB = {
 ["SPELL_DAMAGE"] = true,
 },
 },
-[125206] = {
+[124283] = {
 ["school"] = 1,
-["type"] = "DEBUFF",
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "General Pa'valak",
+},
+[131996] = {
+["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Amethyst Guardian",
+["source"] = "Sha of Fear",
 },
-[113682] = {
-["school"] = 64,
+[131521] = {
+["school"] = 32,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Flameweaver Koegler",
+["source"] = "Taran Zhu",
 },
-[120758] = {
-["school"] = 1,
+[125843] = {
+["school"] = 32,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Commander Vo'jak",
-},
-[120778] = {
-["school"] = 1,
-["type"] = "DEBUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Commander Vo'jak",
+["source"] = "Tsulong",
 },
 [123423] = {
 ["school"] = 1,
@@ -463,14 +460,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Hopper",
 },
-[125843] = {
-["school"] = 32,
-["type"] = "BUFF",
+[114658] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Tsulong",
+["source"] = "Instructor Chillheart",
 },
 [111008] = {
 ["school"] = 2,
@@ -517,13 +513,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Amber-Shaper Un'sok",
 },
-[114658] = {
+[120778] = {
 ["school"] = 1,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
+["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Instructor Chillheart",
+["source"] = "Commander Vo'jak",
 },
 [119519] = {
 ["school"] = 32,
@@ -532,12 +528,16 @@ EncounterDetailsDB = {
 },
 ["source"] = "Sha of Fear",
 },
-[117986] = {
-["school"] = 1,
+[123121] = {
+["school"] = 16,
+["type"] = "DEBUFF",
 ["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Protector Kaolan",
+["source"] = "Lei Shi",
 },
 [106546] = {
 ["school"] = 1,
@@ -592,59 +592,15 @@ EncounterDetailsDB = {
 },
 ["source"] = "Brother Korloff",
 },
-[124317] = {
+[106827] = {
 ["school"] = 1,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "General Pa'valak",
-},
-[120269] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-},
-[111010] = {
-["school"] = 2,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
-},
-["source"] = "Scarlet Zealot",
-},
-[117910] = {
-["school"] = 1,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Qiang the Merciless",
-},
-[123791] = {
-["school"] = 1,
-["token"] = {
-["SPELL_CAST_START"] = true,
-},
-["source"] = "Imperial Vizier Zor'lok",
-},
-[122532] = {
-["school"] = 8,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_HEAL"] = true,
-},
-["source"] = "Living Amber",
-},
-[181089] = {
-["school"] = 1,
-["type"] = "BUFF",
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+["SPELL_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Liu Flameheart",
+["source"] = "Sha of Violence",
 },
 [111854] = {
 ["school"] = 1,
@@ -661,6 +617,51 @@ EncounterDetailsDB = {
 },
 ["source"] = "Amber-Shaper Un'sok",
 },
+[117910] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Qiang the Merciless",
+},
+[123791] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Imperial Vizier Zor'lok",
+},
+[124317] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "General Pa'valak",
+},
+[181089] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Liu Flameheart",
+},
+[120269] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+},
+[123505] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Animated Protector",
+},
 [111631] = {
 ["school"] = 32,
 ["type"] = "DEBUFF",
@@ -672,13 +673,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Instructor Chillheart",
 },
-[115289] = {
-["school"] = 32,
+[110954] = {
+["school"] = 4,
+["type"] = "BUFF",
 ["token"] = {
+["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
 },
-["source"] = "Thalnos the Soulrender",
+["source"] = "Scarlet Fanatic",
 },
 [106563] = {
 ["school"] = 1,
@@ -690,14 +692,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Yan-Zhu the Uncasked",
 },
-[114022] = {
+[111217] = {
 ["school"] = 1,
 ["token"] = {
-["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Scarlet Treasurer",
+["source"] = "Armsmaster Harlan",
 },
 [115010] = {
 ["school"] = 1,
@@ -706,21 +707,23 @@ EncounterDetailsDB = {
 },
 ["source"] = "Gripping Hatred",
 },
-[123505] = {
-["school"] = 8,
+[123250] = {
+["school"] = 16,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Animated Protector",
+["source"] = "Lei Shi",
 },
-[111217] = {
+[114022] = {
 ["school"] = 1,
 ["token"] = {
+["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Armsmaster Harlan",
+["source"] = "Scarlet Treasurer",
 },
 [143924] = {
 ["school"] = 1,
@@ -736,36 +739,37 @@ EncounterDetailsDB = {
 ["SPELL_AURA_APPLIED"] = true,
 },
 },
-[123250] = {
-["school"] = 16,
-["type"] = "BUFF",
+[111010] = {
+["school"] = 2,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
+["SPELL_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Lei Shi",
+["source"] = "Scarlet Zealot",
 },
 [374606] = {
 ["school"] = 32,
 ["token"] = {
-["SPELL_HEAL"] = true,
 ["SPELL_DAMAGE"] = true,
+["SPELL_HEAL"] = true,
 },
 ["source"] = "Chuuma-LaughingSkull",
 },
-[114460] = {
-["school"] = 4,
-["type"] = "BUFF",
+[193473] = {
+["school"] = 32,
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 },
+["source"] = "Void Tendril",
 },
-[111129] = {
+[122349] = {
 ["school"] = 8,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Gu Cloudstrike",
+["source"] = "Living Amber",
 },
 [397878] = {
 ["school"] = 16,
@@ -782,30 +786,26 @@ EncounterDetailsDB = {
 },
 ["source"] = "Protector Kaolan",
 },
-[453445] = {
-["school"] = 64,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Chuuma-LaughingSkull",
-},
-[119840] = {
+[128248] = {
 ["school"] = 1,
-["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Sik'thik Soldier",
+["source"] = "Shado-Pan Ambusher",
 },
-[122556] = {
+[125093] = {
 ["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+},
+[114141] = {
+["school"] = 1,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Amber-Shaper Un'sok",
+["source"] = "Krastinovian Carver",
 },
 [113959] = {
 ["school"] = 1,
@@ -816,13 +816,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Defender",
 },
-[116525] = {
+[119840] = {
 ["school"] = 1,
 ["type"] = "DEBUFF",
 ["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Emperor's Rage",
+["source"] = "Sik'thik Soldier",
 },
 [123426] = {
 ["school"] = 1,
@@ -831,14 +832,13 @@ EncounterDetailsDB = {
 ["SPELL_AURA_APPLIED"] = true,
 },
 },
-[122540] = {
-["school"] = 8,
-["type"] = "BUFF",
+[1604] = {
+["school"] = 1,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Amber Monstrosity",
+["source"] = "Scarlet Pupil",
 },
 [110963] = {
 ["school"] = 4,
@@ -847,12 +847,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Purifier",
 },
-[128766] = {
-["school"] = 1,
+[113364] = {
+["school"] = 4,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Shado-Pan Ambusher",
+["source"] = "Flameweaver Koegler",
 },
 [123235] = {
 ["school"] = 1,
@@ -870,16 +871,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Sha of Violence",
 },
-[125490] = {
-["school"] = 4,
-["type"] = "DEBUFF",
+[106851] = {
+["school"] = 16,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Amber Searsting",
+["source"] = "Yan-Zhu the Uncasked",
 },
 [117163] = {
 ["school"] = 8,
@@ -897,13 +895,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Thalnos the Soulrender",
 },
-[106851] = {
-["school"] = 16,
+[117227] = {
+["school"] = 1,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
 },
-["source"] = "Yan-Zhu the Uncasked",
+["source"] = "Elder Asani",
 },
 [126901] = {
 ["school"] = 1,
@@ -944,12 +942,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Wise Mari",
 },
-[124176] = {
+[128766] = {
 ["school"] = 1,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Tsulong",
+["source"] = "Shado-Pan Ambusher",
 },
 [117052] = {
 ["school"] = 1,
@@ -960,12 +958,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Elder Regail",
 },
-[114061] = {
-["school"] = 64,
+[123496] = {
+["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
-["SPELL_DAMAGE"] = true,
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Jandice Barov",
+["source"] = "Azure Serpent",
 },
 [117529] = {
 ["school"] = 32,
@@ -989,15 +989,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Chuuma-LaughingSkull",
 },
-[429252] = {
-["school"] = 32,
-["type"] = "DEBUFF",
+[118047] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Chuuma-LaughingSkull",
+["source"] = "Subetai the Swift",
 },
 [121483] = {
 ["school"] = 8,
@@ -1014,35 +1011,40 @@ EncounterDetailsDB = {
 },
 ["source"] = "Spirit Wolf",
 },
-[123428] = {
-["school"] = 1,
+[114548] = {
+["school"] = 16,
 ["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-},
-},
-[123811] = {
-["school"] = 0,
-["token"] = {
+["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Imperial Vizier Zor'lok",
+["source"] = "Yan-Zhu the Uncasked",
 },
-[111599] = {
-["school"] = 32,
-["token"] = {
-["SPELL_CAST_START"] = true,
-},
-["source"] = "Scholomance Acolyte",
-},
-[121994] = {
+[122407] = {
 ["school"] = 1,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Wind Lord Mel'jarak",
+},
+[114479] = {
+["school"] = 4,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Candlestick Mage",
+},
+[224127] = {
+["school"] = 8,
 ["type"] = "BUFF",
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Amber-Shaper Un'sok",
+["source"] = "Spirit Wolf",
 },
 [114184] = {
 ["school"] = 1,
@@ -1052,26 +1054,26 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Pupil",
 },
-[113690] = {
-["school"] = 4,
+[429252] = {
+["school"] = 32,
 ["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_DAMAGE"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_AURA_APPLIED"] = true,
 ["SPELL_PERIODIC_DAMAGE"] = true,
-["SPELL_CAST_START"] = true,
-},
-["source"] = "Flameweaver Koegler",
-},
-[112929] = {
-["school"] = 32,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Gripping Hatred",
+["source"] = "Chuuma-LaughingSkull",
+},
+[117519] = {
+["school"] = 32,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+},
+["source"] = "Protector Kaolan",
 },
 [118312] = {
 ["school"] = 8,
@@ -1081,15 +1083,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Elder Asani",
 },
-[106853] = {
+[123428] = {
 ["school"] = 1,
-["type"] = "BUFF",
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Master Snowdrift",
 },
 [397888] = {
 ["school"] = 16,
@@ -1110,15 +1109,11 @@ EncounterDetailsDB = {
 },
 ["source"] = "Azure Serpent",
 },
-[114479] = {
-["school"] = 4,
-["type"] = "DEBUFF",
+[123014] = {
+["school"] = 8,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Candlestick Mage",
 },
 [440920] = {
 ["school"] = 1,
@@ -1128,19 +1123,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Chuuma-LaughingSkull",
 },
-[125429] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Sra'thik Pool-Tender",
-},
-[123014] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-},
 [113866] = {
 ["school"] = 64,
 ["token"] = {
@@ -1148,6 +1130,15 @@ EncounterDetailsDB = {
 ["SPELL_DAMAGE"] = true,
 },
 ["source"] = "Jandice Barov",
+},
+[121994] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Amber-Shaper Un'sok",
 },
 [119476] = {
 ["school"] = 1,
@@ -1157,6 +1148,13 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "General Pa'valak",
+},
+[123811] = {
+["school"] = 0,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Imperial Vizier Zor'lok",
 },
 [122774] = {
 ["school"] = 1,
@@ -1168,21 +1166,21 @@ EncounterDetailsDB = {
 },
 ["source"] = "Garalon",
 },
-[115144] = {
-["school"] = 32,
-["type"] = "DEBUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-},
-["source"] = "Fallen Crusader",
-},
-[117309] = {
-["school"] = 1,
+[106984] = {
+["school"] = 8,
 ["token"] = {
 ["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Elder Asani",
+["source"] = "Gu Cloudstrike",
+},
+[443473] = {
+["school"] = 8,
+["token"] = {
+["SPELL_PERIODIC_DAMAGE"] = true,
+},
+["source"] = "Chuuma-LaughingSkull",
 },
 [114185] = {
 ["school"] = 32,
@@ -1213,13 +1211,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Evoker",
 },
-[443473] = {
-["school"] = 8,
-["token"] = {
-["SPELL_PERIODIC_DAMAGE"] = true,
-},
-["source"] = "Chuuma-LaughingSkull",
-},
 [106854] = {
 ["school"] = 4,
 ["token"] = {
@@ -1227,13 +1218,21 @@ EncounterDetailsDB = {
 },
 ["source"] = "Master Snowdrift",
 },
-[224125] = {
-["school"] = 4,
-["type"] = "BUFF",
+[117309] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Spirit Wolf",
+["source"] = "Elder Asani",
+},
+[125480] = {
+["school"] = 4,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Amber Searsting",
 },
 [111221] = {
 ["school"] = 1,
@@ -1244,20 +1243,21 @@ EncounterDetailsDB = {
 },
 ["source"] = "Armsmaster Harlan",
 },
-[121995] = {
-["school"] = 8,
+[124290] = {
+["school"] = 1,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Amber-Shaper Un'sok",
 },
-[115829] = {
-["school"] = 1,
-["type"] = "BUFF",
+[121949] = {
+["school"] = 8,
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Amethyst Guardian",
+["source"] = "Amber-Shaper Un'sok",
 },
 [113564] = {
 ["school"] = 1,
@@ -1266,11 +1266,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Master Archer",
 },
-[124290] = {
-["school"] = 1,
+[121995] = {
+["school"] = 8,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
+["source"] = "Amber-Shaper Un'sok",
 },
 [106966] = {
 ["school"] = 32,
@@ -1348,6 +1349,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Taran Zhu",
 },
+[114011] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Scarlet Hall Guardian",
+},
 [118091] = {
 ["school"] = 1,
 ["type"] = "DEBUFF",
@@ -1355,20 +1363,11 @@ EncounterDetailsDB = {
 ["SPELL_AURA_APPLIED"] = true,
 },
 },
-[106871] = {
-["school"] = 32,
+[122005] = {
+["school"] = 4,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
-["source"] = "Sha of Violence",
-},
-[111324] = {
-["school"] = 1,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Scarlet Defender",
 },
 [115828] = {
 ["school"] = 1,
@@ -1378,21 +1377,21 @@ EncounterDetailsDB = {
 },
 ["source"] = "Jasper Guardian",
 },
-[114219] = {
-["school"] = 1,
-["type"] = "BUFF",
+[114474] = {
+["school"] = 4,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Scarlet Scholar",
+["source"] = "Candlestick Mage",
 },
-[115003] = {
-["school"] = 16,
+[122406] = {
+["school"] = 1,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
 },
-["source"] = "Yan-Zhu the Uncasked",
+["source"] = "Wind Lord Mel'jarak",
 },
 [115876] = {
 ["school"] = 1,
@@ -1411,14 +1410,15 @@ EncounterDetailsDB = {
 },
 ["source"] = "Bored Student",
 },
-[114864] = {
-["school"] = 32,
+[395829] = {
+["school"] = 16,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_START"] = true,
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
 },
-["source"] = "Bored Student",
+["source"] = "Corrupt Droplet",
 },
 [127399] = {
 ["school"] = 2,
@@ -1445,44 +1445,45 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scholomance Neophyte",
 },
-[395829] = {
-["school"] = 16,
-["type"] = "DEBUFF",
+[114864] = {
+["school"] = 32,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Corrupt Droplet",
+["source"] = "Bored Student",
 },
-[122406] = {
-["school"] = 1,
+[115003] = {
+["school"] = 16,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
 },
-["source"] = "Wind Lord Mel'jarak",
+["source"] = "Yan-Zhu the Uncasked",
 },
-[114474] = {
-["school"] = 4,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Candlestick Mage",
-},
-[122005] = {
-["school"] = 4,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-},
-[114011] = {
+[114219] = {
 ["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
+["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Scarlet Hall Guardian",
+["source"] = "Scarlet Scholar",
+},
+[111324] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Scarlet Defender",
+},
+[106871] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Sha of Violence",
 },
 [106872] = {
 ["school"] = 32,
@@ -1503,15 +1504,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Purifier",
 },
-[121949] = {
-["school"] = 8,
-["type"] = "DEBUFF",
+[115829] = {
+["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Amber-Shaper Un'sok",
+["source"] = "Amethyst Guardian",
 },
 [106920] = {
 ["school"] = 32,
@@ -1522,14 +1521,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Regenerating Sha",
 },
-[125480] = {
+[224125] = {
 ["school"] = 4,
+["type"] = "BUFF",
 ["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Amber Searsting",
+["source"] = "Spirit Wolf",
 },
 [127352] = {
 ["school"] = 1,
@@ -1549,14 +1547,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Risen Guard",
 },
-[106984] = {
-["school"] = 8,
+[115144] = {
+["school"] = 32,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
 },
-["source"] = "Gu Cloudstrike",
+["source"] = "Fallen Crusader",
 },
 [119495] = {
 ["school"] = 32,
@@ -1589,24 +1587,21 @@ EncounterDetailsDB = {
 },
 ["source"] = "Living Amber",
 },
-[117519] = {
+[112929] = {
 ["school"] = 32,
-["type"] = "DEBUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-},
-["source"] = "Protector Kaolan",
-},
-[224127] = {
-["school"] = 8,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Spirit Wolf",
+["source"] = "Gripping Hatred",
+},
+[125429] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Sra'thik Pool-Tender",
 },
 [115511] = {
 ["school"] = 1,
@@ -1617,29 +1612,34 @@ EncounterDetailsDB = {
 },
 ["source"] = "Scarlet Centurion",
 },
-[122407] = {
+[106853] = {
 ["school"] = 1,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Wind Lord Mel'jarak",
-},
-[114548] = {
-["school"] = 16,
-["type"] = "DEBUFF",
+["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Yan-Zhu the Uncasked",
+["source"] = "Master Snowdrift",
 },
-[118047] = {
-["school"] = 1,
+[113690] = {
+["school"] = 4,
+["type"] = "DEBUFF",
 ["token"] = {
+["SPELL_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Subetai the Swift",
+["source"] = "Flameweaver Koegler",
+},
+[111599] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Scholomance Acolyte",
 },
 [123735] = {
 ["school"] = 1,
@@ -1649,22 +1649,19 @@ EncounterDetailsDB = {
 },
 ["source"] = "Grand Empress Shek'zeer",
 },
-[123496] = {
-["school"] = 1,
-["type"] = "BUFF",
+[114061] = {
+["school"] = 64,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Azure Serpent",
+["source"] = "Jandice Barov",
 },
-[117227] = {
+[124176] = {
 ["school"] = 1,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
 },
-["source"] = "Elder Asani",
+["source"] = "Tsulong",
 },
 [117918] = {
 ["school"] = 1,
@@ -1673,57 +1670,63 @@ EncounterDetailsDB = {
 },
 ["source"] = "Flanking Mogu",
 },
-[113364] = {
+[125490] = {
 ["school"] = 4,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+},
+["source"] = "Amber Searsting",
+},
+[122540] = {
+["school"] = 8,
+["type"] = "BUFF",
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
+["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Flameweaver Koegler",
+["source"] = "Amber Monstrosity",
 },
-[1604] = {
+[122556] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Amber-Shaper Un'sok",
+},
+[116525] = {
 ["school"] = 1,
 ["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Scarlet Pupil",
+["source"] = "Emperor's Rage",
 },
-[114141] = {
-["school"] = 1,
+[453445] = {
+["school"] = 64,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Chuuma-LaughingSkull",
+},
+[111129] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Gu Cloudstrike",
+},
+[114460] = {
+["school"] = 4,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Krastinovian Carver",
-},
-[125093] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-},
-[128248] = {
-["school"] = 1,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Shado-Pan Ambusher",
-},
-[122349] = {
-["school"] = 8,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Living Amber",
-},
-[193473] = {
-["school"] = 32,
-["type"] = "DEBUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Void Tendril",
 },
 [106826] = {
 ["school"] = 1,
@@ -1750,14 +1753,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Jasper Guardian",
 },
-[110954] = {
-["school"] = 4,
-["type"] = "BUFF",
+[115289] = {
+["school"] = 32,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Scarlet Fanatic",
+["source"] = "Thalnos the Soulrender",
 },
 [113775] = {
 ["school"] = 64,
@@ -1783,15 +1785,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Jandice Barov",
 },
-[106827] = {
-["school"] = 1,
-["type"] = "DEBUFF",
+[122532] = {
+["school"] = 8,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_HEAL"] = true,
 },
-["source"] = "Sha of Violence",
+["source"] = "Living Amber",
 },
 [114859] = {
 ["school"] = 32,
@@ -1802,16 +1802,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Bored Student",
 },
-[123121] = {
-["school"] = 16,
-["type"] = "DEBUFF",
+[117986] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
 },
-["source"] = "Lei Shi",
+["source"] = "Protector Kaolan",
 },
 [113616] = {
 ["school"] = 1,
@@ -1829,39 +1825,7 @@ EncounterDetailsDB = {
 },
 ["source"] = "Wing Leader Ner'onok",
 },
-[131521] = {
-["school"] = 32,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Taran Zhu",
-},
-[131996] = {
-["school"] = 1,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Sha of Fear",
-},
-[124283] = {
-["school"] = 1,
-["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
-},
-["source"] = "General Pa'valak",
-},
-[429216] = {
-["school"] = 4,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Chuuma-LaughingSkull",
-},
-[120759] = {
+[120758] = {
 ["school"] = 1,
 ["type"] = "BUFF",
 ["token"] = {
@@ -1869,6 +1833,42 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Commander Vo'jak",
+},
+[113682] = {
+["school"] = 64,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Flameweaver Koegler",
+},
+[125206] = {
+["school"] = 1,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Amethyst Guardian",
+},
+[80182] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Drunken Hozen Brawler",
+},
+[107356] = {
+["school"] = 32,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Taran Zhu",
 },
 },
 ["emotes"] = {

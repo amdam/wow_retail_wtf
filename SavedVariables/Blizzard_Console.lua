@@ -4,3840 +4,868 @@ Blizzard_Console_SavedVars = {
 ["height"] = 299.9999694824219,
 ["messageHistory"] = {
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2664 from previous map 2552 with translation: (-1918.11, 2505.35, 327.201)\n    Location : (-509.632, -264.618, 378.962)\n    Location in previous map : (1408.48, -2769.97, 51.7609)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2664 but keeping old map 2552 RESIDENT.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Freezing AOI updates for old map 2552",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2664",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2664, PreviousTransitionID:2552, Position (1408.48, -2769.97, 51.7609)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload skipped - map is same as current map.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2664, PreviousTransitionID:2552, Position (1693.18, -2523.02, -197.552)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload skipped - map is same as current map.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2552 from previous map 2664 with translation: (1918.11, -2505.35, -327.201)\n    Location : (1382.68, -2803.57, 61.7602)\n    Location in previous map : (-535.428, -298.222, 388.961)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2552 and unloading map 2664. (Map Table Size 288 larger than budget 8)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2552",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received Cancel Preload for MapID 2664, but we have not preloaded it. Current preloaded map: -1",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2463.38, -2291.72, 1049.97)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Cancel Preload of MapID:2601",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2460.3, -2298.33, 1057.45)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2259.21, -2260.06, 556.06)\n    Location in previous map : (2258.87, -2260.88, -575.273)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2552. (Map Table Size 960 larger than budget 8)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2601",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2259.86, -2259.03, -575.992)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Cancel Preload of MapID:2552",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2683, Current MapID:2601, PreviousTransitionID:-1, Position (133.026, 323.503, 198.581)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2683, Current MapID:2601, PreviousTransitionID:2683, Position (116.576, 313.655, 198.242)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload skipped - map is same as current map.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2683 from previous map 2601 with translation: (-1385.48, 3007.58, -179.055)\n    Location : (106.401, 315.241, 198.262)\n    Location in previous map : (1491.88, -2692.34, 377.317)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2683 but keeping old map 2601 RESIDENT.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2683",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2683, PreviousTransitionID:2601, Position (1491.88, -2692.34, 377.317)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload skipped - map is same as current map.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2601 from previous map 2683 with translation: (1385.48, -3007.58, 179.055)\n    Location : (1513.91, -2689.88, 377.688)\n    Location in previous map : (128.43, 317.694, 198.633)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2683. (Map Table Size 960 larger than budget 8)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2601",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received Cancel Preload for MapID 2683, but we have not preloaded it. Current preloaded map: -1",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"GameTimeSync: delta=0, differential=1, HoursAndMinutes=1300",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2683, Current MapID:2601, PreviousTransitionID:-1, Position (140.724, 321.618, 210.397)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Cancel Preload of MapID:2683",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2398.86, -2224.6, -632.001)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2552 from previous map 2601 with translation: (-0.340088, -0.820068, -1131.33)\n    Location : (2467.37, -2353.77, -270.754)\n    Location in previous map : (2467.71, -2352.95, 860.579)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2552 and unloading map 2601. (Map Table Size 288 larger than budget 8)",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2552",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2467.73, -2349.92, 862.577)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Cancel Preload of MapID:2601",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Sorting particles normally.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded rendering enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded BeginDraw enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithread shadows changed to 1.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded prepass enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded opaque pass enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded opaque pass enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded alpha M2 pass enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded opaque WMO pass enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded terrain pass enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded volumetric fog enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded Refraction Pass enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded miscellaneous passes enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded decal passes disabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded outline passes enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Use trigger on BeginDrawComplete enabled.",
+4,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded alpha pass enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Multithreaded daynight update enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Water detail changed to 2",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Ripple detail changed to 1",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Reflection mode changed to 0",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Reflection downscale changed to 0",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Sunshafts quality changed to 2",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Refraction mode changed to 2",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Volume fog enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Particulate volumes enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Projected textures enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Spell Clutter set to dynamic",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Shadow mode changed to 0 - Blob shadows",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Shadow texture size changed to 1024.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Soft shadows changed to 0.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Shadow cascade blending changed to 0",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Shadow RT mode changed to 0 (Disabled)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"maxLightCount must be in range 0 to 32.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Clustered shading enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Not forcing clustered shading.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"SSAO mode set to 0",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"SSAO type set to 0",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Depth Based Opacity Enabled",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"SkyCloudLOD set to 0",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Texture filtering mode updated.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Terrain mip level changed to 0.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Physics interaction level changed to 1",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Render scale changed to 0.85",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Resample quality changed to 3",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"MSAA disabled",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"MSAA for alpha-test enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"VALAR mode changed to 0",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"lodObjectSizeScale cannot be changed.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Volume fog enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"dynamicLod enabled",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"World preload object sort enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"World load object sort enabled.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"World preload non critical enabled.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"World preload high res textures enabled.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"FFX: Color Blind Test Mode Disabled",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Error display disabled",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Error display shown",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Displaying errors through fatal errors",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Displaying errors through fatal errors",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Now filtering: all messages",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Resetting",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Initializing",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Waiting for server response.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Waiting for server response.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Waiting for server response.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Logon complete.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1726240937\" expirationTime=\"1726255337\"",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Waiting for realm list.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Waiting for realm list.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Realm list ready.",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"NetClient::HandleConnect()\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 2",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000000100",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000000101",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000000141",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x0000000021",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000004141",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000004143",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x0000000061",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x0000000069",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x000000006d",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000004163",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x000000007d",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000104163",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x0000104173",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x000000007f",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Proficiency in item class 4 set to 0x000000007f",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Time set to 9/13/2024 (Fri) 8:23",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Gamespeed set from 0.017 to 0.017",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2456.57, -2295.41, 1045.7)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2254.64, -2267.86, 578.429)\n    Location in previous map : (2254.3, -2268.68, -552.904)",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2552. (Map Table Size 960 larger than budget 8)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Finished transition to new map 2601",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2256.34, -2263.15, -554.769)",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Preload initiated.",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"[Airlock] Cancel Preload of MapID:2552",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 5, intensity 1.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 5, intensity 1.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 5, intensity 1.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"World transfer pending...",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Got new connection 3",
+0,
 },
 {
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303576.  Modifier not supported on client (type=174, asset=78620, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303579.  Modifier not supported on client (type=174, asset=78621, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 303581.  Modifier not supported on client (type=174, asset=78624, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Weather changed to 1, intensity 0.000000\n",
+0,
 },
 {
 "World transfer pending...",
@@ -3853,6 +881,1014 @@ Blizzard_Console_SavedVars = {
 },
 {
 "World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008000",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c000",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c480",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c480",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c480",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 10:11",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000041",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004041",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004441",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006441",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006451",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 10:13",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Skill 186 increased from 79 to 80",
+0,
+},
+{
+"Skill 2881 increased from 79 to 80",
+0,
+},
+{
+"Skill 186 increased from 80 to 81",
+0,
+},
+{
+"Skill 2881 increased from 80 to 81",
+0,
+},
+{
+"Skill 186 increased from 81 to 82",
+0,
+},
+{
+"Skill 2881 increased from 81 to 82",
+0,
+},
+{
+"Skill 101 increased from 375 to 380",
+0,
+},
+{
+"Skill 183 increased from 375 to 380",
+0,
+},
+{
+"Skill 829 increased from 375 to 380",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Skill 186 increased from 82 to 83",
+0,
+},
+{
+"Skill 2881 increased from 82 to 83",
+0,
+},
+{
+"Skill 186 increased from 83 to 84",
+0,
+},
+{
+"Skill 2881 increased from 83 to 84",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 10:41",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2463.96, -2303.4, 1042.05)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2254.63, -2268.39, 553.561)\n    Location in previous map : (2254.29, -2269.21, -577.772)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2552. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2254.67, -2266.22, -578.164)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2552",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000041",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004041",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004441",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006441",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006451",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 13:07",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Skill 186 increased from 84 to 85",
+0,
+},
+{
+"Skill 2881 increased from 84 to 85",
+0,
+},
+{
+"Skill 186 increased from 85 to 86",
+0,
+},
+{
+"Skill 2881 increased from 85 to 86",
+0,
+},
+{
+"Skill 186 increased from 86 to 87",
+0,
+},
+{
+"Skill 2881 increased from 86 to 87",
+0,
+},
+{
+"Skill 186 increased from 87 to 88",
+0,
+},
+{
+"Skill 2881 increased from 87 to 88",
+0,
+},
+{
+"Skill 101 increased from 380 to 385",
+0,
+},
+{
+"Skill 183 increased from 380 to 385",
+0,
+},
+{
+"Skill 829 increased from 380 to 385",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000029",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000002d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 13:40",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000001",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000041",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004041",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004441",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000025",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006441",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000006451",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00000064d1",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000027",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 13:42",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008000",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c000",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c480",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c480",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c480",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 13:47",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
 0,
 },
 {
@@ -3956,7 +1992,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/30/2024 (Fri) 9:47",
+"Time set to 9/13/2024 (Fri) 13:48",
 0,
 },
 {
@@ -3972,6 +2008,1370 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 14:21",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2462.45, -2314.06, 1055.9)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2260.28, -2251.13, 566.337)\n    Location in previous map : (2259.94, -2251.95, -564.996)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2552. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2262.44, -2246.01, -567.476)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2552",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 2",
+0,
+},
+{
+"Ripple detail changed to 1",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 2",
+0,
+},
+{
+"Refraction mode changed to 2",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 0.85",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1726282583\" expirationTime=\"1726296983\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
+0,
+},
+{
+"Got new connection 2",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 2",
+0,
+},
+{
+"Ripple detail changed to 1",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 2",
+0,
+},
+{
+"Refraction mode changed to 2",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 0.85",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1726282993\" expirationTime=\"1726297393\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/13/2024 (Fri) 20:03",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2395.38, -2219.77, -630.341)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2552 from previous map 2601 with translation: (-0.340088, -0.820068, -1131.33)\n    Location : (2463.14, -2351.79, -272.209)\n    Location in previous map : (2463.48, -2350.97, 859.124)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2552 and unloading map 2601. (Map Table Size 288 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2552",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2463.5, -2348.77, 860.846)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:-1, Position (-508.675, -64.2942, 67.9733)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:2688, Position (-411.729, -39.6046, 52.0549)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2688 from previous map 2601 with translation: (-1093.71, 590.992, 1048.87)\n    Location : (-404.134, -36.8641, 52.0549)\n    Location in previous map : (689.572, -627.856, -996.815)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2688 but keeping old map 2601 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2688",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (689.572, -627.856, -996.815)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (766.491, -599.314, -996.923)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2688 with translation: (1093.71, -590.992, -1048.87)\n    Location : (574.609, -657.274, -983.331)\n    Location in previous map : (-519.097, -66.2828, 65.539)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2688. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received Cancel Preload for MapID 2688, but we have not preloaded it. Current preloaded map: -1",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2687, Current MapID:2601, PreviousTransitionID:-1, Position (-76.1647, -1487.13, 614.829)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2687, Current MapID:2601, PreviousTransitionID:2687, Position (-139.248, -1492.51, 610.152)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2687 from previous map 2601 with translation: (-2123.74, -1685.16, 1448.77)\n    Location : (-148.071, -1494.58, 609.985)\n    Location in previous map : (1975.67, 190.585, -838.785)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2687 but keeping old map 2601 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2687",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2687, PreviousTransitionID:2601, Position (1975.67, 190.585, -838.785)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2687, PreviousTransitionID:2601, Position (1636.81, 202.182, -1026.57)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2687 with translation: (2123.74, 1685.16, -1448.77)\n    Location : (2014.23, 194.818, -836.577)\n    Location in previous map : (-109.508, -1490.35, 612.193)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2687. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received Cancel Preload for MapID 2687, but we have not preloaded it. Current preloaded map: -1",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2684, Current MapID:2601, PreviousTransitionID:-1, Position (-320.441, -54.7749, 126.766)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2684, Current MapID:2601, PreviousTransitionID:2684, Position (-253.033, -119.516, 104.697)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2684 from previous map 2601 with translation: (-2286.55, 4590.85, -215.464)\n    Location : (-243.443, -128.611, 103.75)\n    Location in previous map : (2043.11, -4719.47, 319.214)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2684 but keeping old map 2601 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2684",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2684, PreviousTransitionID:2601, Position (2043.11, -4719.47, 319.214)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2684, PreviousTransitionID:2601, Position (2060.24, -4780.62, 302.509)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2684 with translation: (2286.55, -4590.85, 215.464)\n    Location : (1995.6, -4672.09, 318.703)\n    Location in previous map : (-290.953, -81.2354, 103.239)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2684. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received Cancel Preload for MapID 2684, but we have not preloaded it. Current preloaded map: -1",
+0,
+},
+{
 "World transfer pending...",
 0,
 },
@@ -3988,7 +3388,95 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:-1, Position (-130.886, -123.878, 77.5772)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:2680, Position (-169.136, -107.449, 73.557)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2680 from previous map 2552 with translation: (-1108.2, 1530.38, -9.7603)\n    Location : (-179.347, -101.958, 73.5784)\n    Location in previous map : (928.853, -1632.34, 83.3387)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2680 but keeping old map 2552 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2552",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2680",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2680, PreviousTransitionID:2552, Position (928.081, -1631.77, 83.3326)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2680, PreviousTransitionID:2552, Position (379.37, -1775.75, 86.2165)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2552 from previous map 2680 with translation: (1108.2, -1530.38, 9.7603)\n    Location : (946.705, -1646.41, 83.1612)\n    Location in previous map : (-161.495, -116.033, 73.4009)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2552 and unloading map 2680. (Map Table Size 288 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2552",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received Cancel Preload for MapID 2680, but we have not preloaded it. Current preloaded map: -1",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
@@ -3997,6 +3485,518 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 2",
+0,
+},
+{
+"Ripple detail changed to 1",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 2",
+0,
+},
+{
+"Refraction mode changed to 2",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 0.85",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1726320914\" expirationTime=\"1726335314\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/14/2024 (Sat) 6:35",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.115947\n",
+0,
+},
+{
+"Weather changed to 2, intensity 0.260902\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
 0,
 },
 {

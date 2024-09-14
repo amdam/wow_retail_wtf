@@ -92,3 +92,4 @@ Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
 OPie: enabled
 Baganator: enabled
+BigWigs_NerubarPalace: enabled

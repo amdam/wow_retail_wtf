@@ -2,7 +2,6 @@
 ElvCharacterDB = {
 ["ConvertKeybindings"] = true,
 ["ChatEditHistory"] = {
-"/wa",
 "/raid :/",
 "/raid tyfg, gg",
 "/raid someone got doom running on one, why not lol",
@@ -22,6 +21,7 @@ ElvCharacterDB = {
 "/i yea :)",
 "/i take care",
 "/i upgrade gear and buy cosmetics",
+"/macro",
 },
 ["ChatHistoryLog"] = {
 {

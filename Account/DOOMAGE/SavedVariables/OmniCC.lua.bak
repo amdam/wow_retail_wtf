@@ -3,34 +3,35 @@ OmniCCDB = {
 ["profileKeys"] = {
 ["Fernie - Turalyon"] = "Default",
 ["Adomic - Turalyon"] = "Default",
+["Kurate - Turalyon"] = "Default",
 ["Allevin - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Caldo - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
 ["Jakar - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Christoff - Turalyon"] = "Default",
 ["Artoc - Zul'jin"] = "Default",
-["Kurate - Turalyon"] = "Default",
+["Adaam - Turalyon"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
 ["Abel - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Adaam - Turalyon"] = "Default",
-["Furrys - Turalyon"] = "Default",
 ["Artoc - Silvermoon"] = "Default",
+["Furrys - Turalyon"] = "Default",
 ["Adreya - Bloodscalp"] = "Default",
-["Adonis - Turalyon"] = "Default",
 ["Christifur - Turalyon"] = "Default",
+["Adonis - Turalyon"] = "Default",
 ["Aduum - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
-["Broddah - Doomhammer"] = "Default",
 ["Svend - Turalyon"] = "Default",
+["Broddah - Doomhammer"] = "Default",
+["Drunkan - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Shado - Turalyon"] = "Default",
 },
 ["global"] = {
@@ -124,7 +125,6 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
-["version"] = "8.2.5",
 ["groups"] = {
 {
 ["id"] = "Ignore",
@@ -135,7 +135,7 @@ OmniCC4Config = {
 ["enabled"] = true,
 },
 },
-["engine"] = "AniUpdater",
+["version"] = "8.2.5",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -253,4 +253,5 @@ OmniCC4Config = {
 ["fontFace"] = "Fonts\\FRIZQT__.TTF",
 },
 },
+["engine"] = "AniUpdater",
 }

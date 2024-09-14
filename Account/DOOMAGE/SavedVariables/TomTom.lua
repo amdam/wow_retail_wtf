@@ -28,20 +28,21 @@ TomTomDB = {
 ["Adreya - Bloodscalp"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
 ["Fife - The Forgotten Coast"] = "Default",
-["Adomic - Turalyon"] = "Default",
+["Shado - Turalyon"] = "Default",
+["Adaam - Turalyon"] = "Default",
 ["Caldo - Turalyon"] = "Default",
-["Amdam - Bloodscalp"] = "Default",
-["Kayne - Turalyon"] = "Default",
+["Fernie - Turalyon"] = "Default",
+["Trasha - Bloodscalp"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Badam - Bloodscalp"] = "Default",
-["Dogs - Bloodscalp"] = "Default",
-["Thugo - Bloodscalp"] = "Default",
 ["Amdam - Turalyon"] = "Default",
-["Trasha - Bloodscalp"] = "Default",
-["Fernie - Turalyon"] = "Default",
+["Thugo - Bloodscalp"] = "Default",
+["Dogs - Bloodscalp"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Amdam - Bloodscalp"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Adaam - Turalyon"] = "Default",
-["Shado - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -59,8 +60,8 @@ nil,
 "TOPRIGHT",
 nil,
 "TOPRIGHT",
--21.33473777770996,
--271.4073181152344,
+0,
+-294.6798095703125,
 },
 },
 },
@@ -79,23 +80,24 @@ TomTomWaypointsM = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
-["Abel - Turalyon"] = "Abel - Turalyon",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Adamian - Turalyon"] = "Adamian - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Kurate - Turalyon"] = "Kurate - Turalyon",
+["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Amdam - Turalyon"] = "Amdam - Turalyon",
+["Kurate - Turalyon"] = "Kurate - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Adamian - Turalyon"] = "Adamian - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Abel - Turalyon"] = "Abel - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
 ["Fernie - Turalyon"] = {
@@ -118,13 +120,15 @@ TomTomWaypointsM = {
 },
 ["Dreg - Turalyon"] = {
 },
+["Shado - Turalyon"] = {
+},
 ["Amdamn - Bloodscalp"] = {
 },
-["Abel - Turalyon"] = {
+["Drunkan - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Adamian - Turalyon"] = {
 },
 ["Furrys - Turalyon"] = {
 },
@@ -134,7 +138,7 @@ TomTomWaypointsM = {
 },
 ["Adonis - Turalyon"] = {
 },
-["Kurate - Turalyon"] = {
+["Amdam - Turalyon"] = {
 },
 ["Adreya - Bloodscalp"] = {
 },
@@ -142,15 +146,15 @@ TomTomWaypointsM = {
 },
 ["Broddah - Doomhammer"] = {
 },
-["Amdam - Turalyon"] = {
+["Kurate - Turalyon"] = {
 },
 ["Adamn - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Adamian - Turalyon"] = {
+["Abel - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Adomic - Turalyon"] = {
 },
 },
 }

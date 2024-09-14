@@ -232,3 +232,4 @@ Hekili: enabled
 HandyNotes: enabled
 VenturePlan: disabled
 Baganator: enabled
+BigWigs_NerubarPalace: enabled

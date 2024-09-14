@@ -104,3 +104,4 @@ HandyNotes: enabled
 TomTom: enabled
 VenturePlan: disabled
 Baganator: enabled
+BigWigs_NerubarPalace: enabled

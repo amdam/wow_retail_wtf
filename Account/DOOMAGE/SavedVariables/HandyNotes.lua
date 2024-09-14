@@ -11,23 +11,24 @@ HandyNotesDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
-["Abel - Turalyon"] = "Abel - Turalyon",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Kurate - Turalyon"] = "Kurate - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Aduum - Turalyon"] = "Aduum - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
 ["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Kurate - Turalyon"] = "Kurate - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Abel - Turalyon"] = "Abel - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
 ["Fernie - Turalyon"] = {
@@ -50,13 +51,15 @@ HandyNotesDB = {
 },
 ["Dreg - Turalyon"] = {
 },
+["Adomic - Turalyon"] = {
+},
 ["Amdamn - Bloodscalp"] = {
 },
-["Abel - Turalyon"] = {
+["Drunkan - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Kurate - Turalyon"] = {
 },
 ["Furrys - Turalyon"] = {
 },
@@ -66,7 +69,7 @@ HandyNotesDB = {
 },
 ["Adonis - Turalyon"] = {
 },
-["Adaam - Turalyon"] = {
+["Adreya - Bloodscalp"] = {
 },
 ["Adamian - Turalyon"] = {
 },
@@ -74,15 +77,15 @@ HandyNotesDB = {
 },
 ["Broddah - Doomhammer"] = {
 },
-["Adreya - Bloodscalp"] = {
+["Adaam - Turalyon"] = {
 },
 ["Adamn - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Kurate - Turalyon"] = {
+["Abel - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Shado - Turalyon"] = {
 },
 },
 }
@@ -98,23 +101,24 @@ HandyNotes_HandyNotesDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
-["Abel - Turalyon"] = "Abel - Turalyon",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Kurate - Turalyon"] = "Kurate - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Aduum - Turalyon"] = "Aduum - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
 ["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Kurate - Turalyon"] = "Kurate - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Abel - Turalyon"] = "Abel - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
 ["Fernie - Turalyon"] = {
@@ -137,13 +141,15 @@ HandyNotes_HandyNotesDB = {
 },
 ["Dreg - Turalyon"] = {
 },
+["Adomic - Turalyon"] = {
+},
 ["Amdamn - Bloodscalp"] = {
 },
-["Abel - Turalyon"] = {
+["Drunkan - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Kurate - Turalyon"] = {
 },
 ["Furrys - Turalyon"] = {
 },
@@ -153,7 +159,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Adonis - Turalyon"] = {
 },
-["Adaam - Turalyon"] = {
+["Adreya - Bloodscalp"] = {
 },
 ["Adamian - Turalyon"] = {
 },
@@ -161,15 +167,15 @@ HandyNotes_HandyNotesDB = {
 },
 ["Broddah - Doomhammer"] = {
 },
-["Adreya - Bloodscalp"] = {
+["Adaam - Turalyon"] = {
 },
 ["Adamn - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Kurate - Turalyon"] = {
+["Abel - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Shado - Turalyon"] = {
 },
 },
 }

@@ -227,3 +227,4 @@ BigWigs_MistsOfPandaria: enabled
 Hekili: enabled
 HandyNotes: enabled
 Baganator: enabled
+BigWigs_NerubarPalace: enabled

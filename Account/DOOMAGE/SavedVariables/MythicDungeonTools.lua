@@ -25,6 +25,7 @@ MythicDungeonToolsDB = {
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Shado - Turalyon"] = "Shado - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",

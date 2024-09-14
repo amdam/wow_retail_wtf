@@ -25,16 +25,17 @@ SimulationCraftDB = {
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
-["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
+["Broddah - Doomhammer"] = "Broddah - Doomhammer",
 ["Christifur - Turalyon"] = "Christifur - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Adris - Turalyon"] = "Adris - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
 ["Allevin - Turalyon"] = {
@@ -56,12 +57,12 @@ SimulationCraftDB = {
 ["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
+["minimap"] = {
+["minimapPos"] = 42.40893992104903,
+},
 ["frame"] = {
 ["ofsx"] = -20.74081993103027,
 ["ofsy"] = 16.59275627136231,
-},
-["minimap"] = {
-["minimapPos"] = 42.40893992104903,
 },
 },
 ["Furrys - Turalyon"] = {
@@ -100,11 +101,13 @@ SimulationCraftDB = {
 },
 ["Amdamn - Bloodscalp"] = {
 },
+["Drunkan - Turalyon"] = {
+},
 ["Adonis - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Shado - Turalyon"] = {
 },
-["Dreg - Turalyon"] = {
+["Broddah - Doomhammer"] = {
 },
 ["Christifur - Turalyon"] = {
 },
@@ -123,9 +126,9 @@ SimulationCraftDB = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Broddah - Doomhammer"] = {
+["Dreg - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Adomic - Turalyon"] = {
 },
 },
 }

@@ -93,3 +93,4 @@ TomTom: enabled
 VenturePlan: disabled
 OPie: enabled
 Baganator: enabled
+BigWigs_NerubarPalace: enabled

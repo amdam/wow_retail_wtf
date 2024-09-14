@@ -1,0 +1,1131 @@
+
+EncounterDetailsDB = {
+["chartData"] = {
+[365] = {
+["Raid Damage Done"] = {
+0,
+183813,
+486365,
+["max_value"] = 486365,
+["__time"] = 1726248303,
+},
+},
+[369] = {
+["Raid Damage Done"] = {
+164666,
+94739,
+181106,
+136801,
+0,
+124486,
+0,
+["max_value"] = 181106,
+["__time"] = 1726258150,
+},
+},
+[373] = {
+["Raid Damage Done"] = {
+19469,
+["max_value"] = 19469,
+["__time"] = 1726258230,
+},
+},
+[377] = {
+["Raid Damage Done"] = {
+24036,
+["max_value"] = 24036,
+["__time"] = 1726258239,
+},
+},
+[381] = {
+["Raid Damage Done"] = {
+280439,
+99933,
+276913,
+0,
+0,
+["max_value"] = 280439,
+["__time"] = 1726258266,
+},
+},
+[385] = {
+["Raid Damage Done"] = {
+608264,
+192105,
+0,
+["max_value"] = 608264,
+["__time"] = 1726258283,
+},
+},
+[389] = {
+["Raid Damage Done"] = {
+98414,
+47977,
+79567,
+90935,
+68507,
+242997,
+94027,
+712315,
+187428,
+624258,
+227113,
+0,
+112324,
+108507,
+["max_value"] = 712315,
+["__time"] = 1726258633,
+},
+},
+[393] = {
+["Raid Damage Done"] = {
+76473,
+91213,
+55419,
+476124,
+0,
+["max_value"] = 476124,
+["__time"] = 1726258682,
+},
+},
+[397] = {
+["Raid Damage Done"] = {
+198309,
+55193,
+171687,
+147951,
+316323,
+188288,
+116313,
+94221,
+49820,
+0,
+["max_value"] = 316323,
+["__time"] = 1726258734,
+},
+},
+[401] = {
+["Raid Damage Done"] = {
+28071,
+["max_value"] = 28071,
+["__time"] = 1726258769,
+},
+},
+[405] = {
+["Raid Damage Done"] = {
+28370,
+["max_value"] = 28370,
+["__time"] = 1726258784,
+},
+},
+[409] = {
+["Raid Damage Done"] = {
+71858,
+["max_value"] = 71858,
+["__time"] = 1726258789,
+},
+},
+[413] = {
+["Raid Damage Done"] = {
+85274,
+56459,
+51426,
+158677,
+163066,
+329285,
+299679,
+419880,
+220214,
+164301,
+261880,
+253174,
+54209,
+307666,
+107465,
+131025,
+77192,
+18057,
+184511,
+95502,
+236519,
+25800,
+78820,
+50979,
+167946,
+211625,
+189942,
+102211,
+39291,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+["max_value"] = 419880,
+["__time"] = 1726258828,
+},
+},
+[417] = {
+["Raid Damage Done"] = {
+404905,
+92872,
+123017,
+0,
+["max_value"] = 404905,
+["__time"] = 1726259024,
+},
+},
+[421] = {
+["Raid Damage Done"] = {
+181405,
+["max_value"] = 181405,
+["__time"] = 1726259148,
+},
+},
+[425] = {
+["Raid Damage Done"] = {
+107206,
+["max_value"] = 107206,
+["__time"] = 1726259153,
+},
+},
+[429] = {
+["Raid Damage Done"] = {
+82604,
+["max_value"] = 82604,
+["__time"] = 1726259158,
+},
+},
+[433] = {
+["Raid Damage Done"] = {
+170647,
+["max_value"] = 170647,
+["__time"] = 1726259164,
+},
+},
+[437] = {
+["Raid Damage Done"] = {
+43707,
+147882,
+90553,
+163770,
+88355,
+47248,
+51186,
+68157,
+0,
+["max_value"] = 163770,
+["__time"] = 1726259377,
+},
+},
+[366] = {
+["Raid Damage Done"] = {
+7414,
+["max_value"] = 7414,
+["__time"] = 1726248426,
+},
+},
+[370] = {
+["Raid Damage Done"] = {
+91117,
+150511,
+279865,
+411003,
+370672,
+86161,
+186142,
+0,
+12922,
+0,
+0,
+0,
+12997,
+0,
+0,
+["max_value"] = 411003,
+["__time"] = 1726258197,
+},
+},
+[374] = {
+["Raid Damage Done"] = {
+6106,
+["max_value"] = 6106,
+["__time"] = 1726258232,
+},
+},
+[378] = {
+["Raid Damage Done"] = {
+74097,
+["max_value"] = 74097,
+["__time"] = 1726258240,
+},
+},
+[382] = {
+["Raid Damage Done"] = {
+11274,
+13160,
+6247,
+24994,
+249424,
+534142,
+506299,
+55469,
+481102,
+["max_value"] = 534142,
+["__time"] = 1726258277,
+},
+},
+[386] = {
+["Raid Damage Done"] = {
+520555,
+41545,
+48268,
+20664,
+0,
+390826,
+482459,
+["max_value"] = 520555,
+["__time"] = 1726258356,
+},
+},
+[390] = {
+["Raid Damage Done"] = {
+203174,
+419349,
+237931,
+453379,
+228412,
+6532,
+0,
+["max_value"] = 453379,
+["__time"] = 1726258653,
+},
+},
+[394] = {
+["Raid Damage Done"] = {
+68319,
+["max_value"] = 68319,
+["__time"] = 1726258684,
+},
+},
+[398] = {
+["Raid Damage Done"] = {
+12402,
+["max_value"] = 12402,
+["__time"] = 1726258742,
+},
+},
+[402] = {
+["Raid Damage Done"] = {
+320042,
+125038,
+205234,
+124145,
+580809,
+194806,
+103708,
+65583,
+6247,
+["max_value"] = 580809,
+["__time"] = 1726258779,
+},
+},
+[406] = {
+["Raid Damage Done"] = {
+286474,
+["max_value"] = 286474,
+["__time"] = 1726258785,
+},
+},
+[410] = {
+["Raid Damage Done"] = {
+101209,
+["max_value"] = 101209,
+["__time"] = 1726258790,
+},
+},
+[414] = {
+["Raid Damage Done"] = {
+11450,
+["max_value"] = 11450,
+["__time"] = 1726258864,
+},
+},
+[418] = {
+["Raid Damage Done"] = {
+33112,
+180939,
+236575,
+40147,
+92339,
+52192,
+109202,
+25249,
+0,
+0,
+0,
+0,
+0,
+0,
+["max_value"] = 236575,
+["__time"] = 1726259120,
+},
+},
+[422] = {
+["Raid Damage Done"] = {
+340950,
+["max_value"] = 340950,
+["__time"] = 1726259149,
+},
+},
+[426] = {
+["Raid Damage Done"] = {
+100734,
+["max_value"] = 100734,
+["__time"] = 1726259154,
+},
+},
+[430] = {
+["Raid Damage Done"] = {
+40722,
+["max_value"] = 40722,
+["__time"] = 1726259159,
+},
+},
+[434] = {
+["Raid Damage Done"] = {
+50758,
+["max_value"] = 50758,
+["__time"] = 1726259167,
+},
+},
+[438] = {
+["Raid Damage Done"] = {
+128455,
+185634,
+71939,
+223810,
+87876,
+0,
+0,
+0,
+0,
+0,
+0,
+["max_value"] = 223810,
+["__time"] = 1726259438,
+},
+},
+[367] = {
+["Raid Damage Done"] = {
+7376,
+["max_value"] = 7376,
+["__time"] = 1726248430,
+},
+},
+[371] = {
+["Raid Damage Done"] = {
+6468,
+["max_value"] = 6468,
+["__time"] = 1726258199,
+},
+},
+[375] = {
+["Raid Damage Done"] = {
+73541,
+["max_value"] = 73541,
+["__time"] = 1726258233,
+},
+},
+[379] = {
+["Raid Damage Done"] = {
+149961,
+43600,
+["max_value"] = 149961,
+["__time"] = 1726258242,
+},
+},
+[383] = {
+["Raid Damage Done"] = {
+18742,
+["max_value"] = 18742,
+["__time"] = 1726258278,
+},
+},
+[387] = {
+["Raid Damage Done"] = {
+293326,
+35840,
+82434,
+46593,
+102362,
+0,
+37159,
+0,
+0,
+890451,
+100027,
+240436,
+0,
+["max_value"] = 890451,
+["__time"] = 1726258531,
+},
+},
+[391] = {
+["Raid Damage Done"] = {
+275245,
+0,
+["max_value"] = 275245,
+["__time"] = 1726258660,
+},
+},
+[395] = {
+["Raid Damage Done"] = {
+181194,
+292554,
+0,
+0,
+63789,
+557109,
+6999,
+["max_value"] = 557109,
+["__time"] = 1726258692,
+},
+},
+[399] = {
+["Raid Damage Done"] = {
+471770,
+524974,
+150408,
+256627,
+133672,
+287795,
+89945,
+["max_value"] = 524974,
+["__time"] = 1726258750,
+},
+},
+[403] = {
+["Raid Damage Done"] = {
+26379,
+["max_value"] = 26379,
+["__time"] = 1726258780,
+},
+},
+[407] = {
+["Raid Damage Done"] = {
+79276,
+["max_value"] = 79276,
+["__time"] = 1726258786,
+},
+},
+[411] = {
+["Raid Damage Done"] = {
+110180,
+["max_value"] = 110180,
+["__time"] = 1726258791,
+},
+},
+[415] = {
+["Raid Damage Done"] = {
+0,
+194060,
+219279,
+136454,
+167223,
+168092,
+523481,
+11431,
+0,
+63379,
+593680,
+93616,
+786099,
+0,
+["max_value"] = 786099,
+["__time"] = 1726258884,
+},
+},
+[419] = {
+["Raid Damage Done"] = {
+19007,
+["max_value"] = 19007,
+["__time"] = 1726259145,
+},
+},
+[423] = {
+["Raid Damage Done"] = {
+159357,
+["max_value"] = 159357,
+["__time"] = 1726259150,
+},
+},
+[427] = {
+["Raid Damage Done"] = {
+123508,
+["max_value"] = 123508,
+["__time"] = 1726259155,
+},
+},
+[431] = {
+["Raid Damage Done"] = {
+53070,
+["max_value"] = 53070,
+["__time"] = 1726259160,
+},
+},
+[435] = {
+["Raid Damage Done"] = {
+321663,
+["max_value"] = 321663,
+["__time"] = 1726259168,
+},
+},
+[364] = {
+["Raid Damage Done"] = {
+433513,
+64012,
+101091,
+160903,
+44363,
+0,
+95572,
+241599,
+193572,
+631092,
+54347,
+0,
+["max_value"] = 631092,
+["__time"] = 1726248183,
+},
+},
+[368] = {
+["Raid Damage Done"] = {
+636362,
+34762,
+0,
+["max_value"] = 636362,
+["__time"] = 1726248527,
+},
+},
+[372] = {
+["Raid Damage Done"] = {
+0,
+["__time"] = 1726258201,
+},
+},
+[376] = {
+["Raid Damage Done"] = {
+6471,
+["max_value"] = 6471,
+["__time"] = 1726258237,
+},
+},
+[380] = {
+["Raid Damage Done"] = {
+309382,
+122090,
+187055,
+21746,
+11970,
+39653,
+0,
+["max_value"] = 309382,
+["__time"] = 1726258256,
+},
+},
+[384] = {
+["Raid Damage Done"] = {
+0,
+["__time"] = 1726258280,
+},
+},
+[388] = {
+["Raid Damage Done"] = {
+132007,
+317178,
+100082,
+0,
+["max_value"] = 317178,
+["__time"] = 1726258606,
+},
+},
+[392] = {
+["Raid Damage Done"] = {
+238317,
+193826,
+159108,
+1163407,
+152036,
+0,
+["max_value"] = 1163407,
+["__time"] = 1726258672,
+},
+},
+[396] = {
+["Raid Damage Done"] = {
+878694,
+13761,
+0,
+77859,
+176867,
+138580,
+71016,
+165534,
+602872,
+416085,
+863144,
+72953,
+234321,
+238666,
+30915,
+237551,
+102184,
+0,
+["max_value"] = 878694,
+["__time"] = 1726258713,
+},
+},
+[400] = {
+["Raid Damage Done"] = {
+283055,
+239680,
+47887,
+600351,
+0,
+226821,
+19291,
+487644,
+["max_value"] = 600351,
+["__time"] = 1726258767,
+},
+},
+[404] = {
+["Raid Damage Done"] = {
+18855,
+["max_value"] = 18855,
+["__time"] = 1726258782,
+},
+},
+[408] = {
+["Raid Damage Done"] = {
+49296,
+["max_value"] = 49296,
+["__time"] = 1726258788,
+},
+},
+[412] = {
+["Raid Damage Done"] = {
+75330,
+["max_value"] = 75330,
+["__time"] = 1726258792,
+},
+},
+[416] = {
+["Raid Damage Done"] = {
+0,
+["__time"] = 1726258887,
+},
+},
+[420] = {
+["Raid Damage Done"] = {
+7247,
+["max_value"] = 7247,
+["__time"] = 1726259146,
+},
+},
+[424] = {
+["Raid Damage Done"] = {
+161840,
+["max_value"] = 161840,
+["__time"] = 1726259151,
+},
+},
+[428] = {
+["Raid Damage Done"] = {
+8991,
+["max_value"] = 8991,
+["__time"] = 1726259157,
+},
+},
+[432] = {
+["Raid Damage Done"] = {
+161614,
+["max_value"] = 161614,
+["__time"] = 1726259162,
+},
+},
+[436] = {
+["Raid Damage Done"] = {
+123468,
+355239,
+225072,
+176448,
+["max_value"] = 355239,
+["__time"] = 1726259172,
+},
+},
+},
+["encounter_spells"] = {
+[427439] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Voidrider",
+},
+[449568] = {
+["school"] = 8,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Web General Ab'enar",
+},
+[444418] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Kyrioss",
+},
+[424148] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Kyrioss",
+},
+[444324] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Kyrioss",
+},
+[445537] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[432781] = {
+["school"] = 32,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Radiating Voidstone",
+},
+[425048] = {
+["school"] = 32,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[427616] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Unruly Stormrook",
+},
+[426136] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[444123] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Kyrioss",
+},
+[425113] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[181089] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[429493] = {
+["school"] = 32,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[419870] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Kyrioss",
+},
+[425052] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[424958] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[419871] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Kyrioss",
+},
+[430109] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Cursed Thunderer",
+},
+[444411] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Kyrioss",
+},
+[445262] = {
+["school"] = 127,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[427260] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Cursed Rooktender",
+},
+[444034] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Kyrioss",
+},
+[440207] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[432805] = {
+["school"] = 32,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Radiating Voidstone",
+},
+[429521] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[428269] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Void Chunk",
+},
+[427325] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Voidrider",
+},
+[427404] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Voidrider",
+},
+[426160] = {
+["school"] = 32,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[455219] = {
+["school"] = 1,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[429487] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[423839] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[445457] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[427323] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Voidrider",
+},
+[430013] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Unruly Stormrook",
+},
+[435533] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Glibb",
+},
+[432903] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Radiating Voidstone",
+},
+[448443] = {
+["school"] = 32,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Web General Ab'enar",
+},
+[427402] = {
+["school"] = 9,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Cursed Rookguard",
+},
+[424737] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Stormguard Gorren",
+},
+[432605] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Voidrider",
+},
+},
+["emotes"] = {
+{
+["boss"] = "Skardyn Monstrosity",
+},
+{
+["boss"] = "Stormguard Gorren",
+},
+{
+["boss"] = "Kyrioss",
+},
+},
+}

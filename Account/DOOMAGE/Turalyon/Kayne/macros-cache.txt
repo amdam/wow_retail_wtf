@@ -7,7 +7,8 @@ END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Frostscythe] Frostscythe; Obliterate
+/cast [mod:alt,known:Frostscythe] Frostscythe; Obliterate;
+/cast Raise Dead;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
@@ -47,7 +48,7 @@ END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,@player] Death and Decay; Scourge Strike;
+/cast [mod:alt,@player] Death and Decay; Festering Strike;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
@@ -89,12 +90,12 @@ VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 " " "134400"
 #showtooltip
-/cast [@cursor] Death and Decay;
+/cast [spec:2,@player][@cursor] Death and Decay;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000013 " " "134400"
 #showtooltip
-/cast [mod:alt] Abomination Limb; Festering Strike;
+/cast [mod:alt] Abomination Limb; Scourge Strike;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000014 " " "134400"
