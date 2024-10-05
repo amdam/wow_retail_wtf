@@ -115,6 +115,9 @@ SimulationCraftDB = {
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,
 },
+["frame"] = {
+["ofsx"] = -8.488307503284886e-05,
+},
 },
 ["Adrid - Turalyon"] = {
 ["frame"] = {

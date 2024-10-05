@@ -11,7 +11,7 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [mod:alt,spec:1] Ice Nova; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
+/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -42,7 +42,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,noknown:31661] Cone of Cold; [mod:shift] Cone of Cold; [spec:2] Phoenix Flames; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
+/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,known:Supernova] Supernova; [mod:shift] Cone of Cold; [spec:2] Phoenix Flames; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
 /cancelaura Soul Ignition
 /script UIErrorsFrame:Clear()
 END
@@ -68,7 +68,7 @@ VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Shifting Power] Shifting Power; [spec:2,known:Meteor,@cursor] Meteor; [spec:3,known:Glacial Spike] Glacial Spike; Shifting Power;
+/cast [mod:alt,known:Shifting Power] Shifting Power; [spec:2,known:Meteor,@cursor] Meteor; [spec:3,known:Glacial Spike] Glacial Spike; [spec:1,known:Radiant Spark] Radiant Spark; Shifting Power;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001B " " "134400"

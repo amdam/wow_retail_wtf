@@ -66,6 +66,7 @@ VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Avenging Wrath
 /use 13
+/use 14
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
@@ -91,6 +92,7 @@ VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover, help, nodead][help, nodead][@player] Word of Glory
 /use Healthstone
+/use Algari Healing Potion
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
@@ -101,6 +103,11 @@ END
 VER 3 010000000000001D " " "134400"
 #showtooltip
 /cast [mod:alt] Eye of Tyr; Hand of Reckoning;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001E " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Holy Bulwark
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001C "focus" "523893"

@@ -40,7 +40,7 @@ RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_A_R: disabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 WeakAurasCompanion: enabled
 OPie_Classic: disabled
 ElvUI_VisualAuraTimers: disabled
@@ -207,3 +207,5 @@ BigWigs_MistsOfPandaria: enabled
 Hekili: enabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Shadowlands: enabled

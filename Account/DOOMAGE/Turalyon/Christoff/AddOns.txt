@@ -16,7 +16,7 @@ BattlegroundTargets: disabled
 AtlasLoot: disabled
 WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 OPie_Classic: disabled
 WeakAurasCompanion: enabled
 TomCats: disabled
@@ -105,3 +105,5 @@ TomTom: enabled
 VenturePlan: disabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Shadowlands: enabled

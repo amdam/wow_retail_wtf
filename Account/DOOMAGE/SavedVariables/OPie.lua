@@ -1,14 +1,17 @@
 
 OneRing_Config = nil
 OPie_SavedData = {
-["_GameVersion"] = "11.0.2",
 ["CharProfiles"] = {
 },
-["_TimeBand"] = 0.8203125,
-["_OPieVersion"] = "Ælling 5 (4.129)",
+["_OPieVersion"] = "Ørred 1a (4.131)",
+["_StoreVersion"] = 122,
+["_GameLocale"] = "enUS",
+["_StoreVersion2"] = 122,
+["_GameVersion"] = "11.0.2",
 ["ProfileStorage"] = {
 ["default"] = {
 ["RotationTokens"] = {
+["opcmve"] = "OPCMEa",
 ["OPCMVe"] = "OPCMEa",
 },
 ["Bindings"] = {
@@ -90,10 +93,10 @@ OPie_SavedData = {
 ["show"] = "[spec:64/63] hide;",
 ["sliceToken"] = "ABue376TIGe",
 },
-["limit"] = "Adamancy-Turalyon",
+["name"] = "Equipment sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment sets",
+["limit"] = "Adamancy-Turalyon",
 },
 ["CommonTrades"] = {
 {
@@ -273,8 +276,8 @@ OPie_SavedData = {
 ["onlyNonEmpty"] = true,
 },
 {
-["id"] = 1022,
 ["sliceToken"] = "OPCPAt",
+["id"] = 1022,
 },
 {
 ["sliceToken"] = "OPCPAe",
@@ -379,8 +382,8 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
 },
-["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
+["limit"] = "MAGE",
 ["hotkey"] = "ALT-G",
 ["save"] = true,
 ["vm"] = 127,
@@ -488,5 +491,5 @@ OPie_SavedData = {
 },
 },
 },
-["_GameLocale"] = "enUS",
+["_TimeBand"] = 0.8203125,
 }

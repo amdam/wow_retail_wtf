@@ -57,7 +57,7 @@ Rematch5Settings = {
 ["CustomScaleValue"] = 100,
 ["StrongVsLevel"] = false,
 ["QueueActiveSort"] = false,
-["KeepCompanion"] = false,
+["MaximizedLayout"] = "3-teams",
 ["ResetExceptSearch"] = false,
 ["StickyNewPets"] = false,
 ["ShowLoadedTeamPreferences"] = false,
@@ -67,7 +67,6 @@ Rematch5Settings = {
 ["Stats"] = {
 },
 ["Strong"] = {
-[3] = true,
 },
 ["Marker"] = {
 },
@@ -85,7 +84,7 @@ Rematch5Settings = {
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "eye of ",
+["RawSearchText"] = "\"Bouncer\"",
 ["Similar"] = {
 },
 ["Search"] = {
@@ -122,12 +121,18 @@ Rematch5Settings = {
 ["TooltipBehavior"] = "Normal",
 ["LastOpenJournal"] = true,
 ["HideNotesButtonInBattle"] = false,
-["HideLevelingBadges"] = false,
+["PetCardAlwaysShowHPBar"] = false,
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
 ["RandomPetRules"] = 2,
-["PetCardAlwaysShowHPBar"] = false,
+["HideLevelingBadges"] = false,
+["QueueRandomWhenEmpty"] = false,
+["ShowNewGroupTab"] = true,
+["QueueSortOrder"] = 1,
+["CardBehavior"] = "Normal",
 ["BoringLoreFont"] = false,
+["SpecialSlots"] = {
+},
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",
@@ -150,12 +155,6 @@ Rematch5Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
-["SpecialSlots"] = {
-},
-["CardBehavior"] = "Normal",
-["QueueRandomWhenEmpty"] = false,
-["QueueSortOrder"] = 1,
-["ShowNewGroupTab"] = true,
 ["LockPosition"] = false,
 ["NotesFont"] = "GameFontHighlight",
 ["CombineGroupKey"] = "None",
@@ -170,7 +169,7 @@ Rematch5Settings = {
 ["PetCardShowExpansionStat"] = false,
 ["ResetSortWithFilters"] = false,
 ["CompactTeamList"] = false,
-["MaximizedLayout"] = "3-teams",
+["KeepCompanion"] = false,
 ["HideLevelBubbles"] = false,
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = false,
@@ -251,13 +250,13 @@ Rematch4Settings = {
 },
 ["Strong"] = {
 },
-["Sources"] = {
+["Similar"] = {
 },
 ["Breed"] = {
 },
 ["Rarity"] = {
 },
-["Similar"] = {
+["Sources"] = {
 },
 ["Collected"] = {
 },
@@ -276,13 +275,13 @@ Rematch4Settings = {
 ["QueueSortOrder"] = 1,
 ["ExpandedTargetHeaders"] = {
 },
-["ElvUIToastDefaulted"] = true,
+["PreferredMode"] = 1,
 ["ActivePanel"] = 1,
 ["Sanctuary"] = {
 },
 ["JournalPanel"] = 1,
 ["CornerPos"] = "BOTTOMLEFT",
-["PreferredMode"] = 1,
+["ElvUIToastDefaulted"] = true,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",

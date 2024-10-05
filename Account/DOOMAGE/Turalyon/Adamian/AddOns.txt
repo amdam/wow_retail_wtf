@@ -82,7 +82,7 @@ ElvUI: enabled
 ElvUI_BenikUI: enabled
 ArkInventory: disabled
 AdvancedInterfaceOptions: disabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 HandyNotes: enabled
 WorldQuestTracker: enabled
 VenturePlan: disabled
@@ -93,3 +93,5 @@ Kui_Nameplates_Core_Config: enabled
 OPie: enabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Shadowlands: enabled

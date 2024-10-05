@@ -142,7 +142,7 @@ HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
 WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 ElvUI_EverySecondCounts: disabled
 OPie_Classic: disabled
 WeakAurasCompanion: enabled
@@ -228,3 +228,4 @@ Hekili: enabled
 HandyNotes: enabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled

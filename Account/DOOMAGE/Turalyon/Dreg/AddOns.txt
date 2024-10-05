@@ -17,7 +17,7 @@ OPie: enabled
 ElvUI_BenikUI: enabled
 Clique: enabled
 Details: enabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 AtlasLoot: disabled
 MythicDungeonTools: enabled
 Omen: enabled
@@ -97,3 +97,5 @@ TomTom: enabled
 VenturePlan: disabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Shadowlands: enabled

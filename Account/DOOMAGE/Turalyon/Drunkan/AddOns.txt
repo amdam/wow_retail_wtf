@@ -12,7 +12,7 @@ DBM-KhazAlgar: enabled
 DBM-Test: enabled
 DBM-Test-WarWithin: enabled
 AdvancedInterfaceOptions: disabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 ArkInventory: disabled
 ArkInventoryConfig: enabled
 ArkInventoryRules: enabled
@@ -125,3 +125,4 @@ kExtraBossFrames: disabled
 WeakAurasCompanion: enabled
 OPie_Classic: disabled
 Blizzard_CombatText: enabled
+BigWigs_KhazAlgar: enabled

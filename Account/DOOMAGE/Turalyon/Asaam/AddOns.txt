@@ -86,7 +86,7 @@ ElvUI: enabled
 ElvUI_BenikUI: enabled
 ArkInventory: disabled
 AdvancedInterfaceOptions: disabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 HandyNotes: enabled
 WorldQuestTracker: enabled
 TomTom: enabled
@@ -94,3 +94,5 @@ VenturePlan: disabled
 OPie: enabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Shadowlands: enabled

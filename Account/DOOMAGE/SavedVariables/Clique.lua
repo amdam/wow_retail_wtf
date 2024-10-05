@@ -25,11 +25,11 @@ CliqueDB3 = {
 ["statusBarFix"] = false,
 },
 ["downclick"] = false,
-["alerthidden"] = true,
-["fastooc"] = false,
-["spec3_profileKey"] = "Kayne - Turalyon",
 ["spec2_profileKey"] = "Kayne - Turalyon",
+["fastooc"] = false,
 ["specswap"] = false,
+["alerthidden"] = true,
+["spec3_profileKey"] = "Kayne - Turalyon",
 },
 ["Adaam - Turalyon"] = {
 ["spec1_profileKey"] = "Abel - Turalyon",
@@ -109,11 +109,11 @@ CliqueDB3 = {
 ["statusBarFix"] = false,
 },
 ["downclick"] = false,
-["spec3_profileKey"] = "Adamancy - Turalyon",
-["fastooc"] = false,
 ["spec2_profileKey"] = "Adamancy - Turalyon",
+["fastooc"] = false,
 ["specswap"] = false,
 ["alerthidden"] = true,
+["spec3_profileKey"] = "Adamancy - Turalyon",
 },
 ["Furrys - Turalyon"] = {
 ["spec1_profileKey"] = "Furrys - Turalyon",
@@ -131,9 +131,9 @@ CliqueDB3 = {
 },
 ["downclick"] = false,
 ["fastooc"] = false,
+["specswap"] = false,
 ["spec3_profileKey"] = "Furrys - Turalyon",
 ["spec2_profileKey"] = "Furrys - Turalyon",
-["specswap"] = false,
 },
 ["Asaam - Turalyon"] = {
 ["spec1_profileKey"] = "Asaam - Turalyon",
@@ -149,18 +149,18 @@ CliqueDB3 = {
 ["statusBarFix"] = false,
 },
 ["fastooc"] = false,
-["specswap"] = false,
-["downclick"] = false,
-["alerthidden"] = true,
 ["spec3_profileKey"] = "Amdam - Turalyon",
+["downclick"] = false,
 ["spec2_profileKey"] = "Amdam - Turalyon",
+["specswap"] = false,
+["alerthidden"] = true,
 },
 ["Christoff - Turalyon"] = {
 ["spec1_profileKey"] = "Christoff - Turalyon",
 ["spec2_profileKey"] = "Christoff - Turalyon",
 ["downclick"] = false,
-["spec4_profileKey"] = "Christoff - Turalyon",
 ["fastooc"] = false,
+["spec4_profileKey"] = "Christoff - Turalyon",
 ["alerthidden"] = true,
 ["specswap"] = false,
 ["spec3_profileKey"] = "Christoff - Turalyon",
@@ -1745,15 +1745,6 @@ CliqueDB3 = {
 },
 {
 ["type"] = "spell",
-["key"] = "ALT-BUTTON2",
-["sets"] = {
-["spec1"] = true,
-},
-["icon"] = 1030094,
-["spell"] = "Beacon of Virtue",
-},
-{
-["type"] = "spell",
 ["key"] = "ALT-BUTTON1",
 ["sets"] = {
 ["spec1"] = true,
@@ -1763,37 +1754,12 @@ CliqueDB3 = {
 },
 {
 ["type"] = "spell",
-["key"] = "SHIFT-BUTTON1",
-["sets"] = {
-["spec2"] = true,
-},
-["icon"] = 133192,
-["spell"] = "Word of Glory",
-},
-{
-["spell"] = "Beacon of Faith",
-["key"] = "CTRL-SHIFT-BUTTON2",
+["key"] = "ALT-BUTTON2",
 ["sets"] = {
 ["spec1"] = true,
 },
-["icon"] = 1030095,
-["type"] = "spell",
-},
-{
-["spell"] = "Light of the Martyr",
-["key"] = "CTRL-BUTTON1",
-["sets"] = {
-["spec1"] = true,
-},
-["icon"] = 1360762,
-["type"] = "spell",
-},
-{
-["type"] = "target",
-["key"] = "ALT-CTRL-SHIFT-BUTTON1",
-["sets"] = {
-["spec1"] = true,
-},
+["icon"] = 1030094,
+["spell"] = "Beacon of Virtue",
 },
 {
 ["type"] = "spell",
@@ -1806,12 +1772,37 @@ CliqueDB3 = {
 ["spell"] = "Cleanse Toxins",
 },
 {
-["spell"] = "Cleanse",
-["key"] = "BUTTON3",
+["spell"] = "Beacon of Faith",
+["key"] = "CTRL-SHIFT-BUTTON2",
 ["sets"] = {
 ["spec1"] = true,
 },
-["icon"] = 135949,
+["icon"] = 1030095,
+["type"] = "spell",
+},
+{
+["type"] = "target",
+["key"] = "ALT-CTRL-SHIFT-BUTTON1",
+["sets"] = {
+["spec1"] = true,
+},
+},
+{
+["type"] = "spell",
+["key"] = "SHIFT-BUTTON1",
+["sets"] = {
+["spec2"] = true,
+},
+["icon"] = 133192,
+["spell"] = "Word of Glory",
+},
+{
+["spell"] = "Light of the Martyr",
+["key"] = "CTRL-BUTTON1",
+["sets"] = {
+["spec1"] = true,
+},
+["icon"] = 1360762,
 ["type"] = "spell",
 },
 {
@@ -1824,11 +1815,13 @@ CliqueDB3 = {
 ["spell"] = "Word of Glory",
 },
 {
-["type"] = "menu",
-["key"] = "ALT-CTRL-SHIFT-BUTTON2",
+["type"] = "spell",
+["key"] = "CTRL-BUTTON2",
 ["sets"] = {
 ["spec1"] = true,
 },
+["icon"] = 236249,
+["spell"] = "Bestow Faith",
 },
 {
 ["spell"] = "Beacon of Light",
@@ -1840,6 +1833,22 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
+["type"] = "menu",
+["key"] = "ALT-CTRL-SHIFT-BUTTON2",
+["sets"] = {
+["spec1"] = true,
+},
+},
+{
+["spell"] = "Cleanse",
+["key"] = "BUTTON3",
+["sets"] = {
+["spec1"] = true,
+},
+["icon"] = 135949,
+["type"] = "spell",
+},
+{
 ["spell"] = "Holy Shock",
 ["key"] = "BUTTON1",
 ["sets"] = {
@@ -1847,15 +1856,6 @@ CliqueDB3 = {
 },
 ["icon"] = 135972,
 ["type"] = "spell",
-},
-{
-["type"] = "spell",
-["key"] = "CTRL-BUTTON2",
-["sets"] = {
-["spec1"] = true,
-},
-["icon"] = 236249,
-["spell"] = "Bestow Faith",
 },
 {
 ["spell"] = "Flash of Light",

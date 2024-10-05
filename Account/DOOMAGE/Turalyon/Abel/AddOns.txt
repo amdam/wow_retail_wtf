@@ -5,7 +5,7 @@ BattlegroundTargets: disabled
 AtlasLoot: disabled
 WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 ArkInventory: disabled
 OPie_Classic: disabled
 TomCats: disabled
@@ -107,3 +107,5 @@ TomTom: enabled
 VenturePlan: disabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
+BigWigs_KhazAlgar: enabled
+LittleWigs_Shadowlands: enabled

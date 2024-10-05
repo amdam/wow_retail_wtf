@@ -11,7 +11,7 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [mod:alt,spec:1] Supernova; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
+/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -42,7 +42,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,noknown:31661] Cone of Cold; [mod:shift] Cone of Cold; [spec:2] Phoenix Flames; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
+/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,known:Supernova] Supernova; [mod:shift] Cone of Cold; [spec:2] Phoenix Flames; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
 /cancelaura Soul Ignition
 /script UIErrorsFrame:Clear()
 END
@@ -84,7 +84,9 @@ END
 VER 3 010000000000001D " " "134400"
 #showtooltip Arcane Surge
 /use 13
-/cast Arcane Surge;
+/castsequence reset=10 13, Arcane Surge, Arcane Surge
+/cast Arcane Surge
+/cqs
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001E " " "134400"

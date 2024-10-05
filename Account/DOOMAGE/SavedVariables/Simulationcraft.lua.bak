@@ -112,6 +112,9 @@ SimulationCraftDB = {
 ["Christifur - Turalyon"] = {
 },
 ["Kayne - Turalyon"] = {
+["frame"] = {
+["ofsx"] = -8.488307503284886e-05,
+},
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,
 },

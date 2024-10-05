@@ -10,7 +10,7 @@ DBM-Raids-WarWithin: enabled
 DBM-DragonIsles: enabled
 DBM-KhazAlgar: enabled
 AdvancedInterfaceOptions: disabled
-AngryKeystones: disabled
+AngryKeystones: enabled
 ArkInventory: disabled
 ArkInventoryConfig: enabled
 ArkInventoryRules: enabled
@@ -142,3 +142,4 @@ kExtraBossFrames: disabled
 Blizzard_CombatText: enabled
 OPie_Classic: disabled
 Baganator: enabled
+BigWigs_KhazAlgar: enabled

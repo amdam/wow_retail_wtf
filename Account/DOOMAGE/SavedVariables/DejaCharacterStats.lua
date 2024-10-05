@@ -25,6 +25,12 @@ DejaCharacterStatsDB = {
 ["dejacharacterstatsHideatZeroChecked"] = {
 ["SetChecked"] = true,
 },
+["DCS_SettingsShowCharacterChecked"] = {
+["settingsShowCharacterChecked"] = true,
+},
+["DCS_CenterItemTooltips"] = {
+["centerItemTooltips"] = true,
+},
 ["dejacharacterstatsRepairTotalStatChecked"] = {
 ["RepairTotalStatSetChecked"] = true,
 },
@@ -894,8 +900,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -1847,8 +1853,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -2380,8 +2386,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -2631,8 +2637,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 },
 ["uniqueKey"] = "Asaam:Turalyon:5",
 },
@@ -3615,8 +3621,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = false,
 ["hideAt"] = 0,
+["hidden"] = false,
 ["roles"] = {
 "TANK",
 },
@@ -4777,8 +4783,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = false,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -5271,8 +5277,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -5499,8 +5505,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -6118,8 +6124,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -6536,8 +6542,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -6944,8 +6950,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -7554,8 +7560,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -7782,8 +7788,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -8169,8 +8175,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = false,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -8448,8 +8454,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -9243,8 +9249,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hideAt"] = 0,
 ["hidden"] = false,
+["hideAt"] = 0,
 },
 {
 ["statKey"] = "RatingCategory",
@@ -9515,8 +9521,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -9686,8 +9692,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = false,
 ["hideAt"] = 0,
+["hidden"] = false,
 },
 {
 ["statKey"] = "RatingCategory",
@@ -9907,8 +9913,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = false,
 ["hideAt"] = 0,
+["hidden"] = false,
 },
 {
 ["statKey"] = "RatingCategory",
@@ -10189,8 +10195,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "HonorCategory",
@@ -10623,8 +10629,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 {
 ["statKey"] = "SPEED_RATING",
@@ -10859,8 +10865,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 },
 {
 ["statKey"] = "HonorCategory",
@@ -11486,8 +11492,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -11980,8 +11986,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -12229,8 +12235,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -12423,8 +12429,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -13330,8 +13336,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
@@ -14178,8 +14184,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -14623,8 +14629,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -14662,12 +14668,12 @@ DCS_ClassSpecDB = {
 },
 ["uniqueKey"] = "Adonis:Turalyon:1",
 },
-["Dreg:Turalyon:2"] = {
+["Caris:Turalyon:2"] = {
 {
 ["statKey"] = "ItemLevelFrame",
 },
 {
-["statKey"] = "GeneralCategory",
+["statKey"] = "AttributesCategory",
 },
 {
 ["statKey"] = "HEALTH",
@@ -14679,20 +14685,7 @@ DCS_ClassSpecDB = {
 ["statKey"] = "DCS_ALTERNATEMANA",
 },
 {
-["statKey"] = "ITEMLEVEL",
-["hidden"] = true,
-},
-{
-["statKey"] = "MOVESPEED",
-},
-{
-["statKey"] = "DURABILITY_STAT",
-},
-{
-["statKey"] = "REPAIR_COST",
-},
-{
-["statKey"] = "AttributesCategory",
+["statKey"] = "ARMOR",
 },
 {
 ["statKey"] = "STRENGTH",
@@ -14707,12 +14700,6 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAMINA",
-},
-{
-["statKey"] = "ARMOR",
-},
-{
-["statKey"] = "OffenseCategory",
 },
 {
 ["statKey"] = "ATTACK_DAMAGE",
@@ -14745,7 +14732,16 @@ DCS_ClassSpecDB = {
 ["statKey"] = "FOCUS_REGEN",
 },
 {
+["statKey"] = "MOVESPEED",
+},
+{
 ["statKey"] = "GCD",
+},
+{
+["statKey"] = "DURABILITY_STAT",
+},
+{
+["statKey"] = "REPAIR_COST",
 },
 {
 ["statKey"] = "EnhancementsCategory",
@@ -14775,10 +14771,6 @@ DCS_ClassSpecDB = {
 ["hideAt"] = 0,
 },
 {
-["statKey"] = "DefenseCategory",
-["hidden"] = true,
-},
-{
 ["statKey"] = "DODGE",
 ["hideAt"] = 0,
 ["hidden"] = true,
@@ -14791,10 +14783,6 @@ DCS_ClassSpecDB = {
 {
 ["statKey"] = "BLOCK",
 ["hideAt"] = 0,
-["hidden"] = true,
-},
-{
-["statKey"] = "RatingCategory",
 ["hidden"] = true,
 },
 {
@@ -14838,49 +14826,25 @@ DCS_ClassSpecDB = {
 ["hidden"] = true,
 },
 {
-["statKey"] = "SPEED_RATING",
-["hideAt"] = 0,
+["statKey"] = "ITEMLEVEL",
 ["hidden"] = true,
+},
+{
+["statKey"] = "RatingCategory",
+},
+{
+["statKey"] = "OffenseCategory",
+},
+{
+["statKey"] = "GeneralCategory",
+},
+{
+["statKey"] = "DefenseCategory",
 },
 {
 ["statKey"] = "SPEED",
-["hideAt"] = 0,
-["hidden"] = true,
 },
-{
-["statKey"] = "STAGGER",
-["hideAt"] = 0,
-["roles"] = {
-"TANK",
-},
-},
-{
-["statKey"] = "HONOR_PROGRESS",
-["hideAt"] = 0,
-},
-{
-["statKey"] = "HONOR_LEVEL",
-["hideAt"] = 0,
-},
-{
-["statKey"] = "HonorCategory",
-},
-{
-["statKey"] = "UserCat4",
-},
-{
-["statKey"] = "UserCat5",
-},
-{
-["statKey"] = "UserCat3",
-},
-{
-["statKey"] = "UserCat2",
-},
-{
-["statKey"] = "UserCat1",
-},
-["uniqueKey"] = "Dreg:Turalyon:2",
+["uniqueKey"] = "Caris:Turalyon:2",
 },
 ["Dewt:Turalyon:2"] = {
 {
@@ -15964,8 +15928,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 },
 {
 ["statKey"] = "HonorCategory",
@@ -16197,8 +16161,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 ["roles"] = {
 "TANK",
 },
@@ -16220,12 +16184,12 @@ DCS_ClassSpecDB = {
 },
 ["uniqueKey"] = "Asaam:Turalyon:2",
 },
-["Caris:Turalyon:2"] = {
+["Dreg:Turalyon:2"] = {
 {
 ["statKey"] = "ItemLevelFrame",
 },
 {
-["statKey"] = "AttributesCategory",
+["statKey"] = "GeneralCategory",
 },
 {
 ["statKey"] = "HEALTH",
@@ -16237,7 +16201,20 @@ DCS_ClassSpecDB = {
 ["statKey"] = "DCS_ALTERNATEMANA",
 },
 {
-["statKey"] = "ARMOR",
+["statKey"] = "ITEMLEVEL",
+["hidden"] = true,
+},
+{
+["statKey"] = "MOVESPEED",
+},
+{
+["statKey"] = "DURABILITY_STAT",
+},
+{
+["statKey"] = "REPAIR_COST",
+},
+{
+["statKey"] = "AttributesCategory",
 },
 {
 ["statKey"] = "STRENGTH",
@@ -16252,6 +16229,12 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAMINA",
+},
+{
+["statKey"] = "ARMOR",
+},
+{
+["statKey"] = "OffenseCategory",
 },
 {
 ["statKey"] = "ATTACK_DAMAGE",
@@ -16284,16 +16267,7 @@ DCS_ClassSpecDB = {
 ["statKey"] = "FOCUS_REGEN",
 },
 {
-["statKey"] = "MOVESPEED",
-},
-{
 ["statKey"] = "GCD",
-},
-{
-["statKey"] = "DURABILITY_STAT",
-},
-{
-["statKey"] = "REPAIR_COST",
 },
 {
 ["statKey"] = "EnhancementsCategory",
@@ -16323,6 +16297,10 @@ DCS_ClassSpecDB = {
 ["hideAt"] = 0,
 },
 {
+["statKey"] = "DefenseCategory",
+["hidden"] = true,
+},
+{
 ["statKey"] = "DODGE",
 ["hideAt"] = 0,
 ["hidden"] = true,
@@ -16335,6 +16313,10 @@ DCS_ClassSpecDB = {
 {
 ["statKey"] = "BLOCK",
 ["hideAt"] = 0,
+["hidden"] = true,
+},
+{
+["statKey"] = "RatingCategory",
 ["hidden"] = true,
 },
 {
@@ -16378,25 +16360,49 @@ DCS_ClassSpecDB = {
 ["hidden"] = true,
 },
 {
-["statKey"] = "ITEMLEVEL",
+["statKey"] = "SPEED_RATING",
+["hideAt"] = 0,
 ["hidden"] = true,
 },
 {
-["statKey"] = "RatingCategory",
-},
-{
-["statKey"] = "OffenseCategory",
-},
-{
-["statKey"] = "GeneralCategory",
-},
-{
-["statKey"] = "DefenseCategory",
-},
-{
 ["statKey"] = "SPEED",
+["hideAt"] = 0,
+["hidden"] = true,
 },
-["uniqueKey"] = "Caris:Turalyon:2",
+{
+["statKey"] = "STAGGER",
+["hideAt"] = 0,
+["roles"] = {
+"TANK",
+},
+},
+{
+["statKey"] = "HONOR_PROGRESS",
+["hideAt"] = 0,
+},
+{
+["statKey"] = "HONOR_LEVEL",
+["hideAt"] = 0,
+},
+{
+["statKey"] = "HonorCategory",
+},
+{
+["statKey"] = "UserCat4",
+},
+{
+["statKey"] = "UserCat5",
+},
+{
+["statKey"] = "UserCat3",
+},
+{
+["statKey"] = "UserCat2",
+},
+{
+["statKey"] = "UserCat1",
+},
+["uniqueKey"] = "Dreg:Turalyon:2",
 },
 ["Amdamn:Turalyon:2"] = {
 {
@@ -16984,8 +16990,8 @@ DCS_ClassSpecDB = {
 ["roles"] = {
 "TANK",
 },
-["hidden"] = true,
 ["hideAt"] = 0,
+["hidden"] = true,
 },
 ["uniqueKey"] = "Artoc:Silvermoon:1",
 },
@@ -18053,8 +18059,8 @@ DCS_ClassSpecDB = {
 },
 {
 ["statKey"] = "STAGGER",
-["hideAt"] = 0,
 ["hidden"] = true,
+["hideAt"] = 0,
 ["roles"] = {
 "TANK",
 },
