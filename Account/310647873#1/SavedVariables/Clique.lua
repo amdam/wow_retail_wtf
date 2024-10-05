@@ -107,21 +107,21 @@ CliqueDB3 = {
 },
 {
 ["type"] = "spell",
+["key"] = "NUMPAD5",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 132132,
+["spell"] = "Revive",
+},
+{
+["type"] = "spell",
 ["key"] = "NUMPAD4",
 ["sets"] = {
 ["default"] = true,
 },
 ["icon"] = 136080,
 ["spell"] = "Rebirth",
-},
-{
-["spell"] = "Nature's Cure",
-["key"] = "BUTTON3",
-["sets"] = {
-["default"] = true,
-},
-["icon"] = 236288,
-["type"] = "spell",
 },
 {
 ["spell"] = "Regrowth",
@@ -133,13 +133,13 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["type"] = "spell",
-["key"] = "NUMPAD5",
+["spell"] = "Nature's Cure",
+["key"] = "BUTTON3",
 ["sets"] = {
 ["default"] = true,
 },
-["icon"] = 132132,
-["spell"] = "Revive",
+["icon"] = 236288,
+["type"] = "spell",
 },
 {
 ["type"] = "spell",
@@ -152,6 +152,16 @@ CliqueDB3 = {
 ["spell"] = "Stampeding Roar",
 },
 {
+["spell"] = "Swiftmend",
+["key"] = "NUMPAD1",
+["sets"] = {
+["spec4"] = true,
+["spec1"] = true,
+},
+["icon"] = 134914,
+["type"] = "spell",
+},
+{
 ["spell"] = "Rejuvenation",
 ["key"] = "BUTTON1",
 ["sets"] = {
@@ -159,6 +169,15 @@ CliqueDB3 = {
 ["spec1"] = true,
 },
 ["icon"] = 136081,
+["type"] = "spell",
+},
+{
+["spell"] = "Lifebloom",
+["key"] = "NUMPAD2",
+["sets"] = {
+["spec4"] = true,
+},
+["icon"] = 134206,
 ["type"] = "spell",
 },
 {
@@ -172,23 +191,21 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["spell"] = "Lifebloom",
-["key"] = "NUMPAD2",
-["sets"] = {
-["spec4"] = true,
-},
-["icon"] = 134206,
-["type"] = "spell",
-},
-{
-["spell"] = "Swiftmend",
-["key"] = "NUMPAD1",
+["spell"] = "Wild Growth",
+["key"] = "ALT-NUMPAD2",
 ["sets"] = {
 ["spec4"] = true,
 ["spec1"] = true,
 },
-["icon"] = 134914,
+["icon"] = 236153,
 ["type"] = "spell",
+},
+{
+["type"] = "menu",
+["key"] = "CTRL-SHIFT-BUTTON2",
+["sets"] = {
+["spec4"] = true,
+},
 },
 {
 ["type"] = "spell",
@@ -202,29 +219,12 @@ CliqueDB3 = {
 ["spell"] = "Remove Corruption",
 },
 {
-["type"] = "menu",
-["key"] = "CTRL-SHIFT-BUTTON2",
-["sets"] = {
-["spec4"] = true,
-},
-},
-{
 ["spell"] = "Ironbark",
 ["key"] = "NUMPAD3",
 ["sets"] = {
 ["spec4"] = true,
 },
 ["icon"] = 572025,
-["type"] = "spell",
-},
-{
-["spell"] = "Wild Growth",
-["key"] = "ALT-NUMPAD2",
-["sets"] = {
-["spec4"] = true,
-["spec1"] = true,
-},
-["icon"] = 236153,
 ["type"] = "spell",
 },
 {

@@ -4,7 +4,7 @@ OPie_SavedData = {
 ["CharProfiles"] = {
 },
 ["_GameVersion"] = "11.0.2",
-["_OPieVersion"] = "Ælling 4 (4.128)",
+["_OPieVersion"] = "Ælling 5a (4.129)",
 ["ProfileStorage"] = {
 ["default"] = {
 },
