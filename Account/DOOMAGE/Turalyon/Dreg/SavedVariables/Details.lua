@@ -5,146 +5,6 @@ _detalhes_database = {
 ["mythic_dungeon_id"] = 0,
 ["tabela_historico"] = {
 ["tabelas"] = {
-{
-{
-["tipo"] = 2,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 3,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 7,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 9,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 2,
-["_ActorTable"] = {
-},
-},
-["raid_roster"] = {
-},
-["CombatStartedAt"] = 210679.467,
-["tempo_start"] = 210523.287,
-["last_events_tables"] = {
-},
-["alternate_power"] = {
-["Dreg"] = {
-["total"] = 0,
-["last"] = 0,
-},
-},
-["bossTimers"] = {
-},
-["combat_counter"] = 2059,
-["playing_solo"] = true,
-["totals"] = {
-0,
-0,
-{
-0,
-[0] = 0,
-["alternatepower"] = 0,
-[3] = 0,
-[6] = 0,
-},
-{
-["buff_uptime"] = 0,
-["ress"] = 0,
-["cooldowns_defensive"] = 0,
-["dispell"] = 0,
-["interrupt"] = 0,
-["debuff_uptime"] = 0,
-["cc_break"] = 0,
-["dead"] = 0,
-},
-["frags_total"] = 0,
-["voidzone_damage"] = 0,
-},
-["player_last_events"] = {
-},
-["frags_need_refresh"] = false,
-["amountCasts"] = {
-},
-["instance_type"] = "none",
-["zoneName"] = "Eastern Kingdoms",
-["data_fim"] = "19:49:24",
-["bIsClosed"] = true,
-["cleu_timeline"] = {
-},
-["enemy"] = "Unknown",
-["trinketProcs"] = {
-},
-["TotalElapsedCombatTime"] = 0.621000000013737,
-["CombatEndedAt"] = 210675.336,
-["aura_timeline"] = {
-},
-["data_inicio"] = 0,
-["end_time"] = 210671.944,
-["mapId"] = 0,
-["boss_hp"] = 1,
-["is_challenge"] = false,
-["spells_cast_timeline"] = {
-},
-["playerTalents"] = {
-},
-["cleu_events"] = {
-["n"] = 1,
-},
-["totals_grupo"] = {
-0,
-0,
-{
-0,
-[0] = 0,
-["alternatepower"] = 0,
-[3] = 0,
-[6] = 0,
-},
-{
-["buff_uptime"] = 0,
-["ress"] = 0,
-["cooldowns_defensive"] = 0,
-["dispell"] = 0,
-["interrupt"] = 0,
-["debuff_uptime"] = 0,
-["cc_break"] = 0,
-["dead"] = 0,
-},
-},
-["PhaseData"] = {
-{
-1,
-1,
-},
-["damage_section"] = {
-},
-["heal_section"] = {
-},
-["heal"] = {
-{
-},
-},
-["damage"] = {
-{
-},
-},
-},
-["start_time"] = 0,
-["TimeData"] = {
-},
-["frags"] = {
-},
-},
 },
 },
 ["ocd_tracker"] = {
@@ -197,7 +57,7 @@ _detalhes_database = {
 ["defensive-personal"] = false,
 },
 },
-["last_version"] = "11.0.2 13001",
+["last_version"] = "11.0.2 13111",
 ["player_stats"] = {
 },
 ["SoloTablesSaved"] = {
@@ -213,7 +73,7 @@ _detalhes_database = {
 },
 ["on_death_menu"] = false,
 ["nick_tag_cache"] = {
-["nextreset"] = 1727206544,
+["nextreset"] = 1729528422,
 ["last_version"] = 16,
 },
 ["last_instance_id"] = 1530,
@@ -255,7 +115,8 @@ _detalhes_database = {
 ["previous_boss_killed_at"] = 0,
 },
 ["ignore_nicktag"] = false,
-["last_encounter"] = "Krosus",
+["data_harvested_for_charts"] = {
+},
 ["combat_log"] = {
 ["merge_gemstones_1007"] = false,
 ["inverse_deathlog_raid"] = false,
@@ -267,9 +128,8 @@ _detalhes_database = {
 ["evoker_show_realtimedps"] = false,
 ["inverse_deathlog_mplus"] = false,
 },
-["benchmark_db"] = {
-["frame"] = {
-},
+["character_data"] = {
+["logons"] = 76,
 },
 ["mythic_plus_log"] = {
 },
@@ -277,88 +137,19 @@ _detalhes_database = {
 ["enabled"] = true,
 ["channel"] = "SELF",
 },
-["local_instances_config"] = {
-{
-["modo"] = 2,
-["sub_attribute"] = 1,
-["horizontalSnap"] = false,
-["verticalSnap"] = true,
-["isLocked"] = true,
-["is_open"] = true,
-["sub_atributo_last"] = {
-1,
-1,
-1,
-1,
-1,
-},
-["snap"] = {
-[4] = 2,
-},
-["segment"] = 0,
-["mode"] = 2,
-["attribute"] = 1,
-["pos"] = {
-["normal"] = {
-["y"] = -605.9401168823242,
-["x"] = 1030.129028320313,
-["w"] = 413.117431640625,
-["h"] = 132.7676849365234,
-},
-["solo"] = {
-["y"] = 2,
-["x"] = 1,
-["w"] = 300,
-["h"] = 200,
+["last_encounter"] = "Krosus",
+["benchmark_db"] = {
+["frame"] = {
 },
 },
-},
-{
-["modo"] = 2,
-["sub_attribute"] = 1,
-["horizontalSnap"] = false,
-["verticalSnap"] = true,
-["isLocked"] = true,
-["is_open"] = true,
-["sub_atributo_last"] = {
-1,
-1,
-1,
-1,
-10,
-},
-["snap"] = {
-[2] = 1,
-},
-["segment"] = 0,
-["mode"] = 2,
-["attribute"] = 2,
-["pos"] = {
-["normal"] = {
-["y"] = -454.8155364990234,
-["x"] = 1030.129028320313,
-["w"] = 413.117431640625,
-["h"] = 129.4814910888672,
-},
-["solo"] = {
-["y"] = 2,
-["x"] = 1,
-["w"] = 300,
-["h"] = 200,
-},
-},
-},
-},
-["last_day"] = "09",
+["last_day"] = "06",
 ["announce_prepots"] = {
 ["enabled"] = false,
 ["channel"] = "SELF",
 ["reverse"] = false,
 },
-["data_harvested_for_charts"] = {
-},
 ["force_font_outline"] = "",
-["last_realversion"] = 160,
+["last_realversion"] = 161,
 ["combat_id"] = 1807,
 ["savedStyles"] = {
 },
@@ -366,7 +157,7 @@ _detalhes_database = {
 ["enabled"] = true,
 ["channel"] = "SELF",
 },
-["combat_counter"] = 2081,
+["combat_counter"] = 2085,
 ["announce_deaths"] = {
 ["enabled"] = false,
 ["last_hits"] = 1,
@@ -401,16 +192,36 @@ _detalhes_database = {
 },
 ["raid_roster"] = {
 },
-["segments_added"] = {
-},
-["tempo_start"] = 210523.287,
+["tempo_start"] = 1466943.567,
 ["last_events_tables"] = {
 },
 ["alternate_power"] = {
 },
+["totals_grupo"] = {
+0,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+},
 ["bossTimers"] = {
 },
-["combat_counter"] = 2058,
+["trinketProcs"] = {
+},
 ["playerTalents"] = {
 },
 ["totals"] = {
@@ -426,51 +237,29 @@ _detalhes_database = {
 {
 ["buff_uptime"] = 0,
 ["ress"] = 0,
-["cooldowns_defensive"] = 0,
-["dispell"] = 0,
-["interrupt"] = 0,
 ["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
 ["cc_break"] = 0,
 ["dead"] = 0,
 },
 ["frags_total"] = 0,
 ["voidzone_damage"] = 0,
 },
-["totals_grupo"] = {
-0,
-0,
-{
-0,
-[0] = 0,
-["alternatepower"] = 0,
-[3] = 0,
-[6] = 0,
-},
-{
-["buff_uptime"] = 0,
-["ress"] = 0,
-["cooldowns_defensive"] = 0,
-["dispell"] = 0,
-["interrupt"] = 0,
-["debuff_uptime"] = 0,
-["cc_break"] = 0,
-["dead"] = 0,
-},
+["player_last_events"] = {
 },
 ["frags_need_refresh"] = false,
 ["aura_timeline"] = {
 },
-["overall_refreshed"] = true,
 ["data_inicio"] = 0,
 ["amountCasts"] = {
 },
-["mapId"] = 0,
-["player_last_events"] = {
-},
-["zoneName"] = "Eastern Kingdoms",
+["mapId"] = 1220,
 ["cleu_events"] = {
 ["n"] = 1,
 },
+["zoneName"] = "Broken Isles",
 ["boss_hp"] = 1,
 ["is_challenge"] = false,
 ["frags"] = {
@@ -485,11 +274,11 @@ _detalhes_database = {
 1,
 1,
 },
-["damage_section"] = {
-},
 ["heal_section"] = {
 },
 ["heal"] = {
+},
+["damage_section"] = {
 },
 ["damage"] = {
 },
@@ -497,11 +286,7 @@ _detalhes_database = {
 ["start_time"] = 0,
 ["TimeData"] = {
 },
-["trinketProcs"] = {
-},
-},
-["character_data"] = {
-["logons"] = 74,
+["combat_counter"] = 2084,
 },
 ["plugin_database"] = {
 ["DETAILS_PLUGIN_TINY_THREAT"] = {
@@ -609,11 +394,6 @@ _detalhes_database = {
 ["arrow_anchor_y"] = 0,
 ["row_texture"] = "Details Serenity",
 ["square_grow_direction"] = "right",
-["font_size"] = 10,
-["author"] = "Details! Team",
-["square_amount"] = 5,
-["enabled"] = false,
-["arrow_size"] = 10,
 ["per_second"] = {
 ["enabled"] = false,
 ["point"] = "CENTER",
@@ -625,6 +405,11 @@ _detalhes_database = {
 ["update_speed"] = 0.05,
 ["size"] = 32,
 },
+["author"] = "Details! Team",
+["square_amount"] = 5,
+["enabled"] = false,
+["arrow_size"] = 10,
+["use_spark"] = true,
 ["row_spacement"] = 21,
 ["main_frame_color"] = {
 0,
@@ -632,25 +417,97 @@ _detalhes_database = {
 0,
 0.2,
 },
+["main_frame_strata"] = "LOW",
+["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+["font_size"] = 10,
+["y"] = -6.103515625e-05,
+["x"] = 0.0001220703125,
+["font_face"] = "Friz Quadrata TT",
+["square_size"] = 32,
 ["row_color"] = {
 0.1,
 0.1,
 0.1,
 0.4,
 },
-["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-["y"] = -6.103515625e-05,
-["use_spark"] = true,
-["x"] = 0.0001220703125,
-["font_face"] = "Friz Quadrata TT",
-["square_size"] = 32,
-["main_frame_strata"] = "LOW",
 ["scale"] = 1,
 ["row_height"] = 20,
 ["point"] = "CENTER",
 },
 },
 ["cached_talents"] = {
+},
+["local_instances_config"] = {
+{
+["modo"] = 2,
+["sub_attribute"] = 1,
+["horizontalSnap"] = false,
+["verticalSnap"] = true,
+["isLocked"] = true,
+["is_open"] = true,
+["sub_atributo_last"] = {
+1,
+1,
+1,
+1,
+1,
+},
+["snap"] = {
+[4] = 2,
+},
+["segment"] = 0,
+["mode"] = 2,
+["attribute"] = 1,
+["pos"] = {
+["normal"] = {
+["y"] = -605.9401168823242,
+["x"] = 1030.129028320313,
+["w"] = 413.117431640625,
+["h"] = 132.7676849365234,
+},
+["solo"] = {
+["y"] = 2,
+["x"] = 1,
+["w"] = 300,
+["h"] = 200,
+},
+},
+},
+{
+["modo"] = 2,
+["sub_attribute"] = 1,
+["horizontalSnap"] = false,
+["verticalSnap"] = true,
+["isLocked"] = true,
+["is_open"] = true,
+["sub_atributo_last"] = {
+1,
+1,
+1,
+1,
+10,
+},
+["snap"] = {
+[2] = 1,
+},
+["segment"] = 0,
+["mode"] = 2,
+["attribute"] = 2,
+["pos"] = {
+["normal"] = {
+["y"] = -454.8155364990234,
+["x"] = 1030.129028320313,
+["w"] = 413.117431640625,
+["h"] = 129.4814910888672,
+},
+["solo"] = {
+["y"] = 2,
+["x"] = 1,
+["w"] = 300,
+["h"] = 200,
+},
+},
+},
 },
 ["announce_cooldowns"] = {
 ["ignored_cooldowns"] = {
@@ -666,6 +523,12 @@ _detalhes_database = {
 ["cached_roles"] = {
 },
 ["cached_specs"] = {
-["Player-3685-0A7F3116"] = 263,
+["Player-61-0B02938E"] = 102,
+["Player-3685-0A7F3116"] = 264,
+["Player-61-0B6CDDAD"] = 256,
+["Player-61-0F8E4A5C"] = 62,
+["Player-61-0D8B11C2"] = 267,
+["Player-61-0F902FD2"] = 264,
+["Player-53-08A12A83"] = 262,
 },
 }

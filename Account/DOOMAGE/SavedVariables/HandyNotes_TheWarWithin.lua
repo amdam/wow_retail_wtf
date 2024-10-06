@@ -13,13 +13,13 @@ HandyNotes_TheWarWithinDB = {
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
-["Kurate - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
+["Adaam - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Adaam - Turalyon"] = "Default",
-["Abel - Turalyon"] = "Default",
+["Kurate - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {

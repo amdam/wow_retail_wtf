@@ -3,64 +3,32 @@ DetailsDataStorage = {
 ["normal"] = {
 [2429] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724824507,
+["elapsed"] = 50.14800000000105,
 ["DAMAGER"] = {
 },
-["time"] = 1724824507,
-["date"] = "23:55 27/08/24",
-["elapsed"] = 50.14800000000105,
 ["servertime"] = 1724824506,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "23:55 27/08/24",
 },
 },
 [2431] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724825526,
+["elapsed"] = 108.775999999998,
 ["DAMAGER"] = {
 },
-["time"] = 1724825526,
-["date"] = "00:12 28/08/24",
-["elapsed"] = 108.775999999998,
 ["servertime"] = 1724825525,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "00:12 28/08/24",
 },
 },
 [2898] = {
 {
-["time"] = 1726014050,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 206.4100000000035,
-["date"] = "18:20 10/09/24",
-["servertime"] = 1726014050,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 141064511,
-["itemLevel"] = 586.25,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 121362318,
-["itemLevel"] = 591.875,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 145469093,
-["itemLevel"] = 588.3125,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 41689346,
-["itemLevel"] = 575.6875,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 109691219,
-["itemLevel"] = 579.1875,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 130158816,
@@ -117,29 +85,9 @@ DetailsDataStorage = {
 ["itemLevel"] = 588.0625,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 89211920,
-["itemLevel"] = 580.375,
-["classId"] = 5,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 127635107,
-["itemLevel"] = 590.0625,
-["classId"] = 9,
-},
-["Lotsofcabage-AeriePeak"] = {
-["total"] = 136016677,
-["itemLevel"] = 586.625,
-["classId"] = 3,
-},
-["Bubzs-Sargeras"] = {
-["total"] = 100093907,
-["itemLevel"] = 581.125,
-["classId"] = 7,
-},
-["Portly"] = {
-["total"] = 97350668,
-["itemLevel"] = 586.375,
+["Radmus-Thrall"] = {
+["total"] = 100644289,
+["itemLevel"] = 583.375,
 ["classId"] = 8,
 },
 ["Mikya"] = {
@@ -147,14 +95,69 @@ DetailsDataStorage = {
 ["itemLevel"] = 583.5,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 100644289,
-["itemLevel"] = 583.375,
+["Portly"] = {
+["total"] = 97350668,
+["itemLevel"] = 586.375,
 ["classId"] = 8,
 },
+["Bubzs-Sargeras"] = {
+["total"] = 100093907,
+["itemLevel"] = 581.125,
+["classId"] = 7,
 },
+["Lotsofcabage-AeriePeak"] = {
+["total"] = 136016677,
+["itemLevel"] = 586.625,
+["classId"] = 3,
+},
+["Yughiicsv-Stormrage"] = {
+["total"] = 127635107,
+["itemLevel"] = 590.0625,
+["classId"] = 9,
+},
+["Healzizzle-Area52"] = {
+["total"] = 89211920,
+["itemLevel"] = 580.375,
+["classId"] = 5,
+},
+},
+["time"] = 1726014050,
+["date"] = "18:20 10/09/24",
+["elapsed"] = 206.4100000000035,
+["servertime"] = 1726014050,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 141064511,
+["itemLevel"] = 586.25,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 121362318,
+["itemLevel"] = 591.875,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 145469093,
+["itemLevel"] = 588.3125,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 109691219,
+["itemLevel"] = 579.1875,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 41689346,
+["itemLevel"] = 575.6875,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 {
+["guild"] = "Chaotic Neutral",
+["time"] = 1726617606,
+["elapsed"] = 156.1149999999907,
 ["DAMAGER"] = {
 ["Lumberbuddy"] = {
 ["total"] = 108262247,
@@ -216,35 +219,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 601.6875,
 ["classId"] = 1,
 },
-["Styled-Zul'jin"] = {
-["total"] = 122461049,
-["itemLevel"] = 607.5,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 106554605,
+["itemLevel"] = 600.625,
+["classId"] = 8,
 },
 ["Amdam"] = {
 ["total"] = 121469634,
 ["itemLevel"] = 606.625,
 ["classId"] = 2,
 },
-["Hackattack-Area52"] = {
-["total"] = 84214781,
-["itemLevel"] = 604.0625,
-["classId"] = 6,
-},
 ["Zizzix-Duskwood"] = {
 ["total"] = 56429077,
 ["itemLevel"] = 591.8125,
 ["classId"] = 9,
+},
+["Hackattack-Area52"] = {
+["total"] = 84214781,
+["itemLevel"] = 604.0625,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 124190421,
 ["itemLevel"] = 606.875,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 106554605,
-["itemLevel"] = 600.625,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 122461049,
+["itemLevel"] = 607.5,
+["classId"] = 4,
 },
 ["Healzizzle-Area52"] = {
 ["total"] = 104451268,
@@ -252,9 +255,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1726617606,
-["date"] = "18:00 17/09/24",
-["elapsed"] = 156.1149999999907,
 ["servertime"] = 1726617606,
 ["HEALER"] = {
 ["Sulveris"] = {
@@ -267,22 +267,47 @@ DetailsDataStorage = {
 ["itemLevel"] = 595.8125,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 104158176,
-["itemLevel"] = 593.3125,
-["classId"] = 10,
-},
 ["Hamanu"] = {
 ["total"] = 89117640,
 ["itemLevel"] = 600.75,
 ["classId"] = 13,
 },
+["Ctair"] = {
+["total"] = 104158176,
+["itemLevel"] = 593.3125,
+["classId"] = 10,
 },
-["guild"] = "Chaotic Neutral",
+},
+["date"] = "18:00 17/09/24",
 },
 {
-["date"] = "18:06 24/09/24",
+["time"] = 1727222794,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 138.4079999999958,
+["date"] = "18:06 24/09/24",
+["servertime"] = 1727222794,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 107544836,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 33916671,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 100193737,
+["itemLevel"] = 606.5625,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 97480380,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 129337940,
@@ -339,20 +364,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Radmus-Thrall"] = {
-["total"] = 67306511,
-["itemLevel"] = 601.25,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 106931544,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 ["Brovatar"] = {
 ["total"] = 46031729,
 ["itemLevel"] = 607.625,
 ["classId"] = 1,
 },
-["Sinnaka"] = {
-["total"] = 93387624,
-["itemLevel"] = 601.625,
-["classId"] = 7,
+["Tynan"] = {
+["total"] = 73422169,
+["itemLevel"] = 604.625,
+["classId"] = 9,
 },
 ["Mikya"] = {
 ["total"] = 111113987,
@@ -374,47 +399,21 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Tynan"] = {
-["total"] = 73422169,
-["itemLevel"] = 604.625,
-["classId"] = 9,
-},
-["Healzizzle-Area52"] = {
-["total"] = 106931544,
-["itemLevel"] = 605.875,
-["classId"] = 5,
-},
-},
-["elapsed"] = 138.4079999999958,
-["servertime"] = 1727222794,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 107544836,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 33916671,
-["itemLevel"] = 605.75,
+["Sinnaka"] = {
+["total"] = 93387624,
+["itemLevel"] = 601.625,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 97480380,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 100193737,
-["itemLevel"] = 606.5625,
-["classId"] = 13,
+["Radmus-Thrall"] = {
+["total"] = 67306511,
+["itemLevel"] = 601.25,
+["classId"] = 8,
 },
 },
-["time"] = 1727222794,
 },
 {
+["date"] = "17:55 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727826915,
-["elapsed"] = 129.3659999999218,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 112935904,
@@ -471,20 +470,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 96024933,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 99696188,
+["itemLevel"] = 605.875,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 120193730,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 46656730,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 119395853,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 94393149,
@@ -511,17 +510,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 120193730,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 119395853,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 99696188,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 96024933,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 129.3659999999218,
 ["servertime"] = 1727826915,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -539,54 +539,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 84778156,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 28427028,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 84778156,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "17:55 01/10/24",
+},
+["time"] = 1727826915,
 },
 },
 [2902] = {
 {
-["time"] = 1726011821,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 274.0230000000156,
-["date"] = "17:43 10/09/24",
-["servertime"] = 1726011820,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 115896036,
-["itemLevel"] = 586.25,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 116525776,
-["itemLevel"] = 591.625,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 91567804,
-["itemLevel"] = 588.3125,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 34237235,
-["itemLevel"] = 575.6875,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 100894442,
-["itemLevel"] = 579.1875,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 139914339,
@@ -643,29 +611,9 @@ DetailsDataStorage = {
 ["itemLevel"] = 587.25,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 85166299,
-["itemLevel"] = 580.375,
-["classId"] = 5,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 121485607,
-["itemLevel"] = 589.25,
-["classId"] = 9,
-},
-["Lotsofcabage-AeriePeak"] = {
-["total"] = 136217440,
-["itemLevel"] = 586.625,
-["classId"] = 3,
-},
-["Bubzs-Sargeras"] = {
-["total"] = 108511758,
-["itemLevel"] = 581.125,
-["classId"] = 7,
-},
-["Portly"] = {
-["total"] = 100701352,
-["itemLevel"] = 585.6875,
+["Radmus-Thrall"] = {
+["total"] = 90550302,
+["itemLevel"] = 583.375,
 ["classId"] = 8,
 },
 ["Mikya"] = {
@@ -673,14 +621,69 @@ DetailsDataStorage = {
 ["itemLevel"] = 583.5,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 90550302,
-["itemLevel"] = 583.375,
+["Portly"] = {
+["total"] = 100701352,
+["itemLevel"] = 585.6875,
 ["classId"] = 8,
 },
+["Bubzs-Sargeras"] = {
+["total"] = 108511758,
+["itemLevel"] = 581.125,
+["classId"] = 7,
 },
+["Lotsofcabage-AeriePeak"] = {
+["total"] = 136217440,
+["itemLevel"] = 586.625,
+["classId"] = 3,
+},
+["Yughiicsv-Stormrage"] = {
+["total"] = 121485607,
+["itemLevel"] = 589.25,
+["classId"] = 9,
+},
+["Healzizzle-Area52"] = {
+["total"] = 85166299,
+["itemLevel"] = 580.375,
+["classId"] = 5,
+},
+},
+["time"] = 1726011821,
+["date"] = "17:43 10/09/24",
+["elapsed"] = 274.0230000000156,
+["servertime"] = 1726011820,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 115896036,
+["itemLevel"] = 586.25,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 116525776,
+["itemLevel"] = 591.625,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 91567804,
+["itemLevel"] = 588.3125,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 100894442,
+["itemLevel"] = 579.1875,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 34237235,
+["itemLevel"] = 575.6875,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 {
+["guild"] = "Chaotic Neutral",
+["time"] = 1726616263,
+["elapsed"] = 188.1710000000312,
 ["DAMAGER"] = {
 ["Lumberbuddy"] = {
 ["total"] = 94337490,
@@ -742,35 +745,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 601.6875,
 ["classId"] = 1,
 },
-["Styled-Zul'jin"] = {
-["total"] = 126984685,
-["itemLevel"] = 607.5,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 93182425,
+["itemLevel"] = 600.625,
+["classId"] = 8,
 },
 ["Amdam"] = {
 ["total"] = 121658513,
 ["itemLevel"] = 606.625,
 ["classId"] = 2,
 },
-["Hackattack-Area52"] = {
-["total"] = 113618754,
-["itemLevel"] = 604.0625,
-["classId"] = 6,
-},
 ["Zizzix-Duskwood"] = {
 ["total"] = 52867841,
 ["itemLevel"] = 591.1875,
 ["classId"] = 9,
+},
+["Hackattack-Area52"] = {
+["total"] = 113618754,
+["itemLevel"] = 604.0625,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 127446551,
 ["itemLevel"] = 606.875,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 93182425,
-["itemLevel"] = 600.625,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 126984685,
+["itemLevel"] = 607.5,
+["classId"] = 4,
 },
 ["Healzizzle-Area52"] = {
 ["total"] = 94198233,
@@ -778,9 +781,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1726616263,
-["date"] = "17:37 17/09/24",
-["elapsed"] = 188.1710000000312,
 ["servertime"] = 1726616263,
 ["HEALER"] = {
 ["Sulveris"] = {
@@ -793,22 +793,47 @@ DetailsDataStorage = {
 ["itemLevel"] = 595.8125,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 60413312,
-["itemLevel"] = 593.3125,
-["classId"] = 10,
-},
 ["Hamanu"] = {
 ["total"] = 66049262,
 ["itemLevel"] = 600.75,
 ["classId"] = 13,
 },
+["Ctair"] = {
+["total"] = 60413312,
+["itemLevel"] = 593.3125,
+["classId"] = 10,
 },
-["guild"] = "Chaotic Neutral",
+},
+["date"] = "17:37 17/09/24",
 },
 {
-["date"] = "17:39 24/09/24",
+["time"] = 1727221184,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 167.0950000000303,
+["date"] = "17:39 24/09/24",
+["servertime"] = 1727221184,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 78314788,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 19094045,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 71290151,
+["itemLevel"] = 606.5625,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 70063346,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 110658966,
@@ -870,24 +895,29 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Radmus-Thrall"] = {
-["total"] = 78163319,
-["itemLevel"] = 601.25,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 85988599,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 ["Brovatar"] = {
 ["total"] = 57730970,
 ["itemLevel"] = 607.625,
 ["classId"] = 1,
 },
-["Aeolock"] = {
-["total"] = 91564074,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 88188452,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Tynan"] = {
 ["total"] = 103984445,
 ["itemLevel"] = 604.625,
+["classId"] = 9,
+},
+["Zizzix-Duskwood"] = {
+["total"] = 58197418,
+["itemLevel"] = 600.25,
 ["classId"] = 9,
 },
 ["Hackattack-Area52"] = {
@@ -895,57 +925,26 @@ DetailsDataStorage = {
 ["itemLevel"] = 609,
 ["classId"] = 6,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 58197418,
-["itemLevel"] = 600.25,
-["classId"] = 9,
-},
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 113668401,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 88188452,
-["itemLevel"] = 606.4375,
+["Aeolock"] = {
+["total"] = 91564074,
+["itemLevel"] = 611.125,
+["classId"] = 9,
+},
+["Radmus-Thrall"] = {
+["total"] = 78163319,
+["itemLevel"] = 601.25,
 ["classId"] = 8,
 },
-["Healzizzle-Area52"] = {
-["total"] = 85988599,
-["itemLevel"] = 605.875,
-["classId"] = 5,
 },
-},
-["elapsed"] = 167.0950000000303,
-["servertime"] = 1727221184,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 78314788,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 19094045,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 70063346,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 71290151,
-["itemLevel"] = 606.5625,
-["classId"] = 13,
-},
-},
-["time"] = 1727221184,
 },
 {
+["date"] = "17:35 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727825703,
-["elapsed"] = 169.6189999999479,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 113211418,
@@ -1002,20 +1001,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 117515763,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 82998971,
+["itemLevel"] = 605.875,
+["classId"] = 8,
 },
 ["Yughiicsv-Stormrage"] = {
 ["total"] = 153394735,
 ["itemLevel"] = 609.5,
 ["classId"] = 9,
 },
-["Styled-Zul'jin"] = {
-["total"] = 94461997,
-["itemLevel"] = 613.1875,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 111508752,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Aeolock"] = {
 ["total"] = 95424825,
@@ -1037,17 +1036,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 111508752,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 94461997,
+["itemLevel"] = 613.1875,
+["classId"] = 4,
 },
-["Radmus-Thrall"] = {
-["total"] = 82998971,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 117515763,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 169.6189999999479,
 ["servertime"] = 1727825702,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -1065,54 +1065,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 49657537,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 22729956,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 49657537,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "17:35 01/10/24",
+},
+["time"] = 1727825703,
 },
 },
 [2918] = {
 {
-["time"] = 1726014857,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 248.8369999999995,
-["date"] = "18:34 10/09/24",
-["servertime"] = 1726014857,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 133604913,
-["itemLevel"] = 586.25,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 124357863,
-["itemLevel"] = 591.875,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 110994048,
-["itemLevel"] = 588.3125,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 42838460,
-["itemLevel"] = 571.4375,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 116131047,
-["itemLevel"] = 580.25,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 165598154,
@@ -1169,29 +1137,9 @@ DetailsDataStorage = {
 ["itemLevel"] = 588.0625,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 122307598,
-["itemLevel"] = 580.375,
-["classId"] = 5,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 142035992,
-["itemLevel"] = 590.0625,
-["classId"] = 9,
-},
-["Lotsofcabage-AeriePeak"] = {
-["total"] = 131586848,
-["itemLevel"] = 586.625,
-["classId"] = 3,
-},
-["Bubzs-Sargeras"] = {
-["total"] = 124943330,
-["itemLevel"] = 581.125,
-["classId"] = 7,
-},
-["Portly"] = {
-["total"] = 96650723,
-["itemLevel"] = 586.375,
+["Radmus-Thrall"] = {
+["total"] = 131519430,
+["itemLevel"] = 584.375,
 ["classId"] = 8,
 },
 ["Mikya"] = {
@@ -1199,14 +1147,69 @@ DetailsDataStorage = {
 ["itemLevel"] = 583.5,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 131519430,
-["itemLevel"] = 584.375,
+["Portly"] = {
+["total"] = 96650723,
+["itemLevel"] = 586.375,
 ["classId"] = 8,
 },
+["Bubzs-Sargeras"] = {
+["total"] = 124943330,
+["itemLevel"] = 581.125,
+["classId"] = 7,
 },
+["Lotsofcabage-AeriePeak"] = {
+["total"] = 131586848,
+["itemLevel"] = 586.625,
+["classId"] = 3,
+},
+["Yughiicsv-Stormrage"] = {
+["total"] = 142035992,
+["itemLevel"] = 590.0625,
+["classId"] = 9,
+},
+["Healzizzle-Area52"] = {
+["total"] = 122307598,
+["itemLevel"] = 580.375,
+["classId"] = 5,
+},
+},
+["time"] = 1726014857,
+["date"] = "18:34 10/09/24",
+["elapsed"] = 248.8369999999995,
+["servertime"] = 1726014857,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 133604913,
+["itemLevel"] = 586.25,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 124357863,
+["itemLevel"] = 591.875,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 110994048,
+["itemLevel"] = 588.3125,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 116131047,
+["itemLevel"] = 580.25,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 42838460,
+["itemLevel"] = 571.4375,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 {
+["guild"] = "Chaotic Neutral",
+["time"] = 1726618060,
+["elapsed"] = 184.329000000027,
 ["DAMAGER"] = {
 ["Lumberbuddy"] = {
 ["total"] = 99678420,
@@ -1268,35 +1271,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 601.6875,
 ["classId"] = 1,
 },
-["Styled-Zul'jin"] = {
-["total"] = 151941825,
-["itemLevel"] = 607.5,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 130322112,
+["itemLevel"] = 600.625,
+["classId"] = 8,
 },
 ["Amdam"] = {
 ["total"] = 151039668,
 ["itemLevel"] = 606.625,
 ["classId"] = 2,
 },
-["Hackattack-Area52"] = {
-["total"] = 116151480,
-["itemLevel"] = 604.25,
-["classId"] = 6,
-},
 ["Zizzix-Duskwood"] = {
 ["total"] = 71563381,
 ["itemLevel"] = 591.8125,
 ["classId"] = 9,
+},
+["Hackattack-Area52"] = {
+["total"] = 116151480,
+["itemLevel"] = 604.25,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 129492229,
 ["itemLevel"] = 606.875,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 130322112,
-["itemLevel"] = 600.625,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 151941825,
+["itemLevel"] = 607.5,
+["classId"] = 4,
 },
 ["Healzizzle-Area52"] = {
 ["total"] = 101953611,
@@ -1304,9 +1307,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1726618060,
-["date"] = "18:07 17/09/24",
-["elapsed"] = 184.329000000027,
 ["servertime"] = 1726618060,
 ["HEALER"] = {
 ["Sulveris"] = {
@@ -1319,22 +1319,47 @@ DetailsDataStorage = {
 ["itemLevel"] = 595.8125,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 98820343,
-["itemLevel"] = 593.3125,
-["classId"] = 10,
-},
 ["Hamanu"] = {
 ["total"] = 93989642,
 ["itemLevel"] = 600.75,
 ["classId"] = 13,
 },
+["Ctair"] = {
+["total"] = 98820343,
+["itemLevel"] = 593.3125,
+["classId"] = 10,
 },
-["guild"] = "Chaotic Neutral",
+},
+["date"] = "18:07 17/09/24",
 },
 {
-["date"] = "18:12 24/09/24",
+["time"] = 1727223169,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 163.2550000000047,
+["date"] = "18:12 24/09/24",
+["servertime"] = 1727223169,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 114993863,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 50728574,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 114603241,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 104113202,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 143741562,
@@ -1386,10 +1411,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 116091939,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 91755322,
+["itemLevel"] = 601.25,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 126427715,
@@ -1401,10 +1426,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 128137546,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 110380937,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 60514379,
@@ -1416,67 +1441,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 124782806,
-["itemLevel"] = 606.625,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 68420657,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 115941873,
 ["itemLevel"] = 606.6875,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 68420657,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 124782806,
+["itemLevel"] = 606.625,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 126851898,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 110380937,
-["itemLevel"] = 606.4375,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 128137546,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 91755322,
-["itemLevel"] = 601.25,
-["classId"] = 8,
-},
-},
-["elapsed"] = 163.2550000000047,
-["servertime"] = 1727223169,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 114993863,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 50728574,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 104113202,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 114603241,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 116091939,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727223169,
 },
 {
+["date"] = "18:03 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727827419,
-["elapsed"] = 156.6620000000112,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 117135213,
@@ -1533,20 +1532,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 124822807,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 97154643,
+["itemLevel"] = 605.875,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 110729720,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 62649704,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 128349668,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 117719390,
@@ -1573,17 +1572,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 110729720,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 128349668,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 97154643,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 124822807,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 156.6620000000112,
 ["servertime"] = 1727827418,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -1601,54 +1601,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 73437903,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 32240845,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 73437903,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "18:03 01/10/24",
+},
+["time"] = 1727827419,
 },
 },
 [2920] = {
 {
-["time"] = 1726016178,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 235.0169999999926,
-["date"] = "18:56 10/09/24",
-["servertime"] = 1726016177,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 157538214,
-["itemLevel"] = 586.25,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 156183740,
-["itemLevel"] = 591.875,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 25735304,
-["itemLevel"] = 588.3125,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 49066041,
-["itemLevel"] = 571.4375,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 125070677,
-["itemLevel"] = 580.25,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 153379027,
@@ -1705,24 +1673,9 @@ DetailsDataStorage = {
 ["itemLevel"] = 589.0625,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 107461580,
-["itemLevel"] = 580.375,
-["classId"] = 5,
-},
-["Bubzs-Sargeras"] = {
-["total"] = 102547565,
-["itemLevel"] = 581.125,
-["classId"] = 7,
-},
-["Lotsofcabage-AeriePeak"] = {
-["total"] = 150560386,
-["itemLevel"] = 586.625,
-["classId"] = 3,
-},
-["Portly"] = {
-["total"] = 100929797,
-["itemLevel"] = 586.75,
+["Radmus-Thrall"] = {
+["total"] = 122193571,
+["itemLevel"] = 584.375,
 ["classId"] = 8,
 },
 ["Mikya"] = {
@@ -1730,14 +1683,64 @@ DetailsDataStorage = {
 ["itemLevel"] = 583.5,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 122193571,
-["itemLevel"] = 584.375,
+["Portly"] = {
+["total"] = 100929797,
+["itemLevel"] = 586.75,
 ["classId"] = 8,
 },
+["Lotsofcabage-AeriePeak"] = {
+["total"] = 150560386,
+["itemLevel"] = 586.625,
+["classId"] = 3,
 },
+["Bubzs-Sargeras"] = {
+["total"] = 102547565,
+["itemLevel"] = 581.125,
+["classId"] = 7,
+},
+["Healzizzle-Area52"] = {
+["total"] = 107461580,
+["itemLevel"] = 580.375,
+["classId"] = 5,
+},
+},
+["time"] = 1726016178,
+["date"] = "18:56 10/09/24",
+["elapsed"] = 235.0169999999926,
+["servertime"] = 1726016177,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 157538214,
+["itemLevel"] = 586.25,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 156183740,
+["itemLevel"] = 591.875,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 25735304,
+["itemLevel"] = 588.3125,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 125070677,
+["itemLevel"] = 580.25,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 49066041,
+["itemLevel"] = 571.4375,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 {
+["guild"] = "Chaotic Neutral",
+["time"] = 1726618659,
+["elapsed"] = 170.4859999999753,
 ["DAMAGER"] = {
 ["Lumberbuddy"] = {
 ["total"] = 93265817,
@@ -1799,35 +1802,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 601.6875,
 ["classId"] = 1,
 },
-["Styled-Zul'jin"] = {
-["total"] = 147469509,
-["itemLevel"] = 607.5,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 108549901,
+["itemLevel"] = 600.625,
+["classId"] = 8,
 },
 ["Amdam"] = {
 ["total"] = 146064162,
 ["itemLevel"] = 606.625,
 ["classId"] = 2,
 },
-["Hackattack-Area52"] = {
-["total"] = 118872652,
-["itemLevel"] = 604.0625,
-["classId"] = 6,
-},
 ["Zizzix-Duskwood"] = {
 ["total"] = 35619790,
 ["itemLevel"] = 591.8125,
 ["classId"] = 9,
+},
+["Hackattack-Area52"] = {
+["total"] = 118872652,
+["itemLevel"] = 604.0625,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 138342842,
 ["itemLevel"] = 606.875,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 108549901,
-["itemLevel"] = 600.625,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 147469509,
+["itemLevel"] = 607.5,
+["classId"] = 4,
 },
 ["Healzizzle-Area52"] = {
 ["total"] = 113359675,
@@ -1835,9 +1838,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1726618659,
-["date"] = "18:17 17/09/24",
-["elapsed"] = 170.4859999999753,
 ["servertime"] = 1726618659,
 ["HEALER"] = {
 ["Sulveris"] = {
@@ -1850,22 +1850,47 @@ DetailsDataStorage = {
 ["itemLevel"] = 595.8125,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 90765843,
-["itemLevel"] = 593.3125,
-["classId"] = 10,
-},
 ["Hamanu"] = {
 ["total"] = 101137241,
 ["itemLevel"] = 600.75,
 ["classId"] = 13,
 },
+["Ctair"] = {
+["total"] = 90765843,
+["itemLevel"] = 593.3125,
+["classId"] = 10,
 },
-["guild"] = "Chaotic Neutral",
+},
+["date"] = "18:17 17/09/24",
 },
 {
-["date"] = "18:23 24/09/24",
+["time"] = 1727223793,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 155.466999999946,
+["date"] = "18:23 24/09/24",
+["servertime"] = 1727223793,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 101242655,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 46388407,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 97877643,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 77661608,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 65771576,
@@ -1917,10 +1942,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 122871511,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 108746881,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 151253002,
@@ -1932,10 +1957,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 122229175,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 116195246,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 59595121,
@@ -1947,67 +1972,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 141116941,
-["itemLevel"] = 606.625,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 87277289,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 120612219,
 ["itemLevel"] = 606.6875,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 87277289,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 141116941,
+["itemLevel"] = 606.625,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 149681574,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 116195246,
-["itemLevel"] = 606.4375,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 122229175,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 108746881,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 155.466999999946,
-["servertime"] = 1727223793,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 101242655,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 46388407,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 77661608,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 97877643,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 122871511,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727223793,
 },
 {
+["date"] = "18:11 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727827905,
-["elapsed"] = 165.216999999946,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 141723530,
@@ -2064,20 +2063,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 131282370,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 103775266,
+["itemLevel"] = 605.875,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 118157648,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 50477692,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 52762957,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 116343681,
@@ -2104,17 +2103,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 118157648,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 52762957,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 103775266,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 131282370,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 165.216999999946,
 ["servertime"] = 1727827905,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -2132,24 +2132,54 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 66610316,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 27012912,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 66610316,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "18:11 01/10/24",
+},
+["time"] = 1727827905,
 },
 },
 [2922] = {
 {
-["date"] = "19:05 11/09/24",
+["time"] = 1726103116,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 388.4249999999884,
+["date"] = "19:05 11/09/24",
+["servertime"] = 1726103116,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 241215164,
+["itemLevel"] = 593.625,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 249004724,
+["itemLevel"] = 597.5,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 189747669,
+["itemLevel"] = 595.0625,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 162843549,
+["itemLevel"] = 580.8125,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 116652157,
+["itemLevel"] = 576.6875,
+["classId"] = 7,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 198011899,
@@ -2211,10 +2241,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 597.6875,
 ["classId"] = 9,
 },
-["Sinnaka"] = {
-["total"] = 130224476,
-["itemLevel"] = 579.125,
-["classId"] = 7,
+["Crîtoris"] = {
+["total"] = 135421410,
+["itemLevel"] = 589,
+["classId"] = 4,
 },
 ["Tynan"] = {
 ["total"] = 166870111,
@@ -2231,10 +2261,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 588.25,
 ["classId"] = 3,
 },
-["Crîtoris"] = {
-["total"] = 135421410,
-["itemLevel"] = 589,
-["classId"] = 4,
+["Sinnaka"] = {
+["total"] = 130224476,
+["itemLevel"] = 579.125,
+["classId"] = 7,
 },
 ["Radmus-Thrall"] = {
 ["total"] = 140579970,
@@ -2242,40 +2272,35 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["elapsed"] = 388.4249999999884,
-["servertime"] = 1726103116,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 241215164,
-["itemLevel"] = 593.625,
-["classId"] = 5,
 },
+{
+["time"] = 1727226039,
+["guild"] = "Chaotic Neutral",
+["elapsed"] = 306.5740000000224,
+["date"] = "19:00 24/09/24",
+["servertime"] = 1727226039,
+["HEALER"] = {
 ["Sulveris"] = {
-["total"] = 249004724,
-["itemLevel"] = 597.5,
+["total"] = 232605725,
+["itemLevel"] = 610.125,
 ["classId"] = 11,
 },
-["Hamanu"] = {
-["total"] = 189747669,
-["itemLevel"] = 595.0625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
-["total"] = 116652157,
-["itemLevel"] = 576.6875,
+["total"] = 100489356,
+["itemLevel"] = 605.75,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 156394455,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
 ["Ctair"] = {
-["total"] = 162843549,
-["itemLevel"] = 580.8125,
+["total"] = 221395657,
+["itemLevel"] = 603.25,
 ["classId"] = 10,
 },
 },
-["time"] = 1726103116,
-},
-{
-["date"] = "19:00 24/09/24",
-["guild"] = "Chaotic Neutral",
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 198161503,
@@ -2327,10 +2352,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 166641439,
-["itemLevel"] = 606.7333333333333,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 133250075,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 204359001,
@@ -2342,10 +2367,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 114820070,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 179209921,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 83180293,
@@ -2357,67 +2382,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 183602091,
-["itemLevel"] = 606.4375,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 57312443,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 120829108,
 ["itemLevel"] = 606.6875,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 57312443,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 183602091,
+["itemLevel"] = 606.4375,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 199031820,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 179209921,
-["itemLevel"] = 606.4375,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 114820070,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 133250075,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 306.5740000000224,
-["servertime"] = 1727226039,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 232605725,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 100489356,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 221395657,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 156394455,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 166641439,
+["itemLevel"] = 606.7333333333333,
+["classId"] = 5,
 },
 },
-["time"] = 1727226039,
 },
 {
+["date"] = "18:41 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727829689,
-["elapsed"] = 296.4069999998901,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 106472869,
@@ -2474,20 +2473,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 176036535,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 57562754,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 186917456,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 88737974,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 232194854,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 181815722,
@@ -2514,17 +2513,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 186917456,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 232194854,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 57562754,
-["itemLevel"] = 606.4375,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 176036535,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 296.4069999998901,
 ["servertime"] = 1727829689,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -2542,119 +2542,87 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 131376572,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 113949973,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 131376572,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "18:41 01/10/24",
+},
+["time"] = 1727829689,
 },
 },
 [2430] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724825107,
+["elapsed"] = 129.4420000000027,
 ["DAMAGER"] = {
 },
-["time"] = 1724825107,
-["date"] = "00:05 28/08/24",
-["elapsed"] = 129.4420000000027,
 ["servertime"] = 1724825106,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "00:05 28/08/24",
 },
 },
 [2432] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724824715,
+["elapsed"] = 25.40000000000146,
 ["DAMAGER"] = {
 },
-["time"] = 1724824715,
-["date"] = "23:58 27/08/24",
-["elapsed"] = 25.40000000000146,
 ["servertime"] = 1724824714,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "23:58 27/08/24",
 },
 },
 [2434] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724824850,
+["elapsed"] = 18.87200000000303,
 ["DAMAGER"] = {
 },
-["time"] = 1724824850,
-["date"] = "00:00 28/08/24",
-["elapsed"] = 18.87200000000303,
 ["servertime"] = 1724824849,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "00:00 28/08/24",
 },
 },
 [2436] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724825287,
+["elapsed"] = 20.83400000000256,
 ["DAMAGER"] = {
 },
-["time"] = 1724825287,
-["date"] = "00:08 28/08/24",
-["elapsed"] = 20.83400000000256,
 ["servertime"] = 1724825286,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "00:08 28/08/24",
 },
 },
-[2422] = {
+[2423] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724823872,
+["elapsed"] = 28.59299999999348,
 ["DAMAGER"] = {
 },
-["time"] = 1724826379,
-["date"] = "00:26 28/08/24",
-["elapsed"] = 166.8450000000012,
-["servertime"] = 1724826378,
+["servertime"] = 1724823871,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "23:44 27/08/24",
 },
 },
 [2917] = {
 {
-["time"] = 1726013149,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 245.2020000000193,
-["date"] = "18:05 10/09/24",
-["servertime"] = 1726013148,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 118382011,
-["itemLevel"] = 586.25,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 139060474,
-["itemLevel"] = 591.625,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 82891471,
-["itemLevel"] = 588.3125,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 53468105,
-["itemLevel"] = 575.6875,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 103730707,
-["itemLevel"] = 579.1875,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 148391068,
@@ -2711,29 +2679,9 @@ DetailsDataStorage = {
 ["itemLevel"] = 587.25,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 94122199,
-["itemLevel"] = 580.375,
-["classId"] = 5,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 57449952,
-["itemLevel"] = 590.0625,
-["classId"] = 9,
-},
-["Lotsofcabage-AeriePeak"] = {
-["total"] = 134026310,
-["itemLevel"] = 586.625,
-["classId"] = 3,
-},
-["Bubzs-Sargeras"] = {
-["total"] = 131907685,
-["itemLevel"] = 581.125,
-["classId"] = 7,
-},
-["Portly"] = {
-["total"] = 101547871,
-["itemLevel"] = 585.6875,
+["Radmus-Thrall"] = {
+["total"] = 111105498,
+["itemLevel"] = 583.375,
 ["classId"] = 8,
 },
 ["Mikya"] = {
@@ -2741,14 +2689,69 @@ DetailsDataStorage = {
 ["itemLevel"] = 583.5,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 111105498,
-["itemLevel"] = 583.375,
+["Portly"] = {
+["total"] = 101547871,
+["itemLevel"] = 585.6875,
 ["classId"] = 8,
 },
+["Bubzs-Sargeras"] = {
+["total"] = 131907685,
+["itemLevel"] = 581.125,
+["classId"] = 7,
 },
+["Lotsofcabage-AeriePeak"] = {
+["total"] = 134026310,
+["itemLevel"] = 586.625,
+["classId"] = 3,
+},
+["Yughiicsv-Stormrage"] = {
+["total"] = 57449952,
+["itemLevel"] = 590.0625,
+["classId"] = 9,
+},
+["Healzizzle-Area52"] = {
+["total"] = 94122199,
+["itemLevel"] = 580.375,
+["classId"] = 5,
+},
+},
+["time"] = 1726013149,
+["date"] = "18:05 10/09/24",
+["elapsed"] = 245.2020000000193,
+["servertime"] = 1726013148,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 118382011,
+["itemLevel"] = 586.25,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 139060474,
+["itemLevel"] = 591.625,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 82891471,
+["itemLevel"] = 588.3125,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 103730707,
+["itemLevel"] = 579.1875,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 53468105,
+["itemLevel"] = 575.6875,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 {
+["guild"] = "Chaotic Neutral",
+["time"] = 1726616882,
+["elapsed"] = 192.4799999999814,
 ["DAMAGER"] = {
 ["Lumberbuddy"] = {
 ["total"] = 101457823,
@@ -2810,35 +2813,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 601.6875,
 ["classId"] = 1,
 },
-["Styled-Zul'jin"] = {
-["total"] = 143047990,
-["itemLevel"] = 607.5,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 112187388,
+["itemLevel"] = 600.625,
+["classId"] = 8,
 },
 ["Amdam"] = {
 ["total"] = 140410057,
 ["itemLevel"] = 606.625,
 ["classId"] = 2,
 },
-["Hackattack-Area52"] = {
-["total"] = 125882637,
-["itemLevel"] = 604.25,
-["classId"] = 6,
-},
 ["Zizzix-Duskwood"] = {
 ["total"] = 31003299,
 ["itemLevel"] = 591.1875,
 ["classId"] = 9,
+},
+["Hackattack-Area52"] = {
+["total"] = 125882637,
+["itemLevel"] = 604.25,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 140796086,
 ["itemLevel"] = 606.875,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 112187388,
-["itemLevel"] = 600.625,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 143047990,
+["itemLevel"] = 607.5,
+["classId"] = 4,
 },
 ["Healzizzle-Area52"] = {
 ["total"] = 101764716,
@@ -2846,9 +2849,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1726616882,
-["date"] = "17:48 17/09/24",
-["elapsed"] = 192.4799999999814,
 ["servertime"] = 1726616882,
 ["HEALER"] = {
 ["Sulveris"] = {
@@ -2861,22 +2861,47 @@ DetailsDataStorage = {
 ["itemLevel"] = 595.8125,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 107696811,
-["itemLevel"] = 593.3125,
-["classId"] = 10,
-},
 ["Hamanu"] = {
 ["total"] = 108315228,
 ["itemLevel"] = 600.75,
 ["classId"] = 13,
 },
+["Ctair"] = {
+["total"] = 107696811,
+["itemLevel"] = 593.3125,
+["classId"] = 10,
 },
-["guild"] = "Chaotic Neutral",
+},
+["date"] = "17:48 17/09/24",
 },
 {
-["date"] = "17:48 24/09/24",
+["time"] = 1727221730,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 130.4510000000009,
+["date"] = "17:48 24/09/24",
+["servertime"] = 1727221730,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 80388304,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 32757610,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 39071700,
+["itemLevel"] = 606.5625,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 59492081,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 112428044,
@@ -2938,24 +2963,29 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Radmus-Thrall"] = {
-["total"] = 89768230,
-["itemLevel"] = 601.25,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 101543472,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 ["Brovatar"] = {
 ["total"] = 58168443,
 ["itemLevel"] = 607.625,
 ["classId"] = 1,
 },
-["Aeolock"] = {
-["total"] = 100805659,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 105845408,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Tynan"] = {
 ["total"] = 98538190,
 ["itemLevel"] = 604.625,
+["classId"] = 9,
+},
+["Zizzix-Duskwood"] = {
+["total"] = 69853857,
+["itemLevel"] = 600.25,
 ["classId"] = 9,
 },
 ["Hackattack-Area52"] = {
@@ -2963,57 +2993,26 @@ DetailsDataStorage = {
 ["itemLevel"] = 609,
 ["classId"] = 6,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 69853857,
-["itemLevel"] = 600.25,
-["classId"] = 9,
-},
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 126641322,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 105845408,
-["itemLevel"] = 606.4375,
+["Aeolock"] = {
+["total"] = 100805659,
+["itemLevel"] = 611.125,
+["classId"] = 9,
+},
+["Radmus-Thrall"] = {
+["total"] = 89768230,
+["itemLevel"] = 601.25,
 ["classId"] = 8,
 },
-["Healzizzle-Area52"] = {
-["total"] = 101543472,
-["itemLevel"] = 605.875,
-["classId"] = 5,
 },
-},
-["elapsed"] = 130.4510000000009,
-["servertime"] = 1727221730,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 80388304,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 32757610,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 59492081,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 39071700,
-["itemLevel"] = 606.5625,
-["classId"] = 13,
-},
-},
-["time"] = 1727221730,
 },
 {
+["date"] = "17:46 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727826401,
-["elapsed"] = 140.2009999998845,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 109524227,
@@ -3070,20 +3069,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 111988370,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 80098124,
+["itemLevel"] = 605.875,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 124001856,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 53541522,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 120859567,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 105066147,
@@ -3110,17 +3109,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 124001856,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 120859567,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 80098124,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 111988370,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 140.2009999998845,
 ["servertime"] = 1727826401,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -3138,54 +3138,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 47970845,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 37765835,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 47970845,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "17:46 01/10/24",
+},
+["time"] = 1727826401,
 },
 },
 [2919] = {
 {
-["time"] = 1726017712,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 269.2340000000258,
-["date"] = "19:21 10/09/24",
-["servertime"] = 1726017712,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 207054660,
-["itemLevel"] = 586.25,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 176266196,
-["itemLevel"] = 591.875,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 164979802,
-["itemLevel"] = 588.3125,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 62282493,
-["itemLevel"] = 575.6875,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 167672435,
-["itemLevel"] = 580.25,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 184595647,
@@ -3242,29 +3210,9 @@ DetailsDataStorage = {
 ["itemLevel"] = 590.5,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 130525589,
-["itemLevel"] = 580.375,
-["classId"] = 5,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 175792646,
-["itemLevel"] = 590.0625,
-["classId"] = 9,
-},
-["Lotsofcabage-AeriePeak"] = {
-["total"] = 193015683,
-["itemLevel"] = 586.625,
-["classId"] = 3,
-},
-["Bubzs-Sargeras"] = {
-["total"] = 150919305,
-["itemLevel"] = 581.125,
-["classId"] = 7,
-},
-["Portly"] = {
-["total"] = 122367342,
-["itemLevel"] = 586.75,
+["Radmus-Thrall"] = {
+["total"] = 141059916,
+["itemLevel"] = 585.1875,
 ["classId"] = 8,
 },
 ["Mikya"] = {
@@ -3272,14 +3220,69 @@ DetailsDataStorage = {
 ["itemLevel"] = 583.5,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 141059916,
-["itemLevel"] = 585.1875,
+["Portly"] = {
+["total"] = 122367342,
+["itemLevel"] = 586.75,
 ["classId"] = 8,
 },
+["Bubzs-Sargeras"] = {
+["total"] = 150919305,
+["itemLevel"] = 581.125,
+["classId"] = 7,
 },
+["Lotsofcabage-AeriePeak"] = {
+["total"] = 193015683,
+["itemLevel"] = 586.625,
+["classId"] = 3,
+},
+["Yughiicsv-Stormrage"] = {
+["total"] = 175792646,
+["itemLevel"] = 590.0625,
+["classId"] = 9,
+},
+["Healzizzle-Area52"] = {
+["total"] = 130525589,
+["itemLevel"] = 580.375,
+["classId"] = 5,
+},
+},
+["time"] = 1726017712,
+["date"] = "19:21 10/09/24",
+["elapsed"] = 269.2340000000258,
+["servertime"] = 1726017712,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 207054660,
+["itemLevel"] = 586.25,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 176266196,
+["itemLevel"] = 591.875,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 164979802,
+["itemLevel"] = 588.3125,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 167672435,
+["itemLevel"] = 580.25,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 62282493,
+["itemLevel"] = 575.6875,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 {
+["guild"] = "Chaotic Neutral",
+["time"] = 1726619558,
+["elapsed"] = 203.7979999999516,
 ["DAMAGER"] = {
 ["Lumberbuddy"] = {
 ["total"] = 136510116,
@@ -3341,35 +3344,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 601.6875,
 ["classId"] = 1,
 },
-["Styled-Zul'jin"] = {
-["total"] = 173219389,
-["itemLevel"] = 607.9375,
-["classId"] = 4,
+["Mikya"] = {
+["total"] = 163160584,
+["itemLevel"] = 600.625,
+["classId"] = 8,
 },
 ["Amdam"] = {
 ["total"] = 179912550,
 ["itemLevel"] = 606.625,
 ["classId"] = 2,
 },
-["Hackattack-Area52"] = {
-["total"] = 172018946,
-["itemLevel"] = 604.0625,
-["classId"] = 6,
-},
 ["Zizzix-Duskwood"] = {
 ["total"] = 88418736,
 ["itemLevel"] = 591.8125,
 ["classId"] = 9,
+},
+["Hackattack-Area52"] = {
+["total"] = 172018946,
+["itemLevel"] = 604.0625,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 184068209,
 ["itemLevel"] = 606.4375,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 163160584,
-["itemLevel"] = 600.625,
-["classId"] = 8,
+["Styled-Zul'jin"] = {
+["total"] = 173219389,
+["itemLevel"] = 607.9375,
+["classId"] = 4,
 },
 ["Healzizzle-Area52"] = {
 ["total"] = 121530001,
@@ -3377,9 +3380,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1726619558,
-["date"] = "18:32 17/09/24",
-["elapsed"] = 203.7979999999516,
 ["servertime"] = 1726619558,
 ["HEALER"] = {
 ["Sulveris"] = {
@@ -3392,22 +3392,47 @@ DetailsDataStorage = {
 ["itemLevel"] = 596.4375,
 ["classId"] = 7,
 },
-["Ctair"] = {
-["total"] = 109221606,
-["itemLevel"] = 593.3125,
-["classId"] = 10,
-},
 ["Hamanu"] = {
 ["total"] = 139961583,
 ["itemLevel"] = 600.75,
 ["classId"] = 13,
 },
+["Ctair"] = {
+["total"] = 109221606,
+["itemLevel"] = 593.3125,
+["classId"] = 10,
 },
-["guild"] = "Chaotic Neutral",
+},
+["date"] = "18:32 17/09/24",
 },
 {
-["date"] = "18:40 24/09/24",
+["time"] = 1727224850,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 167.6809999999823,
+["date"] = "18:40 24/09/24",
+["servertime"] = 1727224850,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 126561554,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 52966472,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 120977158,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 119996578,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 161552159,
@@ -3459,10 +3484,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 134187652,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 124435238,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 167758382,
@@ -3474,10 +3499,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 139277426,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 170463559,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 67706659,
@@ -3489,67 +3514,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 164439744,
-["itemLevel"] = 608.8125,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 106159588,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 131218114,
 ["itemLevel"] = 606.6875,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 106159588,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 164439744,
+["itemLevel"] = 608.8125,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 177166416,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 170463559,
-["itemLevel"] = 606.4375,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 139277426,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 124435238,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 167.6809999999823,
-["servertime"] = 1727224850,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 126561554,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 52966472,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 119996578,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 120977158,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 134187652,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727224850,
 },
 {
+["date"] = "18:20 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727828402,
-["elapsed"] = 164.0789999999106,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 151574433,
@@ -3606,20 +3605,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 146675925,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 125922520,
+["itemLevel"] = 605.875,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 179780643,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 65672161,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 168977143,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 136239493,
@@ -3646,17 +3645,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 179780643,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 168977143,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 125922520,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 146675925,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 164.0789999999106,
 ["servertime"] = 1727828402,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -3674,24 +3674,54 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 78538000,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 44791076,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 78538000,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "18:20 01/10/24",
+},
+["time"] = 1727828402,
 },
 },
 [2921] = {
 {
-["date"] = "18:15 11/09/24",
+["time"] = 1726100129,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 486.2699999999968,
+["date"] = "18:15 11/09/24",
+["servertime"] = 1726100129,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 241199012,
+["itemLevel"] = 593.625,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 292345113,
+["itemLevel"] = 597.5,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 213726345,
+["itemLevel"] = 595.0625,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 258417166,
+["itemLevel"] = 580.8125,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 124201367,
+["itemLevel"] = 576.6875,
+["classId"] = 7,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 372730628,
@@ -3753,10 +3783,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 597.6875,
 ["classId"] = 9,
 },
-["Sinnaka"] = {
-["total"] = 251856031,
-["itemLevel"] = 579.125,
-["classId"] = 7,
+["Crîtoris"] = {
+["total"] = 253832098,
+["itemLevel"] = 589,
+["classId"] = 4,
 },
 ["Tynan"] = {
 ["total"] = 128585841,
@@ -3773,10 +3803,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 588.25,
 ["classId"] = 3,
 },
-["Crîtoris"] = {
-["total"] = 253832098,
-["itemLevel"] = 589,
-["classId"] = 4,
+["Sinnaka"] = {
+["total"] = 251856031,
+["itemLevel"] = 579.125,
+["classId"] = 7,
 },
 ["Radmus-Thrall"] = {
 ["total"] = 158323190,
@@ -3784,40 +3814,35 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["elapsed"] = 486.2699999999968,
-["servertime"] = 1726100129,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 241199012,
-["itemLevel"] = 593.625,
-["classId"] = 5,
 },
+{
+["time"] = 1727225500,
+["guild"] = "Chaotic Neutral",
+["elapsed"] = 325.7800000000279,
+["date"] = "18:51 24/09/24",
+["servertime"] = 1727225500,
+["HEALER"] = {
 ["Sulveris"] = {
-["total"] = 292345113,
-["itemLevel"] = 597.5,
+["total"] = 253511272,
+["itemLevel"] = 610.125,
 ["classId"] = 11,
 },
-["Hamanu"] = {
-["total"] = 213726345,
-["itemLevel"] = 595.0625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
-["total"] = 124201367,
-["itemLevel"] = 576.6875,
+["total"] = 141075861,
+["itemLevel"] = 605.75,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 260768212,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
 ["Ctair"] = {
-["total"] = 258417166,
-["itemLevel"] = 580.8125,
+["total"] = 270793554,
+["itemLevel"] = 603.25,
 ["classId"] = 10,
 },
 },
-["time"] = 1726100129,
-},
-{
-["date"] = "18:51 24/09/24",
-["guild"] = "Chaotic Neutral",
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 321322959,
@@ -3869,10 +3894,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 277886198,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 171436310,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 284779568,
@@ -3884,10 +3909,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.0625,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 187390967,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 293354199,
+["itemLevel"] = 606.4375,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 125286551,
@@ -3899,67 +3924,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 289837512,
-["itemLevel"] = 606.4375,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 79189670,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 92168239,
 ["itemLevel"] = 606.6875,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 79189670,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 289837512,
+["itemLevel"] = 606.4375,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 280066511,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 293354199,
-["itemLevel"] = 606.4375,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 187390967,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 171436310,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 325.7800000000279,
-["servertime"] = 1727225500,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 253511272,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 141075861,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 270793554,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 260768212,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 277886198,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727225500,
 },
 {
+["date"] = "18:28 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727828898,
-["elapsed"] = 288.3479999999981,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 280001750,
@@ -4016,20 +4015,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 294633239,
-["itemLevel"] = 611,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 245204233,
+["itemLevel"] = 605.875,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 299954027,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 131126041,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 183223587,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 209733595,
@@ -4056,17 +4055,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 299954027,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 183223587,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 245204233,
-["itemLevel"] = 605.875,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 294633239,
+["itemLevel"] = 611,
+["classId"] = 5,
 },
 },
+["elapsed"] = 288.3479999999981,
 ["servertime"] = 1727828898,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -4084,57 +4084,77 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 166557382,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 89012879,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 166557382,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "18:28 01/10/24",
+},
+["time"] = 1727828898,
 },
 },
 [2433] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724824302,
+["elapsed"] = 82.65499999999884,
 ["DAMAGER"] = {
 },
-["time"] = 1724824302,
-["date"] = "23:51 27/08/24",
-["elapsed"] = 82.65499999999884,
 ["servertime"] = 1724824301,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "23:51 27/08/24",
 },
 },
-[2423] = {
+[2422] = {
 {
+["guild"] = "Bench Squad",
+["time"] = 1724826379,
+["elapsed"] = 166.8450000000012,
 ["DAMAGER"] = {
 },
-["time"] = 1724823872,
-["date"] = "23:44 27/08/24",
-["elapsed"] = 28.59299999999348,
-["servertime"] = 1724823871,
+["servertime"] = 1724826378,
 ["HEALER"] = {
 },
-["guild"] = "Bench Squad",
+["date"] = "00:26 28/08/24",
 },
 },
 },
-["mythic"] = {
-},
-["Data"] = {
-},
-["VERSION"] = 7,
 ["heroic"] = {
 [2917] = {
 {
-["date"] = "19:40 24/09/24",
+["time"] = 1727228419,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 325.1630000000005,
+["date"] = "19:40 24/09/24",
+["servertime"] = 1727228419,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 304472560,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 159617477,
+["itemLevel"] = 607.0625,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 185755540,
+["itemLevel"] = 606.4,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 216380292,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 244356089,
@@ -4186,10 +4206,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 195313739,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 167051366,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 256363149,
@@ -4201,10 +4221,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.875,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 201262267,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 236244028,
+["itemLevel"] = 608.0625,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 123685764,
@@ -4216,67 +4236,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 230484148,
-["itemLevel"] = 609.4375,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 75949092,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 186289284,
 ["itemLevel"] = 608.3125,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 75949092,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 230484148,
+["itemLevel"] = 609.4375,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 182017462,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 236244028,
-["itemLevel"] = 608.0625,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 201262267,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 167051366,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 325.1630000000005,
-["servertime"] = 1727228419,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 304472560,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 159617477,
-["itemLevel"] = 607.0625,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 216380292,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 185755540,
-["itemLevel"] = 606.4,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 195313739,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727228419,
 },
 {
+["date"] = "19:11 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727831496,
-["elapsed"] = 299.8430000001099,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 244394223,
@@ -4328,10 +4322,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.5625,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 244869016,
-["itemLevel"] = 610.8125,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 230348994,
+["itemLevel"] = 607.625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 241504523,
@@ -4343,15 +4337,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 612,
 ["classId"] = 6,
 },
+["Mikya"] = {
+["total"] = 243516322,
+["itemLevel"] = 611.875,
+["classId"] = 8,
+},
 ["Brovatar"] = {
 ["total"] = 121210878,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 100247756,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 223735811,
@@ -4378,17 +4372,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 243516322,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 100247756,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 230348994,
-["itemLevel"] = 607.625,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 244869016,
+["itemLevel"] = 610.8125,
+["classId"] = 5,
 },
 },
+["elapsed"] = 299.8430000001099,
 ["servertime"] = 1727831496,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -4406,24 +4401,49 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 174032309,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 125368937,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 174032309,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "19:11 01/10/24",
+},
+["time"] = 1727831496,
 },
 },
 [2918] = {
 {
-["date"] = "20:19 24/09/24",
+["time"] = 1727230759,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 344.3740000000107,
+["date"] = "20:19 24/09/24",
+["servertime"] = 1727230760,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 343114270,
+["itemLevel"] = 610.5625,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 187498081,
+["itemLevel"] = 607.0625,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 279330958,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 289752399,
+["itemLevel"] = 603.875,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 281455324,
@@ -4475,10 +4495,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 223156068,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 98564335,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 205501639,
@@ -4490,10 +4510,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 612.0625,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 199102308,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 202749085,
+["itemLevel"] = 608.0625,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 131374338,
@@ -4505,67 +4525,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 240583747,
-["itemLevel"] = 607.8125,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 142283047,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 107122799,
 ["itemLevel"] = 608.3125,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 142283047,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 240583747,
+["itemLevel"] = 607.8125,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 203681695,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 202749085,
-["itemLevel"] = 608.0625,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 199102308,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 98564335,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 344.3740000000107,
-["servertime"] = 1727230760,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 343114270,
-["itemLevel"] = 610.5625,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 187498081,
-["itemLevel"] = 607.0625,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 289752399,
-["itemLevel"] = 603.875,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 279330958,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 223156068,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727230759,
 },
 {
+["date"] = "19:46 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727833619,
-["elapsed"] = 341.2029999999795,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 289357266,
@@ -4617,10 +4611,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.5625,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 260298572,
-["itemLevel"] = 611.8125,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 104420374,
+["itemLevel"] = 607.625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 117419589,
@@ -4632,15 +4626,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 612.875,
 ["classId"] = 6,
 },
+["Mikya"] = {
+["total"] = 263996185,
+["itemLevel"] = 611.875,
+["classId"] = 8,
+},
 ["Brovatar"] = {
 ["total"] = 164689819,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 271110799,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 127176425,
@@ -4667,17 +4661,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 263996185,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 271110799,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 104420374,
-["itemLevel"] = 607.625,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 260298572,
+["itemLevel"] = 611.8125,
+["classId"] = 5,
 },
 },
+["elapsed"] = 341.2029999999795,
 ["servertime"] = 1727833619,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -4695,24 +4690,49 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.8125,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 314449329,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 143115434,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 314449329,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "19:46 01/10/24",
+},
+["time"] = 1727833619,
 },
 },
 [2898] = {
 {
-["date"] = "20:00 24/09/24",
+["time"] = 1727229612,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 215.2270000000135,
+["date"] = "20:00 24/09/24",
+["servertime"] = 1727229612,
+["HEALER"] = {
+["Sulveris"] = {
+["total"] = 211675908,
+["itemLevel"] = 610.125,
+["classId"] = 11,
+},
+["Wandappy"] = {
+["total"] = 117258016,
+["itemLevel"] = 607.0625,
+["classId"] = 7,
+},
+["Hamanu"] = {
+["total"] = 194795927,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 179697947,
+["itemLevel"] = 603.25,
+["classId"] = 10,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 195683573,
@@ -4764,10 +4784,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 156480956,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 128531188,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 182037102,
@@ -4779,10 +4799,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.875,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 159626841,
-["itemLevel"] = 610.6,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 140229752,
+["itemLevel"] = 608.0625,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 89427087,
@@ -4794,67 +4814,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 172160346,
-["itemLevel"] = 607.9333333333333,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 119595308,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 144650586,
 ["itemLevel"] = 608.3125,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 119595308,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 172160346,
+["itemLevel"] = 607.9333333333333,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 177408160,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 140229752,
-["itemLevel"] = 608.0625,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 159626841,
+["itemLevel"] = 610.6,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 128531188,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 215.2270000000135,
-["servertime"] = 1727229612,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 211675908,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 117258016,
-["itemLevel"] = 607.0625,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 179697947,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 194795927,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 156480956,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727229612,
 },
 {
+["date"] = "19:28 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727832493,
-["elapsed"] = 198.8370000000577,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 179896964,
@@ -4906,10 +4900,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.5625,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 181330498,
-["itemLevel"] = 610.8125,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 169169856,
+["itemLevel"] = 607.625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 183271425,
@@ -4921,15 +4915,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 612.4375,
 ["classId"] = 6,
 },
+["Mikya"] = {
+["total"] = 159860921,
+["itemLevel"] = 611.875,
+["classId"] = 8,
+},
 ["Brovatar"] = {
 ["total"] = 80769489,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 182241731,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 159814661,
@@ -4956,17 +4950,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 159860921,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 182241731,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 169169856,
-["itemLevel"] = 607.625,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 181330498,
+["itemLevel"] = 610.8125,
+["classId"] = 5,
 },
 },
+["elapsed"] = 198.8370000000577,
 ["servertime"] = 1727832493,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -4984,64 +4979,32 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.8125,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 185348917,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 102926633,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 185348917,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "19:28 01/10/24",
+},
+["time"] = 1727832493,
 },
 },
 [2920] = {
 {
-["time"] = 1727920107,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 310.1499999999069,
-["date"] = "19:48 02/10/24",
-["servertime"] = 1727920108,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 302331425,
-["itemLevel"] = 611.75,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 275275512,
-["itemLevel"] = 614.25,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 249543798,
-["itemLevel"] = 609.25,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 171190813,
-["itemLevel"] = 610.875,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 271976566,
-["itemLevel"] = 612.375,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 308286841,
 ["itemLevel"] = 614.75,
 ["classId"] = 2,
 },
-["Radmus-Thrall"] = {
-["total"] = 253460083,
-["itemLevel"] = 610.625,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 270076304,
+["itemLevel"] = 611.8125,
+["classId"] = 5,
 },
 ["Rambozo"] = {
 ["total"] = 255967398,
@@ -5058,25 +5021,25 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.25,
 ["classId"] = 4,
 },
-["Mikya"] = {
-["total"] = 237790255,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 260422116,
+["itemLevel"] = 610.875,
+["classId"] = 9,
 },
 ["Zevaar"] = {
 ["total"] = 111754089,
 ["itemLevel"] = 613.8125,
 ["classId"] = 6,
 },
-["Yughiicsv-Stormrage"] = {
-["total"] = 260422116,
-["itemLevel"] = 610.875,
-["classId"] = 9,
-},
 ["Brovatar"] = {
 ["total"] = 102051140,
 ["itemLevel"] = 614.25,
 ["classId"] = 1,
+},
+["Mikya"] = {
+["total"] = 237790255,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Bubzasoraz-Sargeras"] = {
 ["total"] = 266095652,
@@ -5108,18 +5071,80 @@ DetailsDataStorage = {
 ["itemLevel"] = 612.625,
 ["classId"] = 9,
 },
-["Healzizzle-Area52"] = {
-["total"] = 270076304,
-["itemLevel"] = 611.8125,
+["Radmus-Thrall"] = {
+["total"] = 253460083,
+["itemLevel"] = 610.625,
+["classId"] = 8,
+},
+},
+["time"] = 1727920107,
+["date"] = "19:48 02/10/24",
+["elapsed"] = 310.1499999999069,
+["servertime"] = 1727920108,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 302331425,
+["itemLevel"] = 611.75,
 ["classId"] = 5,
 },
+["Sulveris"] = {
+["total"] = 275275512,
+["itemLevel"] = 614.25,
+["classId"] = 11,
 },
+["Hamanu"] = {
+["total"] = 249543798,
+["itemLevel"] = 609.25,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 271976566,
+["itemLevel"] = 612.375,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 171190813,
+["itemLevel"] = 610.875,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 },
 [2902] = {
 {
-["date"] = "19:26 11/09/24",
+["time"] = 1726104390,
 ["guild"] = "Chaotic Neutral",
+["elapsed"] = 534.8580000000075,
+["date"] = "19:26 11/09/24",
+["servertime"] = 1726104390,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 346063235,
+["itemLevel"] = 593.625,
+["classId"] = 5,
+},
+["Sulveris"] = {
+["total"] = 325182058,
+["itemLevel"] = 598.0625,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 355409848,
+["itemLevel"] = 595.0625,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 216247220,
+["itemLevel"] = 582.4375,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 162261730,
+["itemLevel"] = 578.875,
+["classId"] = 7,
+},
+},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 335862628,
@@ -5181,10 +5206,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 597.6875,
 ["classId"] = 9,
 },
-["Sinnaka"] = {
-["total"] = 206816085,
-["itemLevel"] = 581.6875,
-["classId"] = 7,
+["Crîtoris"] = {
+["total"] = 173984964,
+["itemLevel"] = 589,
+["classId"] = 4,
 },
 ["Tynan"] = {
 ["total"] = 258975765,
@@ -5201,10 +5226,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 588.25,
 ["classId"] = 3,
 },
-["Crîtoris"] = {
-["total"] = 173984964,
-["itemLevel"] = 589,
-["classId"] = 4,
+["Sinnaka"] = {
+["total"] = 206816085,
+["itemLevel"] = 581.6875,
+["classId"] = 7,
 },
 ["Radmus-Thrall"] = {
 ["total"] = 36473688,
@@ -5212,40 +5237,35 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["elapsed"] = 534.8580000000075,
-["servertime"] = 1726104390,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 346063235,
-["itemLevel"] = 593.625,
-["classId"] = 5,
 },
+{
+["time"] = 1727227180,
+["guild"] = "Chaotic Neutral",
+["elapsed"] = 270.8479999999981,
+["date"] = "19:19 24/09/24",
+["servertime"] = 1727227180,
+["HEALER"] = {
 ["Sulveris"] = {
-["total"] = 325182058,
-["itemLevel"] = 598.0625,
+["total"] = 235877512,
+["itemLevel"] = 610.125,
 ["classId"] = 11,
 },
-["Hamanu"] = {
-["total"] = 355409848,
-["itemLevel"] = 595.0625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
-["total"] = 162261730,
-["itemLevel"] = 578.875,
+["total"] = 105291287,
+["itemLevel"] = 605.75,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 212768926,
+["itemLevel"] = 607.1875,
+["classId"] = 13,
+},
 ["Ctair"] = {
-["total"] = 216247220,
-["itemLevel"] = 582.4375,
+["total"] = 185047418,
+["itemLevel"] = 603.25,
 ["classId"] = 10,
 },
 },
-["time"] = 1726104390,
-},
-{
-["date"] = "19:19 24/09/24",
-["guild"] = "Chaotic Neutral",
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 164292931,
@@ -5297,10 +5317,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 608.875,
 ["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 169721494,
-["itemLevel"] = 605.875,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 154342687,
+["itemLevel"] = 601.0625,
+["classId"] = 8,
 },
 ["Verbs"] = {
 ["total"] = 189928203,
@@ -5312,10 +5332,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.875,
 ["classId"] = 6,
 },
-["Aeolock"] = {
-["total"] = 173950802,
-["itemLevel"] = 611.125,
-["classId"] = 9,
+["Mikya"] = {
+["total"] = 185730542,
+["itemLevel"] = 608.0625,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 100418451,
@@ -5327,67 +5347,41 @@ DetailsDataStorage = {
 ["itemLevel"] = 604.625,
 ["classId"] = 9,
 },
-["Hackattack-Area52"] = {
-["total"] = 164548328,
-["itemLevel"] = 607.8125,
-["classId"] = 6,
+["Zizzix-Duskwood"] = {
+["total"] = 120965647,
+["itemLevel"] = 601.0625,
+["classId"] = 9,
 },
 ["Lumberbuddy"] = {
 ["total"] = 144553336,
 ["itemLevel"] = 608.3125,
 ["classId"] = 11,
 },
-["Zizzix-Duskwood"] = {
-["total"] = 120965647,
-["itemLevel"] = 601.0625,
-["classId"] = 9,
+["Hackattack-Area52"] = {
+["total"] = 164548328,
+["itemLevel"] = 607.8125,
+["classId"] = 6,
 },
 ["Lotsofcabage-AeriePeak"] = {
 ["total"] = 233692596,
 ["itemLevel"] = 611.0625,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 185730542,
-["itemLevel"] = 608.0625,
-["classId"] = 8,
+["Aeolock"] = {
+["total"] = 173950802,
+["itemLevel"] = 611.125,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 154342687,
-["itemLevel"] = 601.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 270.8479999999981,
-["servertime"] = 1727227180,
-["HEALER"] = {
-["Sulveris"] = {
-["total"] = 235877512,
-["itemLevel"] = 610.125,
-["classId"] = 11,
-},
-["Wandappy"] = {
-["total"] = 105291287,
-["itemLevel"] = 605.75,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 185047418,
-["itemLevel"] = 603.25,
-["classId"] = 10,
-},
-["Hamanu"] = {
-["total"] = 212768926,
-["itemLevel"] = 607.1875,
-["classId"] = 13,
+["Healzizzle-Area52"] = {
+["total"] = 169721494,
+["itemLevel"] = 605.875,
+["classId"] = 5,
 },
 },
-["time"] = 1727227180,
 },
 {
+["date"] = "18:54 01/10/24",
 ["guild"] = "Chaotic Neutral",
-["time"] = 1727830458,
-["elapsed"] = 241.3459999999031,
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 188227990,
@@ -5444,20 +5438,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.4375,
 ["classId"] = 3,
 },
-["Healzizzle-Area52"] = {
-["total"] = 196248470,
-["itemLevel"] = 610.8125,
-["classId"] = 5,
+["Radmus-Thrall"] = {
+["total"] = 154971594,
+["itemLevel"] = 607.625,
+["classId"] = 8,
+},
+["Mikya"] = {
+["total"] = 165149934,
+["itemLevel"] = 611.875,
+["classId"] = 8,
 },
 ["Brovatar"] = {
 ["total"] = 94606379,
 ["itemLevel"] = 611.9375,
 ["classId"] = 1,
-},
-["Yughiicsv-Stormrage"] = {
-["total"] = 202447217,
-["itemLevel"] = 609.5,
-["classId"] = 9,
 },
 ["Aeolock"] = {
 ["total"] = 160960370,
@@ -5484,17 +5478,18 @@ DetailsDataStorage = {
 ["itemLevel"] = 614.3125,
 ["classId"] = 3,
 },
-["Mikya"] = {
-["total"] = 165149934,
-["itemLevel"] = 611.875,
-["classId"] = 8,
+["Yughiicsv-Stormrage"] = {
+["total"] = 202447217,
+["itemLevel"] = 609.5,
+["classId"] = 9,
 },
-["Radmus-Thrall"] = {
-["total"] = 154971594,
-["itemLevel"] = 607.625,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 196248470,
+["itemLevel"] = 610.8125,
+["classId"] = 5,
 },
 },
+["elapsed"] = 241.3459999999031,
 ["servertime"] = 1727830458,
 ["HEALER"] = {
 ["Addlee"] = {
@@ -5512,54 +5507,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 610.5625,
 ["classId"] = 10,
 },
-["Hamanu"] = {
-["total"] = 180785522,
-["itemLevel"] = 609.625,
-["classId"] = 13,
-},
 ["Wandappy"] = {
 ["total"] = 74124488,
 ["itemLevel"] = 610.875,
 ["classId"] = 7,
 },
+["Hamanu"] = {
+["total"] = 180785522,
+["itemLevel"] = 609.625,
+["classId"] = 13,
 },
-["date"] = "18:54 01/10/24",
+},
+["time"] = 1727830458,
 },
 },
 [2919] = {
 {
-["time"] = 1727913066,
-["guild"] = "Chaotic Neutral",
-["elapsed"] = 395.8249999999534,
-["date"] = "17:51 02/10/24",
-["servertime"] = 1727913066,
-["HEALER"] = {
-["Addlee"] = {
-["total"] = 419847330,
-["itemLevel"] = 611.75,
-["classId"] = 5,
-},
-["Sulveris"] = {
-["total"] = 365448721,
-["itemLevel"] = 614.25,
-["classId"] = 11,
-},
-["Hamanu"] = {
-["total"] = 376623357,
-["itemLevel"] = 609.25,
-["classId"] = 13,
-},
-["Wandappy"] = {
-["total"] = 196822166,
-["itemLevel"] = 610.875,
-["classId"] = 7,
-},
-["Ctair"] = {
-["total"] = 404297593,
-["itemLevel"] = 611.75,
-["classId"] = 10,
-},
-},
 ["DAMAGER"] = {
 ["Amdam"] = {
 ["total"] = 415185060,
@@ -5616,15 +5579,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 611.875,
 ["classId"] = 8,
 },
-["Radmus-Thrall"] = {
-["total"] = 426115998,
-["itemLevel"] = 610.625,
-["classId"] = 8,
+["Healzizzle-Area52"] = {
+["total"] = 365840180,
+["itemLevel"] = 611.8125,
+["classId"] = 5,
 },
-["Brovatar"] = {
-["total"] = 186802843,
-["itemLevel"] = 614.25,
-["classId"] = 1,
+["Tynan"] = {
+["total"] = 349467886,
+["itemLevel"] = 613.9375,
+["classId"] = 9,
 },
 ["Hackattack-Area52"] = {
 ["total"] = 377848194,
@@ -5636,23 +5599,60 @@ DetailsDataStorage = {
 ["itemLevel"] = 615.0625,
 ["classId"] = 3,
 },
-["Tynan"] = {
-["total"] = 349467886,
-["itemLevel"] = 613.9375,
-["classId"] = 9,
+["Brovatar"] = {
+["total"] = 186802843,
+["itemLevel"] = 614.25,
+["classId"] = 1,
 },
-["Healzizzle-Area52"] = {
-["total"] = 365840180,
-["itemLevel"] = 611.8125,
+["Radmus-Thrall"] = {
+["total"] = 426115998,
+["itemLevel"] = 610.625,
+["classId"] = 8,
+},
+},
+["time"] = 1727913066,
+["date"] = "17:51 02/10/24",
+["elapsed"] = 395.8249999999534,
+["servertime"] = 1727913066,
+["HEALER"] = {
+["Addlee"] = {
+["total"] = 419847330,
+["itemLevel"] = 611.75,
 ["classId"] = 5,
 },
+["Sulveris"] = {
+["total"] = 365448721,
+["itemLevel"] = 614.25,
+["classId"] = 11,
+},
+["Hamanu"] = {
+["total"] = 376623357,
+["itemLevel"] = 609.25,
+["classId"] = 13,
+},
+["Ctair"] = {
+["total"] = 404297593,
+["itemLevel"] = 611.75,
+["classId"] = 10,
+},
+["Wandappy"] = {
+["total"] = 196822166,
+["itemLevel"] = 610.875,
+["classId"] = 7,
+},
+},
+["guild"] = "Chaotic Neutral",
 },
 },
 },
+["saved_encounters"] = {
+},
+["VERSION"] = 7,
+["mythic"] = {
 },
 ["mythic_plus"] = {
 },
-["saved_encounters"] = {
+["Data"] = {
 },
 ["totalkills"] = {
 ["normal"] = {
@@ -5662,10 +5662,10 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [2919] = {
 ["time_incombat"] = 0,
@@ -5673,10 +5673,10 @@ DetailsDataStorage = {
 ["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [2921] = {
 ["time_incombat"] = 0,
@@ -5684,10 +5684,10 @@ DetailsDataStorage = {
 ["wipes"] = 10,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [2922] = {
 ["time_incombat"] = 0,
@@ -5695,10 +5695,10 @@ DetailsDataStorage = {
 ["wipes"] = 4,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
 },
 },
 [2919] = {
@@ -5708,10 +5708,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 963449.4009526127,
-["dps_best_when"] = 1727224850,
-["time_fasterkill_when"] = 1727828402,
-["dps_best_raid_when"] = 1727224850,
 ["dps_best_raid"] = 17960751.12266934,
+["time_fasterkill_when"] = 1727828402,
+["dps_best_when"] = 1727224850,
+["dps_best_raid_when"] = 1727224850,
 },
 ["heroic"] = {
 ["time_incombat"] = 395.8249999999534,
@@ -5719,10 +5719,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1048910.654967382,
-["dps_best_when"] = 1727913066,
-["time_fasterkill_when"] = 1727913066,
-["dps_best_raid_when"] = 1727913066,
 ["dps_best_raid"] = 14913550.56906637,
+["time_fasterkill_when"] = 1727913066,
+["dps_best_when"] = 1727913066,
+["dps_best_raid_when"] = 1727913066,
 },
 },
 [2920] = {
@@ -5732,10 +5732,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 857802.3448244147,
-["dps_best_when"] = 1727827905,
-["time_fasterkill_when"] = 1727223793,
-["dps_best_raid_when"] = 1727223793,
 ["dps_best_raid"] = 14551171.88214082,
+["time_fasterkill_when"] = 1727223793,
+["dps_best_when"] = 1727827905,
+["dps_best_raid_when"] = 1727223793,
 },
 ["heroic"] = {
 ["time_incombat"] = 310.1499999999069,
@@ -5743,10 +5743,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 993992.7164322637,
-["dps_best_when"] = 1727920107,
-["time_fasterkill_when"] = 1727920107,
-["dps_best_raid_when"] = 1727920107,
 ["dps_best_raid"] = 10805886.3227503,
+["time_fasterkill_when"] = 1727920107,
+["dps_best_when"] = 1727920107,
+["dps_best_raid_when"] = 1727920107,
 },
 },
 [2898] = {
@@ -5756,10 +5756,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 934468.6723933438,
-["dps_best_when"] = 1727222794,
-["time_fasterkill_when"] = 1727826915,
-["dps_best_raid_when"] = 1727826915,
 ["dps_best_raid"] = 16076104.2468752,
+["time_fasterkill_when"] = 1727826915,
+["dps_best_when"] = 1727222794,
+["dps_best_raid_when"] = 1727826915,
 },
 ["heroic"] = {
 ["time_incombat"] = 414.0640000000713,
@@ -5767,10 +5767,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 909196.2114724069,
-["dps_best_raid"] = 16833092.22126178,
+["dps_best_when"] = 1727229612,
 ["time_fasterkill_when"] = 1727832493,
 ["dps_best_raid_when"] = 1727832493,
-["dps_best_when"] = 1727229612,
+["dps_best_raid"] = 16833092.22126178,
 },
 },
 [2921] = {
@@ -5780,10 +5780,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 3,
 ["dps_best"] = 986318.8624425116,
-["dps_best_raid"] = 17413222.075409,
+["dps_best_when"] = 1727225500,
 ["time_fasterkill_when"] = 1727828898,
 ["dps_best_raid_when"] = 1727828898,
-["dps_best_when"] = 1727225500,
+["dps_best_raid"] = 17413222.075409,
 },
 },
 [2922] = {
@@ -5793,10 +5793,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 3,
 ["dps_best"] = 646374.1315418123,
-["dps_best_raid"] = 10921333.17027331,
+["dps_best_when"] = 1727226039,
 ["time_fasterkill_when"] = 1727829689,
 ["dps_best_raid_when"] = 1727829689,
-["dps_best_when"] = 1727226039,
+["dps_best_raid"] = 10921333.17027331,
 },
 },
 [2902] = {
@@ -5806,10 +5806,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 4,
 ["dps_best"] = 667445.3805657787,
-["dps_best_when"] = 1727825703,
-["time_fasterkill_when"] = 1727221184,
-["dps_best_raid_when"] = 1727221184,
 ["dps_best_raid"] = 12303279.17052951,
+["time_fasterkill_when"] = 1727221184,
+["dps_best_when"] = 1727825703,
+["dps_best_raid_when"] = 1727221184,
 },
 ["heroic"] = {
 ["time_incombat"] = 1047.051999999909,
@@ -5817,58 +5817,10 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 3,
 ["dps_best"] = 779909.3003682827,
-["dps_best_raid"] = 14432340.59815119,
+["dps_best_when"] = 1727830458,
 ["time_fasterkill_when"] = 1727830458,
 ["dps_best_raid_when"] = 1727830458,
-["dps_best_when"] = 1727830458,
-},
-},
-[2917] = {
-["normal"] = {
-["time_incombat"] = 708.3339999998861,
-["time_fasterkill"] = 130.4510000000009,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 861841.1817884125,
-["dps_best_when"] = 1727221730,
-["time_fasterkill_when"] = 1727221730,
-["dps_best_raid_when"] = 1727221730,
-["dps_best_raid"] = 15696482.04306587,
-},
-["heroic"] = {
-["time_incombat"] = 625.0060000001104,
-["time_fasterkill"] = 299.8430000001099,
-["wipes"] = 0,
-["kills"] = 2,
-["dps_best"] = 815073.9653832052,
-["dps_best_raid"] = 14148181.40159499,
-["time_fasterkill_when"] = 1727831496,
-["dps_best_raid_when"] = 1727831496,
-["dps_best_when"] = 1727831496,
-},
-},
-[2918] = {
-["normal"] = {
-["time_incombat"] = 753.0830000000424,
-["time_fasterkill"] = 156.6620000000112,
-["wipes"] = 0,
-["kills"] = 4,
-["dps_best"] = 880472.6470953838,
-["dps_best_when"] = 1727223169,
-["time_fasterkill_when"] = 1727827419,
-["dps_best_raid_when"] = 1727827419,
-["dps_best_raid"] = 15130549.43125858,
-},
-["heroic"] = {
-["time_incombat"] = 685.5769999999902,
-["time_fasterkill"] = 341.2029999999795,
-["wipes"] = 0,
-["kills"] = 2,
-["dps_best"] = 848050.1812942746,
-["dps_best_raid"] = 13217815.65226645,
-["time_fasterkill_when"] = 1727833619,
-["dps_best_raid_when"] = 1727833619,
-["dps_best_when"] = 1727833619,
+["dps_best_raid"] = 14432340.59815119,
 },
 },
 ["heroic"] = {
@@ -5878,10 +5830,10 @@ DetailsDataStorage = {
 ["wipes"] = 8,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [2918] = {
 ["time_incombat"] = 0,
@@ -5889,10 +5841,10 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [2919] = {
 ["time_incombat"] = 0,
@@ -5900,10 +5852,10 @@ DetailsDataStorage = {
 ["wipes"] = 5,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2920] = {
 ["time_incombat"] = 0,
@@ -5911,10 +5863,10 @@ DetailsDataStorage = {
 ["wipes"] = 11,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [2921] = {
 ["time_incombat"] = 0,
@@ -5922,10 +5874,10 @@ DetailsDataStorage = {
 ["wipes"] = 5,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [2898] = {
 ["time_incombat"] = 0,
@@ -5933,10 +5885,58 @@ DetailsDataStorage = {
 ["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_when"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+},
+[2918] = {
+["normal"] = {
+["time_incombat"] = 753.0830000000424,
+["time_fasterkill"] = 156.6620000000112,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 880472.6470953838,
+["dps_best_raid"] = 15130549.43125858,
+["time_fasterkill_when"] = 1727827419,
+["dps_best_when"] = 1727223169,
+["dps_best_raid_when"] = 1727827419,
+},
+["heroic"] = {
+["time_incombat"] = 685.5769999999902,
+["time_fasterkill"] = 341.2029999999795,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 848050.1812942746,
+["dps_best_when"] = 1727833619,
+["time_fasterkill_when"] = 1727833619,
+["dps_best_raid_when"] = 1727833619,
+["dps_best_raid"] = 13217815.65226645,
+},
+},
+[2917] = {
+["normal"] = {
+["time_incombat"] = 708.3339999998861,
+["time_fasterkill"] = 130.4510000000009,
+["wipes"] = 0,
+["kills"] = 4,
+["dps_best"] = 861841.1817884125,
+["dps_best_raid"] = 15696482.04306587,
+["time_fasterkill_when"] = 1727221730,
+["dps_best_when"] = 1727221730,
+["dps_best_raid_when"] = 1727221730,
+},
+["heroic"] = {
+["time_incombat"] = 625.0060000001104,
+["time_fasterkill"] = 299.8430000001099,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 815073.9653832052,
+["dps_best_when"] = 1727831496,
+["time_fasterkill_when"] = 1727831496,
+["dps_best_raid_when"] = 1727831496,
+["dps_best_raid"] = 14148181.40159499,
 },
 },
 },

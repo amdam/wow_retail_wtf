@@ -214,15 +214,15 @@ ElitismLog = {
 ["sumOverkill"] = -1,
 ["sum"] = 1861308,
 },
-[443311] = {
-["cnt"] = 2,
-["sumOverkill"] = -1,
-["sum"] = 1073318,
-},
 [445838] = {
 ["cnt"] = 3,
 ["sumOverkill"] = -3,
 ["sum"] = 1804490,
+},
+[443311] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 1073318,
 },
 },
 ["auracnt"] = 2,
@@ -267,10 +267,10 @@ ElitismLog = {
 ["sumOverkill"] = -2,
 ["sum"] = 4168380,
 },
-[272546] = {
+[256663] = {
 ["cnt"] = 2,
 ["sumOverkill"] = -2,
-["sum"] = 2567932,
+["sum"] = 3790084,
 },
 [257886] = {
 ["cnt"] = 2,
@@ -282,15 +282,15 @@ ElitismLog = {
 ["sumOverkill"] = -2,
 ["sum"] = 6219424,
 },
-[256663] = {
-["cnt"] = 2,
-["sumOverkill"] = -2,
-["sum"] = 3790084,
-},
 [257069] = {
 ["cnt"] = 4,
 ["sumOverkill"] = -2,
 ["sum"] = 86768,
+},
+[272546] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 2567932,
 },
 },
 ["auracnt"] = 16,

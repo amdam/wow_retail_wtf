@@ -93,15 +93,15 @@ OPie_SavedData = {
 ["show"] = "[spec:64/63] hide;",
 ["sliceToken"] = "ABue376TIGe",
 },
-["name"] = "Equipment sets",
+["limit"] = "Adamancy-Turalyon",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["limit"] = "Adamancy-Turalyon",
+["name"] = "Equipment sets",
 },
 ["CommonTrades"] = {
 {
-["sliceToken"] = "OPCCTc",
 ["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+["sliceToken"] = "OPCCTc",
 ["vm"] = 2,
 },
 {
@@ -120,13 +120,13 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTfj",
 ["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTj",
 ["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
+["sliceToken"] = "OPCCTj",
 ["vm"] = 2,
 },
 {
@@ -149,8 +149,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTr",
 ["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+["sliceToken"] = "OPCCTr",
 ["vm"] = 2,
 },
 {
@@ -166,8 +166,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTl",
 },
 {
-["sliceToken"] = "OPCCTm",
 ["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
+["sliceToken"] = "OPCCTm",
 },
 {
 ["sliceToken"] = "ABueaL4inxa",
@@ -188,8 +188,8 @@ OPie_SavedData = {
 ["id2"] = 51300,
 },
 {
-["c"] = "3319e5",
 ["sliceToken"] = "ABueaL4inx2",
+["c"] = "3319e5",
 ["id"] = 25229,
 ["id2"] = 51311,
 },
@@ -206,8 +206,8 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["c"] = "c13f0f",
 ["sliceToken"] = "ABueaL4inxy",
+["c"] = "c13f0f",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
@@ -276,21 +276,21 @@ OPie_SavedData = {
 ["onlyNonEmpty"] = true,
 },
 {
-["sliceToken"] = "OPCPAt",
 ["id"] = 1022,
+["sliceToken"] = "OPCPAt",
 },
 {
-["sliceToken"] = "OPCPAe",
 ["id"] = 1044,
+["sliceToken"] = "OPCPAe",
 },
 {
 ["id"] = 25780,
 ["sliceToken"] = "OPCPAf",
 },
-["name"] = "Paladin Buffs",
+["limit"] = "PALADIN",
 ["save"] = true,
 ["hotkey"] = "ALT-P",
-["limit"] = "PALADIN",
+["name"] = "Paladin Buffs",
 },
 ["MageTravel"] = {
 {
@@ -431,10 +431,10 @@ OPie_SavedData = {
 ["show"] = "[spec:70/66] hide;",
 ["sliceToken"] = "ABues6epD11",
 },
-["limit"] = "Amdam-Turalyon",
+["name"] = "Equipment Sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment Sets",
+["limit"] = "Amdam-Turalyon",
 },
 ["ipmentSets1"] = {
 {

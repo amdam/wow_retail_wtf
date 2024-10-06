@@ -10,7 +10,7 @@ VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Mana Spring Totem] Mana Spring Totem; [known:Healing Stream Totem] Healing Stream Totem;
+/cast [mod:alt,known:Thunderstorm] Thunderstorm; [known:Healing Stream Totem] Healing Stream Totem;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
@@ -41,5 +41,11 @@ END
 VER 3 010000000000000A " " "134400"
 #showtooltip
 /cast [mod:alt,known:Primordial Wave] Primordial Wave; Lava Burst;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip
+/stopcasting
+/cast [@mouseover, help, nodead][help, nodead][@player] Purify Spirit
 /script UIErrorsFrame:Clear()
 END

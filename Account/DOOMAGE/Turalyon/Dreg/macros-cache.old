@@ -30,7 +30,7 @@ VER 3 0100000000000008 " " "134400"
 END
 VER 3 0100000000000009 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Thunderstorm] Thunderstorm; Primordial Wave;
+/cast [mod:alt,known:Thunderstorm] Thunderstorm; Frost Shock;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -40,6 +40,6 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A " " "134400"
 #showtooltip
-/cast [mod:alt] Lava Burst; Frost Shock;
+/cast [mod:alt,known:Primordial Wave] Primordial Wave; Lava Burst;
 /script UIErrorsFrame:Clear()
 END

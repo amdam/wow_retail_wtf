@@ -2,7 +2,6 @@
 ElvCharacterDB = {
 ["ConvertKeybindings"] = true,
 ["ChatEditHistory"] = {
-"/p but get at least one for every disturbed dirt pile you loot",
 "/p so i always try to loot those",
 "/p i can check if my dk can",
 "/p you don't have one already?",
@@ -22,6 +21,7 @@ ElvCharacterDB = {
 "/p ok my quest is to meet speaker brinthe in the earthworks",
 "/p looks like right where you are now",
 "/p where did you go",
+"/wa",
 },
 ["ChatHistoryLog"] = {
 {

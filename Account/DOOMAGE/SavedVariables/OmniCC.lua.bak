@@ -1,42 +1,42 @@
 
 OmniCCDB = {
+["global"] = {
+["dbVersion"] = 6,
+["addonVersion"] = "11.0.2",
+},
 ["profileKeys"] = {
 ["Fernie - Turalyon"] = "Default",
-["Adomic - Turalyon"] = "Default",
+["Shado - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Allevin - Turalyon"] = "Default",
-["Kurate - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
+["Artoc - Zul'jin"] = "Default",
 ["Adrid - Turalyon"] = "Default",
 ["Caldo - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
 ["Jakar - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
-["Artoc - Zul'jin"] = "Default",
-["Adaam - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Artoc - Silvermoon"] = "Default",
+["Broddah - Doomhammer"] = "Default",
 ["Furrys - Turalyon"] = "Default",
-["Adreya - Bloodscalp"] = "Default",
-["Christifur - Turalyon"] = "Default",
+["Svend - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Aduum - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
-["Svend - Turalyon"] = "Default",
-["Broddah - Doomhammer"] = "Default",
-["Abel - Turalyon"] = "Default",
+["Christifur - Turalyon"] = "Default",
+["Adreya - Bloodscalp"] = "Default",
+["Artoc - Silvermoon"] = "Default",
+["Adaam - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
-["Shado - Turalyon"] = "Default",
-},
-["global"] = {
-["dbVersion"] = 6,
-["addonVersion"] = "11.0.2",
+["Kurate - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -64,9 +64,9 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
-["soon"] = {
-},
 ["minutes"] = {
+},
+["soon"] = {
 },
 ["seconds"] = {
 },
@@ -102,9 +102,9 @@ OmniCCDB = {
 },
 ["Ignore"] = {
 ["textStyles"] = {
-["minutes"] = {
-},
 ["seconds"] = {
+},
+["minutes"] = {
 },
 ["soon"] = {
 },
@@ -125,18 +125,6 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
-["version"] = "8.2.5",
-["groups"] = {
-{
-["id"] = "Ignore",
-["rules"] = {
-"LossOfControl",
-"TotemFrame",
-},
-["enabled"] = true,
-},
-},
-["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -190,11 +178,11 @@ OmniCC4Config = {
 ["yOff"] = 0,
 ["xOff"] = 0,
 ["version"] = "3.1.4",
-["fontFace"] = "Fonts\\FRIZQT__.TTF",
-["fontSize"] = 18,
-["minEffectDuration"] = 30,
-["minSize"] = 0.5,
 ["scaleText"] = true,
+["minSize"] = 0.5,
+["minEffectDuration"] = 30,
+["fontSize"] = 18,
+["fontFace"] = "Fonts\\FRIZQT__.TTF",
 },
 ["Ignore"] = {
 ["fontSize"] = 18,
@@ -209,9 +197,7 @@ OmniCC4Config = {
 ["yOff"] = 0,
 ["xOff"] = 0,
 ["version"] = "3.1.4",
-["scaleText"] = true,
-["minSize"] = 0.5,
-["minEffectDuration"] = 30,
+["fontFace"] = "Fonts\\FRIZQT__.TTF",
 ["styles"] = {
 ["soon"] = {
 ["a"] = 1,
@@ -251,7 +237,21 @@ OmniCC4Config = {
 ["controlled"] = {
 },
 },
-["fontFace"] = "Fonts\\FRIZQT__.TTF",
+["minEffectDuration"] = 30,
+["minSize"] = 0.5,
+["scaleText"] = true,
+},
+},
+["engine"] = "AniUpdater",
+["version"] = "8.2.5",
+["groups"] = {
+{
+["id"] = "Ignore",
+["rules"] = {
+"LossOfControl",
+"TotemFrame",
+},
+["enabled"] = true,
 },
 },
 }
