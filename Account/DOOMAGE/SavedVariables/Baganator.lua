@@ -16,19 +16,20 @@ BAGANATOR_CONFIG = {
 ["default_battlepet"] = true,
 ["default_food"] = true,
 ["default_reagent"] = true,
-["default_special_empty"] = true,
 ["default_junk"] = true,
+["default_special_empty"] = true,
 ["default_miscellaneous"] = true,
+["default_key"] = true,
 ["default_consumable"] = true,
 ["default_tradegoods"] = true,
-["default_key"] = true,
 ["default_container"] = true,
-["default_profession"] = true,
+["default_keystone"] = true,
 ["default_auto_equipment_sets"] = true,
+["default_profession"] = true,
 ["default_potion"] = true,
 ["default_gem"] = true,
-["default_weapon"] = true,
 ["default_recipe"] = true,
+["default_weapon"] = true,
 },
 ["debug_categories_search"] = false,
 ["bank_view_width"] = 24,
@@ -62,7 +63,7 @@ BAGANATOR_CONFIG = {
 ["Kayne-Turalyon"] = 0,
 ["Amdam-Turalyon"] = 0,
 },
-["warband_current_tab"] = 1,
+["warband_current_tab"] = 0,
 ["category_item_grouping"] = true,
 ["icon_top_left_corner_array"] = {
 "junk",
@@ -75,6 +76,7 @@ BAGANATOR_CONFIG = {
 "default_auto_recents",
 "----",
 "default_hearthstone",
+"default_keystone",
 "default_potion",
 "default_food",
 "default_consumable",
@@ -107,8 +109,8 @@ BAGANATOR_CONFIG = {
 ["show_buttons_on_alt"] = false,
 ["main_view_position"] = {
 "RIGHT",
--413.6962890625,
-181.6560668945313,
+-402.05908203125,
+89.85833740234375,
 },
 ["bank_only_view_show_bag_slots"] = true,
 ["icon_bottom_left_corner_array"] = {
@@ -125,7 +127,7 @@ BAGANATOR_CONFIG = {
 },
 ["bag_empty_space_at_top"] = false,
 ["category_horizontal_spacing_2"] = 0.3,
-["category_default_import"] = 1,
+["category_default_import"] = 2,
 ["add_to_category_buttons"] = true,
 ["currencies_tracked_imported"] = {
 },
@@ -144,11 +146,25 @@ BAGANATOR_CONFIG = {
 ["view_type"] = "unset",
 ["icon_text_quality_colors"] = false,
 ["currencies_tracked"] = {
-["Kayne-Turalyon"] = {
+["Adamian-Turalyon"] = {
 },
 ["Adamancy-Turalyon"] = {
 },
+["Adamantium-Turalyon"] = {
+},
+["Kaydan-Turalyon"] = {
+},
 ["Dreg-Turalyon"] = {
+},
+["Kayne-Turalyon"] = {
+},
+["Badam-Turalyon"] = {
+},
+["Abel-Turalyon"] = {
+},
+["Powerpriest-Turalyon"] = {
+},
+["Drunkan-Turalyon"] = {
 },
 ["Amdam-Turalyon"] = {
 },
@@ -163,17 +179,19 @@ BAGANATOR_CONFIG = {
 ["guild_bank_sort_method"] = "unset",
 ["debug_keywords"] = false,
 ["recent_characters_main_view"] = {
-"Adamancy-Turalyon",
-"Dreg-Turalyon",
-"Kayne-Turalyon",
 "Amdam-Turalyon",
-"Drunkan-Turalyon",
 "Badam-Turalyon",
+"Adamancy-Turalyon",
 "Abel-Turalyon",
+"Adamian-Turalyon",
+"Kayne-Turalyon",
+"Drunkan-Turalyon",
+"Powerpriest-Turalyon",
+"Kaydan-Turalyon",
+"Dreg-Turalyon",
+"Adamantium-Turalyon",
 "Adamn-Turalyon",
 "Adrid-Turalyon",
-"Adamian-Turalyon",
-"Kaydan-Turalyon",
 "Allevin-Turalyon",
 "Christoff-Turalyon",
 "Adaam-Turalyon",
@@ -181,13 +199,12 @@ BAGANATOR_CONFIG = {
 "Tupac-Turalyon",
 "Jakar-Turalyon",
 "Kurate-Turalyon",
-"Fernie-Turalyon",
-"Aduum-Turalyon",
 },
 ["category_group_empty_slots"] = true,
 ["auto_sort_on_open"] = false,
 ["category_section_toggled"] = {
 ["Equipment"] = false,
+["Crafting"] = false,
 },
 ["sort_ignore_slots_count_2"] = {
 ["Kayne-Turalyon"] = 0,
@@ -206,8 +223,8 @@ BAGANATOR_CONFIG = {
 ["recent_timeout"] = 15,
 ["bank_only_view_position"] = {
 "LEFT",
-568.2023315429688,
-255.3531494140625,
+416.9298706054688,
+187.6263427734375,
 },
 ["debug_categories"] = false,
 ["show_sort_button_2"] = true,
@@ -231,6 +248,6 @@ BAGANATOR_CONFIG = {
 ["upgrade_plugin"] = "none",
 ["custom_categories"] = {
 },
-["guild_current_tab"] = 1,
+["guild_current_tab"] = 5,
 }
 BAGANATOR_DATA = nil

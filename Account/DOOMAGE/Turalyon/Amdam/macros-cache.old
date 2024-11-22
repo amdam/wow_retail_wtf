@@ -53,7 +53,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [@mouseover] Intercession;
+/use [@mouseover] Intercession
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
@@ -97,7 +97,7 @@ VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@focus,known:Repentance] Repentance; [known:Blinding Light] Blinding Light;
+/cast [known:Repentance] Repentance; [known:Blinding Light] Blinding Light;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001D " " "134400"

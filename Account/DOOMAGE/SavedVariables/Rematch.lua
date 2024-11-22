@@ -25,18 +25,19 @@ Rematch5Settings = {
 ["UseDefaultJournal"] = false,
 ["AllowHiddenPets"] = false,
 ["ShowAfterBattle"] = false,
-["ExpandedOptionsHeaders"] = {
-},
-["PetCardNoMouseoverFlip"] = false,
 ["ConvertedTeams"] = {
 },
+["PetCardNoMouseoverFlip"] = false,
+["PetNotes"] = {
+},
 ["PetCardBackground"] = "Expansion",
-["FavoriteFilters"] = {
+["LevelingQueue"] = {
 },
 ["UseTypeBar"] = false,
 ["PetCardForLinks"] = false,
 ["HideRarityBorders"] = false,
-["PetCardInBattle"] = false,
+["FavoriteFilters"] = {
+},
 ["LoadHealthiest"] = false,
 ["Anchor"] = "BOTTOMRIGHT",
 ["AbilityBackground"] = "Icon",
@@ -177,11 +178,10 @@ Rematch5Settings = {
 ["PetCardCompactCollected"] = false,
 ["LockWindow"] = false,
 ["NoBackupReminder"] = false,
-["LevelingQueue"] = {
-},
+["PetCardInBattle"] = false,
 ["ShowAbilityNumbers"] = false,
 ["ReverseToolbar"] = false,
-["PetNotes"] = {
+["ExpandedOptionsHeaders"] = {
 },
 }
 Rematch5SavedTeams = {

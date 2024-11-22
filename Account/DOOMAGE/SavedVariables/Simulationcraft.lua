@@ -14,6 +14,7 @@ SimulationCraftDB = {
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Caris - Turalyon"] = "Caris - Turalyon",
 ["Artoc - Silvermoon"] = "Artoc - Silvermoon",
+["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Fernie - Turalyon"] = "Fernie - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
@@ -26,8 +27,9 @@ SimulationCraftDB = {
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Adonis - Turalyon"] = "Adonis - Turalyon",
+["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
 ["Christifur - Turalyon"] = "Christifur - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
@@ -71,6 +73,8 @@ SimulationCraftDB = {
 },
 ["Artoc - Silvermoon"] = {
 },
+["Adamantium - Turalyon"] = {
+},
 ["Adamn - Turalyon"] = {
 },
 ["Fernie - Turalyon"] = {
@@ -103,9 +107,11 @@ SimulationCraftDB = {
 },
 ["Drunkan - Turalyon"] = {
 },
+["Adomic - Turalyon"] = {
+},
 ["Adonis - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Powerpriest - Turalyon"] = {
 },
 ["Dreg - Turalyon"] = {
 },
@@ -113,7 +119,8 @@ SimulationCraftDB = {
 },
 ["Kayne - Turalyon"] = {
 ["frame"] = {
-["ofsx"] = -8.488307503284886e-05,
+["ofsx"] = 4.525201320648193,
+["ofsy"] = 5.171670436859131,
 },
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,

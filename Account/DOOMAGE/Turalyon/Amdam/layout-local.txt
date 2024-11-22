@@ -1,9 +1,9 @@
 Version: 1
 Frame: ScriptErrorsFrame
 FrameLevel: 1
-Anchor: LEFT
-X: 143
-Y: 22
+Anchor: CENTER
+X: 50
+Y: 45
 W: 784
 H: 260
 Frame: ColorPickerFrame

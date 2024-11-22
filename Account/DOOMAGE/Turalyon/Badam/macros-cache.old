@@ -28,7 +28,7 @@ VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Spear of Bastion,@player] Spear of Bastion; [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Colossus Smash;
+/cast [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Colossus Smash;
 /script UIErrorsFrame:Clear();
 END
 VER 3 010000000000000F " " "SPELL_HOLY_ASHESTOASHES"

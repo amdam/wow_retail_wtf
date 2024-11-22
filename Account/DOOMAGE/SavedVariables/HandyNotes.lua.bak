@@ -3,7 +3,9 @@ HandyNotesDB = {
 ["profileKeys"] = {
 ["Fernie - Turalyon"] = "Fernie - Turalyon",
 ["Allevin - Turalyon"] = "Allevin - Turalyon",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
@@ -11,23 +13,23 @@ HandyNotesDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
-["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
+["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Abel - Turalyon"] = "Abel - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Aduum - Turalyon"] = "Aduum - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
 ["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Abel - Turalyon"] = "Abel - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
@@ -35,7 +37,11 @@ HandyNotesDB = {
 },
 ["Allevin - Turalyon"] = {
 },
-["Kayne - Turalyon"] = {
+["Adomic - Turalyon"] = {
+},
+["Powerpriest - Turalyon"] = {
+},
+["Adaam - Turalyon"] = {
 },
 ["Adrid - Turalyon"] = {
 },
@@ -51,11 +57,11 @@ HandyNotesDB = {
 },
 ["Dreg - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Drunkan - Turalyon"] = {
 },
 ["Amdamn - Bloodscalp"] = {
 },
-["Drunkan - Turalyon"] = {
+["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
 },
@@ -69,21 +75,21 @@ HandyNotesDB = {
 },
 ["Adonis - Turalyon"] = {
 },
-["Adreya - Bloodscalp"] = {
-},
 ["Adamian - Turalyon"] = {
 },
 ["Asaam - Turalyon"] = {
 },
+["Adreya - Bloodscalp"] = {
+},
 ["Broddah - Doomhammer"] = {
 },
-["Adaam - Turalyon"] = {
+["Adamantium - Turalyon"] = {
 },
 ["Adamn - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Abel - Turalyon"] = {
+["Kayne - Turalyon"] = {
 },
 ["Shado - Turalyon"] = {
 },
@@ -93,7 +99,9 @@ HandyNotes_HandyNotesDB = {
 ["profileKeys"] = {
 ["Fernie - Turalyon"] = "Fernie - Turalyon",
 ["Allevin - Turalyon"] = "Allevin - Turalyon",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
@@ -101,23 +109,23 @@ HandyNotes_HandyNotesDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
-["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
+["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Abel - Turalyon"] = "Abel - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Aduum - Turalyon"] = "Aduum - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
 ["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Abel - Turalyon"] = "Abel - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
@@ -125,7 +133,11 @@ HandyNotes_HandyNotesDB = {
 },
 ["Allevin - Turalyon"] = {
 },
-["Kayne - Turalyon"] = {
+["Adomic - Turalyon"] = {
+},
+["Powerpriest - Turalyon"] = {
+},
+["Adaam - Turalyon"] = {
 },
 ["Adrid - Turalyon"] = {
 },
@@ -141,11 +153,11 @@ HandyNotes_HandyNotesDB = {
 },
 ["Dreg - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Drunkan - Turalyon"] = {
 },
 ["Amdamn - Bloodscalp"] = {
 },
-["Drunkan - Turalyon"] = {
+["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
 },
@@ -159,21 +171,21 @@ HandyNotes_HandyNotesDB = {
 },
 ["Adonis - Turalyon"] = {
 },
-["Adreya - Bloodscalp"] = {
-},
 ["Adamian - Turalyon"] = {
 },
 ["Asaam - Turalyon"] = {
 },
+["Adreya - Bloodscalp"] = {
+},
 ["Broddah - Doomhammer"] = {
 },
-["Adaam - Turalyon"] = {
+["Adamantium - Turalyon"] = {
 },
 ["Adamn - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Abel - Turalyon"] = {
+["Kayne - Turalyon"] = {
 },
 ["Shado - Turalyon"] = {
 },

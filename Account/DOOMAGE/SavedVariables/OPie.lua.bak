@@ -3,16 +3,15 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "Ørred 1a (4.131)",
+["_OPieVersion"] = "Ørred 2a (4.132)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "11.0.2",
+["_GameVersion"] = "11.0.5",
 ["ProfileStorage"] = {
 ["default"] = {
 ["RotationTokens"] = {
-["opcmve"] = "OPCMEa",
-["OPCMVe"] = "OPCMEa",
+["OPCTAt"] = "OPCHSt",
 },
 ["Bindings"] = {
 ["ipmentSets1"] = false,
@@ -100,13 +99,13 @@ OPie_SavedData = {
 },
 ["CommonTrades"] = {
 {
-["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["sliceToken"] = "OPCCTc",
+["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast {{spell:2018/51300}}",
 ["sliceToken"] = "OPCCTb",
+["id"] = "/cast {{spell:2018/51300}}",
 ["vm"] = 2,
 },
 {
@@ -120,8 +119,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["sliceToken"] = "OPCCTfj",
+["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["vm"] = 2,
 },
 {
@@ -166,8 +165,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTl",
 },
 {
-["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 ["sliceToken"] = "OPCCTm",
+["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 },
 {
 ["sliceToken"] = "ABueaL4inxa",
@@ -182,8 +181,8 @@ OPie_SavedData = {
 ["id2"] = 51302,
 },
 {
-["sliceToken"] = "ABueaL4inxo",
 ["c"] = "f4aa0f",
+["sliceToken"] = "ABueaL4inxo",
 ["id"] = 2018,
 ["id2"] = 51300,
 },
@@ -206,8 +205,8 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["sliceToken"] = "ABueaL4inxy",
 ["c"] = "c13f0f",
+["sliceToken"] = "ABueaL4inxy",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
@@ -287,10 +286,10 @@ OPie_SavedData = {
 ["id"] = 25780,
 ["sliceToken"] = "OPCPAf",
 },
-["limit"] = "PALADIN",
+["name"] = "Paladin Buffs",
 ["save"] = true,
 ["hotkey"] = "ALT-P",
-["name"] = "Paladin Buffs",
+["limit"] = "PALADIN",
 },
 ["MageTravel"] = {
 {
@@ -440,8 +439,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "prot",
-["show"] = "[spec:71/72] hide;",
 ["sliceToken"] = "ABueskpEsp4",
+["show"] = "[spec:71/72] hide;",
 },
 {
 "equipmentset",
@@ -452,8 +451,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "fury",
-["show"] = "[spec:73/71] hide;",
 ["sliceToken"] = "ABueskpEspg",
+["show"] = "[spec:73/71] hide;",
 },
 {
 "equipmentset",
@@ -484,10 +483,10 @@ OPie_SavedData = {
 ["show"] = "[spec:73/72] hide;",
 ["sliceToken"] = "ABuesXRQAcr",
 },
-["name"] = "Equipment Sets",
+["limit"] = "Badam-Turalyon",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["limit"] = "Badam-Turalyon",
+["name"] = "Equipment Sets",
 },
 },
 },

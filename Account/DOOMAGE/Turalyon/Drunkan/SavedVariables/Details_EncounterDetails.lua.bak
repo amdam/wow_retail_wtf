@@ -1,18 +1,195 @@
 
 EncounterDetailsDB = {
 ["chartData"] = {
-[469] = {
+[487] = {
+["Raid Damage Done"] = {
+241957,
+415590,
+1617025,
+3217789,
+1120817,
+1718238,
+2832799,
+1650841,
+2939053,
+4212050,
+834460,
+1686953,
+466297,
+2918451,
+2948983,
+1484928,
+1413750,
+1527570,
+2358669,
+2686675,
+857228,
+50362409,
+3533760,
+42325653,
+1775452,
+3092529,
+5663989,
+["max_value"] = 50362409,
+["__time"] = 1730650495,
 },
-[470] = {
 },
-[471] = {
+[481] = {
 },
-[472] = {
+[482] = {
 },
-[473] = {
+[484] = {
+},
+[486] = {
+["Raid Damage Done"] = {
+474057,
+0,
+567168,
+228911,
+1117706,
+238643,
+737849,
+934661,
+606098,
+677774,
+388275,
+1297667,
+1184956,
+672615,
+741297,
+1166596,
+414678,
+616408,
+867636,
+584496,
+920153,
+1372235,
+2255422,
+741597,
+1960684,
+1836783,
+2586351,
+3660455,
+724431,
+1495634,
+3865170,
+1708267,
+3453037,
+1571301,
+1097734,
+1513073,
+785432,
+1114240,
+4330475,
+2455428,
+2614138,
+2697751,
+1034715,
+1422706,
+2097023,
+2177164,
+746658,
+1518159,
+1377484,
+783160,
+445792,
+713889,
+1047821,
+880883,
+436753,
+1298363,
+1066958,
+659692,
+790994,
+1527031,
+561274,
+77139,
+1387829,
+1407797,
+2059414,
+1086557,
+2023256,
+1713281,
+1345759,
+4326337,
+3063569,
+5863046,
+4842876,
+4240628,
+2525955,
+901821,
+440319,
+1843405,
+1126045,
+1943785,
+707244,
+637328,
+1629891,
+560364,
+1064432,
+1204866,
+1553977,
+552052,
+1169021,
+1217748,
+1121615,
+748475,
+471903,
+58879,
+397010,
+1279720,
+515085,
+1529896,
+1660321,
+834240,
+1033300,
+634154,
+135389,
+458299,
+613353,
+547982,
+164407,
+447539,
+369390,
+383073,
+485399,
+103201,
+952723,
+471277,
+1678520,
+849074,
+626222,
+942476,
+275081,
+628154,
+2153023,
+427601,
+1260685,
+833080,
+3361503,
+2324958,
+4118088,
+4302147,
+5324618,
+1565402,
+6401510,
+225766,
+275044,
+1088093,
+584351,
+["max_value"] = 6401510,
+["__time"] = 1730574044,
+},
 },
 },
 ["encounter_spells"] = {
+[445504] = {
+["school"] = 1,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Highlord Darion Mograine",
+},
 [427439] = {
 ["school"] = 8,
 ["token"] = {
@@ -64,6 +241,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "Voidstone Monstrosity",
 },
+[415329] = {
+["school"] = 4,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+},
 [432781] = {
 ["school"] = 32,
 ["type"] = "BUFF",
@@ -83,6 +266,23 @@ EncounterDetailsDB = {
 },
 ["source"] = "Stormguard Gorren",
 },
+[415047] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Headless Horseman",
+},
+[52212] = {
+["school"] = 32,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Highlord Darion Mograine",
+},
 [427616] = {
 ["school"] = 8,
 ["token"] = {
@@ -92,12 +292,28 @@ EncounterDetailsDB = {
 },
 ["source"] = "Unruly Stormrook",
 },
+[414843] = {
+["school"] = 4,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Headless Horseman",
+},
 [426136] = {
 ["school"] = 32,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
 ["source"] = "Stormguard Gorren",
+},
+[432515] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Brann Bronzebeard",
 },
 [444123] = {
 ["school"] = 1,
@@ -115,12 +331,43 @@ EncounterDetailsDB = {
 },
 ["source"] = "Stormguard Gorren",
 },
+[414844] = {
+["school"] = 4,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Headless Horseman",
+},
+[104318] = {
+["school"] = 4,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Wild Imp",
+},
+[414842] = {
+["school"] = 4,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Headless Horseman",
+},
 [181089] = {
 ["school"] = 1,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
+[423839] = {
+["school"] = 1,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Voidstone Monstrosity",
 },
@@ -147,6 +394,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Stormguard Gorren",
 },
+[429487] = {
+["school"] = 32,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Voidstone Monstrosity",
+},
 [424958] = {
 ["school"] = 32,
 ["token"] = {
@@ -163,6 +418,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Kyrioss",
 },
+[423626] = {
+["school"] = 4,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Headless Horseman",
+},
 [430109] = {
 ["school"] = 8,
 ["token"] = {
@@ -172,12 +435,43 @@ EncounterDetailsDB = {
 },
 ["source"] = "Cursed Thunderer",
 },
+[427323] = {
+["school"] = 8,
+["token"] = {
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
+},
+["source"] = "Voidrider",
+},
+[432605] = {
+["school"] = 8,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Voidrider",
+},
+[433622] = {
+["school"] = 1,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Brann Bronzebeard",
+},
 [444411] = {
 ["school"] = 8,
 ["token"] = {
 ["SPELL_DAMAGE"] = true,
 },
 ["source"] = "Kyrioss",
+},
+[432805] = {
+["school"] = 32,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Radiating Voidstone",
 },
 [445262] = {
 ["school"] = 127,
@@ -213,28 +507,29 @@ EncounterDetailsDB = {
 },
 ["source"] = "Voidstone Monstrosity",
 },
-[432805] = {
-["school"] = 32,
+[459753] = {
+["school"] = 1,
 ["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Radiating Voidstone",
+["source"] = "Fenryr",
 },
-[432605] = {
-["school"] = 8,
+[428269] = {
+["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Voidrider",
-},
-[424737] = {
-["school"] = 32,
-["token"] = {
+["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
 },
-["source"] = "Stormguard Gorren",
+["source"] = "Void Chunk",
+},
+[423623] = {
+["school"] = 4,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
 },
 [427325] = {
 ["school"] = 1,
@@ -242,6 +537,25 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Voidrider",
+},
+[427402] = {
+["school"] = 9,
+["token"] = {
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Cursed Rookguard",
+},
+[414851] = {
+["school"] = 4,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Headless Horseman",
 },
 [427404] = {
 ["school"] = 8,
@@ -269,15 +583,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Voidstone Monstrosity",
 },
-[427402] = {
-["school"] = 9,
-["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Cursed Rookguard",
-},
 [448443] = {
 ["school"] = 32,
 ["type"] = "DEBUFF",
@@ -288,21 +593,30 @@ EncounterDetailsDB = {
 },
 ["source"] = "Web General Ab'enar",
 },
-[445457] = {
+[424737] = {
 ["school"] = 32,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
 },
-["source"] = "Voidstone Monstrosity",
+["source"] = "Stormguard Gorren",
 },
-[427323] = {
-["school"] = 8,
+[415262] = {
+["school"] = 32,
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Voidrider",
+["source"] = "Headless Horseman",
+},
+[1604] = {
+["school"] = 1,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Pumpkin Soldier",
 },
 [430013] = {
 ["school"] = 8,
@@ -327,16 +641,7 @@ EncounterDetailsDB = {
 },
 ["source"] = "Radiating Voidstone",
 },
-[423839] = {
-["school"] = 1,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Voidstone Monstrosity",
-},
-[429487] = {
+[445457] = {
 ["school"] = 32,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
@@ -344,14 +649,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Voidstone Monstrosity",
 },
-[428269] = {
-["school"] = 1,
-["type"] = "BUFF",
+[193473] = {
+["school"] = 32,
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Void Chunk",
+["source"] = "Void Tendril",
 },
 [429521] = {
 ["school"] = 32,
@@ -360,16 +664,24 @@ EncounterDetailsDB = {
 },
 ["source"] = "Voidstone Monstrosity",
 },
+[98021] = {
+["school"] = 8,
+["token"] = {
+["SPELL_HEAL"] = true,
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Spirit Link Totem",
+},
 },
 ["emotes"] = {
 {
-["boss"] = "Skardyn Monstrosity",
+["boss"] = "The Headless Horseman",
 },
 {
-["boss"] = "Stormguard Gorren",
+["boss"] = "The Headless Horseman",
 },
 {
-["boss"] = "Kyrioss",
+["boss"] = "The Headless Horseman",
 },
 },
 }

@@ -25,24 +25,9 @@ RaiderIO_Config = {
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Adamancy-turalyon"
+RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Sudsiness-illidan"] = true,
-["us-Whispe-turalyon"] = true,
-["us-Karathis-turalyon"] = true,
-["us-Salamin-turalyon"] = true,
-["us-Mogsmanship-area-52"] = true,
-["us-Khazûl-turalyon"] = true,
-["us-Hurris-korgath"] = true,
-["us-Nap-turalyon"] = true,
-["us-Tadbubbly-dalaran"] = true,
-["us-Kuala-tichondrius"] = true,
-["us-Avarici-turalyon"] = true,
-["us-Ssjblumikya-turalyon"] = true,
-["us-Ardent-turalyon"] = true,
-["us-Sernix-stormrage"] = true,
-["us-Verilyna-turalyon"] = true,
-["us-Defenestrate-turalyon"] = true,
+["us-Sindridora-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

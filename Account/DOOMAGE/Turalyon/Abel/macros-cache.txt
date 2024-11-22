@@ -1,8 +1,3 @@
-VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [nomodifier,spec:1] Penance; [nomodifier,spec:2] Smite; [modifier:alt] Holy Nova;
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [mod:alt] Holy Nova; Smite;
@@ -22,7 +17,7 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Divine Star] Divine Star; [mod:alt,Known:Halo] Halo; Devouring Plague;
+/cast [mod:alt,known:Divine Star] Divine Star; [mod:alt,Known:Halo] Halo; [spec:1] Penance; [spec:3] Devouring Plague;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
@@ -70,5 +65,10 @@ END
 VER 3 010000000000000E " " "134400"
 #showtooltip
 /cast [known:Dark Ascension] Dark Ascension; [known:Void Eruption] Void Eruption;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [@focus,exists][] Silence;
 /script UIErrorsFrame:Clear()
 END

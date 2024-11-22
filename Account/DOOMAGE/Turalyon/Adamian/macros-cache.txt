@@ -5,7 +5,7 @@ VER 3 0100000000000001 " " "134400"
 END
 VER 3 0100000000000003 " " "134400"
 #showtooltip
-/cast [mod:alt] Deep Breath; [spec:3] Blistering Scales; Eternity Surge;
+/cast [mod:alt] Deep Breath; Eternity Surge;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000004 " " "134400"
@@ -16,5 +16,60 @@ END
 VER 3 0100000000000002 " " "134400"
 #showtooltip
 /cast [mod:alt,spec:1] Pyre; [mod:alt,spec:3]; Disintegrate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Cauterizing Flame;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Blistering Scales;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Expunge;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Time Dilation;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "134400"
+END
+VER 3 010000000000000A " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Verdant Embrace;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Spiritbloom;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip Dragonrage
+/use 13
+/cast Dragonrage;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000D " " "134400"
+#showtooltip Fire Breath
+/cast [nomod:ctrl] Tip the Scales; 
+/cast Fire Breath;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "134400"
+#showtooltip Breath of Eons
+/use 13
+/cast Breath of Eons
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [@focus,exists][] Quell
 /script UIErrorsFrame:Clear()
 END

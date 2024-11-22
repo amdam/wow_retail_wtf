@@ -1,17 +1,14 @@
 
 Blizzard_Console_SavedVars = {
 ["version"] = 3,
+["height"] = 300.0000610351563,
 ["messageHistory"] = {
 {
 "Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"Time set to 10/4/2024 (Fri) 22:25",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
+"World transfer pending...",
 0,
 },
 {
@@ -23,27 +20,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2451.12, -2318, 1046.54)",
+"Changed difficulty successfully",
 0,
 },
 {
-"[Airlock] Preload initiated.",
+"World transfer pending...",
 0,
 },
 {
 "Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2257.88, -2260.27, 566.508)\n    Location in previous map : (2257.53, -2261.09, -564.826)",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2601 and unloading map 2552. (Map Table Size 960 larger than budget 8)",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2601",
 0,
 },
 {
@@ -51,19 +36,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2257.84, -2260.27, -565.155)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2552",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2410.32, -2225.72, -634.18)",
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2412.15, -2238.08, -623.785)",
 0,
 },
 {
@@ -75,7 +48,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Loading new map 2552 from previous map 2601 with translation: (-0.340088, -0.820068, -1131.33)\n    Location : (2464.17, -2364.12, -278.687)\n    Location in previous map : (2464.51, -2363.3, 852.646)",
+"[Airlock] Loading new map 2552 from previous map 2601 with translation: (-0.340088, -0.820068, -1131.33)\n    Location : (2466.21, -2347.96, -268.926)\n    Location in previous map : (2466.55, -2347.14, 862.407)",
 0,
 },
 {
@@ -91,11 +64,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2464.36, -2359.78, 854.969)",
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2466.42, -2345.15, 864.297)",
 0,
 },
 {
@@ -107,6 +76,22 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
 "-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
@@ -139,55 +124,83 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Proficiency in item class 2 set to 0x0000008141",
+0,
+},
+{
 "Proficiency in item class 4 set to 0x0000000021",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004141",
+"Proficiency in item class 2 set to 0x000000c141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004143",
+"Proficiency in item class 2 set to 0x000004c141",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000029",
+"Proficiency in item class 2 set to 0x000004c143",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000002d",
+"Proficiency in item class 2 set to 0x000004c543",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004163",
+"Proficiency in item class 4 set to 0x0000000061",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000003d",
+"Proficiency in item class 4 set to 0x0000000069",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000104163",
+"Proficiency in item class 4 set to 0x000000006d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000104173",
+"Proficiency in item class 2 set to 0x000004c547",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x00001041f3",
+"Proficiency in item class 2 set to 0x000004c54f",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000003f",
+"Proficiency in item class 2 set to 0x000004c56f",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x00001041f3",
+"Proficiency in item class 2 set to 0x000004e56f",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000003f",
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e57f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -195,147 +208,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/4/2024 (Fri) 22:38",
+"Time set to 11/20/2024 (Wed) 15:25",
 0,
 },
 {
 "Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2681, Current MapID:2552, PreviousTransitionID:-1, Position (-356.694, 19.9038, 152.111)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2681",
-0,
-},
-{
-"Weather changed to 1, intensity 0.149311\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 2, intensity 0.274062\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.114421\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
@@ -439,7 +316,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/4/2024 (Fri) 23:13",
+"Time set to 11/20/2024 (Wed) 15:32",
 0,
 },
 {
@@ -455,6 +332,82 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008000",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c000",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000010c480",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c480",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000018c480",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 11/20/2024 (Wed) 15:34",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
 "Weather changed to 1, intensity 0.000000\n",
 0,
 },
@@ -467,383 +420,207 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sorting particles normally.",
+"Attempted to register existing command: ShowObjUsage\n",
 0,
 },
 {
-"Multithreaded rendering enabled.",
+"Attempted to register existing command: SetDifficulty\n",
 0,
 },
 {
-"Multithreaded BeginDraw enabled.",
+"Got new connection 3",
 0,
 },
 {
-"Multithread shadows changed to 1.",
+"Proficiency in item class 2 set to 0x0000000100",
 0,
 },
 {
-"Multithreaded prepass enabled.",
+"Proficiency in item class 2 set to 0x0000000101",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"Proficiency in item class 2 set to 0x0000008101",
 0,
 },
 {
-"Multithreaded opaque pass enabled.",
+"Proficiency in item class 4 set to 0x0000000021",
 0,
 },
 {
-"Multithreaded alpha M2 pass enabled.",
+"Proficiency in item class 2 set to 0x000000c101",
 0,
 },
 {
-"Multithreaded opaque WMO pass enabled.",
+"Proficiency in item class 2 set to 0x000000c103",
 0,
 },
 {
-"Multithreaded terrain pass enabled.",
+"Proficiency in item class 2 set to 0x000000c503",
 0,
 },
 {
-"Multithreaded volumetric fog enabled.",
+"Proficiency in item class 4 set to 0x0000000029",
 0,
 },
 {
-"Multithreaded Refraction Pass enabled.",
+"Proficiency in item class 4 set to 0x000000002d",
 0,
 },
 {
-"Multithreaded miscellaneous passes enabled.",
+"Proficiency in item class 2 set to 0x000000c523",
 0,
 },
 {
-"Multithreaded decal passes disabled.",
+"Proficiency in item class 2 set to 0x000000e523",
 0,
 },
 {
-"Multithreaded outline passes enabled.",
+"Proficiency in item class 2 set to 0x000000e533",
 0,
 },
 {
-"Use trigger on BeginDrawComplete enabled.",
-4,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 2",
-0,
-},
-{
-"Refraction mode changed to 2",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"Particulate volumes enabled.",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Spell Clutter set to dynamic",
-0,
-},
-{
-"Shadow mode changed to 0 - Blob shadows",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 0",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Enabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Physics interaction level changed to 1",
-0,
-},
-{
-"Render scale changed to 0.85",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Resetting",
-0,
-},
-{
-"[IBN_Login] [F] Initializing",
-0,
-},
-{
-"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Logon complete.",
-0,
-},
-{
-"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1728144747\" expirationTime=\"1728159147\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Requesting realm list ticket",
-0,
-},
-{
-"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
-0,
-},
-{
-"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+"Proficiency in item class 2 set to 0x000000e5b3",
 0,
 },
 {
-"[GlueLogin] [F] Realm list ready.",
+"Proficiency in item class 4 set to 0x000000002f",
 0,
 },
 {
-"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+"Proficiency in item class 2 set to 0x000000e5b3",
 0,
 },
 {
-"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
+"Proficiency in item class 4 set to 0x000000002f",
 0,
 },
 {
-"NetClient::HandleConnect()\n",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
+"Time set to 11/20/2024 (Wed) 15:36",
 0,
 },
 {
-"Got new connection 2",
+"Gamespeed set from 0.017 to 0.017",
 0,
 },
 {
-"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+"Got new connection 3",
 0,
 },
 {
-"[GlueLogin] [F] Disconnecting from authentication server.",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"[IBN_BackInterface] [F] Session with Battle.net established.",
+"Got new connection 3",
 0,
 },
 {
-"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
+"Got new connection 3",
 0,
 },
 {
-"[GlueLogin] [F] Disconnected from authentication server.",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
 "-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008000",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c000",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c400",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c410",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000008c410",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000008c410",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000023",
+0,
+},
+{
+"Weather changed to 4, intensity 0.500000\n",
+0,
+},
+{
+"Time set to 11/20/2024 (Wed) 15:46",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Attempted to register existing command: ShowObjUsage\n",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty\n",
 0,
 },
 {
@@ -863,15 +640,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Proficiency in item class 2 set to 0x0000008141",
+0,
+},
+{
 "Proficiency in item class 4 set to 0x0000000021",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004141",
+"Proficiency in item class 2 set to 0x000000c141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004143",
+"Proficiency in item class 2 set to 0x000004c141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c143",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c543",
 0,
 },
 {
@@ -887,7 +676,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004163",
+"Proficiency in item class 2 set to 0x000004c547",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c54f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e56f",
 0,
 },
 {
@@ -895,15 +696,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000104163",
+"Proficiency in item class 2 set to 0x000014e56f",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000104173",
+"Proficiency in item class 2 set to 0x000014e57f",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x00001041f3",
+"Proficiency in item class 2 set to 0x000014e5ff",
 0,
 },
 {
@@ -911,7 +712,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x00001041f3",
+"Proficiency in item class 2 set to 0x000014e5ff",
 0,
 },
 {
@@ -923,7 +724,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/5/2024 (Sat) 9:12",
+"Time set to 11/20/2024 (Wed) 15:55",
 0,
 },
 {
@@ -936,558 +737,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Use trigger on BeginDrawComplete enabled.",
-4,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 2",
-0,
-},
-{
-"Refraction mode changed to 2",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"Particulate volumes enabled.",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Spell Clutter set to dynamic",
-0,
-},
-{
-"Shadow mode changed to 0 - Blob shadows",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 0",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Enabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Physics interaction level changed to 1",
-0,
-},
-{
-"Render scale changed to 0.85",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Resetting",
-0,
-},
-{
-"[IBN_Login] [F] Initializing",
-0,
-},
-{
-"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Logon complete.",
-0,
-},
-{
-"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1728156218\" expirationTime=\"1728170618\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Requesting realm list ticket",
-0,
-},
-{
-"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
-0,
-},
-{
-"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
-0,
-},
-{
-"[GlueLogin] [F] Realm list ready.",
-0,
-},
-{
-"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
-0,
-},
-{
-"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
-0,
-},
-{
-"Got new connection 2",
-0,
-},
-{
-"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
-0,
-},
-{
-"[GlueLogin] [F] Disconnecting from authentication server.",
-0,
-},
-{
-"[IBN_BackInterface] [F] Session with Battle.net established.",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
-0,
-},
-{
-"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
-0,
-},
-{
-"[GlueLogin] [F] Disconnected from authentication server.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000100",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000101",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000141",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004141",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004143",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000029",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000002d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004163",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000003d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000104163",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000104173",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00001041f3",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000003f",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00001041f3",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000003f",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/5/2024 (Sat) 12:24",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:-1, Position (-149.68, -123.101, 76.4856)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:2680, Position (-169.102, -109.495, 73.5277)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2680 from previous map 2552 with translation: (-1108.2, 1530.38, -9.7603)\n    Location : (-177.184, -102.701, 73.5783)\n    Location in previous map : (931.016, -1633.08, 83.3386)",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2680 but keeping old map 2552 RESIDENT.",
-0,
-},
-{
-"[Airlock] Freezing AOI updates for old map 2552",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2680",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2680, PreviousTransitionID:2552, Position (931.016, -1633.08, 83.3386)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2680, PreviousTransitionID:2552, Position (384.312, -1775.11, 86.2165)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
@@ -1503,15 +752,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:-1, Position (-177.8, -102.872, 73.5783)",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2680",
+"World transfer pending...",
 0,
 },
 {
@@ -1523,7 +768,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2499.9, -2309.74, 1056.44)",
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2459, -2286.51, 1039.61)",
 0,
 },
 {
@@ -1535,7 +784,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2258.65, -2266.99, 562.703)\n    Location in previous map : (2258.31, -2267.81, -568.63)",
+"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2260.86, -2249.76, 564.195)\n    Location in previous map : (2260.52, -2250.58, -567.138)",
 0,
 },
 {
@@ -1551,7 +800,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2258.94, -2265.53, -569.424)",
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2260.52, -2250.58, -567.138)",
 0,
 },
 {
@@ -1563,299 +812,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[Airlock] Received PreloadMap Destination MapID:2684, Current MapID:2601, PreviousTransitionID:-1, Position (-323.957, -54.5596, 110.872)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2684",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2684, Current MapID:2601, PreviousTransitionID:-1, Position (-295.708, -45.1641, 118.078)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2684, Current MapID:2601, PreviousTransitionID:2684, Position (-254.246, -119.328, 104.596)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2684 from previous map 2601 with translation: (-2286.55, 4590.85, -215.464)\n    Location : (-244.369, -127.996, 103.934)\n    Location in previous map : (2042.18, -4718.85, 319.398)",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2684 but keeping old map 2601 RESIDENT.",
-0,
-},
-{
-"[Airlock] Freezing AOI updates for old map 2601",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2684",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2684, PreviousTransitionID:2601, Position (2044.14, -4720.49, 318.574)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2684, PreviousTransitionID:2601, Position (2093.09, -4777.4, 302.879)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2601 from previous map 2684 with translation: (2286.55, -4590.85, 215.464)\n    Location : (1997.62, -4677.2, 319.135)\n    Location in previous map : (-288.931, -86.3433, 103.671)",
-0,
-},
-{
-"[Airlock] Destination 2601 had not finished preload at position (1997.62, -4677.2, 319.135), putting up loading screen\n",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2601 and unloading map 2684. (Map Table Size 960 larger than budget 8)",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2601",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received Cancel Preload for MapID 2684, but we have not preloaded it. Current preloaded map: -1",
-0,
-},
-{
 "Got new connection 3",
 0,
 },
 {
 "Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2679, Current MapID:2601, PreviousTransitionID:-1, Position (-776.42, 108.942, 83.1679)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2679, Current MapID:2601, PreviousTransitionID:2679, Position (-767.101, 49.4163, 78.3813)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2679",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2687, Current MapID:2601, PreviousTransitionID:-1, Position (-85.6338, -1489.58, 612.928)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2687, Current MapID:2601, PreviousTransitionID:2687, Position (-138.242, -1491.5, 610.263)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2687 from previous map 2601 with translation: (-2123.74, -1685.16, 1448.77)\n    Location : (-144.78, -1492.64, 609.738)\n    Location in previous map : (1978.96, 192.52, -839.032)",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2687 but keeping old map 2601 RESIDENT.",
-0,
-},
-{
-"[Airlock] Freezing AOI updates for old map 2601",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2687",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2687, PreviousTransitionID:2601, Position (1978.96, 192.52, -839.032)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2687, PreviousTransitionID:2601, Position (1623.69, 214.168, -1026.99)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2687, Current MapID:2601, PreviousTransitionID:-1, Position (-143.219, -1492.97, 609.896)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Cancel Preload of MapID:2687",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:-1, Position (-537.781, -71.1127, 72.4263)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2688, Current MapID:2601, PreviousTransitionID:2688, Position (-417.089, -40.9384, 51.947)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2688 from previous map 2601 with translation: (-1093.71, 590.992, 1048.87)\n    Location : (-407.341, -38.1215, 52.0551)\n    Location in previous map : (686.365, -629.113, -996.815)",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2688 but keeping old map 2601 RESIDENT.",
-0,
-},
-{
-"[Airlock] Freezing AOI updates for old map 2601",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2688",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (690.747, -627.875, -996.815)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2688, PreviousTransitionID:2601, Position (774.037, -603.367, -996.923)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
@@ -1876,458 +837,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Skill 2872 increased from 58 to 61",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Sorting particles normally.",
-0,
-},
-{
-"Multithreaded rendering enabled.",
-0,
-},
-{
-"Multithreaded BeginDraw enabled.",
-0,
-},
-{
-"Multithread shadows changed to 1.",
-0,
-},
-{
-"Multithreaded prepass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded opaque pass enabled.",
-0,
-},
-{
-"Multithreaded alpha M2 pass enabled.",
-0,
-},
-{
-"Multithreaded opaque WMO pass enabled.",
-0,
-},
-{
-"Multithreaded terrain pass enabled.",
-0,
-},
-{
-"Multithreaded volumetric fog enabled.",
-0,
-},
-{
-"Multithreaded Refraction Pass enabled.",
-0,
-},
-{
-"Multithreaded miscellaneous passes enabled.",
-0,
-},
-{
-"Multithreaded decal passes disabled.",
-0,
-},
-{
-"Multithreaded outline passes enabled.",
-0,
-},
-{
-"Use trigger on BeginDrawComplete enabled.",
-4,
-},
-{
-"Multithreaded alpha pass enabled.",
-0,
-},
-{
-"Multithreaded daynight update enabled.",
-0,
-},
-{
-"Water detail changed to 2",
-0,
-},
-{
-"Ripple detail changed to 1",
-0,
-},
-{
-"Reflection mode changed to 0",
-0,
-},
-{
-"Reflection downscale changed to 0",
-0,
-},
-{
-"Sunshafts quality changed to 2",
-0,
-},
-{
-"Refraction mode changed to 2",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"Particulate volumes enabled.",
-0,
-},
-{
-"Projected textures enabled.",
-0,
-},
-{
-"Spell Clutter set to dynamic",
-0,
-},
-{
-"Shadow mode changed to 0 - Blob shadows",
-0,
-},
-{
-"Shadow texture size changed to 1024.",
-0,
-},
-{
-"Soft shadows changed to 0.",
-0,
-},
-{
-"Shadow cascade blending changed to 0",
-0,
-},
-{
-"Shadow RT mode changed to 0 (Disabled)",
-0,
-},
-{
-"maxLightCount must be in range 0 to 32.",
-0,
-},
-{
-"CVar 'maxLightCount' failed validation for its initial value.",
-0,
-},
-{
-"Clustered shading enabled.",
-0,
-},
-{
-"Not forcing clustered shading.",
-0,
-},
-{
-"SSAO mode set to 0",
-0,
-},
-{
-"SSAO type set to 0",
-0,
-},
-{
-"Depth Based Opacity Enabled",
-0,
-},
-{
-"SkyCloudLOD set to 0",
-0,
-},
-{
-"Texture filtering mode updated.",
-0,
-},
-{
-"Terrain mip level changed to 0.",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Physics interaction level changed to 1",
-0,
-},
-{
-"Render scale changed to 0.85",
-0,
-},
-{
-"Resample quality changed to 3",
-0,
-},
-{
-"MSAA disabled",
-0,
-},
-{
-"MSAA for alpha-test enabled.",
-0,
-},
-{
-"VALAR mode changed to 0",
-0,
-},
-{
-"lodObjectSizeScale cannot be changed.",
-0,
-},
-{
-"Volume fog enabled.",
-0,
-},
-{
-"dynamicLod enabled",
-0,
-},
-{
-"World preload object sort enabled.",
-0,
-},
-{
-"World load object sort enabled.",
-0,
-},
-{
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"Error display disabled",
-0,
-},
-{
-"Error display shown",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Displaying errors through fatal errors",
-0,
-},
-{
-"Now filtering: all messages",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Resetting",
-0,
-},
-{
-"[IBN_Login] [F] Initializing",
-0,
-},
-{
-"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for server response.",
-0,
-},
-{
-"[GlueLogin] [F] Logon complete.",
-0,
-},
-{
-"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1728182619\" expirationTime=\"1728197019\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Requesting realm list ticket",
-0,
-},
-{
-"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
-0,
-},
-{
-"[GlueLogin] [F] Waiting for realm list.",
-0,
-},
-{
-"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
-0,
-},
-{
-"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
-0,
-},
-{
-"[GlueLogin] [F] Realm list ready.",
-0,
-},
-{
-"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
-0,
-},
-{
-"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
-0,
-},
-{
-"NetClient::HandleConnect()\n",
-0,
-},
-{
-"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
-0,
-},
-{
-"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
-0,
-},
-{
-"[GlueLogin] [F] Disconnecting from authentication server.",
-0,
-},
-{
-"[IBN_BackInterface] [F] Session with Battle.net established.",
-0,
-},
-{
-"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
-0,
-},
-{
-"[GlueLogin] [F] Disconnected from authentication server.",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008000",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c000",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/5/2024 (Sat) 19:45",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
 0,
 },
 {
@@ -2427,111 +936,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/5/2024 (Sat) 19:48",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: ShowObjUsage\n",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000100",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000101",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000141",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004141",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004143",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000029",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000002d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004163",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000003d",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000104163",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000104173",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00001041f3",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000003f",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00001041f3",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x000000003f",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/5/2024 (Sat) 19:52",
+"Time set to 11/20/2024 (Wed) 16:12",
 0,
 },
 {
@@ -2551,90 +956,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: ShowObjUsage\n",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008000",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c000",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/5/2024 (Sat) 20:01",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
 "Weather changed to 1, intensity 0.000000\n",
 0,
 },
@@ -2663,131 +984,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 5, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 5, intensity 1.000000\n",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Completed challenge mode mapID 1822, level 5, time 2139998",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
 "Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:-1, Position (-145.4, -127.999, 76.474)",
-0,
-},
-{
-"[Airlock] Preload initiated.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2680, Current MapID:2552, PreviousTransitionID:2680, Position (-170.717, -107.026, 73.5784)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"[Airlock] Loading new map 2680 from previous map 2552 with translation: (-1108.2, 1530.38, -9.7603)\n    Location : (-172.861, -105.396, 73.5784)\n    Location in previous map : (935.339, -1635.77, 83.3387)",
-0,
-},
-{
-"[Airlock] Swapping to preloaded map 2680 but keeping old map 2552 RESIDENT.",
-0,
-},
-{
-"[Airlock] Freezing AOI updates for old map 2552",
-0,
-},
-{
-"[Airlock] Finished transition to new map 2680",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2680, PreviousTransitionID:2552, Position (935.339, -1635.77, 83.3387)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2680, PreviousTransitionID:2552, Position (392.261, -1765.33, 86.2284)",
-0,
-},
-{
-"[Airlock] Preload skipped - map is same as current map.",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
@@ -2975,7 +1172,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Render scale changed to 0.85",
+"Render scale changed to 1",
 0,
 },
 {
@@ -3063,6 +1260,10 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"ChromaEffects enabled",
+0,
+},
+{
 "[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
 0,
 },
@@ -3095,7 +1296,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1728232304\" expirationTime=\"1728246704\"",
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1732148719\" expirationTime=\"1732163119\"",
 0,
 },
 {
@@ -3107,7 +1308,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK\"",
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -3115,7 +1316,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[IBN_Login] [F] Received sub region list code=\"ERROR_OK\"",
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -3131,7 +1332,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK\"",
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -3139,7 +1340,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK\"",
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -3159,7 +1360,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED\" localizedMessage=\"\" debugMessage=\"\")\"",
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 97 entitlements.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"",
 0,
 },
 {
@@ -3167,10 +1372,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 93 entitlements.",
-0,
-},
-{
 "-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
@@ -3179,51 +1380,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000000001",
+"Proficiency in item class 2 set to 0x00001041f3",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000000041",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004041",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004441",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000025",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000006441",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000006451",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00000064d1",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00000064d1",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -3231,7 +1392,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/6/2024 (Sun) 9:31",
+"Time set to 11/20/2024 (Wed) 16:24",
 0,
 },
 {
@@ -3239,7 +1400,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"World transfer pending...",
+0,
+},
+{
 "Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
@@ -3255,119 +1424,387 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Attempted to register existing command: ShowObjUsage\n",
+"Sorting particles normally.",
 0,
 },
 {
-"Attempted to register existing command: SetDifficulty\n",
+"Multithreaded rendering enabled.",
 0,
 },
 {
-"Got new connection 3",
+"Multithreaded BeginDraw enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000000001",
+"Multithread shadows changed to 1.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008001",
+"Multithreaded prepass enabled.",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000021",
+"Multithreaded opaque pass enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c001",
+"Multithreaded opaque pass enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c003",
+"Multithreaded alpha M2 pass enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c403",
+"Multithreaded opaque WMO pass enabled.",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000061",
+"Multithreaded terrain pass enabled.",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000069",
+"Multithreaded volumetric fog enabled.",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000006d",
+"Multithreaded Refraction Pass enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c423",
+"Multithreaded miscellaneous passes enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000e423",
+"Multithreaded decal passes disabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000e433",
+"Multithreaded outline passes enabled.",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000006f",
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000e433",
+"Multithreaded daynight update enabled.",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000006f",
+"Water detail changed to 2",
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Ripple detail changed to 1",
 0,
 },
 {
-"Time set to 10/6/2024 (Sun) 9:33",
+"Reflection mode changed to 0",
 0,
 },
 {
-"Gamespeed set from 0.017 to 0.017",
+"Reflection downscale changed to 0",
 0,
 },
 {
-"Got new connection 3",
+"Sunshafts quality changed to 2",
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Refraction mode changed to 2",
 0,
 },
 {
-"Got new connection 3",
+"Volume fog enabled.",
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects enabled",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1732210395\" expirationTime=\"1732224795\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Got new connection 2",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 97 entitlements.",
 0,
 },
 {
 "-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: ShowObjUsage\n",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty\n",
 0,
 },
 {
@@ -3387,55 +1824,83 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Proficiency in item class 2 set to 0x0000008141",
+0,
+},
+{
 "Proficiency in item class 4 set to 0x0000000021",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004141",
+"Proficiency in item class 2 set to 0x000000c141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004143",
+"Proficiency in item class 2 set to 0x000004c141",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000029",
+"Proficiency in item class 2 set to 0x000004c143",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000002d",
+"Proficiency in item class 2 set to 0x000004c543",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000004163",
+"Proficiency in item class 4 set to 0x0000000061",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000003d",
+"Proficiency in item class 4 set to 0x0000000069",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000104163",
+"Proficiency in item class 4 set to 0x000000006d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000104173",
+"Proficiency in item class 2 set to 0x000004c547",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x00001041f3",
+"Proficiency in item class 2 set to 0x000004c54f",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000003f",
+"Proficiency in item class 2 set to 0x000004c56f",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x00001041f3",
+"Proficiency in item class 2 set to 0x000004e56f",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000003f",
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e57f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -3443,7 +1908,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/6/2024 (Sun) 10:33",
+"Time set to 11/21/2024 (Thu) 9:33",
 0,
 },
 {
@@ -3463,19 +1928,471 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
 "Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"Weather changed to 1, intensity 0.133368\n",
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
-"Weather changed to 2, intensity 0.262866\n",
+"Got new connection 3",
 0,
 },
 {
-"Weather changed to 1, intensity 0.166144\n",
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"NetClient::HandleDisconnect()\n",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net destroyed.",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from WoW previouslyConnected=\"true\"",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 2",
+0,
+},
+{
+"Ripple detail changed to 1",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 2",
+0,
+},
+{
+"Refraction mode changed to 2",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects enabled",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1732211068\" expirationTime=\"1732225468\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 97 entitlements.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 11/21/2024 (Thu) 9:44",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 5, intensity 1.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Skill 2881 increased from 59 to 60",
 0,
 },
 {
@@ -3492,6 +2409,862 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2401.43, -2223.31, -631.326)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2552 from previous map 2601 with translation: (-0.340088, -0.820068, -1131.33)\n    Location : (2464.83, -2337.83, -259.329)\n    Location in previous map : (2465.17, -2337.01, 872.004)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2552 and unloading map 2601. (Map Table Size 288 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2552",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2465.25, -2335.29, 873.764)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2601",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 2, intensity 0.230360\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.145406\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"GameTimeSync: delta=0, differential=1, HoursAndMinutes=623",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Sorting particles normally.",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 2",
+0,
+},
+{
+"Ripple detail changed to 1",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 2",
+0,
+},
+{
+"Refraction mode changed to 2",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects enabled",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1732226248\" expirationTime=\"1732240648\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Got new connection 2",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 97 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000000c141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c143",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c543",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c547",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c54f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004c56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000004e56f",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e57f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 11/21/2024 (Thu) 13:57",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 2, intensity 0.261120\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2664, Current MapID:2552, PreviousTransitionID:-1, Position (-541.345, -312.734, 399.205)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2664, Current MapID:2552, PreviousTransitionID:2664, Position (-513.217, -271.828, 379.522)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2664 from previous map 2552 with translation: (-1918.11, 2505.35, 327.201)\n    Location : (-509.389, -264.815, 378.944)\n    Location in previous map : (1408.72, -2770.17, 51.743)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2664 but keeping old map 2552 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2552",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2664",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2664, PreviousTransitionID:2552, Position (1408.72, -2770.17, 51.743)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Skill 2881 increased from 60 to 61",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2664, PreviousTransitionID:2552, Position (1740.3, -2513.2, -196.614)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2552, PreviousTransitionID:-1, Position (2453.61, -2288.74, 1040.78)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2601 from previous map 2552 with translation: (0.340088, 0.820068, 1131.33)\n    Location : (2260.04, -2263.45, 568.527)\n    Location in previous map : (2259.7, -2264.27, -562.806)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2601 and unloading map 2552. (Map Table Size 960 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2601",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2552, Current MapID:2601, PreviousTransitionID:-1, Position (2259.7, -2264.27, -562.806)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:2552",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2683, Current MapID:2601, PreviousTransitionID:-1, Position (133.923, 327.138, 204.432)",
+0,
+},
+{
+"[Airlock] Preload initiated.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2683, Current MapID:2601, PreviousTransitionID:2683, Position (117.386, 313.812, 198.241)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"[Airlock] Loading new map 2683 from previous map 2601 with translation: (-1385.48, 3007.58, -179.055)\n    Location : (107.038, 314.645, 198.256)\n    Location in previous map : (1492.52, -2692.93, 377.311)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2683 but keeping old map 2601 RESIDENT.",
+0,
+},
+{
+"[Airlock] Freezing AOI updates for old map 2601",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2683",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2683, PreviousTransitionID:2601, Position (1481.16, -2692.22, 377.229)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2601, Current MapID:2683, PreviousTransitionID:2601, Position (604.945, -2725.16, 377.758)",
+0,
+},
+{
+"[Airlock] Preload skipped - map is same as current map.",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Got new connection 3",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 1, intensity 0.000000\n",
 0,
 },
 {
@@ -3591,7 +3364,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/6/2024 (Sun) 11:03",
+"Time set to 11/21/2024 (Thu) 14:42",
 0,
 },
 {
@@ -3619,11 +3392,383 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Attempted to register existing command: ShowObjUsage\n",
+"Sorting particles normally.",
 0,
 },
 {
-"Attempted to register existing command: SetDifficulty\n",
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 2",
+0,
+},
+{
+"Ripple detail changed to 1",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 2",
+0,
+},
+{
+"Refraction mode changed to 2",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"Particulate volumes enabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Spell Clutter set to dynamic",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading enabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Enabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 0.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"Error display disabled",
+0,
+},
+{
+"Error display shown",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Displaying errors through fatal errors",
+0,
+},
+{
+"Now filtering: all messages",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects enabled",
+0,
+},
+{
+"[GlueLogin] [F] Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Resetting",
+0,
+},
+{
+"[IBN_Login] [F] Initializing",
+0,
+},
+{
+"[IBN_Login] [F] Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for server response.",
+0,
+},
+{
+"[GlueLogin] [F] Logon complete.",
+0,
+},
+{
+"[GlueLogin] [F] Reconnect token saved;  creationTime=\"1732236739\" expirationTime=\"1732251139\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Requesting realm list ticket",
+0,
+},
+{
+"[IBN_Login] [F] Received realm list ticket code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[GlueLogin] [F] Waiting for realm list.",
+0,
+},
+{
+"[IBN_Login] [F] Received sub region list code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[IBN_Login] [F] Requesting last played chars numSubRegions=\"6\"",
+0,
+},
+{
+"[GlueLogin] [F] Realm list ready.",
+0,
+},
+{
+"[IBN_Login] [F] Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"[IBN_Login] [F] OnRealmJoin code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"NetClient::HandleConnect()\n",
+0,
+},
+{
+"[GlueLogin] [F] Received AuthedToWoW result=\"ERROR_OK (0)\"",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnecting from authentication server.",
+0,
+},
+{
+"[IBN_BackInterface] [F] Session with Battle.net established.",
+0,
+},
+{
+"[IBN_Login] [F] Front disconnected connectionId=\"1\" result=\"( code=\"ERROR_NETWORK_MODULE_SOCKET_CLOSED (1016)\" localizedMessage=\"\" debugMessage=\"\")\"",
+0,
+},
+{
+"[GlueLogin] [F] Disconnected from authentication server.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 97 entitlements.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
@@ -3631,7 +3776,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008000",
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000008141",
 0,
 },
 {
@@ -3639,191 +3796,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c000",
+"Proficiency in item class 2 set to 0x000000c141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c400",
+"Proficiency in item class 2 set to 0x000004c141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c400",
+"Proficiency in item class 2 set to 0x000004c143",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/6/2024 (Sun) 11:11",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: ShowObjUsage\n",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000041",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004041",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000004441",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000025",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000006441",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000006451",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00000064d1",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x00000064d1",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000027",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 10/6/2024 (Sun) 11:17",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Attempted to register existing command: ShowObjUsage\n",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000000001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008001",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c001",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c003",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c403",
+"Proficiency in item class 2 set to 0x000004c543",
 0,
 },
 {
@@ -3839,27 +3824,47 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c423",
+"Proficiency in item class 2 set to 0x000004c547",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000e423",
+"Proficiency in item class 2 set to 0x000004c54f",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000e433",
+"Proficiency in item class 2 set to 0x000004c56f",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000006f",
+"Proficiency in item class 2 set to 0x000004e56f",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000e433",
+"Proficiency in item class 4 set to 0x000000007d",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x000000006f",
+"Proficiency in item class 2 set to 0x000014e56f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e57f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x000014e5ff",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -3867,7 +3872,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/6/2024 (Sun) 11:23",
+"Time set to 11/21/2024 (Thu) 16:52",
 0,
 },
 {
@@ -3883,15 +3888,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Player-3685-0A7F3116 TRAIT_VALIDATION: Failure: Config 5481978. 10 pending (including duplicates) after adding all open nodes.",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
+"Skill 2872 increased from 55 to 58",
 0,
 },
 {
@@ -3915,7 +3912,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008000",
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
 0,
 },
 {
@@ -3923,35 +3928,55 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c000",
+"Proficiency in item class 2 set to 0x0000004141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c400",
+"Proficiency in item class 2 set to 0x0000004143",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c400",
+"Proficiency in item class 4 set to 0x0000000061",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c480",
+"Proficiency in item class 4 set to 0x0000000069",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 4 set to 0x000000006d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 2 set to 0x0000004163",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 4 set to 0x000000007d",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -3959,7 +3984,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 10/6/2024 (Sun) 13:14",
+"Time set to 11/21/2024 (Thu) 16:53",
 0,
 },
 {
@@ -3975,31 +4000,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
-0,
-},
-{
-"Got new connection 3",
-0,
-},
-{
-"Weather changed to 1, intensity 0.000000\n",
+"Skill 2879 increased from 78 to 81",
 0,
 },
 {
@@ -4007,9 +4008,8 @@ Blizzard_Console_SavedVars = {
 0,
 },
 },
-["height"] = 300.0000610351563,
-["fontHeight"] = 14,
 ["isShown"] = false,
+["fontHeight"] = 14,
 ["commandHistory"] = {
 },
 }

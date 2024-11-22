@@ -25,31 +25,12 @@ RaiderIO_Config = {
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Dreg-turalyon"
+RaiderIO_LastCharacter = "us-Badam-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Kalahmeet-area-52"] = true,
-["us-Danil-zuljin"] = true,
-["us-Suplicia-zuljin"] = true,
-["us-Monkiijobs-zuljin"] = true,
-["us-Bobáh-area-52"] = true,
-["us-Ztazi-dalaran"] = true,
-["us-Arroura-area-52"] = true,
-["us-Zezr-dalaran"] = true,
-["us-Chittymage-aggramar"] = true,
-["us-Miesa-ysera"] = true,
-["us-Pazazel-area-52"] = true,
-["us-Parageslol-area-52"] = true,
-["us-Nehriel-dalaran"] = true,
-["us-Yvri-whisperwind"] = true,
-["us-Cheweyy-aerie-peak"] = true,
-["us-Virgall-zuljin"] = true,
-["us-Jénöda-zuljin"] = true,
-["us-Coachmcgurk-area-52"] = true,
-["us-Talmeryth-area-52"] = true,
-["us-Kaagron-gorefiend"] = true,
-["us-Puyu-area-52"] = true,
-["us-Dreg-turalyon"] = true,
-["us-Chouno-zuljin"] = true,
+["us-Badam-turalyon"] = true,
+["us-Zantdruid-turalyon"] = true,
+["us-Ted-turalyon"] = true,
+["us-Jayleigh-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

@@ -1,42 +1,44 @@
 
 OmniCCDB = {
-["profileKeys"] = {
-["Fernie - Turalyon"] = "Default",
-["Adomic - Turalyon"] = "Default",
-["Kurate - Turalyon"] = "Default",
-["Allevin - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
-["Asaam - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
-["Caldo - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
-["Jakar - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
-["Artoc - Zul'jin"] = "Default",
-["Adaam - Turalyon"] = "Default",
-["Amdamn - Bloodscalp"] = "Default",
-["Abel - Turalyon"] = "Default",
-["Adamancy - Turalyon"] = "Default",
-["Artoc - Silvermoon"] = "Default",
-["Furrys - Turalyon"] = "Default",
-["Adreya - Bloodscalp"] = "Default",
-["Christifur - Turalyon"] = "Default",
-["Adonis - Turalyon"] = "Default",
-["Aduum - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
-["Svend - Turalyon"] = "Default",
-["Broddah - Doomhammer"] = "Default",
-["Drunkan - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
-["Tupac - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
-["Shado - Turalyon"] = "Default",
-},
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "11.0.2",
+["addonVersion"] = "11.0.5",
+},
+["profileKeys"] = {
+["Allevin - Turalyon"] = "Default",
+["Svend - Turalyon"] = "Default",
+["Adaam - Turalyon"] = "Default",
+["Caldo - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Jakar - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
+["Adamancy - Turalyon"] = "Default",
+["Furrys - Turalyon"] = "Default",
+["Artoc - Silvermoon"] = "Default",
+["Adamantium - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Fernie - Turalyon"] = "Default",
+["Christifur - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
+["Adreya - Bloodscalp"] = "Default",
+["Amdamn - Bloodscalp"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Adonis - Turalyon"] = "Default",
+["Shado - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
+["Broddah - Doomhammer"] = "Default",
+["Asaam - Turalyon"] = "Default",
+["Artoc - Zul'jin"] = "Default",
+["Kurate - Turalyon"] = "Default",
+["Tupac - Turalyon"] = "Default",
+["Powerpriest - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -64,9 +66,9 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
-["soon"] = {
-},
 ["minutes"] = {
+},
+["soon"] = {
 },
 ["seconds"] = {
 },
@@ -102,9 +104,9 @@ OmniCCDB = {
 },
 ["Ignore"] = {
 ["textStyles"] = {
-["minutes"] = {
-},
 ["seconds"] = {
+},
+["minutes"] = {
 },
 ["soon"] = {
 },
@@ -125,17 +127,7 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
-["groups"] = {
-{
-["id"] = "Ignore",
-["rules"] = {
-"LossOfControl",
-"TotemFrame",
-},
-["enabled"] = true,
-},
-},
-["version"] = "8.2.5",
+["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -189,11 +181,11 @@ OmniCC4Config = {
 ["yOff"] = 0,
 ["xOff"] = 0,
 ["version"] = "3.1.4",
-["fontFace"] = "Fonts\\FRIZQT__.TTF",
-["fontSize"] = 18,
-["minEffectDuration"] = 30,
-["minSize"] = 0.5,
 ["scaleText"] = true,
+["minSize"] = 0.5,
+["minEffectDuration"] = 30,
+["fontSize"] = 18,
+["fontFace"] = "Fonts\\FRIZQT__.TTF",
 },
 ["Ignore"] = {
 ["fontSize"] = 18,
@@ -208,9 +200,7 @@ OmniCC4Config = {
 ["yOff"] = 0,
 ["xOff"] = 0,
 ["version"] = "3.1.4",
-["scaleText"] = true,
-["minSize"] = 0.5,
-["minEffectDuration"] = 30,
+["fontFace"] = "Fonts\\FRIZQT__.TTF",
 ["styles"] = {
 ["soon"] = {
 ["a"] = 1,
@@ -250,8 +240,20 @@ OmniCC4Config = {
 ["controlled"] = {
 },
 },
-["fontFace"] = "Fonts\\FRIZQT__.TTF",
+["minEffectDuration"] = 30,
+["minSize"] = 0.5,
+["scaleText"] = true,
 },
 },
-["engine"] = "AniUpdater",
+["groups"] = {
+{
+["id"] = "Ignore",
+["rules"] = {
+"LossOfControl",
+"TotemFrame",
+},
+["enabled"] = true,
+},
+},
+["version"] = "8.2.5",
 }

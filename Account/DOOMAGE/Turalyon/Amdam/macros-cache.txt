@@ -53,7 +53,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [@mouseover] Intercession;
+/use [@mouseover] Intercession
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
@@ -64,7 +64,7 @@ VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast Avenging Wrath
+/cast [known:Sentinel] Sentinel; Avenging Wrath
 /use 13
 /use 14
 /script UIErrorsFrame:Clear()

@@ -26,7 +26,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "134400"
 #showtooltip
-/cast [mod:alt,@cursor] Elysian Decree; [@cursor] Sigil of Flame;
+/cast [mod:alt,@cursor] Sigil of Spite; [@cursor] Sigil of Flame;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"

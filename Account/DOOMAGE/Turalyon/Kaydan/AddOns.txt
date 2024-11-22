@@ -81,3 +81,4 @@ Baganator: enabled
 BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
+LittleWigs_Classic: enabled
