@@ -73,7 +73,7 @@ RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 RaiderIO_DB_KR_F: disabled
 Kui_Media: enabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
 OmniCD: enabled
@@ -84,7 +84,7 @@ ElvUI_ExtraDataTexts: disabled
 ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 BattleGroundEnemies: disabled
-Plater: disabled
+Plater: enabled
 TomCats-Bundled-DeathsRising: disabled
 Tukui_NamePlateFeatures: disabled
 ElvUI_ChatTweaks: disabled
@@ -116,3 +116,6 @@ BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
+Baganator-ElvUI: disabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

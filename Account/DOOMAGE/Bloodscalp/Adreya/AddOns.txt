@@ -171,7 +171,7 @@ RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
-Plater: disabled
+Plater: enabled
 TipTacItemRef: disabled
 TipTac: disabled
 TipTacOptions: disabled
@@ -196,3 +196,10 @@ ElvUI_Options: enabled
 LittleWigs_MistsOfPandaria: enabled
 LittleWigs_BattleForAzeroth: enabled
 LittleWigs_BurningCrusade: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+LittleWigs_Legion: enabled
+Baganator-ElvUI: disabled
+LittleWigs_WarlordsOfDraenor: enabled
+Kui_Nameplates: disabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

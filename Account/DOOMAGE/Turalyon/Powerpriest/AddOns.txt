@@ -18,7 +18,7 @@ ArkInventoryRules_Example: enabled
 ArkInventorySearch: enabled
 Auctionator: enabled
 Baganator: enabled
-Baganator-ElvUI: enabled
+Baganator-ElvUI: disabled
 BattleGroundEnemies: disabled
 BigWigs: enabled
 BigWigs_Voice: enabled
@@ -52,7 +52,7 @@ HandyNotes_TheWarWithin: enabled
 HandyNotes_DragonGlyphs: enabled
 Hekili: enabled
 Kui_Media: enabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
 LittleWigs: enabled
@@ -74,7 +74,7 @@ OmniCC_Config: enabled
 OmniCD: enabled
 OPie: enabled
 Parrot: enabled
-Plater: disabled
+Plater: enabled
 RaiderIO_DB_US_M: enabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_KR_M: disabled
@@ -124,3 +124,5 @@ kExtraBossFrames: disabled
 WeakAurasCompanion: enabled
 OPie_Classic: disabled
 Blizzard_CombatText: enabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

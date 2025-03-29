@@ -3,7 +3,10 @@ VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
 /click [target=mouseover] ExtraActionButton1
 END
 VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+#showtooltip
 /dismount
+/cast [nomounted,noflyable] G-99 Breakneck
+/run if not IsMounted() then C_MountJournal.SummonByID(0) end
 END
 VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
 /way 20.5 43.9 Elder Gwenna 
@@ -135,6 +138,9 @@ VER 3 0000000000000025 "ship shit" "134190"
 END
 VER 3 0000000000000011 "single" "Ability_BullRush"
 su'gon! gizza mah flavid goom ina flib flab sim!
+END
+VER 3 0000000000000065 "target" "134400"
+/targetlasttarget
 END
 VER 3 0000000000000003 "timelost" "ACHIEVEMENT_GUILDPERK_MOUNTUP"
 /tar Time

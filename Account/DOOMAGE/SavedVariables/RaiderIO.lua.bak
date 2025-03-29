@@ -3,16 +3,16 @@ RaiderIO_Config = {
 ["minimapIcon"] = {
 ["minimapPos"] = 180,
 ["showInCompartment"] = true,
-["lock"] = false,
 ["hide"] = false,
+["lock"] = false,
 },
 ["enableKeystoneTooltips"] = true,
-["enableFriendsTooltips"] = true,
-["enableUnitTooltips"] = true,
 ["alwaysExtendTooltip"] = false,
+["enableUnitTooltips"] = true,
+["enableFriendsTooltips"] = true,
 ["disableScoreColors"] = false,
 ["showDropDownCopyURL"] = true,
-["showSimpleScoreColors"] = false,
+["enableWhoTooltips"] = true,
 ["profilePoint"] = {
 ["y"] = 0,
 ["x"] = -16,
@@ -21,16 +21,17 @@ RaiderIO_Config = {
 ["enableLFGTooltips"] = true,
 ["showMainsScore"] = true,
 ["enableWhoMessages"] = true,
-["enableWhoTooltips"] = true,
+["showSimpleScoreColors"] = false,
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Badam-turalyon"
+RaiderIO_LastCharacter = "us-Kaydan-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Badam-turalyon"] = true,
-["us-Zantdruid-turalyon"] = true,
-["us-Ted-turalyon"] = true,
-["us-Jayleigh-turalyon"] = true,
+["us-Draagon-turalyon"] = true,
+["us-Licunn-dalaran"] = true,
+["us-Unknown-turalyon"] = true,
+["us-Kaydan-turalyon"] = true,
+["us-Mosiris-kilrogg"] = true,
 }
 RaiderIO_MissingServers = {
 }

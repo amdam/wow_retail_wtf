@@ -33,3 +33,11 @@ ElvUI_Options: enabled
 LittleWigs_MistsOfPandaria: enabled
 LittleWigs_BattleForAzeroth: enabled
 LittleWigs_BurningCrusade: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+LittleWigs_Legion: enabled
+Baganator-ElvUI: disabled
+LittleWigs_WarlordsOfDraenor: enabled
+Kui_Nameplates: disabled
+Plater: enabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

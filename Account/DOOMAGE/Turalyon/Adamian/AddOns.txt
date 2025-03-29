@@ -43,7 +43,7 @@ BattlegroundTargets: disabled
 BigWigs: disabled
 HHTD: disabled
 NPCScan: disabled
-Plater: disabled
+Plater: enabled
 TipTac: disabled
 TipTacItemRef: disabled
 TipTacTalents: disabled
@@ -86,7 +86,7 @@ AngryKeystones: enabled
 HandyNotes: enabled
 WorldQuestTracker: enabled
 VenturePlan: disabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Media: enabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
@@ -96,3 +96,6 @@ BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
+Baganator-ElvUI: disabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

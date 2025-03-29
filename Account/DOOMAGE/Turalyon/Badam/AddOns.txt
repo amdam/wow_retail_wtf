@@ -176,7 +176,7 @@ TipTacOptions: disabled
 DejaCharacterStats: enabled
 ElvUI_QuestXP: disabled
 Kui_Media: enabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
 OmniCD: enabled
@@ -194,7 +194,7 @@ RaiderIO_DB_KR_F: disabled
 RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
-Plater: disabled
+Plater: enabled
 ElvUI_Options: enabled
 Tukui_NamePlateFeatures: disabled
 VenturePlan: disabled
@@ -229,3 +229,6 @@ HandyNotes: enabled
 Baganator: enabled
 BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
+Baganator-ElvUI: disabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

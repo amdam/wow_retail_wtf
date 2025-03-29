@@ -30,12 +30,12 @@ VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier,nochanneling] Steady Shot; /cast [modifier:alt,nochanneling] Explosive Shot
+/cast [mod:shift] Implosive Trap; [mod:alt,nochanneling,@cursor] Volley; Steady Shot
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Volley; Rapid Fire;
+/cast [mod:alt] Bursting Shot; Rapid Fire;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
@@ -69,6 +69,17 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:shift] Sniper Shot; [mod:alt] Bursting Shot; [nochanneling] Aimed Shot
+/petattack
+/cast [mod:shift] Sniper Shot; [mod:alt] Explosive Shot; [nochanneling] Aimed Shot
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Explosive Shot] Explosive Shot; Barbed Shot;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000013 " " "134400"
+#showtooltip
+/cast [@pet,dead][nopet] Revive Pet; Mend Pet;
 /script UIErrorsFrame:Clear()
 END

@@ -3,16 +3,13 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "Ørred 2a (4.132)",
+["_OPieVersion"] = "Ånd 5a (4.133)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "11.0.5",
+["_GameVersion"] = "11.1.0",
 ["ProfileStorage"] = {
 ["default"] = {
-["RotationTokens"] = {
-["OPCTAt"] = "OPCHSt",
-},
 ["Bindings"] = {
 ["ipmentSets1"] = false,
 ["CommonTrades"] = false,
@@ -99,14 +96,18 @@ OPie_SavedData = {
 },
 ["CommonTrades"] = {
 {
-["sliceToken"] = "OPCCTc",
 ["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+["sliceToken"] = "OPCCTc",
 ["vm"] = 2,
 },
 {
 ["id"] = "/cast {{spell:2018/51300}}",
 ["sliceToken"] = "OPCCTb",
-["vm"] = 2,
+},
+{
+["show"] = "[in:tww]",
+["sliceToken"] = "OPCCTsk",
+["id"] = 440977,
 },
 {
 ["id"] = "/cast {{spell:2259/51304}}",
@@ -119,19 +120,27 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTfj",
 ["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTj",
 ["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
-["vm"] = 2,
+["sliceToken"] = "OPCCTj",
 },
 {
 ["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
 ["sliceToken"] = "OPCCTi",
-["vm"] = 2,
+},
+{
+["show"] = "[in:tww]",
+["sliceToken"] = "OPCCTsm",
+["id"] = 442615,
+},
+{
+["show"] = "[in:tww]",
+["sliceToken"] = "OPCCTht",
+["id"] = 439871,
 },
 {
 ["id"] = "/cast {{spell:3908/51309}}",
@@ -148,9 +157,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTr",
 ["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
-["vm"] = 2,
+["sliceToken"] = "OPCCTr",
 },
 {
 ["id"] = 53428,
@@ -165,8 +173,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTl",
 },
 {
-["sliceToken"] = "OPCCTm",
 ["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
+["sliceToken"] = "OPCCTm",
 },
 {
 ["sliceToken"] = "ABueaL4inxa",
@@ -187,8 +195,8 @@ OPie_SavedData = {
 ["id2"] = 51300,
 },
 {
-["c"] = "3319e5",
 ["sliceToken"] = "ABueaL4inx2",
+["c"] = "3319e5",
 ["id"] = 25229,
 ["id2"] = 51311,
 },
@@ -205,8 +213,8 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["c"] = "c13f0f",
 ["sliceToken"] = "ABueaL4inxy",
+["c"] = "c13f0f",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
@@ -234,7 +242,7 @@ OPie_SavedData = {
 ["id"] = 2656,
 },
 ["save"] = true,
-["v"] = 3,
+["v"] = 5,
 ["hotkey"] = "ALT-T",
 ["name"] = "Trade Skills",
 ["version"] = 4,
@@ -275,12 +283,12 @@ OPie_SavedData = {
 ["onlyNonEmpty"] = true,
 },
 {
-["sliceToken"] = "OPCPAt",
 ["id"] = 1022,
+["sliceToken"] = "OPCPAt",
 },
 {
-["sliceToken"] = "OPCPAe",
 ["id"] = 1044,
+["sliceToken"] = "OPCPAe",
 },
 {
 ["id"] = 25780,
@@ -381,8 +389,8 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
 },
-["name"] = "Portals and Teleports",
 ["limit"] = "MAGE",
+["name"] = "Portals and Teleports",
 ["hotkey"] = "ALT-G",
 ["save"] = true,
 ["vm"] = 127,

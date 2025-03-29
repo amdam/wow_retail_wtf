@@ -47,7 +47,6 @@ VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/startattack
 /cast [mod:alt] Consecration; Crusader Strike
 /script UIErrorsFrame:Clear()
 END
@@ -64,7 +63,7 @@ VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast Avenging Wrath
+/cast [known:Sentinel] Sentinel; Avenging Wrath
 /use 13
 /use 14
 /script UIErrorsFrame:Clear()
@@ -92,7 +91,6 @@ VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover, help, nodead][help, nodead][@player] Word of Glory
 /use Healthstone
-/use Algari Healing Potion
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"

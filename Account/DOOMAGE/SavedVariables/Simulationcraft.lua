@@ -27,17 +27,17 @@ SimulationCraftDB = {
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
+["Broddah - Doomhammer"] = "Broddah - Doomhammer",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
 ["Christifur - Turalyon"] = "Christifur - Turalyon",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Adris - Turalyon"] = "Adris - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
 ["Allevin - Turalyon"] = {
@@ -59,12 +59,12 @@ SimulationCraftDB = {
 ["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
-["frame"] = {
-["ofsx"] = -20.74081993103027,
-["ofsy"] = 16.59275627136231,
-},
 ["minimap"] = {
-["minimapPos"] = 42.40893992104903,
+["minimapPos"] = 335.8394311084543,
+},
+["frame"] = {
+["ofsx"] = -20.74075317382813,
+["ofsy"] = 16.59272956848145,
 },
 },
 ["Furrys - Turalyon"] = {
@@ -107,24 +107,15 @@ SimulationCraftDB = {
 },
 ["Drunkan - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Shado - Turalyon"] = {
 },
 ["Adonis - Turalyon"] = {
 },
-["Powerpriest - Turalyon"] = {
+["Broddah - Doomhammer"] = {
 },
 ["Dreg - Turalyon"] = {
 },
 ["Christifur - Turalyon"] = {
-},
-["Kayne - Turalyon"] = {
-["frame"] = {
-["ofsx"] = 4.525201320648193,
-["ofsy"] = 5.171670436859131,
-},
-["minimap"] = {
-["minimapPos"] = 324.307535653447,
-},
 },
 ["Adrid - Turalyon"] = {
 ["frame"] = {
@@ -132,13 +123,22 @@ SimulationCraftDB = {
 ["ofsy"] = 3.890474181389436e-05,
 },
 },
+["Kayne - Turalyon"] = {
+["minimap"] = {
+["minimapPos"] = 324.307535653447,
+},
+["frame"] = {
+["ofsx"] = 4.525201320648193,
+["ofsy"] = 5.171670436859131,
+},
+},
 ["Adris - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Broddah - Doomhammer"] = {
+["Powerpriest - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Adomic - Turalyon"] = {
 },
 },
 }

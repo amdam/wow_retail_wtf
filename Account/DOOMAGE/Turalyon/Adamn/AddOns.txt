@@ -102,7 +102,7 @@ Skada: disabled
 DejaCharacterStats: enabled
 ElvUI_QuestXP: disabled
 Kui_Media: enabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
 OmniCD: disabled
@@ -125,7 +125,7 @@ TipTacOptions: disabled
 TipTacTalents: disabled
 BattleGroundEnemies: disabled
 OmniCC_Config: disabled
-Plater: disabled
+Plater: enabled
 Tukui_NamePlateFeatures: disabled
 ArkInventoryRules: enabled
 ArkInventorySearch: enabled
@@ -165,3 +165,6 @@ BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
+Baganator-ElvUI: disabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

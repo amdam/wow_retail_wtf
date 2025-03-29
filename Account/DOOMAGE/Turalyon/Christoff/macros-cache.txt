@@ -37,14 +37,15 @@ VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
+#showtooltip Rebirth
 /stopcasting
+/cast Nature's Swiftness
 /use [@mouseover, help][help][@player] Rebirth
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Savage Roar; Ferocious Bite;
+/cast [mod:alt,spec:4] Moonfire; [mod:alt] Savage Roar; Ferocious Bite;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
@@ -81,5 +82,10 @@ END
 VER 3 0100000000000010 " " "134400"
 #showtooltip
 /cast [mod:alt,known:Fury of Elune] Fury of Elune; [mod:alt,known:New Moon] New Moon; [known:Stellar Flare] Stellar Flare;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000011 " " "134400"
+#showtooltip
+/cast [mod:alt,spec:4] Sunfire; Rip;
 /script UIErrorsFrame:Clear()
 END

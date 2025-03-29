@@ -69,7 +69,7 @@ RaiderIO_DB_EU_R: disabled
 RaiderIO_DB_EU_M: disabled
 RaiderIO_DB_EU_F: disabled
 Kui_Media: enabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
 OmniCD: disabled
@@ -108,3 +108,7 @@ BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
+Baganator-ElvUI: disabled
+Plater: enabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled

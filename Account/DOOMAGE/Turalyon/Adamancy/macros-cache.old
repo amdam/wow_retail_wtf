@@ -6,7 +6,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,nochanneling] Arcane Explosion; [mod:shift] Frostbolt; [spec:2] Fireball; [spec:3] Frostbolt; [spec:1,nochanneling] Arcane Blast;
+/cast [mod:alt,nochanneling] Arcane Explosion; [mod:shift] Frostbolt; [known:Frostfire Bolt] Frostfire Bolt; [spec:2] Fireball; [spec:3] Frostbolt; [spec:1,nochanneling] Arcane Blast;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
@@ -84,7 +84,9 @@ END
 VER 3 010000000000001D " " "134400"
 #showtooltip Arcane Surge
 /use 13
-/cast Arcane Surge;
+/castsequence reset=10 13, Arcane Surge, Arcane Surge
+/cast Arcane Surge
+/cqs
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000001E " " "134400"

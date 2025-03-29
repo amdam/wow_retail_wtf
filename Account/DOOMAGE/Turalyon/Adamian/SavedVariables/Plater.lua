@@ -1,17 +1,23 @@
 
 PlaterDBChr = {
-	["spellRangeCheckRangeFriendly"] = {
-	},
-	["buffsBanned"] = {
-	},
-	["first_run3"] = {
-		["Player-3685-0DFC95BB"] = true,
-	},
-	["spellRangeCheckRangeEnemy"] = {
-	},
-	["resources_on_target"] = false,
-	["debuffsBanned"] = {
-	},
-	["minimap"] = {
-	},
+["spellRangeCheckRangeFriendly"] = {
+[1467] = 25,
+[1468] = 25,
+[1473] = 25,
+},
+["buffsBanned"] = {
+},
+["first_run3"] = {
+["Player-3685-0DFC95BB"] = true,
+},
+["spellRangeCheckRangeEnemy"] = {
+[1467] = 25,
+[1468] = 25,
+[1473] = 25,
+},
+["resources_on_target"] = false,
+["debuffsBanned"] = {
+},
+["minimap"] = {
+},
 }

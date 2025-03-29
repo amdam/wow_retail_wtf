@@ -10,12 +10,12 @@ VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Mana Spring Totem] Mana Spring Totem; [known:Healing Stream Totem] Healing Stream Totem;
+/cast [mod:alt,known:Thunderstorm] Thunderstorm; [known:Healing Stream Totem] Healing Stream Totem;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Liquid Magma Totem] Liquid Magma Totem; [mod:alt,known:Fire Nova] Fire Nova; Flame Shock;
+/cast [mod:alt,known:Liquid Magma Totem] Liquid Magma Totem; [mod:alt,known:Fire Nova] Fire Nova; [mod:shift] Frost Shock; Flame Shock;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
@@ -41,5 +41,38 @@ END
 VER 3 010000000000000A " " "134400"
 #showtooltip
 /cast [mod:alt,known:Primordial Wave] Primordial Wave; Lava Burst;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip
+/stopcasting
+/cast [@mouseover, help, nodead][help, nodead][@player] Purify Spirit
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip
+/stopcasting
+/cast [@mouseover, help, nodead][help, nodead][@player] Cleanse Spirit
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000D " " "134400"
+#showtooltip
+/cast [mod:alt,known:Thunderstorm] Thunderstorm; Primordial Wave;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "134400"
+#showtooltip
+/cast [mod:alt] Frost Shock; Feral Spirit;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [known:Ascendance] Ascendance;
+/use 13
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000010 " " "134400"
+#showtooltip
+/cast [@focus,exists][] Wind Shear;
 /script UIErrorsFrame:Clear()
 END

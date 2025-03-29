@@ -43,9 +43,8 @@ VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
 /cast [target=focus] Blind
 END
 VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
-#showtooltip Between the Eyes
-/cast [known:Cold Blood] Cold Blood;
-/cast [mod:alt,known:Echoing Reprimand] Echoing Reprimand; Between the Eyes;
+#showtooltip
+/cast [mod:alt] Slice and Dice; Between the Eyes;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
@@ -84,5 +83,10 @@ END
 VER 3 010000000000001B " " "134400"
 #showtooltip
 /cast [mod:alt] Kingsbane; Echoing Reprimand;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001C " " "134400"
+#showtooltip
+/cast [@focus,exists][] Kick;
 /script UIErrorsFrame:Clear()
 END

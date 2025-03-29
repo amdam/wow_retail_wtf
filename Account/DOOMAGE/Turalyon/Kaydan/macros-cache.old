@@ -5,7 +5,7 @@ VER 3 0100000000000004 " " "134400"
 END
 VER 3 0100000000000003 " " "134400"
 #showtooltip
-/cast [mod:alt] Throw Glaive; [known:The Hunt] The Hunt; Throw Glaive;
+/cast [mod:alt,known:The Hunt] The Hunt; [known:Essence Break] Essence Break;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000005 " " "134400"
@@ -15,7 +15,7 @@ VER 3 0100000000000005 " " "134400"
 END
 VER 3 0100000000000006 " " "134400"
 #showtooltip
-/cast [mod:alt] Spirit Bomb; Soul Cleave;
+/cast [mod:alt,known:Spirit Bomb] Spirit Bomb; Soul Cleave;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -26,7 +26,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "134400"
 #showtooltip
-/cast [mod:alt,@cursor] Elysian Decree; [@cursor] Sigil of Flame;
+/cast [mod:alt,@cursor] Sigil of Spite; [@cursor] Sigil of Flame;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
@@ -37,7 +37,7 @@ VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000008 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Essence Break] Essence Break; Felblade;
+/cast [mod:alt,known:Fiery Brand] Fiery Brand; Felblade;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "134400"
@@ -48,5 +48,21 @@ END
 VER 3 010000000000000A " " "134400"
 #showtooltip
 /cast [mod:alt] Throw Glaive; Demon's Bite;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip
+/cast Metamorphosis
+/use [@player] 13
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip
+/cast [@cursor] Sigil of Misery;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000D " " "134400"
+#showtooltip
+/cast [@focus,exists][] Disrupt
 /script UIErrorsFrame:Clear()
 END

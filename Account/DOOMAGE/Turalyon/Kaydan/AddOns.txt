@@ -25,10 +25,10 @@ TipTac: disabled
 WorldQuestTracker: enabled
 DejaCharacterStats: enabled
 Kui_Media: enabled
-Kui_Nameplates: enabled
+Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
-OmniCD: disabled
+OmniCD: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 BigWigs_Core: enabled
@@ -54,7 +54,7 @@ ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 WunderUI: disabled
 ElvUI_Options: enabled
-Plater: disabled
+Plater: enabled
 RematchElvUISkin: disabled
 Blizzard_CombatText: enabled
 BigWigs_Voice: enabled
@@ -82,3 +82,6 @@ BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
+Baganator-ElvUI: disabled
+Cell: disabled
+BigWigs_LiberationOfUndermine: enabled
