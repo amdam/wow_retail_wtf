@@ -112,3 +112,4 @@ Baganator-ElvUI: disabled
 Plater: enabled
 Cell: disabled
 BigWigs_LiberationOfUndermine: enabled
+Parrot: disabled

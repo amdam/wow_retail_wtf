@@ -238,3 +238,4 @@ LittleWigs_Shadowlands: enabled
 Baganator-ElvUI: disabled
 Cell: disabled
 BigWigs_LiberationOfUndermine: enabled
+Parrot: disabled

@@ -41,3 +41,4 @@ Kui_Nameplates: disabled
 Plater: enabled
 Cell: disabled
 BigWigs_LiberationOfUndermine: enabled
+Parrot: disabled

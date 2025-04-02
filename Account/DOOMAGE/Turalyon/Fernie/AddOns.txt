@@ -91,7 +91,7 @@ OmniCC: enabled
 OmniCC_Config: enabled
 OmniCD: disabled
 OPie: enabled
-Parrot: enabled
+Parrot: disabled
 Plater: enabled
 RaiderIO_DB_US_M: enabled
 RaiderIO_DB_EU_M: disabled

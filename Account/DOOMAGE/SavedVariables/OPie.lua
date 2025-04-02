@@ -89,15 +89,15 @@ OPie_SavedData = {
 ["show"] = "[spec:64/63] hide;",
 ["sliceToken"] = "ABue376TIGe",
 },
-["limit"] = "Adamancy-Turalyon",
+["name"] = "Equipment sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment sets",
+["limit"] = "Adamancy-Turalyon",
 },
 ["CommonTrades"] = {
 {
-["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["sliceToken"] = "OPCCTc",
+["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["vm"] = 2,
 },
 {
@@ -120,8 +120,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["sliceToken"] = "OPCCTfj",
+["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["vm"] = 2,
 },
 {
@@ -143,8 +143,8 @@ OPie_SavedData = {
 ["id"] = 439871,
 },
 {
-["id"] = "/cast {{spell:3908/51309}}",
 ["sliceToken"] = "OPCCTt",
+["id"] = "/cast {{spell:3908/51309}}",
 },
 {
 ["id"] = 194174,
@@ -157,16 +157,16 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
 ["sliceToken"] = "OPCCTr",
+["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
 },
 {
 ["id"] = 53428,
 ["sliceToken"] = "OPCCTu",
 },
 {
-["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
 ["sliceToken"] = "OPCCTe",
+["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
 },
 {
 ["id"] = "/cast {{spell:2108/51302}}",
@@ -177,8 +177,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTm",
 },
 {
-["sliceToken"] = "ABueaL4inxa",
 ["c"] = "d8d1ad",
+["sliceToken"] = "ABueaL4inxa",
 ["id"] = 3908,
 ["id2"] = 51309,
 },
@@ -201,8 +201,8 @@ OPie_SavedData = {
 ["id2"] = 51311,
 },
 {
-["sliceToken"] = "ABueaL4inxi",
 ["c"] = "f4ef28",
+["sliceToken"] = "ABueaL4inxi",
 ["id"] = 7411,
 ["id2"] = 51313,
 },
@@ -213,8 +213,8 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["sliceToken"] = "ABueaL4inxy",
 ["c"] = "c13f0f",
+["sliceToken"] = "ABueaL4inxy",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
@@ -301,33 +301,33 @@ OPie_SavedData = {
 },
 ["MageTravel"] = {
 {
-["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 ["sliceToken"] = "OPCMVb",
+["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 ["sliceToken"] = "OPCMVv",
+["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 ["sliceToken"] = "OPCMVr",
+["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 ["sliceToken"] = "OPCMVs",
+["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
 ["sliceToken"] = "OPCMVw",
+["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 ["sliceToken"] = "OPCMVd",
+["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
 },
 {
 ["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
@@ -340,8 +340,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 ["sliceToken"] = "OPCMVi",
+["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
 ["vm"] = 2,
 },
 {
@@ -361,40 +361,40 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}}",
 ["sliceToken"] = "OPCMV1",
+["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}}",
 },
 {
-["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
 ["sliceToken"] = "OPCMVx",
+["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
 ["sliceToken"] = "ABue3Xt7/Yi",
+["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
 },
 {
-["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
 ["sliceToken"] = "OPCMV9",
+["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
 },
 {
-["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 ["sliceToken"] = "OPCMV0",
+["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
 },
 {
-["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
 ["sliceToken"] = "OPCMV8",
+["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
 },
 {
-["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
+["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 },
+["save"] = true,
+["v"] = 2,
+["hotkey"] = "ALT-G",
 ["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
-["hotkey"] = "ALT-G",
-["save"] = true,
 ["vm"] = 127,
-["v"] = 2,
 },
 ["ipmentSets"] = {
 {
@@ -491,10 +491,10 @@ OPie_SavedData = {
 ["show"] = "[spec:73/72] hide;",
 ["sliceToken"] = "ABuesXRQAcr",
 },
-["limit"] = "Badam-Turalyon",
+["name"] = "Equipment Sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment Sets",
+["limit"] = "Badam-Turalyon",
 },
 },
 },

@@ -96,13 +96,13 @@ OPie_SavedData = {
 },
 ["CommonTrades"] = {
 {
-["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["sliceToken"] = "OPCCTc",
+["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["vm"] = 2,
 },
 {
-["id"] = "/cast {{spell:2018/51300}}",
 ["sliceToken"] = "OPCCTb",
+["id"] = "/cast {{spell:2018/51300}}",
 },
 {
 ["show"] = "[in:tww]",
@@ -120,8 +120,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["sliceToken"] = "OPCCTfj",
+["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["vm"] = 2,
 },
 {
@@ -173,8 +173,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTl",
 },
 {
-["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 ["sliceToken"] = "OPCCTm",
+["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 },
 {
 ["sliceToken"] = "ABueaL4inxa",
@@ -189,8 +189,8 @@ OPie_SavedData = {
 ["id2"] = 51302,
 },
 {
-["sliceToken"] = "ABueaL4inxo",
 ["c"] = "f4aa0f",
+["sliceToken"] = "ABueaL4inxo",
 ["id"] = 2018,
 ["id2"] = 51300,
 },
@@ -213,8 +213,8 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["sliceToken"] = "ABueaL4inxy",
 ["c"] = "c13f0f",
+["sliceToken"] = "ABueaL4inxy",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
@@ -389,8 +389,8 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
 },
-["name"] = "Portals and Teleports",
 ["limit"] = "MAGE",
+["name"] = "Portals and Teleports",
 ["hotkey"] = "ALT-G",
 ["save"] = true,
 ["vm"] = 127,
@@ -447,8 +447,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "prot",
-["show"] = "[spec:71/72] hide;",
 ["sliceToken"] = "ABueskpEsp4",
+["show"] = "[spec:71/72] hide;",
 },
 {
 "equipmentset",
@@ -459,8 +459,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "fury",
-["show"] = "[spec:73/71] hide;",
 ["sliceToken"] = "ABueskpEspg",
+["show"] = "[spec:73/71] hide;",
 },
 {
 "equipmentset",
@@ -491,10 +491,10 @@ OPie_SavedData = {
 ["show"] = "[spec:73/72] hide;",
 ["sliceToken"] = "ABuesXRQAcr",
 },
-["limit"] = "Badam-Turalyon",
+["name"] = "Equipment Sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment Sets",
+["limit"] = "Badam-Turalyon",
 },
 },
 },

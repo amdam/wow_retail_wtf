@@ -3,12 +3,12 @@ LoggerHeadDB = {
 ["profileKeys"] = {
 ["Abel - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Drunkan - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -34,7 +34,7 @@ LoggerHeadDB = {
 [2] = false,
 [23] = true,
 },
-["Temple of the Jade Serpent"] = {
+["Gate of the Setting Sun"] = {
 [24] = false,
 },
 ["Darkflame Cleft"] = {
@@ -45,27 +45,27 @@ LoggerHeadDB = {
 [23] = true,
 [8] = true,
 },
+["Theater of Pain"] = {
+false,
+[8] = true,
+[23] = true,
+},
 ["Stormstout Brewery"] = {
 [24] = false,
-},
-["Scholomance"] = {
-[24] = false,
-},
-["Priory of the Sacred Flame"] = {
-[23] = true,
-[8] = true,
 },
 ["Operation: Floodgate"] = {
 [8] = true,
 [2] = false,
 [23] = true,
 },
-["Theater of Pain"] = {
-false,
-[8] = true,
+["Priory of the Sacred Flame"] = {
 [23] = true,
+[8] = true,
 },
-["Gate of the Setting Sun"] = {
+["Scholomance"] = {
+[24] = false,
+},
+["Temple of the Jade Serpent"] = {
 [24] = false,
 },
 },
@@ -73,10 +73,10 @@ false,
 ["The Waterworks"] = {
 [208] = false,
 },
-["Fungal Folly"] = {
+["Tak-Rethan Abyss"] = {
 [208] = false,
 },
-["Tak-Rethan Abyss"] = {
+["The Sinkhole"] = {
 [208] = false,
 },
 ["Earthcrawl Mines"] = {
@@ -91,10 +91,10 @@ false,
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["The Dread Pit"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
-["Excavation Site 9"] = {
+["The Dread Pit"] = {
 [208] = false,
 },
 ["Skittering Breach"] = {
@@ -103,13 +103,13 @@ false,
 ["Kriegval's Rest"] = {
 [208] = false,
 },
-["Nightfall Sanctum"] = {
+["Excavation Site 9"] = {
 [208] = false,
 },
 ["The Spiral Weave"] = {
 [208] = false,
 },
-["The Sinkhole"] = {
+["Fungal Folly"] = {
 [208] = false,
 },
 },
@@ -121,6 +121,9 @@ false,
 },
 },
 ["version"] = 3,
+["minimap"] = {
+["minimapPos"] = 142.844006410596,
+},
 },
 },
 }

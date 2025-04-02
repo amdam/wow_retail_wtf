@@ -20,6 +20,13 @@ X: -326
 Y: 136
 W: 128
 H: 64
+Frame: ScriptErrorsFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 50
+Y: 45
+W: 784
+H: 260
 Frame: WorldQuestTrackerFinderFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -27,10 +34,3 @@ X: -371
 Y: -203
 W: 240
 H: 116
-Frame: ScriptErrorsFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 50
-Y: 45
-W: 500
-H: 300

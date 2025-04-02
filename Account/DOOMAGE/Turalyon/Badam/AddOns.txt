@@ -22,7 +22,7 @@ Quartz_Target: disabled
 Quartz_Timer: disabled
 Quartz_Tradeskill: disabled
 PowerAuras: disabled
-Parrot: enabled
+Parrot: disabled
 PallyPower: disabled
 OPie: enabled
 NugComboBar: disabled

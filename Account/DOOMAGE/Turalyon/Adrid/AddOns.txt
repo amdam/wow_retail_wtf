@@ -119,3 +119,4 @@ LittleWigs_Classic: enabled
 Baganator-ElvUI: disabled
 Cell: disabled
 BigWigs_LiberationOfUndermine: enabled
+Parrot: disabled
