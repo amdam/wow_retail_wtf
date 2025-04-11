@@ -2,6 +2,7 @@
 TomTomDB = {
 ["profileKeys"] = {
 ["Releaf - Turalyon"] = "Default",
+["Aureys - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -30,9 +31,12 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 ["profileKeys"] = {
 ["Releaf - Turalyon"] = "Releaf - Turalyon",
+["Aureys - Turalyon"] = "Aureys - Turalyon",
 },
 ["profiles"] = {
 ["Releaf - Turalyon"] = {
+},
+["Aureys - Turalyon"] = {
 },
 },
 }

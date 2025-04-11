@@ -28,28 +28,13 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Releaf-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Drunkan-turalyon"] = true,
-["us-Tanelorñ-turalyon"] = true,
-["us-Kayne-turalyon"] = true,
-["us-Sinderfold-turalyon"] = true,
-["us-Sheliice-turalyon"] = true,
-["us-Shambastic-turalyon"] = true,
+["us-Wyx-turalyon"] = true,
+["us-Mamage-turalyon"] = true,
+["us-Dareya-duskwood"] = true,
+["us-Syndressa-duskwood"] = true,
+["us-Roosifir-duskwood"] = true,
+["us-Babykikyo-turalyon"] = true,
 ["us-Releaf-turalyon"] = true,
-["us-Senator-turalyon"] = true,
-["us-Parlas-turalyon"] = true,
-["us-Noellejade-turalyon"] = true,
-["us-Lockewynn-turalyon"] = true,
-["us-Shieldmaidén-turalyon"] = true,
-["us-Arryn-turalyon"] = true,
-["us-Tyzendail-turalyon"] = true,
-["us-Lunarsmite-turalyon"] = true,
-["us-Manetherin-turalyon"] = true,
-["us-Briax-turalyon"] = true,
-["us-Nikkole-turalyon"] = true,
-["us-Arnett-turalyon"] = true,
-["us-Barristen-turalyon"] = true,
-["us-Proudhorn-turalyon"] = true,
-["us-Furieosa-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

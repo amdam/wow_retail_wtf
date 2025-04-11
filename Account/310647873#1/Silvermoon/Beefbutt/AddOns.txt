@@ -15,3 +15,13 @@ Pawn: enabled
 SexyMap: disabled
 ShadowedUnitFrames: disabled
 ElvUI_OptionsUI: enabled
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+ElvUI_CustomTags: disabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_UnitFramePlugin: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+kExtraBossFrames: disabled
+Blizzard_CombatText: enabled
+OPie_Classic: disabled

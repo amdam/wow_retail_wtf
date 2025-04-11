@@ -1,0 +1,11 @@
+
+LoggerHeadDB = {
+["profileKeys"] = {
+["Aureys - Turalyon"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["version"] = 3,
+},
+},
+}

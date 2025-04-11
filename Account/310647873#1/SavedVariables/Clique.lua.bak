@@ -13,18 +13,19 @@ CliqueDB3 = {
 },
 ["Releaf - Turalyon"] = {
 ["spec1_profileKey"] = "Releaf - Turalyon",
-["fastooc"] = false,
-["spec3_profileKey"] = "Releaf - Turalyon",
-["downclick"] = false,
-["spec4_profileKey"] = "Releaf - Turalyon",
 ["spec2_profileKey"] = "Releaf - Turalyon",
+["downclick"] = false,
 ["specswap"] = false,
+["fastooc"] = false,
 ["alerthidden"] = true,
+["spec3_profileKey"] = "Releaf - Turalyon",
+["spec4_profileKey"] = "Releaf - Turalyon",
 },
 },
 ["profileKeys"] = {
 ["Asteriia - Turalyon"] = "Asteriia - Turalyon",
 ["Beefbutt - Silvermoon"] = "Beefbutt - Silvermoon",
+["Aureys - Turalyon"] = "Aureys - Turalyon",
 ["Mollyporph - Turalyon"] = "Mollyporph - Turalyon",
 ["Moozers - Turalyon"] = "Moozers - Turalyon",
 ["Releaf - Turalyon"] = "Releaf - Turalyon",
@@ -51,6 +52,25 @@ CliqueDB3 = {
 },
 },
 ["Beefbutt - Silvermoon"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Aureys - Turalyon"] = {
 ["bindings"] = {
 {
 ["sets"] = {
@@ -126,21 +146,21 @@ CliqueDB3 = {
 },
 {
 ["type"] = "spell",
+["key"] = "NUMPAD5",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 132132,
+["spell"] = "Revive",
+},
+{
+["type"] = "spell",
 ["key"] = "NUMPAD4",
 ["sets"] = {
 ["default"] = true,
 },
 ["icon"] = 136080,
 ["spell"] = "Rebirth",
-},
-{
-["spell"] = "Nature's Cure",
-["key"] = "BUTTON3",
-["sets"] = {
-["default"] = true,
-},
-["icon"] = 236288,
-["type"] = "spell",
 },
 {
 ["spell"] = "Regrowth",
@@ -152,13 +172,13 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["type"] = "spell",
-["key"] = "NUMPAD5",
+["spell"] = "Nature's Cure",
+["key"] = "BUTTON3",
 ["sets"] = {
 ["default"] = true,
 },
-["icon"] = 132132,
-["spell"] = "Revive",
+["icon"] = 236288,
+["type"] = "spell",
 },
 {
 ["type"] = "spell",
@@ -171,6 +191,16 @@ CliqueDB3 = {
 ["spell"] = "Stampeding Roar",
 },
 {
+["spell"] = "Swiftmend",
+["key"] = "NUMPAD1",
+["sets"] = {
+["spec1"] = true,
+["spec4"] = true,
+},
+["icon"] = 134914,
+["type"] = "spell",
+},
+{
 ["spell"] = "Rejuvenation",
 ["key"] = "BUTTON1",
 ["sets"] = {
@@ -178,6 +208,15 @@ CliqueDB3 = {
 ["spec4"] = true,
 },
 ["icon"] = 136081,
+["type"] = "spell",
+},
+{
+["spell"] = "Lifebloom",
+["key"] = "NUMPAD2",
+["sets"] = {
+["spec4"] = true,
+},
+["icon"] = 134206,
 ["type"] = "spell",
 },
 {
@@ -191,23 +230,21 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["spell"] = "Lifebloom",
-["key"] = "NUMPAD2",
-["sets"] = {
-["spec4"] = true,
-},
-["icon"] = 134206,
-["type"] = "spell",
-},
-{
-["spell"] = "Swiftmend",
-["key"] = "NUMPAD1",
+["spell"] = "Wild Growth",
+["key"] = "ALT-NUMPAD2",
 ["sets"] = {
 ["spec1"] = true,
 ["spec4"] = true,
 },
-["icon"] = 134914,
+["icon"] = 236153,
 ["type"] = "spell",
+},
+{
+["type"] = "menu",
+["key"] = "CTRL-SHIFT-BUTTON2",
+["sets"] = {
+["spec4"] = true,
+},
 },
 {
 ["type"] = "spell",
@@ -221,29 +258,12 @@ CliqueDB3 = {
 ["spell"] = "Remove Corruption",
 },
 {
-["type"] = "menu",
-["key"] = "CTRL-SHIFT-BUTTON2",
-["sets"] = {
-["spec4"] = true,
-},
-},
-{
 ["spell"] = "Ironbark",
 ["key"] = "NUMPAD3",
 ["sets"] = {
 ["spec4"] = true,
 },
 ["icon"] = 572025,
-["type"] = "spell",
-},
-{
-["spell"] = "Wild Growth",
-["key"] = "ALT-NUMPAD2",
-["sets"] = {
-["spec1"] = true,
-["spec4"] = true,
-},
-["icon"] = 236153,
 ["type"] = "spell",
 },
 {

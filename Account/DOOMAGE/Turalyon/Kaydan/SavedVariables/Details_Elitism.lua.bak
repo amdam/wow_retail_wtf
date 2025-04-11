@@ -1,670 +1,968 @@
 
 ElitismLog = {
-[1419] = {
-["Player-1426-0752A4FC"] = {
-["sumOverkill"] = -1,
-["sum"] = 451040,
-["cnt"] = 1,
-["spells"] = {
-[294954] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 451040,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -1,
-["sum"] = 2642386,
-["cnt"] = 2,
-["spells"] = {
-[294954] = {
-["cnt"] = 2,
-["sumOverkill"] = -1,
-["sum"] = 2642386,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-61-0EBC0C44"] = {
-["sumOverkill"] = -1,
-["sum"] = 2874098,
-["cnt"] = 1,
-["spells"] = {
-[294954] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2874098,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-3685-0A95F80C"] = {
-["sumOverkill"] = -3,
-["sum"] = 8624697,
-["cnt"] = 3,
-["spells"] = {
-[294954] = {
-["cnt"] = 3,
-["sumOverkill"] = -3,
-["sum"] = 8624697,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1408] = {
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -5,
-["sum"] = 20034411,
+[1527] = {
+["Player-3678-0D309E5A"] = {
+["sumOverkill"] = 1883861,
+["sum"] = 14735476,
 ["cnt"] = 6,
 ["spells"] = {
-[301299] = {
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = 1883864,
+["sum"] = 4819872,
+},
+[473519] = {
 ["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 2381819,
+["sum"] = 3419191,
 },
-[293986] = {
+[342103] = {
 ["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 3814735,
-},
-[294954] = {
-["cnt"] = 2,
-["sumOverkill"] = -1,
-["sum"] = 2642386,
-},
-[293861] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 6224668,
-},
-[291915] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4970803,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-60-0B188E7F"] = {
-["sumOverkill"] = -4,
-["sum"] = 10703129,
-["cnt"] = 4,
-["spells"] = {
-[295168] = {
-["cnt"] = 2,
-["sumOverkill"] = -2,
-["sum"] = 7654782,
-},
-[291915] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1368086,
-},
-[291949] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1680261,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-61-0EBC0C44"] = {
-["sumOverkill"] = 257190,
-["sum"] = 17520336,
-["cnt"] = 8,
-["spells"] = {
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1824097,
-},
-[291949] = {
-["cnt"] = 2,
-["sumOverkill"] = 257196,
-["sum"] = 7843518,
-},
-[294954] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2874098,
-},
-[282945] = {
-["cnt"] = 3,
-["sumOverkill"] = -3,
-["sum"] = 1325461,
-},
-[293986] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 3653162,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1426-0752A4FC"] = {
-["sumOverkill"] = 583622,
-["sum"] = 15252022,
-["cnt"] = 7,
-["spells"] = {
-[301299] = {
-["cnt"] = 3,
-["sumOverkill"] = 583626,
-["sum"] = 7480058,
-},
-[291949] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4022856,
-},
-[294954] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 451040,
-},
-[282945] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 571054,
-},
-[293986] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2727014,
-},
-},
-["auracnt"] = 1,
-["auras"] = {
-[295130] = {
-["cnt"] = 1,
-},
-},
-},
-["Player-3685-0A95F80C"] = {
-["sumOverkill"] = -10,
-["sum"] = 34846463,
-["cnt"] = 10,
-["spells"] = {
-[291856] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4065055,
-},
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2103025,
-},
-[291915] = {
-["cnt"] = 5,
-["sumOverkill"] = -5,
-["sum"] = 20053686,
-},
-[294954] = {
-["cnt"] = 3,
-["sumOverkill"] = -3,
-["sum"] = 8624697,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1424] = {
-["Player-60-0B188E7F"] = {
-["sumOverkill"] = -1,
-["sum"] = 1368086,
-["cnt"] = 1,
-["spells"] = {
-[291915] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1368086,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -1,
-["sum"] = 4970803,
-["cnt"] = 1,
-["spells"] = {
-[291915] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4970803,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-3685-0A95F80C"] = {
-["sumOverkill"] = -6,
-["sum"] = 24118741,
-["cnt"] = 6,
-["spells"] = {
-[291915] = {
-["cnt"] = 5,
-["sumOverkill"] = -5,
-["sum"] = 20053686,
-},
-[291856] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4065055,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1409] = {
-["Player-61-0EBC0C44"] = {
-["sumOverkill"] = -1,
-["sum"] = 314255,
-["cnt"] = 1,
-["spells"] = {
-[282945] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 314255,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1410] = {
-["Player-1426-0752A4FC"] = {
-["sumOverkill"] = -1,
-["sum"] = 571054,
-["cnt"] = 1,
-["spells"] = {
-[282945] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 571054,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-61-0EBC0C44"] = {
-["sumOverkill"] = -2,
-["sum"] = 1011206,
-["cnt"] = 2,
-["spells"] = {
-[282945] = {
-["cnt"] = 2,
-["sumOverkill"] = -2,
-["sum"] = 1011206,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1425] = {
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -5,
-["sum"] = 20034411,
-["cnt"] = 6,
-["spells"] = {
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2381819,
-},
-[293986] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 3814735,
-},
-[294954] = {
-["cnt"] = 2,
-["sumOverkill"] = -1,
-["sum"] = 2642386,
-},
-[291915] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4970803,
-},
-[293861] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 6224668,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1426-0752A4FC"] = {
-["sumOverkill"] = 583622,
-["sum"] = 15252022,
-["cnt"] = 7,
-["spells"] = {
-[301299] = {
-["cnt"] = 3,
-["sumOverkill"] = 583626,
-["sum"] = 7480058,
-},
-[291949] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4022856,
-},
-[294954] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 451040,
-},
-[293986] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2727014,
-},
-[282945] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 571054,
-},
-},
-["auracnt"] = 1,
-["auras"] = {
-[295130] = {
-["cnt"] = 1,
-},
-},
-},
-["Player-3685-0A95F80C"] = {
-["sumOverkill"] = -10,
-["sum"] = 34846463,
-["cnt"] = 10,
-["spells"] = {
-[291856] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4065055,
-},
-[294954] = {
-["cnt"] = 3,
-["sumOverkill"] = -3,
-["sum"] = 8624697,
-},
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2103025,
-},
-[291915] = {
-["cnt"] = 5,
-["sumOverkill"] = -5,
-["sum"] = 20053686,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-60-0B188E7F"] = {
-["sumOverkill"] = -4,
-["sum"] = 10703129,
-["cnt"] = 4,
-["spells"] = {
-[295168] = {
-["cnt"] = 2,
-["sumOverkill"] = -2,
-["sum"] = 7654782,
-},
-[291915] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1368086,
-},
-[291949] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1680261,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-61-0EBC0C44"] = {
-["sumOverkill"] = 257190,
-["sum"] = 17520336,
-["cnt"] = 8,
-["spells"] = {
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1824097,
-},
-[291949] = {
-["cnt"] = 2,
-["sumOverkill"] = 257196,
-["sum"] = 7843518,
-},
-[294954] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2874098,
-},
-[293986] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 3653162,
-},
-[282945] = {
-["cnt"] = 3,
-["sumOverkill"] = -3,
-["sum"] = 1325461,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1414] = {
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -1,
-["sum"] = 2381819,
-["cnt"] = 1,
-["spells"] = {
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2381819,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-60-0B188E7F"] = {
-["sumOverkill"] = -1,
-["sum"] = 1680261,
-["cnt"] = 1,
-["spells"] = {
-[291949] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1680261,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-61-0EBC0C44"] = {
-["sumOverkill"] = 257195,
-["sum"] = 9667615,
-["cnt"] = 3,
-["spells"] = {
-[291949] = {
-["cnt"] = 2,
-["sumOverkill"] = 257196,
-["sum"] = 7843518,
-},
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 1824097,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1426-0752A4FC"] = {
-["sumOverkill"] = 583625,
-["sum"] = 11502914,
-["cnt"] = 4,
-["spells"] = {
-[291949] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 4022856,
-},
-[301299] = {
-["cnt"] = 3,
-["sumOverkill"] = 583626,
-["sum"] = 7480058,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-3685-0A95F80C"] = {
-["sumOverkill"] = -1,
-["sum"] = 2103025,
-["cnt"] = 1,
-["spells"] = {
-[301299] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 2103025,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-},
-[1418] = {
-["Player-60-0B188E7F"] = {
-["sumOverkill"] = -2,
-["sum"] = 7654782,
-["cnt"] = 2,
-["spells"] = {
-[295168] = {
-["cnt"] = 2,
-["sumOverkill"] = -2,
-["sum"] = 7654782,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -1,
-["sum"] = 6224668,
-["cnt"] = 1,
-["spells"] = {
-[293861] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 6224668,
-},
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-1426-0752A4FC"] = {
 ["sumOverkill"] = 0,
-["sum"] = 0,
-["cnt"] = 0,
-["spells"] = {
+["sum"] = 15391,
 },
-["auracnt"] = 1,
-["auras"] = {
-[295130] = {
-["cnt"] = 1,
-},
-},
-},
-},
-[1423] = {
-["Player-1426-0752A4FC"] = {
-["sumOverkill"] = -1,
-["sum"] = 2727014,
-["cnt"] = 1,
-["spells"] = {
-[293986] = {
+[317367] = {
 ["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 2727014,
+["sum"] = 5128786,
+},
+[323130] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 1352236,
 },
 },
 ["auracnt"] = 0,
 ["auras"] = {
 },
 },
-["Player-1175-0F6474DA"] = {
-["sumOverkill"] = -1,
-["sum"] = 3814735,
-["cnt"] = 1,
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = 7748783,
+["sum"] = 106222583,
+["cnt"] = 37,
 ["spells"] = {
-[293986] = {
+[339415] = {
+["cnt"] = 1,
+["sumOverkill"] = 1625875,
+["sum"] = 9310195,
+},
+[473519] = {
+["cnt"] = 9,
+["sumOverkill"] = -9,
+["sum"] = 22465089,
+},
+[330592] = {
 ["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 3814735,
+["sum"] = 4439586,
+},
+[323681] = {
+["cnt"] = 7,
+["sumOverkill"] = -7,
+["sum"] = 15000769,
+},
+[323130] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 854339,
+},
+[317605] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7452478,
+},
+[330608] = {
+["cnt"] = 2,
+["sumOverkill"] = 1019193,
+["sum"] = 9592353,
+},
+[317231] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5233392,
+},
+[339751] = {
+["cnt"] = 1,
+["sumOverkill"] = 5103747,
+["sum"] = 6731476,
+},
+[320180] = {
+["cnt"] = 3,
+["sumOverkill"] = -3,
+["sum"] = 3789469,
+},
+[1223240] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 5813889,
+},
+[342103] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 13429,
+},
+[1215636] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 2586638,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -4,
+["sum"] = 8486610,
+},
+[321041] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4452871,
 },
 },
 ["auracnt"] = 0,
 ["auras"] = {
 },
 },
-["Player-61-0EBC0C44"] = {
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -8,
+["sum"] = 36456310,
+["cnt"] = 8,
+["spells"] = {
+[321041] = {
+["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 3653162,
+["sum"] = 4529169,
+},
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 2840267,
+},
+[339415] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7760633,
+},
+[317605] = {
+["cnt"] = 4,
+["sumOverkill"] = -4,
+["sum"] = 19923374,
+},
+[320180] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 1402867,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = 988540,
+["sum"] = 69378344,
+["cnt"] = 27,
+["spells"] = {
+[473519] = {
+["cnt"] = 8,
+["sumOverkill"] = 966217,
+["sum"] = 24225897,
+},
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5393746,
+},
+[323681] = {
+["cnt"] = 2,
+["sumOverkill"] = 22336,
+["sum"] = 4539389,
+},
+[323130] = {
+["cnt"] = 3,
+["sumOverkill"] = -2,
+["sum"] = 2807462,
+},
+[1213695] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3254800,
+},
+[339751] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 6125730,
+},
+[320180] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 1893222,
+},
+[333301] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 2105133,
+},
+[1215636] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 7271827,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -4,
+["sum"] = 7708140,
+},
+[318406] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 4052998,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0DC92787"] = {
+["sumOverkill"] = -4,
+["sum"] = 14949454,
+["cnt"] = 8,
+["spells"] = {
+[323750] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 383926,
+},
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3308440,
+},
+[323130] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 829673,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -2,
+["sum"] = 10427415,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1516] = {
+["Player-3678-0D309E5A"] = {
+["sumOverkill"] = -1,
+["sum"] = 3419191,
 ["cnt"] = 1,
 ["spells"] = {
-[293986] = {
+[473519] = {
 ["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 3653162,
+["sum"] = 3419191,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = -11,
+["sum"] = 28278978,
+["cnt"] = 11,
+["spells"] = {
+[1223240] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 5813889,
+},
+[473519] = {
+["cnt"] = 9,
+["sumOverkill"] = -9,
+["sum"] = 22465089,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -1,
+["sum"] = 2840267,
+["cnt"] = 1,
+["spells"] = {
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 2840267,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = 966217,
+["sum"] = 24225897,
+["cnt"] = 8,
+["spells"] = {
+[473519] = {
+["cnt"] = 8,
+["sumOverkill"] = 966217,
+["sum"] = 24225897,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0DC92787"] = {
+["sumOverkill"] = -1,
+["sum"] = 3308440,
+["cnt"] = 1,
+["spells"] = {
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3308440,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1509] = {
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = -1,
+["sum"] = 3254800,
+["cnt"] = 1,
+["spells"] = {
+[1213695] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3254800,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = -1,
+["sum"] = 7452478,
+["cnt"] = 1,
+["spells"] = {
+[317605] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7452478,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -4,
+["sum"] = 19923374,
+["cnt"] = 4,
+["spells"] = {
+[317605] = {
+["cnt"] = 4,
+["sumOverkill"] = -4,
+["sum"] = 19923374,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1506] = {
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = -2,
+["sum"] = 9165049,
+["cnt"] = 3,
+["spells"] = {
+[1215636] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 7271827,
+},
+[320180] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 1893222,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = -4,
+["sum"] = 6376107,
+["cnt"] = 4,
+["spells"] = {
+[320180] = {
+["cnt"] = 3,
+["sumOverkill"] = -3,
+["sum"] = 3789469,
+},
+[1215636] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 2586638,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -1,
+["sum"] = 1402867,
+["cnt"] = 1,
+["spells"] = {
+[320180] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 1402867,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1510] = {
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = 1625874,
+["sum"] = 14543587,
+["cnt"] = 2,
+["spells"] = {
+[317231] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5233392,
+},
+[339415] = {
+["cnt"] = 1,
+["sumOverkill"] = 1625875,
+["sum"] = 9310195,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -1,
+["sum"] = 7760633,
+["cnt"] = 1,
+["spells"] = {
+[339415] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7760633,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1522] = {
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = -1,
+["sum"] = 5393746,
+["cnt"] = 1,
+["spells"] = {
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5393746,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3678-0D309E5A"] = {
+["sumOverkill"] = 1883864,
+["sum"] = 4835263,
+["cnt"] = 2,
+["spells"] = {
+[342103] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 15391,
+},
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = 1883864,
+["sum"] = 4819872,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = 1019190,
+["sum"] = 18498239,
+["cnt"] = 5,
+["spells"] = {
+[342103] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 13429,
+},
+[330608] = {
+["cnt"] = 2,
+["sumOverkill"] = 1019193,
+["sum"] = 9592353,
+},
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4439586,
+},
+[321041] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4452871,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -1,
+["sum"] = 4529169,
+["cnt"] = 1,
+["spells"] = {
+[321041] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4529169,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1515] = {
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = -2,
+["sum"] = 2105133,
+["cnt"] = 2,
+["spells"] = {
+[333301] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 2105133,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3678-0D309E5A"] = {
+["sumOverkill"] = -1,
+["sum"] = 5128786,
+["cnt"] = 1,
+["spells"] = {
+[317367] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5128786,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1504] = {
+["Player-3678-0D309E5A"] = {
+["sumOverkill"] = 1883861,
+["sum"] = 14735476,
+["cnt"] = 6,
+["spells"] = {
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = 1883864,
+["sum"] = 4819872,
+},
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3419191,
+},
+[342103] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 15391,
+},
+[317367] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5128786,
+},
+[323130] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 1352236,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = 7748783,
+["sum"] = 106222583,
+["cnt"] = 37,
+["spells"] = {
+[339415] = {
+["cnt"] = 1,
+["sumOverkill"] = 1625875,
+["sum"] = 9310195,
+},
+[473519] = {
+["cnt"] = 9,
+["sumOverkill"] = -9,
+["sum"] = 22465089,
+},
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4439586,
+},
+[321041] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4452871,
+},
+[323130] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 854339,
+},
+[317231] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5233392,
+},
+[330608] = {
+["cnt"] = 2,
+["sumOverkill"] = 1019193,
+["sum"] = 9592353,
+},
+[323681] = {
+["cnt"] = 7,
+["sumOverkill"] = -7,
+["sum"] = 15000769,
+},
+[339751] = {
+["cnt"] = 1,
+["sumOverkill"] = 5103747,
+["sum"] = 6731476,
+},
+[320180] = {
+["cnt"] = 3,
+["sumOverkill"] = -3,
+["sum"] = 3789469,
+},
+[342103] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 13429,
+},
+[1223240] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 5813889,
+},
+[1215636] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 2586638,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -4,
+["sum"] = 8486610,
+},
+[317605] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7452478,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0DC92787"] = {
+["sumOverkill"] = -4,
+["sum"] = 14949454,
+["cnt"] = 8,
+["spells"] = {
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -2,
+["sum"] = 10427415,
+},
+[323750] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 383926,
+},
+[323130] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 829673,
+},
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3308440,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = 988540,
+["sum"] = 69378344,
+["cnt"] = 27,
+["spells"] = {
+[473519] = {
+["cnt"] = 8,
+["sumOverkill"] = 966217,
+["sum"] = 24225897,
+},
+[330592] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 5393746,
+},
+[323681] = {
+["cnt"] = 2,
+["sumOverkill"] = 22336,
+["sum"] = 4539389,
+},
+[323130] = {
+["cnt"] = 3,
+["sumOverkill"] = -2,
+["sum"] = 2807462,
+},
+[1213695] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 3254800,
+},
+[318406] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 4052998,
+},
+[320180] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 1893222,
+},
+[339751] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 6125730,
+},
+[1215636] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 7271827,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -4,
+["sum"] = 7708140,
+},
+[333301] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 2105133,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-3685-0A95F80C"] = {
+["sumOverkill"] = -8,
+["sum"] = 36456310,
+["cnt"] = 8,
+["spells"] = {
+[320180] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 1402867,
+},
+[473519] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 2840267,
+},
+[339415] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7760633,
+},
+[317605] = {
+["cnt"] = 4,
+["sumOverkill"] = -4,
+["sum"] = 19923374,
+},
+[321041] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 4529169,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1523] = {
+["Player-3678-0D309E5A"] = {
+["sumOverkill"] = -1,
+["sum"] = 1352236,
+["cnt"] = 2,
+["spells"] = {
+[323130] = {
+["cnt"] = 2,
+["sumOverkill"] = -1,
+["sum"] = 1352236,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = -6,
+["sum"] = 14568600,
+["cnt"] = 9,
+["spells"] = {
+[318406] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 4052998,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -4,
+["sum"] = 7708140,
+},
+[323130] = {
+["cnt"] = 3,
+["sumOverkill"] = -2,
+["sum"] = 2807462,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = -5,
+["sum"] = 9340949,
+["cnt"] = 6,
+["spells"] = {
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -4,
+["sum"] = 8486610,
+},
+[323130] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 854339,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0DC92787"] = {
+["sumOverkill"] = -3,
+["sum"] = 11641014,
+["cnt"] = 7,
+["spells"] = {
+[323750] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 383926,
+},
+[323406] = {
+["cnt"] = 5,
+["sumOverkill"] = -2,
+["sum"] = 10427415,
+},
+[323130] = {
+["cnt"] = 1,
+["sumOverkill"] = 0,
+["sum"] = 829673,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+},
+[1525] = {
+["Player-60-0FA8F419"] = {
+["sumOverkill"] = 5103740,
+["sum"] = 21732245,
+["cnt"] = 8,
+["spells"] = {
+[323681] = {
+["cnt"] = 7,
+["sumOverkill"] = -7,
+["sum"] = 15000769,
+},
+[339751] = {
+["cnt"] = 1,
+["sumOverkill"] = 5103747,
+["sum"] = 6731476,
+},
+},
+["auracnt"] = 0,
+["auras"] = {
+},
+},
+["Player-57-0CEF3B2D"] = {
+["sumOverkill"] = 22335,
+["sum"] = 10665119,
+["cnt"] = 3,
+["spells"] = {
+[339751] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 6125730,
+},
+[323681] = {
+["cnt"] = 2,
+["sumOverkill"] = 22336,
+["sum"] = 4539389,
 },
 },
 ["auracnt"] = 0,

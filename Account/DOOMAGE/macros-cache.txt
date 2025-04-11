@@ -1,3 +1,7 @@
+VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
+/stopcasting
+/click [target=mouseover] ExtraActionButton1
+END
 VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
 #showtooltip
 /dismount
@@ -8,10 +12,6 @@ VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
 /use Phial of Serenity
-END
-VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
-/stopcasting
-/click [target=mouseover] ExtraActionButton1
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton

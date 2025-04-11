@@ -56,6 +56,27 @@ VER 3 0100000000000013 " " "134400"
 END
 VER 3 0100000000000014 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Chi Burst] Chi Burst; Touch of Death;
+/cast [mod:alt,spec:2] Touch of Death; [mod:alt,known:Chi Burst] Chi Burst; [spec:2,known:Chi Burst] Chi Burst; Touch of Death;
 /script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000015 " " "134400"
+#showtooltip
+/cast [mod:alt] Jadefire Stomp; [@player] Renewing Mist
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000016 " " "134400"
+#showtooltip
+/cast [mod:alt] Crackling Jade Lightning; Mana Tea
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000017 " " "134400"
+#showtooltip
+/cast [@focus,exists][] Spear Hand Strike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000018 " " "134400"
+#showtooltip
+/cast [known:325197] Invoke Chi-Ji, the Red Crane; [known:322118] Invoke Yu-Lon, the Jade Serpent
+/use 13
+/script UIErrorsFrame:Clear()
 END

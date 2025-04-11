@@ -13,7 +13,7 @@ END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Exploding Keg,@cursor] Exploding Keg; Blackout Kick;
+/cast [mod:alt,known:Exploding Keg,@cursor] Exploding Keg; [mod:alt,spec:3] Flying Serpent Kick; Blackout Kick;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
@@ -35,7 +35,7 @@ VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier] Fists of Fury; /cast [modifier:alt] Flying Serpent Kick
+/cast [mod:alt,known:Strike of the Windlord] Strike of the Windlord; Fists of Fury; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
@@ -56,6 +56,21 @@ VER 3 0100000000000013 " " "134400"
 END
 VER 3 0100000000000014 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Chi Burst] Chi Burst; Touch of Death;
+/cast [mod:alt,spec:2] Touch of Death; [mod:alt,known:Chi Burst] Chi Burst; [spec:2,known:Chi Burst] Chi Burst; Touch of Death;
 /script UIErrorsFrame:Clear();
+END
+VER 3 0100000000000015 " " "134400"
+#showtooltip
+/cast [mod:alt] Jadefire Stomp; [@player] Renewing Mist
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000016 " " "134400"
+#showtooltip
+/cast [mod:alt] Crackling Jade Lightning; Mana Tea
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000017 " " "134400"
+#showtooltip
+/cast [@focus,exists][] Spear Hand Strike
+/script UIErrorsFrame:Clear()
 END

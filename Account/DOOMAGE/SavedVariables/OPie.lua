@@ -120,8 +120,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTfj",
 ["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
 ["vm"] = 2,
 },
 {
@@ -143,8 +143,8 @@ OPie_SavedData = {
 ["id"] = 439871,
 },
 {
-["sliceToken"] = "OPCCTt",
 ["id"] = "/cast {{spell:3908/51309}}",
+["sliceToken"] = "OPCCTt",
 },
 {
 ["id"] = 194174,
@@ -157,34 +157,34 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTr",
 ["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+["sliceToken"] = "OPCCTr",
 },
 {
 ["id"] = 53428,
 ["sliceToken"] = "OPCCTu",
 },
 {
-["sliceToken"] = "OPCCTe",
 ["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+["sliceToken"] = "OPCCTe",
 },
 {
-["id"] = "/cast {{spell:2108/51302}}",
 ["sliceToken"] = "OPCCTl",
+["id"] = "/cast {{spell:2108/51302}}",
 },
 {
-["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 ["sliceToken"] = "OPCCTm",
+["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 },
 {
-["c"] = "d8d1ad",
 ["sliceToken"] = "ABueaL4inxa",
+["c"] = "d8d1ad",
 ["id"] = 3908,
 ["id2"] = 51309,
 },
 {
-["sliceToken"] = "ABueaL4inxp",
 ["c"] = "b57f49",
+["sliceToken"] = "ABueaL4inxp",
 ["id"] = 2108,
 ["id2"] = 51302,
 },
@@ -201,8 +201,8 @@ OPie_SavedData = {
 ["id2"] = 51311,
 },
 {
-["c"] = "f4ef28",
 ["sliceToken"] = "ABueaL4inxi",
+["c"] = "f4ef28",
 ["id"] = 7411,
 ["id2"] = 51313,
 },
@@ -301,33 +301,33 @@ OPie_SavedData = {
 },
 ["MageTravel"] = {
 {
-["sliceToken"] = "OPCMVb",
 ["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
+["sliceToken"] = "OPCMVb",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVv",
 ["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
+["sliceToken"] = "OPCMVv",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVr",
 ["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
+["sliceToken"] = "OPCMVr",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVs",
 ["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
+["sliceToken"] = "OPCMVs",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVw",
 ["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
+["sliceToken"] = "OPCMVw",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVd",
 ["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
+["sliceToken"] = "OPCMVd",
 },
 {
 ["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
@@ -340,8 +340,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVi",
 ["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
+["sliceToken"] = "OPCMVi",
 ["vm"] = 2,
 },
 {
@@ -361,40 +361,40 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMV1",
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}}",
+["sliceToken"] = "OPCMV1",
 },
 {
-["sliceToken"] = "OPCMVx",
 ["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
+["sliceToken"] = "OPCMVx",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "ABue3Xt7/Yi",
 ["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
+["sliceToken"] = "ABue3Xt7/Yi",
 },
 {
-["sliceToken"] = "OPCMV9",
 ["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
+["sliceToken"] = "OPCMV9",
 },
 {
-["sliceToken"] = "OPCMV0",
 ["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
+["sliceToken"] = "OPCMV0",
 },
 {
-["sliceToken"] = "OPCMV8",
 ["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
+["sliceToken"] = "OPCMV8",
 },
 {
-["sliceToken"] = "ABueQUekVHw",
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
+["sliceToken"] = "ABueQUekVHw",
 },
-["save"] = true,
-["v"] = 2,
-["hotkey"] = "ALT-G",
-["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
+["limit"] = "MAGE",
+["hotkey"] = "ALT-G",
+["save"] = true,
 ["vm"] = 127,
+["v"] = 2,
 },
 ["ipmentSets"] = {
 {

@@ -101,3 +101,8 @@ VER 3 010000000000001F " " "134400"
 /cast Conjure Mana Gem;
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000020 " " "134400"
+#showtooltip
+/cast [@player] Arcane Intellect
+/script UIErrorsFrame:Clear()
+END

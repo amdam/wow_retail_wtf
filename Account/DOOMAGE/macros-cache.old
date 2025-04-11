@@ -1,3 +1,8 @@
+VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+/use Phial of Serenity
+END
 VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
 /stopcasting
 /click [target=mouseover] ExtraActionButton1
@@ -7,19 +12,6 @@ VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
 /dismount
 /cast [nomounted,noflyable] G-99 Breakneck
 /run if not IsMounted() then C_MountJournal.SummonByID(0) end
-END
-VER 3 000000000000005F " " "INV_MISC_QUESTIONMARK"
-/way 20.5 43.9 Elder Gwenna 
-/way 20.6 32.9 Foreman Thorodir
-/way 21.8 45.7 Guardian Kota
-/way 23.7 42.5 Warden Casad 
-/way 20.8 39.2 Kivarr (cave)
-/way 25.7 38.9 Te'zan
-END
-VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use 14
-/use Phial of Serenity
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
@@ -40,41 +32,11 @@ VER 3 000000000000001B " tri" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button2
 END
-VER 3 000000000000005C " way" "136103"
-/way 48.55 34.88 Shard 38
-/way 37.15 24.65 Shard 39
-/way 33.04 37.62 Shard 40
-/way 31.01 27.45 Shard 41
-/way 30.63 23.73 Shard 42
-/way 26.19 22.68 Shard 43
-/way 24.66 22.99 Shard 44
-/way 24.38 18.22 Shard 45
-END
-VER 3 0000000000000004 "dino" "Spell_Holy_RighteousFury"
-#showtooltip Judgment
-/target Dire
-/target Humming
-/target Deactivated
-/target Ice
-/cast Judgment
-/cast Chi Wave
-/targetlasttarget
-END
 VER 3 0000000000000017 "elemente" "SPELL_NATURE_SWIFTNESS"
 pull timer's up, it's on now
 pop all your cds and watch the meters like 'wow'
 you zap and you blast, tunnel night and day,
 SHIT that's a raid wipe, god damnit ELEMENTE
-END
-VER 3 000000000000002D "fel" "135826"
-/target Fel Explosives
-END
-VER 3 000000000000002E "focus" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [target=focus] Repentance
-END
-VER 3 0000000000000062 "focus" "132150"
-/focus
 END
 VER 3 0000000000000064 "fyr'alath blp" "5205711"
 /run local a=C_CurrencyInfo.GetCurrencyInfo(2784)if type(a)=="table" then print("\124cffff8000Fyr'alath's Bad Luck Protection:\124r",a.quantity)end

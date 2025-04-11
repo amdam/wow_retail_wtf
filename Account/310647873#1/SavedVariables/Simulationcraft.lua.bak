@@ -3,6 +3,7 @@ SimulationCraftDB = {
 ["profileKeys"] = {
 ["Releaf - Turalyon"] = "Releaf - Turalyon",
 ["Bambooty - Turalyon"] = "Bambooty - Turalyon",
+["Aureys - Turalyon"] = "Aureys - Turalyon",
 },
 ["profiles"] = {
 ["Releaf - Turalyon"] = {
@@ -11,6 +12,8 @@ SimulationCraftDB = {
 },
 },
 ["Bambooty - Turalyon"] = {
+},
+["Aureys - Turalyon"] = {
 },
 },
 }

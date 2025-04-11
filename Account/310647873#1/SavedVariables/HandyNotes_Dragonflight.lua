@@ -1,8 +1,9 @@
 
 HandyNotes_DragonflightDB = {
 ["profileKeys"] = {
-["Bambooty - Turalyon"] = "Default",
 ["Releaf - Turalyon"] = "Default",
+["Bambooty - Turalyon"] = "Default",
+["Aureys - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {

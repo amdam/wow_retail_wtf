@@ -1,13 +1,16 @@
 
 HandyNotes_DragonGlyphsDB = {
 ["profileKeys"] = {
-["Bambooty - Turalyon"] = "Bambooty - Turalyon",
 ["Releaf - Turalyon"] = "Releaf - Turalyon",
+["Bambooty - Turalyon"] = "Bambooty - Turalyon",
+["Aureys - Turalyon"] = "Aureys - Turalyon",
 },
 ["profiles"] = {
+["Releaf - Turalyon"] = {
+},
 ["Bambooty - Turalyon"] = {
 },
-["Releaf - Turalyon"] = {
+["Aureys - Turalyon"] = {
 },
 },
 }

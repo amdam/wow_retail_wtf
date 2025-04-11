@@ -3,12 +3,12 @@ LoggerHeadDB = {
 ["profileKeys"] = {
 ["Abel - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
-["Drunkan - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -17,24 +17,14 @@ LoggerHeadDB = {
 ["Mogu'shan Palace"] = {
 [24] = false,
 },
-["Shado-Pan Monastery"] = {
-[24] = false,
-},
 ["Operation: Mechagon"] = {
 [23] = true,
 [8] = true,
 },
-["The MOTHERLODE!!"] = {
-[8] = true,
-[2] = false,
-[23] = true,
-},
-["Cinderbrew Meadery"] = {
-[8] = true,
-[2] = false,
-[23] = true,
-},
 ["Gate of the Setting Sun"] = {
+[24] = false,
+},
+["Skyreach"] = {
 [24] = false,
 },
 ["Darkflame Cleft"] = {
@@ -50,10 +40,24 @@ false,
 [8] = true,
 [23] = true,
 },
-["Stormstout Brewery"] = {
+["Auchindoun"] = {
 [24] = false,
 },
-["Operation: Floodgate"] = {
+["The Everbloom"] = {
+[24] = false,
+},
+["Shado-Pan Monastery"] = {
+[24] = false,
+},
+["Temple of the Jade Serpent"] = {
+[24] = false,
+},
+["The MOTHERLODE!!"] = {
+[8] = true,
+[2] = false,
+[23] = true,
+},
+["Cinderbrew Meadery"] = {
 [8] = true,
 [2] = false,
 [23] = true,
@@ -62,10 +66,21 @@ false,
 [23] = true,
 [8] = true,
 },
+["Stormstout Brewery"] = {
+[24] = false,
+},
 ["Scholomance"] = {
 [24] = false,
 },
-["Temple of the Jade Serpent"] = {
+["Operation: Floodgate"] = {
+[8] = true,
+[2] = false,
+[23] = true,
+},
+["Shadowmoon Burial Grounds"] = {
+[24] = false,
+},
+["Grimrail Depot"] = {
 [24] = false,
 },
 },
@@ -73,7 +88,7 @@ false,
 ["The Waterworks"] = {
 [208] = false,
 },
-["Tak-Rethan Abyss"] = {
+["Excavation Site 9"] = {
 [208] = false,
 },
 ["The Sinkhole"] = {
@@ -91,10 +106,10 @@ false,
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["Nightfall Sanctum"] = {
+["Fungal Folly"] = {
 [208] = false,
 },
-["The Dread Pit"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
 ["Skittering Breach"] = {
@@ -103,13 +118,13 @@ false,
 ["Kriegval's Rest"] = {
 [208] = false,
 },
-["Excavation Site 9"] = {
+["The Dread Pit"] = {
 [208] = false,
 },
 ["The Spiral Weave"] = {
 [208] = false,
 },
-["Fungal Folly"] = {
+["Tak-Rethan Abyss"] = {
 [208] = false,
 },
 },
@@ -122,7 +137,7 @@ false,
 },
 ["version"] = 3,
 ["minimap"] = {
-["minimapPos"] = 142.844006410596,
+["minimapPos"] = 242.7915148952927,
 },
 },
 },

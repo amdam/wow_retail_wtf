@@ -126,5 +126,5 @@ WeakAurasCompanion: enabled
 OPie_Classic: disabled
 Blizzard_CombatText: enabled
 BigWigs_KhazAlgar: enabled
-Cell: disabled
+Cell: enabled
 BigWigs_LiberationOfUndermine: enabled

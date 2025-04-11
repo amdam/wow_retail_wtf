@@ -108,6 +108,17 @@ VER 3 010000000000001E " " "134400"
 /cast [@mouseover, help, nodead][help, nodead][@player] Holy Bulwark
 /script UIErrorsFrame:Clear()
 END
+VER 3 010000000000001F " " "134400"
+#showtooltip
+/cast [mod:alt,spec:1] Light of Dawn; Shield of the Righteous;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000020 " " "134400"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][nohelp][@player] Holy Prism;
+/script UIErrorsFrame:Clear()
+END
 VER 3 010000000000001C "focus" "523893"
 #showtooltip
 /cast [@focus,exists][] Rebuke;

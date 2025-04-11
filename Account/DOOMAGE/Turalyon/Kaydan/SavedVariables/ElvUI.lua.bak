@@ -3,10 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/p lust this boss rambo",
-"/p watch knockback",
-"/p dont get hit into the water",
-"/p :p",
 "/p lol",
 "/p ok thats it for me for now, naptime is over lol",
 "/p wuuut",
@@ -23,6 +19,10 @@ ElvCharacterDB = {
 "/p thx all, take care",
 "/ec",
 "/simc",
+"/rl",
+"/p will imprison left",
+"/p ggs fellas",
+"/p tyfg",
 },
 ["ConvertKeybindings"] = true,
 }

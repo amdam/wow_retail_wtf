@@ -14,17 +14,18 @@ CliqueDB3 = {
 ["Releaf - Turalyon"] = {
 ["spec1_profileKey"] = "Releaf - Turalyon",
 ["fastooc"] = false,
-["spec2_profileKey"] = "Releaf - Turalyon",
+["specswap"] = false,
 ["downclick"] = false,
 ["spec4_profileKey"] = "Releaf - Turalyon",
+["spec2_profileKey"] = "Releaf - Turalyon",
 ["spec3_profileKey"] = "Releaf - Turalyon",
 ["alerthidden"] = true,
-["specswap"] = false,
 },
 },
 ["profileKeys"] = {
 ["Asteriia - Turalyon"] = "Asteriia - Turalyon",
 ["Beefbutt - Silvermoon"] = "Beefbutt - Silvermoon",
+["Aureys - Turalyon"] = "Aureys - Turalyon",
 ["Mollyporph - Turalyon"] = "Mollyporph - Turalyon",
 ["Releaf - Turalyon"] = "Releaf - Turalyon",
 ["Moozers - Turalyon"] = "Moozers - Turalyon",
@@ -51,6 +52,25 @@ CliqueDB3 = {
 },
 },
 ["Beefbutt - Silvermoon"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Aureys - Turalyon"] = {
 ["bindings"] = {
 {
 ["type"] = "target",

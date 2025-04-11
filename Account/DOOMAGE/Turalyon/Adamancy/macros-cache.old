@@ -58,7 +58,7 @@ VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [mod:alt,known:Living Bomb] Living Bomb; Scorch; 
+/use [mod:alt] Hyperthread Wristwraps; Scorch; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"

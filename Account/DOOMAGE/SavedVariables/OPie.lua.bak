@@ -89,10 +89,10 @@ OPie_SavedData = {
 ["show"] = "[spec:64/63] hide;",
 ["sliceToken"] = "ABue376TIGe",
 },
-["limit"] = "Adamancy-Turalyon",
+["name"] = "Equipment sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment sets",
+["limit"] = "Adamancy-Turalyon",
 },
 ["CommonTrades"] = {
 {
@@ -101,8 +101,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTb",
 ["id"] = "/cast {{spell:2018/51300}}",
+["sliceToken"] = "OPCCTb",
 },
 {
 ["show"] = "[in:tww]",
@@ -120,8 +120,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTfj",
 ["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
 ["vm"] = 2,
 },
 {
@@ -169,8 +169,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTe",
 },
 {
-["id"] = "/cast {{spell:2108/51302}}",
 ["sliceToken"] = "OPCCTl",
+["id"] = "/cast {{spell:2108/51302}}",
 },
 {
 ["sliceToken"] = "OPCCTm",
@@ -183,14 +183,14 @@ OPie_SavedData = {
 ["id2"] = 51309,
 },
 {
-["sliceToken"] = "ABueaL4inxp",
 ["c"] = "b57f49",
+["sliceToken"] = "ABueaL4inxp",
 ["id"] = 2108,
 ["id2"] = 51302,
 },
 {
-["c"] = "f4aa0f",
 ["sliceToken"] = "ABueaL4inxo",
+["c"] = "f4aa0f",
 ["id"] = 2018,
 ["id2"] = 51300,
 },
@@ -447,8 +447,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "prot",
-["sliceToken"] = "ABueskpEsp4",
 ["show"] = "[spec:71/72] hide;",
+["sliceToken"] = "ABueskpEsp4",
 },
 {
 "equipmentset",
@@ -459,8 +459,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "fury",
-["sliceToken"] = "ABueskpEspg",
 ["show"] = "[spec:73/71] hide;",
+["sliceToken"] = "ABueskpEspg",
 },
 {
 "equipmentset",

@@ -119,6 +119,18 @@ VER 3 0100000000000020 " " "134400"
 /use [@mouseover, help, nodead][help, nodead][nohelp][@player] Holy Prism;
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000021 " " "134400"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Blessing of Protection
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000022 " " "134400"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Blessing of Spellwarding
+/script UIErrorsFrame:Clear()
+END
 VER 3 010000000000001C "focus" "523893"
 #showtooltip
 /cast [@focus,exists][] Rebuke;
