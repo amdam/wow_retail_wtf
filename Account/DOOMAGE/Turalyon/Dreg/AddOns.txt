@@ -102,6 +102,6 @@ LittleWigs_Shadowlands: enabled
 LittleWigs_Classic: enabled
 Baganator-ElvUI: disabled
 Plater: enabled
-Cell: disabled
+Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
 Parrot: disabled

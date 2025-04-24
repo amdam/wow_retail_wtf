@@ -24,7 +24,7 @@ GridStatusRD_WotLK: disabled
 Omen: enabled
 OmniCC: enabled
 OmniCC_Options: disabled
-OPie: disabled
+OPie: enabled
 PallyPower: disabled
 Parrot: disabled
 Quartz: disabled
@@ -201,5 +201,5 @@ LittleWigs_Legion: enabled
 Baganator-ElvUI: disabled
 LittleWigs_WarlordsOfDraenor: enabled
 Kui_Nameplates: disabled
-Cell: disabled
+Cell: enabled
 BigWigs_LiberationOfUndermine: enabled

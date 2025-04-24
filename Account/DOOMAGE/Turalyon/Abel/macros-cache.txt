@@ -79,3 +79,8 @@ VER 3 0100000000000010 " " "134400"
 /use [@mouseover, help, nodead][help, nodead][@player] Purify
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000011 " " "134400"
+#showtooltip
+/cast [mod:alt] Evangelism; [known:Premonition] Premonition; Evangelism
+/script UIErrorsFrame:Clear()
+END

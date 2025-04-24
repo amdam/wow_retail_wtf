@@ -38,7 +38,7 @@ OmniCCDB = {
 },
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "11.0.8",
+["addonVersion"] = "11.1.0",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -66,11 +66,11 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
+["minutes"] = {
+},
 ["seconds"] = {
 },
 ["soon"] = {
-},
-["minutes"] = {
 },
 },
 },
@@ -89,10 +89,10 @@ OmniCCDB = {
 ["scale"] = 0.75000000372529,
 },
 ["charging"] = {
-["r"] = 1,
+["b"] = 0.4,
 ["scale"] = 0.650000002235174,
 ["g"] = 0.98,
-["b"] = 0.4,
+["r"] = 1,
 },
 ["controlled"] = {
 ["scale"] = 1.50000001490116,
@@ -106,15 +106,15 @@ OmniCCDB = {
 ["textStyles"] = {
 ["minutes"] = {
 },
-["soon"] = {
-},
 ["seconds"] = {
 },
+["soon"] = {
+},
 ["charging"] = {
-["r"] = 1,
+["b"] = 0.4,
 ["scale"] = 0.65,
 ["g"] = 0.98,
-["b"] = 0.4,
+["r"] = 1,
 },
 },
 ["minDuration"] = 3,

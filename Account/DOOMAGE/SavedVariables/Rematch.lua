@@ -20,94 +20,54 @@ Rematch5Settings = {
 },
 ["HideNonBattlePets"] = false,
 ["DontSortByRelevance"] = false,
-["FavoriteFilters"] = {
+["PetNotes"] = {
 },
 ["ShowSpeciesID"] = false,
 ["DontConfirmCaging"] = true,
 ["UseDefaultJournal"] = false,
 ["AllowHiddenPets"] = false,
 ["ShowAfterBattle"] = false,
-["PetNotes"] = {
+["ExpandedOptionsHeaders"] = {
 },
 ["PetCardNoMouseoverFlip"] = false,
-["ReverseToolbar"] = false,
-["ShowAbilityNumbers"] = false,
+["PetCardBackground"] = "Expansion",
+["UseTypeBar"] = false,
+["FavoriteFilters"] = {
+},
 ["LevelingQueue"] = {
 },
-["PetCardInBattle"] = false,
 ["PetCardForLinks"] = false,
 ["Anchor"] = "BOTTOMRIGHT",
 ["HideRarityBorders"] = false,
 ["LoadHealthiest"] = false,
-["PetCardCompactCollected"] = false,
+["AbilityBackground"] = "Icon",
 ["HideNotesBadges"] = false,
 ["CompactQueueList"] = false,
-["ColorTargetNames"] = true,
 ["KeepNotesOnScreen"] = false,
+["ColorTargetNames"] = true,
 ["QueueAutoLearn"] = false,
 ["PanelTabAnchor"] = "BOTTOMRIGHT",
 ["HidePreferenceBadges"] = false,
 ["PetCardAlwaysShowHPXPText"] = false,
 ["CollapseOnEsc"] = false,
-["HideMenuHelp"] = false,
-["HideTruncatedTooltips"] = false,
-["WasShownOnLogout"] = false,
-["PetMarkerNames"] = {
-},
+["HideLevelBubbles"] = false,
+["ResetSortWithFilters"] = false,
+["CompactTeamList"] = false,
+["MaximizedLayout"] = "3-teams",
 ["CustomScaleValue"] = 100,
 ["StrongVsLevel"] = false,
 ["QueueActiveSort"] = false,
 ["KeepCompanion"] = false,
-["ResetExceptSearch"] = false,
+["PetCardShowExpansionStat"] = false,
 ["StickyNewPets"] = false,
-["Filters"] = {
-["Other"] = {
-},
-["Stats"] = {
-},
-["Strong"] = {
-[10] = true,
-},
-["Marker"] = {
-},
-["Sources"] = {
-},
-["Sort"] = {
-},
-["Level"] = {
-},
-["Tough"] = {
-},
-["Types"] = {
-},
-["Expansion"] = {
-},
-["Rarity"] = {
-},
-["RawSearchText"] = "bouncer",
-["Similar"] = {
-},
-["Search"] = {
-},
-["Breed"] = {
-},
-["Script"] = {
-},
-["Collected"] = {
-},
-["Favorite"] = {
-},
-["Moveset"] = {
-},
-},
+["NeverTeamTabs"] = false,
 ["ShowLoadedTeamPreferences"] = false,
 ["ShowAbilityID"] = false,
-["ResetFilters"] = false,
+["AlwaysTeamTabs"] = false,
 ["HidePetToast"] = true,
-["HideMarkerBadges"] = false,
-["CompactTargetList"] = false,
-["ExpandedGroups"] = {
-},
+["TypeBarTab"] = 1,
+["AlwaysUsePetSatchel"] = false,
+["InteractOnSoftInteract"] = 0,
 ["BackupCount"] = 0,
 ["HideToolbarTooltips"] = false,
 ["DisplayUniqueTotal"] = false,
@@ -118,16 +78,16 @@ Rematch5Settings = {
 ["InteractOnTarget"] = 0,
 ["HideTeamBadges"] = false,
 ["InteractOnMouseover"] = 0,
-["SafariHatShine"] = false,
-["TooltipBehavior"] = "Normal",
+["NotesFont"] = "GameFontHighlight",
+["LockPosition"] = false,
 ["LastOpenJournal"] = true,
-["HideNotesButtonInBattle"] = false,
-["HideLevelingBadges"] = false,
+["ShowNewGroupTab"] = true,
+["QueueSortOrder"] = 1,
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
 ["RandomPetRules"] = 2,
-["PetCardAlwaysShowHPBar"] = false,
-["QueueRandomWhenEmpty"] = false,
+["HideLevelingBadges"] = false,
+["BoringLoreFont"] = false,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",
@@ -153,36 +113,76 @@ Rematch5Settings = {
 ["SpecialSlots"] = {
 },
 ["CardBehavior"] = "Normal",
-["BoringLoreFont"] = false,
-["QueueSortOrder"] = 1,
-["ShowNewGroupTab"] = true,
-["LockPosition"] = false,
-["NotesFont"] = "GameFontHighlight",
+["QueueRandomWhenEmpty"] = false,
+["PetCardAlwaysShowHPBar"] = false,
+["HideNotesButtonInBattle"] = false,
+["TooltipBehavior"] = "Normal",
+["SafariHatShine"] = false,
 ["CombineGroupKey"] = "None",
-["InteractOnSoftInteract"] = 0,
-["AlwaysUsePetSatchel"] = false,
-["TypeBarTab"] = 1,
-["AlwaysTeamTabs"] = false,
+["ExpandedGroups"] = {
+},
+["CompactTargetList"] = false,
+["HideMarkerBadges"] = false,
+["ResetFilters"] = false,
 ["HideTooltips"] = false,
 ["ShowNewGroupTabFix"] = true,
-["NeverTeamTabs"] = false,
+["Filters"] = {
+["Other"] = {
+},
+["Stats"] = {
+},
+["Strong"] = {
+[10] = true,
+},
+["Marker"] = {
+},
+["Sources"] = {
+},
+["Sort"] = {
+},
+["Level"] = {
+},
+["Tough"] = {
+},
+["Types"] = {
+},
+["Expansion"] = {
+},
+["Rarity"] = {
+},
+["RawSearchText"] = "violet spor",
+["Similar"] = {
+},
+["Search"] = {
+},
+["Breed"] = {
+},
+["Script"] = {
+},
+["Collected"] = {
+},
+["Favorite"] = {
+},
+["Moveset"] = {
+},
+},
 ["SortByNickname"] = false,
-["PetCardShowExpansionStat"] = false,
-["MaximizedLayout"] = "3-teams",
-["CompactTeamList"] = false,
-["ResetSortWithFilters"] = false,
-["HideLevelBubbles"] = false,
+["ResetExceptSearch"] = false,
+["PetMarkerNames"] = {
+},
+["WasShownOnLogout"] = false,
+["HideTruncatedTooltips"] = false,
+["HideMenuHelp"] = false,
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = false,
 ["PetMarkers"] = {
 },
-["AbilityBackground"] = "Icon",
-["ExpandedOptionsHeaders"] = {
-},
-["NoBackupReminder"] = false,
+["PetCardCompactCollected"] = false,
 ["LockWindow"] = false,
-["UseTypeBar"] = false,
-["PetCardBackground"] = "Expansion",
+["NoBackupReminder"] = false,
+["PetCardInBattle"] = false,
+["ShowAbilityNumbers"] = false,
+["ReverseToolbar"] = false,
 ["ConvertedTeams"] = {
 },
 }
@@ -193,23 +193,23 @@ Rematch5SavedGroups = {
 ["showTab"] = true,
 ["sortMode"] = 1,
 ["name"] = "Favorite Teams",
+["isExpanded"] = true,
+["meta"] = true,
+["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
+["groupID"] = "group:favorites",
 ["teams"] = {
 },
-["meta"] = true,
-["groupID"] = "group:favorites",
-["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
-["isExpanded"] = true,
 },
 ["group:none"] = {
 ["showTab"] = true,
 ["sortMode"] = 1,
 ["name"] = "Ungrouped Teams",
+["isExpanded"] = true,
+["meta"] = true,
+["icon"] = "Interface\\Icons\\PetJournalPortrait",
+["groupID"] = "group:none",
 ["teams"] = {
 },
-["meta"] = true,
-["groupID"] = "group:none",
-["icon"] = "Interface\\Icons\\PetJournalPortrait",
-["isExpanded"] = true,
 },
 }
 Rematch5SavedTargets = {
@@ -244,13 +244,13 @@ Rematch4Settings = {
 },
 ["Script"] = {
 },
-["Moveset"] = {
+["Types"] = {
 },
-["Tough"] = {
+["Favorite"] = {
 },
-["Level"] = {
+["Collected"] = {
 },
-["Strong"] = {
+["Similar"] = {
 },
 ["Sources"] = {
 },
@@ -258,32 +258,20 @@ Rematch4Settings = {
 },
 ["Rarity"] = {
 },
-["Similar"] = {
+["Strong"] = {
 },
-["Collected"] = {
+["Level"] = {
 },
-["Favorite"] = {
+["Tough"] = {
 },
-["Types"] = {
+["Moveset"] = {
 },
 },
 ["ExpandedOptHeaders"] = {
 },
-["SelectedTab"] = 1,
+["CustomScaleValue"] = 100,
 ["SpecialSlots"] = {
 },
-["LevelingQueue"] = {
-},
-["QueueSortOrder"] = 1,
-["ExpandedTargetHeaders"] = {
-},
-["ElvUIToastDefaulted"] = true,
-["ActivePanel"] = 1,
-["Sanctuary"] = {
-},
-["JournalPanel"] = 1,
-["CornerPos"] = "BOTTOMLEFT",
-["PreferredMode"] = 1,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",
@@ -306,8 +294,20 @@ Rematch4Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
+["PreferredMode"] = 1,
+["ExpandedTargetHeaders"] = {
+},
+["ElvUIToastDefaulted"] = true,
+["ActivePanel"] = 1,
+["Sanctuary"] = {
+},
+["JournalPanel"] = 1,
+["CornerPos"] = "BOTTOMLEFT",
+["QueueSortOrder"] = 1,
+["LevelingQueue"] = {
+},
 ["YPos"] = 338,
-["CustomScaleValue"] = 100,
+["SelectedTab"] = 1,
 ["PetNotes"] = {
 },
 }

@@ -73,3 +73,9 @@ VER 3 010000000000000F " " "134400"
 /cast [@focus,exists][] Silence;
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000010 " " "134400"
+#showtooltip
+/stopcasting
+/use [@mouseover, help, nodead][help, nodead][@player] Purify
+/script UIErrorsFrame:Clear()
+END

@@ -230,5 +230,5 @@ Baganator: enabled
 BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 Baganator-ElvUI: disabled
-Cell: disabled
+Cell: enabled
 BigWigs_LiberationOfUndermine: enabled

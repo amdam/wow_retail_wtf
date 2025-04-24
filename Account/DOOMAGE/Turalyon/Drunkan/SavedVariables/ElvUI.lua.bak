@@ -2,7 +2,6 @@
 ElvCharacterDB = {
 ["ConvertKeybindings"] = true,
 ["ChatEditHistory"] = {
-"/g lol nice",
 "/g i haven't run across really any toxic groups yet, i feel like a lot more people are participating this season",
 "/g yeah i think the changes they made made a huge difference",
 "/g plus the scaling is 7% per key level instead of 10 like last season",
@@ -17,11 +16,12 @@ ElvCharacterDB = {
 "/g like have two options to start a mythic+ dungeon on the pedistal. one that takes the key like it does now, the other that lets you select from a dropdown the keystone levels for that dungeon everyone in your party has unlocked",
 "/g that way you can still use your keystones early steason to unlock the lower key levels for all the dungeons, but when you get to the point of pushing you can work on one dungeon at a time or choose whichever one you want",
 "/g and not deal with depleting",
-"/ec",
-"/wa",
 "/clique",
-"/cell opt",
+"/cell",
+"/ec",
 "/macro",
+"/wa",
+"/cell opt",
 },
 ["ChatHistoryLog"] = {
 },

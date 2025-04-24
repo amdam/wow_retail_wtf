@@ -27,17 +27,3 @@ X: 0
 Y: 111
 W: 784
 H: 260
-Frame: CellCodeSnippetsFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 641
-H: 550
-Frame: WeakAurasOptions
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 196
-Y: -23
-W: 998
-H: 787

@@ -210,5 +210,5 @@ BigWigs_NerubarPalace: enabled
 BigWigs_KhazAlgar: enabled
 LittleWigs_Shadowlands: enabled
 Baganator-ElvUI: disabled
-Cell: disabled
+Cell: enabled
 BigWigs_LiberationOfUndermine: enabled

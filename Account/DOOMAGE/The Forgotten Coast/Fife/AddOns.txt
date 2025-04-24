@@ -39,6 +39,7 @@ Baganator-ElvUI: disabled
 LittleWigs_WarlordsOfDraenor: enabled
 Kui_Nameplates: disabled
 Plater: enabled
-Cell: disabled
+Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
 Parrot: disabled
+OPie: enabled

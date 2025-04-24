@@ -3,9 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/details",
-"/details options",
-"/ec",
 "/g hey Aly, you guys skipping season 2 or what?",
 "/g they always come back, just a matter of time lol",
 "/g yeah i feel like the wall of difficulty at 12 is now gone",
@@ -23,6 +20,9 @@ ElvCharacterDB = {
 "/g not worth giving it up for pugs",
 "/g plus the goblin raid is pretty fun, good tier to play fire mage",
 "/g i sure will",
+"/g there ya go, biiig halberd",
+"/g :)))",
+"/g big dammies",
 },
 ["ConvertKeybindings"] = true,
 }

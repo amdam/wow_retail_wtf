@@ -15,8 +15,8 @@ MSBTProfiles_SavedVars = {
 ["NOTIFICATION_BUFF"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_NPC_KILLING_BLOW"] = {
-["disabled"] = false,
+["NOTIFICATION_REP_GAIN"] = {
+["disabled"] = true,
 },
 ["NOTIFICATION_ALT_POWER_LOSS"] = {
 ["disabled"] = true,
@@ -42,13 +42,13 @@ MSBTProfiles_SavedVars = {
 ["NOTIFICATION_MONSTER_EMOTE"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_HONOR_GAIN"] = {
+["NOTIFICATION_HOLY_POWER_CHANGE"] = {
 ["disabled"] = true,
 },
 ["NOTIFICATION_POWER_GAIN"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_SKILL_GAIN"] = {
+["NOTIFICATION_CP_FULL"] = {
 ["disabled"] = true,
 },
 ["NOTIFICATION_ENEMY_BUFF"] = {
@@ -60,44 +60,44 @@ MSBTProfiles_SavedVars = {
 ["NOTIFICATION_EXTRA_ATTACK"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_ESSENCE_CHANGE"] = {
+["NOTIFICATION_CP_GAIN"] = {
 ["disabled"] = true,
 },
 ["NOTIFICATION_AC_CHANGE"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_CP_GAIN"] = {
+["NOTIFICATION_ESSENCE_CHANGE"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_CP_FULL"] = {
+["NOTIFICATION_SKILL_GAIN"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_HOLY_POWER_CHANGE"] = {
+["NOTIFICATION_HONOR_GAIN"] = {
 ["disabled"] = true,
 },
 ["NOTIFICATION_CHI_FULL"] = {
 ["disabled"] = true,
 },
-["NOTIFICATION_REP_GAIN"] = {
-["disabled"] = true,
+["NOTIFICATION_NPC_KILLING_BLOW"] = {
+["disabled"] = false,
 },
 },
 ["enableBlizzardDamage"] = true,
 ["scrollAreas"] = {
+["Incoming"] = {
+["offsetX"] = -452,
+["offsetY"] = -167,
+},
 ["Outgoing"] = {
 ["offsetX"] = 412,
 ["offsetY"] = -167,
-},
-["Static"] = {
-["disabled"] = true,
 },
 ["Notification"] = {
 ["offsetX"] = -191,
 ["offsetY"] = 194,
 },
-["Incoming"] = {
-["offsetX"] = -452,
-["offsetY"] = -167,
+["Static"] = {
+["disabled"] = true,
 },
 },
 ["enableBlizzardHealing"] = true,

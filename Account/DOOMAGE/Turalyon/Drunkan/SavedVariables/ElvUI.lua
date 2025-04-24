@@ -17,11 +17,11 @@ ElvCharacterDB = {
 "/g that way you can still use your keystones early steason to unlock the lower key levels for all the dungeons, but when you get to the point of pushing you can work on one dungeon at a time or choose whichever one you want",
 "/g and not deal with depleting",
 "/clique",
-"/wa",
 "/cell",
 "/ec",
-"/cell opt",
 "/macro",
+"/wa",
+"/cell opt",
 },
 ["ChatHistoryLog"] = {
 },
