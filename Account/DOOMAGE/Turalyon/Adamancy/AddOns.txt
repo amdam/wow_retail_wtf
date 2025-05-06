@@ -18,7 +18,7 @@ TidyPlates: disabled
 DBM-Core: enabled
 TipTac: disabled
 OmniCC: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 OPie: enabled
 ShadowedUnitFrames: disabled
 Quartz: disabled

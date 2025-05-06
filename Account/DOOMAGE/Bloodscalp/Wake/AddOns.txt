@@ -162,3 +162,4 @@ Kui_Nameplates: disabled
 Plater: enabled
 Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
+MikScrollingBattleText: disabled

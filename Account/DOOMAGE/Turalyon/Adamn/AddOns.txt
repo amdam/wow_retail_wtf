@@ -53,7 +53,7 @@ DBM-ThroneofThunder: enabled
 ArkInventoryRules_Example: disabled
 LibSink-2.0: enabled
 tekDebug: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 DBM-Core: enabled
 OmniCC: disabled
 OPie: enabled

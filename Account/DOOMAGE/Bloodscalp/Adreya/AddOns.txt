@@ -203,3 +203,4 @@ LittleWigs_WarlordsOfDraenor: enabled
 Kui_Nameplates: disabled
 Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
+MikScrollingBattleText: disabled

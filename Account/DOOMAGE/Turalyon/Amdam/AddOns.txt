@@ -106,7 +106,7 @@ ArkInventoryRules: enabled
 Kui_Nameplates_Core_Config: enabled
 Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 OmniCC: enabled
 OmniCC_Config: enabled
 TipTac: disabled

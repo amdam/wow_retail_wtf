@@ -3,7 +3,7 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "Ånd 6 (4.133)",
+["_OPieVersion"] = "Ånd 6.1 (4.133)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
@@ -84,8 +84,8 @@ OPie_SavedData = {
 },
 ["CommonTrades"] = {
 {
-["sliceToken"] = "OPCCTc",
 ["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+["sliceToken"] = "OPCCTc",
 ["vm"] = 2,
 },
 {
@@ -108,8 +108,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTfj",
 ["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
 ["vm"] = 2,
 },
 {
@@ -117,8 +117,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTj",
 },
 {
-["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
 ["sliceToken"] = "OPCCTi",
+["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
 },
 {
 ["show"] = "[in:tww]",
@@ -131,8 +131,8 @@ OPie_SavedData = {
 ["id"] = 439871,
 },
 {
-["sliceToken"] = "OPCCTt",
 ["id"] = "/cast {{spell:3908/51309}}",
+["sliceToken"] = "OPCCTt",
 },
 {
 ["id"] = 194174,
@@ -145,16 +145,16 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTr",
 ["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+["sliceToken"] = "OPCCTr",
 },
 {
 ["id"] = 53428,
 ["sliceToken"] = "OPCCTu",
 },
 {
-["sliceToken"] = "OPCCTe",
 ["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+["sliceToken"] = "OPCCTe",
 },
 {
 ["id"] = "/cast {{spell:2108/51302}}",
@@ -165,8 +165,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTm",
 },
 {
-["c"] = "d8d1ad",
 ["sliceToken"] = "ABueaL4inxa",
+["c"] = "d8d1ad",
 ["id"] = 3908,
 ["id2"] = 51309,
 },
@@ -189,8 +189,8 @@ OPie_SavedData = {
 ["id2"] = 51311,
 },
 {
-["c"] = "f4ef28",
 ["sliceToken"] = "ABueaL4inxi",
+["c"] = "f4ef28",
 ["id"] = 7411,
 ["id2"] = 51313,
 },
@@ -201,14 +201,14 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["c"] = "c13f0f",
 ["sliceToken"] = "ABueaL4inxy",
+["c"] = "c13f0f",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
 {
-["sliceToken"] = "ABueaL4inxt",
 ["c"] = "85de60",
+["sliceToken"] = "ABueaL4inxt",
 ["id"] = 45357,
 ["id2"] = 45363,
 },
@@ -289,33 +289,33 @@ OPie_SavedData = {
 },
 ["MageTravel"] = {
 {
-["sliceToken"] = "OPCMVb",
 ["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
+["sliceToken"] = "OPCMVb",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVv",
 ["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
+["sliceToken"] = "OPCMVv",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVr",
 ["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
+["sliceToken"] = "OPCMVr",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVs",
 ["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
+["sliceToken"] = "OPCMVs",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVw",
 ["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
+["sliceToken"] = "OPCMVw",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVd",
 ["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
+["sliceToken"] = "OPCMVd",
 },
 {
 ["id"] = "/cast [mod] {{spell:11420}}; {{spell:3566}}",
@@ -328,8 +328,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVi",
 ["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
+["sliceToken"] = "OPCMVi",
 ["vm"] = 2,
 },
 {
@@ -349,40 +349,40 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMV1",
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}}",
+["sliceToken"] = "OPCMV1",
 },
 {
-["sliceToken"] = "OPCMVx",
 ["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
+["sliceToken"] = "OPCMVx",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "ABue3Xt7/Yi",
 ["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
+["sliceToken"] = "ABue3Xt7/Yi",
 },
 {
-["sliceToken"] = "OPCMV9",
 ["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
+["sliceToken"] = "OPCMV9",
 },
 {
-["sliceToken"] = "OPCMV0",
 ["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
+["sliceToken"] = "OPCMV0",
 },
 {
-["sliceToken"] = "OPCMV8",
 ["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
+["sliceToken"] = "OPCMV8",
 },
 {
-["sliceToken"] = "ABueQUekVHw",
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
+["sliceToken"] = "ABueQUekVHw",
 },
-["save"] = true,
-["v"] = 2,
-["vm"] = 127,
-["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
+["limit"] = "MAGE",
+["vm"] = 127,
+["save"] = true,
 ["hotkey"] = "ALT-G",
+["v"] = 2,
 },
 ["ipmentSets"] = {
 {

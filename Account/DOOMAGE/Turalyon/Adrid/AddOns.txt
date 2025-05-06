@@ -1,6 +1,6 @@
 RoguePowerBars: disabled
 OmniCC: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 OPie: enabled
 ShadowedUnitFrames: disabled
 ArkInventory: disabled

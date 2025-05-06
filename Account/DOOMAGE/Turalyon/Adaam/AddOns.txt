@@ -146,3 +146,4 @@ BigWigs_KhazAlgar: enabled
 Baganator-ElvUI: disabled
 Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
+MikScrollingBattleText: disabled

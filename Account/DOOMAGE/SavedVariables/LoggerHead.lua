@@ -3,12 +3,12 @@ LoggerHeadDB = {
 ["profileKeys"] = {
 ["Abel - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
-["Drunkan - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -43,6 +43,9 @@ false,
 ["Auchindoun"] = {
 [24] = false,
 },
+["Eye of Azshara"] = {
+[24] = false,
+},
 ["The Everbloom"] = {
 [24] = false,
 },
@@ -69,10 +72,7 @@ false,
 ["Stormstout Brewery"] = {
 [24] = false,
 },
-["Grimrail Depot"] = {
-[24] = false,
-},
-["Shadowmoon Burial Grounds"] = {
+["Scholomance"] = {
 [24] = false,
 },
 ["Operation: Floodgate"] = {
@@ -80,7 +80,10 @@ false,
 [2] = false,
 [23] = true,
 },
-["Scholomance"] = {
+["Shadowmoon Burial Grounds"] = {
+[24] = false,
+},
+["Grimrail Depot"] = {
 [24] = false,
 },
 },
@@ -88,10 +91,10 @@ false,
 ["The Waterworks"] = {
 [208] = false,
 },
-["Tak-Rethan Abyss"] = {
+["Excavation Site 9"] = {
 [208] = false,
 },
-["The Spiral Weave"] = {
+["The Underkeep"] = {
 [208] = false,
 },
 ["The Sinkhole"] = {
@@ -109,7 +112,7 @@ false,
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["Fungal Folly"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
 ["The Dread Pit"] = {
@@ -121,19 +124,20 @@ false,
 ["Kriegval's Rest"] = {
 [208] = false,
 },
-["Excavation Site 9"] = {
+["Fungal Folly"] = {
 [208] = false,
 },
-["The Underkeep"] = {
+["The Spiral Weave"] = {
 [208] = false,
 },
-["Nightfall Sanctum"] = {
+["Tak-Rethan Abyss"] = {
 [208] = false,
 },
 },
 ["raid"] = {
 ["Liberation of Undermine"] = {
 [14] = true,
+[16] = true,
 [15] = true,
 },
 },

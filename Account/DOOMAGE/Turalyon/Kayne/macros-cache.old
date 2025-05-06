@@ -90,7 +90,7 @@ VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000012 " " "134400"
 #showtooltip
-/cast [@cursor] Death and Decay;
+/cast [spec:2,@player][@cursor] Death and Decay;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000013 " " "134400"

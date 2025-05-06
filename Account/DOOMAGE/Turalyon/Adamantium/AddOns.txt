@@ -126,3 +126,4 @@ OPie_Classic: disabled
 Blizzard_CombatText: enabled
 Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
+MikScrollingBattleText: disabled

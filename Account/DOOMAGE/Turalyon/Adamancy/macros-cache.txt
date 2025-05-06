@@ -84,6 +84,7 @@ END
 VER 3 010000000000001D " " "134400"
 #showtooltip Arcane Surge
 /use 13
+/use 14
 /castsequence reset=10 13, Arcane Surge, Arcane Surge
 /cast Arcane Surge
 /cqs
@@ -104,5 +105,10 @@ END
 VER 3 0100000000000020 " " "134400"
 #showtooltip
 /cast [@player] Arcane Intellect
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000021 " " "134400"
+#showtooltip
+/cast [@cursor] Flamestrike
 /script UIErrorsFrame:Clear()
 END

@@ -43,3 +43,4 @@ Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
 Parrot: disabled
 OPie: enabled
+MikScrollingBattleText: disabled

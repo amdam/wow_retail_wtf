@@ -6,7 +6,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,nochanneling] Arcane Explosion; [mod:shift] Frostbolt; [known:Frostfire Bolt] Frostfire Bolt; [spec:2] Fireball; [spec:3] Frostbolt; [spec:1,nochanneling] Arcane Blast;
+/cast [mod:alt,nochanneling] Arcane Explosion; [mod:shift] Frostbolt; [known:Frostfire Bolt] Frostfire Bolt; [spec:2] Fireball; [spec:3] Frostbolt; [spec:1] Arcane Blast;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
@@ -53,7 +53,7 @@ VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Frost Nova; [mod:shift,known:Ice Nova] Ice Nova; [spec:2] Fire Blast; [spec:3] Ice Lance; [spec:1,nochanneling] Arcane Barrage;
+/cast [mod:alt] Frost Nova; [mod:shift,known:Ice Nova] Ice Nova; [spec:2] Fire Blast; [spec:3] Ice Lance; [spec:1] Arcane Barrage;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
@@ -104,5 +104,10 @@ END
 VER 3 0100000000000020 " " "134400"
 #showtooltip
 /cast [@player] Arcane Intellect
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000021 " " "134400"
+#showtooltip
+/cast [@cursor] Flamestrike
 /script UIErrorsFrame:Clear()
 END

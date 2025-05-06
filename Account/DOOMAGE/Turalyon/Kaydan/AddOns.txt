@@ -86,3 +86,4 @@ Baganator-ElvUI: disabled
 Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
 Parrot: disabled
+MikScrollingBattleText: disabled

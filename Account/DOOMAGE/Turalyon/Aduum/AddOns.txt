@@ -4,7 +4,7 @@ TidyPlates_ThreatPlates: enabled
 TinyTip: enabled
 DBM-Core: enabled
 OmniCC: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 OPie: enabled
 ShadowedUnitFrames: disabled
 ArkInventory: disabled

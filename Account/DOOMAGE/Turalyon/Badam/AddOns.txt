@@ -126,7 +126,7 @@ DBM-ThroneofThunder: enabled
 ArkInventoryRules_Example: enabled
 DBM-Core: enabled
 OmniCC: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 ElvUI: enabled
 HealBot: disabled
 HHTD: disabled

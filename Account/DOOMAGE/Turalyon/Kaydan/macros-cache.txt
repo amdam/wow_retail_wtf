@@ -66,3 +66,8 @@ VER 3 010000000000000D " " "134400"
 /cast [@focus,exists][] Disrupt
 /script UIErrorsFrame:Clear()
 END
+VER 3 010000000000000E " " "134400"
+#showtooltip
+/cast Sigil of Chains
+/script UIErrorsFrame:Clear()
+END
