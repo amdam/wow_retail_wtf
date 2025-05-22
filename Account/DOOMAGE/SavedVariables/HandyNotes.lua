@@ -5,8 +5,8 @@ HandyNotesDB = {
 ["Allevin - Turalyon"] = "Allevin - Turalyon",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
 ["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Jakar - Turalyon"] = "Jakar - Turalyon",
@@ -41,9 +41,9 @@ HandyNotesDB = {
 },
 ["Powerpriest - Turalyon"] = {
 },
-["Adrid - Turalyon"] = {
-},
 ["Adaam - Turalyon"] = {
+},
+["Adrid - Turalyon"] = {
 },
 ["Caldo - Turalyon"] = {
 },
@@ -101,8 +101,8 @@ HandyNotes_HandyNotesDB = {
 ["Allevin - Turalyon"] = "Allevin - Turalyon",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
 ["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Jakar - Turalyon"] = "Jakar - Turalyon",
@@ -137,9 +137,9 @@ HandyNotes_HandyNotesDB = {
 },
 ["Powerpriest - Turalyon"] = {
 },
-["Adrid - Turalyon"] = {
-},
 ["Adaam - Turalyon"] = {
+},
+["Adrid - Turalyon"] = {
 },
 ["Caldo - Turalyon"] = {
 },

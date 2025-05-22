@@ -45,7 +45,7 @@ PlumberDB = {
 ["QuickSlotHighContrastMode"] = false,
 ["VotingResultsExpanded"] = true,
 ["Plunderstore"] = true,
-["MinimapMouseover"] = false,
+["WoWAnniversary"] = true,
 ["NameplateWidget"] = true,
 ["installTime"] = 1740600000,
 ["TalkingHead_FontSize"] = 100,
@@ -80,7 +80,7 @@ PlumberDB = {
 ["TalkingHead_InstantText"] = false,
 ["Delves_Dashboard"] = true,
 ["WorldMapPin_TWW_Delve"] = true,
-["WoWAnniversary"] = true,
+["MinimapMouseover"] = false,
 ["LootUI_BackgroundAlpha"] = 0.5,
 }
 PlumberDevData = nil

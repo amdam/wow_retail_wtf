@@ -1,19 +1,26 @@
 
 LoggerHeadDB = {
 ["profileKeys"] = {
-["Abel - Turalyon"] = "Default",
-["Adamancy - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
+["Adamancy - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
 ["log"] = {
 ["party"] = {
+["Dire Maul"] = {
+[24] = false,
+},
 ["Mogu'shan Palace"] = {
 [24] = false,
 },
@@ -39,6 +46,9 @@ LoggerHeadDB = {
 false,
 [8] = true,
 [23] = true,
+},
+["Deadmines"] = {
+[24] = false,
 },
 ["Auchindoun"] = {
 [24] = false,
@@ -69,10 +79,13 @@ false,
 [23] = true,
 [8] = true,
 },
-["Stormstout Brewery"] = {
+["Scholomance"] = {
 [24] = false,
 },
-["Scholomance"] = {
+["Zul'Farrak"] = {
+[24] = false,
+},
+["Stormstout Brewery"] = {
 [24] = false,
 },
 ["Operation: Floodgate"] = {
@@ -86,18 +99,21 @@ false,
 ["Grimrail Depot"] = {
 [24] = false,
 },
+["Stratholme"] = {
+[24] = false,
+},
 },
 ["scenario"] = {
 ["The Waterworks"] = {
 [208] = false,
 },
-["Excavation Site 9"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
 ["The Underkeep"] = {
 [208] = false,
 },
-["The Sinkhole"] = {
+["Tak-Rethan Abyss"] = {
 [208] = false,
 },
 ["Earthcrawl Mines"] = {
@@ -112,7 +128,7 @@ false,
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["Nightfall Sanctum"] = {
+["Excavation Site 9"] = {
 [208] = false,
 },
 ["The Dread Pit"] = {
@@ -130,7 +146,7 @@ false,
 ["The Spiral Weave"] = {
 [208] = false,
 },
-["Tak-Rethan Abyss"] = {
+["The Sinkhole"] = {
 [208] = false,
 },
 },

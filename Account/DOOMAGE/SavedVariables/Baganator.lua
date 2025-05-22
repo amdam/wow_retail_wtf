@@ -2,13 +2,12 @@
 BAGANATOR_CONFIG = {
 ["CharacterSpecific"] = {
 ["sort_ignore_bank_slots_count"] = {
+["Adamancy-Turalyon"] = 0,
 },
 ["currencies_tracked_imported"] = {
 },
 ["currencies_tracked"] = {
-["Abel-Turalyon"] = {
-},
-["Amdam-Turalyon"] = {
+["Adamian-Turalyon"] = {
 },
 ["Adamancy-Turalyon"] = {
 {
@@ -20,8 +19,27 @@ BAGANATOR_CONFIG = {
 },
 ["Kaydan-Turalyon"] = {
 },
+["Dreg-Turalyon"] = {
+},
+["Kayne-Turalyon"] = {
+},
+["Badam-Turalyon"] = {
+},
+["Abel-Turalyon"] = {
+},
+["Drunkan-Turalyon"] = {
+},
+["Adrid-Turalyon"] = {
+},
+["Aduum-Turalyon"] = {
+},
+["Adamn-Turalyon"] = {
+},
+["Amdam-Turalyon"] = {
+},
 },
 ["sort_ignore_slots_count_2"] = {
+["Adamancy-Turalyon"] = 0,
 },
 },
 ["Version"] = 1,
@@ -117,6 +135,7 @@ BAGANATOR_CONFIG = {
 "default_consumable",
 "default_questitem",
 "_1",
+"1",
 "default_auto_equipment_sets",
 "default_weapon",
 "default_armor",
@@ -165,6 +184,10 @@ BAGANATOR_CONFIG = {
 },
 ["migrated_sort_method"] = true,
 ["custom_categories"] = {
+["1"] = {
+["name"] = "Tradable",
+["search"] = "tradable",
+},
 },
 ["guild_view_position_2"] = {
 "TOPLEFT",
@@ -172,7 +195,14 @@ BAGANATOR_CONFIG = {
 -235,
 },
 ["icon_mark_unusable"] = false,
-["debug_timers"] = false,
+["category_sections"] = {
+["1"] = {
+["name"] = "EQUIPMENT",
+},
+["2"] = {
+["name"] = "CRAFTING",
+},
+},
 ["seen_welcome"] = 1,
 ["hide_special_container"] = {
 },
@@ -184,8 +214,8 @@ BAGANATOR_CONFIG = {
 ["category_default_import"] = 2,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--399.433349609375,
-372.9595031738281,
+-407.83740234375,
+442.1312255859375,
 },
 ["guild_current_tab"] = 5,
 ["currencies_tracked_imported"] = {
@@ -199,11 +229,15 @@ BAGANATOR_CONFIG = {
 },
 ["sort_start_at_bottom"] = false,
 ["debug_categories"] = false,
+["category_migration"] = 5,
 ["saved_searches"] = {
 },
-["category_migration"] = 5,
 ["icon_text_quality_colors"] = false,
 ["category_modifications"] = {
+["1"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
 ["default_reagent"] = {
 ["showGroupPrefix"] = true,
 ["priority"] = 0,
@@ -215,14 +249,10 @@ BAGANATOR_CONFIG = {
 },
 },
 ["warband_bank_view_width"] = 14,
-["guild_view_position"] = {
-"LEFT",
-20,
-0,
-},
+["sort_ignore_slots_at_end"] = false,
 ["add_to_category_buttons_2"] = "drag",
 ["view_type"] = "unset",
-["bank_current_tab"] = 2,
+["bank_current_tab"] = 1,
 ["currencies_tracked"] = {
 ["Adamian-Turalyon"] = {
 },
@@ -238,7 +268,7 @@ BAGANATOR_CONFIG = {
 },
 ["Kaydan-Turalyon"] = {
 },
-["Powerpriest-Turalyon"] = {
+["Amdam-Turalyon"] = {
 },
 ["Dreg-Turalyon"] = {
 },
@@ -246,7 +276,7 @@ BAGANATOR_CONFIG = {
 },
 ["Kayne-Turalyon"] = {
 },
-["Amdam-Turalyon"] = {
+["Powerpriest-Turalyon"] = {
 },
 ["Badam-Turalyon"] = {
 },
@@ -264,38 +294,17 @@ BAGANATOR_CONFIG = {
 ["guild_bank_sort_method"] = "unset",
 ["icon_text_font_size"] = 14,
 ["category_hidden"] = {
+["1"] = false,
 ["default_reagent"] = false,
 },
-["view_alpha"] = 1,
 ["disabled_skins"] = {
 },
-["setting_anchors"] = false,
+["view_alpha"] = 1,
+["bag_view_width"] = 12,
 ["category_horizontal_spacing"] = 0.15,
 ["category_section_toggled"] = {
 ["Equipment"] = false,
 ["Crafting"] = false,
-},
-["recent_characters_main_view"] = {
-"Abel-Turalyon",
-"Kaydan-Turalyon",
-"Amdam-Turalyon",
-"Adamancy-Turalyon",
-"Kayne-Turalyon",
-"Drunkan-Turalyon",
-"Badam-Turalyon",
-"Adrid-Turalyon",
-"Adamn-Turalyon",
-"Adamian-Turalyon",
-"Dreg-Turalyon",
-"Aduum-Turalyon",
-"Christoff-Turalyon",
-"Powerpriest-Turalyon",
-"Adamantium-Turalyon",
-"Allevin-Turalyon",
-"Adaam-Turalyon",
-"Adonis-Turalyon",
-"Tupac-Turalyon",
-"Jakar-Turalyon",
 },
 ["debug_keywords"] = false,
 ["skins"] = {
@@ -314,13 +323,35 @@ BAGANATOR_CONFIG = {
 ["empty_slot_background"] = false,
 },
 },
+["recent_characters_main_view"] = {
+"Adamancy-Turalyon",
+"Amdam-Turalyon",
+"Kaydan-Turalyon",
+"Abel-Turalyon",
+"Adamian-Turalyon",
+"Dreg-Turalyon",
+"Adrid-Turalyon",
+"Kayne-Turalyon",
+"Badam-Turalyon",
+"Adamn-Turalyon",
+"Aduum-Turalyon",
+"Drunkan-Turalyon",
+"Adamantium-Turalyon",
+"Fernie-Turalyon",
+"Christoff-Turalyon",
+"Powerpriest-Turalyon",
+"Allevin-Turalyon",
+"Adaam-Turalyon",
+"Adonis-Turalyon",
+"Tupac-Turalyon",
+},
 ["auto_sort_on_open"] = false,
 ["sort_ignore_slots_count_2"] = {
 ["Kayne-Turalyon"] = 0,
 ["Amdam-Turalyon"] = 0,
 ["Adamancy-Turalyon"] = 0,
 },
-["bag_view_width"] = 12,
+["setting_anchors"] = false,
 ["category_group_empty_slots"] = true,
 ["recent_timeout"] = 15,
 ["guild_view_dialog_position"] = {
@@ -330,7 +361,11 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["sort_ignore_slots_at_end"] = false,
+["guild_view_position"] = {
+"LEFT",
+20,
+0,
+},
 ["bank_only_view_position"] = {
 "LEFT",
 416.9298706054688,
@@ -349,14 +384,7 @@ BAGANATOR_CONFIG = {
 },
 ["lock_frames"] = false,
 ["upgrade_plugin"] = "none",
-["category_sections"] = {
-["1"] = {
-["name"] = "EQUIPMENT",
-},
-["2"] = {
-["name"] = "CRAFTING",
-},
-},
+["debug_timers"] = false,
 ["currency_headers_collapsed"] = {
 },
 ["icon_context_fading"] = true,

@@ -1,5 +1,9 @@
 
 OmniCCDB = {
+["global"] = {
+["dbVersion"] = 6,
+["addonVersion"] = "11.2.3",
+},
 ["profileKeys"] = {
 ["Allevin - Turalyon"] = "Default",
 ["Svend - Turalyon"] = "Default",
@@ -26,19 +30,15 @@ OmniCCDB = {
 ["Amdamn - Bloodscalp"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
-["Adomic - Turalyon"] = "Default",
-["Powerpriest - Turalyon"] = "Default",
-["Broddah - Doomhammer"] = "Default",
-["Kurate - Turalyon"] = "Default",
-["Artoc - Zul'jin"] = "Default",
-["Asaam - Turalyon"] = "Default",
-["Tupac - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
 ["Shado - Turalyon"] = "Default",
-},
-["global"] = {
-["dbVersion"] = 6,
-["addonVersion"] = "11.2.3",
+["Adrid - Turalyon"] = "Default",
+["Broddah - Doomhammer"] = "Default",
+["Asaam - Turalyon"] = "Default",
+["Artoc - Zul'jin"] = "Default",
+["Kurate - Turalyon"] = "Default",
+["Tupac - Turalyon"] = "Default",
+["Powerpriest - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -66,9 +66,9 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
-["minutes"] = {
-},
 ["seconds"] = {
+},
+["minutes"] = {
 },
 ["soon"] = {
 },
@@ -104,9 +104,9 @@ OmniCCDB = {
 },
 ["Ignore"] = {
 ["textStyles"] = {
-["minutes"] = {
-},
 ["seconds"] = {
+},
+["minutes"] = {
 },
 ["soon"] = {
 },
@@ -127,17 +127,6 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
-["version"] = "8.2.5",
-["groups"] = {
-{
-["id"] = "Ignore",
-["rules"] = {
-"LossOfControl",
-"TotemFrame",
-},
-["enabled"] = true,
-},
-},
 ["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
@@ -192,11 +181,11 @@ OmniCC4Config = {
 ["yOff"] = 0,
 ["xOff"] = 0,
 ["version"] = "3.1.4",
-["fontFace"] = "Fonts\\FRIZQT__.TTF",
-["fontSize"] = 18,
-["minEffectDuration"] = 30,
-["minSize"] = 0.5,
 ["scaleText"] = true,
+["minSize"] = 0.5,
+["minEffectDuration"] = 30,
+["fontSize"] = 18,
+["fontFace"] = "Fonts\\FRIZQT__.TTF",
 },
 ["Ignore"] = {
 ["fontSize"] = 18,
@@ -211,9 +200,7 @@ OmniCC4Config = {
 ["yOff"] = 0,
 ["xOff"] = 0,
 ["version"] = "3.1.4",
-["scaleText"] = true,
-["minSize"] = 0.5,
-["minEffectDuration"] = 30,
+["fontFace"] = "Fonts\\FRIZQT__.TTF",
 ["styles"] = {
 ["soon"] = {
 ["a"] = 1,
@@ -253,7 +240,20 @@ OmniCC4Config = {
 ["controlled"] = {
 },
 },
-["fontFace"] = "Fonts\\FRIZQT__.TTF",
+["minEffectDuration"] = 30,
+["minSize"] = 0.5,
+["scaleText"] = true,
 },
 },
+["groups"] = {
+{
+["id"] = "Ignore",
+["rules"] = {
+"LossOfControl",
+"TotemFrame",
+},
+["enabled"] = true,
+},
+},
+["version"] = "8.2.5",
 }

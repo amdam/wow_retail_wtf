@@ -54,6 +54,7 @@ VER 3 010000000000000B " " "134400"
 #showtooltip
 /cast Metamorphosis
 /use [@player] 13
+/use 14
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "134400"
@@ -68,6 +69,6 @@ VER 3 010000000000000D " " "134400"
 END
 VER 3 010000000000000E " " "134400"
 #showtooltip
-/cast [@cursor] Sigil of Chains
+/cast Sigil of Chains
 /script UIErrorsFrame:Clear()
 END
