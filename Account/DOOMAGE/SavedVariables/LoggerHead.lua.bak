@@ -4,15 +4,16 @@ LoggerHeadDB = {
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
 ["Aduum - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
-["Abel - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -79,7 +80,7 @@ false,
 [23] = true,
 [8] = true,
 },
-["Stratholme"] = {
+["Scholomance"] = {
 [24] = false,
 },
 ["Zul'Farrak"] = {
@@ -88,18 +89,18 @@ false,
 ["Stormstout Brewery"] = {
 [24] = false,
 },
-["Grimrail Depot"] = {
-[24] = false,
-},
-["Shadowmoon Burial Grounds"] = {
-[24] = false,
-},
 ["Operation: Floodgate"] = {
 [8] = true,
 [2] = false,
 [23] = true,
 },
-["Scholomance"] = {
+["Shadowmoon Burial Grounds"] = {
+[24] = false,
+},
+["Grimrail Depot"] = {
+[24] = false,
+},
+["Stratholme"] = {
 [24] = false,
 },
 },
@@ -107,10 +108,10 @@ false,
 ["The Waterworks"] = {
 [208] = false,
 },
-["Tak-Rethan Abyss"] = {
+["Excavation Site 9"] = {
 [208] = false,
 },
-["The Spiral Weave"] = {
+["The Underkeep"] = {
 [208] = false,
 },
 ["The Sinkhole"] = {
@@ -128,7 +129,7 @@ false,
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["Fungal Folly"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
 ["The Dread Pit"] = {
@@ -140,13 +141,13 @@ false,
 ["Kriegval's Rest"] = {
 [208] = false,
 },
-["Excavation Site 9"] = {
+["Fungal Folly"] = {
 [208] = false,
 },
-["The Underkeep"] = {
+["The Spiral Weave"] = {
 [208] = false,
 },
-["Nightfall Sanctum"] = {
+["Tak-Rethan Abyss"] = {
 [208] = false,
 },
 },
@@ -155,6 +156,12 @@ false,
 [14] = true,
 [16] = true,
 [15] = true,
+},
+["The Emerald Nightmare"] = {
+[17] = false,
+},
+["Black Temple"] = {
+[14] = false,
 },
 },
 },

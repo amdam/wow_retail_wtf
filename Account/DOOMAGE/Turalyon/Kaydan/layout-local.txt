@@ -27,3 +27,10 @@ X: -56
 Y: 9
 W: 784
 H: 260
+Frame: MDTPullButton18
+FrameLevel: 8
+Anchor: BOTTOM
+X: 318
+Y: 306
+W: 228
+H: 32

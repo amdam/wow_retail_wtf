@@ -4,15 +4,16 @@ LoggerHeadDB = {
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
-["Aduum - Turalyon"] = "Default",
-["Abel - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -79,7 +80,7 @@ false,
 [23] = true,
 [8] = true,
 },
-["Scholomance"] = {
+["Stratholme"] = {
 [24] = false,
 },
 ["Zul'Farrak"] = {
@@ -88,18 +89,18 @@ false,
 ["Stormstout Brewery"] = {
 [24] = false,
 },
+["Grimrail Depot"] = {
+[24] = false,
+},
+["Shadowmoon Burial Grounds"] = {
+[24] = false,
+},
 ["Operation: Floodgate"] = {
 [8] = true,
 [2] = false,
 [23] = true,
 },
-["Shadowmoon Burial Grounds"] = {
-[24] = false,
-},
-["Grimrail Depot"] = {
-[24] = false,
-},
-["Stratholme"] = {
+["Scholomance"] = {
 [24] = false,
 },
 },
@@ -107,13 +108,13 @@ false,
 ["The Waterworks"] = {
 [208] = false,
 },
-["Nightfall Sanctum"] = {
-[208] = false,
-},
-["The Underkeep"] = {
-[208] = false,
-},
 ["Tak-Rethan Abyss"] = {
+[208] = false,
+},
+["The Spiral Weave"] = {
+[208] = false,
+},
+["The Sinkhole"] = {
 [208] = false,
 },
 ["Earthcrawl Mines"] = {
@@ -128,7 +129,7 @@ false,
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["Excavation Site 9"] = {
+["Fungal Folly"] = {
 [208] = false,
 },
 ["The Dread Pit"] = {
@@ -140,21 +141,27 @@ false,
 ["Kriegval's Rest"] = {
 [208] = false,
 },
-["Fungal Folly"] = {
+["Excavation Site 9"] = {
 [208] = false,
 },
-["The Spiral Weave"] = {
+["The Underkeep"] = {
 [208] = false,
 },
-["The Sinkhole"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
 },
 ["raid"] = {
+["Black Temple"] = {
+[14] = false,
+},
 ["Liberation of Undermine"] = {
 [14] = true,
 [16] = true,
 [15] = true,
+},
+["The Emerald Nightmare"] = {
+[17] = false,
 },
 },
 },

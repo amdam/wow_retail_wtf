@@ -35,7 +35,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1] Dancing Rune Weapon; [spec:2] Empower Rune Weapon;
+/cast [spec:1] Dancing Rune Weapon; [spec:2] Empower Rune Weapon; [spec:3] Apocalypse;
 /cast Raise Dead
 /use 13
 /script UIErrorsFrame:Clear()
@@ -75,7 +75,7 @@ VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Dark Transformation;
+/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Scourge Strike;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
@@ -85,7 +85,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Soul Reaper] Soul Reaper; [spec:3] Apocalypse; [spec:2] Pillar of Frost; [spec:1] Tombstone; Soul Reaper;
+/cast [mod:alt,known:Soul Reaper] Soul Reaper; [spec:3,known:Unholy Assault] Unholy Assault; [spec:2] Pillar of Frost; [spec:1] Tombstone; Soul Reaper;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000012 " " "134400"
@@ -95,7 +95,7 @@ VER 3 0100000000000012 " " "134400"
 END
 VER 3 0100000000000013 " " "134400"
 #showtooltip
-/cast [mod:alt] Abomination Limb; Scourge Strike;
+/cast [mod:alt] Abomination Limb; Dark Transformation;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000014 " " "134400"

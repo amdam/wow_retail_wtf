@@ -26,6 +26,7 @@ VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
 /cast [mod:alt,known:Bonestorm] Bonestorm; Death Strike;
+/cast Raise Dead
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -35,7 +36,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1] Dancing Rune Weapon; [spec:2] Empower Rune Weapon;
+/cast [spec:1] Dancing Rune Weapon; [spec:2] Empower Rune Weapon; [spec:3] Apocalypse;
 /cast Raise Dead
 /use 13
 /script UIErrorsFrame:Clear()
@@ -85,7 +86,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Soul Reaper] Soul Reaper; [spec:3] Apocalypse; [spec:2] Pillar of Frost; [spec:1] Tombstone; Soul Reaper;
+/cast [mod:alt,known:Soul Reaper] Soul Reaper; [spec:3,known:Unholy Assault] Unholy Assault; [spec:2] Pillar of Frost; [spec:1] Tombstone; Soul Reaper;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000012 " " "134400"
@@ -101,5 +102,10 @@ END
 VER 3 0100000000000014 " " "134400"
 #showtooltip
 /cast [@focus,exists][] Mind Freeze;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "134400"
+#showtooltip
+/cast [@mouseover] Raise Ally
 /script UIErrorsFrame:Clear()
 END

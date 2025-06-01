@@ -1,6 +1,6 @@
 VER 3 0100000000000004 " " "134400"
 #showtooltip
-/cast [mod:alt,@player] Sigil of Spite; Blade Dance
+/cast [mod:alt] Eye Beam; Blade Dance
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000003 " " "134400"
@@ -26,7 +26,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "134400"
 #showtooltip
-/cast [mod:alt,spec:2,@cursor][mod:alt,spec:1,@player] Sigil of Spite; [spec:2,@cursor][spec:1,@player] Sigil of Flame;
+/cast [mod:alt,@cursor] Sigil of Spite; [@cursor] Sigil of Flame;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
@@ -52,8 +52,8 @@ VER 3 010000000000000A " " "134400"
 END
 VER 3 010000000000000B " " "134400"
 #showtooltip
-/cast Metamorphosis
-/use [@player] 13
+/cast [@cursor] Metamorphosis
+/use 13
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "134400"

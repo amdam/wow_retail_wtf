@@ -3,7 +3,7 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "Ånd 6.1 (4.133)",
+["_OPieVersion"] = "Ånd 6.2 (4.133)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
@@ -282,10 +282,10 @@ OPie_SavedData = {
 ["id"] = 25780,
 ["sliceToken"] = "OPCPAf",
 },
-["name"] = "Paladin Buffs",
+["limit"] = "PALADIN",
 ["save"] = true,
 ["hotkey"] = "ALT-P",
-["limit"] = "PALADIN",
+["name"] = "Paladin Buffs",
 },
 ["MageTravel"] = {
 {
@@ -426,10 +426,10 @@ OPie_SavedData = {
 ["show"] = "[spec:70/66] hide;",
 ["sliceToken"] = "ABues6epD11",
 },
-["name"] = "Equipment Sets",
+["limit"] = "Amdam-Turalyon",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["limit"] = "Amdam-Turalyon",
+["name"] = "Equipment Sets",
 },
 ["ipmentsets"] = {
 {
@@ -491,10 +491,10 @@ OPie_SavedData = {
 ["show"] = "[spec:64/63] hide;",
 ["sliceToken"] = "ABue376TIGe",
 },
-["name"] = "Equipment sets",
+["limit"] = "Adamancy-Turalyon",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["limit"] = "Adamancy-Turalyon",
+["name"] = "Equipment sets",
 },
 },
 },
