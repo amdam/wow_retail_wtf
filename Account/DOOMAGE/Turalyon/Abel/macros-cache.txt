@@ -22,7 +22,7 @@ VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@cursor] Angelic Feather
+/cast [@player] Angelic Feather
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -82,5 +82,11 @@ END
 VER 3 0100000000000011 " " "134400"
 #showtooltip
 /cast [mod:alt] Evangelism; [known:Premonition] Premonition; Evangelism
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "134400"
+#showtooltip
+/cast [@player] Power Word: Shield
+/cast Fade
 /script UIErrorsFrame:Clear()
 END

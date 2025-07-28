@@ -17,7 +17,7 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Divine Star] Divine Star; [mod:alt,Known:Halo] Halo; [spec:1] Penance; [spec:3] Devouring Plague;
+/cast [mod:alt,known:Divine Star] Divine Star; [mod:alt,known:Halo] Halo; [spec:1] Penance; [spec:3] Devouring Plague;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"

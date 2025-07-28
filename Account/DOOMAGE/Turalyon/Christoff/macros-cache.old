@@ -17,7 +17,7 @@ VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:alt] Starfire; Wrath;
+/cast [mod:alt,known:429523] Wrath; [known:429523] Starfire; [mod:alt] Starfire; Wrath;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -37,14 +37,15 @@ VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
+#showtooltip Rebirth
 /stopcasting
+/cast Nature's Swiftness
 /use [@mouseover, help][help][@player] Rebirth
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Savage Roar; Ferocious Bite;
+/cast [mod:alt,spec:4] Moonfire; [mod:alt] Savage Roar; Ferocious Bite;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
@@ -75,11 +76,32 @@ VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000F " " "134400"
 #showtooltip
-/cast [mod:alt] Incapacitating Roar; Sunfire;
+/cast [mod:alt] Incapacitating Roar; Fury of Elune;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000010 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Fury of Elune] Fury of Elune; [mod:alt,known:New Moon] New Moon; [known:Stellar Flare] Stellar Flare;
+/cast [mod:alt,known:Fury of Elune] Fury of Elune; [mod:alt,known:New Moon] New Moon; 
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000011 " " "134400"
+#showtooltip
+/cast [mod:alt,spec:4] Sunfire; Rip;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "134400"
+#showtooltip
+/cast [mod:alt] Moonfire; Sunfire;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000013 " " "134400"
+#showtooltip
+/cast [@player] Mark of the Wild
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000014 " " "134400"
+#showtooltip
+/stopcasting
+/use [@mouseover, help,nodead][help,nodead][@player] Ironbark
 /script UIErrorsFrame:Clear()
 END

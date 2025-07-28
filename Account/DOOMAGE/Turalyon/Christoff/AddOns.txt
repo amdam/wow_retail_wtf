@@ -72,7 +72,7 @@ Kui_Media: enabled
 Kui_Nameplates: disabled
 Kui_Nameplates_Core: enabled
 Kui_Nameplates_Core_Config: enabled
-OmniCD: disabled
+OmniCD: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 ElvUI_UnitFramePlugin: disabled

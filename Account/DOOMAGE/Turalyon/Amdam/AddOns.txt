@@ -58,7 +58,7 @@ TidyPlatesHubRU: enabled
 TidyPlatesHubCN: enabled
 TidyPlatesHubTW: enabled
 ACP: enabled
-AtlasLoot: disabled
+AtlasLoot: enabled
 AtlasLoot_BurningCrusade: enabled
 AtlasLoot_Cataclysm: enabled
 AtlasLoot_ClassicWoW: enabled

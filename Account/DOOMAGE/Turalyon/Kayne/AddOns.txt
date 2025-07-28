@@ -112,3 +112,5 @@ Cell: enabled
 BigWigs_LiberationOfUndermine: enabled
 Parrot: disabled
 MikScrollingBattleText: disabled
+DialogueUI: enabled
+Plumber: enabled

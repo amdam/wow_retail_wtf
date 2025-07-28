@@ -7,9 +7,12 @@ OPie_SavedData = {
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "11.1.5",
+["_GameVersion"] = "11.1.7",
 ["ProfileStorage"] = {
 ["default"] = {
+["RotationTokens"] = {
+["OPCMVe"] = "OPCMEm",
+},
 ["Bindings"] = {
 ["ipmentSets1"] = false,
 ["CommonTrades"] = false,
@@ -84,8 +87,8 @@ OPie_SavedData = {
 },
 ["CommonTrades"] = {
 {
-["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["sliceToken"] = "OPCCTc",
+["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
 ["vm"] = 2,
 },
 {
@@ -108,8 +111,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["sliceToken"] = "OPCCTfj",
+["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
 ["vm"] = 2,
 },
 {
@@ -145,8 +148,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
 ["sliceToken"] = "OPCCTr",
+["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
 },
 {
 ["id"] = 53428,
@@ -161,8 +164,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTl",
 },
 {
-["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 ["sliceToken"] = "OPCCTm",
+["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 },
 {
 ["sliceToken"] = "ABueaL4inxa",
@@ -201,8 +204,8 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["sliceToken"] = "ABueaL4inxy",
 ["c"] = "c13f0f",
+["sliceToken"] = "ABueaL4inxy",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
@@ -282,10 +285,10 @@ OPie_SavedData = {
 ["id"] = 25780,
 ["sliceToken"] = "OPCPAf",
 },
-["limit"] = "PALADIN",
+["name"] = "Paladin Buffs",
 ["save"] = true,
 ["hotkey"] = "ALT-P",
-["name"] = "Paladin Buffs",
+["limit"] = "PALADIN",
 },
 ["MageTravel"] = {
 {
@@ -377,8 +380,8 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
 },
-["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
+["limit"] = "MAGE",
 ["vm"] = 127,
 ["save"] = true,
 ["hotkey"] = "ALT-G",
@@ -426,10 +429,10 @@ OPie_SavedData = {
 ["show"] = "[spec:70/66] hide;",
 ["sliceToken"] = "ABues6epD11",
 },
-["limit"] = "Amdam-Turalyon",
+["name"] = "Equipment Sets",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["name"] = "Equipment Sets",
+["limit"] = "Amdam-Turalyon",
 },
 ["ipmentsets"] = {
 {

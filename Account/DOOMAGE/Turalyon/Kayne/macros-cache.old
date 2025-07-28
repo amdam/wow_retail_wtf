@@ -26,6 +26,7 @@ VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
 /cast [mod:alt,known:Bonestorm] Bonestorm; Death Strike;
+/cast Raise Dead
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -48,7 +49,7 @@ END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,@player] Death and Decay; Festering Strike;
+/cast [mod:alt,@player] Death and Decay; Scourge Strike;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
@@ -75,7 +76,7 @@ VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Scourge Strike;
+/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Festering Strike;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
@@ -101,5 +102,10 @@ END
 VER 3 0100000000000014 " " "134400"
 #showtooltip
 /cast [@focus,exists][] Mind Freeze;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "134400"
+#showtooltip
+/cast [@mouseover] Raise Ally
 /script UIErrorsFrame:Clear()
 END

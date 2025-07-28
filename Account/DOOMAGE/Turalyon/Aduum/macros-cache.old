@@ -1,47 +1,74 @@
-VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [nomodifier] Flame Shock; /cast [modifier:alt] Frost Shock
-END
-VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [nomodifier] Lava Lash; /cast [modifier:alt] Fire Nova;
-/script UIErrorsFrame:Clear()
-END
-VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use [@mouseover, help, nodead][help, nodead][@player] Healing Surge
-/script UIErrorsFrame:Clear()
-END
-VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [modifier:alt] Totemic Projection
-/script UIErrorsFrame:Clear()
-END
-VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [nomodifier] Lightning Bolt; /cast [modifier:alt] Chain Lightning
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier] Searing Totem; /cast [modifier:alt] Magma Totem;
+/cast [mod:alt] Drain Life; Shadow Bolt;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [@mouseover, help, nodead, nomodifier][help, nodead, nomodifier][@player, nomodifier] Healing Wave
-/use [@mouseover, help, nodead][help, nodead][@player] Chain Heal
+/cast [nomodifier] Agony; [modifier:alt,@cursor] Siphon Life;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Hand of Gul'dan; /cast [modifier:alt] Implosion
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [@mouseover, help, nodead, nomodifier][help, nodead, nomodifier][@player, nomodifier] Riptide
-/use Lava Burst
+/cast [nomodifier] Malefic Rapture; [modifier:alt,@cursor] Vile Taint;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Chaos Bolt; /cast [modifier:alt,@cursor] Rain of Fire
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use [@mouseover, help][help][@player] Soulstone
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Corruption; /cast [modifier:alt] Seed of Corruption
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead,pet:Imp][help,nodead,pet:Imp][@player,pet:Imp] Command Demon; Command Demon
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [modifier:alt] Totemic Projection
-/use [@mouseover, help, nodead][help, nodead][@player] Earth Shield
+/cast [mod:alt,spec:3,talent:4/3,@cursor] Cataclysm; Immolate;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,known:Mortal Coil] Mortal Coil; Fear;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000B " " "134400"
+#showtooltip Demonic Gateway
+/cast [known:Soulburn] Soulburn;
+/cast Demonic Gateway
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip Demonic Circle: Teleport
+/cast [known:Soulburn] Soulburn;
+/cast Demonic Circle: Teleport
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000D " " "134400"
+#showtooltip Healthstone
+/cast [known:Soulburn] Soulburn
+/use Healthstone
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "134400"
+#showtooltip
+/cast [mod:alt,known:Power Siphon] Power Siphon; [known:Summon Vilefiend] Summon Vilefiend;
 /script UIErrorsFrame:Clear()
 END

@@ -1,40 +1,50 @@
 
 ElitismLog = {
-[12343] = {
-["Player-3209-05256678"] = {
+[14608] = {
+["Creature-0-4231-2450-1037-176533-00007ABC1B"] = {
 ["sumOverkill"] = -4,
-["sum"] = 4188599,
+["sum"] = 161376,
 ["cnt"] = 4,
 ["spells"] = {
-[424430] = {
+[352318] = {
 ["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 2048866,
+["sum"] = 58020,
 },
-[425554] = {
-["cnt"] = 3,
-["sumOverkill"] = -3,
-["sum"] = 2139733,
+[356377] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 95548,
+},
+[353413] = {
+["cnt"] = 1,
+["sumOverkill"] = -1,
+["sum"] = 7808,
 },
 },
 ["auracnt"] = 0,
 ["auras"] = {
 },
 },
-["Player-57-0D31E0EF"] = {
-["sumOverkill"] = -3,
-["sum"] = 4357892,
-["cnt"] = 3,
+["Creature-0-4231-2450-1037-178081-00007ABC1B"] = {
+["sumOverkill"] = -11,
+["sum"] = 262564,
+["cnt"] = 11,
 ["spells"] = {
-[424430] = {
+[353413] = {
+["cnt"] = 6,
+["sumOverkill"] = -6,
+["sum"] = 47362,
+},
+[351075] = {
 ["cnt"] = 1,
 ["sumOverkill"] = -1,
-["sum"] = 3024117,
+["sum"] = 18160,
 },
-[425554] = {
-["cnt"] = 2,
-["sumOverkill"] = -2,
-["sum"] = 1333775,
+[356377] = {
+["cnt"] = 4,
+["sumOverkill"] = -4,
+["sum"] = 197042,
 },
 },
 ["auracnt"] = 0,
@@ -42,49 +52,44 @@ ElitismLog = {
 },
 },
 ["Player-3685-0722C2B9"] = {
-["sumOverkill"] = -15,
-["sum"] = 8808001,
-["cnt"] = 16,
+["sumOverkill"] = -9,
+["sum"] = 183381,
+["cnt"] = 11,
 ["spells"] = {
-[453461] = {
-["cnt"] = 15,
-["sumOverkill"] = -14,
-["sum"] = 8560698,
+[356377] = {
+["cnt"] = 2,
+["sumOverkill"] = 0,
+["sum"] = 76319,
 },
-[425554] = {
-["cnt"] = 1,
-["sumOverkill"] = -1,
-["sum"] = 247303,
+[350777] = {
+["cnt"] = 2,
+["sumOverkill"] = -2,
+["sum"] = 65790,
+},
+[357726] = {
+["cnt"] = 7,
+["sumOverkill"] = -7,
+["sum"] = 41272,
 },
 },
 ["auracnt"] = 0,
 ["auras"] = {
 },
 },
-["Player-1428-0AB78440"] = {
-["sumOverkill"] = -4,
-["sum"] = 4352911,
-["cnt"] = 4,
+["Creature-0-4231-2450-1037-176532-00007ABC1B"] = {
+["sumOverkill"] = -8,
+["sum"] = 183232,
+["cnt"] = 8,
 ["spells"] = {
-[453461] = {
-["cnt"] = 4,
-["sumOverkill"] = -4,
-["sum"] = 4352911,
+[356377] = {
+["cnt"] = 3,
+["sumOverkill"] = -3,
+["sum"] = 143567,
 },
-},
-["auracnt"] = 0,
-["auras"] = {
-},
-},
-["Player-3678-0DD8F149"] = {
-["sumOverkill"] = -12,
-["sum"] = 9734309,
-["cnt"] = 12,
-["spells"] = {
-[453461] = {
-["cnt"] = 12,
-["sumOverkill"] = -12,
-["sum"] = 9734309,
+[353413] = {
+["cnt"] = 5,
+["sumOverkill"] = -5,
+["sum"] = 39665,
 },
 },
 ["auracnt"] = 0,

@@ -5,12 +5,12 @@ VER 3 0100000000000001 " " "134400"
 END
 VER 3 0100000000000002 " " "134400"
 #showtooltip
-/cast [mod:alt,@cursor] Sigil of Flame; Blade Dance;
+/cast [mod:alt,@cursor,known:Sigil of Spite] Sigil of Spite ; Blade Dance;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000005 " " "134400"
 #showtooltip
-/cast [@cursor,mod:alt,known:Elysian Decree] Elysian Decree; [@cursor] Sigil of Flame;
+/cast [@cursor,mod:alt,known:Sigil of Spite] Sigil of Spite; [@cursor] Sigil of Flame;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "134400"
@@ -37,7 +37,7 @@ VER 3 0100000000000003 " " "134400"
 END
 VER 3 0100000000000004 " " "134400"
 #showtooltip
-/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; Immolation Aura;
+/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; Blade Dance;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "134400"

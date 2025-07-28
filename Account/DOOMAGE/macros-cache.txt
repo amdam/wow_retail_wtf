@@ -1,9 +1,3 @@
-VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
-#showtooltip
-/dismount
-/cast [nomounted,noflyable] G-99 Breakneck
-/run if not IsMounted() then C_MountJournal.SummonByID(0) end
-END
 VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
@@ -12,6 +6,12 @@ END
 VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
 /stopcasting
 /click [target=mouseover] ExtraActionButton1
+END
+VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+#showtooltip
+/dismount
+/cast [nomounted,noflyable] G-99 Breakneck
+/run if not IsMounted() then C_MountJournal.SummonByID(0) end
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton

@@ -3,17 +3,18 @@ LoggerHeadDB = {
 ["profileKeys"] = {
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
-["Aduum - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
 ["Abel - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Adonis - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -25,6 +26,71 @@ LoggerHeadDB = {
 ["Mogu'shan Palace"] = {
 [24] = false,
 },
+["Shrine of the Storm"] = {
+[24] = false,
+},
+["Skyreach"] = {
+[24] = false,
+},
+["The Rookery"] = {
+[8] = true,
+[2] = false,
+[23] = true,
+},
+["Grimrail Depot"] = {
+[24] = false,
+},
+["Tazavesh, the Veiled Market"] = {
+[2] = false,
+[23] = false,
+},
+["Hellfire Citadel: The Shattered Halls"] = {
+[24] = false,
+},
+["Eye of Azshara"] = {
+[24] = false,
+},
+["The Everbloom"] = {
+[24] = false,
+},
+["Waycrest Manor"] = {
+[24] = false,
+},
+["Temple of the Jade Serpent"] = {
+[24] = false,
+},
+["SMV Alliance Garrison Level 3"] = {
+false,
+},
+["Auchindoun: Mana-Tombs"] = {
+[24] = false,
+},
+["Stratholme"] = {
+false,
+[24] = false,
+},
+["Operation: Floodgate"] = {
+[8] = true,
+[2] = false,
+[23] = true,
+},
+["Hellfire Citadel: The Blood Furnace"] = {
+[24] = false,
+},
+["Stormstout Brewery"] = {
+[24] = false,
+},
+["Return to Karazhan"] = {
+[2] = false,
+[23] = false,
+},
+["Freehold"] = {
+[24] = false,
+[23] = false,
+},
+["Shadowmoon Burial Grounds"] = {
+[24] = false,
+},
 ["Operation: Mechagon"] = {
 [23] = true,
 [8] = true,
@@ -32,14 +98,10 @@ LoggerHeadDB = {
 ["Gate of the Setting Sun"] = {
 [24] = false,
 },
-["Skyreach"] = {
+["Magisters' Terrace"] = {
 [24] = false,
 },
 ["Darkflame Cleft"] = {
-[23] = true,
-[8] = true,
-},
-["The Rookery"] = {
 [23] = true,
 [8] = true,
 },
@@ -54,54 +116,53 @@ false,
 ["Auchindoun"] = {
 [24] = false,
 },
-["Eye of Azshara"] = {
-[24] = false,
-},
-["The Everbloom"] = {
-[24] = false,
-},
 ["Shado-Pan Monastery"] = {
 [24] = false,
 },
-["Temple of the Jade Serpent"] = {
+["Atal'Dazar"] = {
 [24] = false,
+},
+["Zul'Gurub"] = {
+[2] = false,
 },
 ["The MOTHERLODE!!"] = {
 [8] = true,
 [2] = false,
 [23] = true,
 },
-["Cinderbrew Meadery"] = {
-[8] = true,
-[2] = false,
-[23] = true,
+["Temple of Sethraliss"] = {
+[24] = false,
+},
+["Tempest Keep: The Botanica"] = {
+[24] = false,
 },
 ["Priory of the Sacred Flame"] = {
 [23] = true,
 [8] = true,
 },
-["Stratholme"] = {
+["Coilfang: The Underbog"] = {
 [24] = false,
 },
 ["Zul'Farrak"] = {
 [24] = false,
 },
-["Stormstout Brewery"] = {
-[24] = false,
+["The Necrotic Wake"] = {
+[23] = false,
 },
-["Grimrail Depot"] = {
+["Kings' Rest"] = {
 [24] = false,
+[23] = false,
 },
-["Shadowmoon Burial Grounds"] = {
-[24] = false,
-},
-["Operation: Floodgate"] = {
-[8] = true,
+["The Oculus"] = {
 [2] = false,
-[23] = true,
 },
 ["Scholomance"] = {
 [24] = false,
+},
+["Cinderbrew Meadery"] = {
+[8] = true,
+[2] = false,
+[23] = true,
 },
 },
 ["scenario"] = {
@@ -111,8 +172,23 @@ false,
 ["Tak-Rethan Abyss"] = {
 [208] = false,
 },
-["The Spiral Weave"] = {
+["Mycomancer Cavern"] = {
 [208] = false,
+},
+["The Eye of Eternity - Scenario"] = {
+[24] = false,
+},
+["Kriegval's Rest"] = {
+[208] = false,
+},
+["The Dread Pit"] = {
+[208] = false,
+},
+["Artifact - Acquisition - Tank"] = {
+[24] = false,
+},
+["Artifact - Highmountain - Dual Boss"] = {
+[24] = false,
 },
 ["The Sinkhole"] = {
 [208] = false,
@@ -126,42 +202,104 @@ false,
 ["Demolition Dome"] = {
 [208] = false,
 },
-["Mycomancer Cavern"] = {
-[208] = false,
-},
-["Fungal Folly"] = {
-[208] = false,
-},
-["The Dread Pit"] = {
-[208] = false,
-},
-["Skittering Breach"] = {
-[208] = false,
-},
-["Kriegval's Rest"] = {
-[208] = false,
-},
-["Excavation Site 9"] = {
-[208] = false,
-},
 ["The Underkeep"] = {
 [208] = false,
 },
 ["Nightfall Sanctum"] = {
 [208] = false,
 },
+["Excavation Site 9"] = {
+[208] = false,
+},
+["Skittering Breach"] = {
+[208] = false,
+},
+["Halls of Valor - Scenario"] = {
+[24] = false,
+},
+["Fungal Folly"] = {
+[208] = false,
+},
+["The Spiral Weave"] = {
+[208] = false,
+},
+["Black Rook Hold - Artifact Challenge"] = {
+[24] = false,
+},
 },
 ["raid"] = {
-["Black Temple"] = {
-[14] = false,
-},
 ["Liberation of Undermine"] = {
 [14] = true,
 [16] = true,
 [15] = true,
+[17] = false,
+},
+["Sanctum of Domination"] = {
+[16] = false,
+},
+["Icecrown Citadel"] = {
+[4] = false,
+[6] = false,
+},
+["Dragon Soul"] = {
+[4] = false,
+[6] = false,
+},
+["Ny'alotha, the Waking City"] = {
+[16] = false,
+},
+["Black Temple"] = {
+[14] = false,
+[24] = false,
+},
+["Tomb of Sargeras"] = {
+[14] = false,
+[16] = false,
+[17] = false,
+[15] = false,
+},
+["Sepulcher of the First Ones"] = {
+[16] = false,
+},
+["The Eye of Eternity"] = {
+[4] = false,
+},
+["Antorus, the Burning Throne"] = {
+[16] = false,
+},
+["Blackrock Foundry"] = {
+[15] = false,
+[16] = false,
 },
 ["The Emerald Nightmare"] = {
+[16] = false,
 [17] = false,
+[15] = false,
+},
+["Karazhan"] = {
+[3] = false,
+},
+["Battle of Dazar'alor"] = {
+[16] = false,
+[15] = false,
+},
+["Onyxia's Lair"] = {
+[4] = false,
+},
+["The Nighthold"] = {
+[14] = false,
+[16] = false,
+[15] = false,
+},
+["Hellfire Citadel"] = {
+[16] = false,
+},
+["Molten Core"] = {
+[9] = false,
+},
+["Firelands"] = {
+[15] = false,
+[14] = false,
 },
 },
 },
