@@ -14,9 +14,6 @@ BAGANATOR_CONFIG = {
 {
 ["currencyID"] = 3008,
 },
-{
-["currencyID"] = 3109,
-},
 },
 ["Kaydan-Turalyon"] = {
 },
@@ -185,8 +182,8 @@ BAGANATOR_CONFIG = {
 },
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-545.8779907226562,
-439.9089965820313,
+463.77734375,
+531.7072143554688,
 },
 ["migrated_sort_method"] = true,
 ["custom_categories"] = {
@@ -224,10 +221,10 @@ BAGANATOR_CONFIG = {
 ["category_default_import"] = 2,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--434.341064453125,
-413.0404357910156,
+-436.27783203125,
+393.69677734375,
 },
-["character_bank_current_tab"] = 1,
+["character_bank_current_tab"] = 4,
 ["sort_start_at_bottom"] = false,
 ["character_select_position"] = {
 "RIGHT",
@@ -316,18 +313,18 @@ BAGANATOR_CONFIG = {
 ["setting_anchors"] = false,
 ["debug_keywords"] = false,
 ["recent_characters_main_view"] = {
+"Adamancy-Turalyon",
+"Kayne-Turalyon",
+"Kaydan-Turalyon",
+"Aduum-Turalyon",
+"Amdam-Turalyon",
+"Abel-Turalyon",
+"Adrid-Turalyon",
+"Drunkan-Turalyon",
 "Adamn-Turalyon",
 "Adamian-Turalyon",
-"Aduum-Turalyon",
 "Dreg-Turalyon",
 "Badam-Turalyon",
-"Adrid-Turalyon",
-"Kayne-Turalyon",
-"Abel-Turalyon",
-"Kaydan-Turalyon",
-"Adamancy-Turalyon",
-"Drunkan-Turalyon",
-"Amdam-Turalyon",
 "Christoff-Turalyon",
 "Adonis-Turalyon",
 "Adamantium-Turalyon",

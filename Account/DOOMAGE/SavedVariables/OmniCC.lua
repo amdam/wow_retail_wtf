@@ -2,7 +2,7 @@
 OmniCCDB = {
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "11.2.4",
+["addonVersion"] = "11.2.5",
 },
 ["profileKeys"] = {
 ["Allevin - Turalyon"] = "Default",
@@ -127,7 +127,6 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
-["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -245,6 +244,8 @@ OmniCC4Config = {
 ["scaleText"] = true,
 },
 },
+["engine"] = "AniUpdater",
+["version"] = "8.2.5",
 ["groups"] = {
 {
 ["id"] = "Ignore",
@@ -255,5 +256,4 @@ OmniCC4Config = {
 ["enabled"] = true,
 },
 },
-["version"] = "8.2.5",
 }

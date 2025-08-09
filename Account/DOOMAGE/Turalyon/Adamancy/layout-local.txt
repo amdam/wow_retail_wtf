@@ -27,13 +27,6 @@ X: -326
 Y: 136
 W: 128
 H: 64
-Frame: RaidUtility_ShowButton
-FrameLevel: 1
-Anchor: TOP
-X: 69
-Y: 1
-W: 136
-H: 19
 Frame: ScriptErrorsFrame
 FrameLevel: 1
 Anchor: CENTER

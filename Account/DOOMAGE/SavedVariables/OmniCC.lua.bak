@@ -38,7 +38,7 @@ OmniCCDB = {
 },
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "11.2.4",
+["addonVersion"] = "11.2.5",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -127,6 +127,7 @@ OmniCCDB = {
 },
 }
 OmniCC4Config = {
+["version"] = "8.2.5",
 ["groups"] = {
 {
 ["id"] = "Ignore",
@@ -137,7 +138,7 @@ OmniCC4Config = {
 ["enabled"] = true,
 },
 },
-["version"] = "8.2.5",
+["engine"] = "AniUpdater",
 ["groupSettings"] = {
 ["base"] = {
 ["styles"] = {
@@ -255,5 +256,4 @@ OmniCC4Config = {
 ["fontFace"] = "Fonts\\FRIZQT__.TTF",
 },
 },
-["engine"] = "AniUpdater",
 }

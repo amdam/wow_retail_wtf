@@ -25,15 +25,29 @@ RaiderIO_Config = {
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Adamn-turalyon"
+RaiderIO_LastCharacter = "us-Adamancy-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Adamn-turalyon"] = true,
-["us-Djmarxus-exodar"] = true,
-["us-Monnor-area-52"] = true,
-["us-Desstiney-dalaran"] = true,
-["us-Dögfart-area-52"] = true,
-["us-Honeysuckle-gilneas"] = true,
-["us-Serason-durotan"] = true,
+["us-Velladia-turalyon"] = true,
+["us-Vilken-turalyon"] = true,
+["us-Aubade-turalyon"] = true,
+["us-Skleeble-bloodhoof"] = true,
+["us-Chronokai-bloodhoof"] = true,
+["us-Karmashelper-turalyon"] = true,
+["us-Cedronex-stormrage"] = true,
+["us-Bradios-turalyon"] = true,
+["us-Kampaign-turalyon"] = true,
+["us-Defenestrate-turalyon"] = true,
+["us-Kathelyna-duskwood"] = true,
+["us-Rendemption-bloodhoof"] = true,
+["us-Addlepated-turalyon"] = true,
+["us-Bellicus-bloodhoof"] = true,
+["us-Anahuyen-turalyon"] = true,
+["us-Burnsudown-turalyon"] = true,
+["us-Tungwoh-turalyon"] = true,
+["us-Bigdunc-duskwood"] = true,
+["us-Pixieella-bloodhoof"] = true,
+["us-Enowhow-turalyon"] = true,
+["us-Chewondez-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

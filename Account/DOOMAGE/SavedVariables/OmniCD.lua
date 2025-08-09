@@ -10,24 +10,25 @@ OmniCDDB = {
 ["Christoff - Turalyon"] = "Healing layout",
 ["Adreya - Bloodscalp"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
-["Abel - Turalyon"] = "Normal Layout",
+["Abel - Turalyon"] = "Healing layout",
 ["Adamancy - Turalyon"] = "[IMPORT-1]Quazii OmniCD v2",
-["Shado - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "[IMPORT-1]Quazii OmniCD v2",
+["Powerpriest - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "[IMPORT-1]Quazii OmniCD v2",
 ["Kayne - Turalyon"] = "[IMPORT-1]Quazii OmniCD v2",
 ["Broddah - Doomhammer"] = "Default",
 ["Adamantium - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
-["Powerpriest - Turalyon"] = "Default",
-["Drunkan - Turalyon"] = "[IMPORT-1]Quazii OmniCD v2",
-["Adomic - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Shado - Turalyon"] = "Default",
 },
 ["global"] = {
-["disableElvMsg"] = true,
-["oodChk"] = 220803,
 ["oodVer"] = 9252720,
+["oodChk"] = 220803,
+["disableElvMsg"] = true,
 },
 ["namespaces"] = {
 ["LibDualSpec-1.0"] = {
@@ -53,9 +54,9 @@ OmniCDDB = {
 },
 },
 },
+["version"] = 4,
 ["cooldowns"] = {
 },
-["version"] = 4,
 ["profiles"] = {
 ["Normal Layout"] = {
 ["Party"] = {
@@ -79,23 +80,23 @@ OmniCDDB = {
 ["55342"] = true,
 ["321507"] = true,
 ["199448"] = true,
-["322507"] = true,
+["389539"] = true,
 ["108281"] = true,
 ["383269"] = true,
-["389539"] = true,
+["322507"] = true,
 ["452930"] = true,
-["392966"] = true,
-["12975"] = true,
-["387174"] = true,
+["263648"] = true,
+["343527"] = true,
+["80313"] = true,
 ["200851"] = true,
 ["498"] = true,
 ["264735"] = true,
-["80313"] = true,
+["387174"] = true,
 ["403876"] = true,
 ["110959"] = true,
 ["390386"] = true,
-["343527"] = true,
-["263648"] = true,
+["12975"] = true,
+["392966"] = true,
 ["184662"] = true,
 },
 ["general"] = {
@@ -105,6 +106,62 @@ OmniCDDB = {
 ["columns"] = 10,
 ["offsetY"] = 5,
 },
+},
+},
+},
+["Default"] = {
+["Party"] = {
+["visibility"] = {
+["none"] = true,
+},
+["party"] = {
+["extraBars"] = {
+["raidBar1"] = {
+["manualPos"] = {
+["raidBar1"] = {
+["y"] = 200.0975171543796,
+["x"] = 935.5476704239336,
+},
+},
+},
+},
+["general"] = {
+["showPlayer"] = true,
+},
+["position"] = {
+["columns"] = 10,
+["offsetY"] = 15,
+},
+["spells"] = {
+["184662"] = true,
+["322507"] = true,
+["1160"] = true,
+["12975"] = true,
+["55342"] = true,
+["264735"] = true,
+["498"] = true,
+["403876"] = true,
+["31850"] = true,
+["387174"] = true,
+["452930"] = true,
+["199448"] = true,
+["108281"] = true,
+},
+["manualPos"] = {
+["raidCDBar"] = {
+["y"] = 234.2555329901188,
+["x"] = 880.4115584219107,
+},
+["interruptBar"] = {
+["y"] = 234.2555879217616,
+["x"] = 793.6558909120504,
+},
+},
+},
+["noneZoneSetting"] = "party",
+["groupSize"] = {
+["none"] = 5,
+["raid"] = 5,
 },
 },
 },
@@ -137,14 +194,14 @@ OmniCDDB = {
 ["growLeft"] = true,
 ["growUpward"] = true,
 ["locked"] = true,
-["columns"] = 8,
-["scale"] = 0.76,
 ["manualPos"] = {
 ["raidBar2"] = {
 ["y"] = 364.5867496633509,
 ["x"] = 552.746979832642,
 },
 },
+["scale"] = 0.76,
+["columns"] = 8,
 },
 ["raidBar3"] = {
 ["progressBar"] = false,
@@ -170,14 +227,6 @@ OmniCDDB = {
 },
 },
 },
-["raidBar6"] = {
-["manualPos"] = {
-["raidBar6"] = {
-["y"] = 384.3199914097786,
-["x"] = 682.3467034983623,
-},
-},
-},
 ["raidBar4"] = {
 ["manualPos"] = {
 ["raidBar4"] = {
@@ -186,10 +235,27 @@ OmniCDDB = {
 },
 },
 },
+["raidBar6"] = {
+["manualPos"] = {
+["raidBar6"] = {
+["y"] = 384.3199914097786,
+["x"] = 682.3467034983623,
 },
-["highlight"] = {
-["glowBuffTypes"] = {
-["offensive"] = true,
+},
+},
+},
+["manualPos"] = {
+{
+["y"] = 384.2699676620941,
+["x"] = 682.3966823894443,
+},
+{
+["y"] = 384.2699676620941,
+["x"] = 682.3966823894443,
+},
+[5] = {
+["y"] = 384.2699676620941,
+["x"] = 682.3966823894443,
 },
 },
 ["spells"] = {
@@ -214,19 +280,19 @@ OmniCDDB = {
 ["20549"] = true,
 ["78675"] = false,
 ["325197"] = true,
-["122278"] = false,
+["48707"] = false,
 ["23920"] = false,
 ["45438"] = false,
 ["31230"] = false,
 ["31935"] = false,
 ["186265"] = false,
 ["15487"] = false,
-["119898"] = false,
+["48792"] = false,
 ["57994"] = false,
 ["122470"] = false,
-["184364"] = false,
+["122278"] = false,
+["122783"] = false,
 ["351338"] = false,
-["116705"] = false,
 ["390279"] = true,
 ["106839"] = false,
 ["322118"] = true,
@@ -234,23 +300,23 @@ OmniCDDB = {
 ["401238"] = true,
 ["198589"] = false,
 ["57934"] = true,
-["342245"] = false,
+["19574"] = true,
 ["108271"] = false,
 ["871"] = false,
 ["114556"] = false,
 ["227847"] = true,
 ["86949"] = false,
-["48707"] = false,
+["342245"] = false,
 ["5277"] = false,
 ["383269"] = true,
-["48792"] = false,
+["119898"] = false,
 ["196555"] = false,
 ["147362"] = false,
-["19574"] = true,
+["116705"] = false,
 ["6552"] = false,
 ["642"] = false,
-["122783"] = false,
 ["109248"] = true,
+["184364"] = false,
 },
 ["icons"] = {
 ["scale"] = 0.7,
@@ -270,25 +336,25 @@ OmniCDDB = {
 ["207684"] = true,
 ["204018"] = true,
 ["99"] = true,
-["46968"] = true,
-["179057"] = true,
-["116849"] = true,
-["199452"] = true,
-["51490"] = true,
+["202137"] = true,
 ["116844"] = true,
-["357170"] = true,
+["116849"] = true,
+["46968"] = true,
+["51490"] = true,
+["179057"] = true,
 ["157981"] = true,
 ["33206"] = true,
-["119381"] = true,
+["357170"] = true,
 ["132469"] = true,
+["119381"] = true,
 ["20549"] = true,
-["10060"] = true,
 ["102342"] = true,
+["10060"] = true,
 ["115750"] = true,
 ["30283"] = true,
 ["192058"] = true,
 ["374251"] = true,
-["202137"] = true,
+["199452"] = true,
 },
 ["position"] = {
 ["offsetX"] = 2,
@@ -297,25 +363,15 @@ OmniCDDB = {
 ["columns"] = 8,
 ["paddingX"] = 2,
 ["attach"] = "TOPLEFT",
-["uf"] = "ElvUI",
-["offsetY"] = 4,
 ["preset"] = "TOPLEFT",
+["offsetY"] = 4,
 },
 ["frame"] = {
 ["externalDefensive"] = 0,
 },
-["manualPos"] = {
-{
-["y"] = 384.2699676620941,
-["x"] = 682.3966823894443,
-},
-{
-["y"] = 384.2699676620941,
-["x"] = 682.3966823894443,
-},
-[5] = {
-["y"] = 384.2699676620941,
-["x"] = 682.3966823894443,
+["highlight"] = {
+["glowBuffTypes"] = {
+["offensive"] = true,
 },
 },
 },
@@ -328,8 +384,8 @@ OmniCDDB = {
 ["scale"] = 1,
 },
 ["raidCDS"] = {
-["10060"] = true,
 ["190319"] = true,
+["10060"] = true,
 },
 ["position"] = {
 ["offsetX"] = 0,
@@ -346,8 +402,8 @@ OmniCDDB = {
 },
 ["visibility"] = {
 ["raid"] = true,
-["none"] = true,
 ["size"] = 10,
+["none"] = true,
 },
 },
 ["General"] = {
@@ -358,8 +414,8 @@ OmniCDDB = {
 ["size"] = 16,
 },
 ["optionSmall"] = {
-["size"] = 15,
 ["font"] = "Expressway",
+["size"] = 15,
 },
 ["anchor"] = {
 ["font"] = "Accidental Presidency",
@@ -371,65 +427,9 @@ OmniCDDB = {
 ["size"] = 16,
 },
 ["option"] = {
-["size"] = 18,
 ["font"] = "Expressway",
+["size"] = 18,
 },
-},
-},
-},
-["Default"] = {
-["Party"] = {
-["noneZoneSetting"] = "party",
-["party"] = {
-["extraBars"] = {
-["raidBar1"] = {
-["manualPos"] = {
-["raidBar1"] = {
-["y"] = 200.0975171543796,
-["x"] = 935.5476704239336,
-},
-},
-},
-},
-["general"] = {
-["showPlayer"] = true,
-},
-["position"] = {
-["columns"] = 10,
-["offsetY"] = 15,
-},
-["spells"] = {
-["184662"] = true,
-["322507"] = true,
-["1160"] = true,
-["12975"] = true,
-["31850"] = true,
-["264735"] = true,
-["498"] = true,
-["403876"] = true,
-["387174"] = true,
-["55342"] = true,
-["452930"] = true,
-["199448"] = true,
-["108281"] = true,
-},
-["manualPos"] = {
-["interruptBar"] = {
-["y"] = 234.2555879217616,
-["x"] = 793.6558909120504,
-},
-["raidCDBar"] = {
-["y"] = 234.2555329901188,
-["x"] = 880.4115584219107,
-},
-},
-},
-["visibility"] = {
-["none"] = true,
-},
-["groupSize"] = {
-["raid"] = 5,
-["none"] = 5,
 },
 },
 },

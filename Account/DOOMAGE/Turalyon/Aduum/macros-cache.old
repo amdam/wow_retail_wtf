@@ -46,7 +46,7 @@ VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Mortal Coil] Mortal Coil; Fear;
+/cast [mod:alt,known:Mortal Coil] Mortal Coil; Power Siphon;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000B " " "134400"

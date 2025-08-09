@@ -36,7 +36,7 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:1] Dancing Rune Weapon; [spec:2] Empower Rune Weapon; [spec:3] Apocalypse;
+/cast [spec:1] Dancing Rune Weapon; [spec:2] Frostwyrm's Fury; [spec:3] Apocalypse;
 /cast Raise Dead
 /use 13
 /script UIErrorsFrame:Clear()
@@ -60,7 +60,7 @@ VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Blinding Sleet] Blinding Sleet;  Remorseless Winter; 
+/cast [mod:alt,known:Blinding Sleet] Blinding Sleet;  Empower Rune Weapon; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"

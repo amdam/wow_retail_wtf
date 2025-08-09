@@ -6,6 +6,16 @@ QuaziiUI_DB = {
 ["openPage"] = 3,
 ["shownPages"] = 5,
 },
+["Aduum - Turalyon"] = {
+["selectedPage"] = 3,
+["openPage"] = 3,
+["shownPages"] = 5,
+},
+["Adamancy - Turalyon"] = {
+["selectedPage"] = 3,
+["openPage"] = 3,
+["shownPages"] = 5,
+},
 },
 ["global"] = {
 ["lastVersion"] = 20250622,

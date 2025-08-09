@@ -172,6 +172,9 @@ false,
 ["Tak-Rethan Abyss"] = {
 [208] = false,
 },
+["Archival Assault"] = {
+[208] = false,
+},
 ["Mycomancer Cavern"] = {
 [208] = false,
 },

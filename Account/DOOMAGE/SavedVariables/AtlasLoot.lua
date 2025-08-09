@@ -2,7 +2,11 @@
 AtlasLootDB = {
 ["profileKeys"] = {
 ["Drunkan - Turalyon"] = "Default",
+["Adamancy - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
 },
 ["profiles"] = {

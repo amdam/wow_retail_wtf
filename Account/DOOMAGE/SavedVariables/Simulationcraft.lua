@@ -59,12 +59,12 @@ SimulationCraftDB = {
 ["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
+["minimap"] = {
+["minimapPos"] = 335.8394311084543,
+},
 ["frame"] = {
 ["ofsx"] = -20.74075317382813,
 ["ofsy"] = 16.59272956848145,
-},
-["minimap"] = {
-["minimapPos"] = 335.8394311084543,
 },
 },
 ["Furrys - Turalyon"] = {
@@ -124,12 +124,12 @@ SimulationCraftDB = {
 },
 },
 ["Kayne - Turalyon"] = {
-["minimap"] = {
-["minimapPos"] = 324.307535653447,
-},
 ["frame"] = {
 ["ofsx"] = 4.525201320648193,
 ["ofsy"] = 5.171670436859131,
+},
+["minimap"] = {
+["minimapPos"] = 324.307535653447,
 },
 },
 ["Adris - Turalyon"] = {

@@ -109,3 +109,8 @@ VER 3 0100000000000015 " " "134400"
 /cast [@mouseover] Raise Ally
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000016 " " "134400"
+#showtooltip
+/cast [mod:alt] Frostwyrm's Fury; Reaper's Mark
+/script UIErrorsFrame:Clear()
+END

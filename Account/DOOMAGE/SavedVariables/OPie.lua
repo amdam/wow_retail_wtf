@@ -3,16 +3,13 @@ OneRing_Config = nil
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "Ånd 6.2 (4.133)",
+["_OPieVersion"] = "Ånd 7a (4.134)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "11.1.7",
+["_GameVersion"] = "11.2.0",
 ["ProfileStorage"] = {
 ["default"] = {
-["RotationTokens"] = {
-["OPCMVe"] = "OPCMEm",
-},
 ["Bindings"] = {
 ["ipmentSets1"] = false,
 ["CommonTrades"] = false,
@@ -92,8 +89,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast {{spell:2018/51300}}",
 ["sliceToken"] = "OPCCTb",
+["id"] = "/cast {{spell:2018/51300}}",
 },
 {
 ["show"] = "[in:tww]",
@@ -106,8 +103,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTg",
 ["id"] = "/cast {{spell:4036/51306}}",
+["sliceToken"] = "OPCCTg",
 ["vm"] = 2,
 },
 {
@@ -148,12 +145,12 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTr",
 ["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+["sliceToken"] = "OPCCTr",
 },
 {
-["id"] = 53428,
 ["sliceToken"] = "OPCCTu",
+["id"] = 53428,
 },
 {
 ["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
@@ -180,8 +177,8 @@ OPie_SavedData = {
 ["id2"] = 51302,
 },
 {
-["sliceToken"] = "ABueaL4inxo",
 ["c"] = "f4aa0f",
+["sliceToken"] = "ABueaL4inxo",
 ["id"] = 2018,
 ["id2"] = 51300,
 },
@@ -222,8 +219,8 @@ OPie_SavedData = {
 ["id2"] = 45542,
 },
 {
-["c"] = "e6b725",
 ["sliceToken"] = "ABueaL4inxr",
+["c"] = "e6b725",
 ["id"] = 4036,
 ["id2"] = 51306,
 },
