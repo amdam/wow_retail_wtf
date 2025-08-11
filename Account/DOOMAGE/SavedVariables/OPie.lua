@@ -84,13 +84,13 @@ OPie_SavedData = {
 },
 ["CommonTrades"] = {
 {
-["sliceToken"] = "OPCCTc",
 ["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+["sliceToken"] = "OPCCTc",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTb",
 ["id"] = "/cast {{spell:2018/51300}}",
+["sliceToken"] = "OPCCTb",
 },
 {
 ["show"] = "[in:tww]",
@@ -108,8 +108,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTfj",
 ["id"] = "/cast [mod] {{spell:131474}}; {{spell:271990}}; {{spell:131474}}",
+["sliceToken"] = "OPCCTfj",
 ["vm"] = 2,
 },
 {
@@ -117,8 +117,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTj",
 },
 {
-["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
 ["sliceToken"] = "OPCCTi",
+["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
 },
 {
 ["show"] = "[in:tww]",
@@ -140,8 +140,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [in:df,nomod,near:herb-overload][in:df,mod,nonear:herb-overload] {{spell:390392}}; {{spell:193290}}",
 ["sliceToken"] = "OPCCThj",
+["id"] = "/cast [in:df,nomod,near:herb-overload][in:df,mod,nonear:herb-overload] {{spell:390392}}; {{spell:193290}}",
 ["vm"] = 2,
 },
 {
@@ -149,8 +149,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTr",
 },
 {
-["sliceToken"] = "OPCCTu",
 ["id"] = 53428,
+["sliceToken"] = "OPCCTu",
 },
 {
 ["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
@@ -161,8 +161,8 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTl",
 },
 {
-["sliceToken"] = "OPCCTm",
 ["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
+["sliceToken"] = "OPCCTm",
 },
 {
 ["sliceToken"] = "ABueaL4inxa",
@@ -177,8 +177,8 @@ OPie_SavedData = {
 ["id2"] = 51302,
 },
 {
-["c"] = "f4aa0f",
 ["sliceToken"] = "ABueaL4inxo",
+["c"] = "f4aa0f",
 ["id"] = 2018,
 ["id2"] = 51300,
 },
@@ -201,14 +201,14 @@ OPie_SavedData = {
 ["id2"] = 51304,
 },
 {
-["c"] = "c13f0f",
 ["sliceToken"] = "ABueaL4inxy",
+["c"] = "c13f0f",
 ["id"] = 2550,
 ["id2"] = 51296,
 },
 {
-["sliceToken"] = "ABueaL4inxt",
 ["c"] = "85de60",
+["sliceToken"] = "ABueaL4inxt",
 ["id"] = 45357,
 ["id2"] = 45363,
 },
@@ -377,8 +377,8 @@ OPie_SavedData = {
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
 ["sliceToken"] = "ABueQUekVHw",
 },
-["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
+["limit"] = "MAGE",
 ["vm"] = 127,
 ["save"] = true,
 ["hotkey"] = "ALT-G",
@@ -491,10 +491,10 @@ OPie_SavedData = {
 ["show"] = "[spec:64/63] hide;",
 ["sliceToken"] = "ABue376TIGe",
 },
-["name"] = "Equipment sets",
+["limit"] = "Adamancy-Turalyon",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["limit"] = "Adamancy-Turalyon",
+["name"] = "Equipment sets",
 },
 },
 },

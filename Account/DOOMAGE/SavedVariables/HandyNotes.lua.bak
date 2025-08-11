@@ -6,7 +6,7 @@ HandyNotesDB = {
 ["Shado - Turalyon"] = "Shado - Turalyon",
 ["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Jakar - Turalyon"] = "Jakar - Turalyon",
@@ -29,7 +29,7 @@ HandyNotesDB = {
 ["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
@@ -43,7 +43,7 @@ HandyNotesDB = {
 },
 ["Kayne - Turalyon"] = {
 },
-["Adaam - Turalyon"] = {
+["Adrid - Turalyon"] = {
 },
 ["Caldo - Turalyon"] = {
 },
@@ -89,7 +89,7 @@ HandyNotesDB = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Adrid - Turalyon"] = {
+["Adaam - Turalyon"] = {
 },
 ["Adomic - Turalyon"] = {
 },
@@ -102,7 +102,7 @@ HandyNotes_HandyNotesDB = {
 ["Shado - Turalyon"] = "Shado - Turalyon",
 ["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Caldo - Turalyon"] = "Caldo - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Jakar - Turalyon"] = "Jakar - Turalyon",
@@ -125,7 +125,7 @@ HandyNotes_HandyNotesDB = {
 ["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
@@ -139,7 +139,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Kayne - Turalyon"] = {
 },
-["Adaam - Turalyon"] = {
+["Adrid - Turalyon"] = {
 },
 ["Caldo - Turalyon"] = {
 },
@@ -185,7 +185,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Adrid - Turalyon"] = {
+["Adaam - Turalyon"] = {
 },
 ["Adomic - Turalyon"] = {
 },

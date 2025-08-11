@@ -3,17 +3,17 @@ LoggerHeadDB = {
 ["profileKeys"] = {
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Christoff - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
-["Aduum - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
 ["Abel - Turalyon"] = "Default",
 },
 ["profiles"] = {
@@ -116,15 +116,24 @@ false,
 ["Auchindoun"] = {
 [24] = false,
 },
-["Shado-Pan Monastery"] = {
-[24] = false,
+["The Dawnbreaker"] = {
+[23] = false,
+},
+["Eco-Dome Al'dani"] = {
+[23] = false,
 },
 ["Cinderbrew Meadery"] = {
 [8] = true,
 [2] = false,
 [23] = true,
 },
+["Shado-Pan Monastery"] = {
+[24] = false,
+},
 ["Scholomance"] = {
+[24] = false,
+},
+["Coilfang: The Underbog"] = {
 [24] = false,
 },
 ["The MOTHERLODE!!"] = {
@@ -132,8 +141,8 @@ false,
 [2] = false,
 [23] = true,
 },
-["Coilfang: The Underbog"] = {
-[24] = false,
+["Ara-Kara, City of Echoes"] = {
+[23] = false,
 },
 ["Tempest Keep: The Botanica"] = {
 [24] = false,
@@ -202,8 +211,8 @@ false,
 ["Sidestreet Sluice"] = {
 [208] = false,
 },
-["Demolition Dome"] = {
-[208] = false,
+["Artifact - Acquisition - Tank"] = {
+[24] = false,
 },
 ["The Spiral Weave"] = {
 [208] = false,
@@ -226,8 +235,8 @@ false,
 ["The Underkeep"] = {
 [208] = false,
 },
-["Artifact - Acquisition - Tank"] = {
-[24] = false,
+["Demolition Dome"] = {
+[208] = false,
 },
 },
 ["raid"] = {

@@ -9,8 +9,7 @@ Rematch5Settings = {
 ["LastOpenLayout"] = "3-teams",
 ["CurrentLayout"] = "3-teams",
 ["ColorPetNames"] = true,
-["FavoriteFilters"] = {
-},
+["Anchor"] = "BOTTOMRIGHT",
 ["HideNotesBadges"] = false,
 ["StandaloneLayout"] = "3-teams",
 ["PetSatchelIndex"] = 1,
@@ -18,38 +17,39 @@ Rematch5Settings = {
 },
 ["AutoWinRecord"] = false,
 ["PetCardBackground"] = "Expansion",
-["PetCardInBattle"] = false,
+["JournalLayout"] = "3-teams",
 ["UseTypeBar"] = false,
 ["GroupOrder"] = {
 "group:favorites",
 "group:none",
 },
+["AbilityBackground"] = "Icon",
 ["HideNonBattlePets"] = false,
-["PetCardCompactCollected"] = false,
 ["DontSortByRelevance"] = false,
 ["LockDrawer"] = false,
-["ToolbarDismiss"] = false,
+["PetCardCompactCollected"] = false,
 ["ShowSpeciesID"] = false,
 ["DontConfirmCaging"] = true,
 ["XPos"] = 1668.212280273438,
 ["AllowHiddenPets"] = false,
 ["ShowAfterBattle"] = false,
-["HideLevelBubbles"] = false,
-["PetCardNoMouseoverFlip"] = false,
-["PetNotes"] = {
-},
 ["UseDefaultJournal"] = false,
-["LockWindow"] = false,
-["AbilityBackground"] = "Icon",
+["HideTruncatedTooltips"] = false,
+["HideMenuHelp"] = false,
+["PetCardNoMouseoverFlip"] = false,
+["FavoriteFilters"] = {
+},
+["ToolbarDismiss"] = false,
 ["PetCardForLinks"] = false,
 ["HideRarityBorders"] = false,
-["Anchor"] = "BOTTOMRIGHT",
+["ConvertedTeams"] = {
+},
 ["LoadHealthiest"] = false,
 ["CompactTeamList"] = false,
 ["ResetSortWithFilters"] = false,
 ["CompactQueueList"] = false,
-["ColorTargetNames"] = true,
 ["KeepNotesOnScreen"] = false,
+["ColorTargetNames"] = true,
 ["QueueAutoLearn"] = false,
 ["PanelTabAnchor"] = "BOTTOMRIGHT",
 ["HidePreferenceBadges"] = false,
@@ -76,13 +76,13 @@ Rematch5Settings = {
 ["BackupCount"] = 0,
 ["HideToolbarTooltips"] = false,
 ["DisplayUniqueTotal"] = false,
-["SafariHatShine"] = false,
-["TooltipBehavior"] = "Normal",
+["BreedFormat"] = 1,
+["PetCardCanPin"] = false,
 ["HideOptionTooltips"] = false,
 ["MousewheelSpeed"] = "Normal",
 ["NoSummonOnDblClick"] = false,
 ["HideTeamBadges"] = false,
-["HideNotesButtonInBattle"] = false,
+["InteractOnMouseover"] = 0,
 ["SpecialSlots"] = {
 },
 ["ScriptFilters"] = {
@@ -108,20 +108,20 @@ Rematch5Settings = {
 },
 },
 ["LastOpenJournal"] = true,
-["RandomPetRules"] = 2,
+["YPos"] = 395.1818542480469,
 ["PetCardAlwaysShowHPBar"] = false,
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
-["YPos"] = 395.1818542480469,
-["LowerStrata"] = false,
+["RandomPetRules"] = 2,
 ["HideLevelingBadges"] = false,
+["LowerStrata"] = false,
 ["ShowNewGroupTab"] = true,
 ["QueueSortOrder"] = 1,
 ["CardBehavior"] = "Normal",
 ["QueueRandomWhenEmpty"] = false,
-["InteractOnMouseover"] = 0,
-["PetCardCanPin"] = false,
-["BreedFormat"] = 1,
+["HideNotesButtonInBattle"] = false,
+["TooltipBehavior"] = "Normal",
+["SafariHatShine"] = false,
 ["LockPosition"] = false,
 ["CombineGroupKey"] = "None",
 ["ExpandedGroups"] = {
@@ -177,22 +177,22 @@ Rematch5Settings = {
 ["PetMarkerNames"] = {
 },
 ["WasShownOnLogout"] = false,
-["HideTruncatedTooltips"] = false,
 ["LevelingQueue"] = {
 },
+["LockWindow"] = false,
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = false,
 ["PetMarkers"] = {
 },
-["JournalLayout"] = "3-teams",
-["ExpandedOptionsHeaders"] = {
-},
+["HideLevelBubbles"] = false,
+["PetCardInBattle"] = false,
 ["NoBackupReminder"] = false,
-["ConvertedTeams"] = {
+["PetNotes"] = {
 },
 ["ShowAbilityNumbers"] = false,
 ["ReverseToolbar"] = false,
-["HideMenuHelp"] = false,
+["ExpandedOptionsHeaders"] = {
+},
 }
 Rematch5SavedTeams = {
 }
@@ -258,9 +258,9 @@ Rematch4Settings = {
 },
 ["Collected"] = {
 },
-["Similar"] = {
-},
 ["Sources"] = {
+},
+["Similar"] = {
 },
 ["Breed"] = {
 },
@@ -302,10 +302,10 @@ Rematch4Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
-["PreferredMode"] = 1,
+["ElvUIToastDefaulted"] = true,
 ["ExpandedTargetHeaders"] = {
 },
-["ElvUIToastDefaulted"] = true,
+["PreferredMode"] = 1,
 ["ActivePanel"] = 1,
 ["Sanctuary"] = {
 },

@@ -2,6 +2,12 @@
 PlumberDB_PC = {
 ["DelvesRecords"] = {
 {
+["instanceID"] = 2826,
+["uiMapID"] = 2420,
+["time"] = 1754864851,
+["tier"] = 8,
+},
+{
 ["instanceID"] = 2680,
 ["uiMapID"] = 2269,
 ["time"] = 1754370143,

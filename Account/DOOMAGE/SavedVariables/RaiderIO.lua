@@ -25,9 +25,13 @@ RaiderIO_Config = {
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Kayne-turalyon"
+RaiderIO_LastCharacter = "us-Aduum-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Kayne-turalyon"] = true,
+["us-Keji-turalyon"] = true,
+["us-Kfcdruid-turalyon"] = true,
+["us-Aduum-turalyon"] = true,
+["us-Redlava-turalyon"] = true,
+["us-Darkirondust-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

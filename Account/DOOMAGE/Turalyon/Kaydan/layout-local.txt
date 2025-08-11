@@ -32,5 +32,12 @@ FrameLevel: 1
 Anchor: CENTER
 X: -56
 Y: 9
-W: 500
-H: 300
+W: 784
+H: 260
+Frame: WorldQuestTrackerFinderFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -177
+Y: -179
+W: 240
+H: 116

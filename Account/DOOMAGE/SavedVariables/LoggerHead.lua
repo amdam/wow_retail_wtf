@@ -6,15 +6,15 @@ LoggerHeadDB = {
 ["Abel - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
-["Aduum - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
 ["Christoff - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -116,22 +116,32 @@ false,
 ["Auchindoun"] = {
 [24] = false,
 },
-["Shado-Pan Monastery"] = {
-[24] = false,
-},
 ["Atal'Dazar"] = {
 [24] = false,
 },
+["Eco-Dome Al'dani"] = {
+[23] = false,
+},
 ["Zul'Gurub"] = {
 [2] = false,
+},
+["Shado-Pan Monastery"] = {
+[24] = false,
+},
+["Scholomance"] = {
+[24] = false,
+},
+["Kings' Rest"] = {
+[24] = false,
+[23] = false,
 },
 ["The MOTHERLODE!!"] = {
 [8] = true,
 [2] = false,
 [23] = true,
 },
-["Temple of Sethraliss"] = {
-[24] = false,
+["Ara-Kara, City of Echoes"] = {
+[23] = false,
 },
 ["Tempest Keep: The Botanica"] = {
 [24] = false,
@@ -149,20 +159,19 @@ false,
 ["The Necrotic Wake"] = {
 [23] = false,
 },
-["Kings' Rest"] = {
+["Temple of Sethraliss"] = {
 [24] = false,
-[23] = false,
 },
 ["The Oculus"] = {
 [2] = false,
-},
-["Scholomance"] = {
-[24] = false,
 },
 ["Cinderbrew Meadery"] = {
 [8] = true,
 [2] = false,
 [23] = true,
+},
+["The Dawnbreaker"] = {
+[23] = false,
 },
 },
 ["scenario"] = {
@@ -187,8 +196,8 @@ false,
 ["The Dread Pit"] = {
 [208] = false,
 },
-["Artifact - Acquisition - Tank"] = {
-[24] = false,
+["Demolition Dome"] = {
+[208] = false,
 },
 ["Artifact - Highmountain - Dual Boss"] = {
 [24] = false,
@@ -202,8 +211,8 @@ false,
 ["Sidestreet Sluice"] = {
 [208] = false,
 },
-["Demolition Dome"] = {
-[208] = false,
+["Artifact - Acquisition - Tank"] = {
+[24] = false,
 },
 ["The Underkeep"] = {
 [208] = false,
