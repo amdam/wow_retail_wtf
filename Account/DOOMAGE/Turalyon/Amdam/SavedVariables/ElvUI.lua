@@ -3,8 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"ez game lol",
-"nope only 3 for the gilded crests, which i used to craft a 675 staff",
 "got a couple champ pieces from that, one from the weekly for the arathi event thing in hallowfall",
 "yeah i did it at 630 ilvl",
 "which was easy to reach with all the available vet gear you can buy from vendors",
@@ -23,6 +21,8 @@ ElvCharacterDB = {
 "whats the matter",
 "what do you need",
 "ok sec",
+"/g i saw a meme about that and comparing it to when magni calls you champion",
+"/simc",
 },
 ["ConvertKeybindings"] = true,
 }

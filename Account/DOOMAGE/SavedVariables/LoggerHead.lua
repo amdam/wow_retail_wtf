@@ -3,18 +3,18 @@ LoggerHeadDB = {
 ["profileKeys"] = {
 ["Drunkan - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
-["Abel - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
-["Aduum - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
-["Kaydan - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -43,6 +43,9 @@ LoggerHeadDB = {
 ["Tazavesh, the Veiled Market"] = {
 [2] = false,
 [23] = false,
+},
+["The Nexus"] = {
+[24] = false,
 },
 ["Hellfire Citadel: The Shattered Halls"] = {
 [24] = false,
@@ -98,6 +101,9 @@ false,
 ["Gate of the Setting Sun"] = {
 [24] = false,
 },
+["The Forge of Souls"] = {
+[24] = false,
+},
 ["Magisters' Terrace"] = {
 [24] = false,
 },
@@ -105,10 +111,19 @@ false,
 [23] = true,
 [8] = true,
 },
+["Halls of Lightning"] = {
+[24] = false,
+},
+["Azjol-Nerub"] = {
+[24] = false,
+},
 ["Theater of Pain"] = {
 false,
 [8] = true,
 [23] = true,
+},
+["Zul'Gurub"] = {
+[2] = false,
 },
 ["Deadmines"] = {
 [24] = false,
@@ -116,14 +131,17 @@ false,
 ["Auchindoun"] = {
 [24] = false,
 },
-["Atal'Dazar"] = {
-[24] = false,
+["Cinderbrew Meadery"] = {
+[8] = true,
+[2] = false,
+[23] = true,
 },
 ["Eco-Dome Al'dani"] = {
 [23] = false,
 },
-["Zul'Gurub"] = {
-[2] = false,
+["Kings' Rest"] = {
+[24] = false,
+[23] = false,
 },
 ["Shado-Pan Monastery"] = {
 [24] = false,
@@ -131,9 +149,8 @@ false,
 ["Scholomance"] = {
 [24] = false,
 },
-["Kings' Rest"] = {
+["Temple of Sethraliss"] = {
 [24] = false,
-[23] = false,
 },
 ["The MOTHERLODE!!"] = {
 [8] = true,
@@ -159,19 +176,17 @@ false,
 ["The Necrotic Wake"] = {
 [23] = false,
 },
-["Temple of Sethraliss"] = {
-[24] = false,
+["The Dawnbreaker"] = {
+[23] = false,
 },
 ["The Oculus"] = {
 [2] = false,
 },
-["Cinderbrew Meadery"] = {
-[8] = true,
-[2] = false,
-[23] = true,
+["Atal'Dazar"] = {
+[24] = false,
 },
-["The Dawnbreaker"] = {
-[23] = false,
+["Utgarde Keep"] = {
+[24] = false,
 },
 },
 ["scenario"] = {
@@ -196,8 +211,8 @@ false,
 ["The Dread Pit"] = {
 [208] = false,
 },
-["Demolition Dome"] = {
-[208] = false,
+["Black Rook Hold - Artifact Challenge"] = {
+[24] = false,
 },
 ["Artifact - Highmountain - Dual Boss"] = {
 [24] = false,
@@ -211,31 +226,31 @@ false,
 ["Sidestreet Sluice"] = {
 [208] = false,
 },
-["Artifact - Acquisition - Tank"] = {
-[24] = false,
-},
-["The Underkeep"] = {
-[208] = false,
-},
-["Nightfall Sanctum"] = {
-[208] = false,
-},
-["Excavation Site 9"] = {
-[208] = false,
-},
-["Skittering Breach"] = {
-[208] = false,
-},
-["Halls of Valor - Scenario"] = {
-[24] = false,
-},
-["Fungal Folly"] = {
+["Demolition Dome"] = {
 [208] = false,
 },
 ["The Spiral Weave"] = {
 [208] = false,
 },
-["Black Rook Hold - Artifact Challenge"] = {
+["Fungal Folly"] = {
+[208] = false,
+},
+["Halls of Valor - Scenario"] = {
+[24] = false,
+},
+["Skittering Breach"] = {
+[208] = false,
+},
+["Excavation Site 9"] = {
+[208] = false,
+},
+["Nightfall Sanctum"] = {
+[208] = false,
+},
+["The Underkeep"] = {
+[208] = false,
+},
+["Artifact - Acquisition - Tank"] = {
 [24] = false,
 },
 },
@@ -294,6 +309,9 @@ false,
 ["Battle of Dazar'alor"] = {
 [16] = false,
 [15] = false,
+},
+["Ulduar"] = {
+[24] = false,
 },
 ["Onyxia's Lair"] = {
 [4] = false,

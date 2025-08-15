@@ -22,7 +22,7 @@ nil,
 ["selected"] = {
 "AtlasLoot_Factions",
 "TWWFACTIONS",
-nil,
+8,
 1,
 0,
 },
@@ -31,42 +31,28 @@ nil,
 ["Button"] = {
 ["Achievement"] = {
 ["ClickHandler"] = {
-["types"] = {
-["ChatLink"] = true,
-["GoTo"] = true,
-},
-["LeftButton"] = {
-["Shift"] = "ChatLink",
-["None"] = "GoTo",
-},
 ["__defaults"] = {
+["LeftButton"] = {
+["Shift"] = "ChatLink",
+["None"] = "GoTo",
+},
 ["types"] = {
 ["ChatLink"] = true,
 ["GoTo"] = true,
+},
 },
 ["LeftButton"] = {
 ["Shift"] = "ChatLink",
 ["None"] = "GoTo",
 },
+["types"] = {
+["ChatLink"] = true,
+["GoTo"] = true,
 },
 },
 },
 ["Item"] = {
 ["ClickHandler"] = {
-["types"] = {
-["ChatLink"] = true,
-["SetFavourite"] = true,
-["DressUp"] = true,
-["Azerite"] = true,
-},
-["LeftButton"] = {
-["Shift"] = "ChatLink",
-["Ctrl"] = "DressUp",
-["Alt"] = "SetFavourite",
-},
-["RightButton"] = {
-["Shift"] = "Azerite",
-},
 ["__defaults"] = {
 ["LeftButton"] = {
 ["Shift"] = "ChatLink",
@@ -82,39 +68,47 @@ nil,
 ["DressUp"] = true,
 ["SetFavourite"] = true,
 },
+},
+["LeftButton"] = {
+["Shift"] = "ChatLink",
+["Ctrl"] = "DressUp",
+["Alt"] = "SetFavourite",
+},
+["RightButton"] = {
+["Shift"] = "Azerite",
+},
+["types"] = {
+["ChatLink"] = true,
+["Azerite"] = true,
+["DressUp"] = true,
+["SetFavourite"] = true,
 },
 },
 },
 ["Set"] = {
 ["ClickHandler"] = {
-["types"] = {
-["DressUp"] = true,
-["OpenSet"] = true,
-},
-["LeftButton"] = {
-["None"] = "OpenSet",
-["Ctrl"] = "DressUp",
-},
 ["__defaults"] = {
+["LeftButton"] = {
+["Ctrl"] = "DressUp",
+["None"] = "OpenSet",
+},
 ["types"] = {
 ["DressUp"] = true,
 ["OpenSet"] = true,
 },
-["LeftButton"] = {
-["None"] = "OpenSet",
-["Ctrl"] = "DressUp",
 },
+["LeftButton"] = {
+["Ctrl"] = "DressUp",
+["None"] = "OpenSet",
+},
+["types"] = {
+["DressUp"] = true,
+["OpenSet"] = true,
 },
 },
 },
 ["Mount"] = {
 ["ClickHandler"] = {
-["types"] = {
-["GoTo"] = true,
-},
-["LeftButton"] = {
-["None"] = "GoTo",
-},
 ["__defaults"] = {
 ["LeftButton"] = {
 ["None"] = "GoTo",
@@ -122,24 +116,30 @@ nil,
 ["types"] = {
 ["GoTo"] = true,
 },
+},
+["LeftButton"] = {
+["None"] = "GoTo",
+},
+["types"] = {
+["GoTo"] = true,
 },
 },
 },
 ["Pet"] = {
 ["ClickHandler"] = {
-["types"] = {
-["GoTo"] = true,
-},
-["LeftButton"] = {
-["None"] = "GoTo",
-},
 ["__defaults"] = {
+["LeftButton"] = {
+["None"] = "GoTo",
+},
 ["types"] = {
 ["GoTo"] = true,
+},
 },
 ["LeftButton"] = {
 ["None"] = "GoTo",
 },
+["types"] = {
+["GoTo"] = true,
 },
 },
 },

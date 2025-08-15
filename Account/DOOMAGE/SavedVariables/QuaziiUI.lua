@@ -3,23 +3,23 @@ QuaziiUI_DB = {
 ["char"] = {
 ["Drunkan - Turalyon"] = {
 ["selectedPage"] = 3,
+["shownPages"] = 5,
+["openPage"] = 3,
+},
+["Aduum - Turalyon"] = {
+["selectedPage"] = 3,
+["shownPages"] = 5,
+["openPage"] = 3,
+},
+["Kayne - Turalyon"] = {
+["selectedPage"] = 3,
 ["openPage"] = 3,
 ["shownPages"] = 5,
 },
 ["Adamancy - Turalyon"] = {
 ["selectedPage"] = 4,
+["shownPages"] = 5,
 ["openPage"] = 4,
-["shownPages"] = 5,
-},
-["Kayne - Turalyon"] = {
-["selectedPage"] = 3,
-["shownPages"] = 5,
-["openPage"] = 3,
-},
-["Aduum - Turalyon"] = {
-["openPage"] = 3,
-["selectedPage"] = 3,
-["shownPages"] = 5,
 },
 },
 ["global"] = {
@@ -41,13 +41,13 @@ QuaziiUI_DB = {
 ["Adamancy - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
 ["Aduum - Turalyon"] = "Default",
-["Drunkan - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
 },
 }

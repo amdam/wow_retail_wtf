@@ -11,23 +11,23 @@ HandyNotes_DragonGlyphsDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 ["Abel - Turalyon"] = "Abel - Turalyon",
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
-["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Aduum - Turalyon"] = "Aduum - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Adamian - Turalyon"] = "Adamian - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
-["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Adaam - Turalyon"] = "Adaam - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
 ["Fernie - Turalyon"] = {
@@ -50,13 +50,13 @@ HandyNotes_DragonGlyphsDB = {
 },
 ["Dreg - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Adomic - Turalyon"] = {
 },
 ["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
 },
-["Adaam - Turalyon"] = {
+["Powerpriest - Turalyon"] = {
 },
 ["Furrys - Turalyon"] = {
 },
@@ -68,11 +68,11 @@ HandyNotes_DragonGlyphsDB = {
 },
 ["Adamian - Turalyon"] = {
 },
-["Adrid - Turalyon"] = {
+["Kurate - Turalyon"] = {
 },
 ["Asaam - Turalyon"] = {
 },
-["Kurate - Turalyon"] = {
+["Adrid - Turalyon"] = {
 },
 ["Adamantium - Turalyon"] = {
 },
@@ -80,9 +80,9 @@ HandyNotes_DragonGlyphsDB = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Powerpriest - Turalyon"] = {
+["Adaam - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Shado - Turalyon"] = {
 },
 },
 }

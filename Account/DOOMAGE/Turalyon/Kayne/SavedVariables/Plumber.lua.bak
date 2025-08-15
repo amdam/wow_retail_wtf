@@ -1,7 +1,38 @@
 
 PlumberDB_PC = {
+["CurrencyCap:3284"] = 90,
 ["CurrencyCap:3286"] = 90,
 ["DelvesRecords"] = {
+{
+["instanceID"] = 2680,
+["uiMapID"] = 2269,
+["time"] = 1755193394,
+["tier"] = 8,
+},
+{
+["instanceID"] = 2687,
+["uiMapID"] = 2301,
+["time"] = 1755148805,
+["tier"] = 8,
+},
+{
+["instanceID"] = 2815,
+["uiMapID"] = 2396,
+["time"] = 1755147479,
+["tier"] = 11,
+},
+{
+["instanceID"] = 2684,
+["overrideName"] = "The Dread Pit",
+["time"] = 1755145989,
+["tier"] = 11,
+},
+{
+["instanceID"] = 2681,
+["uiMapID"] = 2250,
+["time"] = 1755144526,
+["tier"] = 11,
+},
 {
 ["instanceID"] = 2826,
 ["uiMapID"] = 2420,

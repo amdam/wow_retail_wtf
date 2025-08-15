@@ -1,11 +1,14 @@
 
 BAGANATOR_CONFIG = {
+["Version"] = 1,
 ["CharacterSpecific"] = {
 ["sort_ignore_bank_slots_count"] = {
-["Kaydan-Turalyon"] = 0,
 ["Adamancy-Turalyon"] = 0,
+["Kaydan-Turalyon"] = 0,
 },
-["currencies_tracked_imported"] = {
+["sort_ignore_slots_count_2"] = {
+["Adamancy-Turalyon"] = 0,
+["Kaydan-Turalyon"] = 0,
 },
 ["currencies_tracked"] = {
 ["Adamian-Turalyon"] = {
@@ -17,11 +20,11 @@ BAGANATOR_CONFIG = {
 },
 ["Kaydan-Turalyon"] = {
 },
-["Adonis-Turalyon"] = {
+["Christoff-Turalyon"] = {
 },
 ["Dreg-Turalyon"] = {
 },
-["Drunkan-Turalyon"] = {
+["Adamn-Turalyon"] = {
 },
 ["Kayne-Turalyon"] = {
 },
@@ -29,23 +32,20 @@ BAGANATOR_CONFIG = {
 },
 ["Badam-Turalyon"] = {
 },
-["Abel-Turalyon"] = {
-},
 ["Adrid-Turalyon"] = {
+},
+["Abel-Turalyon"] = {
 },
 ["Aduum-Turalyon"] = {
 },
-["Adamn-Turalyon"] = {
+["Drunkan-Turalyon"] = {
 },
-["Christoff-Turalyon"] = {
-},
-},
-["sort_ignore_slots_count_2"] = {
-["Kaydan-Turalyon"] = 0,
-["Adamancy-Turalyon"] = 0,
+["Adonis-Turalyon"] = {
 },
 },
-["Version"] = 1,
+["currencies_tracked_imported"] = {
+},
+},
 ["Profiles"] = {
 ["DEFAULT"] = {
 ["guild_view_width"] = 14,
@@ -64,20 +64,20 @@ BAGANATOR_CONFIG = {
 ["default_battlepet"] = true,
 ["default_food"] = true,
 ["default_reagent"] = true,
-["default_weapon"] = true,
+["default_junk"] = true,
 ["default_special_empty"] = true,
-["default_recipe"] = true,
-["default_gem"] = true,
+["default_miscellaneous"] = true,
+["default_key"] = true,
 ["default_consumable"] = true,
 ["default_tradegoods"] = true,
-["default_potion"] = true,
-["default_keystone"] = true,
-["default_profession"] = true,
-["default_auto_equipment_sets"] = true,
 ["default_container"] = true,
-["default_key"] = true,
-["default_miscellaneous"] = true,
-["default_junk"] = true,
+["default_keystone"] = true,
+["default_auto_equipment_sets"] = true,
+["default_profession"] = true,
+["default_potion"] = true,
+["default_gem"] = true,
+["default_recipe"] = true,
+["default_weapon"] = true,
 },
 ["show_search_box"] = true,
 ["debug_categories_search"] = false,
@@ -90,7 +90,7 @@ BAGANATOR_CONFIG = {
 ["tradeskill"] = false,
 ["void_storage"] = false,
 ["guild_bank"] = false,
-["forge_of_bonds"] = false,
+["trade_partner"] = false,
 ["item_upgrade"] = true,
 ["merchant"] = true,
 ["character_panel"] = false,
@@ -98,13 +98,13 @@ BAGANATOR_CONFIG = {
 ["item_interaction"] = true,
 ["mail"] = false,
 ["sockets"] = false,
-["trade_partner"] = false,
+["forge_of_bonds"] = false,
 ["bank"] = true,
 },
 ["icon_corners_auto_insert_applied"] = {
 ["battle_pet_level"] = true,
-["bag_type"] = true,
 ["keystone_level"] = true,
+["bag_type"] = true,
 },
 ["show_recents_tabs_main_view"] = false,
 ["upgrade_plugin_ignored"] = {
@@ -180,27 +180,24 @@ BAGANATOR_CONFIG = {
 ["icon_bottom_right_corner_array"] = {
 "quantity",
 },
-["icon_mark_unusable"] = false,
+["character_bank_view_width"] = 14,
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-463.77734375,
-531.7072143554688,
+532.3029174804688,
+539.4649047851562,
 },
-["custom_categories"] = {
-["1"] = {
-["name"] = "Tradable",
-["search"] = "tradable",
+["currency_headers_collapsed"] = {
 },
-},
-["migrated_sort_method"] = true,
+["new_items_flashing"] = true,
 ["recent_include_owned"] = false,
-["category_sort_method"] = "type",
-["icon_equipment_set_border"] = true,
+["icon_context_fading"] = true,
+["lock_frames"] = false,
 ["guild_view_position_2"] = {
 "TOPLEFT",
 30,
 -235,
 },
+["debug_timers"] = false,
 ["category_sections"] = {
 ["1"] = {
 ["name"] = "EQUIPMENT",
@@ -209,24 +206,22 @@ BAGANATOR_CONFIG = {
 ["name"] = "CRAFTING",
 },
 },
-["debug_timers"] = false,
 ["seen_welcome"] = 1,
 ["hide_special_container"] = {
 },
-["guild_current_tab"] = 1,
+["upgrade_plugin"] = "none",
 ["bag_empty_space_at_top"] = false,
-["currencies_tracked_imported"] = {
-},
+["bag_view_show_bag_slots"] = false,
 ["category_horizontal_spacing_2"] = 0.3,
-["add_to_category_buttons"] = true,
-["category_default_import"] = 2,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
 -436.27783203125,
 393.69677734375,
 },
+["category_default_import"] = 2,
+["add_to_category_buttons"] = true,
 ["character_bank_current_tab"] = 4,
-["sort_start_at_bottom"] = false,
+["no_frame_borders"] = false,
 ["character_select_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFrameelvui",
@@ -234,14 +229,56 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["debug_categories"] = false,
+["icon_grey_junk"] = false,
 ["category_hidden"] = {
 ["1"] = false,
 ["default_reagent"] = false,
 },
+["guild_view_position"] = {
+"LEFT",
+20,
+0,
+},
 ["saved_searches"] = {
 },
-["category_migration"] = 5,
+["currencies_tracked"] = {
+["Adamian-Turalyon"] = {
+},
+["Adamancy-Turalyon"] = {
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3109,
+},
+},
+["Adamantium-Turalyon"] = {
+},
+["Kaydan-Turalyon"] = {
+},
+["Christoff-Turalyon"] = {
+},
+["Dreg-Turalyon"] = {
+},
+["Drunkan-Turalyon"] = {
+},
+["Kayne-Turalyon"] = {
+},
+["Amdam-Turalyon"] = {
+},
+["Badam-Turalyon"] = {
+},
+["Adrid-Turalyon"] = {
+},
+["Abel-Turalyon"] = {
+},
+["Aduum-Turalyon"] = {
+},
+["Adamn-Turalyon"] = {
+},
+["Powerpriest-Turalyon"] = {
+},
+},
 ["category_modifications"] = {
 ["1"] = {
 ["showGroupPrefix"] = true,
@@ -257,47 +294,23 @@ BAGANATOR_CONFIG = {
 },
 },
 },
-["guild_bank_sort_method"] = "unset",
 ["warband_bank_view_width"] = 14,
 ["sort_ignore_slots_at_end"] = false,
 ["add_to_category_buttons_2"] = "drag",
 ["view_type"] = "unset",
 ["bank_current_tab"] = 2,
 ["icon_text_quality_colors"] = false,
-["category_horizontal_spacing"] = 0.15,
+["recent_timeout"] = 15,
 ["icon_text_font_size"] = 14,
+["category_group_empty_slots"] = true,
+["setting_anchors"] = false,
 ["disabled_skins"] = {
 },
 ["bag_view_width"] = 12,
-["view_alpha"] = 1,
-["setting_anchors"] = false,
-["recent_characters_main_view"] = {
-"Aduum-Turalyon",
-"Adamancy-Turalyon",
-"Kayne-Turalyon",
-"Kaydan-Turalyon",
-"Amdam-Turalyon",
-"Abel-Turalyon",
-"Adrid-Turalyon",
-"Drunkan-Turalyon",
-"Adamn-Turalyon",
-"Adamian-Turalyon",
-"Dreg-Turalyon",
-"Badam-Turalyon",
-"Christoff-Turalyon",
-"Adonis-Turalyon",
-"Adamantium-Turalyon",
-"Fernie-Turalyon",
-"Powerpriest-Turalyon",
-"Allevin-Turalyon",
-"Adaam-Turalyon",
-"Tupac-Turalyon",
-},
-["debug_keywords"] = false,
-["category_section_toggled"] = {
-["Equipment"] = false,
-["2"] = false,
-["Crafting"] = false,
+["sort_ignore_slots_count_2"] = {
+["Kayne-Turalyon"] = 0,
+["Amdam-Turalyon"] = 0,
+["Adamancy-Turalyon"] = 0,
 },
 ["skins"] = {
 ["elvui"] = {
@@ -315,57 +328,39 @@ BAGANATOR_CONFIG = {
 ["empty_slot_background"] = false,
 },
 },
-["sort_ignore_slots_count_2"] = {
-["Kayne-Turalyon"] = 0,
-["Amdam-Turalyon"] = 0,
-["Adamancy-Turalyon"] = 0,
+["category_section_toggled"] = {
+["Equipment"] = false,
+["Crafting"] = false,
+["2"] = false,
 },
+["recent_characters_main_view"] = {
+"Amdam-Turalyon",
+"Adamancy-Turalyon",
+"Kayne-Turalyon",
+"Aduum-Turalyon",
+"Kaydan-Turalyon",
+"Abel-Turalyon",
+"Adrid-Turalyon",
+"Drunkan-Turalyon",
+"Adamn-Turalyon",
+"Adamian-Turalyon",
+"Dreg-Turalyon",
+"Badam-Turalyon",
+"Christoff-Turalyon",
+"Adonis-Turalyon",
+"Adamantium-Turalyon",
+"Fernie-Turalyon",
+"Powerpriest-Turalyon",
+"Allevin-Turalyon",
+"Adaam-Turalyon",
+"Tupac-Turalyon",
+},
+["debug_keywords"] = false,
 ["auto_sort_on_open"] = false,
-["category_group_empty_slots"] = true,
-["recent_timeout"] = 15,
-["currencies_tracked"] = {
-["Adamian-Turalyon"] = {
-},
-["Adamancy-Turalyon"] = {
-{
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3109,
-},
-},
-["Adamantium-Turalyon"] = {
-},
-["Kaydan-Turalyon"] = {
-},
-["Amdam-Turalyon"] = {
-},
-["Dreg-Turalyon"] = {
-},
-["Adamn-Turalyon"] = {
-},
-["Kayne-Turalyon"] = {
-},
-["Powerpriest-Turalyon"] = {
-},
-["Badam-Turalyon"] = {
-},
-["Abel-Turalyon"] = {
-},
-["Adrid-Turalyon"] = {
-},
-["Aduum-Turalyon"] = {
-},
-["Drunkan-Turalyon"] = {
-},
-["Christoff-Turalyon"] = {
-},
-},
-["guild_view_position"] = {
-"LEFT",
-20,
-0,
-},
+["view_alpha"] = 1,
+["category_horizontal_spacing"] = 0.15,
+["guild_bank_sort_method"] = "unset",
+["category_migration"] = 5,
 ["guild_view_dialog_position"] = {
 "BOTTOM",
 "Baganator_GuildViewFrame",
@@ -373,16 +368,17 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["icon_grey_junk"] = false,
+["debug_categories"] = false,
 ["bank_only_view_position"] = {
 "LEFT",
 416.9298706054688,
 187.6263427734375,
 },
-["no_frame_borders"] = false,
+["sort_start_at_bottom"] = false,
 ["show_sort_button_2"] = true,
-["bag_view_show_bag_slots"] = false,
-["upgrade_plugin"] = "none",
+["currencies_tracked_imported"] = {
+},
+["guild_current_tab"] = 1,
 ["currency_panel_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFrameelvui",
@@ -390,12 +386,16 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["lock_frames"] = false,
-["icon_context_fading"] = true,
-["new_items_flashing"] = true,
-["currency_headers_collapsed"] = {
+["icon_equipment_set_border"] = true,
+["category_sort_method"] = "type",
+["migrated_sort_method"] = true,
+["custom_categories"] = {
+["1"] = {
+["name"] = "Tradable",
+["search"] = "tradable",
 },
-["character_bank_view_width"] = 14,
+},
+["icon_mark_unusable"] = false,
 },
 },
 }

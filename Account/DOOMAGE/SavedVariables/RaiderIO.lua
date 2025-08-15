@@ -3,16 +3,16 @@ RaiderIO_Config = {
 ["minimapIcon"] = {
 ["minimapPos"] = 225.3358927696499,
 ["showInCompartment"] = true,
-["lock"] = false,
 ["hide"] = false,
+["lock"] = false,
 },
 ["enableKeystoneTooltips"] = true,
-["enableFriendsTooltips"] = true,
-["enableUnitTooltips"] = true,
 ["alwaysExtendTooltip"] = false,
+["enableUnitTooltips"] = true,
+["enableFriendsTooltips"] = true,
 ["disableScoreColors"] = false,
 ["showDropDownCopyURL"] = true,
-["showSimpleScoreColors"] = false,
+["enableWhoTooltips"] = true,
 ["profilePoint"] = {
 ["y"] = 0,
 ["x"] = -16,
@@ -21,17 +21,16 @@ RaiderIO_Config = {
 ["enableLFGTooltips"] = true,
 ["showMainsScore"] = true,
 ["enableWhoMessages"] = true,
-["enableWhoTooltips"] = true,
+["showSimpleScoreColors"] = false,
 ["enableLFGDropdown"] = true,
 ["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "us-Aduum-turalyon"
+RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
-["us-Keji-turalyon"] = true,
-["us-Kfcdruid-turalyon"] = true,
-["us-Aduum-turalyon"] = true,
-["us-Redlava-turalyon"] = true,
-["us-Darkirondust-turalyon"] = true,
+["us-party2-turalyon"] = true,
+["us-Halò-turalyon"] = true,
+["us-Boberino-turalyon"] = true,
+["us-Krissà-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }
