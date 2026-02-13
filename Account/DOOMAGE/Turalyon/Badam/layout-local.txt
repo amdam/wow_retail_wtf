@@ -9,8 +9,8 @@ H: 250
 Frame: GroupLootHistoryFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -3
-Y: 138
+X: -38
+Y: 176
 W: 261
 H: 590
 Frame: FloatingBattlePetTooltip

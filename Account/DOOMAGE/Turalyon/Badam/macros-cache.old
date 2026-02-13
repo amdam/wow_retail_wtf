@@ -54,7 +54,7 @@ VER 3 0100000000000018 " " "134400"
 END
 VER 3 0100000000000019 " " "134400"
 #showtooltip
-/cast [known:Spear of Bastion,@player] Spear of Bastion; [known:Thunderous Roar] Thunderous Roar;
+/cast [known:Champion's Spear,@player] Champion's Spear; [known:Thunderous Roar] Thunderous Roar;
 /script UIErrorsFrame:Clear();
 END
 VER 3 010000000000001A " " "134400"

@@ -1,0 +1,9 @@
+
+PrePathDB = {
+["PanelPos"] = {
+["yOfs"] = 260.7271423339844,
+["xOfs"] = 19.34329605102539,
+["point"] = "LEFT",
+["relativePoint"] = "LEFT",
+},
+}

@@ -59,3 +59,9 @@ VER 3 010000000000000C " " "134400"
 /use Lifestorm;
 /script UIErrorsFrame:Clear()
 END
+VER 3 010000000000000D " " "134400"
+#showtooltip
+/cast [] Weapons of Order;
+/cast Lifestorm;
+/script UIErrorsFrame:Clear()
+END

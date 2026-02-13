@@ -3,7 +3,7 @@ Atlas_Battlegrounds: disabled
 Atlas_DungeonLocs: disabled
 Atlas_OutdoorRaids: disabled
 Atlas_Transportation: disabled
-AtlasLoot: enabled
+AtlasLoot: disabled
 AtlasLoot_BurningCrusade: enabled
 AtlasLoot_Crafting: enabled
 AtlasLoot_OriginalWoW: disabled
@@ -260,3 +260,4 @@ WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 WorldQuestTracker: enabled
 ElvUI_RatioMinimapAuras: disabled
+CursorRing: disabled

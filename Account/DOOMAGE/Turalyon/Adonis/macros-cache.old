@@ -15,13 +15,13 @@ VER 3 0100000000000005 " " "134400"
 END
 VER 3 0100000000000006 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Spirit Bomb] Spirit Bomb; Soul Cleave;
+/cast [mod:alt,known:Spirit Bomb] Spirit Bomb; [spec:2] Soul Cleave; [spec:1] Chaos Strike
 /script UIErrorsFrame:Clear() 
 END
 VER 3 0100000000000007 " " "134400"
 #showtooltip
 /startattack
-/cast [mod:alt] Throw Glaive; [spec:2] Shear; [spec:1] Demon's Bite;
+/cast [mod:alt] Throw Glaive; [spec:2] Shear; [spec:1,noknown:Demon Blades] Demon's Bite; Throw Glaive
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000008 " " "134400"
@@ -53,5 +53,24 @@ END
 VER 3 010000000000000B " " "134400"
 #showtooltip
 /cast [@cursor] Sigil of Silence
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000C " " "134400"
+#showtooltip
+/cast [mod:alt]
+END
+VER 3 010000000000000D " " "134400"
+#showtooltip
+/cast [@focus,exists][] Disrupt;
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000E " " "134400"
+#showtooltip
+/cast [@cursor] Metamorphosis
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [mod:alt] The Hunt; [known:Essence Break] Essence Break; The Hunt
 /script UIErrorsFrame:Clear()
 END

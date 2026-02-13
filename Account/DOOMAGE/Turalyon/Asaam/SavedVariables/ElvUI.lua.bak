@@ -2,29 +2,29 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"some little poor chinamen has to grind hard", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"almost did", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			771, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			983, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500579,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715379,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"and my sugar momma wife does too", -- [1]
+			"dannnggg", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -34,7 +34,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			772, -- [11]
+			984, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -42,55 +42,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500524,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[51] = 1670715386,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"lol", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"bastards", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			778, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			989, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500533,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715444,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [3]
 		{
-			"i really wish this game could say my name", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"you have to click accept when the queue pops", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			799, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			992, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500681,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715498,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [4]
 		{
-			"lol like in the voice acted dialog?", -- [1]
+			"wooo", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -100,7 +100,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			800, -- [11]
+			1001, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -108,33 +108,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500759,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[51] = 1670715553,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"lol yeah", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"fuck", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			802, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1028, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500721,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715699,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [6]
 		{
-			"even if was the shitty text to speech voice for each interaction", -- [1]
+			"what hapenn", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -144,7 +144,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			803, -- [11]
+			1033, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -152,55 +152,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500739,
-			[50] = "CHAT_MSG_WHISPER",
+			[51] = 1670715660,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"lol people would abuse that so bad", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"i got punted off", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			804, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1037, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500817,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715732,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [8]
 		{
-			"lol", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"up here", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			805, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1042, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500804,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715764,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [9]
 		{
-			"i have to look up a build now for which talent points to invest in", -- [1]
+			"how dare you", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -210,7 +210,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			806, -- [11]
+			1043, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -218,33 +218,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500879,
-			[50] = "CHAT_MSG_WHISPER",
+			[51] = 1670715775,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"let's see if we can get you some leveling gear", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"why'd you run out lol", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			807, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1045, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500823,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715721,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [11]
 		{
-			"to start you can just use the starter build", -- [1]
+			"idk lol", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -254,7 +254,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			808, -- [11]
+			1048, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -262,33 +262,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500837,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[51] = 1670715815,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"oh yeah", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"you might have to click the eyeball icon on your minimap and do teleport to dungeon", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			809, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1049, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500841,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715816,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [13]
 		{
-			"in the bottom left there's a dropdown wher eyou can select your saved loadouts, there's a starter one that suggests stuff for you while you're leveling", -- [1]
+			"i thought you left", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -298,7 +298,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			810, -- [11]
+			1050, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -306,427 +306,53 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500861,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[51] = 1670715826,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"then you can change it later if you want", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"no i died lol", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			811, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1051, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500868,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715831,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [15]
 		{
-			"oh nice", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"fell down there where there were a ton of mobs so i died and released", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			812, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1052, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500880,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715782,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [16]
-		{
-			"just did it", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			813, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500883,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [17]
-		{
-			"there's no restriction on respeccing, just change specs and talent trees all you want", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			814, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500883,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [18]
-		{
-			"brb going to log on my mage", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			815, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668500904,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [19]
-		{
-			"noice", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			339, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753651,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [20]
-		{
-			"lets do it", -- [1]
-			"|Kq15|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			340, -- [11]
-			false, -- [12]
-			34, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372dougyfresh|r",
-			[51] = 1668753653,
-			[50] = "CHAT_MSG_BN_WHISPER",
-		}, -- [21]
-		{
-			"ok one sec", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			343, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753665,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
-		{
-			"omw to stormwind", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			344, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753670,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"did you get this quest |cffffff00|Hquest:65436:2573|h[The Dragon Isles Await]|h|r", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			345, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753683,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"btw have you and tay tay watched yellowstone? can't remember", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			346, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753686,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
-		{
-			"yeah that show is sick", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			347, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753692,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"hell yeah", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			348, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753699,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"i didnt get the quest", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			349, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753707,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
-		{
-			"i almost completed a quest in tiragarde sound but i got stuck", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			350, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753751,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
-		{
-			"hmm i wonder if you need to be lvl 20 or something", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			351, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753766,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [30]
-		{
-			"im only 24 and i got it when i logged in just now", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			352, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753775,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
-		{
-			"does quest sync work for that?", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			353, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753819,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"idk but if it did it wouldn't bring you up to my level, you would have to be eligible and it would bring me down to you", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			356, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753863,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
 		{
 			"oh i see", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
@@ -738,7 +364,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			357, -- [11]
+			1057, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -746,55 +372,429 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753877,
+			[51] = 1670715881,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [17]
+		{
+			"stand out here", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1059, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715841,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [18]
+		{
+			"and shoot him from outside this circle", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1062, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715909,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [19]
+		{
+			"ok now here he comes", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1071, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715974,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [20]
+		{
+			"go stand out there where i showed you", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1073, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670715978,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [21]
+		{
+			"WTF", -- [1]
+			"Menorzin-Stormrage", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Menorzin-Stormrage", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1076, -- [11]
+			"Player-60-0EE7C234", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+			[51] = 1670716014,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			"is that so he doesnt target me?", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Niceblumpkin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1077, -- [11]
+			"Player-3685-0DF762C3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670715967,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [23]
+		{
+			"yeah he shouldn't charge out there", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1079, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716035,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [24]
+		{
+			"weird", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1080, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716045,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [25]
+		{
+			"just dodge him i guess", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1081, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716048,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [26]
+		{
+			"lol yeah", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Niceblumpkin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1082, -- [11]
+			"Player-3685-0DF762C3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670716051,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [27]
+		{
+			"you're mobile", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1083, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716051,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [28]
+		{
+			"kkkk", -- [1]
+			"Zbrazucka-Azralon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zbrazucka-Azralon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1085, -- [11]
+			"Player-3209-0B918C9E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aZbrazucka-Azralon|r",
+			[51] = 1670716075,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"whats with the loot lol", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1102, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716226,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [30]
+		{
+			"what is the loot situation", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Niceblumpkin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1104, -- [11]
+			"Player-3685-0DF762C3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670716205,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [31]
+		{
+			"the mage got leather and the druid got mail", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1105, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716278,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [32]
+		{
+			"neither of them can use those, normally that doesnt happen", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1106, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716284,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [33]
+		{
+			"shit must be bugged", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1107, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716287,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [34]
 		{
-			"balls idk where my hearth is set lol", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"bastards", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			358, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1108, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753892,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670716288,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"ah ok this works, i'll be in sw in a min", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"nooooo", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			361, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1153, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753910,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670716605,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"also, these assault things", -- [1]
+			"ill rez you bro", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -804,7 +804,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			362, -- [11]
+			1154, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -812,33 +812,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753952,
+			[51] = 1670716647,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [37]
 		{
-			"every 20 mins or so a big boss spawns", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"thanjks bro", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			363, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1155, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753957,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670716654,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"and he has about a 50% chance to drop a dimmed elemental shard thing", -- [1]
+			"you using that multi shot bro", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -848,7 +848,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			364, -- [11]
+			1189, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -856,55 +856,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753970,
+			[51] = 1670716916,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [39]
 		{
-			"there's a fire one, storm one, earth one and water one", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			365, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753983,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
-		{
-			"if you get all 4 you get an heirloom trinket", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			366, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753988,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
-		{
-			"thats cool", -- [1]
+			"yeah bro", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -914,7 +870,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			367, -- [11]
+			1190, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -922,11 +878,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668753995,
+			[51] = 1670716864,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [40]
 		{
-			"which is only available during this launch event", -- [1]
+			"i only have to use it for like a second to trigger splash right?", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Niceblumpkin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1192, -- [11]
+			"Player-3685-0DF762C3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670716937,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [41]
+		{
+			"Ricocheting Throw on Asaam", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -936,7 +914,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			368, -- [11]
+			1193, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -944,11 +922,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668753998,
+			[51] = 1670716942,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [42]
+		{
+			"yea but it only lasts a few seconds", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1195, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670716958,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [43]
 		{
-			"|cff00ccff|Hitem:199686::::::::24:251:::::::::|h[Unstable Elemental Confluence]|h|r", -- [1]
+			"so every 6 or 8 sec you need to use it", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -958,7 +958,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			369, -- [11]
+			1197, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -966,11 +966,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754005,
+			[51] = 1670716964,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [44]
 		{
-			"how do i get to the docks quickly", -- [1]
+			"oh i see", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -980,7 +980,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			374, -- [11]
+			1206, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -988,55 +988,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754015,
+			[51] = 1670717000,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"hmm definitely fly", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"kill mob", -- [1]
+			"Menorzin-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Menorzin-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			375, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1209, -- [11]
+			"Player-60-0EE7C234", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754028,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+			[51] = 1670717022,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [46]
 		{
-			"you mean at a griffon thingy?", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"...", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			376, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1211, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754050,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670717034,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [47]
 		{
-			"i see you", -- [1]
+			"that isnt part of the fight", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1046,7 +1046,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			377, -- [11]
+			1213, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1054,11 +1054,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754050,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1670716982,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [48]
 		{
-			"the map makes it look bigger than it is, ill come to you", -- [1]
+			"if a shark is after you, youll have to kite it", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1068,7 +1068,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			378, -- [11]
+			1222, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1076,33 +1076,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754067,
+			[51] = 1670717218,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [49]
 		{
-			"actually sec let me grab this quest and i'll find us a leveling group", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"stupid sharks", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			379, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1223, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754102,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670717265,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"look slike lvl 30 you can fly", -- [1]
+			"this druid is just leeching", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1112,7 +1112,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			380, -- [11]
+			1224, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1120,11 +1120,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754160,
+			[51] = 1670717310,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [51]
 		{
-			"so thats good", -- [1]
+			"doing half my dps", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1134,7 +1134,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			381, -- [11]
+			1225, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1142,11 +1142,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754169,
+			[51] = 1670717321,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [52]
 		{
-			"should get there in no time this way", -- [1]
+			"and im the tank", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1156,7 +1156,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			382, -- [11]
+			1226, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1164,11 +1164,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754176,
+			[51] = 1670717326,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [53]
 		{
-			"this is number one bullshit", -- [1]
+			"so he sucks", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1178,7 +1178,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			383, -- [11]
+			1227, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1186,11 +1186,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754189,
+			[51] = 1670717288,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"its not that bad lol", -- [1]
+			"or hes like afk", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1200,7 +1200,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			385, -- [11]
+			1233, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1208,11 +1208,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754207,
+			[51] = 1670717365,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [55]
 		{
-			"the map makes it look bigger than it is", -- [1]
+			"sorry im so slow, miles is being a handful", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1222,7 +1222,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			386, -- [11]
+			1234, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1230,33 +1230,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754212,
+			[51] = 1670717346,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [56]
 		{
-			"oh balls im in chromie time", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"its ok bro, i know taylor has to read her porn", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			402, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1236, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754306,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670717433,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [57]
 		{
-			"thats why i can't see you", -- [1]
+			"shes recovering from surgery she had yesterday", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1266,7 +1266,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			403, -- [11]
+			1241, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,121 +1274,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754316,
+			[51] = 1670717452,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [58]
 		{
-			"lols i was looking for you", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			"had to get a dnc", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			404, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1245, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754335,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670717403,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [59]
 		{
-			"yeah after your first character, you can talk to a time travelling gnome and she lets you pick any expansion to level a new character through", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"oh really", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			405, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1248, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754369,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670717490,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"and it scales everything to your level", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"how dare they", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			406, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1277, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754386,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670717694,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"woah", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
+			" heaçer afk", -- [1]
+			"Menorzin-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
+			"Menorzin-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			407, -- [11]
-			"Player-3685-0DF762C3", -- [12]
+			1289, -- [11]
+			"Player-60-0EE7C234", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754415,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+			[51] = 1670717702,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [62]
 		{
-			"not helpful to you rn tho", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"?", -- [1]
+			"Menorzin-Stormrage", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Menorzin-Stormrage", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			409, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1291, -- [11]
+			"Player-60-0EE7C234", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754421,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+			[51] = 1670717703,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [63]
 		{
-			"time traveling gnome. like dwarves in elder scrolls", -- [1]
+			"this boss is beasty", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1398,7 +1398,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			410, -- [11]
+			1294, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1406,55 +1406,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754433,
+			[51] = 1670717789,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [64]
 		{
-			"sorta, except this gnome is really a bronze dragon", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
+			"one more time and i will report you you ask a person first ", -- [1]
+			"Swiftey-Area52", -- [2]
+			"Common", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Swiftey-Area52", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			0, -- [10]
-			411, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			7, -- [10]
+			1336, -- [11]
+			"Player-3676-0A250B98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754442,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffff7c0aSwiftey-Area52|r",
+			[51] = 1670717976,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [65]
 		{
-			"wow such a beast", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			412, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754443,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
-		{
-			"they have time magic", -- [1]
+			"ok you can leave instance group", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1464,7 +1442,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			413, -- [11]
+			1338, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1472,77 +1450,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754444,
+			[51] = 1670717979,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [66]
+		{
+			"lol that guy usually dies quick so either the scaling is all screwed up or our dps was just really low", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1339, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670717991,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [67]
 		{
-			"wanna do tanuk tanuk tun", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"damn druid wasn't doing shit", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			415, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1340, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754459,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670718031,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
 		{
-			"wat dat is", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			417, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754475,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
-		{
-			"how do i move my skills around on the skill bar", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			418, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754543,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
-		{
-			"hold shift to temporarily unlock it", -- [1]
+			"Details!: Dynamic Overall Damage (custom) for Lord Harlan Sweete [5:57 EF]", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1552,7 +1508,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			419, -- [11]
+			1342, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1560,11 +1516,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754561,
+			[51] = 1670718007,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [69]
+		{
+			"1. Menorzin ......... 3.05M (1.7K%)", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1343, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718007,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [70]
+		{
+			"2. Asaam ............ 1.39M (776%)", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1344, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718007,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [71]
 		{
-			"you see that video", -- [1]
+			"3. Niceblumpkin  1.20M (671%)", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1574,7 +1574,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			420, -- [11]
+			1345, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1582,9 +1582,141 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754582,
+			[51] = 1670718007,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
+		{
+			"4. Zbrazucka ..... 519K (290%)", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1346, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718007,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [73]
+		{
+			"5. Ïriis .................... 4.6K (3%)", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1347, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718008,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [74]
+		{
+			"which one was menorzin?", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Niceblumpkin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1350, -- [11]
+			"Player-3685-0DF762C3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670718067,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [75]
+		{
+			"he was the gnome mage", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1351, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718132,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [76]
+		{
+			"ok do you know how to get back to boralus", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1352, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718142,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [77]
+		{
+			"nag", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Niceblumpkin-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1354, -- [11]
+			"Player-3685-0DF762C3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670718149,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
 		{
 			"nay", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
@@ -1596,7 +1728,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			421, -- [11]
+			1355, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1604,143 +1736,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754603,
+			[51] = 1670718152,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
-		{
-			"i dm'd you on discord", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			422, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754612,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
-		{
-			"https://youtu.be/eZ2PtEx9-ls", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			423, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754627,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
-		{
-			"not sure if the new blizzard UI has clickable links in its chat thing", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			424, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754638,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"lmao", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			425, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754658,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
-		{
-			"i love this song", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			426, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754662,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
-		{
-			"look at my dance whie you listen to it", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			427, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754668,
-			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"its the same dance", -- [1]
+			"i need to get miles some food, he's taking everything out of the pantry lol", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1750,7 +1750,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			428, -- [11]
+			1356, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1758,11 +1758,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754670,
+			[51] = 1670718155,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [80]
 		{
-			"lol they added that into the game?", -- [1]
+			"lol no worries", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1772,7 +1772,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			429, -- [11]
+			1357, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1780,11 +1780,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754683,
+			[51] = 1670718163,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"for dranei yeah lol", -- [1]
+			"you can either take the boat from stormwind or you can hearth", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1794,7 +1794,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			430, -- [11]
+			1359, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1802,11 +1802,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754693,
+			[51] = 1670718167,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [82]
 		{
-			"lol epic", -- [1]
+			"ok", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1816,7 +1816,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			431, -- [11]
+			1360, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1824,11 +1824,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754717,
+			[51] = 1670718174,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"ok let's see if we can find a group", -- [1]
+			"|cffffff00|Hworldmap:84:2164:5549|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1838,7 +1838,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			435, -- [11]
+			1361, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1846,11 +1846,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754737,
+			[51] = 1670718121,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [84]
 		{
-			"oh balls we can't until lv 50", -- [1]
+			"that's where the boat is to boralus", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1860,7 +1860,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			436, -- [11]
+			1362, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1868,11 +1868,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754758,
+			[51] = 1670718190,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [85]
 		{
-			"what are we going to do? i told harely i'd get up hella early with him so im trying to be in bed by 11 at the latest", -- [1]
+			"it shares a dock with the one that goes to dragon isles so make sure the boat you're getting on is facing to the left", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1363, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718204,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [86]
+		{
+			"sweeet", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1882,7 +1904,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			437, -- [11]
+			1365, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1890,33 +1912,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754763,
+			[51] = 1670718219,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
-		{
-			"we just gonna go to a open field and smash elementals for a bit", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			438, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754779,
-			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [87]
 		{
-			"but we should do it in a big group so you get all the exp", -- [1]
+			"i will be back in a few mins", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1926,7 +1926,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			439, -- [11]
+			1366, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1934,11 +1934,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754790,
+			[51] = 1670718227,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [88]
 		{
-			"ok sweet", -- [1]
+			"oh shit come here", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1370, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718296,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [89]
+		{
+			"can you use that", -- [1]
+			"Asaam-Turalyon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Asaam-Turalyon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1372, -- [11]
+			"Player-3685-0D056B5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718315,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [90]
+		{
+			"its level 52", -- [1]
 			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1948,7 +1992,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			440, -- [11]
+			1373, -- [11]
 			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1956,65 +2000,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1668754818,
+			[51] = 1670718329,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
-		{
-			"let me try on my mage", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			441, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754827,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
-		{
-			"brb", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			442, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668754831,
-			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [91]
 		{
-			"./", -- [1]
+			"oh balls", -- [1]
 			"Asaam-Turalyon", -- [2]
-			"Common", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			71, -- [11]
+			0, -- [10]
+			1375, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2022,55 +2022,55 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1668997933,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1670718333,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [92]
 		{
-			"Lmao", -- [1]
-			"Dreamerlul-Stormrage", -- [2]
+			"ok ill brb", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dreamerlul-Stormrage", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			285, -- [11]
-			"Player-60-0EE0772F", -- [12]
+			1377, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDreamerlul-Stormrage|r",
-			[51] = 1669077212,
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718350,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [93]
 		{
-			"ty <3", -- [1]
-			"Dreamerlul-Stormrage", -- [2]
+			"kk", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dreamerlul-Stormrage", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			286, -- [11]
-			"Player-60-0EE0772F", -- [12]
+			1378, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDreamerlul-Stormrage|r",
-			[51] = 1669077216,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670718355,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			":)", -- [1]
+			"8388-888888120888858888486898*/88-8+888888", -- [1]
 			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2080,7 +2080,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			291, -- [11]
+			1383, -- [11]
 			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2088,119 +2088,119 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1669077279,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1670718507,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [95]
 		{
-			"hello again", -- [1]
-			"Dreamerlul-Stormrage", -- [2]
+			"hmm miles was playing my computer i see", -- [1]
+			"Asaam-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dreamerlul-Stormrage", -- [5]
+			"Asaam-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			605, -- [11]
-			"Player-60-0EE0772F", -- [12]
+			1401, -- [11]
+			"Player-3685-0D056B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDreamerlul-Stormrage|r",
-			[51] = 1669079184,
+			[52] = "|cffc41e3aAsaam|r",
+			[51] = 1670718943,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [96]
 		{
-			"haha", -- [1]
-			"Dreamerlul-Stormrage", -- [2]
+			"lol yes", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dreamerlul-Stormrage", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			608, -- [11]
-			"Player-60-0EE0772F", -- [12]
+			1402, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDreamerlul-Stormrage|r",
-			[51] = 1669079185,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670718954,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"hey :)", -- [1]
-			"Asaam-Turalyon", -- [2]
+			"i got transported for a quest now im back to where i was earlier after using my stone", -- [1]
+			"Niceblumpkin-Turalyon", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Asaam-Turalyon", -- [5]
+			"Niceblumpkin-Turalyon", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			610, -- [11]
-			"Player-3685-0D056B5D", -- [12]
+			1406, -- [11]
+			"Player-3685-0DF762C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1669079193,
+			[52] = "|cffaad372Niceblumpkin|r",
+			[51] = 1670719053,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [98]
 		{
-			"So this is the Rexxar from our timeline right? not this one?", -- [1]
-			"Medkits-Stormrage", -- [2]
+			"self proclaimed best leatherworker ready for work. come get your blue tool |cffffd000|Htrade:Player-3685-0CD64011:2108:165|h[Leatherworking]|h|r", -- [1]
+			"Llalow-Turalyon", -- [2]
 			"", -- [3]
-			"1. General - Gorgrond", -- [4]
-			"Medkits-Stormrage", -- [5]
+			"2. Trade - City", -- [4]
+			"Llalow-Turalyon", -- [5]
 			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Gorgrond", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			972, -- [11]
-			"Player-60-0EE078A3", -- [12]
+			1469, -- [11]
+			"Player-3685-0CD64011", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfff48cbaMedkits-Stormrage|r",
-			[51] = 1669103016,
+			[52] = "|cffff7c0aLlalow|r",
+			[51] = 1670721176,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/p hold shift to temporarily unlock it", -- [1]
-		"/p you see that video", -- [2]
-		"/p i dm'd you on discord", -- [3]
-		"/p https://youtu.be/eZ2PtEx9-ls", -- [4]
-		"/p not sure if the new blizzard UI has clickable links in its chat thing", -- [5]
-		"/p look at my dance whie you listen to it", -- [6]
-		"/p its the same dance", -- [7]
-		"/p for dranei yeah lol", -- [8]
-		"/p ok let's see if we can find a group", -- [9]
-		"/p oh balls we can't until lv 50", -- [10]
-		"/p we just gonna go to a open field and smash elementals for a bit", -- [11]
-		"/p but we should do it in a big group so you get all the exp", -- [12]
-		"/p let me try on my mage", -- [13]
-		"/p brb", -- [14]
-		"/s ./", -- [15]
-		"/knp", -- [16]
-		"/weakauras", -- [17]
-		"/p :)", -- [18]
-		"/p hey :)", -- [19]
-		"/macro", -- [20]
+		"/p or hes like afk", -- [1]
+		"/p sorry im so slow, miles is being a handful", -- [2]
+		"/p shes recovering from surgery she had yesterday", -- [3]
+		"/p had to get a dnc", -- [4]
+		"/p ok you can leave instance group", -- [5]
+		"/p lol that guy usually dies quick so either the scaling is all screwed up or our dps was just really low", -- [6]
+		"/p he was the gnome mage", -- [7]
+		"/p ok do you know how to get back to boralus", -- [8]
+		"/p i need to get miles some food, he's taking everything out of the pantry lol", -- [9]
+		"/p you can either take the boat from stormwind or you can hearth", -- [10]
+		"/p |cffffff00|Hworldmap:84:2164:5549|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [11]
+		"/p that's where the boat is to boralus", -- [12]
+		"/p it shares a dock with the one that goes to dragon isles so make sure the boat you're getting on is facing to the left", -- [13]
+		"/p i will be back in a few mins", -- [14]
+		"/p oh shit come here", -- [15]
+		"/p can you use that", -- [16]
+		"/p oh balls", -- [17]
+		"/p ok ill brb", -- [18]
+		"/p 8388-888888120888858888486898*/88-8+888888", -- [19]
+		"/p hmm miles was playing my computer i see", -- [20]
 	},
 	["ConvertKeybindings"] = true,
 }

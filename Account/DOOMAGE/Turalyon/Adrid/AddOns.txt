@@ -13,7 +13,7 @@ TipTac: disabled
 Pawn: disabled
 HiddenSkinTracker: disabled
 BattlegroundTargets: disabled
-AtlasLoot: enabled
+AtlasLoot: disabled
 WorldQuestTracker: enabled
 ElvUI_BenikUI: enabled
 ElvUI_EverySecondCounts: disabled
@@ -192,3 +192,4 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 ElvUI_RatioMinimapAuras: disabled
+CursorRing: disabled

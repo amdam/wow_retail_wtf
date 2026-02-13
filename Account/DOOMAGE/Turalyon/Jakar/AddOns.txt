@@ -22,7 +22,7 @@ AtlasLoot_BurningCrusade: enabled
 AtlasLoot_Cataclysm: enabled
 AtlasLoot_Classic: enabled
 AtlasLoot_Collections: enabled
-AtlasLoot: enabled
+AtlasLoot: disabled
 AtlasLoot_Crafting: enabled
 AtlasLoot_Dragonflight: enabled
 AtlasLoot_Factions: enabled
@@ -167,3 +167,4 @@ SharedMedia_Causese: enabled
 SharedMedia_Quazii: enabled
 Syndicator: enabled
 ElvUI_RatioMinimapAuras: disabled
+CursorRing: disabled

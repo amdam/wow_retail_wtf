@@ -91,7 +91,7 @@ AffDots: disabled
 affdots-mage: disabled
 TidyPlates_ThreatPlates: enabled
 ACP: enabled
-AtlasLoot: enabled
+AtlasLoot: disabled
 AtlasLoot_BurningCrusade: enabled
 AtlasLoot_Cataclysm: enabled
 AtlasLoot_ClassicWoW: enabled
@@ -296,3 +296,4 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 ElvUI_RatioMinimapAuras: disabled
+CursorRing: disabled

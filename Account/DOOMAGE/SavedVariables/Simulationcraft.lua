@@ -1,6 +1,8 @@
 
 SimulationCraftDB = {
 ["profileKeys"] = {
+["Ezray - Turalyon"] = "Ezray - Turalyon",
+["Wake - Bloodscalp"] = "Wake - Bloodscalp",
 ["Allevin - Turalyon"] = "Allevin - Turalyon",
 ["Svend - Turalyon"] = "Svend - Turalyon",
 ["Adaam - Turalyon"] = "Adaam - Turalyon",
@@ -13,33 +15,50 @@ SimulationCraftDB = {
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Caris - Turalyon"] = "Caris - Turalyon",
+["Experiment - Whisperwind"] = "Experiment - Whisperwind",
 ["Artoc - Silvermoon"] = "Artoc - Silvermoon",
 ["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
+["Fredus - Turalyon"] = "Fredus - Turalyon",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 ["Fernie - Turalyon"] = "Fernie - Turalyon",
+["Broddah - Doomhammer"] = "Broddah - Doomhammer",
+["Donnd - Turalyon"] = "Donnd - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
-["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
+["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
+["Drund - Turalyon"] = "Drund - Turalyon",
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Christifur - Turalyon"] = "Christifur - Turalyon",
+["Dreg - Turalyon"] = "Dreg - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
-["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Christifur - Turalyon"] = "Christifur - Turalyon",
+["Frake - Turalyon"] = "Frake - Turalyon",
+["Luthro - Turalyon"] = "Luthro - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
+["Dugan - Turalyon"] = "Dugan - Turalyon",
+["Taybae - Turalyon"] = "Taybae - Turalyon",
 ["Adris - Turalyon"] = "Adris - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Broddah - Doomhammer"] = "Broddah - Doomhammer",
+["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
 ["Shado - Turalyon"] = "Shado - Turalyon",
 },
 ["profiles"] = {
+["Ezray - Turalyon"] = {
+},
+["Wake - Bloodscalp"] = {
+},
 ["Allevin - Turalyon"] = {
 },
 ["Svend - Turalyon"] = {
@@ -71,19 +90,31 @@ SimulationCraftDB = {
 },
 ["Caris - Turalyon"] = {
 },
+["Experiment - Whisperwind"] = {
+},
 ["Artoc - Silvermoon"] = {
 },
 ["Adamantium - Turalyon"] = {
 },
 ["Adamn - Turalyon"] = {
 },
+["Fredus - Turalyon"] = {
+},
+["Adomic - Turalyon"] = {
+},
 ["Fernie - Turalyon"] = {
+},
+["Broddah - Doomhammer"] = {
+},
+["Donnd - Turalyon"] = {
 },
 ["Kurate - Turalyon"] = {
 },
+["Sterbodhehm - Turalyon"] = {
+},
 ["Asaam - Turalyon"] = {
 },
-["Sterbodhehm - Turalyon"] = {
+["Jeryn - Bloodscalp"] = {
 },
 ["Amdam - Turalyon"] = {
 ["frame"] = {
@@ -91,11 +122,15 @@ SimulationCraftDB = {
 ["ofsy"] = -0.5925581455230713,
 },
 },
+["Caseann - Turalyon"] = {
+},
 ["Badam - Turalyon"] = {
 ["frame"] = {
 ["ofsx"] = 7.780948362778872e-05,
 ["ofsy"] = 3.890474181389436e-05,
 },
+},
+["Drund - Turalyon"] = {
 },
 ["Kaydan - Turalyon"] = {
 },
@@ -103,19 +138,23 @@ SimulationCraftDB = {
 },
 ["Adreya - Bloodscalp"] = {
 },
+["Brewenjoyer - Turalyon"] = {
+},
 ["Amdamn - Bloodscalp"] = {
 },
 ["Drunkan - Turalyon"] = {
 },
-["Adomic - Turalyon"] = {
+["Christifur - Turalyon"] = {
+},
+["Dreg - Turalyon"] = {
 },
 ["Adonis - Turalyon"] = {
 },
 ["Powerpriest - Turalyon"] = {
 },
-["Dreg - Turalyon"] = {
+["Frake - Turalyon"] = {
 },
-["Christifur - Turalyon"] = {
+["Luthro - Turalyon"] = {
 },
 ["Kayne - Turalyon"] = {
 ["frame"] = {
@@ -124,6 +163,7 @@ SimulationCraftDB = {
 },
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,
+["hide"] = true,
 },
 },
 ["Adrid - Turalyon"] = {
@@ -132,11 +172,17 @@ SimulationCraftDB = {
 ["ofsy"] = 3.890474181389436e-05,
 },
 },
+["Fife - The Forgotten Coast"] = {
+},
+["Dugan - Turalyon"] = {
+},
+["Taybae - Turalyon"] = {
+},
 ["Adris - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Broddah - Doomhammer"] = {
+["Ninjee - Whisperwind"] = {
 },
 ["Shado - Turalyon"] = {
 },

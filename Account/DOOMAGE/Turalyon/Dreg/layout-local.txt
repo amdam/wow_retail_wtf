@@ -1,4 +1,11 @@
 Version: 1
+Frame: PrePathPanel
+FrameLevel: 1
+Anchor: LEFT
+X: 0
+Y: 128
+W: 110
+H: 22
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -9,7 +16,7 @@ H: 250
 Frame: GroupLootHistoryFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -3
+X: -72
 Y: 138
 W: 261
 H: 590

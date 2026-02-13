@@ -1,6 +1,7 @@
 
 OmniCCDB = {
 ["profileKeys"] = {
+["Ezray - Turalyon"] = "Default",
 ["Allevin - Turalyon"] = "Default",
 ["Svend - Turalyon"] = "Default",
 ["Adaam - Turalyon"] = "Default",
@@ -18,27 +19,36 @@ OmniCCDB = {
 ["Fernie - Turalyon"] = "Default",
 ["Christifur - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
+["Fredus - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
+["Adomic - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
+["Drund - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Christoff - Turalyon"] = "Default",
 ["Adreya - Bloodscalp"] = "Default",
+["Donnd - Turalyon"] = "Default",
 ["Amdamn - Bloodscalp"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
-["Adonis - Turalyon"] = "Default",
-["Adomic - Turalyon"] = "Default",
+["Asaam - Turalyon"] = "Default",
+["Artoc - Zul'jin"] = "Default",
 ["Powerpriest - Turalyon"] = "Default",
+["Adonis - Turalyon"] = "Default",
+["Frake - Turalyon"] = "Default",
+["Luthro - Turalyon"] = "Default",
 ["Broddah - Doomhammer"] = "Default",
 ["Kurate - Turalyon"] = "Default",
-["Artoc - Zul'jin"] = "Default",
-["Asaam - Turalyon"] = "Default",
-["Tupac - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
+["Dugan - Turalyon"] = "Default",
+["Taybae - Turalyon"] = "Default",
+["Brewenjoyer - Turalyon"] = "Default",
+["Tupac - Turalyon"] = "Default",
+["Caseann - Turalyon"] = "Default",
 ["Shado - Turalyon"] = "Default",
 },
 ["global"] = {
 ["dbVersion"] = 6,
-["addonVersion"] = "11.2.5",
+["addonVersion"] = "11.2.8",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -66,11 +76,11 @@ OmniCCDB = {
 ["themes"] = {
 ["Plater Nameplates Theme"] = {
 ["textStyles"] = {
-["minutes"] = {
-},
 ["seconds"] = {
 },
 ["soon"] = {
+},
+["minutes"] = {
 },
 },
 },
@@ -89,10 +99,10 @@ OmniCCDB = {
 ["scale"] = 0.75000000372529,
 },
 ["charging"] = {
-["b"] = 0.4,
+["r"] = 1,
 ["scale"] = 0.650000002235174,
 ["g"] = 0.98,
-["r"] = 1,
+["b"] = 0.4,
 },
 ["controlled"] = {
 ["scale"] = 1.50000001490116,
@@ -104,17 +114,17 @@ OmniCCDB = {
 },
 ["Ignore"] = {
 ["textStyles"] = {
-["minutes"] = {
+["soon"] = {
 },
 ["seconds"] = {
 },
-["soon"] = {
+["minutes"] = {
 },
 ["charging"] = {
-["b"] = 0.4,
+["r"] = 1,
 ["scale"] = 0.65,
 ["g"] = 0.98,
-["r"] = 1,
+["b"] = 0.4,
 },
 },
 ["minDuration"] = 3,

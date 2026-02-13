@@ -1,2206 +1,2206 @@
 
 ElvCharacterDB = {
-	["ChatHistoryLog"] = {
-		{
-			"almost did", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			983, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715379,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"dannnggg", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			984, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715386,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"bastards", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			989, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715444,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
-			"you have to click accept when the queue pops", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			992, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715498,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
-		{
-			"wooo", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1001, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715553,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"fuck", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1028, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715699,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [6]
-		{
-			"what hapenn", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1033, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715660,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"i got punted off", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1037, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715732,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [8]
-		{
-			"up here", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1042, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715764,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"how dare you", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1043, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715775,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"why'd you run out lol", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1045, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715721,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [11]
-		{
-			"idk lol", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1048, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715815,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"you might have to click the eyeball icon on your minimap and do teleport to dungeon", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1049, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715816,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [13]
-		{
-			"i thought you left", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1050, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715826,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
-		{
-			"no i died lol", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1051, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715831,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"fell down there where there were a ton of mobs so i died and released", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1052, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715782,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"oh i see", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1057, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715881,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"stand out here", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1059, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715841,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
-		{
-			"and shoot him from outside this circle", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1062, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715909,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [19]
-		{
-			"ok now here he comes", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1071, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715974,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
-		{
-			"go stand out there where i showed you", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1073, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670715978,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
-		{
-			"WTF", -- [1]
-			"Menorzin-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menorzin-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1076, -- [11]
-			"Player-60-0EE7C234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
-			[51] = 1670716014,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"is that so he doesnt target me?", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1077, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670715967,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"yeah he shouldn't charge out there", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1079, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716035,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"weird", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1080, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716045,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
-		{
-			"just dodge him i guess", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1081, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716048,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [26]
-		{
-			"lol yeah", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1082, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716051,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
-		{
-			"you're mobile", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1083, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716051,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [28]
-		{
-			"kkkk", -- [1]
-			"Zbrazucka-Azralon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zbrazucka-Azralon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1085, -- [11]
-			"Player-3209-0B918C9E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aZbrazucka-Azralon|r",
-			[51] = 1670716075,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"whats with the loot lol", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1102, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716226,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [30]
-		{
-			"what is the loot situation", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1104, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716205,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"the mage got leather and the druid got mail", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1105, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716278,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [32]
-		{
-			"neither of them can use those, normally that doesnt happen", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1106, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716284,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [33]
-		{
-			"shit must be bugged", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1107, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716287,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
-		{
-			"bastards", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1108, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716288,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
-		{
-			"nooooo", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1153, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716605,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"ill rez you bro", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1154, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716647,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [37]
-		{
-			"thanjks bro", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1155, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716654,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
-		{
-			"you using that multi shot bro", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1189, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716916,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [39]
-		{
-			"yeah bro", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1190, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716864,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"i only have to use it for like a second to trigger splash right?", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1192, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670716937,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
-		{
-			"Ricocheting Throw on Asaam", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1193, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716942,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"yea but it only lasts a few seconds", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1195, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716958,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
-		{
-			"so every 6 or 8 sec you need to use it", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1197, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716964,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [44]
-		{
-			"oh i see", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1206, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717000,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
-		{
-			"kill mob", -- [1]
-			"Menorzin-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menorzin-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1209, -- [11]
-			"Player-60-0EE7C234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
-			[51] = 1670717022,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"...", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1211, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717034,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"that isnt part of the fight", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1213, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670716982,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"if a shark is after you, youll have to kite it", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1222, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717218,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
-		{
-			"stupid sharks", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1223, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717265,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
-		{
-			"this druid is just leeching", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1224, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717310,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
-		{
-			"doing half my dps", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1225, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717321,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
-		{
-			"and im the tank", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1226, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717326,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
-		{
-			"so he sucks", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1227, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717288,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"or hes like afk", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1233, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717365,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
-		{
-			"sorry im so slow, miles is being a handful", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1234, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717346,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
-		{
-			"its ok bro, i know taylor has to read her porn", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1236, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717433,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
-		{
-			"shes recovering from surgery she had yesterday", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1241, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717452,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
-		{
-			"had to get a dnc", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1245, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717403,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
-		{
-			"oh really", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1248, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717490,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
-		{
-			"how dare they", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1277, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717694,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
-		{
-			" heaçer afk", -- [1]
-			"Menorzin-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menorzin-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1289, -- [11]
-			"Player-60-0EE7C234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
-			[51] = 1670717702,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [62]
-		{
-			"?", -- [1]
-			"Menorzin-Stormrage", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Menorzin-Stormrage", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1291, -- [11]
-			"Player-60-0EE7C234", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc7ebMenorzin-Stormrage|r",
-			[51] = 1670717703,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [63]
-		{
-			"this boss is beasty", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1294, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670717789,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
-		{
-			"one more time and i will report you you ask a person first ", -- [1]
-			"Swiftey-Area52", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Swiftey-Area52", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			7, -- [10]
-			1336, -- [11]
-			"Player-3676-0A250B98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aSwiftey-Area52|r",
-			[51] = 1670717976,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
-		{
-			"ok you can leave instance group", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1338, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717979,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
-		{
-			"lol that guy usually dies quick so either the scaling is all screwed up or our dps was just really low", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1339, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670717991,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [67]
-		{
-			"damn druid wasn't doing shit", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1340, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718031,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"Details!: Dynamic Overall Damage (custom) for Lord Harlan Sweete [5:57 EF]", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1342, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718007,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
-		{
-			"1. Menorzin ......... 3.05M (1.7K%)", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1343, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718007,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
-		{
-			"2. Asaam ............ 1.39M (776%)", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1344, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718007,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
-		{
-			"3. Niceblumpkin  1.20M (671%)", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1345, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718007,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [72]
-		{
-			"4. Zbrazucka ..... 519K (290%)", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1346, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718007,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
-		{
-			"5. Ïriis .................... 4.6K (3%)", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1347, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718008,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
-		{
-			"which one was menorzin?", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1350, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718067,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
-		{
-			"he was the gnome mage", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1351, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718132,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"ok do you know how to get back to boralus", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1352, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718142,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
-		{
-			"nag", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1354, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718149,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
-		{
-			"nay", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1355, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718152,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
-		{
-			"i need to get miles some food, he's taking everything out of the pantry lol", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1356, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718155,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
-		{
-			"lol no worries", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1357, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718163,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
-		{
-			"you can either take the boat from stormwind or you can hearth", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1359, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718167,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
-		{
-			"ok", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1360, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718174,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
-		{
-			"|cffffff00|Hworldmap:84:2164:5549|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1361, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718121,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
-		{
-			"that's where the boat is to boralus", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1362, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718190,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
-		{
-			"it shares a dock with the one that goes to dragon isles so make sure the boat you're getting on is facing to the left", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1363, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718204,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
-		{
-			"sweeet", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1365, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718219,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
-		{
-			"i will be back in a few mins", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1366, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718227,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
-		{
-			"oh shit come here", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1370, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718296,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
-		{
-			"can you use that", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1372, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718315,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
-		{
-			"its level 52", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1373, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718329,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
-		{
-			"oh balls", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1375, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718333,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"ok ill brb", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1377, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718350,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
-		{
-			"kk", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1378, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718355,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
-		{
-			"8388-888888120888858888486898*/88-8+888888", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1383, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718507,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
-		{
-			"hmm miles was playing my computer i see", -- [1]
-			"Asaam-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Asaam-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1401, -- [11]
-			"Player-3685-0D056B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aAsaam|r",
-			[51] = 1670718943,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
-		{
-			"lol yes", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1402, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670718954,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
-		{
-			"i got transported for a quest now im back to where i was earlier after using my stone", -- [1]
-			"Niceblumpkin-Turalyon", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Niceblumpkin-Turalyon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1406, -- [11]
-			"Player-3685-0DF762C3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Niceblumpkin|r",
-			[51] = 1670719053,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
-		{
-			"self proclaimed best leatherworker ready for work. come get your blue tool |cffffd000|Htrade:Player-3685-0CD64011:2108:165|h[Leatherworking]|h|r", -- [1]
-			"Llalow-Turalyon", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Llalow-Turalyon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1469, -- [11]
-			"Player-3685-0CD64011", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffff7c0aLlalow|r",
-			[51] = 1670721176,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
-	},
-	["ChatEditHistory"] = {
-		"/p or hes like afk", -- [1]
-		"/p sorry im so slow, miles is being a handful", -- [2]
-		"/p shes recovering from surgery she had yesterday", -- [3]
-		"/p had to get a dnc", -- [4]
-		"/p ok you can leave instance group", -- [5]
-		"/p lol that guy usually dies quick so either the scaling is all screwed up or our dps was just really low", -- [6]
-		"/p he was the gnome mage", -- [7]
-		"/p ok do you know how to get back to boralus", -- [8]
-		"/p i need to get miles some food, he's taking everything out of the pantry lol", -- [9]
-		"/p you can either take the boat from stormwind or you can hearth", -- [10]
-		"/p |cffffff00|Hworldmap:84:2164:5549|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [11]
-		"/p that's where the boat is to boralus", -- [12]
-		"/p it shares a dock with the one that goes to dragon isles so make sure the boat you're getting on is facing to the left", -- [13]
-		"/p i will be back in a few mins", -- [14]
-		"/p oh shit come here", -- [15]
-		"/p can you use that", -- [16]
-		"/p oh balls", -- [17]
-		"/p ok ill brb", -- [18]
-		"/p 8388-888888120888858888486898*/88-8+888888", -- [19]
-		"/p hmm miles was playing my computer i see", -- [20]
-	},
-	["ConvertKeybindings"] = true,
+["ChatHistoryLog"] = {
+{
+"almost did",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+983,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715379,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"dannnggg",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+984,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715386,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"bastards",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+989,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715444,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"you have to click accept when the queue pops",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+992,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715498,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"wooo",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1001,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715553,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"fuck",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1028,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715699,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"what hapenn",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1033,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715660,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i got punted off",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1037,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715732,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"up here",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1042,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715764,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"how dare you",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1043,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715775,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"why'd you run out lol",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1045,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715721,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"idk lol",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1048,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715815,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"you might have to click the eyeball icon on your minimap and do teleport to dungeon",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1049,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715816,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"i thought you left",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1050,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715826,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"no i died lol",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1051,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715831,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"fell down there where there were a ton of mobs so i died and released",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1052,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715782,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh i see",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1057,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715881,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"stand out here",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1059,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715841,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"and shoot him from outside this circle",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1062,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715909,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ok now here he comes",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1071,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715974,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"go stand out there where i showed you",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1073,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670715978,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"WTF",
+"Menorzin-Stormrage",
+"",
+"",
+"Menorzin-Stormrage",
+"",
+0,
+0,
+"",
+0,
+1076,
+"Player-60-0EE7C234",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+[51] = 1670716014,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"is that so he doesnt target me?",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1077,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670715967,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"yeah he shouldn't charge out there",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1079,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716035,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"weird",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1080,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716045,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"just dodge him i guess",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1081,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716048,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol yeah",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1082,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716051,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"you're mobile",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1083,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716051,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"kkkk",
+"Zbrazucka-Azralon",
+"",
+"",
+"Zbrazucka-Azralon",
+"",
+0,
+0,
+"",
+0,
+1085,
+"Player-3209-0B918C9E",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aZbrazucka-Azralon|r",
+[51] = 1670716075,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"whats with the loot lol",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1102,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716226,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"what is the loot situation",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1104,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716205,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"the mage got leather and the druid got mail",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1105,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716278,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"neither of them can use those, normally that doesnt happen",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1106,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716284,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"shit must be bugged",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1107,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716287,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"bastards",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1108,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716288,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"nooooo",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1153,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716605,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"ill rez you bro",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1154,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716647,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"thanjks bro",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1155,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716654,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"you using that multi shot bro",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1189,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716916,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"yeah bro",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1190,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716864,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i only have to use it for like a second to trigger splash right?",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1192,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670716937,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"Ricocheting Throw on Asaam",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1193,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716942,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"yea but it only lasts a few seconds",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1195,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716958,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"so every 6 or 8 sec you need to use it",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1197,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716964,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh i see",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1206,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717000,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"kill mob",
+"Menorzin-Stormrage",
+"",
+"",
+"Menorzin-Stormrage",
+"",
+0,
+0,
+"",
+0,
+1209,
+"Player-60-0EE7C234",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+[51] = 1670717022,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"...",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1211,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717034,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"that isnt part of the fight",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1213,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670716982,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"if a shark is after you, youll have to kite it",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1222,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717218,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"stupid sharks",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1223,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717265,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"this druid is just leeching",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1224,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717310,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"doing half my dps",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1225,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717321,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"and im the tank",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1226,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717326,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"so he sucks",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1227,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717288,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"or hes like afk",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1233,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717365,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"sorry im so slow, miles is being a handful",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1234,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717346,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"its ok bro, i know taylor has to read her porn",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1236,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717433,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"shes recovering from surgery she had yesterday",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1241,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717452,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"had to get a dnc",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1245,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717403,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh really",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1248,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717490,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"how dare they",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1277,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717694,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+" heaçer afk",
+"Menorzin-Stormrage",
+"",
+"",
+"Menorzin-Stormrage",
+"",
+0,
+0,
+"",
+0,
+1289,
+"Player-60-0EE7C234",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+[51] = 1670717702,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"?",
+"Menorzin-Stormrage",
+"",
+"",
+"Menorzin-Stormrage",
+"",
+0,
+0,
+"",
+0,
+1291,
+"Player-60-0EE7C234",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cff3fc7ebMenorzin-Stormrage|r",
+[51] = 1670717703,
+[50] = "CHAT_MSG_INSTANCE_CHAT",
+},
+{
+"this boss is beasty",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1294,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670717789,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"one more time and i will report you you ask a person first ",
+"Swiftey-Area52",
+"Common",
+"",
+"Swiftey-Area52",
+"",
+0,
+0,
+"",
+7,
+1336,
+"Player-3676-0A250B98",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffff7c0aSwiftey-Area52|r",
+[51] = 1670717976,
+[50] = "CHAT_MSG_SAY",
+},
+{
+"ok you can leave instance group",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1338,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717979,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol that guy usually dies quick so either the scaling is all screwed up or our dps was just really low",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1339,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670717991,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"damn druid wasn't doing shit",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1340,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718031,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"Details!: Dynamic Overall Damage (custom) for Lord Harlan Sweete [5:57 EF]",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1342,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718007,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"1. Menorzin ......... 3.05M (1.7K%)",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1343,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718007,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"2. Asaam ............ 1.39M (776%)",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1344,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718007,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"3. Niceblumpkin  1.20M (671%)",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1345,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718007,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"4. Zbrazucka ..... 519K (290%)",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1346,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718007,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"5. Ïriis .................... 4.6K (3%)",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1347,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718008,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"which one was menorzin?",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1350,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718067,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"he was the gnome mage",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1351,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718132,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ok do you know how to get back to boralus",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1352,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718142,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"nag",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1354,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718149,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"nay",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1355,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718152,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i need to get miles some food, he's taking everything out of the pantry lol",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1356,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718155,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol no worries",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1357,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718163,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"you can either take the boat from stormwind or you can hearth",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1359,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718167,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ok",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1360,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718174,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"|cffffff00|Hworldmap:84:2164:5549|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1361,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718121,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"that's where the boat is to boralus",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1362,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718190,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"it shares a dock with the one that goes to dragon isles so make sure the boat you're getting on is facing to the left",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1363,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718204,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"sweeet",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1365,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718219,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i will be back in a few mins",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1366,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718227,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"oh shit come here",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1370,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718296,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"can you use that",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1372,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718315,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"its level 52",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1373,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718329,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"oh balls",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1375,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718333,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"ok ill brb",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1377,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718350,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"kk",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1378,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718355,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"8388-888888120888858888486898*/88-8+888888",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1383,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718507,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"hmm miles was playing my computer i see",
+"Asaam-Turalyon",
+"",
+"",
+"Asaam-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1401,
+"Player-3685-0D056B5D",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffc41e3aAsaam|r",
+[51] = 1670718943,
+[50] = "CHAT_MSG_PARTY_LEADER",
+},
+{
+"lol yes",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1402,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670718954,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"i got transported for a quest now im back to where i was earlier after using my stone",
+"Niceblumpkin-Turalyon",
+"",
+"",
+"Niceblumpkin-Turalyon",
+"",
+0,
+0,
+"",
+0,
+1406,
+"Player-3685-0DF762C3",
+0,
+false,
+false,
+false,
+false,
+[52] = "|cffaad372Niceblumpkin|r",
+[51] = 1670719053,
+[50] = "CHAT_MSG_PARTY",
+},
+{
+"self proclaimed best leatherworker ready for work. come get your blue tool |cffffd000|Htrade:Player-3685-0CD64011:2108:165|h[Leatherworking]|h|r",
+"Llalow-Turalyon",
+"",
+"2. Trade - City",
+"Llalow-Turalyon",
+"",
+2,
+2,
+"Trade - City",
+0,
+1469,
+"Player-3685-0CD64011",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cffff7c0aLlalow|r",
+[51] = 1670721176,
+[50] = "CHAT_MSG_CHANNEL",
+},
+},
+["ChatEditHistory"] = {
+"/p or hes like afk",
+"/p sorry im so slow, miles is being a handful",
+"/p shes recovering from surgery she had yesterday",
+"/p had to get a dnc",
+"/p ok you can leave instance group",
+"/p lol that guy usually dies quick so either the scaling is all screwed up or our dps was just really low",
+"/p he was the gnome mage",
+"/p ok do you know how to get back to boralus",
+"/p i need to get miles some food, he's taking everything out of the pantry lol",
+"/p you can either take the boat from stormwind or you can hearth",
+"/p |cffffff00|Hworldmap:84:2164:5549|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r",
+"/p that's where the boat is to boralus",
+"/p it shares a dock with the one that goes to dragon isles so make sure the boat you're getting on is facing to the left",
+"/p i will be back in a few mins",
+"/p oh shit come here",
+"/p can you use that",
+"/p oh balls",
+"/p ok ill brb",
+"/p 8388-888888120888858888486898*/88-8+888888",
+"/p hmm miles was playing my computer i see",
+},
+["ConvertKeybindings"] = true,
 }

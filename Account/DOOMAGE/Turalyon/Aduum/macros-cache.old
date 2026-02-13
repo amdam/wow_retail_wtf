@@ -31,7 +31,7 @@ VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier] Corruption; /cast [modifier:alt] Seed of Corruption
+/cast [mod:alt,known:Cataclysm,@cursor] Cataclysm; [mod:alt,known:Seed of Corruption] Seed of Corruption; Corruption;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
@@ -46,7 +46,7 @@ VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Mortal Coil] Mortal Coil; Power Siphon;
+/cast [mod:alt,known:Mortal Coil] Mortal Coil; [known:Channel Demonfire] Channel Demonfire; Power Siphon;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000B " " "134400"

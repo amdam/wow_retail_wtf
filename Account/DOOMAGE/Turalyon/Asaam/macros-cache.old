@@ -29,7 +29,7 @@ VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomodifier] Blood Boil; /cast [modifier:alt] Blooddrinker
+/cast [mod:alt,known:Blinding Sleet] Blinding Sleet;  Blood Boil;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"

@@ -1,0 +1,71 @@
+
+CursorRingDB = {
+["Havoc"] = {
+["mouseTrail"] = false,
+["sparkleColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["sparkleTrail"] = false,
+["castStyle"] = "ring",
+["castColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["ringColor"] = {
+["b"] = 0.7882353663444519,
+["g"] = 0.1882353127002716,
+["r"] = 0.6392157077789307,
+},
+["combatAlpha"] = 1,
+["trailColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["ringSize"] = 64,
+["ringEnabled"] = true,
+["outOfCombatAlpha"] = 1,
+["showOutOfCombat"] = true,
+["ringTexture"] = "ring.tga",
+["castEnabled"] = true,
+["noDot"] = false,
+["trailFadeTime"] = 0.6,
+},
+["Spec1"] = {
+["mouseTrail"] = false,
+["sparkleColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["sparkleTrail"] = false,
+["castStyle"] = "ring",
+["castColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["ringColor"] = {
+["b"] = 0.7882353663444519,
+["g"] = 0.1882353127002716,
+["r"] = 0.6392157077789307,
+},
+["combatAlpha"] = 1,
+["trailColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["ringSize"] = 64,
+["ringEnabled"] = true,
+["outOfCombatAlpha"] = 1,
+["showOutOfCombat"] = true,
+["ringTexture"] = "ring.tga",
+["castEnabled"] = true,
+["noDot"] = false,
+["trailFadeTime"] = 0.6,
+},
+}

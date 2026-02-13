@@ -20,7 +20,7 @@ VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Earthquake;[known:Earth Shock] Earth Shock; [known:Elemental Blast] Elemental Blast
+/cast [mod:alt,@cursor] Earthquake;[known:Earth Shock] Earth Shock; [known:Elemental Blast] Elemental Blast
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000008 " " "134400"
@@ -57,7 +57,7 @@ VER 3 010000000000000C " " "134400"
 END
 VER 3 010000000000000D " " "134400"
 #showtooltip
-/cast [mod:alt,known:Thunderstorm] Thunderstorm; Primordial Wave;
+/cast [mod:alt] Stormkeeper; [known:Primordial Wave] Primordial Wave; Stormkeeper;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000E " " "134400"
@@ -76,4 +76,8 @@ VER 3 0100000000000010 " " "134400"
 /stopcasting
 /cast [@focus,exists][] Wind Shear;
 /script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000011 " " "134400"
+#showtooltip
+/cast [@player] Skyfury
 END

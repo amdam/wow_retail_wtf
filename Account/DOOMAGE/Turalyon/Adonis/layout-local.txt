@@ -13,6 +13,13 @@ X: -3
 Y: 138
 W: 261
 H: 590
+Frame: FloatingBattlePetTooltip
+FrameLevel: 1
+Anchor: BOTTOM
+X: 0
+Y: 81
+W: 260
+H: 150
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: BOTTOM
@@ -25,5 +32,5 @@ FrameLevel: 1
 Anchor: CENTER
 X: -56
 Y: 9
-W: 500
-H: 300
+W: 784
+H: 260

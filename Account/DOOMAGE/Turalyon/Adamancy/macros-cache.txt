@@ -11,11 +11,11 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
+/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1] Arcane Missiles;
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:3] Icy Veins; [spec:1] Arcane Surge; [spec:2] Combustion;
+/cast [spec:3] Ray of Frost; [spec:1] Arcane Surge; [spec:2] Combustion;
 /cast Berserking
 /use 13
 /use Dreambinder, Loom of the Great Cycle

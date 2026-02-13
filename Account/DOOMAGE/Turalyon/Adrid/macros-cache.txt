@@ -85,7 +85,11 @@ VER 3 0100000000000013 " " "134400"
 END
 VER 3 0100000000000014 " " "134400"
 #showtooltip
-/cast Bestial Wrath
-/use 13
+/cast [mod:alt] Bursting Shot; Bestial Wrath
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "134400"
+#showtooltip
+/cast [mod:alt] Hunter's Mark; [known:Bloodshed] Bloodshed; Hunter's Mark
 /script UIErrorsFrame:Clear()
 END

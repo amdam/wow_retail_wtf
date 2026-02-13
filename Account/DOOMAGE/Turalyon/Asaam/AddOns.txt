@@ -21,7 +21,7 @@ RaiderIO_DB_EU_H_R: disabled
 RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_EU_A_R: disabled
 RaiderIO_DB_EU_A: disabled
-AtlasLoot: enabled
+AtlasLoot: disabled
 BattlegroundTargets: disabled
 HHTD: disabled
 HealBot: disabled
@@ -176,3 +176,4 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 ElvUI_RatioMinimapAuras: disabled
+CursorRing: disabled

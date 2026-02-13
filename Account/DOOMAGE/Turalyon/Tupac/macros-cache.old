@@ -1,8 +1,3 @@
-VER 3 0100000000000004 " " "134400"
-#showtooltip
-/use [@mouseover] Intercession;
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000005 " " "134400"
 #showtooltip
 /use [@mouseover, help, nodead][help, nodead][@player] Lay on Hands;
@@ -26,5 +21,15 @@ END
 VER 3 0100000000000003 " " "134400"
 #showtooltip
 /use [@mouseover, help, nodead][help, nodead][@player] Cleanse Toxins;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Execution Sentence] Execution Sentence; [mod:alt,known:Final Reckoning,@player] Final Reckoning; Templar's Verdict;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/use [@mouseover] Intercession;
 /script UIErrorsFrame:Clear()
 END

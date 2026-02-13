@@ -3,8 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/g sounds like not a ton of content tho",
-"/g ah yeah i heard its not even bis for some classes, will have to see if its worth it",
 "/g if its anything like circlet it'll be easy to max out and get what you need",
 "/g maybe they have buffed it since but last time i looked they hadn't even put stamina on it",
 "/g so the ilvl didnt really matter lol",
@@ -23,6 +21,8 @@ ElvCharacterDB = {
 "/g which is hardly fair to feral",
 "/raidinfo",
 "/played",
+"/cdm",
+"/plater",
 },
 ["ConvertKeybindings"] = true,
 }

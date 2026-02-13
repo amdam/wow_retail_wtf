@@ -1,6 +1,6 @@
 VER 3 0100000000000004 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Sigil of Spite,@cursor] Sigil of Spite; Blade Dance
+/cast [mod:alt,known:Sigil of Spite,@cursor] Sigil of Spite; [nochanneling] Blade Dance
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000003 " " "134400"
@@ -21,7 +21,7 @@ END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; [@cursor] Immolation Aura;
+/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; [nochanneling] Immolation Aura;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000007 " " "134400"
@@ -40,14 +40,9 @@ VER 3 0100000000000008 " " "134400"
 /cast [mod:alt,known:Fiery Brand] Fiery Brand; [mod:alt,known:Essence Break] Essence Break; Felblade;
 /script UIErrorsFrame:Clear()
 END
-VER 3 0100000000000009 " " "134400"
-#showtooltip
-/cast [mod:alt] Throw Glaive; [spec:2] Shear;
-/script UIErrorsFrame:Clear()
-END
 VER 3 010000000000000A " " "134400"
 #showtooltip
-/cast [mod:alt] Throw Glaive; Demon's Bite
+/cast [mod:alt,nochanneling] Throw Glaive; Demon's Bite
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000B " " "134400"
@@ -69,5 +64,15 @@ END
 VER 3 010000000000000E " " "134400"
 #showtooltip
 /cast Sigil of Chains
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [nochanneling] Chaos Strike;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000010 " " "134400"
+#showtooltip
+/cast [@cursor] Shift
 /script UIErrorsFrame:Clear()
 END

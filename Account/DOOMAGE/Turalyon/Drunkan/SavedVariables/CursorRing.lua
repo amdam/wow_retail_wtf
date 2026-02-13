@@ -1,0 +1,71 @@
+
+CursorRingDB = {
+["Brewmaster"] = {
+["outOfCombatAlpha"] = 1,
+["sparkleColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["mouseTrail"] = false,
+["ringTexture"] = "ring.tga",
+["castColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["sparkleTrail"] = false,
+["castStyle"] = "ring",
+["trailColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["ringSize"] = 64,
+["ringEnabled"] = true,
+["combatAlpha"] = 1,
+["showOutOfCombat"] = true,
+["ringColor"] = {
+["b"] = 0.5960784554481506,
+["g"] = 1,
+["r"] = 0,
+},
+["castEnabled"] = true,
+["noDot"] = false,
+["trailFadeTime"] = 0.6,
+},
+["Spec1"] = {
+["outOfCombatAlpha"] = 1,
+["sparkleColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["mouseTrail"] = false,
+["ringTexture"] = "ring.tga",
+["castColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["sparkleTrail"] = false,
+["castStyle"] = "ring",
+["trailColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
+["ringSize"] = 64,
+["ringEnabled"] = true,
+["combatAlpha"] = 1,
+["showOutOfCombat"] = true,
+["ringColor"] = {
+["b"] = 0.5960784554481506,
+["g"] = 1,
+["r"] = 0,
+},
+["castEnabled"] = true,
+["noDot"] = false,
+["trailFadeTime"] = 0.6,
+},
+}

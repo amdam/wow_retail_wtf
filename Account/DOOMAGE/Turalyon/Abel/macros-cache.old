@@ -17,12 +17,12 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Divine Star] Divine Star; [mod:alt,known:Halo] Halo; [spec:1] Penance; [spec:3] Devouring Plague;
+/cast [mod:alt,known:Divine Star] Divine Star; [mod:alt,known:Halo] Halo; [spec:1] Penance; [spec:3] Shadow Word: Madness;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@cursor] Angelic Feather
+/cast [@player] Angelic Feather
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -50,7 +50,7 @@ VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Shadow Crash,@cursor] Shadow Crash; Mind Blast;
+/cast [mod:alt,known:Tentacle Slam,@cursor] Tentacle Slam; Mind Blast;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
@@ -65,7 +65,7 @@ VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000E " " "134400"
 #showtooltip
-/cast [known:Dark Ascension] Dark Ascension; [known:Void Eruption] Void Eruption;
+/cast [known:Dark Ascension] Dark Ascension; [known:Voidform] Voidform;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000F " " "134400"
@@ -82,5 +82,16 @@ END
 VER 3 0100000000000011 " " "134400"
 #showtooltip
 /cast [mod:alt] Evangelism; [known:Premonition] Premonition; Evangelism
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000012 " " "134400"
+#showtooltip
+/cast [@player] Power Word: Shield
+/cast Fade
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000013 " " "134400"
+#showtooltip
+/cast [@player] Power Word: Fortitude
 /script UIErrorsFrame:Clear()
 END

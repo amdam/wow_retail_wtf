@@ -1,0 +1,30 @@
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/cast [mod:alt] Chain Lightning; [spec:2,known:Elemental Blast] Elemental Blast; Lightning Bolt
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/cast [mod:alt] Crash Lightning; Stormstrike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Primordial Wave] Primordial Wave; Feral Spirit
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [mod:alt] Earthquake; Earth Shock;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cast [mod:alt] Primordial Wave; Stormkeeper
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 "Artifact Ability" "134400"
+#plumber:lart
+#showtooltip Naran's Everdisc
+/cast Naran's Everdisc
+END

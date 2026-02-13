@@ -18,7 +18,7 @@ ElvUI_BenikUI: enabled
 Clique: enabled
 Details: enabled
 AngryKeystones: enabled
-AtlasLoot: enabled
+AtlasLoot: disabled
 MythicDungeonTools: enabled
 Omen: enabled
 Skada: disabled
@@ -179,3 +179,4 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 ElvUI_RatioMinimapAuras: disabled
+CursorRing: disabled

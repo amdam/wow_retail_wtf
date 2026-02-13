@@ -1,0 +1,46 @@
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/cast [@player] Power Word: Shield
+/cast Fade
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Holy Nova] Holy Nova; Smite
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Levitate
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Leap of Faith
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Purify
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/cast [@player] Angelic Feather
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Power Infusion
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000008 " " "134400"
+#showtooltip
+/cast [mod:alt,@cursor] Shadow Crash; Mind Blast
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 " " "134400"
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Pain Suppression
+/script UIErrorsFrame:Clear()
+END

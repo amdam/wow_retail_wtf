@@ -9,50 +9,48 @@ Rematch5Settings = {
 ["LastOpenLayout"] = "3-teams",
 ["CurrentLayout"] = "3-teams",
 ["ColorPetNames"] = true,
-["LevelingQueue"] = {
-},
+["PetCardNoMouseoverFlip"] = false,
 ["HideNotesBadges"] = false,
 ["StandaloneLayout"] = "3-teams",
-["PetNotes"] = {
-},
+["PetSatchelIndex"] = 1,
 ["DefaultPreferences"] = {
 },
 ["AutoWinRecord"] = false,
 ["ReverseToolbar"] = false,
-["PetCardInBattle"] = false,
+["JournalLayout"] = "3-teams",
 ["ShowAbilityNumbers"] = false,
 ["GroupOrder"] = {
 "group:favorites",
 "group:none",
 },
 ["HideNonBattlePets"] = false,
-["AbilityBackground"] = "Icon",
+["PetCardInBattle"] = false,
 ["DontSortByRelevance"] = false,
 ["NoBackupReminder"] = false,
-["ExpandedOptionsHeaders"] = {
-},
+["ToolbarDismiss"] = false,
 ["ShowSpeciesID"] = false,
 ["DontConfirmCaging"] = true,
 ["XPos"] = 1668.212280273438,
 ["AllowHiddenPets"] = false,
 ["ShowAfterBattle"] = false,
-["PetCardCompactCollected"] = false,
+["UseDefaultJournal"] = false,
 ["HideTruncatedTooltips"] = false,
-["PetCardNoMouseoverFlip"] = false,
-["JournalLayout"] = "3-teams",
+["HideLevelBubbles"] = false,
+["PetCardCompactCollected"] = false,
 ["FavoriteFilters"] = {
 },
-["UseDefaultJournal"] = false,
-["PetCardForLinks"] = false,
-["Anchor"] = "BOTTOMRIGHT",
 ["LockWindow"] = false,
+["PetCardForLinks"] = false,
+["HideRarityBorders"] = false,
+["ExpandedOptionsHeaders"] = {
+},
 ["LoadHealthiest"] = false,
 ["WasShownOnLogout"] = false,
 ["PetMarkerNames"] = {
 },
 ["CompactQueueList"] = false,
 ["ResetExceptSearch"] = false,
-["KeepNotesOnScreen"] = false,
+["ColorTargetNames"] = true,
 ["QueueAutoLearn"] = false,
 ["PanelTabAnchor"] = "BOTTOMRIGHT",
 ["HidePreferenceBadges"] = false,
@@ -81,12 +79,10 @@ Rematch5Settings = {
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "\"Sao'rhon\"",
+["RawSearchText"] = "\"Green Wing Macaw\"",
 ["Similar"] = {
 },
 ["Search"] = {
-["Pattern"] = "^[sS][aA][oO]'[rR][hH][oO][nN]$",
-["Length"] = 10,
 },
 ["Breed"] = {
 },
@@ -112,31 +108,31 @@ Rematch5Settings = {
 },
 ["ShowLoadedTeamPreferences"] = false,
 ["LockPosition"] = false,
-["SafariHatShine"] = false,
+["BreedFormat"] = 1,
 ["HidePetToast"] = true,
-["TooltipBehavior"] = "Normal",
-["HideNotesButtonInBattle"] = false,
+["PetCardCanPin"] = false,
+["InteractOnMouseover"] = 0,
 ["QueueRandomWhenEmpty"] = false,
 ["BackupCount"] = 0,
 ["HideToolbarTooltips"] = false,
 ["DisplayUniqueTotal"] = false,
-["BreedFormat"] = 1,
-["PetCardCanPin"] = false,
+["SafariHatShine"] = false,
+["TooltipBehavior"] = "Normal",
 ["HideOptionTooltips"] = false,
 ["MousewheelSpeed"] = "Normal",
 ["LastOpenJournal"] = true,
 ["HideTeamBadges"] = false,
-["InteractOnMouseover"] = 0,
+["HideNotesButtonInBattle"] = false,
 ["QueueSortOrder"] = 1,
 ["ShowNewGroupTab"] = true,
 ["NoSummonOnDblClick"] = false,
-["LowerStrata"] = false,
 ["HideLevelingBadges"] = false,
+["LowerStrata"] = false,
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
-["YPos"] = 395.1818542480469,
-["PetCardAlwaysShowHPBar"] = false,
 ["RandomPetRules"] = 2,
+["PetCardAlwaysShowHPBar"] = false,
+["YPos"] = 395.1818542480469,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",
@@ -176,23 +172,25 @@ Rematch5Settings = {
 ["ShowNewGroupTabFix"] = true,
 ["NeverTeamTabs"] = false,
 ["SortByNickname"] = false,
-["ColorTargetNames"] = true,
+["KeepNotesOnScreen"] = false,
 ["ResetSortWithFilters"] = false,
 ["CompactTeamList"] = false,
-["HideLevelBubbles"] = false,
-["HideRarityBorders"] = false,
+["Anchor"] = "BOTTOMRIGHT",
+["LevelingQueue"] = {
+},
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = false,
 ["PetMarkers"] = {
 },
-["PetSatchelIndex"] = 1,
-["ConvertedTeams"] = {
-},
+["AbilityBackground"] = "Icon",
+["HideMenuHelp"] = false,
 ["LockDrawer"] = false,
-["ToolbarDismiss"] = false,
+["PetNotes"] = {
+},
 ["UseTypeBar"] = false,
 ["PetCardBackground"] = "Expansion",
-["HideMenuHelp"] = false,
+["ConvertedTeams"] = {
+},
 }
 Rematch5SavedTeams = {
 }
@@ -260,13 +258,13 @@ Rematch4Settings = {
 },
 ["Strong"] = {
 },
-["Sources"] = {
+["Similar"] = {
 },
 ["Breed"] = {
 },
 ["Rarity"] = {
 },
-["Similar"] = {
+["Sources"] = {
 },
 ["Collected"] = {
 },
@@ -285,13 +283,13 @@ Rematch4Settings = {
 ["QueueSortOrder"] = 1,
 ["ExpandedTargetHeaders"] = {
 },
-["ElvUIToastDefaulted"] = true,
+["PreferredMode"] = 1,
 ["ActivePanel"] = 1,
 ["Sanctuary"] = {
 },
 ["JournalPanel"] = 1,
 ["CornerPos"] = "BOTTOMLEFT",
-["PreferredMode"] = 1,
+["ElvUIToastDefaulted"] = true,
 ["ScriptFilters"] = {
 {
 "Unnamed Pets",

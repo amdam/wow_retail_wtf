@@ -68,3 +68,8 @@ VER 3 010000000000000E " " "134400"
 /cast Breath of Eons
 /script UIErrorsFrame:Clear()
 END
+VER 3 010000000000000F " " "134400"
+#showtooltip
+/cast [@focus,exists][] Quell
+/script UIErrorsFrame:Clear()
+END

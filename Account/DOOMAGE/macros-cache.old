@@ -1,17 +1,38 @@
-VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+VER 3 0000000000000069 " " "134400"
 #showtooltip
-/dismount
-/cast [nomounted,noflyable] G-99 Breakneck
-/run if not IsMounted() then C_MountJournal.SummonByID(0) end
+/cast [known:Twisted Crusade] Twisted Crusade; [known:Call of the Forest] Call of the Forest; [known:Naran's Everdisc] Naran's Everdisc; [known:Tempest Wrath] Tempest Wrath; [known:Vindicator's Judgment] Vindicator's Judgment
 END
 VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 14
 /use Phial of Serenity
 END
+VER 3 0000000000000068 " " "136103"
+/tar Iggy
+/tar Moog
+/tar Miral Murder-Mittens
+/tar Purrlock
+/tar Shadowpouncer
+/tar Nightclaw
+/tar Dander
+/tar Fuzzy
+/tar Furball
+/tar Jinx
+/tar Gobbo
+/tar Emery
+/tar Evan
+/tar Magpie
+/ping [@target]
+END
 VER 3 0000000000000013 " " "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
 /stopcasting
 /click [target=mouseover] ExtraActionButton1
+END
+VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
+#showtooltip
+/dismount
+/cast [nomounted,noflyable] G-99 Breakneck
+/run if not IsMounted() then C_MountJournal.SummonByID(0) end
 END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
@@ -69,9 +90,8 @@ VER 3 0000000000000028 "mark" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
 /script if (charm == nil) or (charm < 0) then charm=9; end; charm=charm-1; SetRaidTarget("mouseover", charm)
 END
 VER 3 0000000000000012 "mouseover templa" "SPELL_SHADOW_TELEPORT"
-#showtooltip Hand of Salvation
-/stopcasting
-/use [@mouseover, help, nodead][help, nodead][@player] Hand of Salvation
+#showtooltip
+/cast [@mouseover, help, nodead][help, nodead][@player] Purify
 /script UIErrorsFrame:Clear()
 END
 VER 3 000000000000000B "officer" "Ability_Druid_TigersRoar"
@@ -79,6 +99,13 @@ yeah when you're bad and you boast that your skill is the most,
 you make a lot of mistakes, you do whatever it takes,
 convince all the guild that you know how to win.
 but we know that can't be kuz your name is Kaejin
+END
+VER 3 0000000000000067 "ping" "132186"
+/target [@player]
+/target Plump Snapcrab
+/cleartarget [help]
+/stopmacro [noexists]
+/ping [@target]
 END
 VER 3 0000000000000061 "pot" "4559232"
 #showtooltip
@@ -94,6 +121,9 @@ VER 3 0000000000000061 "pot" "4559232"
 /use 191388
 /use 191905
 /use 191387
+END
+VER 3 0000000000000066 "reshii wraps" "7110834"
+/run GenericTraitUI_LoadUI()GenericTraitFrame:SetSystemID(29)GenericTraitFrame:SetTreeID(1115)ToggleFrame(GenericTraitFrame)
 END
 VER 3 0000000000000025 "ship shit" "134190"
 /run for k, v in pairs({ Belgork = 38932, Felsmith = 39366, Xanzith = 39356, Cindral = 39363, Shark = 39355, Zoug = 39360}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end

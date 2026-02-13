@@ -1,0 +1,37 @@
+VER 3 0100000000000003 " " "134400"
+#showtooltip
+/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Empower Rune Weapon;
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000002 " " "134400"
+#showtooltip
+/startattack
+/cast [mod:alt] Glacial Advance; Frost Strike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000004 " " "134400"
+#showtooltip
+/cast [mod:alt] Frostscythe; Obliterate
+/cast Raise Dead
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000005 " " "134400"
+#showtooltip
+/cast [@mouseover] Raise Ally
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000006 " " "134400"
+#showtooltip
+/cast [mod:alt] Death's Caress; Dark Command
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000007 " " "134400"
+#showtooltip
+/cast [@player] Anti-Magic Zone
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000001 " " "134400"
+#showtooltip
+/cast [@cursor] Death and Decay
+/script UIErrorsFrame:Clear()
+END

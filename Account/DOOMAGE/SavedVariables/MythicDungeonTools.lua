@@ -1,6 +1,8 @@
 
 MythicDungeonToolsDB = {
 ["profileKeys"] = {
+["Ezray - Turalyon"] = "Ezray - Turalyon",
+["Wake - Bloodscalp"] = "Wake - Bloodscalp",
 ["Allevin - Turalyon"] = "Allevin - Turalyon",
 ["Svend - Turalyon"] = "Svend - Turalyon",
 ["Adaam - Turalyon"] = "Adaam - Turalyon",
@@ -13,34 +15,46 @@ MythicDungeonToolsDB = {
 ["Adamancy - Turalyon"] = "Adamancy - Turalyon",
 ["Furrys - Turalyon"] = "Furrys - Turalyon",
 ["Caris - Turalyon"] = "Caris - Turalyon",
+["Experiment - Whisperwind"] = "Experiment - Whisperwind",
 ["Artoc - Silvermoon"] = "Artoc - Silvermoon",
 ["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
+["Fredus - Turalyon"] = "Fredus - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 ["Fernie - Turalyon"] = "Fernie - Turalyon",
+["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
+["Donnd - Turalyon"] = "Donnd - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
-["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
+["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
+["Drund - Turalyon"] = "Drund - Turalyon",
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
+["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
+["Christifur - Turalyon"] = "Christifur - Turalyon",
+["Dreg - Turalyon"] = "Dreg - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
-["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Christifur - Turalyon"] = "Christifur - Turalyon",
+["Frake - Turalyon"] = "Frake - Turalyon",
+["Luthro - Turalyon"] = "Luthro - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
+["Dugan - Turalyon"] = "Dugan - Turalyon",
+["Taybae - Turalyon"] = "Taybae - Turalyon",
 ["Adris - Turalyon"] = "Adris - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
+["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
 ["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["global"] = {
-["anchorTo"] = "CENTER",
 ["colorPaletteInfo"] = {
 ["customPaletteValues"] = {
 {
@@ -105,12 +119,3063 @@ MythicDungeonToolsDB = {
 },
 },
 },
-["anchorFrom"] = "CENTER",
+["anchorFrom"] = "LEFT",
+["latestDungeonSeen"] = 123,
+["nonFullscreenScale"] = 1,
+["MDI"] = {
+},
+["dataCollection"] = {
+[36] = {
+[163089] = {
+[330694] = true,
+[321041] = true,
+[330693] = true,
+},
+[164461] = {
+[333231] = true,
+[320272] = true,
+[320300] = true,
+[320277] = true,
+[333292] = true,
+[320293] = true,
+},
+[167534] = {
+[317605] = true,
+[333845] = true,
+[333841] = true,
+[333839] = true,
+},
+[167538] = {
+[331320] = true,
+[342139] = true,
+[331319] = true,
+[331316] = true,
+[342126] = true,
+[342125] = true,
+},
+[169875] = {
+[332550] = true,
+[330810] = true,
+[224729] = true,
+[317898] = true,
+},
+[170850] = {
+[333241] = true,
+[333242] = true,
+},
+[163086] = {
+[330592] = true,
+[345245] = true,
+[330614] = true,
+[330973] = true,
+[330608] = true,
+},
+[162763] = {
+[331243] = true,
+[331223] = true,
+[331224] = true,
+[331237] = true,
+},
+[165946] = {
+[324449] = true,
+[339573] = true,
+[323681] = true,
+[324424] = true,
+[132951] = true,
+[339759] = true,
+[323608] = true,
+[324079] = true,
+[323683] = true,
+},
+[174197] = {
+[330784] = true,
+[341902] = true,
+},
+[162329] = {
+[320050] = true,
+[320789] = true,
+[317231] = true,
+[316995] = true,
+[320644] = true,
+[318102] = true,
+[316981] = true,
+[331618] = true,
+[339415] = true,
+[320729] = true,
+[320114] = true,
+},
+[164464] = {
+[333523] = true,
+[342048] = true,
+[333540] = true,
+},
+[164463] = {
+[320248] = true,
+[320180] = true,
+[320120] = true,
+},
+[167532] = {
+[331288] = true,
+[332708] = true,
+[342135] = true,
+},
+[164451] = {
+[324085] = true,
+[320063] = true,
+[326892] = true,
+[320069] = true,
+},
+[162309] = {
+[319765] = true,
+[322087] = true,
+[342691] = true,
+[319521] = true,
+[319669] = true,
+[322088] = true,
+[333567] = true,
+[319531] = true,
+[317367] = true,
+[319539] = true,
+[319567] = true,
+[45524] = true,
+[319626] = true,
+[319639] = true,
+},
+[170690] = {
+[330697] = true,
+[341977] = true,
+[319290] = true,
+[224729] = true,
+[330700] = true,
+},
+[160495] = {
+[317898] = true,
+[330784] = true,
+[333708] = true,
+[330868] = true,
+[224729] = true,
+[132951] = true,
+},
+[167536] = {
+[342139] = true,
+[334025] = true,
+[333861] = true,
+[334023] = true,
+},
+[169927] = {
+[332836] = true,
+[330586] = true,
+},
+[164506] = {
+[330565] = true,
+[330545] = true,
+[330546] = true,
+[330562] = true,
+},
+[164510] = {
+[330532] = true,
+[319997] = true,
+[327029] = true,
+},
+[170838] = {
+[331510] = true,
+[337178] = true,
+[320679] = true,
+},
+[162317] = {
+[323515] = true,
+[318406] = true,
+},
+[167994] = {
+[326835] = true,
+},
+[167998] = {
+[330725] = true,
+[330720] = true,
+[326494] = true,
+[330716] = true,
+[326497] = true,
+},
+[169893] = {
+[333294] = true,
+[333297] = true,
+[330875] = true,
+[333299] = true,
+[132951] = true,
+},
+[167533] = {
+[333827] = true,
+[333861] = true,
+[331275] = true,
+},
+[174210] = {
+[341969] = true,
+[330694] = true,
+[330703] = true,
+[330693] = true,
+[321041] = true,
+[330700] = true,
+},
+[162744] = {
+[317605] = true,
+[337037] = true,
+[342135] = true,
+[336996] = true,
+},
+[170882] = {
+[341771] = true,
+[317898] = true,
+[333293] = true,
+[342675] = true,
+[132951] = true,
+},
+},
+[31] = {
+[163058] = {
+[324859] = true,
+[331721] = true,
+[324737] = true,
+[331718] = true,
+[324736] = true,
+[224729] = true,
+},
+[164926] = {
+[325027] = true,
+[324923] = true,
+[324909] = true,
+[324922] = true,
+},
+[172312] = {
+[336416] = true,
+[326022] = true,
+[326021] = true,
+[336407] = true,
+[224729] = true,
+},
+[166275] = {
+[324859] = true,
+[324776] = true,
+[224729] = true,
+[132951] = true,
+},
+[167116] = {
+[326090] = true,
+[326092] = true,
+},
+[164501] = {
+[321471] = true,
+[336752] = true,
+[321834] = true,
+[336499] = true,
+[341709] = true,
+[336759] = true,
+[336813] = true,
+[321828] = true,
+},
+[164567] = {
+[321010] = true,
+[331440] = true,
+[323149] = true,
+[323138] = true,
+[323146] = true,
+[321005] = true,
+[328756] = true,
+[323057] = true,
+[321006] = true,
+[132951] = true,
+},
+[166276] = {
+[331747] = true,
+[331748] = true,
+[331743] = true,
+[324859] = true,
+[132951] = true,
+},
+[173720] = {
+[340300] = true,
+[340304] = true,
+[340305] = true,
+[340311] = true,
+},
+[164920] = {
+[121308] = true,
+[322569] = true,
+[322557] = true,
+[224729] = true,
+},
+[164804] = {
+[321772] = true,
+[323059] = true,
+[323250] = true,
+[132951] = true,
+[323177] = true,
+[323137] = true,
+},
+[166299] = {
+[324859] = true,
+[324914] = true,
+[224729] = true,
+[132951] = true,
+},
+[166304] = {
+[324859] = true,
+[325223] = true,
+[325224] = true,
+[325226] = true,
+},
+[173655] = {
+[340189] = true,
+[340160] = true,
+[340208] = true,
+},
+[167117] = {
+[326018] = true,
+[224729] = true,
+},
+[164921] = {
+[326319] = true,
+[322767] = true,
+[322938] = true,
+[224729] = true,
+[322939] = true,
+},
+[165111] = {
+[323020] = true,
+[323043] = true,
+[322968] = true,
+[322967] = true,
+[224729] = true,
+},
+[164929] = {
+[322486] = true,
+[300155] = true,
+[322487] = true,
+[321968] = true,
+[321952] = true,
+[132466] = true,
+},
+[167111] = {
+[326046] = true,
+[340544] = true,
+},
+[166301] = {
+[325021] = true,
+[132951] = true,
+[324987] = true,
+[324859] = true,
+},
+[173714] = {
+[340288] = true,
+[340289] = true,
+[340283] = true,
+[340279] = true,
+},
+[167113] = {
+[325418] = true,
+[224729] = true,
+},
+[164517] = {
+[322450] = true,
+[1604] = true,
+[337253] = true,
+[113746] = true,
+[322614] = true,
+[326263] = true,
+[326281] = true,
+[1490] = true,
+[322654] = true,
+[322709] = true,
+[322655] = true,
+[322527] = true,
+[337249] = true,
+[255909] = true,
+[322563] = true,
+[322465] = true,
+[337220] = true,
+[3409] = true,
+[337251] = true,
+[337235] = true,
+[157736] = true,
+[5760] = true,
+[322658] = true,
+[408] = true,
+[322550] = true,
+[326278] = true,
+[337255] = true,
+[35079] = true,
+},
+},
+[30] = {
+[165414] = {
+[325876] = true,
+[325872] = true,
+[325879] = true,
+[132951] = true,
+[224729] = true,
+[338003] = true,
+},
+[165515] = {
+[132951] = true,
+[224729] = true,
+[325523] = true,
+},
+[164562] = {
+[325797] = true,
+[325799] = true,
+[325535] = true,
+[325793] = true,
+[326450] = true,
+[132951] = true,
+},
+[167612] = {
+[326623] = true,
+[326632] = true,
+[326617] = true,
+[132951] = true,
+[326607] = true,
+},
+[165415] = {
+[338005] = true,
+[132951] = true,
+[338004] = true,
+[224729] = true,
+},
+[167876] = {
+[326847] = true,
+[326891] = true,
+[326846] = true,
+[326806] = true,
+[326794] = true,
+[326829] = true,
+[132951] = true,
+},
+[164563] = {
+[344993] = true,
+[329324] = true,
+[329321] = true,
+[224729] = true,
+[132951] = true,
+},
+[165408] = {
+[339235] = true,
+[324044] = true,
+[322943] = true,
+[322977] = true,
+[322936] = true,
+[322945] = true,
+[339237] = true,
+[322711] = true,
+[323001] = true,
+[132951] = true,
+},
+[167892] = {
+[132951] = true,
+},
+[165529] = {
+[132951] = true,
+[325700] = true,
+[224729] = true,
+[325701] = true,
+},
+[167610] = {
+[132951] = true,
+[326879] = true,
+[224729] = true,
+[326874] = true,
+},
+[164185] = {
+[319702] = true,
+[326389] = true,
+[319733] = true,
+[319703] = true,
+[328206] = true,
+[344874] = true,
+[319603] = true,
+[319592] = true,
+[319941] = true,
+[132951] = true,
+},
+[164557] = {
+[326441] = true,
+[326438] = true,
+[325509] = true,
+[326426] = true,
+[132951] = true,
+[326440] = true,
+[326409] = true,
+},
+[165410] = {
+[329340] = true,
+[132951] = true,
+[323538] = true,
+[323552] = true,
+},
+[174175] = {
+[346866] = true,
+[342189] = true,
+[132951] = true,
+[342021] = true,
+[201657] = true,
+},
+[167607] = {
+[326771] = true,
+[326997] = true,
+},
+[167611] = {
+[326644] = true,
+[326632] = true,
+[326638] = true,
+[132951] = true,
+[326642] = true,
+[326637] = true,
+},
+[164218] = {
+[323414] = true,
+[323392] = true,
+[329113] = true,
+[327885] = true,
+[329104] = true,
+[132951] = true,
+[329262] = true,
+[323236] = true,
+[335345] = true,
+[335338] = true,
+[323143] = true,
+[323437] = true,
+[328791] = true,
+[323393] = true,
+},
+},
+[32] = {
+[168022] = {
+[328429] = true,
+[319898] = true,
+[345429] = true,
+[329226] = true,
+[328432] = true,
+[329224] = true,
+},
+[164266] = {
+[336449] = true,
+[331818] = true,
+[325552] = true,
+[325245] = true,
+[339184] = true,
+[333353] = true,
+[332313] = true,
+[325550] = true,
+[328539] = true,
+[325551] = true,
+[336258] = true,
+[336306] = true,
+[132951] = true,
+},
+[164967] = {
+[329110] = true,
+[332617] = true,
+[330026] = true,
+[322358] = true,
+[329217] = true,
+[328175] = true,
+[333808] = true,
+[331967] = true,
+[340358] = true,
+[132951] = true,
+},
+[168574] = {
+[121308] = true,
+[327995] = true,
+[328002] = true,
+[317898] = true,
+},
+[163857] = {
+[340702] = true,
+[132951] = true,
+[341022] = true,
+[317898] = true,
+},
+[168968] = {
+[331874] = true,
+[331871] = true,
+},
+[164267] = {
+[322304] = true,
+[331399] = true,
+[322492] = true,
+[132951] = true,
+[322232] = true,
+[322491] = true,
+},
+[168969] = {
+[328660] = true,
+[328662] = true,
+[317898] = true,
+[132951] = true,
+[328661] = true,
+[346989] = true,
+[224729] = true,
+[336449] = true,
+},
+[163882] = {
+[320040] = true,
+[320072] = true,
+[132951] = true,
+[336449] = true,
+[329239] = true,
+},
+[171474] = {
+[334640] = true,
+},
+[169159] = {
+[328986] = true,
+},
+[163891] = {
+[328662] = true,
+[319070] = true,
+[346989] = true,
+[317898] = true,
+},
+[168396] = {
+[327233] = true,
+[327594] = true,
+[327581] = true,
+},
+[169861] = {
+[330816] = true,
+[132951] = true,
+[330786] = true,
+[328094] = true,
+},
+[163892] = {
+[320512] = true,
+[340358] = true,
+[331967] = true,
+[328175] = true,
+[132951] = true,
+},
+[169696] = {
+[132951] = true,
+[330417] = true,
+[317898] = true,
+},
+[168578] = {
+[328016] = true,
+[329917] = true,
+[328015] = true,
+[121308] = true,
+[132951] = true,
+},
+[168153] = {
+[330403] = true,
+[330404] = true,
+[327882] = true,
+[132951] = true,
+},
+[164255] = {
+[319780] = true,
+[324652] = true,
+[332865] = true,
+[132951] = true,
+[324459] = true,
+[324667] = true,
+[324527] = true,
+[324490] = true,
+[326242] = true,
+},
+[168361] = {
+[330037] = true,
+[327515] = true,
+},
+[164707] = {
+[322410] = true,
+[333737] = true,
+[346989] = true,
+[321935] = true,
+},
+[168878] = {
+[328501] = true,
+[317898] = true,
+[334926] = true,
+[340358] = true,
+[328175] = true,
+[224729] = true,
+},
+[168886] = {
+[320542] = true,
+[320576] = true,
+[320529] = true,
+[328094] = true,
+[121308] = true,
+},
+[168627] = {
+[328180] = true,
+[328094] = true,
+[317898] = true,
+[121308] = true,
+[340358] = true,
+[328175] = true,
+[224729] = true,
+[331967] = true,
+[132951] = true,
+},
+[163862] = {
+[336451] = true,
+[317898] = true,
+[328533] = true,
+[132951] = true,
+[336449] = true,
+[224729] = true,
+},
+[164737] = {
+[336449] = true,
+[317898] = true,
+[338077] = true,
+[132951] = true,
+[328400] = true,
+[338079] = true,
+[328409] = true,
+[328475] = true,
+[224729] = true,
+[328539] = true,
+},
+[168572] = {
+[328177] = true,
+[317898] = true,
+[328176] = true,
+[121308] = true,
+[132951] = true,
+[330422] = true,
+[330423] = true,
+},
+[164705] = {
+[321975] = true,
+[317898] = true,
+[340356] = true,
+[346989] = true,
+[321999] = true,
+[224729] = true,
+[340357] = true,
+},
+[163894] = {
+[320519] = true,
+[318949] = true,
+[320517] = true,
+[340358] = true,
+[331967] = true,
+[328175] = true,
+[332581] = true,
+},
+[167493] = {
+[328338] = true,
+[339155] = true,
+[328365] = true,
+[328395] = true,
+[132951] = true,
+[328651] = true,
+[336449] = true,
+},
+[173360] = {
+[327233] = true,
+},
+[168580] = {
+[344003] = true,
+},
+[168747] = {
+[1604] = true,
+[328342] = true,
+[336449] = true,
+[132951] = true,
+[328343] = true,
+[224729] = true,
+},
+[168365] = {
+[132951] = true,
+},
+[168891] = {
+[334926] = true,
+[328501] = true,
+},
+},
+[29] = {
+[171184] = {
+[340016] = true,
+[340026] = true,
+},
+[167964] = {
+[331847] = true,
+[331548] = true,
+[331846] = true,
+[132951] = true,
+[240443] = true,
+},
+[164558] = {
+[322759] = true,
+[323118] = true,
+[322735] = true,
+[323064] = true,
+[323166] = true,
+[132951] = true,
+[322736] = true,
+[322773] = true,
+},
+[166608] = {
+[334810] = true,
+[325807] = true,
+[326171] = true,
+[325725] = true,
+[327649] = true,
+[334913] = true,
+[327646] = true,
+[334970] = true,
+[326221] = true,
+[325258] = true,
+[325691] = true,
+[335000] = true,
+[334961] = true,
+},
+[164450] = {
+[342961] = true,
+[320232] = true,
+[323687] = true,
+[321948] = true,
+[324090] = true,
+[132951] = true,
+[320230] = true,
+[323732] = true,
+},
+[168949] = {
+[132951] = true,
+[333728] = true,
+[240443] = true,
+[333729] = true,
+},
+[164861] = {
+[30831] = true,
+[339966] = true,
+[132951] = true,
+[321764] = true,
+[240443] = true,
+},
+[164555] = {
+[324010] = true,
+[320144] = true,
+[320823] = true,
+[323992] = true,
+[321011] = true,
+[320145] = true,
+[332509] = true,
+[320168] = true,
+[323877] = true,
+[321061] = true,
+[324047] = true,
+[320147] = true,
+[330434] = true,
+[132951] = true,
+},
+[170480] = {
+[332678] = true,
+[332672] = true,
+[240443] = true,
+[332671] = true,
+[132951] = true,
+},
+[168934] = {
+[342869] = true,
+[333790] = true,
+[333787] = true,
+[240443] = true,
+[333789] = true,
+[132951] = true,
+},
+[170147] = {
+[331398] = true,
+[132951] = true,
+},
+[168942] = {
+[333875] = true,
+[334051] = true,
+[132951] = true,
+[334076] = true,
+[240443] = true,
+},
+[167965] = {
+[332084] = true,
+[331379] = true,
+[240443] = true,
+[132951] = true,
+},
+[171343] = {
+[334967] = true,
+[334535] = true,
+[334800] = true,
+[132951] = true,
+[240443] = true,
+},
+[167962] = {
+[331933] = true,
+[132951] = true,
+[240443] = true,
+[331927] = true,
+},
+[164556] = {
+[320785] = true,
+[326684] = true,
+[320141] = true,
+[132951] = true,
+[320142] = true,
+[332521] = true,
+[342905] = true,
+[320787] = true,
+[320008] = true,
+[320132] = true,
+[326920] = true,
+[335072] = true,
+},
+[171341] = {
+[132951] = true,
+[240443] = true,
+[334664] = true,
+},
+[168992] = {
+[328729] = true,
+[328740] = true,
+[132951] = true,
+[328707] = true,
+[240443] = true,
+},
+[170572] = {
+[332608] = true,
+[332612] = true,
+[332605] = true,
+[332607] = true,
+[332693] = true,
+[240443] = true,
+[1604] = true,
+[132951] = true,
+},
+[164873] = {
+[323123] = true,
+[323136] = true,
+[345498] = true,
+[132951] = true,
+[323576] = true,
+[240443] = true,
+},
+[168986] = {
+[132951] = true,
+[333711] = true,
+[240443] = true,
+},
+[167963] = {
+[332157] = true,
+[332156] = true,
+[332196] = true,
+[132951] = true,
+[332158] = true,
+[240443] = true,
+},
+[171342] = {
+[240443] = true,
+[132951] = true,
+[334530] = true,
+[334529] = true,
+},
+[167967] = {
+[332232] = true,
+[331422] = true,
+[332236] = true,
+[132951] = true,
+[332234] = true,
+[240443] = true,
+},
+[164862] = {
+[132951] = true,
+[240443] = true,
+[334493] = true,
+},
+[171181] = {
+[132951] = true,
+[240443] = true,
+[334535] = true,
+},
+[170490] = {
+[332706] = true,
+[332705] = true,
+[332707] = true,
+[132951] = true,
+[240443] = true,
+[1604] = true,
+},
+[169905] = {
+[333641] = true,
+[132951] = true,
+[333227] = true,
+[333250] = true,
+[240443] = true,
+},
+[164857] = {
+[321349] = true,
+[30831] = true,
+[240443] = true,
+[132951] = true,
+},
+},
+[34] = {
+[168681] = {
+[328205] = true,
+[324392] = true,
+[336444] = true,
+[323740] = true,
+[328203] = true,
+[328217] = true,
+[323739] = true,
+},
+[168844] = {
+[328454] = true,
+[328458] = true,
+[328462] = true,
+[328466] = true,
+[336420] = true,
+[336496] = true,
+[336444] = true,
+[328453] = true,
+[324662] = true,
+[328434] = true,
+},
+[162059] = {
+[321009] = true,
+[327481] = true,
+[320966] = true,
+[321034] = true,
+[132951] = true,
+[324662] = true,
+[345561] = true,
+},
+[163458] = {
+[317959] = true,
+[317963] = true,
+[207707] = true,
+[132951] = true,
+},
+[163524] = {
+[323804] = true,
+[323786] = true,
+[132951] = true,
+},
+[166411] = {
+[323682] = true,
+},
+[163501] = {
+[132951] = true,
+[323682] = true,
+[207707] = true,
+},
+[168717] = {
+[328331] = true,
+[317959] = true,
+[328330] = true,
+[328332] = true,
+[132951] = true,
+[224729] = true,
+[324392] = true,
+},
+[168318] = {
+[327416] = true,
+[327413] = true,
+[132951] = true,
+[207707] = true,
+[324392] = true,
+},
+[162060] = {
+[338729] = true,
+[334053] = true,
+[324427] = true,
+[331997] = true,
+[324046] = true,
+[132951] = true,
+[323372] = true,
+[338731] = true,
+[323195] = true,
+[324444] = true,
+[132466] = true,
+[324392] = true,
+[323878] = true,
+[324608] = true,
+},
+[163459] = {
+[317936] = true,
+[327332] = true,
+[327331] = true,
+[132951] = true,
+[207707] = true,
+},
+[163506] = {
+[27638] = true,
+[323744] = true,
+[30831] = true,
+[132951] = true,
+},
+[168718] = {
+[328289] = true,
+[324392] = true,
+[328295] = true,
+[132951] = true,
+[328288] = true,
+},
+[162061] = {
+[322814] = true,
+[322893] = true,
+[323010] = true,
+[322999] = true,
+[132951] = true,
+[335817] = true,
+[323011] = true,
+[334625] = true,
+[322818] = true,
+[322817] = true,
+[323943] = true,
+[322908] = true,
+},
+[168420] = {
+[327655] = true,
+[317936] = true,
+[327653] = true,
+[132951] = true,
+},
+[163520] = {
+[317985] = true,
+[327808] = true,
+[327812] = true,
+[323740] = true,
+[336447] = true,
+[323739] = true,
+[132951] = true,
+},
+[168418] = {
+[317959] = true,
+[327647] = true,
+[327648] = true,
+[132951] = true,
+},
+[163503] = {
+[207707] = true,
+[132951] = true,
+[317661] = true,
+[323645] = true,
+},
+[168843] = {
+[328435] = true,
+[328462] = true,
+[328466] = true,
+[336420] = true,
+[328452] = true,
+[336496] = true,
+[328434] = true,
+[328453] = true,
+[324662] = true,
+[336444] = true,
+[323739] = true,
+},
+[163077] = {
+[324368] = true,
+[331249] = true,
+[324370] = true,
+[132951] = true,
+[331251] = true,
+[345561] = true,
+},
+[162058] = {
+[324154] = true,
+[324205] = true,
+[334485] = true,
+[324146] = true,
+[324148] = true,
+[132951] = true,
+[338070] = true,
+},
+[163457] = {
+[132951] = true,
+[207707] = true,
+[317943] = true,
+},
+[168845] = {
+[336444] = true,
+[328466] = true,
+[328462] = true,
+[324662] = true,
+[333887] = true,
+[328453] = true,
+[328434] = true,
+[336496] = true,
+},
+},
+[35] = {
+[165197] = {
+[324387] = true,
+[324391] = true,
+[324372] = true,
+[324381] = true,
+[324394] = true,
+},
+[173044] = {
+[323496] = true,
+[338653] = true,
+[334749] = true,
+[323489] = true,
+[240443] = true,
+[334748] = true,
+[323471] = true,
+},
+[163128] = {
+[345931] = true,
+[320462] = true,
+[320571] = true,
+[320573] = true,
+[240443] = true,
+},
+[162729] = {
+[224729] = true,
+[338022] = true,
+[240443] = true,
+},
+[166302] = {
+[334747] = true,
+[334748] = true,
+[334749] = true,
+[240443] = true,
+},
+[165872] = {
+[323496] = true,
+[323489] = true,
+[240443] = true,
+[323471] = true,
+[327130] = true,
+},
+[164578] = {
+[322681] = true,
+[320376] = true,
+[322548] = true,
+[348170] = true,
+[327952] = true,
+[320208] = true,
+[334322] = true,
+},
+[163121] = {
+[320696] = true,
+[323190] = true,
+[319290] = true,
+[320703] = true,
+[240443] = true,
+},
+[162691] = {
+[320596] = true,
+[320655] = true,
+[320637] = true,
+},
+[165919] = {
+[324323] = true,
+[324293] = true,
+[240443] = true,
+[343470] = true,
+},
+[166264] = {
+[334610] = true,
+},
+[163621] = {
+[338357] = true,
+[338456] = true,
+[240443] = true,
+[333477] = true,
+},
+[163122] = {
+[321576] = true,
+},
+[165222] = {
+[335143] = true,
+[320822] = true,
+[224729] = true,
+},
+[163622] = {
+[338022] = true,
+[240443] = true,
+},
+[165137] = {
+[323347] = true,
+[322756] = true,
+[320462] = true,
+[240443] = true,
+[322757] = true,
+},
+[163126] = {
+[321576] = true,
+[328664] = true,
+[320336] = true,
+[333602] = true,
+[328667] = true,
+[322493] = true,
+},
+[163623] = {
+[338022] = true,
+[240443] = true,
+},
+[166079] = {
+[321576] = true,
+[328687] = true,
+},
+[163619] = {
+[321807] = true,
+[240443] = true,
+},
+[162693] = {
+[321370] = true,
+[320771] = true,
+[323730] = true,
+[321754] = true,
+[321368] = true,
+[320772] = true,
+[321755] = true,
+[321894] = true,
+[320788] = true,
+[321956] = true,
+[320784] = true,
+},
+[162689] = {
+[320200] = true,
+[320358] = true,
+[320366] = true,
+[327664] = true,
+[334488] = true,
+[320359] = true,
+[334321] = true,
+[326629] = true,
+[326574] = true,
+[343558] = true,
+[343556] = true,
+[334476] = true,
+[320365] = true,
+},
+[165911] = {
+[327155] = true,
+[320696] = true,
+[240443] = true,
+[327240] = true,
+},
+[172981] = {
+[338456] = true,
+[240443] = true,
+[338357] = true,
+},
+[173016] = {
+[334747] = true,
+[334749] = true,
+[240443] = true,
+[334748] = true,
+[338353] = true,
+},
+[165138] = {
+[335164] = true,
+[321821] = true,
+[338022] = true,
+},
+[165824] = {
+[335142] = true,
+[345623] = true,
+[345625] = true,
+[320462] = true,
+[327397] = true,
+[327396] = true,
+[327393] = true,
+[335141] = true,
+},
+[163157] = {
+[321247] = true,
+[320171] = true,
+[320580] = true,
+[333634] = true,
+[333488] = true,
+[333492] = true,
+[321226] = true,
+[319902] = true,
+[333489] = true,
+[333627] = true,
+[320012] = true,
+[319897] = true,
+[132951] = true,
+},
+[167731] = {
+[323496] = true,
+[323489] = true,
+[338606] = true,
+[338636] = true,
+[240443] = true,
+[323471] = true,
+[338610] = true,
+},
+[163618] = {
+[327393] = true,
+[327397] = true,
+[324026] = true,
+[321780] = true,
+[324027] = true,
+[321575] = true,
+[323957] = true,
+[320462] = true,
+[327396] = true,
+[240443] = true,
+},
+[163620] = {
+[333485] = true,
+[333482] = true,
+[333479] = true,
+[338456] = true,
+[240443] = true,
+},
+},
+[33] = {
+[167956] = {
+[326712] = true,
+[132951] = true,
+},
+[162039] = {
+[321020] = true,
+[321038] = true,
+[132951] = true,
+[224729] = true,
+[326836] = true,
+},
+[162047] = {
+[334918] = true,
+[321178] = true,
+[334921] = true,
+[334246] = true,
+[132951] = true,
+},
+[162051] = {
+[321249] = true,
+[321220] = true,
+},
+[171448] = {
+[334563] = true,
+[321020] = true,
+[334567] = true,
+[132951] = true,
+[334558] = true,
+},
+[162102] = {
+[325360] = true,
+[326039] = true,
+[328593] = true,
+[325260] = true,
+[132951] = true,
+[325257] = true,
+[325261] = true,
+[325254] = true,
+[325262] = true,
+},
+[168058] = {
+[326952] = true,
+},
+[162056] = {
+[316244] = true,
+[321264] = true,
+[132951] = true,
+},
+[162038] = {
+[321019] = true,
+[321020] = true,
+[320991] = true,
+[132951] = true,
+},
+[162099] = {
+[322903] = true,
+[323846] = true,
+[331415] = true,
+[334877] = true,
+[323845] = true,
+[132951] = true,
+[323821] = true,
+[322796] = true,
+},
+[162103] = {
+[322567] = true,
+[132951] = true,
+[322554] = true,
+},
+[171376] = {
+[334329] = true,
+[334324] = true,
+[334326] = true,
+[334615] = true,
+[132951] = true,
+},
+[162049] = {
+[322169] = true,
+[322212] = true,
+},
+[171384] = {
+[334534] = true,
+[334378] = true,
+[334377] = true,
+[334381] = true,
+},
+[162057] = {
+[328170] = true,
+[322418] = true,
+[321020] = true,
+[322429] = true,
+[315536] = true,
+[322433] = true,
+[132951] = true,
+},
+[162100] = {
+[319713] = true,
+[319657] = true,
+[338471] = true,
+[319650] = true,
+[319654] = true,
+[132951] = true,
+[319655] = true,
+[319687] = true,
+[319685] = true,
+[319715] = true,
+[330468] = true,
+},
+[167955] = {
+[334753] = true,
+[132951] = true,
+[326718] = true,
+},
+[165076] = {
+[321401] = true,
+[320843] = true,
+[334653] = true,
+[132951] = true,
+[321402] = true,
+},
+[162041] = {
+[132951] = true,
+[334470] = true,
+[316068] = true,
+},
+[162046] = {
+[320862] = true,
+[320843] = true,
+[330528] = true,
+[132951] = true,
+[224729] = true,
+[320861] = true,
+},
+[168591] = {
+[321105] = true,
+},
+[162040] = {
+[326826] = true,
+[321020] = true,
+[326837] = true,
+[326825] = true,
+[326827] = true,
+[132951] = true,
+[326831] = true,
+[346537] = true,
+},
+[166396] = {
+[324609] = true,
+},
+[171799] = {
+[335305] = true,
+[335306] = true,
+[335308] = true,
+[132951] = true,
+},
+[172265] = {
+[336277] = true,
+[132951] = true,
+[336279] = true,
+},
+},
+},
+["dataCollectionCC"] = {
+[36] = {
+[163089] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Silence"] = true,
+},
+[164461] = {
+["Taunt"] = true,
+},
+[170882] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Disorient"] = true,
+},
+[167538] = {
+["Taunt"] = true,
+},
+[167534] = {
+["Taunt"] = true,
+},
+[167998] = {
+["Taunt"] = true,
+},
+[169875] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Disorient"] = true,
+},
+[169893] = {
+["Taunt"] = true,
+},
+[165946] = {
+["Taunt"] = true,
+},
+[160495] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[162763] = {
+["Taunt"] = true,
+},
+[170850] = {
+["Taunt"] = true,
+},
+[164463] = {
+["Taunt"] = true,
+},
+[174197] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[164451] = {
+["Taunt"] = true,
+},
+[164510] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Incapacitate"] = true,
+},
+[170690] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Control Undead"] = true,
+["Slow"] = true,
+["Disorient"] = true,
+},
+[167532] = {
+["Taunt"] = true,
+},
+[167536] = {
+["Taunt"] = true,
+},
+[169927] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Silence"] = true,
+["Slow"] = true,
+},
+[164506] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[162309] = {
+["Taunt"] = true,
+},
+[170838] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Incapacitate"] = true,
+},
+[162317] = {
+["Taunt"] = true,
+},
+[167994] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+},
+[164464] = {
+["Polymorph"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[162329] = {
+["Taunt"] = true,
+},
+[167533] = {
+["Taunt"] = true,
+},
+[174210] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Disorient"] = true,
+},
+[162744] = {
+["Taunt"] = true,
+},
+[163086] = {
+["Taunt"] = true,
+},
+},
+[31] = {
+[163058] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[164926] = {
+["Taunt"] = true,
+},
+[172312] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166275] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[167116] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166299] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Repentance"] = true,
+},
+[164567] = {
+["Taunt"] = true,
+},
+[166276] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[167117] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164920] = {
+["Taunt"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Imprison"] = true,
+},
+[164804] = {
+["Taunt"] = true,
+},
+[167113] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166304] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[173655] = {
+["Taunt"] = true,
+},
+[164501] = {
+["Taunt"] = true,
+},
+[164921] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Mind Control"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[165111] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164929] = {
+["Taunt"] = true,
+},
+[167111] = {
+["Taunt"] = true,
+},
+[166301] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[173714] = {
+["Taunt"] = true,
+},
+[173720] = {
+["Taunt"] = true,
+},
+[164517] = {
+["Taunt"] = true,
+},
+},
+[30] = {
+[165414] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Imprison"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[165515] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164562] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Imprison"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Mind Control"] = true,
+["Repentance"] = true,
+},
+[167612] = {
+["Taunt"] = true,
+},
+[165415] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164218] = {
+["Taunt"] = true,
+},
+[164563] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[165408] = {
+["Taunt"] = true,
+},
+[167892] = {
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[165529] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[167610] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164185] = {
+["Taunt"] = true,
+},
+[164557] = {
+["Taunt"] = true,
+},
+[167611] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[174175] = {
+["Taunt"] = true,
+},
+[167607] = {
+["Taunt"] = true,
+},
+[165410] = {
+["Taunt"] = true,
+},
+[167876] = {
+["Taunt"] = true,
+},
+},
+[32] = {
+[168022] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[164266] = {
+["Taunt"] = true,
+},
+[164967] = {
+["Taunt"] = true,
+},
+[168574] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[163857] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164267] = {
+["Taunt"] = true,
+},
+[168969] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[163882] = {
+["Taunt"] = true,
+},
+[171474] = {
+["Taunt"] = true,
+},
+[169159] = {
+["Taunt"] = true,
+},
+[163891] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168396] = {
+["Taunt"] = true,
+},
+[169861] = {
+["Taunt"] = true,
+},
+[163892] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[169696] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168578] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[168153] = {
+["Taunt"] = true,
+},
+[164255] = {
+["Taunt"] = true,
+},
+[168361] = {
+["Stun"] = true,
+},
+[168878] = {
+["Taunt"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168886] = {
+["Taunt"] = true,
+},
+[164707] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[163862] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[167493] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Repentance"] = true,
+},
+[164737] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[164705] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[163894] = {
+["Taunt"] = true,
+},
+[168627] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[168572] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[168580] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[168747] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168365] = {
+["Taunt"] = true,
+["Root"] = true,
+},
+[168891] = {
+["Silence"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Taunt"] = true,
+},
+},
+[29] = {
+[171184] = {
+["Taunt"] = true,
+},
+[171343] = {
+["Taunt"] = true,
+},
+[164558] = {
+["Taunt"] = true,
+},
+[166608] = {
+["Taunt"] = true,
+},
+[164450] = {
+["Taunt"] = true,
+},
+[171181] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164861] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[167965] = {
+["Taunt"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Root"] = true,
+},
+[170480] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Shackle Undead"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+},
+[164873] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[170147] = {
+["Taunt"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Root"] = true,
+},
+[168942] = {
+["Taunt"] = true,
+},
+[167964] = {
+["Taunt"] = true,
+},
+[164862] = {
+["Taunt"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[171341] = {
+["Stun"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[164556] = {
+["Taunt"] = true,
+},
+[168992] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Stun"] = true,
+["Slow"] = true,
+},
+[168934] = {
+["Taunt"] = true,
+},
+[164555] = {
+["Taunt"] = true,
+},
+[167963] = {
+["Taunt"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Root"] = true,
+},
+[168986] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Silence"] = true,
+},
+[164857] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[171342] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[167967] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[170572] = {
+["Taunt"] = true,
+},
+[167962] = {
+["Taunt"] = true,
+},
+[170490] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[169905] = {
+["Taunt"] = true,
+},
+[168949] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Incapacitate"] = true,
+},
+},
+[34] = {
+[168681] = {
+["Taunt"] = true,
+},
+[168844] = {
+["Taunt"] = true,
+},
+[162059] = {
+["Taunt"] = true,
+},
+[163520] = {
+["Taunt"] = true,
+},
+[163524] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166411] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Repentance"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[163501] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Fear"] = true,
+},
+[168717] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Repentance"] = true,
+},
+[168318] = {
+["Taunt"] = true,
+},
+[162060] = {
+["Taunt"] = true,
+},
+[163459] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Imprison"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Mind Control"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Fear"] = true,
+["Repentance"] = true,
+},
+[163506] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[168718] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Imprison"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Fear"] = true,
+["Repentance"] = true,
+},
+[162061] = {
+["Taunt"] = true,
+},
+[168420] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Fear"] = true,
+},
+[163458] = {
+["Taunt"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Repentance"] = true,
+},
+[168418] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Fear"] = true,
+},
+[163503] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[163077] = {
+["Taunt"] = true,
+},
+[168843] = {
+["Taunt"] = true,
+},
+[162058] = {
+["Taunt"] = true,
+},
+[163457] = {
+["Taunt"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[168845] = {
+["Taunt"] = true,
+},
+},
+[35] = {
+[165197] = {
+["Taunt"] = true,
+},
+[173044] = {
+["Taunt"] = true,
+},
+[163128] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Disorient"] = true,
+["Polymorph"] = true,
+["Mind Control"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Imprison"] = true,
+},
+[162729] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Polymorph"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Repentance"] = true,
+},
+[165911] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Control Undead"] = true,
+["Silence"] = true,
+},
+[166302] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[165872] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[164578] = {
+["Taunt"] = true,
+},
+[163121] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Repentance"] = true,
+},
+[163621] = {
+["Taunt"] = true,
+},
+[165919] = {
+["Taunt"] = true,
+},
+[166264] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+},
+[163618] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Imprison"] = true,
+},
+[163157] = {
+["Taunt"] = true,
+},
+[165222] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[165824] = {
+["Taunt"] = true,
+},
+[163122] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[163126] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Control Undead"] = true,
+},
+[171500] = {
+["Stun"] = true,
+["Disorient"] = true,
+["Taunt"] = true,
+["Slow"] = true,
+},
+[166079] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Disorient"] = true,
+},
+[172981] = {
+["Taunt"] = true,
+},
+[173016] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Repentance"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Fear"] = true,
+},
+[165138] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Incapacitate"] = true,
+},
+[163623] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[162689] = {
+["Taunt"] = true,
+},
+[162693] = {
+["Taunt"] = true,
+},
+[163619] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[163622] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[165137] = {
+["Taunt"] = true,
+},
+[167731] = {
+["Taunt"] = true,
+},
+[162691] = {
+["Taunt"] = true,
+},
+[163620] = {
+["Taunt"] = true,
+},
+},
+[33] = {
+[167956] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[162039] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[162047] = {
+["Taunt"] = true,
+},
+[162051] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[171448] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[162040] = {
+["Taunt"] = true,
+},
+[168058] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+},
+[162056] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[166396] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[171799] = {
+["Taunt"] = true,
+},
+[162099] = {
+["Taunt"] = true,
+},
+[162041] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[171376] = {
+["Taunt"] = true,
+},
+[162049] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[171384] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Imprison"] = true,
+},
+[162057] = {
+["Taunt"] = true,
+},
+[165076] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[167955] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[162100] = {
+["Taunt"] = true,
+},
+[162103] = {
+["Taunt"] = true,
+},
+[162046] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[168591] = {
+["Stun"] = true,
+},
+[162102] = {
+["Taunt"] = true,
+},
+[162038] = {
+["Taunt"] = true,
+},
+[171455] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[172265] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+},
+},
+["version"] = 573,
+["xoffset"] = 279.3682556152344,
+["yoffset"] = 203.1798095703125,
+["dataCollectionGUID"] = {
+},
+["currentDungeonIdx"] = 119,
 ["minimap"] = {
 ["minimapPos"] = 163.1601303883673,
+["lock"] = true,
 ["showInCompartment"] = true,
 },
-["latestDungeonSeen"] = 115,
 ["currentPreset"] = {
 nil,
 nil,
@@ -141,27 +3206,26 @@ nil,
 nil,
 nil,
 2,
-6,
+9,
 5,
 2,
 nil,
 5,
 5,
 2,
-nil,
-2,
+3,
+3,
 [46] = 2,
 [104] = 2,
-[111] = 7,
+[111] = 8,
 [112] = 3,
-[113] = 5,
-[115] = 2,
+[113] = 8,
+[115] = 5,
 [118] = 2,
+[119] = 5,
+[123] = 3,
 },
-["MDI"] = {
-},
-["selectedDungeonList"] = 2,
-["latestSeenDungeonList"] = 9,
+["maximized"] = false,
 ["presets"] = {
 {
 {
@@ -1082,21 +4146,21 @@ nil,
 },
 ["riftOffsets"] = {
 [6] = {
+[161241] = {
+["y"] = -446.9934089973061,
+["x"] = 484.0008958524555,
+},
 [161124] = {
 ["y"] = -259.8539524204763,
 ["x"] = 463.47681237374,
-},
-[161244] = {
-["y"] = -96.02551861325091,
-["x"] = 436.2687736037165,
 },
 [161243] = {
 ["y"] = -130.6157021218764,
 ["x"] = 389.5517808275965,
 },
-[161241] = {
-["y"] = -446.9934089973061,
-["x"] = 484.0008958524555,
+[161244] = {
+["y"] = -96.02551861325091,
+["x"] = 436.2687736037165,
 },
 },
 [2] = {
@@ -10226,21 +13290,21 @@ nil,
 ["currentSublevel"] = 1,
 ["riftOffsets"] = {
 [2] = {
+[161124] = {
+["y"] = -367.0130984933503,
+["x"] = 451.6751477327938,
+},
 [161244] = {
 ["y"] = -127.1895486137645,
 ["x"] = 473.739919640749,
-},
-[161241] = {
-["y"] = -135.9430412389569,
-["x"] = 272.9786296995198,
 },
 [161243] = {
 ["y"] = -193.045104744705,
 ["x"] = 569.4317696983693,
 },
-[161124] = {
-["y"] = -367.0130984933503,
-["x"] = 451.6751477327938,
+[161241] = {
+["y"] = -135.9430412389569,
+["x"] = 272.9786296995198,
 },
 },
 },
@@ -10682,14 +13746,15 @@ nil,
 [7] = {
 2,
 },
-["color"] = "ff9b3e",
+[33] = {
+1,
+2,
+},
 [32] = {
 3,
 2,
 },
-[40] = {
-7,
-},
+["color"] = "ff9b3e",
 [5] = {
 10,
 11,
@@ -10698,9 +13763,8 @@ nil,
 [35] = {
 1,
 },
-[33] = {
-1,
-2,
+[40] = {
+7,
 },
 },
 {
@@ -12247,8 +15311,6 @@ nil,
 {
 ["color"] = "3e9eff",
 [4] = {
-5,
-6,
 },
 [7] = {
 1,
@@ -12267,17 +15329,13 @@ nil,
 3,
 },
 [8] = {
-3,
 },
 },
 {
 ["color"] = "3eff3e",
 [2] = {
-8,
 },
 [3] = {
-16,
-15,
 },
 },
 {
@@ -12294,22 +15352,15 @@ nil,
 },
 {
 [6] = {
-19,
-20,
-17,
-18,
-15,
 },
 [7] = {
 2,
 },
 [8] = {
-2,
 },
 ["color"] = "3effff",
 [4] = {
 12,
-13,
 },
 },
 {
@@ -12323,7 +15374,6 @@ nil,
 },
 {
 {
-9,
 },
 {
 6,
@@ -12340,7 +15390,6 @@ nil,
 {
 ["color"] = "a1ff3e",
 [9] = {
-1,
 },
 },
 {
@@ -12360,10 +15409,8 @@ nil,
 },
 ["color"] = "3eff9e",
 [10] = {
-6,
 },
 [4] = {
-19,
 },
 [12] = {
 6,
@@ -12376,14 +15423,11 @@ nil,
 11,
 13,
 14,
-15,
 },
 },
 {
 ["color"] = "3e9eff",
 [13] = {
-4,
-2,
 },
 },
 {
@@ -12407,14 +15451,11 @@ nil,
 {
 {
 17,
-18,
 },
 ["color"] = "ff3e9e",
 [4] = {
-21,
 },
 [7] = {
-4,
 },
 },
 {
@@ -12426,30 +15467,7 @@ nil,
 {
 ["color"] = "ff9b3e",
 [16] = {
-3,
 1,
-2,
-4,
-5,
-24,
-6,
-8,
-9,
-10,
-11,
-7,
-15,
-16,
-17,
-12,
-13,
-14,
-22,
-18,
-20,
-21,
-23,
-19,
 },
 [17] = {
 1,
@@ -13490,11 +16508,11 @@ nil,
 ["riftOffsets"] = {
 [8] = {
 },
+[9] = {
+},
 [7] = {
 },
 [4] = {
-},
-[9] = {
 },
 },
 ["currentDungeonIdx"] = 30,
@@ -13782,7 +16800,6 @@ nil,
 3,
 },
 {
-3,
 },
 ["color"] = "ff3eff",
 },
@@ -13800,10 +16817,6 @@ nil,
 },
 nil,
 {
-27,
-24,
-25,
-26,
 },
 ["color"] = "3eff9e",
 },
@@ -13837,10 +16850,8 @@ nil,
 },
 {
 [6] = {
-8,
 6,
 7,
-9,
 },
 [7] = {
 1,
@@ -13852,8 +16863,6 @@ nil,
 },
 ["color"] = "3e9eff",
 [4] = {
-6,
-5,
 },
 [12] = {
 },
@@ -13863,18 +16872,14 @@ nil,
 10,
 },
 {
-8,
 },
 {
-16,
-15,
 },
 {
 10,
 },
 nil,
 {
-15,
 },
 ["color"] = "fffb3e",
 },
@@ -13882,22 +16887,16 @@ nil,
 {
 },
 [6] = {
-19,
-20,
-17,
-18,
 },
 [7] = {
 2,
 },
 [8] = {
-2,
 },
 [10] = {
 },
 ["color"] = "3eff3e",
 [4] = {
-13,
 12,
 },
 [12] = {
@@ -13924,7 +16923,6 @@ nil,
 },
 {
 {
-9,
 11,
 },
 {
@@ -13949,7 +16947,6 @@ nil,
 {
 ["color"] = "ff9b3e",
 [9] = {
-1,
 },
 },
 {
@@ -13960,8 +16957,6 @@ nil,
 },
 {
 {
-17,
-18,
 },
 {
 11,
@@ -13973,10 +16968,8 @@ nil,
 19,
 },
 {
-21,
 },
 [7] = {
-4,
 },
 ["color"] = "a1ff3e",
 },
@@ -13989,30 +16982,7 @@ nil,
 {
 ["color"] = "3eff9e",
 [16] = {
-13,
-16,
-17,
-12,
-14,
-15,
-7,
-8,
-9,
-10,
-11,
-6,
-3,
 1,
-2,
-4,
-5,
-24,
-22,
-18,
-20,
-21,
-23,
-19,
 },
 [17] = {
 1,
@@ -14046,6 +17016,1129 @@ nil,
 },
 },
 ["difficulty"] = 20,
+},
+{
+["difficulty"] = 24,
+["week"] = 1,
+["addonVersion"] = 552,
+["uid"] = "Z2RPeZSR3g)",
+["value"] = {
+["pulls"] = {
+{
+{
+2,
+1,
+16,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+{
+12,
+},
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3eff9e",
+[4] = {
+10,
+9,
+},
+[5] = {
+19,
+20,
+17,
+18,
+15,
+},
+},
+{
+{
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+},
+["color"] = "ff3e3e",
+[12] = {
+4,
+},
+},
+{
+{
+10,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+{
+21,
+16,
+22,
+23,
+},
+["color"] = "3e9eff",
+[10] = {
+},
+},
+{
+{
+5,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+{
+4,
+},
+{
+5,
+1,
+2,
+3,
+4,
+},
+["color"] = "fffb3e",
+[12] = {
+},
+},
+{
+{
+15,
+},
+nil,
+nil,
+{
+},
+{
+7,
+6,
+8,
+9,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+17,
+18,
+},
+{
+1,
+},
+nil,
+nil,
+nil,
+{
+},
+{
+},
+nil,
+{
+},
+{
+},
+["color"] = "ff3e9e",
+},
+{
+[8] = {
+1,
+},
+[6] = {
+6,
+5,
+7,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+},
+[10] = {
+12,
+10,
+14,
+16,
+17,
+11,
+13,
+15,
+18,
+42,
+38,
+40,
+41,
+44,
+43,
+39,
+},
+["color"] = "ff9b3e",
+[4] = {
+},
+[9] = {
+4,
+},
+},
+{
+[10] = {
+},
+[12] = {
+},
+[4] = {
+},
+[9] = {
+8,
+7,
+},
+["color"] = "3e3eff",
+},
+{
+{
+11,
+},
+[12] = {
+},
+[10] = {
+},
+["color"] = "a1ff3e",
+[4] = {
+18,
+14,
+},
+[5] = {
+},
+[9] = {
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+20,
+},
+{
+},
+nil,
+nil,
+{
+},
+{
+3,
+},
+{
+},
+{
+6,
+5,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[12] = {
+2,
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+[18] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+nil,
+{
+10,
+11,
+},
+{
+21,
+20,
+19,
+},
+{
+},
+[6] = {
+},
+[11] = {
+13,
+14,
+},
+[12] = {
+},
+[9] = {
+11,
+},
+[23] = {
+},
+["color"] = "3e9eff",
+},
+{
+[6] = {
+4,
+},
+["color"] = "fffb3e",
+[4] = {
+24,
+},
+[23] = {
+2,
+1,
+},
+[12] = {
+13,
+},
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+1,
+},
+[22] = {
+1,
+},
+},
+{
+{
+},
+[24] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "ff3e9e",
+[4] = {
+},
+[16] = {
+1,
+},
+[12] = {
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+},
+},
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+7,
+7,
+7,
+7,
+nil,
+nil,
+nil,
+7,
+7,
+},
+[2] = {
+7,
+[6] = 7,
+[7] = 7,
+[10] = 7,
+[4] = 7,
+[9] = 7,
+[11] = 7,
+},
+[12] = {
+[5] = 8,
+[10] = 8,
+[7] = 8,
+[13] = 8,
+},
+[4] = {
+1,
+nil,
+nil,
+1,
+1,
+1,
+nil,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+[20] = 1,
+[24] = 1,
+[21] = 1,
+[18] = 1,
+[19] = 1,
+},
+[9] = {
+nil,
+nil,
+8,
+8,
+8,
+nil,
+8,
+8,
+[11] = 8,
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Halls PUG (11 Aug)",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 24,
+["week"] = 1,
+["uid"] = "Y6CO)(mfHOW",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 8",
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 10,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+10,
+},
+["pulls"] = {
+{
+{
+2,
+1,
+16,
+},
+nil,
+nil,
+{
+12,
+},
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3eff9e",
+[4] = {
+10,
+9,
+},
+[5] = {
+19,
+20,
+17,
+18,
+},
+},
+{
+{
+10,
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+11,
+},
+["color"] = "ff3e3e",
+},
+{
+[3] = {
+12,
+11,
+},
+[2] = {
+6,
+},
+["color"] = "3e9eff",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+17,
+18,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+[12] = {
+7,
+},
+},
+{
+{
+6,
+14,
+5,
+},
+["color"] = "3eff3e",
+[4] = {
+2,
+4,
+},
+[5] = {
+2,
+3,
+4,
+1,
+},
+},
+{
+{
+17,
+15,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+[5] = {
+5,
+},
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[3] = {
+7,
+8,
+9,
+10,
+},
+[2] = {
+3,
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+1,
+},
+[6] = {
+6,
+5,
+7,
+},
+["color"] = "ff9b3e",
+},
+{
+[11] = {
+8,
+9,
+},
+[10] = {
+},
+["color"] = "3e3eff",
+[4] = {
+27,
+28,
+},
+[9] = {
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+34,
+33,
+35,
+36,
+37,
+},
+[4] = {
+22,
+26,
+},
+[11] = {
+11,
+12,
+},
+},
+{
+["color"] = "ff3eff",
+[11] = {
+5,
+6,
+},
+[4] = {
+20,
+},
+[9] = {
+3,
+},
+},
+{
+["color"] = "3eff9e",
+[12] = {
+1,
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+[18] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+[11] = {
+13,
+14,
+},
+[2] = {
+10,
+11,
+},
+[3] = {
+21,
+20,
+19,
+},
+["color"] = "3e9eff",
+[9] = {
+11,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+4,
+},
+[23] = {
+1,
+2,
+},
+[4] = {
+24,
+},
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+1,
+},
+[22] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+1,
+},
+[24] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 11,
+["week"] = 1,
+["value"] = {
+["pulls"] = {
+{
+{
+1,
+2,
+16,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+{
+12,
+},
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[12] = {
+},
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3eff9e",
+[4] = {
+10,
+9,
+},
+[5] = {
+18,
+20,
+17,
+19,
+15,
+},
+},
+{
+{
+10,
+},
+{
+7,
+6,
+},
+{
+13,
+14,
+11,
+12,
+},
+{
+11,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+18,
+17,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+[12] = {
+7,
+},
+},
+{
+{
+6,
+14,
+5,
+},
+["color"] = "fffb3e",
+[4] = {
+2,
+4,
+},
+[5] = {
+1,
+2,
+3,
+4,
+},
+},
+{
+{
+15,
+17,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+[5] = {
+5,
+},
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[2] = {
+3,
+5,
+},
+[3] = {
+8,
+7,
+9,
+10,
+},
+},
+{
+[8] = {
+1,
+},
+[6] = {
+},
+["color"] = "3effff",
+},
+{
+{
+12,
+},
+["color"] = "ff9b3e",
+[10] = {
+38,
+40,
+41,
+42,
+44,
+43,
+39,
+16,
+10,
+12,
+14,
+17,
+11,
+13,
+15,
+18,
+},
+[9] = {
+4,
+8,
+7,
+},
+[4] = {
+15,
+},
+},
+{
+{
+11,
+},
+[5] = {
+39,
+38,
+36,
+37,
+40,
+41,
+42,
+43,
+},
+[4] = {
+18,
+14,
+},
+["color"] = "3e3eff",
+},
+{
+{
+},
+[11] = {
+5,
+6,
+},
+[12] = {
+},
+[4] = {
+20,
+},
+[9] = {
+3,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[13] = {
+1,
+},
+[18] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+[11] = {
+14,
+13,
+},
+[2] = {
+10,
+11,
+},
+[3] = {
+20,
+21,
+19,
+},
+["color"] = "3eff9e",
+[9] = {
+11,
+},
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+4,
+},
+[23] = {
+1,
+2,
+},
+[4] = {
+24,
+},
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3e9eff",
+[14] = {
+1,
+},
+[22] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+1,
+},
+[24] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3eff3e",
+[19] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+},
+},
+["selection"] = {
+10,
+},
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["currentPull"] = 10,
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Route 9",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
 },
 {
 ["value"] = 0,
@@ -16984,15 +21077,15 @@ true,
 [18] = {
 },
 ["color"] = "3eff9e",
+[5] = {
+4,
+5,
+},
 [16] = {
 },
 [9] = {
 16,
 17,
-},
-[5] = {
-4,
-5,
 },
 },
 {
@@ -21366,7 +25459,585 @@ nil,
 ["text"] = "<New Preset>",
 },
 },
+{
+{
+["difficulty"] = 15,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+},
+["pulls"] = {
+{
+["color"] = "228b22",
+},
+},
+},
+},
+{
+["objects"] = {
+},
+["week"] = 1,
+["addonVersion"] = 552,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["pulls"] = {
+{
+{
+8,
+1,
+2,
+9,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+3,
+7,
+6,
+},
 nil,
+{
+2,
+1,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+{
+1,
+},
+{
+},
+["color"] = "3eff9e",
+},
+{
+{
+4,
+5,
+},
+nil,
+{
+3,
+},
+{
+3,
+4,
+},
+["color"] = "ff3e3e",
+[7] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[5] = {
+2,
+3,
+},
+},
+{
+[8] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[10] = {
+1,
+},
+[11] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[12] = {
+1,
+2,
+},
+[26] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[17] = {
+1,
+},
+[18] = {
+1,
+},
+[12] = {
+7,
+6,
+},
+[19] = {
+6,
+},
+[16] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[17] = {
+2,
+},
+[18] = {
+2,
+},
+["color"] = "ff9b3e",
+[12] = {
+},
+[16] = {
+2,
+6,
+},
+[13] = {
+},
+},
+{
+[37] = {
+1,
+},
+[35] = {
+7,
+8,
+9,
+5,
+6,
+},
+["color"] = "3e3eff",
+},
+{
+[34] = {
+1,
+},
+[35] = {
+2,
+4,
+3,
+},
+["color"] = "a1ff3e",
+},
+{
+[37] = {
+2,
+},
+["color"] = "ff3eff",
+[35] = {
+13,
+1,
+10,
+12,
+11,
+},
+[34] = {
+2,
+3,
+},
+},
+{
+[27] = {
+6,
+4,
+5,
+2,
+3,
+1,
+},
+[28] = {
+3,
+1,
+2,
+},
+[29] = {
+2,
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[20] = {
+2,
+},
+[36] = {
+},
+[21] = {
+2,
+},
+[33] = {
+},
+[12] = {
+},
+["color"] = "ff3e3e",
+[23] = {
+1,
+},
+[22] = {
+1,
+2,
+},
+},
+{
+[13] = {
+},
+[27] = {
+7,
+},
+["color"] = "3e9eff",
+[29] = {
+3,
+},
+[30] = {
+1,
+},
+[16] = {
+},
+[32] = {
+1,
+},
+[18] = {
+},
+[19] = {
+},
+[28] = {
+4,
+},
+[14] = {
+},
+[12] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "fffb3e",
+[31] = {
+1,
+},
+},
+},
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[28] = {
+8,
+8,
+8,
+},
+[29] = {
+1,
+1,
+},
+[16] = {
+8,
+8,
+[6] = 8,
+},
+[9] = {
+7,
+7,
+},
+[5] = {
+8,
+},
+[3] = {
+1,
+1,
+},
+[20] = {
+7,
+7,
+7,
+},
+[21] = {
+1,
+1,
+},
+[2] = {
+8,
+},
+[18] = {
+1,
+1,
+},
+[34] = {
+8,
+8,
+8,
+},
+},
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Streets Pug (11 Aug)",
+["difficulty"] = 10,
+["uid"] = "zHu0sNS42VH",
+},
+{
+["difficulty"] = 10,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 37,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+8,
+9,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+3,
+7,
+6,
+},
+["color"] = "3eff9e",
+[5] = {
+1,
+},
+[4] = {
+1,
+2,
+},
+[3] = {
+2,
+1,
+},
+},
+{
+{
+4,
+5,
+},
+nil,
+{
+3,
+},
+{
+3,
+4,
+},
+{
+3,
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[7] = {
+1,
+},
+},
+{
+[8] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+},
+[11] = {
+3,
+1,
+2,
+4,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[13] = {
+3,
+6,
+},
+[15] = {
+1,
+},
+[12] = {
+10,
+9,
+5,
+8,
+},
+[14] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[27] = {
+2,
+3,
+1,
+6,
+4,
+5,
+7,
+},
+[28] = {
+1,
+2,
+3,
+4,
+},
+[32] = {
+1,
+},
+[12] = {
+13,
+},
+["color"] = "3e3eff",
+[29] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[30] = {
+1,
+},
+},
+{
+[37] = {
+1,
+},
+["color"] = "ff3eff",
+[35] = {
+7,
+8,
+9,
+5,
+6,
+2,
+4,
+3,
+},
+[34] = {
+1,
+},
+},
+{
+[37] = {
+2,
+},
+["color"] = "3eff9e",
+[35] = {
+13,
+1,
+10,
+12,
+11,
+},
+[34] = {
+2,
+3,
+},
+},
+{
+[20] = {
+2,
+},
+[21] = {
+2,
+},
+[22] = {
+1,
+2,
+},
+[23] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+},
+},
+["text"] = "Route 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
 {
 {
 ["value"] = {
@@ -21397,9 +26068,6 @@ nil,
 ["color"] = "ff3eff",
 [7] = {
 1,
-2,
-4,
-3,
 },
 },
 {
@@ -21422,11 +26090,6 @@ nil,
 {
 ["color"] = "ff3e3e",
 [10] = {
-5,
-7,
-6,
-3,
-4,
 },
 [9] = {
 7,
@@ -21434,9 +26097,9 @@ nil,
 5,
 },
 [12] = {
-2,
-4,
-3,
+nil,
+nil,
+nil,
 1,
 },
 },
@@ -21450,13 +26113,8 @@ nil,
 {
 ["color"] = "fffb3e",
 [16] = {
-4,
-3,
 },
 [15] = {
-5,
-6,
-7,
 },
 },
 {
@@ -21472,7 +26130,6 @@ nil,
 {
 ["color"] = "ff3e9e",
 [16] = {
-2,
 },
 [15] = {
 3,
@@ -21546,17 +26203,8 @@ nil,
 9,
 10,
 12,
-16,
-17,
-15,
 },
 {
-8,
-7,
-9,
-10,
-14,
-13,
 },
 [14] = {
 1,
@@ -21576,6 +26224,372 @@ nil,
 ["freehold"] = 1,
 },
 ["difficulty"] = 30,
+},
+{
+["objects"] = {
+},
+["uid"] = "rmNTRkFiM4a",
+["addonVersion"] = 550,
+["value"] = {
+["pulls"] = {
+{
+{
+21,
+22,
+23,
+24,
+17,
+18,
+19,
+20,
+13,
+14,
+15,
+16,
+26,
+31,
+32,
+25,
+27,
+28,
+29,
+30,
+},
+{
+2,
+},
+{
+5,
+6,
+3,
+4,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+[24] = {
+1,
+},
+},
+{
+{
+2,
+3,
+1,
+4,
+9,
+8,
+10,
+11,
+12,
+5,
+6,
+7,
+33,
+34,
+35,
+36,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+["color"] = "3eff9e",
+[5] = {
+2,
+},
+},
+{
+{
+81,
+82,
+84,
+83,
+80,
+73,
+74,
+76,
+77,
+79,
+78,
+75,
+},
+{
+13,
+},
+{
+16,
+17,
+},
+{
+4,
+},
+{
+11,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+89,
+90,
+92,
+91,
+93,
+96,
+95,
+94,
+},
+{
+15,
+16,
+},
+{
+20,
+21,
+22,
+},
+[24] = {
+},
+["color"] = "3e9eff",
+[5] = {
+13,
+14,
+},
+},
+{
+[6] = {
+2,
+1,
+3,
+4,
+},
+[13] = {
+},
+[17] = {
+},
+[23] = {
+},
+["color"] = "fffb3e",
+[19] = {
+},
+[5] = {
+},
+[7] = {
+},
+},
+{
+["color"] = "3eff3e",
+[19] = {
+1,
+2,
+},
+[7] = {
+1,
+},
+[17] = {
+1,
+},
+},
+{
+[8] = {
+3,
+2,
+1,
+4,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "ff3e9e",
+},
+{
+[11] = {
+2,
+1,
+},
+[8] = {
+6,
+7,
+5,
+},
+["color"] = "3effff",
+[9] = {
+3,
+4,
+},
+[5] = {
+},
+},
+{
+["color"] = "ff9b3e",
+[9] = {
+5,
+6,
+7,
+},
+[11] = {
+4,
+3,
+},
+},
+{
+["color"] = "3e3eff",
+[18] = {
+1,
+},
+[20] = {
+1,
+2,
+},
+[12] = {
+1,
+},
+},
+{
+[13] = {
+4,
+},
+[15] = {
+1,
+},
+["color"] = "a1ff3e",
+[14] = {
+2,
+1,
+},
+[23] = {
+4,
+},
+},
+{
+[13] = {
+2,
+},
+[15] = {
+4,
+3,
+},
+["color"] = "ff3eff",
+[14] = {
+6,
+5,
+7,
+},
+[23] = {
+1,
+},
+},
+{
+[13] = {
+3,
+},
+[15] = {
+2,
+},
+["color"] = "3eff9e",
+[14] = {
+3,
+4,
+},
+[23] = {
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+},
+[22] = {
+1,
+},
+[21] = {
+1,
+2,
+},
+},
+},
+["currentPull"] = 14,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[2] = {
+8,
+8,
+[13] = 8,
+[15] = 8,
+[16] = 8,
+},
+[8] = {
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+},
+[3] = {
+1,
+1,
+1,
+1,
+1,
+1,
+[20] = 1,
+[17] = 1,
+[21] = 1,
+[22] = 1,
+[16] = 1,
+},
+[15] = {
+1,
+1,
+1,
+1,
+},
+[14] = {
+8,
+8,
+},
+[9] = {
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+[23] = {
+[4] = 8,
+},
+},
+["currentDungeonIdx"] = 38,
+["teeming"] = false,
+["selection"] = {
+14,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Gambit PUG (9 Aug)",
+["difficulty"] = 10,
+["week"] = 1,
 },
 {
 ["value"] = 0,
@@ -28310,8 +33324,6 @@ nil,
 {
 ["color"] = "3e9eff",
 [10] = {
-6,
-7,
 },
 [7] = {
 11,
@@ -28326,17 +33338,12 @@ nil,
 nil,
 nil,
 {
-36,
 },
 {
 },
 {
-18,
 },
 [10] = {
-28,
-27,
-26,
 },
 ["color"] = "fffb3e",
 },
@@ -28352,7 +33359,6 @@ nil,
 10,
 },
 [10] = {
-29,
 },
 ["color"] = "3eff3e",
 },
@@ -28382,7 +33388,7 @@ nil,
 {
 ["color"] = "ff9b3e",
 [10] = {
-2,
+nil,
 1,
 },
 [11] = {
@@ -28403,7 +33409,6 @@ nil,
 [17] = {
 },
 [10] = {
-3,
 },
 [6] = {
 },
@@ -28431,6 +33436,288 @@ nil,
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
+},
+{
+["difficulty"] = 10,
+["week"] = 1,
+["addonVersion"] = 550,
+["value"] = {
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+6,
+4,
+},
+{
+3,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+9,
+},
+["color"] = "ff3e3e",
+[4] = {
+2,
+},
+[5] = {
+2,
+},
+},
+{
+{
+8,
+7,
+},
+{
+4,
+},
+["color"] = "3e9eff",
+[5] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[14] = {
+1,
+},
+},
+{
+{
+16,
+},
+{
+9,
+},
+nil,
+nil,
+nil,
+{
+7,
+},
+{
+33,
+14,
+},
+{
+1,
+2,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+8,
+},
+[12] = {
+1,
+},
+[7] = {
+1,
+2,
+12,
+},
+},
+{
+[6] = {
+10,
+11,
+12,
+},
+[7] = {
+},
+[8] = {
+},
+["color"] = "3effff",
+[4] = {
+4,
+},
+[9] = {
+6,
+},
+[17] = {
+},
+},
+{
+[11] = {
+1,
+},
+[7] = {
+5,
+},
+[2] = {
+8,
+},
+["color"] = "ff9b3e",
+[6] = {
+},
+[9] = {
+3,
+},
+[17] = {
+},
+},
+{
+{
+12,
+},
+{
+6,
+5,
+},
+{
+4,
+},
+{
+8,
+},
+nil,
+{
+30,
+31,
+24,
+33,
+32,
+},
+["color"] = "3e3eff",
+[9] = {
+16,
+},
+},
+{
+[7] = {
+},
+[10] = {
+1,
+},
+["color"] = "a1ff3e",
+[9] = {
+2,
+1,
+},
+[17] = {
+},
+},
+{
+[6] = {
+},
+[2] = {
+},
+[15] = {
+1,
+},
+[18] = {
+3,
+2,
+1,
+4,
+5,
+},
+["color"] = "ff3eff",
+[9] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+},
+},
+},
+["selection"] = {
+8,
+},
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+[7] = 1,
+[28] = 1,
+[29] = 1,
+[8] = 1,
+[22] = 1,
+},
+[2] = {
+1,
+1,
+1,
+1,
+nil,
+nil,
+nil,
+1,
+1,
+},
+[4] = {
+8,
+8,
+},
+[9] = {
+8,
+8,
+8,
+[20] = 8,
+[21] = 8,
+[14] = 8,
+[5] = 8,
+[15] = 8,
+},
+[5] = {
+1,
+1,
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["currentPull"] = 8,
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Dawnbreaker (9 Aug)",
+["objects"] = {
+},
+["uid"] = "5PGp1LE9tWF",
 },
 {
 ["value"] = 0,
@@ -30781,7 +36068,7 @@ nil,
 2,
 35,
 3,
-37,
+nil,
 5,
 4,
 6,
@@ -30831,8 +36118,8 @@ nil,
 8,
 },
 {
-24,
-23,
+nil,
+nil,
 20,
 19,
 15,
@@ -30964,7 +36251,6 @@ nil,
 5,
 },
 [10] = {
-12,
 },
 [9] = {
 12,
@@ -30973,10 +36259,6 @@ nil,
 },
 {
 [8] = {
-40,
-41,
-42,
-43,
 },
 [10] = {
 8,
@@ -31020,7 +36302,6 @@ nil,
 },
 [16] = {
 1,
-2,
 },
 },
 {
@@ -31058,6 +36339,1178 @@ nil,
 ["colorPaletteIdx"] = 4,
 },
 ["uid"] = "9r5qR)iRvJ1",
+},
+{
+["difficulty"] = 10,
+["uid"] = "4F)ErSiP2E8",
+["addonVersion"] = 550,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["pulls"] = {
+{
+{
+35,
+2,
+34,
+3,
+36,
+5,
+4,
+6,
+11,
+27,
+25,
+26,
+31,
+29,
+30,
+24,
+22,
+23,
+28,
+},
+{
+6,
+42,
+43,
+5,
+27,
+26,
+28,
+29,
+},
+{
+5,
+6,
+},
+{
+5,
+6,
+},
+[7] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+21,
+20,
+19,
+},
+{
+24,
+23,
+25,
+33,
+34,
+35,
+},
+{
+8,
+},
+{
+20,
+19,
+16,
+15,
+},
+["color"] = "3eff9e",
+},
+{
+{
+},
+{
+17,
+18,
+19,
+},
+nil,
+{
+10,
+11,
+12,
+},
+[6] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+17,
+18,
+},
+{
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+14,
+12,
+13,
+},
+{
+4,
+},
+{
+},
+{
+1,
+},
+nil,
+nil,
+{
+},
+["color"] = "3e9eff",
+[13] = {
+},
+[16] = {
+},
+},
+{
+{
+15,
+},
+{
+16,
+15,
+31,
+32,
+54,
+55,
+30,
+},
+{
+7,
+},
+{
+9,
+17,
+18,
+},
+["color"] = "fffb3e",
+[16] = {
+},
+},
+{
+["color"] = "3eff3e",
+[16] = {
+1,
+},
+[22] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+33,
+},
+[11] = {
+1,
+},
+[8] = {
+4,
+5,
+6,
+7,
+2,
+3,
+1,
+},
+[10] = {
+1,
+},
+["color"] = "ff3e9e",
+[9] = {
+2,
+1,
+},
+},
+{
+[11] = {
+2,
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[12] = {
+1,
+},
+[9] = {
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+20,
+21,
+22,
+},
+[10] = {
+11,
+3,
+},
+["color"] = "ff9b3e",
+[9] = {
+4,
+6,
+},
+[12] = {
+3,
+},
+},
+{
+["color"] = "3e3eff",
+[10] = {
+5,
+6,
+},
+[9] = {
+7,
+8,
+9,
+},
+[12] = {
+4,
+},
+},
+{
+[2] = {
+},
+[8] = {
+39,
+38,
+36,
+37,
+},
+[10] = {
+7,
+},
+[12] = {
+6,
+7,
+},
+[4] = {
+},
+["color"] = "a1ff3e",
+},
+{
+[11] = {
+5,
+},
+[8] = {
+27,
+24,
+28,
+25,
+26,
+23,
+},
+[18] = {
+},
+["color"] = "ff3eff",
+[19] = {
+},
+},
+{
+["color"] = "3eff9e",
+[17] = {
+1,
+},
+[18] = {
+1,
+},
+},
+{
+[13] = {
+1,
+4,
+},
+[15] = {
+5,
+6,
+2,
+1,
+8,
+9,
+7,
+},
+["color"] = "ff3e3e",
+[14] = {
+5,
+1,
+2,
+4,
+3,
+},
+[16] = {
+},
+[4] = {
+},
+},
+{
+[13] = {
+7,
+8,
+},
+[15] = {
+17,
+16,
+20,
+18,
+19,
+3,
+4,
+21,
+22,
+},
+["color"] = "3e9eff",
+[14] = {
+7,
+8,
+9,
+10,
+6,
+},
+[16] = {
+},
+},
+{
+[20] = {
+1,
+2,
+},
+[13] = {
+},
+[21] = {
+1,
+2,
+},
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+[16] = {
+},
+[22] = {
+},
+},
+},
+["selection"] = {
+14,
+},
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+nil,
+nil,
+{
+nil,
+nil,
+nil,
+1,
+1,
+1,
+1,
+1,
+},
+nil,
+{
+8,
+},
+{
+1,
+},
+{
+1,
+},
+nil,
+{
+8,
+8,
+nil,
+8,
+8,
+8,
+8,
+8,
+8,
+},
+{
+1,
+[6] = 1,
+[7] = 1,
+[3] = 1,
+[5] = 1,
+[11] = 1,
+},
+{
+},
+{
+1,
+[3] = 7,
+[6] = 7,
+[7] = 7,
+[4] = 7,
+},
+{
+7,
+[8] = 7,
+[7] = 7,
+[4] = 7,
+},
+nil,
+nil,
+{
+[13] = 8,
+[4] = 8,
+[14] = 8,
+[10] = 8,
+[15] = 8,
+[11] = 8,
+[16] = 8,
+[17] = 8,
+[18] = 8,
+[19] = 8,
+[20] = 8,
+[3] = 8,
+[22] = 8,
+[12] = 8,
+[21] = 8,
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["currentPull"] = 14,
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "AraKara (9 Aug)",
+["objects"] = {
+},
+["week"] = 1,
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freehold"] = 1,
+["freeholdJoined"] = false,
+},
+["week"] = 1,
+["objects"] = {
+},
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+34,
+2,
+35,
+3,
+36,
+6,
+4,
+5,
+10,
+9,
+11,
+},
+{
+7,
+44,
+45,
+},
+nil,
+{
+2,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+},
+{
+5,
+6,
+26,
+27,
+28,
+29,
+42,
+43,
+},
+{
+5,
+6,
+},
+[7] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+20,
+21,
+19,
+},
+{
+23,
+24,
+25,
+33,
+34,
+35,
+},
+{
+8,
+},
+{
+19,
+20,
+16,
+15,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+17,
+18,
+15,
+},
+{
+16,
+15,
+13,
+12,
+14,
+17,
+18,
+19,
+},
+nil,
+{
+10,
+11,
+12,
+9,
+},
+[6] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+nil,
+{
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+},
+{
+4,
+},
+{
+14,
+13,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[16] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+33,
+},
+[11] = {
+1,
+},
+[8] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+},
+[10] = {
+1,
+4,
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+3,
+},
+},
+{
+[11] = {
+2,
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[12] = {
+1,
+},
+[9] = {
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+20,
+21,
+22,
+},
+[10] = {
+11,
+3,
+},
+[12] = {
+3,
+},
+[9] = {
+4,
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[10] = {
+5,
+6,
+},
+[12] = {
+4,
+},
+[9] = {
+7,
+8,
+9,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+7,
+},
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "ff3eff",
+[11] = {
+5,
+},
+[8] = {
+24,
+27,
+28,
+25,
+26,
+23,
+},
+},
+{
+[17] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[14] = {
+1,
+2,
+4,
+5,
+3,
+},
+[13] = {
+1,
+},
+[15] = {
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[13] = {
+4,
+},
+[15] = {
+5,
+6,
+8,
+9,
+7,
+},
+},
+{
+[14] = {
+7,
+8,
+9,
+10,
+6,
+},
+[13] = {
+7,
+8,
+},
+[15] = {
+16,
+17,
+19,
+18,
+20,
+21,
+22,
+},
+["color"] = "fffb3e",
+},
+{
+[19] = {
+1,
+},
+["color"] = "3eff3e",
+},
+},
+},
+["text"] = "cook 1.2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "GwMKTNT6m1D",
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freehold"] = 1,
+["freeholdJoined"] = false,
+},
+["week"] = 1,
+["objects"] = {
+},
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+34,
+2,
+35,
+3,
+36,
+6,
+4,
+5,
+10,
+9,
+11,
+},
+{
+7,
+44,
+45,
+},
+nil,
+{
+2,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+},
+{
+5,
+6,
+26,
+27,
+28,
+29,
+42,
+43,
+},
+{
+5,
+6,
+},
+[7] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+20,
+21,
+19,
+},
+{
+23,
+24,
+25,
+33,
+34,
+35,
+},
+{
+8,
+},
+{
+19,
+20,
+16,
+15,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+17,
+18,
+15,
+},
+{
+16,
+15,
+13,
+12,
+14,
+17,
+18,
+19,
+},
+nil,
+{
+10,
+11,
+12,
+9,
+},
+[6] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+nil,
+{
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+},
+{
+4,
+},
+{
+14,
+13,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[16] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+33,
+},
+[11] = {
+1,
+},
+[8] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+},
+[10] = {
+1,
+4,
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+3,
+},
+},
+{
+[11] = {
+2,
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[12] = {
+1,
+},
+[9] = {
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+20,
+21,
+22,
+},
+[10] = {
+11,
+3,
+},
+[12] = {
+3,
+},
+[9] = {
+4,
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[10] = {
+5,
+6,
+},
+[12] = {
+4,
+},
+[9] = {
+7,
+8,
+9,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+7,
+},
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "ff3eff",
+[11] = {
+5,
+},
+[8] = {
+24,
+27,
+28,
+25,
+26,
+23,
+},
+},
+{
+[17] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[14] = {
+1,
+2,
+4,
+5,
+3,
+},
+[13] = {
+1,
+},
+[15] = {
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[13] = {
+4,
+},
+[15] = {
+5,
+6,
+8,
+9,
+7,
+},
+},
+{
+[14] = {
+7,
+8,
+9,
+10,
+6,
+},
+[13] = {
+7,
+8,
+},
+[15] = {
+16,
+17,
+19,
+18,
+20,
+21,
+22,
+},
+["color"] = "fffb3e",
+},
+{
+[19] = {
+1,
+},
+["color"] = "3eff3e",
+},
+},
+},
+["text"] = "cook 1.2 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "8v1g2f0sHcS",
 },
 {
 ["value"] = 0,
@@ -31670,9 +38123,6 @@ nil,
 2,
 },
 [10] = {
-39,
-2,
-3,
 },
 ["color"] = "ff3eff",
 },
@@ -31693,24 +38143,17 @@ nil,
 3,
 },
 [7] = {
-6,
 },
 },
 {
 {
 },
 [20] = {
-15,
-16,
 },
 [17] = {
 1,
 },
 [10] = {
-31,
-29,
-30,
-28,
 },
 [12] = {
 },
@@ -31718,19 +38161,14 @@ nil,
 },
 {
 {
-46,
-47,
 },
 {
 7,
 },
 ["color"] = "3e9eff",
 [10] = {
-37,
-38,
 },
 [7] = {
-32,
 },
 },
 {
@@ -31742,7 +38180,6 @@ nil,
 6,
 },
 [7] = {
-15,
 },
 [9] = {
 15,
@@ -31759,7 +38196,6 @@ nil,
 16,
 },
 [7] = {
-16,
 },
 },
 {
@@ -31775,7 +38211,6 @@ nil,
 10,
 11,
 12,
-13,
 },
 [13] = {
 1,
@@ -31785,13 +38220,8 @@ nil,
 {
 ["color"] = "3effff",
 [10] = {
-25,
-24,
 },
 [20] = {
-12,
-13,
-14,
 },
 [19] = {
 1,
@@ -31805,8 +38235,6 @@ nil,
 },
 {
 [21] = {
-2,
-3,
 },
 [6] = {
 2,
@@ -31819,16 +38247,13 @@ nil,
 5,
 6,
 8,
-9,
+nil,
 7,
 },
 ["color"] = "3e3eff",
 },
 {
 [21] = {
-6,
-7,
-4,
 },
 [6] = {
 7,
@@ -31836,8 +38261,6 @@ nil,
 5,
 },
 [7] = {
-19,
-17,
 },
 ["color"] = "a1ff3e",
 },
@@ -31851,7 +38274,6 @@ nil,
 20,
 },
 [7] = {
-20,
 },
 },
 {
@@ -31859,10 +38281,8 @@ nil,
 6,
 },
 [7] = {
-18,
 },
 [21] = {
-5,
 },
 ["color"] = "3eff9e",
 [9] = {
@@ -31877,16 +38297,12 @@ nil,
 },
 {
 [21] = {
-9,
-8,
 },
 [6] = {
 10,
 11,
 },
 [7] = {
-21,
-22,
 },
 ["color"] = "3e9eff",
 },
@@ -31896,17 +38312,14 @@ nil,
 13,
 },
 [7] = {
-24,
 },
 [15] = {
-12,
 },
 ["color"] = "fffb3e",
 [14] = {
 7,
 },
 [16] = {
-2,
 },
 },
 {
@@ -31914,7 +38327,6 @@ nil,
 9,
 },
 [16] = {
-4,
 },
 [15] = {
 2,
@@ -31927,12 +38339,9 @@ nil,
 },
 [16] = {
 1,
-7,
 },
 [15] = {
 1,
-10,
-11,
 },
 ["color"] = "ff3e9e",
 },
@@ -31941,24 +38350,16 @@ nil,
 1,
 },
 [7] = {
-28,
-27,
 },
 ["color"] = "3effff",
 },
 {
 ["color"] = "ff9b3e",
 [7] = {
-30,
-31,
 },
 [15] = {
 5,
 4,
-6,
-9,
-7,
-8,
 },
 },
 {
@@ -32461,6 +38862,708 @@ true,
 },
 },
 ["week"] = 1,
+},
+{
+["difficulty"] = 15,
+["uid"] = "3D(s5y(ChDG",
+["addonVersion"] = 552,
+["week"] = 1,
+["value"] = {
+["pulls"] = {
+{
+{
+3,
+2,
+4,
+5,
+9,
+13,
+12,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[9] = {
+34,
+4,
+},
+[11] = {
+1,
+},
+},
+{
+{
+22,
+20,
+21,
+19,
+},
+[7] = {
+},
+["color"] = "3eff9e",
+[19] = {
+4,
+3,
+},
+[9] = {
+11,
+},
+[16] = {
+1,
+},
+},
+{
+{
+43,
+1,
+26,
+},
+{
+1,
+},
+["color"] = "ff3e3e",
+[6] = {
+8,
+},
+[9] = {
+33,
+1,
+13,
+},
+},
+{
+{
+25,
+24,
+23,
+},
+["color"] = "3e9eff",
+[10] = {
+1,
+},
+},
+{
+{
+27,
+28,
+},
+[6] = {
+7,
+},
+[7] = {
+1,
+},
+[8] = {
+5,
+},
+["color"] = "fffb3e",
+[14] = {
+},
+[9] = {
+12,
+14,
+},
+[19] = {
+5,
+},
+},
+{
+{
+32,
+},
+["color"] = "3eff3e",
+[6] = {
+9,
+},
+[9] = {
+18,
+19,
+},
+[19] = {
+6,
+7,
+8,
+},
+},
+{
+{
+},
+[14] = {
+},
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+[18] = {
+},
+},
+{
+[20] = {
+2,
+1,
+3,
+},
+["color"] = "3effff",
+[4] = {
+2,
+6,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[5] = {
+1,
+2,
+4,
+3,
+},
+[6] = {
+17,
+},
+},
+{
+[20] = {
+4,
+},
+[8] = {
+18,
+},
+["color"] = "ff9b3e",
+[5] = {
+5,
+},
+[6] = {
+18,
+},
+},
+{
+[6] = {
+20,
+19,
+},
+[8] = {
+19,
+},
+["color"] = "3e3eff",
+[5] = {
+7,
+8,
+6,
+},
+[20] = {
+6,
+5,
+},
+},
+{
+["color"] = "a1ff3e",
+[22] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[6] = {
+21,
+22,
+},
+[20] = {
+8,
+7,
+},
+[5] = {
+9,
+10,
+},
+},
+{
+[6] = {
+},
+[13] = {
+7,
+},
+[15] = {
+2,
+},
+["color"] = "3eff9e",
+[14] = {
+12,
+},
+[5] = {
+12,
+11,
+},
+},
+{
+[6] = {
+27,
+24,
+},
+[13] = {
+8,
+},
+[15] = {
+},
+["color"] = "ff3e3e",
+[14] = {
+3,
+},
+[5] = {
+13,
+},
+[20] = {
+10,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+1,
+},
+[15] = {
+1,
+5,
+},
+[14] = {
+1,
+10,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+25,
+26,
+29,
+},
+[17] = {
+1,
+},
+[14] = {
+9,
+7,
+8,
+11,
+},
+},
+{
+[6] = {
+28,
+},
+[24] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+["color"] = "3eff3e",
+[14] = {
+5,
+4,
+6,
+},
+[23] = {
+1,
+},
+},
+},
+["currentPull"] = 14,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+[24] = 1,
+[25] = 1,
+[7] = 1,
+[27] = 1,
+[28] = 1,
+[29] = 1,
+[8] = 1,
+[17] = 1,
+[26] = 1,
+[19] = 1,
+[20] = 1,
+[21] = 1,
+[22] = 1,
+[23] = 1,
+[9] = 1,
+},
+[2] = {
+8,
+},
+[8] = {
+[5] = 1,
+[19] = 1,
+[18] = 1,
+},
+[10] = {
+8,
+},
+[17] = {
+8,
+},
+[11] = {
+8,
+},
+[5] = {
+[5] = 2,
+},
+[15] = {
+1,
+1,
+1,
+[5] = 1,
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+14,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Priory (11 Aug)",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 15,
+["week"] = 1,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["currentPull"] = 7,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+2,
+4,
+5,
+9,
+13,
+12,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[9] = {
+34,
+4,
+},
+[11] = {
+1,
+},
+},
+{
+{
+17,
+},
+[6] = {
+4,
+5,
+},
+[8] = {
+1,
+},
+["color"] = "3eff9e",
+[9] = {
+9,
+10,
+},
+[16] = {
+1,
+},
+},
+{
+{
+20,
+21,
+22,
+19,
+26,
+},
+["color"] = "ff3e3e",
+[19] = {
+4,
+3,
+},
+[9] = {
+11,
+13,
+},
+[6] = {
+8,
+},
+},
+{
+{
+43,
+1,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+[9] = {
+33,
+1,
+},
+},
+{
+{
+24,
+25,
+23,
+},
+["color"] = "fffb3e",
+[10] = {
+1,
+},
+},
+{
+{
+},
+{
+},
+[6] = {
+7,
+},
+[7] = {
+1,
+},
+[8] = {
+5,
+},
+["color"] = "3eff3e",
+[19] = {
+5,
+},
+[9] = {
+12,
+},
+},
+{
+{
+33,
+34,
+32,
+},
+{
+5,
+},
+["color"] = "ff3e9e",
+[6] = {
+9,
+},
+},
+{
+[21] = {
+1,
+},
+["color"] = "3effff",
+[18] = {
+},
+},
+{
+[20] = {
+2,
+1,
+3,
+},
+["color"] = "ff9b3e",
+[4] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[5] = {
+1,
+2,
+4,
+3,
+},
+[6] = {
+17,
+},
+},
+{
+[20] = {
+6,
+5,
+4,
+},
+[8] = {
+18,
+},
+["color"] = "3e3eff",
+[5] = {
+6,
+5,
+},
+[6] = {
+19,
+18,
+},
+},
+{
+[5] = {
+7,
+8,
+},
+[6] = {
+20,
+},
+["color"] = "a1ff3e",
+[8] = {
+19,
+},
+},
+{
+["color"] = "ff3eff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[6] = {
+21,
+22,
+},
+[20] = {
+8,
+7,
+},
+[5] = {
+9,
+10,
+},
+},
+{
+[20] = {
+9,
+},
+[13] = {
+7,
+},
+[15] = {
+2,
+},
+["color"] = "ff3e3e",
+[14] = {
+12,
+},
+[5] = {
+12,
+11,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+9,
+},
+[15] = {
+4,
+},
+[14] = {
+2,
+11,
+},
+},
+{
+[14] = {
+10,
+1,
+},
+[13] = {
+1,
+},
+[15] = {
+1,
+5,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[6] = {
+25,
+26,
+28,
+},
+[17] = {
+1,
+},
+[14] = {
+6,
+4,
+5,
+},
+},
+{
+[6] = {
+29,
+},
+[24] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+["color"] = "ff3e9e",
+[14] = {
+9,
+7,
+8,
+},
+[23] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+7,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Route 4",
+["objects"] = {
+},
+["uid"] = "Q9Pba1LnxWs",
 },
 {
 ["value"] = 0,
@@ -33971,7 +41074,6 @@ nil,
 25,
 },
 [8] = {
-5,
 },
 ["color"] = "3eff3e",
 [9] = {
@@ -33985,10 +41087,8 @@ nil,
 [2] = {
 },
 [8] = {
-4,
 },
 [3] = {
-20,
 },
 ["color"] = "ff3e9e",
 [5] = {
@@ -33998,7 +41098,6 @@ nil,
 15,
 },
 [7] = {
-6,
 },
 },
 {
@@ -34047,7 +41146,7 @@ nil,
 5,
 6,
 4,
-9,
+nil,
 8,
 7,
 },
@@ -34062,7 +41161,6 @@ nil,
 2,
 4,
 5,
-7,
 },
 },
 {
@@ -34087,7 +41185,6 @@ nil,
 ["color"] = "3e9eff",
 [9] = {
 7,
-8,
 },
 [5] = {
 30,
@@ -34100,28 +41197,20 @@ nil,
 27,
 },
 [9] = {
-10,
-11,
 },
 [5] = {
-34,
 },
 },
 {
 ["color"] = "3eff3e",
 [17] = {
-5,
 },
 [11] = {
-10,
-9,
 },
 },
 {
 ["color"] = "ff3e9e",
 [17] = {
-3,
-2,
 },
 },
 },
@@ -34202,7 +41291,6 @@ nil,
 12,
 },
 [8] = {
-5,
 },
 ["color"] = "ff3e3e",
 [9] = {
@@ -34218,23 +41306,17 @@ nil,
 },
 [4] = {
 11,
-13,
 10,
-14,
-12,
 },
 [6] = {
 },
 },
 {
 [7] = {
-6,
 },
 [8] = {
-4,
 },
 [3] = {
-20,
 },
 ["color"] = "fffb3e",
 [5] = {
@@ -34354,7 +41436,6 @@ nil,
 },
 [10] = {
 8,
-9,
 },
 ["color"] = "ff3eff",
 },
@@ -34374,7 +41455,6 @@ nil,
 2,
 3,
 5,
-7,
 },
 ["color"] = "ff3e3e",
 },
@@ -34400,7 +41480,6 @@ nil,
 },
 [9] = {
 7,
-8,
 },
 ["color"] = "3eff3e",
 },
@@ -34414,27 +41493,19 @@ nil,
 },
 ["color"] = "ff3e9e",
 [9] = {
-10,
-11,
 },
 [5] = {
-34,
 },
 },
 {
 [11] = {
-9,
-10,
 },
 [17] = {
-5,
 },
 ["color"] = "3effff",
 },
 {
 [17] = {
-3,
-2,
 },
 ["color"] = "ff9b3e",
 },
@@ -34530,6 +41601,995 @@ true,
 },
 },
 ["week"] = 1,
+},
+{
+["difficulty"] = 10,
+["week"] = 1,
+["addonVersion"] = 550,
+["uid"] = "BMi35jt00rD",
+["value"] = {
+["pulls"] = {
+{
+{
+3,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+9,
+7,
+8,
+1,
+31,
+17,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+12,
+11,
+},
+[12] = {
+},
+[14] = {
+4,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3eff9e",
+[4] = {
+3,
+2,
+4,
+},
+[5] = {
+20,
+19,
+16,
+15,
+},
+[25] = {
+5,
+},
+},
+{
+[13] = {
+1,
+2,
+},
+[25] = {
+2,
+},
+[12] = {
+},
+[14] = {
+5,
+},
+[5] = {
+21,
+22,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+5,
+4,
+},
+[5] = {
+26,
+25,
+27,
+28,
+},
+[10] = {
+7,
+8,
+},
+["color"] = "3e9eff",
+},
+{
+[18] = {
+1,
+},
+[19] = {
+1,
+},
+["color"] = "fffb3e",
+[27] = {
+1,
+2,
+},
+},
+{
+[7] = {
+4,
+},
+[3] = {
+12,
+13,
+14,
+},
+[12] = {
+4,
+3,
+14,
+},
+["color"] = "3eff3e",
+[9] = {
+3,
+2,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+["color"] = "ff3e9e",
+[2] = {
+18,
+16,
+17,
+14,
+15,
+},
+[7] = {
+2,
+3,
+},
+[6] = {
+13,
+14,
+},
+},
+{
+[6] = {
+16,
+15,
+},
+[17] = {
+1,
+},
+[3] = {
+},
+[22] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3effff",
+[5] = {
+11,
+10,
+},
+[2] = {
+21,
+22,
+},
+},
+{
+[2] = {
+23,
+24,
+},
+[8] = {
+2,
+},
+[3] = {
+17,
+},
+["color"] = "ff9b3e",
+[5] = {
+13,
+12,
+14,
+32,
+},
+[7] = {
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[15] = {
+1,
+6,
+2,
+3,
+4,
+5,
+},
+[20] = {
+},
+[12] = {
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+7,
+6,
+8,
+3,
+4,
+5,
+},
+[20] = {
+},
+},
+{
+["color"] = "ff3eff",
+[20] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[2] = {
+30,
+28,
+29,
+},
+["color"] = "3eff9e",
+[5] = {
+30,
+29,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[11] = {
+8,
+7,
+},
+[2] = {
+27,
+},
+["color"] = "ff3e3e",
+[9] = {
+7,
+6,
+},
+[16] = {
+4,
+},
+[5] = {
+33,
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+2,
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[26] = {
+1,
+2,
+3,
+},
+["color"] = "fffb3e",
+},
+},
+["currentPull"] = 12,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[3] = {
+[14] = 7,
+[13] = 7,
+[12] = 7,
+},
+[10] = {
+[7] = 7,
+[8] = 7,
+},
+[8] = {
+[2] = 8,
+},
+[11] = {
+1,
+[8] = 1,
+[4] = 1,
+[7] = 1,
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+12,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Floodgate (9 Aug)",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+7,
+8,
+9,
+1,
+31,
+17,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[25] = {
+5,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3eff9e",
+[4] = {
+4,
+2,
+3,
+},
+[5] = {
+20,
+19,
+16,
+15,
+},
+[14] = {
+4,
+},
+},
+{
+[6] = {
+},
+[7] = {
+4,
+},
+[3] = {
+12,
+13,
+14,
+},
+["color"] = "ff3e3e",
+[9] = {
+2,
+3,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+nil,
+{
+22,
+21,
+},
+{
+16,
+15,
+},
+{
+8,
+7,
+9,
+10,
+11,
+},
+{
+},
+{
+16,
+15,
+},
+["color"] = "3e9eff",
+[22] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "fffb3e",
+[22] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+},
+},
+{
+[2] = {
+23,
+24,
+},
+[8] = {
+2,
+},
+[3] = {
+17,
+},
+["color"] = "3eff3e",
+[5] = {
+32,
+12,
+14,
+13,
+},
+[7] = {
+5,
+},
+},
+{
+[14] = {
+5,
+},
+[25] = {
+2,
+},
+["color"] = "ff3e9e",
+[5] = {
+21,
+22,
+},
+},
+{
+[25] = {
+4,
+},
+["color"] = "3effff",
+[14] = {
+6,
+},
+[5] = {
+24,
+23,
+},
+[10] = {
+5,
+6,
+},
+},
+{
+{
+5,
+4,
+},
+["color"] = "ff9b3e",
+[10] = {
+7,
+8,
+},
+[5] = {
+25,
+26,
+28,
+27,
+},
+},
+{
+[27] = {
+2,
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e3eff",
+[18] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+5,
+3,
+4,
+7,
+6,
+8,
+1,
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[15] = {
+3,
+6,
+2,
+1,
+4,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[20] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[2] = {
+29,
+30,
+28,
+},
+["color"] = "ff3e3e",
+[5] = {
+30,
+29,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[11] = {
+8,
+7,
+},
+[2] = {
+27,
+},
+["color"] = "3e9eff",
+[9] = {
+6,
+7,
+},
+[5] = {
+33,
+},
+[16] = {
+4,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+2,
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[26] = {
+1,
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 3",
+["objects"] = {
+},
+["uid"] = "uRoPC(NIsrP",
+},
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+7,
+8,
+9,
+1,
+31,
+17,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[25] = {
+5,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3eff9e",
+[4] = {
+4,
+2,
+3,
+},
+[5] = {
+20,
+19,
+16,
+15,
+},
+[14] = {
+4,
+},
+},
+{
+[6] = {
+},
+[7] = {
+4,
+},
+[3] = {
+12,
+13,
+14,
+},
+["color"] = "ff3e3e",
+[9] = {
+2,
+3,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+nil,
+{
+22,
+21,
+},
+{
+16,
+15,
+},
+{
+8,
+7,
+9,
+10,
+11,
+},
+{
+},
+{
+16,
+15,
+},
+["color"] = "3e9eff",
+[22] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "fffb3e",
+[22] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+},
+},
+{
+[2] = {
+23,
+24,
+},
+[8] = {
+2,
+},
+[3] = {
+17,
+},
+["color"] = "3eff3e",
+[5] = {
+32,
+12,
+14,
+13,
+},
+[7] = {
+5,
+},
+},
+{
+[14] = {
+5,
+},
+[25] = {
+2,
+},
+["color"] = "ff3e9e",
+[5] = {
+21,
+22,
+},
+},
+{
+[25] = {
+4,
+},
+["color"] = "3effff",
+[14] = {
+6,
+},
+[5] = {
+24,
+23,
+},
+[10] = {
+5,
+6,
+},
+},
+{
+{
+5,
+4,
+},
+["color"] = "ff9b3e",
+[10] = {
+7,
+8,
+},
+[5] = {
+25,
+26,
+28,
+27,
+},
+},
+{
+[27] = {
+2,
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e3eff",
+[18] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+5,
+3,
+4,
+7,
+6,
+8,
+1,
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[15] = {
+3,
+6,
+2,
+1,
+4,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[20] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[2] = {
+29,
+30,
+28,
+},
+["color"] = "ff3e3e",
+[5] = {
+30,
+29,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[11] = {
+8,
+7,
+},
+[2] = {
+27,
+},
+["color"] = "3e9eff",
+[9] = {
+6,
+7,
+},
+[5] = {
+33,
+},
+[16] = {
+4,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+2,
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[26] = {
+1,
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 3 2",
+["objects"] = {
+},
+["uid"] = "NoKDewZ0UZt",
 },
 {
 ["value"] = 0,
@@ -35586,3057 +43646,784 @@ nil,
 },
 },
 },
+[123] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
 },
-["maximized"] = false,
+},
+["currentDungeonIdx"] = 123,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["difficulty"] = 16,
+["uid"] = "ZbG3)soLZk3",
+["addonVersion"] = 554,
+["value"] = {
+["riftOffsets"] = {
+{
+},
+},
+["currentPull"] = 12,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+8,
+8,
+[5] = 8,
+},
+[2] = {
+[6] = 1,
+[5] = 1,
+},
+[8] = {
+7,
+nil,
+nil,
+7,
+7,
+7,
+7,
+[20] = 7,
+[13] = 7,
+[15] = 7,
+[18] = 7,
+[19] = 7,
+[16] = 7,
+[17] = 7,
+},
+[10] = {
+1,
+1,
+1,
+[6] = 1,
+[7] = 1,
+[12] = 1,
+[14] = 1,
+[11] = 1,
+},
+[11] = {
+[5] = 1,
+[2] = 1,
+[4] = 1,
+[6] = 1,
+},
+[13] = {
+8,
+[5] = 8,
+[4] = 8,
+},
+},
+["currentDungeonIdx"] = 123,
+["teeming"] = false,
+["selection"] = {
+12,
+},
+["pulls"] = {
+{
+{
+6,
+5,
+4,
+},
+{
+6,
+5,
+},
+{
+4,
+7,
+2,
+5,
+3,
+6,
+11,
+8,
+9,
+10,
+},
+{
+3,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+10,
+11,
+},
+nil,
+{
+16,
+15,
+13,
+14,
+12,
+},
+{
+6,
+},
+{
+2,
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+7,
+8,
+},
+["color"] = "ff3e3e",
+[15] = {
+1,
+},
+[18] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+9,
+},
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+[8] = {
+1,
+},
+[10] = {
+3,
+},
+["color"] = "3e9eff",
+[9] = {
+2,
+1,
+},
+},
+{
+[6] = {
+5,
+},
+[7] = {
+3,
+4,
+},
+[8] = {
+4,
+},
+[10] = {
+2,
+},
+["color"] = "fffb3e",
+[9] = {
+10,
+9,
+},
+},
+{
+[7] = {
+12,
+11,
+},
+[8] = {
+19,
+5,
+6,
+},
+["color"] = "3eff3e",
+[9] = {
+12,
+11,
+},
+[13] = {
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+13,
+},
+[8] = {
+20,
+},
+[10] = {
+14,
+},
+["color"] = "ff3e9e",
+[9] = {
+32,
+},
+},
+{
+[7] = {
+1,
+},
+[8] = {
+9,
+10,
+},
+[10] = {
+4,
+},
+["color"] = "3effff",
+[9] = {
+15,
+16,
+},
+},
+{
+[20] = {
+1,
+},
+[8] = {
+7,
+},
+["color"] = "ff9b3e",
+[19] = {
+1,
+},
+[16] = {
+1,
+},
+[9] = {
+14,
+13,
+},
+},
+{
+[11] = {
+2,
+},
+[13] = {
+1,
+},
+[8] = {
+13,
+},
+[10] = {
+},
+[12] = {
+},
+["color"] = "3e3eff",
+[9] = {
+20,
+},
+[7] = {
+5,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+6,
+7,
+},
+[12] = {
+2,
+4,
+3,
+},
+[9] = {
+21,
+22,
+},
+},
+{
+[11] = {
+4,
+},
+[13] = {
+5,
+4,
+},
+[10] = {
+1,
+},
+[12] = {
+7,
+},
+["color"] = "ff3eff",
+},
+{
+[8] = {
+15,
+16,
+17,
+},
+[13] = {
+9,
+},
+[7] = {
+8,
+10,
+9,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[10] = {
+12,
+},
+[12] = {
+8,
+},
+[9] = {
+26,
+29,
+30,
+},
+},
+{
+[8] = {
+18,
+},
+["color"] = "3e9eff",
+[9] = {
+25,
+},
+[11] = {
+5,
+},
+},
+{
+{
+},
+{
+},
+nil,
+{
+},
+{
+},
+nil,
+nil,
+nil,
+{
+24,
+27,
+28,
+},
+{
+11,
+},
+{
+6,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[17] = {
+1,
+},
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Aldani PUG (9 Aug)",
+["objects"] = {
+{
+["d"] = {
+14,
+1,
+1,
+true,
+"00ffe4",
+-8,
+},
+["t"] = {
+0.7599800559308254,
+},
+["l"] = {
+"739.4",
+"-304.5",
+"698.6",
+"-343.4",
+},
+},
+{
+["d"] = {
+14,
+1,
+1,
+true,
+"00ffe4",
+-7,
+},
+["t"] = {
+0.7854047657571278,
+},
+["l"] = {
+"702.9",
+"-339.1",
+"698.6",
+"-343.4",
+},
+},
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 16,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 14,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 123,
+["selection"] = {
+14,
+},
+["pulls"] = {
+{
+{
+3,
+4,
+5,
+6,
+},
+{
+4,
+6,
+5,
+},
+{
+4,
+7,
+2,
+5,
+3,
+6,
+11,
+8,
+9,
+10,
+},
+{
+1,
+2,
+3,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+8,
+7,
+11,
+10,
+},
+nil,
+{
+12,
+15,
+13,
+16,
+14,
+},
+{
+6,
+},
+{
+3,
+2,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[15] = {
+1,
+},
+[18] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+9,
+},
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+[8] = {
+1,
+},
+[10] = {
+3,
+},
+["color"] = "3e9eff",
+[9] = {
+2,
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+4,
+},
+[9] = {
+3,
+4,
+5,
+6,
+},
+[8] = {
+3,
+2,
+},
+},
+{
+[6] = {
+5,
+},
+[7] = {
+4,
+3,
+},
+[8] = {
+4,
+},
+[10] = {
+2,
+},
+["color"] = "3eff3e",
+[9] = {
+8,
+7,
+10,
+9,
+},
+},
+{
+[7] = {
+11,
+12,
+1,
+},
+[8] = {
+19,
+10,
+},
+[10] = {
+4,
+},
+["color"] = "ff3e9e",
+[9] = {
+16,
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+13,
+},
+[8] = {
+20,
+},
+[10] = {
+14,
+},
+["color"] = "3effff",
+[9] = {
+32,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+1,
+},
+[20] = {
+1,
+},
+[19] = {
+1,
+},
+},
+{
+[7] = {
+14,
+},
+[8] = {
+12,
+11,
+7,
+8,
+21,
+},
+[10] = {
+15,
+},
+["color"] = "3e3eff",
+[9] = {
+17,
+18,
+14,
+13,
+34,
+33,
+35,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+5,
+6,
+},
+[12] = {
+1,
+2,
+},
+[9] = {
+21,
+},
+},
+{
+["color"] = "ff3eff",
+[10] = {
+7,
+},
+[12] = {
+3,
+4,
+},
+[9] = {
+22,
+},
+},
+{
+[11] = {
+},
+[13] = {
+},
+[10] = {
+},
+[12] = {
+},
+["color"] = "3eff9e",
+},
+{
+[11] = {
+4,
+},
+[7] = {
+8,
+},
+[8] = {
+16,
+15,
+},
+[10] = {
+1,
+},
+["color"] = "ff3e3e",
+[13] = {
+},
+[12] = {
+7,
+},
+},
+{
+["color"] = "3e9eff",
+[10] = {
+12,
+},
+[12] = {
+8,
+},
+[9] = {
+26,
+30,
+29,
+},
+},
+{
+[11] = {
+5,
+},
+["color"] = "fffb3e",
+[9] = {
+25,
+},
+[8] = {
+18,
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+11,
+},
+[9] = {
+24,
+},
+[11] = {
+6,
+},
+},
+},
+},
+["text"] = "pug2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+},
 ["toolbarExpanded"] = false,
-["dataCollection"] = {
-[36] = {
-[163089] = {
-[330694] = true,
-[321041] = true,
-[330693] = true,
-},
-[164461] = {
-[333231] = true,
-[320272] = true,
-[320300] = true,
-[320277] = true,
-[333292] = true,
-[320293] = true,
-},
-[167534] = {
-[317605] = true,
-[333845] = true,
-[333841] = true,
-[333839] = true,
-},
-[167538] = {
-[331320] = true,
-[342139] = true,
-[331319] = true,
-[331316] = true,
-[342126] = true,
-[342125] = true,
-},
-[169875] = {
-[332550] = true,
-[330810] = true,
-[224729] = true,
-[317898] = true,
-},
-[167998] = {
-[330725] = true,
-[330720] = true,
-[326494] = true,
-[330716] = true,
-[326497] = true,
-},
-[163086] = {
-[330592] = true,
-[345245] = true,
-[330614] = true,
-[330973] = true,
-[330608] = true,
-},
-[169893] = {
-[333294] = true,
-[330875] = true,
-[132951] = true,
-[333299] = true,
-[333297] = true,
-},
-[165946] = {
-[324449] = true,
-[339573] = true,
-[323681] = true,
-[324424] = true,
-[132951] = true,
-[339759] = true,
-[323608] = true,
-[324079] = true,
-[323683] = true,
-},
-[160495] = {
-[317898] = true,
-[330868] = true,
-[333708] = true,
-[132951] = true,
-[224729] = true,
-[330784] = true,
-},
-[162763] = {
-[331243] = true,
-[331223] = true,
-[331224] = true,
-[331237] = true,
-},
-[167533] = {
-[333827] = true,
-[333861] = true,
-[331275] = true,
-},
-[167532] = {
-[331288] = true,
-[332708] = true,
-[342135] = true,
-},
-[164463] = {
-[320248] = true,
-[320180] = true,
-[320120] = true,
-},
-[164451] = {
-[324085] = true,
-[320063] = true,
-[326892] = true,
-[320069] = true,
-},
-[162309] = {
-[319765] = true,
-[322087] = true,
-[342691] = true,
-[319521] = true,
-[319669] = true,
-[322088] = true,
-[333567] = true,
-[319531] = true,
-[317367] = true,
-[319539] = true,
-[319567] = true,
-[45524] = true,
-[319626] = true,
-[319639] = true,
-},
-[170690] = {
-[330697] = true,
-[319290] = true,
-[330700] = true,
-[224729] = true,
-[341977] = true,
-},
-[174197] = {
-[330784] = true,
-[341902] = true,
-},
-[167536] = {
-[342139] = true,
-[334025] = true,
-[333861] = true,
-[334023] = true,
-},
-[169927] = {
-[332836] = true,
-[330586] = true,
-},
-[164506] = {
-[330565] = true,
-[330545] = true,
-[330546] = true,
-[330562] = true,
-},
-[164510] = {
-[330532] = true,
-[319997] = true,
-[327029] = true,
-},
-[170838] = {
-[331510] = true,
-[337178] = true,
-[320679] = true,
-},
-[162317] = {
-[323515] = true,
-[318406] = true,
-},
-[167994] = {
-[326835] = true,
-},
-[170850] = {
-[333241] = true,
-[333242] = true,
-},
-[162329] = {
-[320050] = true,
-[320789] = true,
-[317231] = true,
-[316995] = true,
-[320644] = true,
-[318102] = true,
-[316981] = true,
-[331618] = true,
-[339415] = true,
-[320729] = true,
-[320114] = true,
-},
-[164464] = {
-[333523] = true,
-[342048] = true,
-[333540] = true,
-},
-[174210] = {
-[341969] = true,
-[330694] = true,
-[330703] = true,
-[330693] = true,
-[321041] = true,
-[330700] = true,
-},
-[162744] = {
-[317605] = true,
-[337037] = true,
-[342135] = true,
-[336996] = true,
-},
-[170882] = {
-[341771] = true,
-[317898] = true,
-[333293] = true,
-[342675] = true,
-[132951] = true,
-},
-},
-[31] = {
-[163058] = {
-[324859] = true,
-[331721] = true,
-[324737] = true,
-[331718] = true,
-[324736] = true,
-[224729] = true,
-},
-[164926] = {
-[325027] = true,
-[324923] = true,
-[324909] = true,
-[324922] = true,
-},
-[172312] = {
-[336416] = true,
-[326022] = true,
-[326021] = true,
-[336407] = true,
-[224729] = true,
-},
-[166275] = {
-[324859] = true,
-[324776] = true,
-[224729] = true,
-[132951] = true,
-},
-[167116] = {
-[326090] = true,
-[326092] = true,
-},
-[164501] = {
-[321471] = true,
-[336752] = true,
-[321834] = true,
-[336499] = true,
-[341709] = true,
-[336759] = true,
-[336813] = true,
-[321828] = true,
-},
-[164567] = {
-[321010] = true,
-[331440] = true,
-[323149] = true,
-[323138] = true,
-[323146] = true,
-[321005] = true,
-[328756] = true,
-[323057] = true,
-[321006] = true,
-[132951] = true,
-},
-[166276] = {
-[331747] = true,
-[331748] = true,
-[331743] = true,
-[324859] = true,
-[132951] = true,
-},
-[173720] = {
-[340300] = true,
-[340304] = true,
-[340305] = true,
-[340311] = true,
-},
-[164920] = {
-[121308] = true,
-[322557] = true,
-[224729] = true,
-[322569] = true,
-},
-[164804] = {
-[321772] = true,
-[323059] = true,
-[323250] = true,
-[132951] = true,
-[323177] = true,
-[323137] = true,
-},
-[166299] = {
-[324859] = true,
-[324914] = true,
-[224729] = true,
-[132951] = true,
-},
-[166304] = {
-[324859] = true,
-[325223] = true,
-[325224] = true,
-[325226] = true,
-},
-[173655] = {
-[340189] = true,
-[340160] = true,
-[340208] = true,
-},
-[167117] = {
-[326018] = true,
-[224729] = true,
-},
-[164921] = {
-[326319] = true,
-[322767] = true,
-[322938] = true,
-[224729] = true,
-[322939] = true,
-},
-[165111] = {
-[323020] = true,
-[323043] = true,
-[322968] = true,
-[322967] = true,
-[224729] = true,
-},
-[164929] = {
-[322486] = true,
-[300155] = true,
-[322487] = true,
-[321968] = true,
-[321952] = true,
-[132466] = true,
-},
-[167111] = {
-[326046] = true,
-[340544] = true,
-},
-[166301] = {
-[325021] = true,
-[132951] = true,
-[324987] = true,
-[324859] = true,
-},
-[173714] = {
-[340288] = true,
-[340289] = true,
-[340283] = true,
-[340279] = true,
-},
-[167113] = {
-[325418] = true,
-[224729] = true,
-},
-[164517] = {
-[322450] = true,
-[1604] = true,
-[337253] = true,
-[113746] = true,
-[322614] = true,
-[326263] = true,
-[326281] = true,
-[1490] = true,
-[322654] = true,
-[322709] = true,
-[322655] = true,
-[322527] = true,
-[337249] = true,
-[255909] = true,
-[322563] = true,
-[322465] = true,
-[5760] = true,
-[337220] = true,
-[337251] = true,
-[337235] = true,
-[157736] = true,
-[3409] = true,
-[322658] = true,
-[408] = true,
-[322550] = true,
-[326278] = true,
-[337255] = true,
-[35079] = true,
-},
-},
-[30] = {
-[165414] = {
-[325876] = true,
-[325872] = true,
-[325879] = true,
-[132951] = true,
-[224729] = true,
-[338003] = true,
-},
-[165515] = {
-[132951] = true,
-[224729] = true,
-[325523] = true,
-},
-[164562] = {
-[325797] = true,
-[325799] = true,
-[325535] = true,
-[325793] = true,
-[326450] = true,
-[132951] = true,
-},
-[167612] = {
-[326623] = true,
-[326632] = true,
-[326617] = true,
-[132951] = true,
-[326607] = true,
-},
-[165415] = {
-[338005] = true,
-[132951] = true,
-[338004] = true,
-[224729] = true,
-},
-[167876] = {
-[326847] = true,
-[326891] = true,
-[326846] = true,
-[326806] = true,
-[326794] = true,
-[326829] = true,
-[132951] = true,
-},
-[164563] = {
-[344993] = true,
-[329324] = true,
-[329321] = true,
-[224729] = true,
-[132951] = true,
-},
-[165408] = {
-[339235] = true,
-[324044] = true,
-[322943] = true,
-[322977] = true,
-[322936] = true,
-[322945] = true,
-[339237] = true,
-[322711] = true,
-[323001] = true,
-[132951] = true,
-},
-[167892] = {
-[132951] = true,
-},
-[165529] = {
-[132951] = true,
-[325700] = true,
-[224729] = true,
-[325701] = true,
-},
-[167610] = {
-[132951] = true,
-[326879] = true,
-[224729] = true,
-[326874] = true,
-},
-[164185] = {
-[319702] = true,
-[326389] = true,
-[319733] = true,
-[319703] = true,
-[328206] = true,
-[344874] = true,
-[319603] = true,
-[319592] = true,
-[319941] = true,
-[132951] = true,
-},
-[164557] = {
-[326441] = true,
-[326438] = true,
-[325509] = true,
-[326426] = true,
-[132951] = true,
-[326440] = true,
-[326409] = true,
-},
-[165410] = {
-[329340] = true,
-[132951] = true,
-[323538] = true,
-[323552] = true,
-},
-[174175] = {
-[346866] = true,
-[342021] = true,
-[132951] = true,
-[201657] = true,
-[342189] = true,
-},
-[167607] = {
-[326771] = true,
-[326997] = true,
-},
-[167611] = {
-[326644] = true,
-[326632] = true,
-[326638] = true,
-[132951] = true,
-[326642] = true,
-[326637] = true,
-},
-[164218] = {
-[323414] = true,
-[323392] = true,
-[329113] = true,
-[327885] = true,
-[329104] = true,
-[132951] = true,
-[329262] = true,
-[323236] = true,
-[335345] = true,
-[335338] = true,
-[323143] = true,
-[323437] = true,
-[328791] = true,
-[323393] = true,
-},
-},
-[32] = {
-[168022] = {
-[328429] = true,
-[319898] = true,
-[345429] = true,
-[329226] = true,
-[328432] = true,
-[329224] = true,
-},
-[164266] = {
-[336449] = true,
-[331818] = true,
-[325552] = true,
-[325245] = true,
-[339184] = true,
-[333353] = true,
-[332313] = true,
-[325550] = true,
-[328539] = true,
-[325551] = true,
-[336258] = true,
-[336306] = true,
-[132951] = true,
-},
-[164967] = {
-[329110] = true,
-[332617] = true,
-[330026] = true,
-[322358] = true,
-[329217] = true,
-[328175] = true,
-[333808] = true,
-[331967] = true,
-[340358] = true,
-[132951] = true,
-},
-[168574] = {
-[121308] = true,
-[327995] = true,
-[328002] = true,
-[317898] = true,
-},
-[163857] = {
-[340702] = true,
-[132951] = true,
-[341022] = true,
-[317898] = true,
-},
-[168968] = {
-[331874] = true,
-[331871] = true,
-},
-[164267] = {
-[322304] = true,
-[331399] = true,
-[322492] = true,
-[132951] = true,
-[322232] = true,
-[322491] = true,
-},
-[168969] = {
-[328660] = true,
-[328662] = true,
-[317898] = true,
-[132951] = true,
-[328661] = true,
-[346989] = true,
-[224729] = true,
-[336449] = true,
-},
-[163882] = {
-[320040] = true,
-[320072] = true,
-[132951] = true,
-[336449] = true,
-[329239] = true,
-},
-[171474] = {
-[334640] = true,
-},
-[169159] = {
-[328986] = true,
-},
-[163891] = {
-[346989] = true,
-[319070] = true,
-[317898] = true,
-[328662] = true,
-},
-[168396] = {
-[327233] = true,
-[327594] = true,
-[327581] = true,
-},
-[169861] = {
-[330816] = true,
-[132951] = true,
-[330786] = true,
-[328094] = true,
-},
-[163892] = {
-[320512] = true,
-[340358] = true,
-[331967] = true,
-[328175] = true,
-[132951] = true,
-},
-[169696] = {
-[132951] = true,
-[330417] = true,
-[317898] = true,
-},
-[168578] = {
-[328016] = true,
-[329917] = true,
-[328015] = true,
-[121308] = true,
-[132951] = true,
-},
-[168153] = {
-[330403] = true,
-[330404] = true,
-[327882] = true,
-[132951] = true,
-},
-[164255] = {
-[319780] = true,
-[324652] = true,
-[332865] = true,
-[132951] = true,
-[324459] = true,
-[324667] = true,
-[324527] = true,
-[324490] = true,
-[326242] = true,
-},
-[168361] = {
-[330037] = true,
-[327515] = true,
-},
-[164707] = {
-[322410] = true,
-[333737] = true,
-[346989] = true,
-[321935] = true,
-},
-[168878] = {
-[328501] = true,
-[317898] = true,
-[334926] = true,
-[340358] = true,
-[328175] = true,
-[224729] = true,
-},
-[168886] = {
-[320542] = true,
-[320576] = true,
-[320529] = true,
-[328094] = true,
-[121308] = true,
-},
-[168627] = {
-[328180] = true,
-[328094] = true,
-[317898] = true,
-[121308] = true,
-[340358] = true,
-[328175] = true,
-[224729] = true,
-[331967] = true,
-[132951] = true,
-},
-[163862] = {
-[336451] = true,
-[317898] = true,
-[328533] = true,
-[132951] = true,
-[336449] = true,
-[224729] = true,
-},
-[164737] = {
-[336449] = true,
-[317898] = true,
-[338077] = true,
-[132951] = true,
-[328400] = true,
-[338079] = true,
-[328409] = true,
-[328475] = true,
-[224729] = true,
-[328539] = true,
-},
-[168572] = {
-[328177] = true,
-[317898] = true,
-[328176] = true,
-[121308] = true,
-[132951] = true,
-[330422] = true,
-[330423] = true,
-},
-[164705] = {
-[321975] = true,
-[317898] = true,
-[340356] = true,
-[346989] = true,
-[321999] = true,
-[224729] = true,
-[340357] = true,
-},
-[163894] = {
-[320519] = true,
-[318949] = true,
-[320517] = true,
-[340358] = true,
-[331967] = true,
-[328175] = true,
-[332581] = true,
-},
-[167493] = {
-[328338] = true,
-[339155] = true,
-[328365] = true,
-[328395] = true,
-[132951] = true,
-[328651] = true,
-[336449] = true,
-},
-[173360] = {
-[327233] = true,
-},
-[168580] = {
-[344003] = true,
-},
-[168747] = {
-[1604] = true,
-[328342] = true,
-[328343] = true,
-[132951] = true,
-[224729] = true,
-[336449] = true,
-},
-[168365] = {
-[132951] = true,
-},
-[168891] = {
-[334926] = true,
-[328501] = true,
-},
-},
-[29] = {
-[171184] = {
-[340016] = true,
-[340026] = true,
-},
-[167964] = {
-[331847] = true,
-[331548] = true,
-[331846] = true,
-[132951] = true,
-[240443] = true,
-},
-[164558] = {
-[322759] = true,
-[323118] = true,
-[322735] = true,
-[323064] = true,
-[323166] = true,
-[132951] = true,
-[322736] = true,
-[322773] = true,
-},
-[166608] = {
-[334810] = true,
-[325807] = true,
-[326171] = true,
-[325725] = true,
-[327649] = true,
-[334913] = true,
-[327646] = true,
-[334970] = true,
-[326221] = true,
-[325258] = true,
-[325691] = true,
-[335000] = true,
-[334961] = true,
-},
-[164450] = {
-[342961] = true,
-[320232] = true,
-[323687] = true,
-[321948] = true,
-[324090] = true,
-[132951] = true,
-[320230] = true,
-[323732] = true,
-},
-[168949] = {
-[132951] = true,
-[333728] = true,
-[240443] = true,
-[333729] = true,
-},
-[164861] = {
-[30831] = true,
-[339966] = true,
-[132951] = true,
-[321764] = true,
-[240443] = true,
-},
-[164555] = {
-[324010] = true,
-[320144] = true,
-[320823] = true,
-[323992] = true,
-[321011] = true,
-[320145] = true,
-[332509] = true,
-[320168] = true,
-[323877] = true,
-[321061] = true,
-[324047] = true,
-[320147] = true,
-[330434] = true,
-[132951] = true,
-},
-[170480] = {
-[332678] = true,
-[332672] = true,
-[240443] = true,
-[332671] = true,
-[132951] = true,
-},
-[168934] = {
-[342869] = true,
-[333790] = true,
-[333787] = true,
-[240443] = true,
-[333789] = true,
-[132951] = true,
-},
-[170147] = {
-[331398] = true,
-[132951] = true,
-},
-[168942] = {
-[333875] = true,
-[334051] = true,
-[132951] = true,
-[334076] = true,
-[240443] = true,
-},
-[167965] = {
-[331379] = true,
-[132951] = true,
-[240443] = true,
-[332084] = true,
-},
-[171343] = {
-[334967] = true,
-[334535] = true,
-[334800] = true,
-[132951] = true,
-[240443] = true,
-},
-[167962] = {
-[331933] = true,
-[132951] = true,
-[240443] = true,
-[331927] = true,
-},
-[164556] = {
-[320785] = true,
-[326684] = true,
-[320141] = true,
-[132951] = true,
-[320142] = true,
-[332521] = true,
-[342905] = true,
-[320787] = true,
-[320008] = true,
-[320132] = true,
-[326920] = true,
-[335072] = true,
-},
-[171341] = {
-[132951] = true,
-[240443] = true,
-[334664] = true,
-},
-[168992] = {
-[328729] = true,
-[132951] = true,
-[240443] = true,
-[328707] = true,
-[328740] = true,
-},
-[170572] = {
-[332608] = true,
-[332612] = true,
-[332605] = true,
-[332607] = true,
-[332693] = true,
-[240443] = true,
-[1604] = true,
-[132951] = true,
-},
-[164873] = {
-[323123] = true,
-[323136] = true,
-[132951] = true,
-[240443] = true,
-[323576] = true,
-[345498] = true,
-},
-[168986] = {
-[132951] = true,
-[333711] = true,
-[240443] = true,
-},
-[167963] = {
-[332157] = true,
-[132951] = true,
-[332196] = true,
-[240443] = true,
-[332158] = true,
-[332156] = true,
-},
-[171342] = {
-[240443] = true,
-[132951] = true,
-[334530] = true,
-[334529] = true,
-},
-[167967] = {
-[332232] = true,
-[331422] = true,
-[332236] = true,
-[132951] = true,
-[332234] = true,
-[240443] = true,
-},
-[164862] = {
-[132951] = true,
-[240443] = true,
-[334493] = true,
-},
-[171181] = {
-[132951] = true,
-[240443] = true,
-[334535] = true,
-},
-[170490] = {
-[332706] = true,
-[332705] = true,
-[332707] = true,
-[132951] = true,
-[240443] = true,
-[1604] = true,
-},
-[169905] = {
-[333641] = true,
-[333227] = true,
-[240443] = true,
-[333250] = true,
-[132951] = true,
-},
-[164857] = {
-[321349] = true,
-[30831] = true,
-[240443] = true,
-[132951] = true,
-},
-},
-[34] = {
-[168681] = {
-[328205] = true,
-[324392] = true,
-[336444] = true,
-[323740] = true,
-[328203] = true,
-[328217] = true,
-[323739] = true,
-},
-[168844] = {
-[328454] = true,
-[328458] = true,
-[328462] = true,
-[328466] = true,
-[336420] = true,
-[336496] = true,
-[336444] = true,
-[328453] = true,
-[324662] = true,
-[328434] = true,
-},
-[162059] = {
-[321009] = true,
-[327481] = true,
-[320966] = true,
-[321034] = true,
-[132951] = true,
-[324662] = true,
-[345561] = true,
-},
-[163458] = {
-[317959] = true,
-[317963] = true,
-[207707] = true,
-[132951] = true,
-},
-[163524] = {
-[323804] = true,
-[323786] = true,
-[132951] = true,
-},
-[166411] = {
-[323682] = true,
-},
-[163501] = {
-[132951] = true,
-[323682] = true,
-[207707] = true,
-},
-[168717] = {
-[328331] = true,
-[317959] = true,
-[328330] = true,
-[328332] = true,
-[132951] = true,
-[224729] = true,
-[324392] = true,
-},
-[168318] = {
-[327416] = true,
-[327413] = true,
-[132951] = true,
-[207707] = true,
-[324392] = true,
-},
-[162060] = {
-[338729] = true,
-[334053] = true,
-[324427] = true,
-[331997] = true,
-[324046] = true,
-[132951] = true,
-[323372] = true,
-[338731] = true,
-[323195] = true,
-[324444] = true,
-[132466] = true,
-[324392] = true,
-[323878] = true,
-[324608] = true,
-},
-[163459] = {
-[317936] = true,
-[327332] = true,
-[327331] = true,
-[132951] = true,
-[207707] = true,
-},
-[163506] = {
-[27638] = true,
-[323744] = true,
-[30831] = true,
-[132951] = true,
-},
-[168718] = {
-[328289] = true,
-[324392] = true,
-[328295] = true,
-[132951] = true,
-[328288] = true,
-},
-[162061] = {
-[322814] = true,
-[322893] = true,
-[323010] = true,
-[322999] = true,
-[132951] = true,
-[335817] = true,
-[323011] = true,
-[334625] = true,
-[322818] = true,
-[322817] = true,
-[323943] = true,
-[322908] = true,
-},
-[168420] = {
-[327655] = true,
-[317936] = true,
-[327653] = true,
-[132951] = true,
-},
-[163520] = {
-[317985] = true,
-[327808] = true,
-[327812] = true,
-[323740] = true,
-[336447] = true,
-[323739] = true,
-[132951] = true,
-},
-[168418] = {
-[317959] = true,
-[327647] = true,
-[327648] = true,
-[132951] = true,
-},
-[163503] = {
-[207707] = true,
-[132951] = true,
-[317661] = true,
-[323645] = true,
-},
-[168843] = {
-[328435] = true,
-[328462] = true,
-[328466] = true,
-[336420] = true,
-[328452] = true,
-[336496] = true,
-[328434] = true,
-[328453] = true,
-[324662] = true,
-[336444] = true,
-[323739] = true,
-},
-[163077] = {
-[324368] = true,
-[331249] = true,
-[324370] = true,
-[132951] = true,
-[331251] = true,
-[345561] = true,
-},
-[162058] = {
-[324154] = true,
-[324205] = true,
-[334485] = true,
-[324146] = true,
-[324148] = true,
-[132951] = true,
-[338070] = true,
-},
-[163457] = {
-[132951] = true,
-[207707] = true,
-[317943] = true,
-},
-[168845] = {
-[336444] = true,
-[328466] = true,
-[328462] = true,
-[324662] = true,
-[333887] = true,
-[328453] = true,
-[328434] = true,
-[336496] = true,
-},
-},
-[35] = {
-[165197] = {
-[324387] = true,
-[324391] = true,
-[324372] = true,
-[324381] = true,
-[324394] = true,
-},
-[173044] = {
-[323496] = true,
-[338653] = true,
-[334749] = true,
-[323489] = true,
-[240443] = true,
-[334748] = true,
-[323471] = true,
-},
-[163128] = {
-[345931] = true,
-[320462] = true,
-[320571] = true,
-[320573] = true,
-[240443] = true,
-},
-[162729] = {
-[338022] = true,
-[240443] = true,
-[224729] = true,
-},
-[166302] = {
-[334747] = true,
-[334748] = true,
-[334749] = true,
-[240443] = true,
-},
-[165872] = {
-[323496] = true,
-[323489] = true,
-[240443] = true,
-[323471] = true,
-[327130] = true,
-},
-[164578] = {
-[322548] = true,
-[320376] = true,
-[334322] = true,
-[348170] = true,
-[327952] = true,
-[320208] = true,
-[322681] = true,
-},
-[163121] = {
-[320696] = true,
-[323190] = true,
-[319290] = true,
-[320703] = true,
-[240443] = true,
-},
-[162691] = {
-[320596] = true,
-[320655] = true,
-[320637] = true,
-},
-[165919] = {
-[324323] = true,
-[324293] = true,
-[240443] = true,
-[343470] = true,
-},
-[166264] = {
-[334610] = true,
-},
-[163621] = {
-[338357] = true,
-[338456] = true,
-[240443] = true,
-[333477] = true,
-},
-[163122] = {
-[321576] = true,
-},
-[165222] = {
-[335143] = true,
-[320822] = true,
-[224729] = true,
-},
-[163126] = {
-[321576] = true,
-[328664] = true,
-[320336] = true,
-[333602] = true,
-[328667] = true,
-[322493] = true,
-},
-[165137] = {
-[323347] = true,
-[322756] = true,
-[320462] = true,
-[240443] = true,
-[322757] = true,
-},
-[163157] = {
-[321247] = true,
-[320171] = true,
-[320580] = true,
-[333634] = true,
-[333488] = true,
-[333492] = true,
-[321226] = true,
-[319902] = true,
-[333489] = true,
-[333627] = true,
-[320012] = true,
-[319897] = true,
-[132951] = true,
-},
-[163623] = {
-[338022] = true,
-[240443] = true,
-},
-[166079] = {
-[321576] = true,
-[328687] = true,
-},
-[163619] = {
-[321807] = true,
-[240443] = true,
-},
-[162693] = {
-[321370] = true,
-[320771] = true,
-[323730] = true,
-[321754] = true,
-[321368] = true,
-[320772] = true,
-[321755] = true,
-[321894] = true,
-[320788] = true,
-[321956] = true,
-[320784] = true,
-},
-[162689] = {
-[320200] = true,
-[320358] = true,
-[320366] = true,
-[327664] = true,
-[334488] = true,
-[320359] = true,
-[334321] = true,
-[326629] = true,
-[326574] = true,
-[343558] = true,
-[343556] = true,
-[334476] = true,
-[320365] = true,
-},
-[165911] = {
-[327155] = true,
-[320696] = true,
-[240443] = true,
-[327240] = true,
-},
-[172981] = {
-[338456] = true,
-[240443] = true,
-[338357] = true,
-},
-[173016] = {
-[334747] = true,
-[334749] = true,
-[240443] = true,
-[334748] = true,
-[338353] = true,
-},
-[165138] = {
-[335164] = true,
-[321821] = true,
-[338022] = true,
-},
-[165824] = {
-[335142] = true,
-[345623] = true,
-[345625] = true,
-[320462] = true,
-[327397] = true,
-[327396] = true,
-[327393] = true,
-[335141] = true,
-},
-[163622] = {
-[338022] = true,
-[240443] = true,
-},
-[167731] = {
-[323496] = true,
-[323489] = true,
-[338606] = true,
-[338636] = true,
-[240443] = true,
-[323471] = true,
-[338610] = true,
-},
-[163618] = {
-[327393] = true,
-[327397] = true,
-[324026] = true,
-[321780] = true,
-[324027] = true,
-[321575] = true,
-[323957] = true,
-[320462] = true,
-[327396] = true,
-[240443] = true,
-},
-[163620] = {
-[333485] = true,
-[333482] = true,
-[333479] = true,
-[338456] = true,
-[240443] = true,
-},
-},
-[33] = {
-[167956] = {
-[326712] = true,
-[132951] = true,
-},
-[162039] = {
-[321020] = true,
-[321038] = true,
-[132951] = true,
-[224729] = true,
-[326836] = true,
-},
-[162047] = {
-[334918] = true,
-[321178] = true,
-[334921] = true,
-[334246] = true,
-[132951] = true,
-},
-[162051] = {
-[321249] = true,
-[321220] = true,
-},
-[171448] = {
-[334563] = true,
-[321020] = true,
-[334567] = true,
-[132951] = true,
-[334558] = true,
-},
-[162102] = {
-[325360] = true,
-[326039] = true,
-[328593] = true,
-[325260] = true,
-[132951] = true,
-[325257] = true,
-[325261] = true,
-[325254] = true,
-[325262] = true,
-},
-[168058] = {
-[326952] = true,
-},
-[162056] = {
-[316244] = true,
-[321264] = true,
-[132951] = true,
-},
-[162100] = {
-[319713] = true,
-[319657] = true,
-[338471] = true,
-[319650] = true,
-[319654] = true,
-[132951] = true,
-[319655] = true,
-[319687] = true,
-[319685] = true,
-[319715] = true,
-[330468] = true,
-},
-[162099] = {
-[322903] = true,
-[323846] = true,
-[331415] = true,
-[334877] = true,
-[323845] = true,
-[132951] = true,
-[323821] = true,
-[322796] = true,
-},
-[162103] = {
-[322567] = true,
-[132951] = true,
-[322554] = true,
-},
-[171376] = {
-[334329] = true,
-[334324] = true,
-[334326] = true,
-[334615] = true,
-[132951] = true,
-},
-[162049] = {
-[322169] = true,
-[322212] = true,
-},
-[171384] = {
-[334534] = true,
-[334378] = true,
-[334377] = true,
-[334381] = true,
-},
-[162057] = {
-[328170] = true,
-[322418] = true,
-[321020] = true,
-[322429] = true,
-[315536] = true,
-[322433] = true,
-[132951] = true,
-},
-[165076] = {
-[321401] = true,
-[320843] = true,
-[334653] = true,
-[132951] = true,
-[321402] = true,
-},
-[167955] = {
-[334753] = true,
-[132951] = true,
-[326718] = true,
-},
-[162038] = {
-[321019] = true,
-[321020] = true,
-[320991] = true,
-[132951] = true,
-},
-[162041] = {
-[132951] = true,
-[334470] = true,
-[316068] = true,
-},
-[162046] = {
-[320862] = true,
-[320843] = true,
-[330528] = true,
-[132951] = true,
-[224729] = true,
-[320861] = true,
-},
-[168591] = {
-[321105] = true,
-},
-[162040] = {
-[326826] = true,
-[321020] = true,
-[326837] = true,
-[326825] = true,
-[326827] = true,
-[132951] = true,
-[326831] = true,
-[346537] = true,
-},
-[166396] = {
-[324609] = true,
-},
-[171799] = {
-[335305] = true,
-[335306] = true,
-[335308] = true,
-[132951] = true,
-},
-[172265] = {
-[336277] = true,
-[132951] = true,
-[336279] = true,
-},
-},
-},
-["dataCollectionCC"] = {
-[36] = {
-[163089] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Silence"] = true,
-},
-[164461] = {
-["Taunt"] = true,
-},
-[170882] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Disorient"] = true,
-},
-[167538] = {
-["Taunt"] = true,
-},
-[167534] = {
-["Taunt"] = true,
-},
-[164464] = {
-["Polymorph"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[169875] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Disorient"] = true,
-},
-[162329] = {
-["Taunt"] = true,
-},
-[165946] = {
-["Taunt"] = true,
-},
-[167532] = {
-["Taunt"] = true,
-},
-[169893] = {
-["Taunt"] = true,
-},
-[167533] = {
-["Taunt"] = true,
-},
-[174197] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[164463] = {
-["Taunt"] = true,
-},
-[164451] = {
-["Taunt"] = true,
-},
-[164510] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Incapacitate"] = true,
-},
-[170690] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Control Undead"] = true,
-["Slow"] = true,
-["Disorient"] = true,
-},
-[160495] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[167536] = {
-["Taunt"] = true,
-},
-[169927] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Silence"] = true,
-["Slow"] = true,
-},
-[164506] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[162309] = {
-["Taunt"] = true,
-},
-[170838] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Incapacitate"] = true,
-},
-[162317] = {
-["Taunt"] = true,
-},
-[167994] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-},
-[167998] = {
-["Taunt"] = true,
-},
-[162763] = {
-["Taunt"] = true,
-},
-[170850] = {
-["Taunt"] = true,
-},
-[174210] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Disorient"] = true,
-},
-[162744] = {
-["Taunt"] = true,
-},
-[163086] = {
-["Taunt"] = true,
-},
-},
-[31] = {
-[163058] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[164926] = {
-["Taunt"] = true,
-},
-[172312] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[166275] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[167116] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[166299] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Repentance"] = true,
-},
-[164567] = {
-["Taunt"] = true,
-},
-[166276] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[167117] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164920] = {
-["Taunt"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-},
-[164804] = {
-["Taunt"] = true,
-},
-[167113] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[166304] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[173655] = {
-["Taunt"] = true,
-},
-[164501] = {
-["Taunt"] = true,
-},
-[164921] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Mind Control"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-},
-[165111] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164929] = {
-["Taunt"] = true,
-},
-[167111] = {
-["Taunt"] = true,
-},
-[166301] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[173714] = {
-["Taunt"] = true,
-},
-[173720] = {
-["Taunt"] = true,
-},
-[164517] = {
-["Taunt"] = true,
-},
-},
-[30] = {
-[165414] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[165515] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164562] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Imprison"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Mind Control"] = true,
-["Repentance"] = true,
-},
-[167612] = {
-["Taunt"] = true,
-},
-[165415] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164218] = {
-["Taunt"] = true,
-},
-[164563] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[165408] = {
-["Taunt"] = true,
-},
-[167892] = {
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[165529] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[167610] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164185] = {
-["Taunt"] = true,
-},
-[164557] = {
-["Taunt"] = true,
-},
-[167611] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Imprison"] = true,
-},
-[174175] = {
-["Taunt"] = true,
-},
-[167607] = {
-["Taunt"] = true,
-},
-[165410] = {
-["Taunt"] = true,
-},
-[167876] = {
-["Taunt"] = true,
-},
-},
-[32] = {
-[168022] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164266] = {
-["Taunt"] = true,
-},
-[164967] = {
-["Taunt"] = true,
-},
-[168574] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[163857] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[164267] = {
-["Taunt"] = true,
-},
-[168969] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[163882] = {
-["Taunt"] = true,
-},
-[171474] = {
-["Taunt"] = true,
-},
-[169159] = {
-["Taunt"] = true,
-},
-[163891] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168396] = {
-["Taunt"] = true,
-},
-[169861] = {
-["Taunt"] = true,
-},
-[163892] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[169696] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168578] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[168153] = {
-["Taunt"] = true,
-},
-[164255] = {
-["Taunt"] = true,
-},
-[168361] = {
-["Stun"] = true,
-},
-[168878] = {
-["Taunt"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168886] = {
-["Taunt"] = true,
-},
-[164707] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[163862] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167493] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Repentance"] = true,
-},
-[164737] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[164705] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[163894] = {
-["Taunt"] = true,
-},
-[168627] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168572] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-},
-[168580] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[168747] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168365] = {
-["Taunt"] = true,
-["Root"] = true,
-},
-[168891] = {
-["Silence"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Taunt"] = true,
-},
-},
-[29] = {
-[171184] = {
-["Taunt"] = true,
-},
-[171343] = {
-["Taunt"] = true,
-},
-[164558] = {
-["Taunt"] = true,
-},
-[166608] = {
-["Taunt"] = true,
-},
-[164450] = {
-["Taunt"] = true,
-},
-[171181] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164861] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Imprison"] = true,
-},
-[167965] = {
-["Taunt"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Root"] = true,
-},
-[170480] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Shackle Undead"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-},
-[164873] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[170147] = {
-["Taunt"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[168942] = {
-["Taunt"] = true,
-},
-[167964] = {
-["Taunt"] = true,
-},
-[164862] = {
-["Taunt"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[171341] = {
-["Stun"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[164556] = {
-["Taunt"] = true,
-},
-[168992] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Stun"] = true,
-["Slow"] = true,
-},
-[168934] = {
-["Taunt"] = true,
-},
-[164555] = {
-["Taunt"] = true,
-},
-[171342] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167963] = {
-["Taunt"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[164857] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168986] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Silence"] = true,
-},
-[167967] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[170572] = {
-["Taunt"] = true,
-},
-[167962] = {
-["Taunt"] = true,
-},
-[170490] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[169905] = {
-["Taunt"] = true,
-},
-[168949] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Incapacitate"] = true,
-},
-},
-[34] = {
-[168681] = {
-["Taunt"] = true,
-},
-[168844] = {
-["Taunt"] = true,
-},
-[162059] = {
-["Taunt"] = true,
-},
-[163520] = {
-["Taunt"] = true,
-},
-[163524] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[166411] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Repentance"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[163501] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Fear"] = true,
-},
-[168717] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Repentance"] = true,
-},
-[168318] = {
-["Taunt"] = true,
-},
-[162060] = {
-["Taunt"] = true,
-},
-[163459] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Imprison"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Mind Control"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Fear"] = true,
-["Repentance"] = true,
-},
-[163506] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[168718] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Imprison"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Fear"] = true,
-["Repentance"] = true,
-},
-[162061] = {
-["Taunt"] = true,
-},
-[168420] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Repentance"] = true,
-["Fear"] = true,
-},
-[163458] = {
-["Taunt"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Repentance"] = true,
-},
-[168418] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Repentance"] = true,
-["Fear"] = true,
-},
-[163503] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[163077] = {
-["Taunt"] = true,
-},
-[168843] = {
-["Taunt"] = true,
-},
-[162058] = {
-["Taunt"] = true,
-},
-[163457] = {
-["Taunt"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-},
-[168845] = {
-["Taunt"] = true,
-},
-},
-[35] = {
-[165197] = {
-["Taunt"] = true,
-},
-[173044] = {
-["Taunt"] = true,
-},
-[163128] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Disorient"] = true,
-["Polymorph"] = true,
-["Mind Control"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-},
-[162729] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Polymorph"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Repentance"] = true,
-},
-[164578] = {
-["Taunt"] = true,
-},
-[166302] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-},
-[165872] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[163121] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Repentance"] = true,
-},
-[165911] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Control Undead"] = true,
-["Stun"] = true,
-},
-[163621] = {
-["Taunt"] = true,
-},
-[165919] = {
-["Taunt"] = true,
-},
-[166264] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-},
-[163618] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-},
-[163126] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Control Undead"] = true,
-},
-[165222] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-},
-[165824] = {
-["Taunt"] = true,
-},
-[163122] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[163622] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[171500] = {
-["Stun"] = true,
-["Disorient"] = true,
-["Taunt"] = true,
-["Slow"] = true,
-},
-[166079] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Disorient"] = true,
-},
-[172981] = {
-["Taunt"] = true,
-},
-[173016] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Imprison"] = true,
-["Fear"] = true,
-},
-[165138] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Incapacitate"] = true,
-},
-[163623] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[162689] = {
-["Taunt"] = true,
-},
-[162693] = {
-["Taunt"] = true,
-},
-[163619] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[163157] = {
-["Taunt"] = true,
-},
-[165137] = {
-["Taunt"] = true,
-},
-[167731] = {
-["Taunt"] = true,
-},
-[162691] = {
-["Taunt"] = true,
-},
-[163620] = {
-["Taunt"] = true,
-},
-},
-[33] = {
-[167956] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[162039] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[162047] = {
-["Taunt"] = true,
-},
-[162051] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[171448] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[162040] = {
-["Taunt"] = true,
-},
-[168058] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-},
-[162056] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[166396] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[171799] = {
-["Taunt"] = true,
-},
-[162099] = {
-["Taunt"] = true,
-},
-[162041] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[171376] = {
-["Taunt"] = true,
-},
-[162049] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[171384] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Imprison"] = true,
-},
-[162057] = {
-["Taunt"] = true,
-},
-[162100] = {
-["Taunt"] = true,
-},
-[167955] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[162038] = {
-["Taunt"] = true,
-},
-[162103] = {
-["Taunt"] = true,
-},
-[162046] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[168591] = {
-["Stun"] = true,
-},
-[162102] = {
-["Taunt"] = true,
-},
-[165076] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[171455] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[172265] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-},
-},
-["currentDungeonIdx"] = 120,
+["anchorTo"] = "LEFT",
 ["currentDifficulty"] = 2,
-["version"] = 542,
-["xoffset"] = -215.3795166015625,
-["dataCollectionGUID"] = {
-},
-["nonFullscreenScale"] = 1,
-["yoffset"] = 18.29132461547852,
+["latestSeenDungeonList"] = 9,
 },
 }

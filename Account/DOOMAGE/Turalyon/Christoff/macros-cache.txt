@@ -91,7 +91,7 @@ VER 3 0100000000000011 " " "134400"
 END
 VER 3 0100000000000012 " " "134400"
 #showtooltip
-/cast [mod:alt] Moonfire; Sunfire;
+/cast [mod:alt] Sunfire; Moonfire;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000013 " " "134400"

@@ -248,3 +248,5 @@ SharedMedia_Causese: enabled
 SharedMedia_Quazii: enabled
 Syndicator: enabled
 ElvUI_RatioMinimapAuras: disabled
+DecorVendor: enabled
+CursorRing: disabled

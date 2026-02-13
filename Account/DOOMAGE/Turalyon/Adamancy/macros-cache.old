@@ -11,7 +11,7 @@ VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1,nochanneling] Arcane Missiles;
+/cast [mod:shift,known:Blast Wave] Blast Wave; [mod:alt,spec:2,known:Flamestrike,@cursor] Flamestrike; [mod:alt,spec:3,@cursor] Blizzard; [spec:2] Pyroblast; [spec:3] Flurry; [spec:1] Arcane Missiles;
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -84,6 +84,7 @@ END
 VER 3 010000000000001D " " "134400"
 #showtooltip Arcane Surge
 /use 13
+/use 14
 /castsequence reset=10 13, Arcane Surge, Arcane Surge
 /cast Arcane Surge
 /cqs

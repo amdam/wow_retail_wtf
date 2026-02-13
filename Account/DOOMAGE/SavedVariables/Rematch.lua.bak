@@ -9,47 +9,49 @@ Rematch5Settings = {
 ["LastOpenLayout"] = "3-teams",
 ["CurrentLayout"] = "3-teams",
 ["ColorPetNames"] = true,
-["Anchor"] = "BOTTOMRIGHT",
+["FavoriteFilters"] = {
+},
 ["HideNotesBadges"] = false,
 ["StandaloneLayout"] = "3-teams",
-["HideMenuHelp"] = false,
+["ConvertedTeams"] = {
+},
 ["DefaultPreferences"] = {
 },
 ["AutoWinRecord"] = false,
 ["PetCardBackground"] = "Expansion",
-["PetCardInBattle"] = false,
+["JournalLayout"] = "3-teams",
 ["UseTypeBar"] = false,
 ["GroupOrder"] = {
 "group:favorites",
 "group:none",
 },
 ["HideNonBattlePets"] = false,
-["ToolbarDismiss"] = false,
+["PetNotes"] = {
+},
 ["DontSortByRelevance"] = false,
 ["LockDrawer"] = false,
-["ConvertedTeams"] = {
-},
+["HideMenuHelp"] = false,
 ["ShowSpeciesID"] = false,
 ["DontConfirmCaging"] = true,
 ["XPos"] = 1668.212280273438,
 ["AllowHiddenPets"] = false,
 ["ShowAfterBattle"] = false,
-["PetSatchelIndex"] = 1,
+["AbilityBackground"] = "Icon",
 ["HideTruncatedTooltips"] = false,
-["PetCardNoMouseoverFlip"] = false,
-["JournalLayout"] = "3-teams",
-["FavoriteFilters"] = {
+["HideLevelBubbles"] = false,
+["PetCardCompactCollected"] = false,
+["LockWindow"] = false,
+["LevelingQueue"] = {
 },
-["UseDefaultJournal"] = false,
 ["PetCardForLinks"] = false,
 ["HideRarityBorders"] = false,
-["HideLevelBubbles"] = false,
+["Anchor"] = "BOTTOMRIGHT",
 ["LoadHealthiest"] = false,
 ["CompactTeamList"] = false,
 ["ResetSortWithFilters"] = false,
 ["CompactQueueList"] = false,
-["KeepNotesOnScreen"] = false,
 ["ColorTargetNames"] = true,
+["KeepNotesOnScreen"] = false,
 ["QueueAutoLearn"] = false,
 ["PanelTabAnchor"] = "BOTTOMRIGHT",
 ["HidePreferenceBadges"] = false,
@@ -76,13 +78,13 @@ Rematch5Settings = {
 ["BackupCount"] = 0,
 ["HideToolbarTooltips"] = false,
 ["DisplayUniqueTotal"] = false,
-["BreedFormat"] = 1,
-["PetCardCanPin"] = false,
+["SafariHatShine"] = false,
+["TooltipBehavior"] = "Normal",
 ["HideOptionTooltips"] = false,
 ["MousewheelSpeed"] = "Normal",
 ["NoSummonOnDblClick"] = false,
 ["HideTeamBadges"] = false,
-["InteractOnMouseover"] = 0,
+["HideNotesButtonInBattle"] = false,
 ["SpecialSlots"] = {
 },
 ["ScriptFilters"] = {
@@ -108,20 +110,20 @@ Rematch5Settings = {
 },
 },
 ["LastOpenJournal"] = true,
-["YPos"] = 395.1818542480469,
+["RandomPetRules"] = 2,
 ["PetCardAlwaysShowHPBar"] = false,
 ["PetCardFlipKey"] = "Alt",
 ["MinimapButtonPosition"] = -162,
-["RandomPetRules"] = 2,
-["HideLevelingBadges"] = false,
+["YPos"] = 395.1818542480469,
 ["LowerStrata"] = false,
+["HideLevelingBadges"] = false,
 ["ShowNewGroupTab"] = true,
 ["QueueSortOrder"] = 1,
 ["CardBehavior"] = "Normal",
 ["QueueRandomWhenEmpty"] = false,
-["HideNotesButtonInBattle"] = false,
-["TooltipBehavior"] = "Normal",
-["SafariHatShine"] = false,
+["InteractOnMouseover"] = 0,
+["PetCardCanPin"] = false,
+["BreedFormat"] = 1,
 ["LockPosition"] = false,
 ["CombineGroupKey"] = "None",
 ["ExpandedGroups"] = {
@@ -154,12 +156,10 @@ Rematch5Settings = {
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "\"Sao'rhon\"",
+["RawSearchText"] = "\"Green Wing Macaw\"",
 ["Similar"] = {
 },
 ["Search"] = {
-["Pattern"] = "^[sS][aA][oO]'[rR][hH][oO][nN]$",
-["Length"] = 10,
 },
 ["Breed"] = {
 },
@@ -177,22 +177,20 @@ Rematch5Settings = {
 ["PetMarkerNames"] = {
 },
 ["WasShownOnLogout"] = false,
-["LevelingQueue"] = {
+["PetCardNoMouseoverFlip"] = false,
+["ExpandedOptionsHeaders"] = {
 },
-["LockWindow"] = false,
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = false,
 ["PetMarkers"] = {
 },
-["PetCardCompactCollected"] = false,
-["ExpandedOptionsHeaders"] = {
-},
+["UseDefaultJournal"] = false,
+["ToolbarDismiss"] = false,
 ["NoBackupReminder"] = false,
-["AbilityBackground"] = "Icon",
+["PetCardInBattle"] = false,
 ["ShowAbilityNumbers"] = false,
 ["ReverseToolbar"] = false,
-["PetNotes"] = {
-},
+["PetSatchelIndex"] = 1,
 }
 Rematch5SavedTeams = {
 }
@@ -258,9 +256,9 @@ Rematch4Settings = {
 },
 ["Collected"] = {
 },
-["Sources"] = {
-},
 ["Similar"] = {
+},
+["Sources"] = {
 },
 ["Breed"] = {
 },
@@ -302,10 +300,10 @@ Rematch4Settings = {
 "-- Pets with three or more attack types different than their pet type.\n\nlocal count = 0\nfor _,abilityID in ipairs(abilityList) do\n  local abilityType,noHints = select(7, C_PetBattles.GetAbilityInfoByID(abilityID) )\n  if not noHints and abilityType~=petType then\n    count = count + 1\n  end\nend\n\nreturn count>=3\n",
 },
 },
-["ElvUIToastDefaulted"] = true,
+["PreferredMode"] = 1,
 ["ExpandedTargetHeaders"] = {
 },
-["PreferredMode"] = 1,
+["ElvUIToastDefaulted"] = true,
 ["ActivePanel"] = 1,
 ["Sanctuary"] = {
 },

@@ -17,7 +17,7 @@ VER 3 0100000000000008 " " "134400"
 #showtooltip 
 /use [@mouseover, help, nodead][help, nodead][@player] Power Infusion;
 /cast [@player] Ward of Salvation;
-/cast Tireless Spirit;
+/cast Lifestorm;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000009 " " "134400"

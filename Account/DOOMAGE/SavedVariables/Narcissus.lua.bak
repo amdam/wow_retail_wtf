@@ -1,0 +1,975 @@
+
+NarcissusDB = {
+["DragonridingTourWorldMapPin"] = true,
+["SearchSuggestDirection"] = 1,
+["LetterboxRatio"] = 2,
+["NamePlateLanguage"] = "enUS",
+["ItemNameWidth"] = 180,
+["WardrobeCollectionSetsCheckbox"] = true,
+["QuestCardTheme"] = 1,
+["LoopAnimation"] = false,
+["AutoFilterGem"] = false,
+["SearchRelativesHotkey"] = "TAB",
+["AutoFilterMail"] = false,
+["SoloQueueLFRDetails"] = true,
+["DressingRoomAutoRemoveNonSetItem"] = false,
+["IsSortedByCategory"] = true,
+["AutoFilterAuction"] = false,
+["CameraTransition"] = true,
+["PaperDollWidget"] = true,
+["ShowModulePanelOnMouseOver"] = true,
+["CameraSafeMode"] = true,
+["TransmogFrame"] = true,
+["WeatherEffect"] = true,
+["OutfitSortMethod"] = "name",
+["OldMinimapButtonClickBehavior"] = 1,
+["SearchRelatives"] = false,
+["DressingRoomIncludeItemID"] = false,
+["ClassSetTheme_DF_1"] = 1,
+["PaperDollWidget_Remix"] = true,
+["FadeButton"] = false,
+["ShowMinimapButton"] = true,
+["ItemTooltipStyle"] = 1,
+["MinimapButton"] = {
+["Position"] = 2.617993877991494,
+},
+["DetailedIlvlInfo"] = true,
+["MissingEnchantAlert"] = false,
+["VignetteStrength"] = 0.5,
+["TruncateText"] = false,
+["ShrinkArea"] = 0,
+["LetterboxEffect"] = false,
+["ShowItemID"] = false,
+["Favorites"] = {
+["FavoriteAnimationIDs"] = {
+},
+},
+["BaseLineOffset"] = 0,
+["TalentTreeBiggerUI"] = false,
+["DressingRoomShowIconSelect"] = false,
+["UseAddonCompartment"] = true,
+["DressingRoom"] = true,
+["UseBustShot"] = true,
+["DressingRoomItemSetListHideDupes"] = true,
+["TranslateName"] = false,
+["TalentTreeUseClassBackground"] = false,
+["installTime"] = 1770361057,
+["CameraAutoZoomIn"] = true,
+["FontHeightItemName"] = 10,
+["Version"] = 10000,
+["DressingRoomShowSlot"] = true,
+["RealmNames"] = {
+[1344] = "The Forgotten Coast",
+[119] = "Bloodscalp",
+[1265] = "Turalyon",
+[55] = "Whisperwind",
+},
+["EnableDoubleTap"] = true,
+["AutoPlayAnimation"] = false,
+["AFKScreen"] = false,
+["Tutorials"] = {
+["ExitConfirmation"] = true,
+["Movement"] = true,
+["SpellVisualBrowser"] = true,
+["NPCBrowserEntance"] = true,
+["WeaponBrowser"] = true,
+["NPCBrowser"] = true,
+},
+["AKFScreenDelay"] = false,
+["TooltipLanguages"] = {
+},
+["GlobalScale"] = 0.8,
+["SpeedyScreenshotAlert"] = true,
+["IndependentMinimapButton"] = false,
+["TalentTreeForEquipmentManager"] = true,
+["UseEscapeButton"] = true,
+["NamePlateNameOffset"] = 0,
+["PerksProgramDB"] = {
+["MonthNames"] = {
+{
+["y"] = 2026,
+["m"] = 38,
+["n"] = "February: Gold is Good",
+},
+},
+["VendorItems"] = {
+[1278] = "::description::A very rare Korthian creature, due to limited cloud cover.::price::600::transmogSetID::0::mountTypeName::Flying::quality::4::perksVendorCategoryID::2::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::2825::itemModifiedAppearanceID::0::speciesID::0::name::Cloudborn Razorwing::itemID::260580::addedDate::2026/38::",
+[1282] = "::description::Battle-tested to allow for maximum maneuverability.::price::40::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_LEGS::mountID::0::itemModifiedAppearanceID::230729::speciesID::0::name::Short Rosy War Skirt::itemID::233090::addedDate::2026/38::",
+[1286] = "::description::These lightweight wraps provide excellent muscle support.::price::20::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_FEET::mountID::0::itemModifiedAppearanceID::230797::speciesID::0::name::Banded Rosy War Wraps::itemID::233163::addedDate::2026/38::",
+[1290] = "::description::Pretty, pink, and painful.::price::80::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_RANGED::mountID::0::itemModifiedAppearanceID::302152::speciesID::0::name::Pink Wooden Shortbow::itemID::260392::addedDate::2026/38::",
+[1294] = "::description::The Anubisath guards appointed to safeguard Ahn'Qiraj were adorned with enchanted armaments forged by Tol'vir smiths.::price::660::transmogSetID::5378::quality::3::perksVendorCategoryID::8::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::0::itemModifiedAppearanceID::0::speciesID::0::name::Ensemble: South Guard's Golden Raiment::itemID::258793::addedDate::2026/38::",
+[1298] = "::description::Worn by the naval commanders of Quel'thalas.::price::130::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_SHOULDER::mountID::0::itemModifiedAppearanceID::302308::speciesID::0::name::Sindorei Captain's Mantle::itemID::262358::addedDate::2026/38::",
+[1302] = "::description::Linked to the Sunwell, it draws upon the same magic.::price::130::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_RANGEDRIGHT::mountID::0::itemModifiedAppearanceID::302324::speciesID::0::name::Sunfury Apprentice's Wand::itemID::262374::addedDate::2026/38::",
+[1279] = "::description::Includes a hood and mask.::price::100::transmogSetID::3924::quality::2::perksVendorCategoryID::8::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::0::itemModifiedAppearanceID::0::speciesID::0::name::Ensemble: Prowler's Rosy Headgear::itemID::230177::addedDate::2026/38::",
+[1283] = "::description::Battle-tested to allow for maximum maneuverability::price::40::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_LEGS::mountID::0::itemModifiedAppearanceID::230746::speciesID::0::name::Long Rosy War Skirt::itemID::233107::addedDate::2026/38::",
+[1287] = "::description::These lightweight slippers provide excellent ankle support.::price::20::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_FEET::mountID::0::itemModifiedAppearanceID::230814::speciesID::0::name::Banded Rosy War Slippers::itemID::233180::addedDate::2026/38::",
+[1291] = "::description::Carved from the pristine white branches of Eversong Woods.::price::80::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_RANGED::mountID::0::itemModifiedAppearanceID::302156::speciesID::0::name::Tranquillien Archer's Bow::itemID::260396::addedDate::2026/38::",
+[941] = "::description::An ornate set of garments traditionally worn to celebrate the Lunar Festival.::price::600::transmogSetID::4213::quality::4::perksVendorCategoryID::8::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::0::itemModifiedAppearanceID::0::speciesID::0::name::Ensemble: Ornate Crimson Lunar Festival Attire::itemID::234057::addedDate::2026/38::",
+[1303] = "::description::Stick them with the pointy end... or in this case, the pointier end.::price::160::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_2HWEAPON::mountID::0::itemModifiedAppearanceID::302327::speciesID::0::name::Sunfury Battlemage's Stave::itemID::262377::addedDate::2026/38::",
+[1280] = "::description::The sweetest hat ever.::price::50::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_HEAD::mountID::0::itemModifiedAppearanceID::298548::speciesID::0::name::Rosy Winter Toque::itemID::252746::addedDate::2026/38::",
+[1284] = "::description::Battle-tested to allow for maximum maneuverability and muscle support.::price::50::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_LEGS::mountID::0::itemModifiedAppearanceID::230763::speciesID::0::name::Short Rosy War Skirt and Leg Wraps::itemID::233129::addedDate::2026/38::",
+[1288] = "::description::A relic as timeless as the desert sands.::price::170::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_WEAPON::mountID::0::itemModifiedAppearanceID::301306::speciesID::0::name::Anubisath's Golden Blade::itemID::257712::addedDate::2026/38::",
+[1292] = "::description::The perfect outfit for all your mysterious magic-related needs! Comes with pockets that may or may not lead to different dimensions.::price::100::transmogSetID::5348::quality::1::perksVendorCategoryID::8::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::0::itemModifiedAppearanceID::0::speciesID::0::name::Ensemble: Sorcerer's Rosy Garb::itemID::257997::addedDate::2026/38::",
+[1296] = "::description::Basically, it's pink.::price::100::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_CLOAK::mountID::0::itemModifiedAppearanceID::302304::speciesID::0::name::Basic Pink Quiver::itemID::260933::addedDate::2026/38::",
+[1300] = "::description::Set fire to the rain.::price::130::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_RANGED::mountID::0::itemModifiedAppearanceID::302320::speciesID::0::name::Longbow of the Shattered Sun::itemID::262370::addedDate::2026/38::",
+[1304] = "::description::Held in the armory of Silvermoon, these High Elven blades remind them of their noble past.::price::160::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_2HWEAPON::mountID::0::itemModifiedAppearanceID::302323::speciesID::0::name::Quel'dorei Poleblade::itemID::262373::addedDate::2026/38::",
+[933] = "::description::Discover what it's like to be a pyromaniac.::price::300::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_WEAPON::mountID::0::itemModifiedAppearanceID::230835::speciesID::0::name::Crimson Lunar Firewhacker::itemID::233232::addedDate::2026/38::",
+[1299] = "::description::Ornate because close combat is basically a forced fashion show.::price::130::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_WEAPON::mountID::0::itemModifiedAppearanceID::302319::speciesID::0::name::Sindorei Handglaive::itemID::262369::addedDate::2026/38::",
+[932] = "::description::Slice through enemies and obstacles with ease.::price::300::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_WEAPON::mountID::0::itemModifiedAppearanceID::230827::speciesID::0::name::Jade Lunar Blade::itemID::233223::addedDate::2026/38::",
+[944] = "::description::The Silvermoon color scheme for the \"Motion By Emotion\" has been a success all across Azeroth.::price::600::transmogSetID::0::mountTypeName::Flying::quality::4::perksVendorCategoryID::2::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::2329::itemModifiedAppearanceID::0::speciesID::0::name::Silvermoon Sweeper::itemID::233023::addedDate::2026/38::",
+[942] = "::description::The Fullbelly meeksi will often put their own safety at risk if they smell food. Nothing brings them happiness like a cup of tea and a warm meal.::price::350::transmogSetID::0::quality::3::perksVendorCategoryID::3::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::0::itemModifiedAppearanceID::0::speciesID::4729::name::Fullbelly Rollingpaw::itemID::234397::addedDate::2026/38::",
+[1281] = "::description::This mask cannot conceal your love for good fashion.::price::50::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_HEAD::mountID::0::itemModifiedAppearanceID::249355::speciesID::0::name::Vigilante's Rosy Mask::itemID::235030::addedDate::2026/38::",
+[934] = "::description::Add a bit of style when you want to keep distance between yourself and your enemies.::price::300::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_2HWEAPON::mountID::0::itemModifiedAppearanceID::230831::speciesID::0::name::Jade Lunar Polearm::itemID::233228::addedDate::2026/38::",
+[1289] = "::description::Like sands through the hourglass, this is the blade of our life.::price::200::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_2HWEAPON::mountID::0::itemModifiedAppearanceID::301180::speciesID::0::name::Anubisath's Golden Greatblade::itemID::257427::addedDate::2026/38::",
+[1293] = "::description::The ideal outfit for a hard workout.::price::100::transmogSetID::4535::quality::2::perksVendorCategoryID::8::invType::INVTYPE_NON_EQUIP_IGNORE::mountID::0::itemModifiedAppearanceID::0::speciesID::0::name::Ensemble: Rosy Sweatsuit::itemID::242471::addedDate::2026/38::",
+[1297] = "::description::Traditionally worn by the archers of the Tranquillien.::price::100::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_CLOAK::mountID::0::itemModifiedAppearanceID::302306::speciesID::0::name::Tranquillien Archer's Quiver::itemID::260935::addedDate::2026/38::",
+[1301] = "::description::Can be quite dangerous when the High Courts of Silvermoon get heated.::price::160::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_2HWEAPON::mountID::0::itemModifiedAppearanceID::302321::speciesID::0::name::Bronze Magister's Courtstaff::itemID::262371::addedDate::2026/38::",
+[1305] = "::description::A select few Quel'dorei train with the Bladestaff.::price::160::transmogSetID::0::quality::2::perksVendorCategoryID::1::invType::INVTYPE_2HWEAPON::mountID::0::itemModifiedAppearanceID::302322::speciesID::0::name::Quel'dorei Bladestaff::itemID::262372::addedDate::2026/38::",
+[1285] = "::description::Battle-tested to allow for maximum maneuverability and muscle support.::price::50::transmogSetID::0::quality::1::perksVendorCategoryID::1::invType::INVTYPE_LEGS::mountID::0::itemModifiedAppearanceID::230780::speciesID::0::name::Long Rosy War Skirt and Leg Wraps::itemID::233146::addedDate::2026/38::",
+[935] = "::description::Light your way to a brighter, more festive future.::price::250::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_HOLDABLE::mountID::0::itemModifiedAppearanceID::230823::speciesID::0::name::Crimson Lunar Lantern::itemID::233218::addedDate::2026/38::",
+[937] = "::description::For those with an explosive personality.::price::250::transmogSetID::0::quality::3::perksVendorCategoryID::1::invType::INVTYPE_CLOAK::mountID::0::itemModifiedAppearanceID::230839::speciesID::0::name::Crimson Pack of Lunar Explosives::itemID::233236::addedDate::2026/38::",
+},
+["CurrentMonthData"] = {
+["items"] = {
+1282,
+1293,
+1287,
+1291,
+1297,
+1278,
+1299,
+944,
+933,
+937,
+932,
+1301,
+1303,
+1283,
+1281,
+1289,
+1304,
+1288,
+934,
+1285,
+1292,
+1279,
+1296,
+1286,
+1298,
+1305,
+935,
+1290,
+1280,
+941,
+1294,
+1302,
+1284,
+1300,
+942,
+},
+["month"] = 38,
+},
+},
+["AnchorToMinimap"] = true,
+["TooltipTheme"] = "Bright",
+["GemManager"] = true,
+["ModelPanelScale"] = 1,
+["AutoDisplayQuestItem"] = false,
+["OnlyShowOwnedUpgradeItem"] = true,
+["HideTextsWithUI"] = false,
+["TalentTreeForInspection"] = true,
+["PaperDollWidget_ClassSet"] = true,
+["TalentTreeForPaperDoll"] = false,
+["TalentTreeAnchor"] = 1,
+["NameTranslationPosition"] = 1,
+["CameraOrbit"] = true,
+["TradingPostChangePost"] = true,
+["UseEntranceVisual"] = true,
+["SearchSuggestEnable"] = false,
+["ConduitTooltip"] = false,
+["DressingRoomUseTargetModel"] = true,
+}
+NarciAchievementOptions = {
+["UseAsDefault"] = false,
+["IncompleteFirst"] = true,
+["Scale"] = 1,
+["ReplaceToast"] = true,
+["Theme"] = 1,
+["ShowRedMark"] = false,
+}
+NarciStatisticsDB = {
+["InstalledDate"] = 1770361061,
+["QuestItems"] = {
+},
+["TimeSpentInNarcissus"] = 91,
+}
+NarciTurntableOptions = nil
+NarciCharacterProfiles = {
+["0E99D803"] = {
+["race"] = 52,
+["name"] = "Powerpriest",
+["birth"] = 1770423623,
+["serverID"] = 3685,
+["lastVisit"] = 1770423623,
+["outfits"] = {
+{
+["s"] = "220661,220663:-1,220665,220658,0,0,220666,220660,220664,220662,220659,0,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 5,
+},
+["0E728F10"] = {
+["race"] = 36,
+["name"] = "Kurate",
+["birth"] = 1770424364,
+["serverID"] = 3685,
+["lastVisit"] = 1770424364,
+["outfits"] = {
+},
+["class"] = 10,
+},
+["0DFC95BB"] = {
+["race"] = 52,
+["name"] = "Adamian",
+["birth"] = 1770423365,
+["serverID"] = 3685,
+["lastVisit"] = 1770423365,
+["outfits"] = {
+{
+["s"] = "184182,200643,184181,200638,0,83203,200645,200640,200644,200642,200639,169059:-1,0",
+["n"] = "dalaran defender",
+},
+{
+["s"] = "187948,218765:194939,187937,200638,0,83203,200645,90611,90615,200642,200639,184343:-1,0",
+["n"] = "darkglow dragon",
+},
+{
+["s"] = "187948,218765:194939,187937,200638,0,83203,0,90611,0,200642,200639,184343:-1,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 13,
+},
+["0D61B051"] = {
+["race"] = 10,
+["name"] = "Adreya",
+["birth"] = 1770424436,
+["serverID"] = 1185,
+["lastVisit"] = 1770424436,
+["outfits"] = {
+{
+["s"] = "77344,23644,77345,23601,594,14606,40661,23641,72704,23643,46903,44488,0",
+["n"] = "t9",
+},
+{
+["s"] = "77344,23644:-1,77345,23601,0,0,0,23641,72704,23643,0,0,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 6,
+},
+["0717BEFC"] = {
+["race"] = 4,
+["name"] = "Adrid",
+["birth"] = 1770423227,
+["serverID"] = 3685,
+["lastVisit"] = 1770423227,
+["outfits"] = {
+{
+["s"] = "77344,22057,77345,22128,0,0,21914,22040,8753,22266,22164,24760,0",
+["n"] = "ulduar black",
+},
+{
+["s"] = "102997,102999,168556,103085,25708,18368,103001,102996,103000,101663,102995,102088:-1,0",
+["n"] = "darkshore",
+},
+{
+["s"] = "102997,112712,112715,112707,25708,111637,112714,112709,112713,112711,112708,109545:-1,0",
+["n"] = "kyrian",
+},
+{
+["s"] = "200641,200643,200646,200638,25708,18368,200645,200640,200644,200642,200639,75210:-1,0",
+["n"] = "void archer",
+},
+{
+["s"] = "102997,102999:-1,168556,103085,0,18368,103001,102996,103000,101663,102995,102088:-1,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 3,
+},
+["0717C7FF"] = {
+["race"] = 1,
+["name"] = "Badam",
+["birth"] = 1770423261,
+["serverID"] = 3685,
+["lastVisit"] = 1770423261,
+["outfits"] = {
+{
+["s"] = "77344,19516,77345,19512,0,16402,56856,19513,19303,19515,19247,7662:0:4444,12581",
+["n"] = "Dreadnaught",
+},
+{
+["s"] = "77344,21740,77345,21802,25708,16402,56856,21936,21668,21752,21686,22098:0:5331,22098:0:3869",
+["n"] = "blue t8",
+},
+{
+["s"] = "90595,90598,77345,90596,25708,16402,90600,90599,90597,90594,90601,0,0",
+["n"] = "praetorium guard",
+},
+{
+["s"] = "96591,21740:77343,77345,30804,83202,83203,116018,94331,183053,115986,115983,46970:-1:5384,181420:0:3869",
+["n"] = "gladiator",
+},
+{
+["s"] = "168296,95703,168466,95258,25708,16402,94091,95706,94373,95270,95697,81596:-1:3273,81595:0:5384",
+["n"] = "boralus guard",
+},
+{
+["s"] = "184599,184602,185687,184605,25708,16402,184617,184620,184608,184611,116040,73912:-1:4443,185525",
+["n"] = "kingsguard",
+},
+{
+["s"] = "187966,189960:184601,187944,18636,83202,83203,56856,100722,189961,185683,100726,73912:-1,82064",
+["n"] = "veteran hero",
+},
+{
+["s"] = "187961,218186,218223,218193,83202,83203,218184,218191,218185,218188,218192,73912:-1,218229",
+["n"] = "arathi shadeguard",
+},
+{
+["s"] = "220688,220690,220692,220685,83202,83203,220693,220687,220691,220689,220686,73909:-1,185526",
+["n"] = "wrath 2.0",
+},
+{
+["s"] = "0,0,285523,0,83202,83203,0,0,0,0,0,0,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 1,
+},
+["0EC4EEC1"] = {
+["race"] = 1,
+["name"] = "Ezray",
+["birth"] = 1770423947,
+["serverID"] = 3685,
+["lastVisit"] = 1770423947,
+["outfits"] = {
+},
+["class"] = 5,
+},
+["0D2880F2"] = {
+["race"] = 8,
+["name"] = "Jeryn",
+["birth"] = 1770424466,
+["serverID"] = 1185,
+["lastVisit"] = 1770424466,
+["outfits"] = {
+},
+["class"] = 5,
+},
+["0ECDE0E1"] = {
+["race"] = 7,
+["name"] = "Frake",
+["birth"] = 1770423839,
+["serverID"] = 3685,
+["lastVisit"] = 1770423839,
+["outfits"] = {
+{
+["s"] = "77344,0,0,0,0,83203,0,0,0,0,0,0,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 4,
+},
+["0E99C27F"] = {
+["race"] = 85,
+["name"] = "Adamantium",
+["birth"] = 1770423708,
+["serverID"] = 3685,
+["lastVisit"] = 1770423708,
+["outfits"] = {
+},
+["class"] = 1,
+},
+["0A7F3116"] = {
+["race"] = 34,
+["name"] = "Dreg",
+["birth"] = 1770423193,
+["serverID"] = 3685,
+["lastVisit"] = 1770959864,
+["outfits"] = {
+{
+["s"] = "196077,196074,187937,196079,0,0,196080,196076,196075,196073,196078,76535:-1,73717",
+["n"] = "dark shaman",
+},
+{
+["s"] = "196077,196074:-1,187937,196079,0,0,196080,196076,196075,196073,196078,287046:-1,287048",
+["n"] = "Custom Set",
+},
+},
+["class"] = 7,
+},
+["07F1620A"] = {
+["race"] = 29,
+["name"] = "Adamancy",
+["birth"] = 1770423055,
+["serverID"] = 3685,
+["lastVisit"] = 1770873615,
+["outfits"] = {
+{
+["s"] = "77344,22257,77345,22253,83202,18368,77516,22255,19067,22256,87000,0,0",
+["n"] = "purple t8",
+},
+{
+["s"] = "187946,53460,187935,53458,83202,83203,53351,53452,53338,53456,53344,13111:-1:3273,6508",
+["n"] = "grievous gladiator",
+},
+{
+["s"] = "169091,22175,169089,22253,83202,25723,77516,62795,85389,85383,189151,190090:-1:3273,182250",
+["n"] = "blue pants",
+},
+{
+["s"] = "14734,87010,86920,87008,83202,83203,87014,87002,87012,87006,87000,13677:-1:5877,6508",
+["n"] = "furious glad",
+},
+{
+["s"] = "13441,90125,90105,90121,83202,83203,87014,90109,89775,90117,89727,70181,0",
+["n"] = "red antorus",
+},
+{
+["s"] = "54849,54854,77345,54888,0,0,54906,54908,54860,54832,54862,13111:0:2673,6558",
+["n"] = "green icicles",
+},
+{
+["s"] = "14734,183074,183079,183080,83202,83203,104604,183078,183075,181726,116048,184343:-1:5384,77351",
+["n"] = "sabellian",
+},
+{
+["s"] = "190086,190087,115893,69633,83202,83203,104604,94331,190088,181726,181722,184343:-1:5384,0",
+["n"] = "battle magister",
+},
+{
+["s"] = "187949,21836,187938,21835,83202,16402,77516,195674,76311,195672,89727,70181:-1:3273,0",
+["n"] = "blood mage",
+},
+{
+["s"] = "267017,221777,90104,90561,83202,83203,218749,90108,90389,221780,198626,169059:-1:5877,0",
+["n"] = "arcane energy",
+},
+{
+["s"] = "187950,218215,187939,218222,83202,83203,219606,198623,218214,218217,198626,218232:-1:5877,0",
+["n"] = "Arathi magus",
+},
+{
+["s"] = "169041,200507,169040,90121,83202,83203,104604,25158,200508,198622,116040,70181:-1:5384,0",
+["n"] = "Silvermoon Elder",
+},
+{
+["s"] = "226522,226498,169040,226558,83202,83203,104604,226534,194826,198622,230389,70181:-1:5384,0",
+["n"] = "Angry Sonic",
+},
+{
+["s"] = "169091,285249,169090,285244,83202,83203,219606,285246,285250,285248,285245,73866:-1:5877,0",
+["n"] = "light mage",
+},
+{
+["s"] = "187951,186342,86920,87008,83202,83203,87014,87002,87012,87006,87000,169059:-1:5877,0",
+["n"] = "azure scholar",
+},
+{
+["s"] = "187951,186342:-1,86920,87008,83202,83203,87014,87002,87012,87006,87000,0,0",
+["n"] = "Custom Set",
+},
+{
+["s"] = "168804,190087:190087,168773,217928,83202,16402,104604,100690,190088,185659,186486,3005:-1:3273,6536",
+["n"] = "high elf magister",
+},
+},
+["class"] = 8,
+},
+["0722B5D5"] = {
+["race"] = 1,
+["name"] = "Adamn",
+["birth"] = 1770423409,
+["serverID"] = 3685,
+["lastVisit"] = 1770957702,
+["outfits"] = {
+{
+["s"] = "77344,73167,77345,73183,20495,16402,70248,73229,70360,73015,63568,16073:0:5384,16073:0:5384",
+["n"] = "Ironpelt",
+},
+{
+["s"] = "7890,12705,77345,13538,20495,16402,70248,12514,31910,12693,12544,5999:0:5393,66421:0:5393",
+["n"] = "Kara set",
+},
+{
+["s"] = "35478,35486,77345,35482,20495,16402,70248,35566,15669,35501,35543,15395,15282",
+["n"] = "Zul'Aman",
+},
+{
+["s"] = "80191,81636,77345,80326,20495,16402,70248,76467,81641,82891,76817,0,0",
+["n"] = "white hood",
+},
+{
+["s"] = "61914,55875,77345,80326,594,16402,56414,55809,4307,56146,63600,0,0",
+["n"] = "siege",
+},
+{
+["s"] = "19472,19475,77345,19469,594,16402,56414,19470,19246,19473,19275,0,0",
+["n"] = "bonescythe",
+},
+{
+["s"] = "77344,24472,77345,52287,20495,16402,78693,25066,24975,25064,24457,0,0",
+["n"] = "t10",
+},
+{
+["s"] = "77344,84802,84656,84792,20495,16402,84806,84796,84804,84800,84794,0,0",
+["n"] = "legion s4",
+},
+{
+["s"] = "78454,78456,81652,78451,20495,16402,78458,78453,78457,78455,78452,0,0",
+["n"] = "legion s3",
+},
+{
+["s"] = "230326,77343,230329,230330,20495,83203,230331,230325,230332,230333,230334,95388:-1,97186",
+["n"] = "yarr matey",
+},
+{
+["s"] = "0,0,230329,0,0,83203,0,230325,230332,0,0,0,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 4,
+},
+["0ECD2195"] = {
+["race"] = 6,
+["name"] = "Donnd",
+["birth"] = 1770423865,
+["serverID"] = 3685,
+["lastVisit"] = 1770423865,
+["outfits"] = {
+},
+["class"] = 11,
+},
+["099FD3E3"] = {
+["race"] = 29,
+["name"] = "Abel",
+["birth"] = 1770423309,
+["serverID"] = 3685,
+["lastVisit"] = 1770525924,
+["outfits"] = {
+{
+["s"] = "86657,86665,225036,86661,0,0,218213,111471,220664,218217,221120,70180:-1,0",
+["n"] = "priest of justice",
+},
+{
+["s"] = "200464,200465,219034,80542,0,0,218213,111471,200466,221859,221120,77399:-1,0",
+["n"] = "abyssal cultist",
+},
+{
+["s"] = "85429,85435,85303,199115,0,0,186224,85427,186227,199103,186486,218232:-1,0",
+["n"] = "shrouded battlepriest",
+},
+{
+["s"] = "169091,227819,169089,230287,0,0,193875,230325,220664,199103,230334,77398:-1,0",
+["n"] = "hoodie healer",
+},
+{
+["s"] = "169091,227819:-1,169089,230287,0,0,193875,230325,220664,199103,230334,77398:-1,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 5,
+},
+["0E6E79DF"] = {
+["race"] = 27,
+["name"] = "Adaam",
+["birth"] = 1770424115,
+["serverID"] = 3685,
+["lastVisit"] = 1770424115,
+["outfits"] = {
+{
+["s"] = "200464,200465,200441,86069,0,0,61888,116100,200466,195473,195547,197158:-1,0",
+["n"] = "squidward",
+},
+},
+["class"] = 5,
+},
+["0E7A2E41"] = {
+["race"] = 35,
+["name"] = "Jakar",
+["birth"] = 1770424340,
+["serverID"] = 3685,
+["lastVisit"] = 1770424340,
+["outfits"] = {
+{
+["s"] = "0,0,0,0,0,0,0,0,0,0,0,0:-1:5401,0:0:5400",
+["n"] = "Custom Set",
+},
+},
+["class"] = 7,
+},
+["0E75565A"] = {
+["race"] = 28,
+["name"] = "Fernie",
+["birth"] = 1770424395,
+["serverID"] = 3685,
+["lastVisit"] = 1770424395,
+["outfits"] = {
+},
+["class"] = 11,
+},
+["07180DDD"] = {
+["race"] = 3,
+["name"] = "Drunkan",
+["birth"] = 1770423563,
+["serverID"] = 3685,
+["lastVisit"] = 1770960044,
+["outfits"] = {
+{
+["s"] = "22095,46791,77345,46787,0,0,46792,46788,46785,46790,46786,46722,0",
+["n"] = "Regal Lord",
+},
+{
+["s"] = "12739,12705,77345,13538,0,0,46792,12514,12761,12693,12544,46720,0",
+["n"] = "Kara set",
+},
+{
+["s"] = "77344,220829,220831,220824,83202,0,220832,220826,220830,220828,220825,76528:-1,0",
+["n"] = "Jade Warrior",
+},
+{
+["s"] = "79835,82534:-1,81109,79817,83202,83203,81828,82514,80498,79844,81840,285224:-1,285224",
+["n"] = "Custom Set",
+},
+},
+["class"] = 10,
+},
+["028A5CCC"] = {
+["race"] = 1,
+["name"] = "Experiment",
+["birth"] = 1770424604,
+["serverID"] = 55,
+["lastVisit"] = 1770424604,
+["outfits"] = {
+},
+["class"] = 5,
+},
+["02405283"] = {
+["race"] = 1,
+["name"] = "Ninjee",
+["birth"] = 1770424651,
+["serverID"] = 55,
+["lastVisit"] = 1770424651,
+["outfits"] = {
+{
+["s"] = "0,0,0,0,0,0,0,0,0,0,0,0:-1:2673,0:0:2673",
+["n"] = "Custom Set",
+},
+},
+["class"] = 4,
+},
+["0A95F80C"] = {
+["race"] = 10,
+["name"] = "Kaydan",
+["birth"] = 1770361586,
+["serverID"] = 3685,
+["lastVisit"] = 1770873243,
+["outfits"] = {
+{
+["s"] = "77344,199347,77345,104602,0,0,192330,199311,192341,199335,192396,72790:-1,72790",
+["n"] = "cool flamer",
+},
+{
+["s"] = "249357,169012,169040,169013,0,0,116105,169007,169009,169008,169010,284791:-1,284791",
+["n"] = "bloodsport",
+},
+{
+["s"] = "187752,266841,266825,266836,0,0,266843,266838,266842,266840,218728,266883:-1,266883",
+["n"] = "midnight demolition",
+},
+{
+["s"] = "14867,220883,77345,104602,0,0,220886,220880,220884,220882,81178,89282:-1:5868,89282:0:5868",
+["n"] = "gigachad",
+},
+{
+["s"] = "14867,220883:-1,77345,104602,0,0,220886,220880,220884,220882,81178,89282:-1,89282",
+["n"] = "Custom Set",
+},
+},
+["class"] = 12,
+},
+["0D056B5D"] = {
+["race"] = 30,
+["name"] = "Asaam",
+["birth"] = 1770423763,
+["serverID"] = 3685,
+["lastVisit"] = 1770423763,
+["outfits"] = {
+{
+["s"] = "0,0,0,0,0,0,0,0,0,0,0,0:-1:3368,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 6,
+},
+["0990B6B7"] = {
+["race"] = 1,
+["name"] = "Kayne",
+["birth"] = 1770423150,
+["serverID"] = 3685,
+["lastVisit"] = 1770873297,
+["outfits"] = {
+{
+["s"] = "43318,43376,86904,43267,0,0,43428,43300,43392,43337,46903,18802:0:2674,18802",
+["n"] = "Malevolent",
+},
+{
+["s"] = "187752,81280,187937,81259,0,0,192231,81992,82012,81171,81964,146577:-1:5869,146577:0:3273",
+["n"] = "death chill",
+},
+{
+["s"] = "77344,192258,169040,199239,0,83203,192231,113273,192242,224831,116064,200480:-1:2674,0",
+["n"] = "blood knight",
+},
+{
+["s"] = "77344,145708,86904,145700,0,0,145716,145828,145720,145704,145724,168918:-1:2674,0",
+["n"] = "mawsworn",
+},
+{
+["s"] = "77344,114046,114049,114042,0,0,114048,114044,114047,114045,114043,76997:-1:2674,0",
+["n"] = "maldraxxi plagueknight",
+},
+{
+["s"] = "220908,220910,220912,220905,0,0,220913,220907,220911,220909,220906,24839:-1:5869,24839:0:2674",
+["n"] = "icecrown soulforged",
+},
+{
+["s"] = "187752,200478,187937,168069,0,0,114048,81991,200479,81170,81935,76997:-1:2674,0",
+["n"] = "unholy avenger",
+},
+{
+["s"] = "77344,200478,187944,168069,0,0,114048,81991,200479,86777,81935,77309:-1:2674,0",
+["n"] = "yuckknight",
+},
+{
+["s"] = "230326,266858,168466,266852,0,83203,266862,266854,266861,266856,266853,189964:-1:2674,0",
+["n"] = "one eyed bastard",
+},
+{
+["s"] = "77344,192258:-1,169040,199239,0,83203,192231,113273,192242,224831,116064,76520:-1:3368,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 6,
+},
+["0EC41CD1"] = {
+["race"] = 36,
+["name"] = "Dugan",
+["birth"] = 1770423977,
+["serverID"] = 3685,
+["lastVisit"] = 1770423977,
+["outfits"] = {
+},
+["class"] = 6,
+},
+["0E7AA059"] = {
+["race"] = 31,
+["name"] = "Tupac",
+["birth"] = 1770424314,
+["serverID"] = 3685,
+["lastVisit"] = 1770424314,
+["outfits"] = {
+},
+["class"] = 2,
+},
+["0D28815F"] = {
+["race"] = 10,
+["name"] = "Wake",
+["birth"] = 1770424496,
+["serverID"] = 1185,
+["lastVisit"] = 1770424496,
+["outfits"] = {
+},
+["class"] = 3,
+},
+["0ECEA118"] = {
+["race"] = 22,
+["name"] = "Fredus",
+["birth"] = 1770423793,
+["serverID"] = 3685,
+["lastVisit"] = 1770423793,
+["outfits"] = {
+},
+["class"] = 3,
+},
+["07A8DA5F"] = {
+["race"] = 1,
+["name"] = "Fife",
+["birth"] = 1770424535,
+["serverID"] = 71,
+["lastVisit"] = 1770424535,
+["outfits"] = {
+{
+["s"] = "0,0,0,0,0,0,0,0,0,0,0,0:-1:249,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 8,
+},
+["0722C2B9"] = {
+["race"] = 1,
+["name"] = "Amdam",
+["birth"] = 1770361061,
+["serverID"] = 3685,
+["lastVisit"] = 1770870904,
+["outfits"] = {
+{
+["s"] = "14060,36645,77345,7022,19966,16402,70094,36739,7016,36681,55741,0,0",
+["n"] = "Fire Judgment",
+},
+{
+["s"] = "77344,2964,77345,2975,19966,83203,70094,2965,84223,2967,2978,12039,0",
+["n"] = "noob",
+},
+{
+["s"] = "168295,64567,168466,64563,83202,16402,64576,64564,64570,64566,64572,69077:-1:5384,0",
+["n"] = "exiled highlord",
+},
+{
+["s"] = "14060,89669,169089,25326,25708,22473,25222,25327,25220,25329,25221,69077:-1:5384,113650",
+["n"] = "exalted general",
+},
+{
+["s"] = "77344,77343,66662,30087,0,83203,46800,33179,3946,30088,5790,18802:0:3273,18764",
+["n"] = "superman",
+},
+{
+["s"] = "78750,13675,66662,20791,83202,83203,81409,79901,78771,21441,81982,169045:-1:2673,1386",
+["n"] = "thor",
+},
+{
+["s"] = "86261,168073,187749,168069,25708,83203,168074,168070,168067,168072,168068,69080:-1:5868,0",
+["n"] = "emerald crusader",
+},
+{
+["s"] = "86901,185591,186781,184327,83202,83203,168074,185681,116077,168072,168068,190163:-1:4443,0",
+["n"] = "shadowflamer",
+},
+{
+["s"] = "77344,77343,113553,169013,83202,83203,104604,73240,84223,10052,184614,4892:-1:5384,0",
+["n"] = "slutmog",
+},
+{
+["s"] = "169041,189595:184602,169040,196540,83202,83203,184617,196536,189596,73821,196538,69078:-1:5384,0",
+["n"] = "scarlet crusader",
+},
+{
+["s"] = "218043,77343:77343,182295,217948,25708,83203,218174,218008,218149,218078,217983,3077:-1:5360,0",
+["n"] = "dressed down",
+},
+{
+["s"] = "86259,86635:86635,195212,222679,83202,83203,184617,86623,86639,222651,200633,70227:-1:5877,0",
+["n"] = "royal guard",
+},
+{
+["s"] = "187951,230243,187940,230230,83202,83203,266884,266893,266885,230254,230249,69079:-1:5384,0",
+["n"] = "junkyard dawg",
+},
+{
+["s"] = "168295,266858,168466,266852,83202,16402,266862,266854,64570,266856,266853,69077:-1,0",
+["n"] = "darkfuse junker",
+},
+{
+["s"] = "169091,285275,285269,285270,83202,230874,285277,285272,285276,285274,64572,287049:-1:5384,287048",
+["n"] = "light's templar",
+},
+{
+["s"] = "85414,46799,77345,46795,83202,25723,46800,46796,46793,46798,46794,82393:-1:5384,0",
+["n"] = "holy warrior 2.0",
+},
+{
+["s"] = "168295,64567:-1,168466,64563,83202,16402,64576,64564,64570,64566,64572,287051:-1,287048",
+["n"] = "Custom Set",
+},
+},
+["class"] = 2,
+},
+["0ACADE27"] = {
+["race"] = 11,
+["name"] = "Aduum",
+["birth"] = 1770423675,
+["serverID"] = 3685,
+["lastVisit"] = 1770423675,
+["outfits"] = {
+{
+["s"] = "67226,67232,77345,67230,0,0,186185,67224,67219,67228,9687,70182:-1,0",
+["n"] = "foundry",
+},
+{
+["s"] = "67226,67232:-1,77345,67230,0,0,186185,67224,67219,67228,9687,70182:-1,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 9,
+},
+["09491807"] = {
+["race"] = 4,
+["name"] = "Christoff",
+["birth"] = 1770423596,
+["serverID"] = 3685,
+["lastVisit"] = 1770960098,
+["outfits"] = {
+{
+["s"] = "90607,90608,90626,90606,0,0,90602,90603,90604,90609,90605,0,0",
+["n"] = "Arinor Keeper",
+},
+{
+["s"] = "35478,35486,77345,35482,0,0,79089,35566,15669,35501,35543,14984,14984",
+["n"] = "za",
+},
+{
+["s"] = "77344,0,0,0,0,0,0,0,0,0,0,0,0",
+["n"] = "Custom Set",
+},
+},
+["class"] = 11,
+},
+["0EBFE1C9"] = {
+["race"] = 4,
+["name"] = "Adonis",
+["birth"] = 1770424037,
+["serverID"] = 3685,
+["lastVisit"] = 1770424037,
+["outfits"] = {
+{
+["s"] = "80339,73777,285252,73779,0,0,73775,73781,73776,73778,73780,72795:-1,72795",
+["n"] = "green",
+},
+{
+["s"] = "288447,288445,288443,288449,0,0,288444,288448,288451,288446,288450,89282:-1,89282",
+["n"] = "blind monster",
+},
+},
+["class"] = 12,
+},
+["0EC5CF78"] = {
+["race"] = 3,
+["name"] = "Caseann",
+["birth"] = 1770423892,
+["serverID"] = 3685,
+["lastVisit"] = 1770423892,
+["outfits"] = {
+},
+["class"] = 7,
+},
+}
+NarciPhotoModeDB = {
+}
+NarciDevToolOutput = nil
+NarciTransmogUIDB = {
+["SharedSets"] = {
+},
+}

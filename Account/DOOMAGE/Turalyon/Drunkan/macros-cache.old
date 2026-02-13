@@ -7,7 +7,7 @@ END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt] Breath of Fire; Keg Smash;
+/cast [mod:alt,known:Chi Burst] Chi Burst; Keg Smash;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -24,7 +24,7 @@ VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Chi Burst] Chi Burst; Purifying Brew; 
+/cast [mod:alt] Touch of Death; Purifying Brew; 
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
@@ -72,5 +72,11 @@ END
 VER 3 0100000000000017 " " "134400"
 #showtooltip
 /cast [@focus,exists][] Spear Hand Strike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000018 " " "134400"
+#showtooltip
+/cast [known:325197] Invoke Chi-Ji, the Red Crane; [known:322118] Invoke Yu-Lon, the Jade Serpent
+/use 13
 /script UIErrorsFrame:Clear()
 END

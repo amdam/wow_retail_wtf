@@ -1,0 +1,33 @@
+
+ElvCharacterDB = {
+["ConvertKeybindings"] = true,
+["ChatEditHistory"] = {
+"/pet",
+"/ec",
+"/macro",
+},
+["ChatHistoryLog"] = {
+{
+"|cffffd200|HclubTicket:RjdNPvoswO2|h[<Northern Sky>]|h|r Offers Heroic + Frее Normal Raid runs every 2 hours! |cff82c5ff|HclubTicket:RjdNPvoswO2|h[Check schedule and Join Group!]|h|r Get a bag full of 684-704 ilvl loot tonight!",
+"Zivanairsta-Turalyon",
+"",
+"4. Trade (Services) - City",
+"Zivanairsta-Turalyon",
+"",
+42,
+4,
+"Trade (Services) - City",
+0,
+40,
+"Player-3685-0EB594B8",
+0,
+false,
+false,
+false,
+true,
+[52] = "|cff00ff98Zivanairsta|r",
+[51] = 1756353564,
+[50] = "CHAT_MSG_CHANNEL",
+},
+},
+}

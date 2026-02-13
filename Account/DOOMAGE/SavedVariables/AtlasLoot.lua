@@ -1,32 +1,29 @@
 
 AtlasLootDB = {
 ["profileKeys"] = {
-["Drunkan - Turalyon"] = "Default",
-["Adamancy - Turalyon"] = "Default",
+["Kayne - Turalyon"] = "Default",
+["Amdam - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
 ["Kaydan - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
-["Kayne - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Abel - Turalyon"] = "Default",
+["Adamancy - Turalyon"] = "Default",
+["Brewenjoyer - Turalyon"] = "Default",
+["Ninjee - Whisperwind"] = "Default",
+["Adrid - Turalyon"] = "Default",
+["Experiment - Whisperwind"] = "Default",
 ["Aduum - Turalyon"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Taybae - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
+["Fredus - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
-["GUI"] = {
-["point"] = {
-nil,
-nil,
-"CENTER",
--52.36360549926758,
-66.58580017089844,
-},
-["selected"] = {
-"AtlasLoot_Factions",
-"TWWFACTIONS",
-8,
-1,
-0,
-},
-["transMogHighlighter"] = true,
+["minimap"] = {
+["minimapPos"] = 196.6586246779444,
 },
 ["Button"] = {
 ["Achievement"] = {
@@ -110,11 +107,11 @@ nil,
 ["Mount"] = {
 ["ClickHandler"] = {
 ["__defaults"] = {
-["LeftButton"] = {
-["None"] = "GoTo",
-},
 ["types"] = {
 ["GoTo"] = true,
+},
+["LeftButton"] = {
+["None"] = "GoTo",
 },
 },
 ["LeftButton"] = {
@@ -151,6 +148,23 @@ nil,
 },
 },
 },
+},
+["GUI"] = {
+["point"] = {
+nil,
+nil,
+"CENTER",
+-52.36360549926758,
+66.58580017089844,
+},
+["selected"] = {
+"AtlasLoot_Factions",
+"TWWFACTIONS",
+nil,
+1,
+0,
+},
+["transMogHighlighter"] = true,
 },
 },
 },
