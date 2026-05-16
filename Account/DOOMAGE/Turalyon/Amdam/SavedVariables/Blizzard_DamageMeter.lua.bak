@@ -7,13 +7,13 @@ DamageMeterPerCharacterSettings = {
 ["damageMeterType"] = 0,
 },
 {
-["sessionType"] = 0,
 ["shown"] = false,
+["sessionType"] = 0,
 ["damageMeterType"] = 0,
 },
 {
-["sessionType"] = 0,
 ["shown"] = false,
+["sessionType"] = 0,
 ["damageMeterType"] = 0,
 },
 },

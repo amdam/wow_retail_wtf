@@ -1,7 +1,7 @@
 
 AccountPlayedDB = {
 ["Turalyon-Drunkan"] = {
-["time"] = 2956884,
+["time"] = 2956923,
 ["class"] = "MONK",
 },
 ["TheForgottenCoast-Fife"] = {
@@ -13,7 +13,7 @@ AccountPlayedDB = {
 ["class"] = "SHAMAN",
 },
 ["Turalyon-Adamn"] = {
-["time"] = 7739172,
+["time"] = 7741292,
 ["class"] = "ROGUE",
 },
 ["Turalyon-Fernie"] = {
@@ -21,11 +21,11 @@ AccountPlayedDB = {
 ["class"] = "DRUID",
 },
 ["Turalyon-Kayne"] = {
-["time"] = 1438141,
+["time"] = 1553210,
 ["class"] = "DEATHKNIGHT",
 },
 ["Turalyon-Adamian"] = {
-["time"] = 134339,
+["time"] = 134367,
 ["class"] = "EVOKER",
 },
 ["Turalyon-Donnd"] = {
@@ -41,7 +41,7 @@ AccountPlayedDB = {
 ["class"] = "HUNTER",
 },
 ["Turalyon-Christoff"] = {
-["time"] = 637218,
+["time"] = 639747,
 ["class"] = "DRUID",
 },
 ["Bloodscalp-Wake"] = {
@@ -53,7 +53,7 @@ AccountPlayedDB = {
 ["class"] = "PRIEST",
 },
 ["Turalyon-Ezray"] = {
-["time"] = 44627,
+["time"] = 44642,
 ["class"] = "PRIEST",
 },
 ["Turalyon-Kurate"] = {
@@ -65,19 +65,19 @@ AccountPlayedDB = {
 ["class"] = "ROGUE",
 },
 ["Turalyon-Dreg"] = {
-["time"] = 574465,
+["time"] = 578923,
 ["class"] = "SHAMAN",
 },
 ["Turalyon-Dugan"] = {
-["time"] = 54896,
+["time"] = 54936,
 ["class"] = "DEATHKNIGHT",
 },
 ["Turalyon-Caseann"] = {
-["time"] = 31145,
+["time"] = 31182,
 ["class"] = "SHAMAN",
 },
 ["Turalyon-Badam"] = {
-["time"] = 6618230,
+["time"] = 6618283,
 ["class"] = "WARRIOR",
 },
 ["Bloodscalp-Adreya"] = {
@@ -93,7 +93,7 @@ AccountPlayedDB = {
 ["class"] = "DEATHKNIGHT",
 },
 ["Turalyon-Kaydan"] = {
-["time"] = 1045341,
+["time"] = 1047835,
 ["class"] = "DEMONHUNTER",
 },
 ["Bloodscalp-Jeryn"] = {
@@ -101,15 +101,15 @@ AccountPlayedDB = {
 ["class"] = "PRIEST",
 },
 ["Turalyon-Adamancy"] = {
-["time"] = 18807832,
+["time"] = 19567165,
 ["class"] = "MAGE",
 },
 ["Turalyon-Adonis"] = {
-["time"] = 472530,
+["time"] = 472587,
 ["class"] = "DEMONHUNTER",
 },
 ["Turalyon-Amdam"] = {
-["time"] = 28716092,
+["time"] = 29042524,
 ["class"] = "PALADIN",
 },
 ["Whisperwind-Ninjee"] = {
@@ -125,27 +125,28 @@ AccountPlayedDB = {
 ["class"] = "PRIEST",
 },
 ["Turalyon-Aduum"] = {
-["time"] = 287215,
+["time"] = 287234,
 ["class"] = "WARLOCK",
 },
 ["Turalyon-Abel"] = {
-["time"] = 576126,
+["time"] = 581534,
 ["class"] = "PRIEST",
 },
 ["Turalyon-Adrid"] = {
-["time"] = 1474665,
+["time"] = 1474685,
 ["class"] = "HUNTER",
 },
 }
 AccountPlayedMinimapDB = {
 ["y"] = -74.24621202458748,
 ["x"] = -74.2462120245875,
+["locked"] = false,
 }
 AccountPlayedPopupDB = {
 ["y"] = 0,
 ["x"] = 0,
 ["point"] = "CENTER",
 ["height"] = 300,
-["useYears"] = false,
+["useYears"] = true,
 ["width"] = 520,
 }

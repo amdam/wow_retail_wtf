@@ -8,12 +8,12 @@ _detalhes_database = {
 },
 },
 ["ocd_tracker"] = {
-["show_title"] = true,
+["enabled"] = false,
 ["current_cooldowns"] = {
 },
 ["lines_per_column"] = 12,
 ["group_frames"] = true,
-["show_options"] = false,
+["width"] = 120,
 ["frames"] = {
 ["defensive-raid"] = {
 },
@@ -28,12 +28,11 @@ _detalhes_database = {
 ["defensive-personal"] = {
 },
 },
-["width"] = 120,
+["show_options"] = false,
 ["ignored_cooldowns"] = {
 },
+["height"] = 18,
 ["framme_locked"] = false,
-["cooldowns"] = {
-},
 ["own_frame"] = {
 ["defensive-raid"] = false,
 ["ofensive"] = false,
@@ -41,12 +40,13 @@ _detalhes_database = {
 ["utility"] = false,
 ["defensive-personal"] = false,
 },
-["height"] = 18,
+["cooldowns"] = {
+},
 ["show_conditions"] = {
 ["only_inside_instance"] = true,
 ["only_in_group"] = true,
 },
-["enabled"] = false,
+["show_title"] = true,
 ["filters"] = {
 ["itemutil"] = false,
 ["itempower"] = false,
@@ -59,7 +59,7 @@ _detalhes_database = {
 ["utility"] = false,
 },
 },
-["last_version"] = "12.0.1 14502",
+["last_version"] = "12.0.1 14700",
 ["player_stats"] = {
 },
 ["force_font_outline"] = "",
@@ -180,7 +180,7 @@ _detalhes_database = {
 },
 },
 },
-["last_day"] = "12",
+["combat_counter"] = 1926,
 ["arena_data_compressed"] = {
 },
 ["cached_talents"] = {
@@ -189,10 +189,10 @@ _detalhes_database = {
 ["data_harvest_for_charsts"] = {
 ["players"] = {
 {
-["playerKey"] = "total",
-["combatObjectContainer"] = 1,
 ["name"] = "Damage of Each Individual Player",
 ["playerOnly"] = true,
+["playerKey"] = "total",
+["combatObjectContainer"] = 1,
 },
 },
 ["totals"] = {
@@ -216,6 +216,10 @@ _detalhes_database = {
 ["reverse"] = false,
 },
 ["active_profile"] = "Quazii TWW Season 2",
+["last_day"] = "02",
+["damage_meter_session_info"] = {
+},
+["ignore_nicktag"] = false,
 ["mythic_dungeon_currentsaved"] = {
 ["dungeon_name"] = "",
 ["started"] = false,
@@ -227,49 +231,48 @@ _detalhes_database = {
 ["dungeon_zone_id"] = 0,
 ["previous_boss_killed_at"] = 0,
 },
-["announce_damagerecord"] = {
-["enabled"] = true,
-["channel"] = "SELF",
-},
-["ignore_nicktag"] = false,
 ["damage_meter_sessions"] = {
 },
-["on_death_menu"] = false,
 ["combat_log"] = {
 ["inverse_deathlog_overalldata"] = false,
-["merge_gemstones_1007"] = false,
 ["track_hunter_frenzy"] = false,
+["merge_gemstones_1007"] = false,
 ["merge_critical_heals"] = false,
 ["inverse_deathlog_raid"] = false,
 ["calc_evoker_damage"] = true,
 ["evoker_show_realtimedps"] = false,
 ["inverse_deathlog_mplus"] = false,
 },
-["data_harvested_for_charts"] = {
+["cached_roles"] = {
 },
 ["mythic_plus_log"] = {
 },
-["announce_firsthit"] = {
-["enabled"] = true,
-["channel"] = "SELF",
+["data_harvested_for_charts"] = {
 },
+["last_encounter"] = "Gul'dan",
 ["nick_tag_cache"] = {
 ["last_version"] = 16,
-["nextreset"] = 1771719555,
+["nextreset"] = 1773767104,
 },
-["last_realversion"] = 168,
-["benchmark_db"] = {
-["frame"] = {
+["last_realversion"] = 170,
+["SoloTablesSaved"] = {
+["Mode"] = 1,
 },
+["character_data"] = {
+["logons"] = 153,
+},
+["last_instance_time"] = 1753334582,
+["combat_id"] = 1353,
+["savedStyles"] = {
 },
 ["plugin_database"] = {
 ["DETAILS_PLUGIN_TINY_THREAT"] = {
 ["enabled"] = true,
 ["only_my_group"] = false,
 ["animate"] = false,
-["useclasscolors"] = false,
+["usefocus"] = false,
 ["hide_pull_bar"] = false,
-["author"] = "Terciob",
+["useclasscolors"] = false,
 ["playercolor"] = {
 1,
 1,
@@ -283,7 +286,7 @@ _detalhes_database = {
 ["absolute_mode"] = false,
 ["playSound"] = false,
 ["playSoundFile"] = "Details Threat Warning Volume 3",
-["usefocus"] = false,
+["author"] = "Terciob",
 },
 ["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
 ["enabled"] = true,
@@ -305,15 +308,15 @@ _detalhes_database = {
 ["tank_block_size"] = 150,
 ["bar_height"] = 24,
 ["tank_block_texture"] = "Details Serenity",
-["show_inc_bars"] = true,
-["tank_block_powerbar_size_height"] = 10,
-["tank_block_height"] = 40,
 ["tank_block_color"] = {
 0.074509,
 0.035294,
 0.035294,
 0.832845,
 },
+["tank_block_height"] = 40,
+["tank_block_powerbar_size_height"] = 10,
+["show_inc_bars"] = true,
 },
 ["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 ["enabled"] = true,
@@ -323,11 +326,11 @@ _detalhes_database = {
 ["last_section_selected"] = "main",
 ["author"] = "Terciob",
 ["window_scale"] = 1,
-["encounter_timers_dbm"] = {
-},
+["hide_on_combat"] = false,
 ["show_icon"] = 5,
 ["opened"] = 0,
-["hide_on_combat"] = false,
+["encounter_timers_dbm"] = {
+},
 },
 ["DETAILS_PLUGIN_RAIDCHECK"] = {
 ["enabled"] = true,
@@ -350,42 +353,29 @@ _detalhes_database = {
 1,
 0.5,
 },
+["scale"] = 1,
 ["arrow_anchor_y"] = 0,
-["main_frame_size"] = {
-300.0000305175781,
-500.0000305175781,
-},
 ["minimap"] = {
 ["minimapPos"] = 312.1877406780602,
 ["radius"] = 160,
 ["hide"] = false,
 },
-["main_frame_locked"] = false,
+["row_height"] = 20,
 ["arrow_anchor_x"] = 0,
-["row_color"] = {
-0.1,
-0.1,
-0.1,
-0.4,
+["font_color"] = {
+1,
+1,
+1,
+1,
 },
 ["row_texture"] = "Details Serenity",
 ["square_grow_direction"] = "right",
-["per_second"] = {
-["enabled"] = false,
 ["point"] = "CENTER",
-["scale"] = 1,
-["font_shadow"] = true,
-["y"] = -6.103515625e-05,
-["x"] = 0.005859375,
-["attribute_type"] = 1,
-["update_speed"] = 0.05,
-["size"] = 32,
-},
-["author"] = "Details! Team",
+["main_frame_strata"] = "LOW",
 ["square_amount"] = 5,
 ["enabled"] = false,
 ["arrow_size"] = 10,
-["font_size"] = 10,
+["y"] = -6.103515625e-05,
 ["row_spacement"] = 21,
 ["main_frame_color"] = {
 0,
@@ -393,34 +383,40 @@ _detalhes_database = {
 0,
 0.2,
 },
-["main_frame_strata"] = "LOW",
+["row_color"] = {
+0.1,
+0.1,
+0.1,
+0.4,
+},
 ["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-["y"] = -6.103515625e-05,
 ["use_spark"] = true,
+["per_second"] = {
+["enabled"] = false,
+["point"] = "CENTER",
+["scale"] = 1,
+["font_shadow"] = true,
+["y"] = -6.103515625e-05,
+["x"] = 0.00469970703125,
+["size"] = 32,
+["update_speed"] = 0.05,
+["attribute_type"] = 1,
+},
 ["x"] = 0.0001220703125,
 ["font_face"] = "Friz Quadrata TT",
 ["square_size"] = 32,
-["point"] = "CENTER",
-["font_color"] = {
-1,
-1,
-1,
-1,
-},
-["row_height"] = 20,
-["scale"] = 1,
+["font_size"] = 10,
+["author"] = "Details! Team",
+["main_frame_locked"] = false,
+["main_frame_size"] = {
+300.0000305175781,
+500.0000305175781,
 },
 },
-["character_data"] = {
-["logons"] = 152,
 },
-["last_instance_time"] = 1753334582,
-["combat_id"] = 1353,
-["savedStyles"] = {
+["benchmark_db"] = {
+["frame"] = {
 },
-["combat_counter"] = 1924,
-["SoloTablesSaved"] = {
-["Mode"] = 1,
 },
 ["announce_deaths"] = {
 ["enabled"] = false,
@@ -456,7 +452,7 @@ _detalhes_database = {
 },
 ["raid_roster"] = {
 },
-["tempo_start"] = 161330.095,
+["tempo_start"] = 225523.391,
 ["last_events_tables"] = {
 },
 ["alternate_power"] = {
@@ -553,17 +549,19 @@ _detalhes_database = {
 ["start_time"] = 0,
 ["TimeData"] = {
 },
-["combat_counter"] = 1923,
+["combat_counter"] = 1925,
 },
-["last_encounter"] = "Gul'dan",
+["announce_firsthit"] = {
+["enabled"] = true,
+["channel"] = "SELF",
+},
 ["arena_data_headers"] = {
 },
-["cached_roles"] = {
-},
+["on_death_menu"] = false,
 ["announce_cooldowns"] = {
+["enabled"] = false,
 ["ignored_cooldowns"] = {
 },
-["enabled"] = false,
 ["custom"] = "",
 ["channel"] = "RAID",
 },
@@ -571,7 +569,9 @@ _detalhes_database = {
 ["last_difficulty"] = 15,
 ["last_raid"] = "",
 },
-["damage_meter_session_info"] = {
+["announce_damagerecord"] = {
+["enabled"] = true,
+["channel"] = "SELF",
 },
 ["cached_specs"] = {
 ["Player-3685-07180DDD"] = 268,

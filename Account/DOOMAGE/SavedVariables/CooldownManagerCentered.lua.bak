@@ -28,62 +28,992 @@ CooldownManagerCenteredDB = {
 ["Frake - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Ninjee - Whisperwind"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Caseann - Turalyon"] = "Default",
 ["Dugan - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Caseann - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Fredus - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
 ["cooldownManager_squareIconsZoom_BuffIcons"] = 0.2999999821186066,
 ["cooldownManager_showHighlight_Essential"] = true,
+["_tracker_filled_with_defaults"] = true,
+["tracker_enabled"] = true,
 ["cooldownManager_squareIconsZoom_Essential"] = 0.2999999821186066,
 ["cooldownManager_showHighlight_Utility"] = true,
 ["cooldownManager_squareIconsZoom_Utility"] = 0.2999999821186066,
 ["_elvui_skinning_asked"] = 2037,
 ["cooldownManager_squareIcons_Utility"] = true,
+["editMode"] = {
+["tracker1"] = {
+["strata"] = "MEDIUM",
+["point"] = "LEFT",
+["scale"] = 0.9000000357627869,
+["alpha"] = 1,
+["y"] = -400.5389776635639,
+["anchoredToTracker1Spacing"] = 2,
+["iconSize"] = 32,
+["iconPadding"] = 0,
+["orientation"] = "Horizontal Right",
+["x"] = 963.8729667663574,
+},
+["tracker2"] = {
+["strata"] = "MEDIUM",
+["point"] = "LEFT",
+["scale"] = 0.9000000357627869,
+["alpha"] = 1,
+["y"] = -418.4963140893451,
+["anchoredToTracker1Spacing"] = 2,
+["anchoredToTracker1"] = true,
+["iconSize"] = 50,
+["iconPadding"] = 2,
+["orientation"] = "Horizontal Right",
+["x"] = 1137.296266555786,
+},
+},
+["_bug_warning_displayed"] = 20260310,
+["cooldownManager_stackFontName"] = "Accidental Presidency",
+["tracker"] = {
+["wildcardSlotSettings"] = {
+["trinket1"] = {
+["state"] = "tracker1",
+["order"] = 53,
+},
+["trinket2"] = {
+["state"] = "hidden",
+["order"] = 2,
+},
+},
+["spellItemSettings"] = {
+[80483] = {
+["state"] = "tracker1",
+["order"] = 7,
+},
+[59752] = {
+["state"] = "tracker1",
+["order"] = 62,
+},
+[255647] = {
+["state"] = "tracker1",
+["order"] = 41,
+},
+[69179] = {
+["state"] = "tracker1",
+["order"] = 6,
+},
+[28880] = {
+["state"] = "tracker1",
+["order"] = 26,
+},
+[69041] = {
+["state"] = "tracker1",
+["order"] = 45,
+},
+[167895] = {
+["state"] = "hidden",
+["order"] = 26,
+},
+[291944] = {
+["state"] = "tracker1",
+["order"] = 44,
+},
+[403092] = {
+["state"] = "hidden",
+["order"] = 20,
+},
+[26297] = {
+["state"] = "tracker1",
+["order"] = 14,
+},
+[1237885] = {
+["state"] = "tracker1",
+["order"] = 59,
+},
+[312924] = {
+["state"] = "tracker1",
+["order"] = 38,
+},
+[33702] = {
+["state"] = "tracker1",
+["order"] = 17,
+},
+[155145] = {
+["state"] = "tracker1",
+["order"] = 9,
+},
+[5019] = {
+["state"] = "hidden",
+["order"] = 22,
+},
+[256948] = {
+["state"] = "tracker1",
+["order"] = 49,
+},
+[7744] = {
+["state"] = "tracker1",
+["order"] = 61,
+},
+[20572] = {
+["state"] = "tracker1",
+["order"] = 15,
+},
+[25046] = {
+["state"] = "tracker1",
+["order"] = 3,
+},
+[255654] = {
+["state"] = "tracker1",
+["order"] = 18,
+},
+[1231411] = {
+["state"] = "hidden",
+["order"] = 25,
+},
+[357214] = {
+["state"] = "tracker1",
+["order"] = 63,
+},
+[59542] = {
+["state"] = "tracker1",
+["order"] = 27,
+},
+[436344] = {
+["state"] = "tracker1",
+["order"] = 12,
+},
+[125439] = {
+["state"] = "hidden",
+["order"] = 19,
+},
+[59548] = {
+["state"] = "tracker1",
+["order"] = 32,
+},
+[287712] = {
+["state"] = "tracker1",
+["order"] = 36,
+},
+[425782] = {
+["state"] = "hidden",
+["order"] = 27,
+},
+[69070] = {
+["state"] = "tracker1",
+["order"] = 46,
+},
+[83958] = {
+["state"] = "hidden",
+["order"] = 24,
+},
+[382501] = {
+["state"] = "hidden",
+["order"] = 21,
+},
+[372608] = {
+["state"] = "hidden",
+["order"] = 23,
+},
+[251463] = {
+["state"] = "hidden",
+["order"] = 18,
+},
+[107079] = {
+["state"] = "tracker1",
+["order"] = 43,
+},
+[20589] = {
+["state"] = "tracker1",
+["order"] = 21,
+},
+[416250] = {
+["state"] = "tracker1",
+["order"] = 35,
+},
+[121093] = {
+["state"] = "tracker1",
+["order"] = 33,
+},
+[68992] = {
+["state"] = "tracker1",
+["order"] = 19,
+},
+[312411] = {
+["state"] = "tracker1",
+["order"] = 13,
+},
+[20594] = {
+["state"] = "tracker1",
+["order"] = 54,
+},
+[382499] = {
+["state"] = "hidden",
+["order"] = 28,
+},
+[368970] = {
+["state"] = "tracker1",
+["order"] = 55,
+},
+[274738] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[260364] = {
+["state"] = "tracker1",
+["order"] = 2,
+},
+[361584] = {
+["state"] = "hidden",
+["order"] = 30,
+},
+[232633] = {
+["state"] = "tracker1",
+["order"] = 11,
+},
+[33697] = {
+["state"] = "tracker1",
+["order"] = 16,
+},
+[436854] = {
+["state"] = "hidden",
+["order"] = 31,
+},
+[28730] = {
+["state"] = "tracker1",
+["order"] = 4,
+},
+[372610] = {
+["state"] = "hidden",
+["order"] = 29,
+},
+[370626] = {
+["state"] = "tracker1",
+["order"] = 34,
+},
+[265221] = {
+["state"] = "tracker1",
+["order"] = 22,
+},
+[129597] = {
+["state"] = "tracker1",
+["order"] = 8,
+},
+[59544] = {
+["state"] = "tracker1",
+["order"] = 29,
+},
+[59543] = {
+["state"] = "tracker1",
+["order"] = 28,
+},
+[59545] = {
+["state"] = "tracker1",
+["order"] = 30,
+},
+[59547] = {
+["state"] = "tracker1",
+["order"] = 31,
+},
+[20549] = {
+["state"] = "tracker1",
+["order"] = 60,
+},
+[58984] = {
+["state"] = "tracker1",
+["order"] = 47,
+},
+[50613] = {
+["state"] = "tracker1",
+["order"] = 5,
+},
+[202719] = {
+["state"] = "tracker1",
+["order"] = 10,
+},
+},
+["itemSettings"] = {
+[212263] = {
+["state"] = "tracker1",
+["order"] = 56,
+},
+[241308] = {
+["state"] = "tracker1",
+["order"] = 42,
+},
+[212240] = {
+["state"] = "hidden",
+["order"] = 44,
+},
+[212248] = {
+["state"] = "hidden",
+},
+[211878] = {
+["state"] = "hidden",
+["order"] = 45,
+},
+[244835] = {
+["state"] = "tracker1",
+["order"] = 39,
+},
+[241309] = {
+["state"] = "tracker1",
+["order"] = 52,
+},
+[241323] = {
+["state"] = "hidden",
+["order"] = 9,
+},
+[212264] = {
+["state"] = "tracker1",
+["order"] = 57,
+},
+[243733] = {
+["state"] = "hidden",
+["order"] = 7,
+},
+[249222] = {
+["state"] = "hidden",
+["order"] = 33,
+},
+[226109] = {
+["state"] = "hidden",
+["order"] = 46,
+},
+[226107] = {
+["state"] = "hidden",
+["order"] = 58,
+},
+[212265] = {
+["state"] = "tracker1",
+["order"] = 58,
+},
+[58268] = {
+["state"] = "hidden",
+["order"] = 49,
+},
+[250144] = {
+["state"] = "hidden",
+["order"] = 12,
+},
+[232386] = {
+["state"] = "hidden",
+["order"] = 47,
+},
+[249689] = {
+["state"] = "hidden",
+["order"] = 8,
+},
+[224464] = {
+["state"] = "tracker1",
+["order"] = 20,
+},
+[212250] = {
+["state"] = "hidden",
+["order"] = 13,
+},
+[241301] = {
+["state"] = "hidden",
+["order"] = 15,
+},
+[253342] = {
+["state"] = "hidden",
+["order"] = 43,
+},
+[258138] = {
+["state"] = "tracker1",
+["order"] = 50,
+},
+[262346] = {
+["state"] = "hidden",
+["order"] = 41,
+},
+[212971] = {
+["state"] = "tracker1",
+["order"] = 25,
+},
+[212242] = {
+["state"] = "hidden",
+["order"] = 56,
+},
+[239711] = {
+["state"] = "hidden",
+["order"] = 10,
+},
+[220756] = {
+["state"] = "hidden",
+["order"] = 48,
+},
+[223287] = {
+["state"] = "hidden",
+["order"] = 54,
+},
+[244838] = {
+["state"] = "hidden",
+["order"] = 32,
+},
+[262938] = {
+["state"] = "hidden",
+["order"] = 39,
+},
+[44629] = {
+["state"] = "hidden",
+},
+[241307] = {
+["state"] = "hidden",
+["order"] = 6,
+},
+[6662] = {
+["state"] = "hidden",
+["order"] = 17,
+},
+[113509] = {
+["state"] = "hidden",
+["order"] = 34,
+},
+[241304] = {
+["state"] = "tracker1",
+["order"] = 48,
+},
+[257683] = {
+["state"] = "hidden",
+["order"] = 38,
+},
+[111820] = {
+["state"] = "hidden",
+["order"] = 3,
+},
+[212969] = {
+["state"] = "tracker1",
+["order"] = 23,
+},
+[252415] = {
+["state"] = "hidden",
+["order"] = 35,
+},
+[255825] = {
+["state"] = "hidden",
+["order"] = 36,
+},
+[245879] = {
+["state"] = "hidden",
+},
+[212970] = {
+["state"] = "tracker1",
+["order"] = 24,
+},
+[71083] = {
+["state"] = "hidden",
+["order"] = 11,
+},
+[245966] = {
+["state"] = "hidden",
+},
+[227326] = {
+["state"] = "hidden",
+["order"] = 51,
+},
+[243147] = {
+["state"] = "hidden",
+["order"] = 52,
+},
+[225767] = {
+["state"] = "hidden",
+},
+[58257] = {
+["state"] = "hidden",
+["order"] = 50,
+},
+[244839] = {
+["state"] = "tracker1",
+["order"] = 40,
+},
+[5512] = {
+["state"] = "tracker1",
+["order"] = 37,
+},
+[257866] = {
+["state"] = "hidden",
+["order"] = 53,
+},
+[112384] = {
+["state"] = "hidden",
+["order"] = 4,
+},
+[212270] = {
+["state"] = "hidden",
+["order"] = 55,
+},
+[254677] = {
+["state"] = "hidden",
+["order"] = 40,
+},
+[242274] = {
+["state"] = "hidden",
+["order"] = 37,
+},
+[263465] = {
+["state"] = "hidden",
+["order"] = 42,
+},
+[249220] = {
+["state"] = "hidden",
+["order"] = 57,
+},
+[246771] = {
+["state"] = "hidden",
+},
+[245897] = {
+["state"] = "tracker1",
+["order"] = 51,
+},
+[246344] = {
+["state"] = "hidden",
+},
+},
+["itemViewerLayouts"] = {
+},
+["showUnusable"] = false,
+},
 },
 ["Luxthos"] = {
-["cooldownManager_squareIcons_Essential"] = true,
-["cooldownManager_stackAnchorUtility_offsetY"] = 7,
-["cooldownManager_squareIconsZoom_BuffIcons"] = 0.199999988079071,
-["cooldownManager_forceCenterX_BuffIcons"] = false,
-["cooldownManager_squareIconsBorder_Utility_Overlap"] = true,
-["cooldownManager_forceCenterX_Utility_lastY"] = {
+["editMode"] = {
+["tracker1"] = {
+["strata"] = "MEDIUM",
+["point"] = "LEFT",
+["scale"] = 1,
+["alpha"] = 1,
+["y"] = -361.1312866210938,
+["anchoredToTracker1Spacing"] = 2,
+["iconSize"] = 26,
+["iconPadding"] = 0,
+["orientation"] = "Horizontal Right",
+["x"] = 860.8068113327026,
 },
-["cooldownManager_showHighlight_Essential"] = true,
-["cooldownManager_stackAnchorUtility_point"] = "TOP",
-["cooldownManager_stackAnchorUtility_enabled"] = true,
-["_elvui_skinning_asked"] = 2034,
-["cooldownManager_stackAnchorEssential_offsetY"] = 8,
-["cooldownManager_squareIconsZoom_Essential"] = 0.09999999403953552,
-["cooldownManager_forceCenterX_BuffIcons_lastY"] = {
+["tracker2"] = {
+["strata"] = "MEDIUM",
+["point"] = "LEFT",
+["scale"] = 1,
+["alpha"] = 1,
+["y"] = -361.1312866210938,
+["anchoredToTracker1Spacing"] = 2,
+["iconPadding"] = 0,
+["iconSize"] = 26,
+["orientation"] = "Horizontal Right",
+["x"] = 888.806806564331,
+["anchoredToTracker1"] = true,
 },
-["cooldownManager_squareIcons_BuffIcons"] = true,
+},
 ["cooldownManager_squareIconsBorder_Essential_Overlap"] = true,
-["cooldownManager_showHighlight_Utility"] = true,
-["cooldownManager_forceCenterX_Essential"] = false,
+["cooldownManager_stackAnchorBuffIcons_enabled"] = true,
+["cooldownManager_stackAnchorEssential_enabled"] = true,
+["cooldownManager_squareIconsZoom_BuffIcons"] = 0.199999988079071,
+["cooldownManager_squareIcons_Essential"] = true,
+["cooldownManager_squareIconsBorder_Utility_Overlap"] = true,
+["cooldownManager_stackAnchorUtility_offsetY"] = 7,
+["cooldownManager_stackAnchorUtility_enabled"] = true,
 ["cooldownManager_keybindFontSize_Essential"] = 16,
-["cooldownManager_stackAnchorBuffIcons_offsetY"] = 7,
-["cooldownManager_forceCenterX_Essential_lastY"] = {
-},
+["cooldownManager_centerEssential_growFromDirection"] = "BOTTOM",
+["cooldownManager_squareIcons_Utility"] = true,
+["_tracker_filled_with_defaults"] = true,
+["cooldownManager_stackFontSizeBuffIcons"] = 12,
+["cooldownManager_stackAnchorEssential_point"] = "TOP",
+["cooldownManager_stackAnchorUtility_point"] = "TOP",
+["_elvui_skinning_asked"] = 2034,
 ["cooldownManager_squareIconsZoom_Utility"] = 0.199999988079071,
 ["cooldownManager_stackAnchorBuffIcons_point"] = "TOP",
 ["cooldownManager_stackFontName"] = "Accidental Presidency",
-["cooldownManager_stackAnchorEssential_enabled"] = true,
-["cooldownManager_limitUtilitySizeToEssential"] = true,
-["cooldownManager_forceCenterX_Utility"] = false,
+["cooldownManager_squareIconsZoom_Essential"] = 0.09999999403953552,
 ["cooldownManager_stackFontSizeEssential"] = 14,
-["cooldownManager_stackFontSizeUtility"] = 12,
-["cooldownManager_stackAnchorBuffIcons_enabled"] = true,
-["cooldownManager_stackFontSizeBuffIcons"] = 12,
-["cooldownManager_squareIcons_Utility"] = true,
 ["cooldownManager_squareIconsBorder_BuffIcons_Overlap"] = true,
-["cooldownManager_stackAnchorEssential_point"] = "TOP",
-["cooldownManager_centerEssential_growFromDirection"] = "BOTTOM",
+["tracker"] = {
+["wildcardSlotSettings"] = {
+["trinket1"] = {
+["state"] = "hidden",
+["order"] = 1,
+},
+["trinket2"] = {
+["state"] = "hidden",
+["order"] = 2,
+},
+},
+["spellItemSettings"] = {
+[50613] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[80483] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[28880] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[59752] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[255647] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[255654] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[26297] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[69041] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[59545] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[291944] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[69179] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[423394] = {
+["state"] = "hidden",
+["order"] = 23,
+},
+[155145] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[312924] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[1237885] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[28730] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[436344] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[357214] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[125439] = {
+["state"] = "hidden",
+["order"] = 15,
+},
+[33702] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[7744] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[265221] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[1231411] = {
+["state"] = "hidden",
+["order"] = 20,
+},
+[372610] = {
+["state"] = "hidden",
+["order"] = 14,
+},
+[59542] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[59544] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[129597] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[59548] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[287712] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[388213] = {
+["state"] = "hidden",
+["order"] = 22,
+},
+[69070] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[425782] = {
+["state"] = "hidden",
+["order"] = 17,
+},
+[260364] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[251463] = {
+["state"] = "hidden",
+["order"] = 21,
+},
+[68992] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[107079] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[20589] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[416250] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[20594] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[121093] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[312411] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[232633] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[382499] = {
+["state"] = "hidden",
+["order"] = 12,
+},
+[368970] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[274738] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[372608] = {
+["state"] = "hidden",
+["order"] = 24,
+},
+[361584] = {
+["state"] = "hidden",
+["order"] = 25,
+},
+[83958] = {
+["state"] = "hidden",
+["order"] = 16,
+},
+[33697] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[436854] = {
+["state"] = "hidden",
+["order"] = 26,
+},
+[382501] = {
+["state"] = "hidden",
+["order"] = 18,
+},
+[1225392] = {
+["state"] = "hidden",
+["order"] = 27,
+},
+[370626] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[25046] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[20572] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[256948] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[59543] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[201891] = {
+["state"] = "hidden",
+["order"] = 13,
+},
+[59547] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[20549] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[58984] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[403092] = {
+["state"] = "hidden",
+["order"] = 19,
+},
+[202719] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+},
+["itemSettings"] = {
+[111820] = {
+["state"] = "hidden",
+["order"] = 3,
+},
+[212263] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[212248] = {
+["state"] = "hidden",
+["order"] = 4,
+},
+[212971] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[212969] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[191395] = {
+["state"] = "hidden",
+["order"] = 10,
+},
+[212264] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[212970] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[5512] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[229351] = {
+["state"] = "hidden",
+["order"] = 7,
+},
+[212249] = {
+["state"] = "hidden",
+["order"] = 5,
+},
+[258138] = {
+["state"] = "tracker2",
+["order"] = 2,
+},
+[241304] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[241308] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[212265] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[241309] = {
+["state"] = "tracker2",
+["order"] = 1,
+},
+[262346] = {
+["state"] = "hidden",
+},
+[244839] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[224464] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[244835] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[38233] = {
+["state"] = "hidden",
+["order"] = 9,
+},
+[251787] = {
+["state"] = "hidden",
+["order"] = 28,
+},
+[46874] = {
+["state"] = "hidden",
+["order"] = 8,
+},
+[38577] = {
+["state"] = "hidden",
+["order"] = 11,
+},
+[244838] = {
+["state"] = "tracker1",
+["order"] = 1,
+},
+[259896] = {
+["state"] = "hidden",
+["order"] = 29,
+},
+[255825] = {
+["state"] = "hidden",
+},
+[263465] = {
+["state"] = "hidden",
+},
+},
+["itemViewerLayouts"] = {
+},
+["showUnusable"] = false,
+},
+["cooldownManager_limitUtilitySizeToEssential"] = true,
+["tracker_enabled"] = true,
+["_bug_warning_displayed"] = 20260310,
+["cooldownManager_squareIcons_BuffIcons"] = true,
+["cooldownManager_stackFontSizeUtility"] = 12,
+["cooldownManager_stackAnchorBuffIcons_offsetY"] = 7,
+["cooldownManager_stackAnchorEssential_offsetY"] = 8,
 },
 },
 }

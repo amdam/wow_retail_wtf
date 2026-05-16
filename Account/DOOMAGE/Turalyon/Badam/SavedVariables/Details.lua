@@ -57,7 +57,7 @@ _detalhes_database = {
 ["defensive-personal"] = false,
 },
 },
-["last_version"] = "12.0.0 14502",
+["last_version"] = "12.0.1 14930",
 ["player_stats"] = {
 },
 ["SoloTablesSaved"] = {
@@ -73,11 +73,11 @@ _detalhes_database = {
 },
 ["arena_data_index_selected"] = 1,
 ["on_death_menu"] = false,
-["last_day"] = "06",
+["force_font_outline"] = "",
 ["damage_meter_sessions"] = {
 },
 ["nick_tag_cache"] = {
-["nextreset"] = 1771719253,
+["nextreset"] = 1777615540,
 ["last_version"] = 16,
 },
 ["last_instance_id"] = 2810,
@@ -107,6 +107,12 @@ _detalhes_database = {
 },
 ["last_instance_time"] = 1765176473,
 ["active_profile"] = "Quazii TWW Season 2",
+["last_realversion"] = 171,
+["damage_meter_session_info"] = {
+},
+["data_harvested_for_charts"] = {
+},
+["last_day"] = "16",
 ["mythic_dungeon_currentsaved"] = {
 ["players"] = {
 "Player-3685-0DCC0EEA",
@@ -124,19 +130,6 @@ _detalhes_database = {
 ["dungeon_zone_id"] = 2662,
 ["previous_boss_killed_at"] = 1764440136,
 },
-["damage_meter_session_info"] = {
-},
-["data_harvested_for_charts"] = {
-},
-["announce_prepots"] = {
-["enabled"] = false,
-["channel"] = "SELF",
-["reverse"] = false,
-},
-["announce_damagerecord"] = {
-["enabled"] = true,
-["channel"] = "SELF",
-},
 ["combat_log"] = {
 ["merge_gemstones_1007"] = false,
 ["inverse_deathlog_raid"] = false,
@@ -148,114 +141,9 @@ _detalhes_database = {
 ["evoker_show_realtimedps"] = true,
 ["inverse_deathlog_mplus"] = false,
 },
-["local_instances_config"] = {
-{
-["modo"] = 2,
-["sub_attribute"] = 1,
-["horizontalSnap"] = false,
-["verticalSnap"] = true,
-["last_raid_plugin"] = "DETAILS_PLUGIN_VANGUARD",
-["isLocked"] = true,
-["is_open"] = true,
-["sub_atributo_last"] = {
-1,
-1,
-2,
-7,
-9,
-},
-["snap"] = {
-[4] = 2,
-},
-["segment"] = 0,
-["mode"] = 2,
-["attribute"] = 1,
-["pos"] = {
-["normal"] = {
-["y"] = -611.9848861694336,
-["x"] = 1032.619262695313,
-["w"] = 413.3343811035156,
-["h"] = 115.5051345825195,
-},
-["solo"] = {
-["y"] = 2,
-["x"] = 1,
-["w"] = 300,
-["h"] = 200,
-},
-},
-},
-{
-["modo"] = 2,
-["sub_attribute"] = 10,
-["horizontalSnap"] = false,
-["verticalSnap"] = true,
-["isLocked"] = true,
-["is_open"] = true,
-["sub_atributo_last"] = {
-1,
-1,
-1,
-3,
-10,
-},
-["snap"] = {
-[2] = 1,
-[4] = 3,
-},
-["segment"] = -1,
-["mode"] = 2,
-["attribute"] = 5,
-["pos"] = {
-["normal"] = {
-["y"] = -478.0561218261719,
-["x"] = 1032.619262695313,
-["w"] = 413.3340454101563,
-["h"] = 112.3524017333984,
-},
-["solo"] = {
-["y"] = 2,
-["x"] = 1,
-["w"] = 300,
-["h"] = 200,
-},
-},
-},
-{
-["modo"] = 2,
-["sub_attribute"] = 3,
-["horizontalSnap"] = false,
-["verticalSnap"] = true,
-["isLocked"] = true,
-["is_open"] = true,
-["sub_atributo_last"] = {
-1,
-1,
-1,
-3,
-1,
-},
-["snap"] = {
-[2] = 2,
-},
-["segment"] = -1,
-["mode"] = 2,
-["attribute"] = 4,
-["pos"] = {
-["normal"] = {
-["y"] = -345.7037048339844,
-["x"] = 1032.619262695313,
-["w"] = 413.3340454101563,
-["h"] = 112.3524398803711,
-},
-["solo"] = {
-["y"] = 2,
-["x"] = 1,
-["w"] = 300,
-["h"] = 200,
-},
-},
-},
+["announce_damagerecord"] = {
+["enabled"] = true,
+["channel"] = "SELF",
 },
 ["mythic_plus_log"] = {
 "29/11/25 11:15:38|Activity Time: 1127.4929999999",
@@ -308,17 +196,33 @@ _detalhes_database = {
 "17/03/23 16:08:24|MergeTrashCleanup started.",
 "17/03/23 16:08:24|BossDefeated | key level: | 22 | Crawth | Algeth'ar Academy",
 },
+["last_encounter"] = "Fractillus",
 ["arena_data_compressed"] = {
 },
+["cached_talents"] = {
+},
 ["character_data"] = {
-["logons"] = 674,
+["logons"] = 676,
+},
+["ignore_nicktag"] = false,
+["combat_counter"] = 11075,
+["announce_firsthit"] = {
+["enabled"] = true,
+["channel"] = "SELF",
+},
+["combat_id"] = 1728,
+["savedStyles"] = {
+},
+["benchmark_db"] = {
+["frame"] = {
+},
 },
 ["plugin_database"] = {
 ["DETAILS_PLUGIN_TINY_THREAT"] = {
 ["enabled"] = true,
 ["only_my_group"] = false,
 ["animate"] = false,
-["usefocus"] = false,
+["show_party_pets"] = false,
 ["hide_pull_bar"] = false,
 ["useclasscolors"] = false,
 ["playercolor"] = {
@@ -326,15 +230,15 @@ _detalhes_database = {
 1,
 1,
 },
-["show_party_pets"] = false,
-["disable_gouge"] = false,
+["usefocus"] = false,
+["updatespeed"] = 1,
 ["author"] = "Details! Team",
 ["showamount"] = false,
 ["useplayercolor"] = false,
 ["absolute_mode"] = false,
 ["playSound"] = false,
 ["playSoundFile"] = "Details Threat Warning Volume 3",
-["updatespeed"] = 1,
+["disable_gouge"] = false,
 },
 ["DETAILS_PLUGIN_RAIDCHECK"] = {
 ["enabled"] = true,
@@ -406,11 +310,11 @@ _detalhes_database = {
 1,
 0.5,
 },
-["arrow_anchor_y"] = 0,
 ["main_frame_size"] = {
 300.0000305175781,
 500.0000305175781,
 },
+["arrow_anchor_y"] = 0,
 ["minimap"] = {
 ["minimapPos"] = 312.1877406780602,
 ["radius"] = 160,
@@ -418,20 +322,20 @@ _detalhes_database = {
 },
 ["main_frame_locked"] = false,
 ["arrow_anchor_x"] = 0,
-["author"] = "Details! Team",
-["row_texture"] = "Details Serenity",
-["square_grow_direction"] = "right",
-["use_spark"] = true,
 ["row_color"] = {
 0.1,
 0.1,
 0.1,
 0.4,
 },
+["row_texture"] = "Details Serenity",
+["square_grow_direction"] = "right",
+["font_size"] = 10,
+["author"] = "Details! Team",
 ["square_amount"] = 5,
 ["enabled"] = false,
 ["arrow_size"] = 10,
-["font_size"] = 10,
+["y"] = -6.103515625e-05,
 ["row_spacement"] = 21,
 ["main_frame_color"] = {
 0,
@@ -441,6 +345,7 @@ _detalhes_database = {
 },
 ["main_frame_strata"] = "LOW",
 ["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+["use_spark"] = true,
 ["per_second"] = {
 ["enabled"] = false,
 ["point"] = "CENTER",
@@ -452,7 +357,6 @@ _detalhes_database = {
 ["update_speed"] = 0.05,
 ["size"] = 32,
 },
-["y"] = -6.103515625e-05,
 ["x"] = 0.0001220703125,
 ["font_face"] = "Friz Quadrata TT",
 ["square_size"] = 32,
@@ -460,21 +364,6 @@ _detalhes_database = {
 ["point"] = "CENTER",
 ["row_height"] = 20,
 ["scale"] = 1,
-},
-},
-["ignore_nicktag"] = false,
-["force_font_outline"] = "",
-["combat_counter"] = 11071,
-["announce_firsthit"] = {
-["enabled"] = true,
-["channel"] = "SELF",
-},
-["combat_id"] = 1728,
-["savedStyles"] = {
-},
-["last_realversion"] = 168,
-["benchmark_db"] = {
-["frame"] = {
 },
 },
 ["announce_deaths"] = {
@@ -511,7 +400,7 @@ _detalhes_database = {
 },
 ["raid_roster"] = {
 },
-["tempo_start"] = 445768.467,
+["tempo_start"] = 77601.153,
 ["last_events_tables"] = {
 },
 ["alternate_power"] = {
@@ -608,13 +497,124 @@ _detalhes_database = {
 ["start_time"] = 0,
 ["TimeData"] = {
 },
-["combat_counter"] = 11070,
+["combat_counter"] = 11074,
 },
-["cached_talents"] = {
+["local_instances_config"] = {
+{
+["modo"] = 2,
+["sub_attribute"] = 1,
+["horizontalSnap"] = false,
+["verticalSnap"] = true,
+["last_raid_plugin"] = "DETAILS_PLUGIN_VANGUARD",
+["isLocked"] = true,
+["is_open"] = true,
+["sub_atributo_last"] = {
+1,
+1,
+2,
+7,
+9,
+},
+["snap"] = {
+[4] = 2,
+},
+["segment"] = 0,
+["mode"] = 2,
+["attribute"] = 1,
+["pos"] = {
+["normal"] = {
+["y"] = -611.9848861694336,
+["x"] = 1032.646118164063,
+["w"] = 413.3343811035156,
+["h"] = 115.5051345825195,
+},
+["solo"] = {
+["y"] = 2,
+["x"] = 1,
+["w"] = 300,
+["h"] = 200,
+},
+},
+},
+{
+["modo"] = 2,
+["sub_attribute"] = 1,
+["horizontalSnap"] = false,
+["verticalSnap"] = true,
+["isLocked"] = true,
+["is_open"] = true,
+["sub_atributo_last"] = {
+1,
+1,
+1,
+3,
+10,
+},
+["snap"] = {
+[2] = 1,
+[4] = 3,
+},
+["segment"] = -1,
+["mode"] = 2,
+["attribute"] = 1,
+["pos"] = {
+["normal"] = {
+["y"] = -478.0561218261719,
+["x"] = 1032.646118164063,
+["w"] = 413.3340454101563,
+["h"] = 112.3524017333984,
+},
+["solo"] = {
+["y"] = 2,
+["x"] = 1,
+["w"] = 300,
+["h"] = 200,
+},
+},
+},
+{
+["modo"] = 2,
+["sub_attribute"] = 3,
+["horizontalSnap"] = false,
+["verticalSnap"] = true,
+["isLocked"] = true,
+["is_open"] = true,
+["sub_atributo_last"] = {
+1,
+1,
+1,
+3,
+1,
+},
+["snap"] = {
+[2] = 2,
+},
+["segment"] = -1,
+["mode"] = 2,
+["attribute"] = 4,
+["pos"] = {
+["normal"] = {
+["y"] = -345.7036437988281,
+["x"] = 1032.646118164063,
+["w"] = 413.3340454101563,
+["h"] = 112.3524398803711,
+},
+["solo"] = {
+["y"] = 2,
+["x"] = 1,
+["w"] = 300,
+["h"] = 200,
+},
+},
+},
 },
 ["arena_data_headers"] = {
 },
-["last_encounter"] = "Fractillus",
+["announce_prepots"] = {
+["enabled"] = false,
+["channel"] = "SELF",
+["reverse"] = false,
+},
 ["announce_cooldowns"] = {
 ["ignored_cooldowns"] = {
 },

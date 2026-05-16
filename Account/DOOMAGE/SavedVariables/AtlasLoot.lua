@@ -11,13 +11,13 @@ AtlasLootDB = {
 ["Adamancy - Turalyon"] = "Default",
 ["Brewenjoyer - Turalyon"] = "Default",
 ["Ninjee - Whisperwind"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Drunkan - Turalyon"] = "Default",
 ["Experiment - Whisperwind"] = "Default",
-["Aduum - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
 ["Taybae - Turalyon"] = "Default",
 ["Adamn - Turalyon"] = "Default",
-["Christoff - Turalyon"] = "Default",
-["Drunkan - Turalyon"] = "Default",
+["Aduum - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Fredus - Turalyon"] = "Default",
 },
 ["profiles"] = {
@@ -28,28 +28,42 @@ AtlasLootDB = {
 ["Button"] = {
 ["Achievement"] = {
 ["ClickHandler"] = {
+["types"] = {
+["ChatLink"] = true,
+["GoTo"] = true,
+},
+["LeftButton"] = {
+["Shift"] = "ChatLink",
+["None"] = "GoTo",
+},
 ["__defaults"] = {
-["LeftButton"] = {
-["Shift"] = "ChatLink",
-["None"] = "GoTo",
-},
 ["types"] = {
 ["ChatLink"] = true,
 ["GoTo"] = true,
-},
 },
 ["LeftButton"] = {
 ["Shift"] = "ChatLink",
 ["None"] = "GoTo",
 },
-["types"] = {
-["ChatLink"] = true,
-["GoTo"] = true,
 },
 },
 },
 ["Item"] = {
 ["ClickHandler"] = {
+["types"] = {
+["ChatLink"] = true,
+["SetFavourite"] = true,
+["DressUp"] = true,
+["Azerite"] = true,
+},
+["LeftButton"] = {
+["Shift"] = "ChatLink",
+["Ctrl"] = "DressUp",
+["Alt"] = "SetFavourite",
+},
+["RightButton"] = {
+["Shift"] = "Azerite",
+},
 ["__defaults"] = {
 ["LeftButton"] = {
 ["Shift"] = "ChatLink",
@@ -65,47 +79,39 @@ AtlasLootDB = {
 ["DressUp"] = true,
 ["SetFavourite"] = true,
 },
-},
-["LeftButton"] = {
-["Shift"] = "ChatLink",
-["Ctrl"] = "DressUp",
-["Alt"] = "SetFavourite",
-},
-["RightButton"] = {
-["Shift"] = "Azerite",
-},
-["types"] = {
-["ChatLink"] = true,
-["Azerite"] = true,
-["DressUp"] = true,
-["SetFavourite"] = true,
 },
 },
 },
 ["Set"] = {
 ["ClickHandler"] = {
+["types"] = {
+["DressUp"] = true,
+["OpenSet"] = true,
+},
+["LeftButton"] = {
+["None"] = "OpenSet",
+["Ctrl"] = "DressUp",
+},
 ["__defaults"] = {
-["LeftButton"] = {
-["Ctrl"] = "DressUp",
-["None"] = "OpenSet",
-},
 ["types"] = {
 ["DressUp"] = true,
 ["OpenSet"] = true,
 },
-},
 ["LeftButton"] = {
-["Ctrl"] = "DressUp",
 ["None"] = "OpenSet",
+["Ctrl"] = "DressUp",
 },
-["types"] = {
-["DressUp"] = true,
-["OpenSet"] = true,
 },
 },
 },
 ["Mount"] = {
 ["ClickHandler"] = {
+["types"] = {
+["GoTo"] = true,
+},
+["LeftButton"] = {
+["None"] = "GoTo",
+},
 ["__defaults"] = {
 ["types"] = {
 ["GoTo"] = true,
@@ -113,30 +119,24 @@ AtlasLootDB = {
 ["LeftButton"] = {
 ["None"] = "GoTo",
 },
-},
-["LeftButton"] = {
-["None"] = "GoTo",
-},
-["types"] = {
-["GoTo"] = true,
 },
 },
 },
 ["Pet"] = {
 ["ClickHandler"] = {
+["types"] = {
+["GoTo"] = true,
+},
+["LeftButton"] = {
+["None"] = "GoTo",
+},
 ["__defaults"] = {
-["LeftButton"] = {
-["None"] = "GoTo",
-},
 ["types"] = {
 ["GoTo"] = true,
-},
 },
 ["LeftButton"] = {
 ["None"] = "GoTo",
 },
-["types"] = {
-["GoTo"] = true,
 },
 },
 },
@@ -150,19 +150,20 @@ AtlasLootDB = {
 },
 },
 ["GUI"] = {
+["classFilter"] = true,
 ["point"] = {
 nil,
 nil,
 "CENTER",
--52.36360549926758,
-66.58580017089844,
+-151.9192199707031,
+65.93941497802734,
 },
 ["selected"] = {
 "AtlasLoot_Factions",
-"TWWFACTIONS",
-nil,
+"MIDNIGHTFACTIONS",
+10,
 1,
-0,
+1,
 },
 ["transMogHighlighter"] = true,
 },

@@ -1,0 +1,45 @@
+
+FTACharDB = {
+["progress"] = {
+["activeRouteId"] = "MIDNIGHT_ALT",
+["activeModuleId"] = "ALT_DELVES_START",
+["autoAdvanceModules"] = false,
+["stepIndexByModule"] = {
+["MIDNIGHT_SUNWELL_INTRO"] = 14,
+["ALT_DELVES_START"] = 1,
+},
+["isBrowsingByModule"] = {
+["MIDNIGHT_SUNWELL_INTRO"] = false,
+["ALT_DELVES_START"] = false,
+},
+["manualSegmentState"] = {
+["ALT_DELVES_START:1:alt_intro_2"] = true,
+["ALT_DELVES_START:1:alt_intro_1"] = true,
+},
+},
+["completion"] = {
+["moduleCredits"] = {
+},
+["questCredits"] = {
+[86770] = true,
+[86834] = true,
+[86805] = true,
+[86807] = true,
+[86780] = true,
+[91281] = true,
+[86850] = true,
+[86852] = true,
+[86769] = true,
+[86806] = true,
+[91274] = true,
+[86849] = true,
+[89271] = true,
+[86811] = true,
+[86733] = true,
+[88719] = true,
+[89012] = true,
+[86848] = true,
+},
+},
+["firstLogin"] = true,
+}

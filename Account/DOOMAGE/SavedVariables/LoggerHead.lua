@@ -27,17 +27,17 @@ LoggerHeadDB = {
 ["Adreya - Bloodscalp"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Ninjee - Whisperwind"] = "Default",
-["Amdam - Turalyon"] = "Default",
+["Fife - The Forgotten Coast"] = "Default",
 ["Frake - Turalyon"] = "Default",
 ["Luthro - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
-["Brewenjoyer - Turalyon"] = "Default",
+["Adonis - Turalyon"] = "Default",
 ["Caseann - Turalyon"] = "Default",
 ["Dugan - Turalyon"] = "Default",
 ["Taybae - Turalyon"] = "Default",
-["Adonis - Turalyon"] = "Default",
+["Brewenjoyer - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Fife - The Forgotten Coast"] = "Default",
+["Amdam - Turalyon"] = "Default",
 ["Fredus - Turalyon"] = "Default",
 },
 ["profiles"] = {
@@ -55,6 +55,8 @@ false,
 [24] = false,
 },
 ["Skyreach"] = {
+false,
+[23] = false,
 [24] = false,
 },
 ["Sanguine Depths"] = {
@@ -123,6 +125,12 @@ false,
 ["Eco-Dome Al'dani"] = {
 [23] = true,
 [8] = true,
+},
+["The Blinding Vale"] = {
+[23] = false,
+},
+["Den of Nalorakk"] = {
+[23] = false,
 },
 ["The MOTHERLODE!!"] = {
 [8] = true,
@@ -222,40 +230,73 @@ false,
 [2] = false,
 [23] = false,
 },
+["Windrunner Spire"] = {
+[23] = false,
+},
+["Ruby Life Pools"] = {
+false,
+},
+["Blackrock Depths"] = {
+false,
+},
 ["Freehold"] = {
 [24] = false,
 [23] = false,
+},
+["Court of Stars"] = {
+[8] = false,
+[2] = false,
+[23] = false,
+[24] = false,
+},
+["De Other Side"] = {
+[24] = false,
 },
 ["Operation: Mechagon"] = {
 [23] = true,
 [8] = true,
 },
+["Darkheart Thicket"] = {
+false,
+false,
+[8] = false,
+[23] = false,
+[24] = false,
+},
 ["Gate of the Setting Sun"] = {
 [24] = false,
 },
-["Ruby Life Pools"] = {
-false,
+["Coilfang: The Underbog"] = {
+[24] = false,
 },
 ["Magisters' Terrace"] = {
 [24] = false,
+[23] = false,
 },
-["Spires of Ascension"] = {
-[24] = false,
+["Pit of Saron"] = {
 },
-["The Oculus"] = {
-[2] = false,
-},
-["De Other Side"] = {
-[24] = false,
-},
-["Scholomance"] = {
-[24] = false,
+["Nexus-Point Xenas"] = {
+[23] = false,
 },
 ["Algeth'ar Academy"] = {
 false,
+[23] = false,
+},
+["Voidscar Arena"] = {
+[23] = false,
+},
+["The Arcway"] = {
+[8] = false,
+[2] = false,
+[23] = false,
 },
 ["Deadmines"] = {
 [24] = false,
+},
+["Theater of Pain"] = {
+false,
+[8] = true,
+[23] = true,
 },
 ["The Rookery"] = {
 false,
@@ -263,21 +304,16 @@ false,
 [8] = true,
 [23] = true,
 },
-["Theater of Pain"] = {
-false,
-[8] = true,
-[23] = true,
-},
-["Temple of Sethraliss"] = {
+["Blackrock Caverns"] = {
 [24] = false,
 },
-["Hellfire Citadel: The Shattered Halls"] = {
-[24] = false,
+["Zul'Gurub"] = {
+[2] = false,
 },
 ["Shado-Pan Monastery"] = {
 [24] = false,
 },
-["Hellfire Citadel: The Blood Furnace"] = {
+["Halls of Lightning"] = {
 [24] = false,
 },
 ["Assault on Violet Hold"] = {
@@ -287,16 +323,16 @@ false,
 ["Utgarde Keep"] = {
 [24] = false,
 },
-["Blackrock Caverns"] = {
+["Hellfire Citadel: The Blood Furnace"] = {
 [24] = false,
 },
-["Zul'Gurub"] = {
-[2] = false,
-},
-["Halls of Lightning"] = {
+["Scholomance"] = {
 [24] = false,
 },
-["Coilfang: The Underbog"] = {
+["Hellfire Citadel: The Shattered Halls"] = {
+[24] = false,
+},
+["Temple of Sethraliss"] = {
 [24] = false,
 },
 ["Neltharion's Lair"] = {
@@ -309,43 +345,53 @@ false,
 [23] = false,
 [24] = false,
 },
-["The Arcway"] = {
-[8] = false,
-[2] = false,
-[23] = false,
-},
-["Blackrock Depths"] = {
-false,
-},
-["Darkheart Thicket"] = {
-false,
-false,
-[8] = false,
-[23] = false,
+["Spires of Ascension"] = {
 [24] = false,
 },
-["Court of Stars"] = {
-[8] = false,
+["The Oculus"] = {
 [2] = false,
+},
+["Maisara Caverns"] = {
 [23] = false,
-[24] = false,
+[2] = false,
+},
+["Murder Row"] = {
+[23] = false,
 },
 },
 ["scenario"] = {
 ["The Waterworks"] = {
 [208] = false,
 },
+["Halls of Valor - Scenario"] = {
+[24] = false,
+},
+["The Spiral Weave"] = {
+[208] = false,
+},
 ["Tak-Rethan Abyss"] = {
+[208] = false,
+},
+["Fungal Folly"] = {
 [208] = false,
 },
 ["Archival Assault"] = {
 [208] = false,
 },
+["The Eye of Eternity - Scenario"] = {
+[24] = false,
+},
 ["Mycomancer Cavern"] = {
 [208] = false,
 },
-["The Eye of Eternity - Scenario"] = {
+["Black Rook Hold - Artifact Challenge"] = {
 [24] = false,
+},
+["Collegiate Calamity"] = {
+[208] = false,
+},
+["The Darkway"] = {
+[208] = false,
 },
 ["Kriegval's Rest"] = {
 [208] = false,
@@ -353,10 +399,19 @@ false,
 ["The Dread Pit"] = {
 [208] = false,
 },
-["Demolition Dome"] = {
+["The Shadow Enclave"] = {
 [208] = false,
 },
-["The Underkeep"] = {
+["Atal'Aman"] = {
+[208] = false,
+},
+["The Gulf of Memory"] = {
+[208] = false,
+},
+["Sunkiller Sanctum"] = {
+[208] = false,
+},
+["Twilight Crypts"] = {
 [208] = false,
 },
 ["Artifact - Highmountain - Dual Boss"] = {
@@ -374,29 +429,29 @@ false,
 ["Artifact - Acquisition - Tank"] = {
 [24] = false,
 },
-["Nightfall Sanctum"] = {
+["The Sinkhole"] = {
+[208] = false,
+},
+["Demolition Dome"] = {
 [208] = false,
 },
 ["Excavation Site 9"] = {
 [208] = false,
 },
-["Halls of Valor - Scenario"] = {
-[24] = false,
-},
 ["Skittering Breach"] = {
 [208] = false,
 },
-["The Sinkhole"] = {
+["The Grudge Pit"] = {
 [208] = false,
 },
-["Fungal Folly"] = {
+["Nightfall Sanctum"] = {
 [208] = false,
 },
-["The Spiral Weave"] = {
+["The Underkeep"] = {
 [208] = false,
 },
-["Black Rook Hold - Artifact Challenge"] = {
-[24] = false,
+["Shadowguard Point"] = {
+[208] = false,
 },
 },
 ["raid"] = {
@@ -452,6 +507,10 @@ false,
 [15] = false,
 [16] = false,
 },
+["The Voidspire"] = {
+[14] = true,
+[15] = true,
+},
 ["The Emerald Nightmare"] = {
 [14] = false,
 [16] = false,
@@ -473,8 +532,8 @@ false,
 ["Ulduar"] = {
 [24] = false,
 },
-["Onyxia's Lair"] = {
-[4] = false,
+["Hellfire Citadel"] = {
+[16] = false,
 },
 ["The Nighthold"] = {
 [14] = false,
@@ -482,15 +541,16 @@ false,
 [15] = false,
 [17] = false,
 },
-["Hellfire Citadel"] = {
-[16] = false,
+["Onyxia's Lair"] = {
+[4] = false,
 },
 ["Molten Core"] = {
 [9] = false,
 },
 ["Firelands"] = {
-[15] = false,
 [14] = false,
+[15] = false,
+[24] = false,
 },
 },
 },

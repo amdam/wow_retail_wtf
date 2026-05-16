@@ -15,10 +15,10 @@ VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [spec:3] Ray of Frost; [spec:1] Arcane Surge; [spec:2] Combustion;
+/cast [spec:1] Arcane Surge; [spec:2] Combustion;
 /cast Berserking
 /use 13
-/use Dreambinder, Loom of the Great Cycle
+/cast [spec:3] Ray of Frost
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
@@ -42,7 +42,7 @@ VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,known:Supernova] Supernova; [mod:shift] Cone of Cold; [spec:2] Phoenix Flames; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
+/cast [mod:alt,known:31661] Dragon's Breath; [mod:alt,known:Supernova] Supernova; [mod:shift] Cone of Cold; [spec:2,@cursor] Meteor; [spec:3] Frozen Orb; [spec:1] Arcane Orb;
 /cancelaura Soul Ignition
 /script UIErrorsFrame:Clear()
 END
@@ -110,5 +110,11 @@ END
 VER 3 0100000000000021 " " "134400"
 #showtooltip
 /cast [@cursor] Flamestrike
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000022 " " "134400"
+#showtooltip Ray of Frost
+/use 13
+/cast Ray of Frost
 /script UIErrorsFrame:Clear()
 END

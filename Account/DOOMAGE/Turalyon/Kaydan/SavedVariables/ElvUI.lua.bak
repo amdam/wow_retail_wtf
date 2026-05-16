@@ -3,8 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/key",
-"/p hi there",
 "/p we're still good on time?",
 "/p all good we got it done",
 "/p tyfg",
@@ -23,6 +21,8 @@ ElvCharacterDB = {
 "/macro",
 "/apclasswin",
 "/cdm",
+"/rl",
+"/arcui",
 },
 ["ConvertKeybindings"] = true,
 }

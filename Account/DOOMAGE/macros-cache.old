@@ -1,12 +1,3 @@
-VER 3 0000000000000069 " " "134400"
-#showtooltip
-/cast [known:Twisted Crusade] Twisted Crusade; [known:Call of the Forest] Call of the Forest; [known:Naran's Everdisc] Naran's Everdisc; [known:Tempest Wrath] Tempest Wrath; [known:Vindicator's Judgment] Vindicator's Judgment
-END
-VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use 14
-/use Phial of Serenity
-END
 VER 3 0000000000000068 " " "136103"
 /tar Iggy
 /tar Moog
@@ -34,6 +25,15 @@ VER 3 000000000000001D " " "ACHIEVEMENT_GUILDPERK_MOUNTUP"
 /cast [nomounted,noflyable] G-99 Breakneck
 /run if not IsMounted() then C_MountJournal.SummonByID(0) end
 END
+VER 3 0000000000000069 " " "134400"
+#showtooltip
+/cast [known:Twisted Crusade] Twisted Crusade; [known:Call of the Forest] Call of the Forest; [known:Naran's Everdisc] Naran's Everdisc; [known:Tempest Wrath] Tempest Wrath; [known:Vindicator's Judgment] Vindicator's Judgment
+END
+VER 3 000000000000005E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+/use Phial of Serenity
+END
 VER 3 000000000000001C " dia" "INV_MISC_QUESTIONMARK"
 /click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
 /click DropDownList1Button3
@@ -58,6 +58,20 @@ pull timer's up, it's on now
 pop all your cds and watch the meters like 'wow'
 you zap and you blast, tunnel night and day,
 SHIT that's a raid wipe, god damnit ELEMENTE
+END
+VER 3 000000000000006C "EnhanceQoLBuffFoodMacro" "INV_Misc_QuestionMark"
+#showtooltip item:242275
+/use item:242275
+END
+VER 3 000000000000006B "EnhanceQoLFlaskMacro" "INV_Misc_QuestionMark"
+#showtooltip
+END
+VER 3 000000000000006A "EnhanceQoLHealthMacro" "INV_Misc_QuestionMark"
+#showtooltip
+/castsequence reset=combat item:241305
+END
+VER 3 000000000000006D "focus mark" "132212"
+/tm 4
 END
 VER 3 0000000000000064 "fyr'alath blp" "5205711"
 /run local a=C_CurrencyInfo.GetCurrencyInfo(2784)if type(a)=="table" then print("\124cffff8000Fyr'alath's Bad Luck Protection:\124r",a.quantity)end

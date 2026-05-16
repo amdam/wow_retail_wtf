@@ -5,7 +5,6 @@ ElvCharacterDB = {
 ["ChatEditHistory"] = {
 "you can queue for follower dungeon",
 "/clique",
-"/ec",
 "/details",
 "/details options",
 "/p you dont want to do timewlaking with me?",
@@ -21,8 +20,9 @@ ElvCharacterDB = {
 "/p we can do another overcharged delve",
 "/p ok, night night",
 "/omnicd",
-"/macro",
 "/cell opt",
+"/ec",
+"/macro",
 },
 ["ConvertKeybindings"] = true,
 }

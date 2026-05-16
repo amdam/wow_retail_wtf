@@ -3,9 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/qui",
-"/p |cffffff00|Hworldmap:2371:5265:6408|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r",
-"/p |cffffff00|Hworldmap:2371:6002:2979|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r",
 "/p brb",
 "/cell opt",
 "/g hey guys whats good",
@@ -23,6 +20,9 @@ ElvCharacterDB = {
 "/macro",
 "/rl",
 "/cdm",
+"hey can you toss me a guild inv",
+"/g ty",
+"/g calm down just an alt addler lol",
 },
 ["ConvertKeybindings"] = true,
 }

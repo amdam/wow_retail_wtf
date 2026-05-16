@@ -28,19 +28,16 @@ BAGANATOR_CONFIG = {
 ["Adamian-Turalyon"] = {
 },
 ["Adamancy-Turalyon"] = {
-{
-["currencyID"] = 3008,
 },
-},
-["Dreg-Turalyon"] = {
+["Caseann-Turalyon"] = {
 },
 ["Kaydan-Turalyon"] = {
 },
-["Taybae-Turalyon"] = {
+["Fredus-Turalyon"] = {
 },
 ["Donnd-Turalyon"] = {
 },
-["Caseann-Turalyon"] = {
+["Dreg-Turalyon"] = {
 },
 ["Dugan-Turalyon"] = {
 {
@@ -63,14 +60,8 @@ BAGANATOR_CONFIG = {
 ["Aduum-Turalyon"] = {
 },
 ["Ezray-Turalyon"] = {
-{
-["currencyID"] = 3268,
 },
-{
-["currencyID"] = 3252,
-},
-},
-["Fredus-Turalyon"] = {
+["Taybae-Turalyon"] = {
 },
 },
 ["currencies_tracked_imported"] = {
@@ -134,7 +125,9 @@ BAGANATOR_CONFIG = {
 ["icon_corners_auto_insert_applied"] = {
 ["battle_pet_level"] = true,
 ["keystone_level"] = true,
+["enhanceqol_upgrade_arrow"] = true,
 ["bag_type"] = true,
+["enhanceqol_vendor_mark"] = true,
 },
 ["show_recents_tabs_main_view"] = false,
 ["upgrade_plugin_ignored"] = {
@@ -204,18 +197,20 @@ BAGANATOR_CONFIG = {
 ["bank_only_view_show_bag_slots"] = true,
 ["icon_bottom_left_corner_array"] = {
 "bag_type",
+"enhanceqol_vendor_mark",
 "equipment_set",
 },
 ["icon_top_right_corner_array"] = {
 },
 ["icon_bottom_right_corner_array"] = {
 "quantity",
+"enhanceqol_upgrade_arrow",
 },
 ["character_bank_view_width"] = 14,
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-557.879150390625,
-657.46533203125,
+580.506103515625,
+446.6462707519531,
 },
 ["currency_headers_collapsed"] = {
 },
@@ -246,8 +241,8 @@ BAGANATOR_CONFIG = {
 ["category_horizontal_spacing_2"] = 0.3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--347.488525390625,
-579.5045776367188,
+-339.7294921875,
+478.2424926757813,
 },
 ["category_default_import"] = 3,
 ["add_to_category_buttons"] = true,
@@ -264,15 +259,22 @@ BAGANATOR_CONFIG = {
 ["category_hidden"] = {
 ["1"] = false,
 ["default_reagent"] = false,
+["default_keystone"] = false,
 ["2"] = false,
 },
+["sort_ignore_slots_at_end"] = false,
+["category_migration"] = 5,
+["icon_text_quality_colors"] = false,
+["guild_bank_sort_method"] = "unset",
+["warband_bank_view_width"] = 14,
 ["guild_view_position"] = {
 "LEFT",
 20,
 0,
 },
-["saved_searches"] = {
-},
+["add_to_category_buttons_2"] = "drag",
+["view_type"] = "unset",
+["bank_current_tab"] = 1,
 ["currencies_tracked"] = {
 ["Adamian-Turalyon"] = {
 },
@@ -296,7 +298,7 @@ BAGANATOR_CONFIG = {
 },
 ["Kayne-Turalyon"] = {
 },
-["Amdam-Turalyon"] = {
+["Powerpriest-Turalyon"] = {
 },
 ["Badam-Turalyon"] = {
 },
@@ -308,40 +310,14 @@ BAGANATOR_CONFIG = {
 },
 ["Adamn-Turalyon"] = {
 },
-["Powerpriest-Turalyon"] = {
+["Amdam-Turalyon"] = {
 },
 },
-["category_modifications"] = {
-["1"] = {
-["showGroupPrefix"] = true,
-["priority"] = 0,
-},
-["default_reagent"] = {
-["showGroupPrefix"] = true,
-["priority"] = 0,
-},
-["default_itemenhancement"] = {
-["addedItems"] = {
-["i:235494"] = true,
-},
-},
-["2"] = {
-["showGroupPrefix"] = true,
-["priority"] = 0,
-},
-},
-["warband_bank_view_width"] = 14,
-["sort_ignore_slots_at_end"] = false,
-["add_to_category_buttons_2"] = "drag",
-["view_type"] = "unset",
-["bank_current_tab"] = 2,
-["icon_text_quality_colors"] = false,
 ["recent_timeout"] = 15,
 ["icon_text_font_size"] = 14,
 ["category_group_empty_slots"] = true,
 ["setting_anchors"] = false,
-["disabled_skins"] = {
-},
+["view_alpha"] = 1,
 ["bag_view_width"] = 12,
 ["sort_ignore_slots_count_2"] = {
 ["Kayne-Turalyon"] = 0,
@@ -369,6 +345,7 @@ BAGANATOR_CONFIG = {
 ["Crafting"] = false,
 ["2"] = false,
 },
+["debug_keywords"] = false,
 ["recent_characters_main_view"] = {
 "Kaydan-Turalyon",
 "Amdam-Turalyon",
@@ -391,12 +368,35 @@ BAGANATOR_CONFIG = {
 "Adaam-Turalyon",
 "Tupac-Turalyon",
 },
-["debug_keywords"] = false,
 ["auto_sort_on_open"] = false,
-["view_alpha"] = 1,
+["disabled_skins"] = {
+},
 ["category_horizontal_spacing"] = 0.15,
-["guild_bank_sort_method"] = "unset",
-["category_migration"] = 5,
+["category_modifications"] = {
+["1"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
+["default_reagent"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
+["2"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
+["default_itemenhancement"] = {
+["addedItems"] = {
+["i:235494"] = true,
+},
+},
+["default_keystone"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
+},
+["saved_searches"] = {
+},
 ["guild_view_dialog_position"] = {
 "BOTTOM",
 "Baganator_GuildViewFrame",

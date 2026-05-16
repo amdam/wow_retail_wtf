@@ -1,11 +1,4 @@
 Version: 1
-Frame: PrePathPanel
-FrameLevel: 1
-Anchor: LEFT
-X: 19
-Y: 120
-W: 110
-H: 22
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER

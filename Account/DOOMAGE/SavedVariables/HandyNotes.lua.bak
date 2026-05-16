@@ -28,24 +28,24 @@ HandyNotesDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Fredus - Turalyon"] = "Fredus - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
+["Shado - Turalyon"] = "Shado - Turalyon",
 ["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
-["Donnd - Turalyon"] = "Donnd - Turalyon",
-["Luthro - Turalyon"] = "Luthro - Turalyon",
-["Frake - Turalyon"] = "Frake - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
+["Frake - Turalyon"] = "Frake - Turalyon",
+["Luthro - Turalyon"] = "Luthro - Turalyon",
 ["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
-["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Dugan - Turalyon"] = "Dugan - Turalyon",
 ["Taybae - Turalyon"] = "Taybae - Turalyon",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Donnd - Turalyon"] = "Donnd - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
-["Fredus - Turalyon"] = "Fredus - Turalyon",
+["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
 ["Ezray - Turalyon"] = {
@@ -102,41 +102,41 @@ HandyNotesDB = {
 },
 ["Adreya - Bloodscalp"] = {
 },
-["Adomic - Turalyon"] = {
+["Fredus - Turalyon"] = {
 },
 ["Amdamn - Bloodscalp"] = {
 },
 ["Drunkan - Turalyon"] = {
 },
-["Ninjee - Whisperwind"] = {
+["Shado - Turalyon"] = {
 },
 ["Fife - The Forgotten Coast"] = {
 },
-["Donnd - Turalyon"] = {
-},
-["Luthro - Turalyon"] = {
-},
-["Frake - Turalyon"] = {
+["Kayne - Turalyon"] = {
 },
 ["Adonis - Turalyon"] = {
 },
+["Frake - Turalyon"] = {
+},
+["Luthro - Turalyon"] = {
+},
 ["Brewenjoyer - Turalyon"] = {
 },
-["Caseann - Turalyon"] = {
-},
 ["Adrid - Turalyon"] = {
+},
+["Caseann - Turalyon"] = {
 },
 ["Dugan - Turalyon"] = {
 },
 ["Taybae - Turalyon"] = {
 },
-["Kayne - Turalyon"] = {
+["Donnd - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Ninjee - Whisperwind"] = {
 },
-["Fredus - Turalyon"] = {
+["Adomic - Turalyon"] = {
 },
 },
 }
@@ -169,24 +169,24 @@ HandyNotes_HandyNotesDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
+["Fredus - Turalyon"] = "Fredus - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
+["Shado - Turalyon"] = "Shado - Turalyon",
 ["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
-["Donnd - Turalyon"] = "Donnd - Turalyon",
-["Luthro - Turalyon"] = "Luthro - Turalyon",
-["Frake - Turalyon"] = "Frake - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
+["Frake - Turalyon"] = "Frake - Turalyon",
+["Luthro - Turalyon"] = "Luthro - Turalyon",
 ["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
-["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Dugan - Turalyon"] = "Dugan - Turalyon",
 ["Taybae - Turalyon"] = "Taybae - Turalyon",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Donnd - Turalyon"] = "Donnd - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
-["Fredus - Turalyon"] = "Fredus - Turalyon",
+["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["profiles"] = {
 ["Ezray - Turalyon"] = {
@@ -243,41 +243,41 @@ HandyNotes_HandyNotesDB = {
 },
 ["Adreya - Bloodscalp"] = {
 },
-["Adomic - Turalyon"] = {
+["Fredus - Turalyon"] = {
 },
 ["Amdamn - Bloodscalp"] = {
 },
 ["Drunkan - Turalyon"] = {
 },
-["Ninjee - Whisperwind"] = {
+["Shado - Turalyon"] = {
 },
 ["Fife - The Forgotten Coast"] = {
 },
-["Donnd - Turalyon"] = {
-},
-["Luthro - Turalyon"] = {
-},
-["Frake - Turalyon"] = {
+["Kayne - Turalyon"] = {
 },
 ["Adonis - Turalyon"] = {
 },
+["Frake - Turalyon"] = {
+},
+["Luthro - Turalyon"] = {
+},
 ["Brewenjoyer - Turalyon"] = {
 },
-["Caseann - Turalyon"] = {
-},
 ["Adrid - Turalyon"] = {
+},
+["Caseann - Turalyon"] = {
 },
 ["Dugan - Turalyon"] = {
 },
 ["Taybae - Turalyon"] = {
 },
-["Kayne - Turalyon"] = {
+["Donnd - Turalyon"] = {
 },
 ["Tupac - Turalyon"] = {
 },
-["Shado - Turalyon"] = {
+["Ninjee - Whisperwind"] = {
 },
-["Fredus - Turalyon"] = {
+["Adomic - Turalyon"] = {
 },
 },
 }

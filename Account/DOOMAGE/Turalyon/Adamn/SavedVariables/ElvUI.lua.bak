@@ -21,8 +21,8 @@ ElvCharacterDB = {
 "/g which is hardly fair to feral",
 "/raidinfo",
 "/played",
-"/cdm",
 "/plater",
+"/cdm",
 },
 ["ConvertKeybindings"] = true,
 }

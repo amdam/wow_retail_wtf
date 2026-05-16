@@ -3,9 +3,9 @@ PlumberDB_PC = {
 ["DelvesRecords"] = {
 {
 ["instanceID"] = 2826,
-["tier"] = 8,
-["time"] = 1754888406,
 ["overrideName"] = "Sidestreet Sluice",
+["time"] = 1754888406,
+["tier"] = 8,
 },
 {
 ["instanceID"] = 2826,

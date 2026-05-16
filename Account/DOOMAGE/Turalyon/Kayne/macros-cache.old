@@ -76,7 +76,7 @@ VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Festering Strike;
+/cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Putrefy;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
@@ -118,5 +118,10 @@ END
 VER 3 0100000000000017 " " "134400"
 #showtooltip
 /cast Breath of Sindragosa
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000018 " " "134400"
+#showtooltip
+/cast [mod:alt] Outbreak; Festering Strike
 /script UIErrorsFrame:Clear()
 END

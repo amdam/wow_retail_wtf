@@ -6,4 +6,6 @@ PrePathDB = {
 ["point"] = "LEFT",
 ["relativePoint"] = "LEFT",
 },
+["Alarms"] = {
+},
 }

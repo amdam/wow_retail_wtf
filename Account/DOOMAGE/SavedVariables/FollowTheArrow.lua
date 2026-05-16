@@ -1,0 +1,82 @@
+
+FTADB = {
+["profile"] = {
+["qol"] = {
+["hideUpcoming"] = false,
+["hideCompleted"] = false,
+["lockMainWindow"] = false,
+},
+["general"] = {
+["voldemortMode"] = false,
+["textOnlyMainWindow"] = false,
+["hideMainWindow"] = false,
+["hideOnLogin"] = false,
+["hideArrow"] = false,
+},
+["arrow"] = {
+["helper"] = {
+["mode"] = "WINDOW",
+},
+["colors"] = {
+["mid"] = {
+["a"] = 1,
+["b"] = 0,
+["g"] = 1,
+["r"] = 1,
+},
+["away"] = {
+["a"] = 1,
+["b"] = 0,
+["g"] = 0,
+["r"] = 1,
+},
+["facing"] = {
+["a"] = 1,
+["b"] = 0,
+["g"] = 1,
+["r"] = 0,
+},
+},
+["locked"] = false,
+["textScale"] = 1,
+["scale"] = 1,
+},
+["ui"] = {
+["showNotesInCurrent"] = true,
+["mainScale"] = 1,
+["point"] = "CENTER",
+["arrow"] = {
+["y"] = -249.2118530273438,
+["relPoint"] = "TOP",
+["point"] = "TOP",
+["x"] = 7.757548809051514,
+},
+["scale"] = 1,
+["textScale"] = 1,
+["width"] = 360,
+["y"] = 0,
+["relPoint"] = "CENTER",
+["main"] = {
+["y"] = -86.62814331054688,
+["x"] = 9.414554595947266,
+["point"] = "LEFT",
+["restoreH"] = 460.0000305175781,
+["minimized"] = false,
+["w"] = 360.0001220703125,
+["h"] = 460.0000305175781,
+},
+["mainBgAlpha"] = 0.85,
+["showDistance"] = true,
+["x"] = 0,
+["showNotesInUpcoming"] = false,
+["height"] = 420,
+},
+["automation"] = {
+["enableQuestAutomation"] = false,
+},
+["minimap"] = {
+["angle"] = 225,
+["hide"] = false,
+},
+},
+}
