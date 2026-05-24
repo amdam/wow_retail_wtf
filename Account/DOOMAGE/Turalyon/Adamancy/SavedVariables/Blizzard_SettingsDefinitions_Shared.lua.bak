@@ -8,8 +8,8 @@ NewSettingsSeen = {
 ["chatBubblesRaid"] = true,
 ["DAMAGE_METER_LABEL"] = true,
 ["PROXY_SPELL_DENSITY"] = true,
-["enableConnectToPhotoSharing"] = true,
+["cooldownViewerEnabled"] = true,
 ["COMBAT_WARNINGS_LABEL"] = true,
 ["SPELL_DIMINISH_SECTION_HEADER_LABEL"] = true,
-["cooldownViewerEnabled"] = true,
+["enableConnectToPhotoSharing"] = true,
 }

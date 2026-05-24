@@ -1,0 +1,37 @@
+
+FTACharDB = {
+["progress"] = {
+["activeRouteId"] = "MIDNIGHT_ALT",
+["activeModuleId"] = "ALT_DELVES_START",
+["autoAdvanceModules"] = false,
+["stepIndexByModule"] = {
+["MIDNIGHT_SUNWELL_INTRO"] = 1,
+["ALT_DELVES_START"] = 5,
+},
+["isBrowsingByModule"] = {
+["MIDNIGHT_SUNWELL_INTRO"] = false,
+["ALT_DELVES_START"] = false,
+},
+["manualSegmentState"] = {
+["ALT_DELVES_START:4:grudgepit_flight_1"] = true,
+["ALT_DELVES_START:1:alt_intro_1"] = true,
+["ALT_DELVES_START:5:gulf_of_memory_flight"] = true,
+["ALT_DELVES_START:4:theden_hearthstone_1"] = true,
+["ALT_DELVES_START:4:harandar_portal_1"] = true,
+["ALT_DELVES_START:2:leave_delve_colcal"] = true,
+["ALT_DELVES_START:4:harandar_hearth_1"] = true,
+["ALT_DELVES_START:1:alt_intro_3"] = true,
+["ALT_DELVES_START:3:liadrin_sunwell_skip"] = true,
+["ALT_DELVES_START:1:alt_intro_2"] = true,
+},
+},
+["completion"] = {
+["moduleCredits"] = {
+},
+["questCredits"] = {
+[91281] = true,
+[94993] = true,
+},
+},
+["firstLogin"] = true,
+}

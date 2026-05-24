@@ -21,11 +21,11 @@ AccountPlayedDB = {
 ["class"] = "DRUID",
 },
 ["Turalyon-Kayne"] = {
-["time"] = 1553210,
+["time"] = 1575557,
 ["class"] = "DEATHKNIGHT",
 },
 ["Turalyon-Adamian"] = {
-["time"] = 134367,
+["time"] = 137357,
 ["class"] = "EVOKER",
 },
 ["Turalyon-Donnd"] = {
@@ -96,21 +96,21 @@ AccountPlayedDB = {
 ["time"] = 1047835,
 ["class"] = "DEMONHUNTER",
 },
-["Bloodscalp-Jeryn"] = {
-["time"] = 216468,
-["class"] = "PRIEST",
-},
-["Turalyon-Adamancy"] = {
-["time"] = 19567165,
-["class"] = "MAGE",
+["Turalyon-Adrid"] = {
+["time"] = 1474685,
+["class"] = "HUNTER",
 },
 ["Turalyon-Adonis"] = {
 ["time"] = 472587,
 ["class"] = "DEMONHUNTER",
 },
-["Turalyon-Amdam"] = {
-["time"] = 29042524,
-["class"] = "PALADIN",
+["Turalyon-Adamancy"] = {
+["time"] = 19602086,
+["class"] = "MAGE",
+},
+["Turalyon-Aduum"] = {
+["time"] = 287234,
+["class"] = "WARLOCK",
 },
 ["Whisperwind-Ninjee"] = {
 ["time"] = 1242132,
@@ -124,17 +124,17 @@ AccountPlayedDB = {
 ["time"] = 306363,
 ["class"] = "PRIEST",
 },
-["Turalyon-Aduum"] = {
-["time"] = 287234,
-["class"] = "WARLOCK",
+["Turalyon-Amdam"] = {
+["time"] = 29079437,
+["class"] = "PALADIN",
 },
 ["Turalyon-Abel"] = {
 ["time"] = 581534,
 ["class"] = "PRIEST",
 },
-["Turalyon-Adrid"] = {
-["time"] = 1474685,
-["class"] = "HUNTER",
+["Bloodscalp-Jeryn"] = {
+["time"] = 216468,
+["class"] = "PRIEST",
 },
 }
 AccountPlayedMinimapDB = {

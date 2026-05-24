@@ -29,30 +29,30 @@ WilduToolsDB = {
 ["Frake - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Ninjee - Whisperwind"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Caseann - Turalyon"] = "Default",
 ["Dugan - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Caseann - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Fredus - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
 ["editMode"] = {
-["rangeCheck"] = {
-["alpha"] = 1,
-},
-["playerCombat"] = {
-["alpha"] = 1,
-},
 ["gcdHistory"] = {
+["alpha"] = 1,
+},
+["targetCombat"] = {
+["alpha"] = 1,
+},
+["rangeCheck"] = {
 ["alpha"] = 1,
 },
 ["mountIcon"] = {
 ["alpha"] = 1,
 },
-["targetCombat"] = {
+["playerCombat"] = {
 ["alpha"] = 1,
 },
 ["rangeMeleeIndicator"] = {

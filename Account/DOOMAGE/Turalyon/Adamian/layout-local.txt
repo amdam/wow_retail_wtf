@@ -1,4 +1,11 @@
 Version: 1
+Frame: FTA_GuideArrow
+FrameLevel: 1
+Anchor: TOP
+X: -16
+Y: -132
+W: 80
+H: 80
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER

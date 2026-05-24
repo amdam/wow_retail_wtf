@@ -202,7 +202,7 @@ ChonkyCharacterSheet: enabled
 CooldownManagerCentered: disabled
 Decorvendor: enabled
 EnhanceQoL: enabled
-FollowTheArrow: disabled
+FollowTheArrow: enabled
 HandyNotes_Midnight: enabled
 HomeBound: enabled
 MissingClassBuff: enabled
@@ -214,3 +214,5 @@ Narcissus_GamePad: enabled
 Preydator: enabled
 SenseiClassResourceBar: disabled
 EnhanceQoLSharedMedia: enabled
+PatchWerk: disabled
+!PatchWerk: disabled

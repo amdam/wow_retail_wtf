@@ -60,16 +60,13 @@ you zap and you blast, tunnel night and day,
 SHIT that's a raid wipe, god damnit ELEMENTE
 END
 VER 3 000000000000006C "EnhanceQoLBuffFoodMacro" "INV_Misc_QuestionMark"
-#showtooltip item:255847
-/use item:255847
+#showtooltip
 END
 VER 3 000000000000006B "EnhanceQoLFlaskMacro" "INV_Misc_QuestionMark"
-#showtooltip item:241323
-/use item:241323
+#showtooltip
 END
 VER 3 000000000000006A "EnhanceQoLHealthMacro" "INV_Misc_QuestionMark"
 #showtooltip
-/castsequence reset=combat item:241305
 END
 VER 3 000000000000006D "focus mark" "132212"
 /tm 4

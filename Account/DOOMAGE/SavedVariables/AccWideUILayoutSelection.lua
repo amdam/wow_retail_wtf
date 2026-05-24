@@ -136,7 +136,7 @@ AccWideUIAceDB = {
 ["hasBeenPrepared"] = true,
 },
 },
-["Caseann - Turalyon"] = {
+["Adrid - Turalyon"] = {
 ["useEditModeLayout"] = {
 ["hasBeenPrepared"] = true,
 },
@@ -161,7 +161,7 @@ AccWideUIAceDB = {
 ["hasBeenPrepared"] = true,
 },
 },
-["Adrid - Turalyon"] = {
+["Caseann - Turalyon"] = {
 ["useEditModeLayout"] = {
 ["hasBeenPrepared"] = true,
 },
@@ -171,6 +171,9 @@ AccWideUIAceDB = {
 ["hasBeenPrepared"] = true,
 },
 },
+},
+["global"] = {
+["hasDoneFirstTimeSetup"] = true,
 },
 ["profileKeys"] = {
 ["Ezray - Turalyon"] = "Default",
@@ -200,16 +203,13 @@ AccWideUIAceDB = {
 ["Frake - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Ninjee - Whisperwind"] = "Default",
-["Caseann - Turalyon"] = "Default",
+["Adrid - Turalyon"] = "Default",
 ["Dugan - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Adrid - Turalyon"] = "Default",
+["Caseann - Turalyon"] = "Default",
 ["Fredus - Turalyon"] = "Default",
-},
-["global"] = {
-["hasDoneFirstTimeSetup"] = true,
 },
 ["profiles"] = {
 ["Default"] = {
@@ -232,7 +232,7 @@ AccWideUIAceDB = {
 ["tutorialTooltips"] = {
 ["cvars"] = {
 ["closedExtraAbiltyTutorials"] = "@@B@@@@@@@BO",
-["closedInfoFrames"] = "@ArEABCnPP@FD@H@@@[pNxSBzCA",
+["closedInfoFrames"] = "@ArEABCnPP@FD@H@@@[p^xSBzCA",
 },
 },
 ["empowerTap"] = {
@@ -265,11 +265,11 @@ AccWideUIAceDB = {
 ["options"] = {
 ["locked"] = true,
 ["opacity"] = 0.7,
-["showPlayers"] = true,
 ["position"] = {
 ["y"] = 211.9999694824219,
 ["x"] = 1926.591430664063,
 },
+["showPlayers"] = true,
 },
 ["cvars"] = {
 ["showBattlefieldMinimap"] = "0",
@@ -291,25 +291,44 @@ AccWideUIAceDB = {
 ["assistedCombatHighlight"] = "1",
 },
 },
-["uiMisc"] = {
+["minimap"] = {
 ["cvars"] = {
-["auctionSortByUnitPrice"] = "0",
-["guildRewardsUsable"] = "0",
-["equipmentManager"] = "1",
-["showHonorAsExperience"] = "0",
-["showCustomSetDetails"] = "1",
-["AutoPushSpellToActionBar"] = "0",
-["auctionSortByBuyoutPrice"] = "0",
-["collapseExpandBuffs"] = "1",
-["guildRewardsCategory"] = "0",
-["miniDressUpFrame"] = "0",
-["guildNewsFilter"] = "51",
-["miniCommunitiesFrame"] = "0",
+["minimapTrackingShowAll"] = "0",
+["minimapZoom"] = "0",
+["minimapInsideZoom"] = "0",
 },
 },
-["blockChannelInvites"] = {
+["raidFrames"] = {
 ["cvars"] = {
-["blockChannelInvites"] = "0",
+["raidFramesHealthBarColor"] = "FF2B9305",
+["raidFramesPosition"] = "",
+["raidOptionShowBorders"] = "1",
+["threatWarning"] = "3",
+["raidFramesDisplayIncomingHeals"] = "1",
+["raidFramesDispelIndicatorType"] = "2",
+["raidFramesHealthBarColorBG"] = "FF141414",
+["showDispelDebuffs"] = "1",
+["raidOptionLocked"] = "lock",
+["raidFramesDisplayClassColor"] = "0",
+["noBuffDebuffFilterOnTarget"] = "0",
+["raidOptionSortMode"] = "role",
+["raidFramesHeight"] = "36",
+["raidFramesDisplayDebuffs"] = "1",
+["raidOptionDisplayMainTankAndAssist"] = "1",
+["showPartyPets"] = "0",
+["raidFramesDisplayOnlyHealerPowerBars"] = "0",
+["raidFramesDisplayLargerRoleSpecificDebuffs"] = "1",
+["showCastableBuffs"] = "0",
+["raidFramesDisplayPowerBars"] = "0",
+["raidFramesHealthText"] = "none",
+["raidFramesWidth"] = "72",
+["raidFramesDispelIndicatorOverlay"] = "1",
+["raidFramesDisplayOnlyDispellableDebuffs"] = "0",
+["raidOptionKeepGroupsTogether"] = "0",
+["raidFramesDisplayAggroHighlight"] = "1",
+["raidOptionIsShown"] = "1",
+["raidOptionDisplayPets"] = "0",
+["raidFramesCenterBigDefensive"] = "1",
 },
 },
 ["chat"] = {
@@ -1468,12 +1487,6 @@ AccWideUIAceDB = {
 },
 },
 },
-["channelsJoined"] = {
-[5] = "oreoo",
-[6] = "thebench",
-[7] = "oreo",
-[9] = "Community:494569881:1",
-},
 ["windows"] = {
 {
 ["ChatWindowInfo"] = {
@@ -1777,188 +1790,42 @@ AccWideUIAceDB = {
 },
 },
 },
+["channelsJoined"] = {
+[5] = "thebench",
+[4] = "oreoo",
+[7] = "oreo",
+},
 },
 ["softTarget"] = {
 ["cvars"] = {
 ["SoftTargetEnemyArc"] = "2",
 ["SoftTargetEnemyRange"] = "45.000000",
-["SoftTargetEnemy"] = "1",
+["SoftTargetForce"] = "1",
 ["SoftTargetFriendRange"] = "45.000000",
 ["SoftTargetFriend"] = "0",
 ["SoftTargetFriendArc"] = "2",
-["SoftTargetForce"] = "1",
+["SoftTargetEnemy"] = "1",
 },
 },
-["minimap"] = {
+["uiMisc"] = {
 ["cvars"] = {
-["minimapTrackingShowAll"] = "0",
-["minimapZoom"] = "0",
-["minimapInsideZoom"] = "0",
+["auctionSortByUnitPrice"] = "0",
+["miniCommunitiesFrame"] = "0",
+["equipmentManager"] = "1",
+["showHonorAsExperience"] = "0",
+["showCustomSetDetails"] = "1",
+["AutoPushSpellToActionBar"] = "0",
+["auctionSortByBuyoutPrice"] = "0",
+["collapseExpandBuffs"] = "1",
+["guildRewardsCategory"] = "0",
+["miniDressUpFrame"] = "0",
+["guildNewsFilter"] = "0",
+["guildRewardsUsable"] = "0",
 },
 },
 ["blockTrades"] = {
 ["cvars"] = {
 ["blockTrades"] = "0",
-},
-},
-["lossOfControl"] = {
-["cvars"] = {
-["lossOfControlInterrupt"] = "2",
-["lossOfControl"] = "1",
-["lossOfControlFull"] = "2",
-["lossOfControlRoot"] = "2",
-["lossOfControlSilence"] = "2",
-},
-},
-["blockGuildInvites"] = {
-["special"] = {
-["blockGuildInvites"] = false,
-},
-},
-["spellOverlay"] = {
-["cvars"] = {
-["spellActivationOverlayOpacity"] = "1",
-["displaySpellActivationOverlays"] = "1",
-},
-},
-["mouseoverCast"] = {
-["cvars"] = {
-["enableMouseoverCast"] = "0",
-},
-},
-["raidFrames"] = {
-["cvars"] = {
-["raidFramesHealthBarColor"] = "FF2B9305",
-["raidFramesPosition"] = "",
-["raidOptionShowBorders"] = "1",
-["threatWarning"] = "3",
-["raidFramesDisplayIncomingHeals"] = "1",
-["raidFramesCenterBigDefensive"] = "1",
-["raidFramesHealthBarColorBG"] = "FF141414",
-["raidFramesDispelIndicatorType"] = "2",
-["raidFramesHeight"] = "36",
-["raidFramesDisplayClassColor"] = "0",
-["noBuffDebuffFilterOnTarget"] = "0",
-["raidOptionSortMode"] = "role",
-["raidFramesDisplayDebuffs"] = "1",
-["raidFramesDisplayAggroHighlight"] = "1",
-["raidOptionLocked"] = "lock",
-["showPartyPets"] = "0",
-["raidFramesDisplayOnlyHealerPowerBars"] = "0",
-["raidFramesDisplayLargerRoleSpecificDebuffs"] = "1",
-["showCastableBuffs"] = "0",
-["raidFramesHealthText"] = "none",
-["raidFramesDisplayPowerBars"] = "0",
-["raidFramesWidth"] = "72",
-["raidFramesDisplayOnlyDispellableDebuffs"] = "0",
-["raidFramesDispelIndicatorOverlay"] = "1",
-["raidOptionKeepGroupsTogether"] = "0",
-["raidOptionDisplayMainTankAndAssist"] = "1",
-["raidOptionIsShown"] = "1",
-["raidOptionDisplayPets"] = "0",
-["showDispelDebuffs"] = "1",
-},
-},
-["externalDefensives"] = {
-["cvars"] = {
-["externalDefensivesEnabled"] = "0",
-},
-},
-["camera"] = {
-["cvars"] = {
-["cameraSavedDistance"] = "20.999884",
-["cameraBobbing"] = "0",
-["cameraSavedPetBattleDistance"] = "10.000000",
-["cameraSavedPitch"] = "50.769680",
-["cameraSavedVehicleDistance"] = "50.000000",
-},
-},
-["autoLoot"] = {
-["cvars"] = {
-["autoLootRate"] = "150",
-["autoLootDefault"] = "1",
-},
-},
-["worldMap"] = {
-["cvars"] = {
-["questPOILocalStory"] = "1",
-["showDungeonEntrancesOnMap"] = "1",
-["mapFade"] = "1",
-["questPOIWQ"] = "1",
-["scrollToLogQuest"] = "0",
-["dragonRidingRacesFilter"] = "0",
-["worldQuestFilterEquipment"] = "1",
-["primaryProfessionsFilter"] = "1",
-["questPOI"] = "1",
-["showDelveEntrancesOnMap"] = "1",
-["dragonRidingRacesFilterWQ"] = "1",
-["contentTrackingFilter"] = "1",
-["worldQuestFilterResources"] = "1",
-["worldQuestFilterReputation"] = "1",
-["worldQuestFilterAnima"] = "1",
-["worldQuestFilterProfessionMaterials"] = "1",
-["miniWorldMap"] = "1",
-["showQuestObjectivesInLog"] = "1",
-["secondaryProfessionsFilter"] = "1",
-["worldQuestFilterGold"] = "1",
-["showTamersWQ"] = "1",
-["questLogOpen"] = "1",
-["showTamers"] = "1",
-["worldQuestFilterArtifactPower"] = "1",
-},
-},
-["nameplates"] = {
-["cvars"] = {
-["nameplateShowEnemyGuardians"] = "1",
-["nameplateSelectedAlpha"] = "1",
-["showVKeyCastbarOnlyOnTarget"] = "0",
-["nameplateMaxScale"] = "1.000000",
-["showVKeyCastbarSpellName"] = "1",
-["nameplateMinScaleDistance"] = "10.000000",
-["nameplateShowSelf"] = "0",
-["nameplateShowEnemyMinus"] = "1",
-["nameplateShowEnemyMinions"] = "1",
-["nameplateShowDebuffsOnFriendly"] = "0",
-["nameplateShowFriendlyNPCs"] = "0",
-["nameplateGameObjectMaxDistance"] = "30.000000",
-["nameplateMaxAlphaDistance"] = "40.000000",
-["nameplateTargetBehindMaxDistance"] = "15",
-["nameplateShowEnemyPets"] = "1",
-["nameplateMinAlpha"] = "0.90135484",
-["nameplateMinAlphaDistance"] = "-158489.31924611",
-["nameplateUseClassColorForFriendlyPlayerUnitNames"] = "1",
-["nameplateSelectedScale"] = "1",
-["nameplateMinScale"] = "1",
-["nameplateMaxDistance"] = "100",
-["nameplateShowAll"] = "1",
-["nameplatePlayerMaxDistance"] = "60.000000",
-["nameplateShowEnemyTotems"] = "1",
-["nameplateMaxScaleDistance"] = "10.000000",
-["nameplateShowCastBars"] = "1",
-["nameplateOccludedAlphaMult"] = "0.5",
-["nameplateShowEnemies"] = "1",
-["nameplateSimplifiedScale"] = "0.300000",
-["nameplateMaxAlpha"] = "1.000000",
-},
-["special"] = {
-["NamePlateSize"] = {
-195,
-26.00000190734863,
-},
-},
-},
-["arenaFrames"] = {
-["cvars"] = {
-["spellDiminishPVPOnlyTriggerableByMe"] = "0",
-["pvpFramesDisplayOnlyHealerPowerBars"] = "0",
-["pvpFramesDisplayPowerBars"] = "0",
-["showArenaEnemyCastbar"] = "1",
-["pvpOptionDisplayPets"] = "0",
-["spellDiminishPVPEnemiesEnabled"] = "1",
-["showArenaEnemyFrames"] = "1",
-["showArenaEnemyPets"] = "1",
-["pvpFramesHealthText"] = "none",
-["pvpFramesDisplayClassColor"] = "0",
 },
 },
 ["damageMeter"] = {
@@ -1967,19 +1834,14 @@ AccWideUIAceDB = {
 ["damageMeterEnabled"] = "0",
 },
 ["special"] = {
-["position"] = {
-nil,
-{
-["point"] = "TOPLEFT",
-["offsetY"] = -40,
-["offsetX"] = 40,
-["relativePoint"] = "TOPLEFT",
+["size"] = {
+[2] = {
+["y"] = 199.9999542236328,
+["x"] = 400,
 },
-{
-["point"] = "TOPLEFT",
-["offsetY"] = -80,
-["offsetX"] = 80,
-["relativePoint"] = "TOPLEFT",
+[3] = {
+["y"] = 199.9999542236328,
+["x"] = 400,
 },
 },
 ["settings"] = {
@@ -2001,16 +1863,153 @@ nil,
 },
 },
 },
-["size"] = {
-[2] = {
-["y"] = 199.9999542236328,
-["x"] = 400,
+["position"] = {
+nil,
+{
+["offsetX"] = 40,
+["offsetY"] = -40,
+["point"] = "TOPLEFT",
+["relativePoint"] = "TOPLEFT",
 },
-[3] = {
-["y"] = 199.9999542236328,
-["x"] = 400,
+{
+["offsetX"] = 80,
+["offsetY"] = -80,
+["point"] = "TOPLEFT",
+["relativePoint"] = "TOPLEFT",
 },
 },
+},
+},
+["blockGuildInvites"] = {
+["special"] = {
+["blockGuildInvites"] = false,
+},
+},
+["spellOverlay"] = {
+["cvars"] = {
+["spellActivationOverlayOpacity"] = "1",
+["displaySpellActivationOverlays"] = "1",
+},
+},
+["lossOfControl"] = {
+["cvars"] = {
+["lossOfControlInterrupt"] = "2",
+["lossOfControl"] = "1",
+["lossOfControlFull"] = "2",
+["lossOfControlSilence"] = "2",
+["lossOfControlRoot"] = "2",
+},
+},
+["blockChannelInvites"] = {
+["cvars"] = {
+["blockChannelInvites"] = "0",
+},
+},
+["autoLoot"] = {
+["cvars"] = {
+["autoLootRate"] = "150",
+["autoLootDefault"] = "1",
+},
+},
+["camera"] = {
+["cvars"] = {
+["cameraSavedDistance"] = "20.999884",
+["cameraBobbing"] = "0",
+["cameraSavedPetBattleDistance"] = "10.000000",
+["cameraSavedPitch"] = "50.769680",
+["cameraSavedVehicleDistance"] = "50.000000",
+},
+},
+["externalDefensives"] = {
+["cvars"] = {
+["externalDefensivesEnabled"] = "0",
+},
+},
+["worldMap"] = {
+["cvars"] = {
+["questPOILocalStory"] = "1",
+["showDungeonEntrancesOnMap"] = "1",
+["mapFade"] = "1",
+["questPOIWQ"] = "1",
+["scrollToLogQuest"] = "0",
+["dragonRidingRacesFilter"] = "0",
+["worldQuestFilterEquipment"] = "1",
+["primaryProfessionsFilter"] = "1",
+["questPOI"] = "1",
+["showDelveEntrancesOnMap"] = "1",
+["dragonRidingRacesFilterWQ"] = "1",
+["contentTrackingFilter"] = "1",
+["secondaryProfessionsFilter"] = "1",
+["worldQuestFilterReputation"] = "1",
+["worldQuestFilterAnima"] = "1",
+["worldQuestFilterProfessionMaterials"] = "1",
+["miniWorldMap"] = "1",
+["showQuestObjectivesInLog"] = "1",
+["worldQuestFilterResources"] = "1",
+["worldQuestFilterGold"] = "1",
+["showTamersWQ"] = "1",
+["questLogOpen"] = "1",
+["showTamers"] = "1",
+["worldQuestFilterArtifactPower"] = "1",
+},
+},
+["nameplates"] = {
+["cvars"] = {
+["nameplateShowCastBars"] = "1",
+["nameplateSelectedAlpha"] = "1",
+["showVKeyCastbarOnlyOnTarget"] = "0",
+["nameplateMaxScale"] = "1.000000",
+["showVKeyCastbarSpellName"] = "1",
+["nameplateShowFriendlyNPCs"] = "0",
+["nameplateShowSelf"] = "0",
+["nameplateShowEnemyMinus"] = "1",
+["nameplateShowEnemyMinions"] = "1",
+["nameplateShowDebuffsOnFriendly"] = "0",
+["nameplateMinScaleDistance"] = "10.000000",
+["nameplateUseClassColorForFriendlyPlayerUnitNames"] = "1",
+["nameplateMaxAlphaDistance"] = "40.000000",
+["nameplateOccludedAlphaMult"] = "0.5",
+["nameplateShowEnemyPets"] = "1",
+["nameplateMinAlpha"] = "0.90135484",
+["nameplateMinAlphaDistance"] = "-158489.31924611",
+["nameplateGameObjectMaxDistance"] = "30.000000",
+["nameplateSelectedScale"] = "1",
+["nameplateMinScale"] = "1",
+["nameplateMaxDistance"] = "100",
+["nameplateShowAll"] = "1",
+["nameplateShowEnemyTotems"] = "1",
+["nameplatePlayerMaxDistance"] = "60.000000",
+["nameplateMaxScaleDistance"] = "10.000000",
+["nameplateTargetBehindMaxDistance"] = "15",
+["nameplateShowEnemyGuardians"] = "1",
+["nameplateShowEnemies"] = "1",
+["nameplateMaxAlpha"] = "1.000000",
+["nameplateSimplifiedScale"] = "0.300000",
+},
+["special"] = {
+["NamePlateSize"] = {
+195,
+26.00000190734863,
+},
+},
+},
+["arenaFrames"] = {
+["cvars"] = {
+["spellDiminishPVPOnlyTriggerableByMe"] = "0",
+["pvpFramesDisplayOnlyHealerPowerBars"] = "0",
+["pvpFramesDisplayPowerBars"] = "0",
+["pvpFramesDisplayClassColor"] = "0",
+["pvpOptionDisplayPets"] = "0",
+["spellDiminishPVPEnemiesEnabled"] = "1",
+["showArenaEnemyFrames"] = "1",
+["pvpFramesHealthText"] = "none",
+["showArenaEnemyPets"] = "1",
+["showArenaEnemyCastbar"] = "1",
+},
+},
+["mouseoverCast"] = {
+["cvars"] = {
+["enableMouseoverCast"] = "0",
 },
 },
 ["cooldownViewer"] = {
@@ -2020,8 +2019,8 @@ nil,
 },
 },
 ["lastSaved"] = {
-["unixTime"] = 1778951354,
-["character"] = "Amdam-Turalyon",
+["unixTime"] = 1779598306,
+["character"] = "Adamian-Turalyon",
 },
 ["profileSaveVer"] = 3,
 },

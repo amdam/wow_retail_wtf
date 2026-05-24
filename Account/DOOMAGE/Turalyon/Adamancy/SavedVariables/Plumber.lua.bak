@@ -5,9 +5,15 @@ PlumberDB_PC = {
 ["CurrencyCap:3383"] = 300,
 ["CurrencyCap:3284"] = 270,
 ["CurrencyCap:3109"] = 540,
-["CurrencyCap:3286"] = 360,
+["CurrencyCap:3347"] = 600,
 ["CurrencyCap:3110"] = 900,
 ["DelvesRecords"] = {
+{
+["instanceID"] = 3003,
+["uiMapID"] = 2525,
+["time"] = 1778816837,
+["tier"] = 11,
+},
 {
 ["instanceID"] = 2963,
 ["uiMapID"] = 2510,
@@ -33,5 +39,5 @@ PlumberDB_PC = {
 ["tier"] = 11,
 },
 },
-["CurrencyCap:3347"] = 600,
+["CurrencyCap:3286"] = 360,
 }
