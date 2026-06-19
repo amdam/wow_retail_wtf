@@ -9,10 +9,10 @@ NewSettingsSeen = {
 ["EXTERNAL_DEFENSIVES_LABEL"] = true,
 ["chatBubblesRaid"] = true,
 ["DAMAGE_METER_LABEL"] = true,
-["raidFramesDispelIndicatorOverlay"] = true,
+["PROXY_SPELL_DENSITY"] = true,
 ["raidFramesDispelIndicatorType"] = true,
 ["raidFramesDisplayClassColor"] = true,
 ["COMBAT_WARNINGS_LABEL"] = true,
-["PROXY_SPELL_DENSITY"] = true,
+["raidFramesDispelIndicatorOverlay"] = true,
 ["PROXY_ACCESSIBILITY_FONT_SIZE"] = true,
 }

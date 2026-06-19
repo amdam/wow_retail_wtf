@@ -3,9 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/key",
-"/p says bad right in the name, yall were warned",
-"/p sec",
 "/p over trash, dead key",
 "/p they call me jimmy sandbags",
 "/i can we skip ring?",
@@ -23,6 +20,9 @@ ElvCharacterDB = {
 "/g oo",
 "/g prob from the dreamweavers quartermaster",
 "/g oh nice",
+"/arcui",
+"/plater",
+"/cdm",
 },
 ["ConvertKeybindings"] = true,
 }

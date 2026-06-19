@@ -51,9 +51,9 @@ VER 3 010000000000000B " " "134400"
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000C " " "134400"
-#showtooltip Dragonrage
+#showtooltip Deep Breath
 /use 13
-/cast Dragonrage;
+/cast Deep Breath;
 /script UIErrorsFrame:Clear()
 END
 VER 3 010000000000000D " " "134400"

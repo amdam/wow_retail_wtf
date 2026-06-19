@@ -103,7 +103,7 @@ Parrot: disabled
 MikScrollingBattleText: disabled
 DBM-Core: disabled
 DBM-GUI: enabled
-DBM-StatusBarTimers: enabled
+DBM-StatusBarTimers: disabled
 DBM-VPVEM: disabled
 DBM-Brawlers: disabled
 DBM-Challenges: disabled
@@ -202,7 +202,7 @@ ChonkyCharacterSheet: enabled
 CooldownManagerCentered: disabled
 Decorvendor: enabled
 EnhanceQoL: enabled
-FollowTheArrow: enabled
+FollowTheArrow: disabled
 HandyNotes_Midnight: enabled
 HomeBound: enabled
 MissingClassBuff: enabled
@@ -216,3 +216,4 @@ SenseiClassResourceBar: disabled
 EnhanceQoLSharedMedia: enabled
 PatchWerk: disabled
 !PatchWerk: disabled
+BigWigs_Sporefall: enabled

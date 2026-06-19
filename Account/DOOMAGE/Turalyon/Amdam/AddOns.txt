@@ -343,3 +343,4 @@ Narcissus_Database_NPC: enabled
 Narcissus_GamePad: enabled
 Preydator: enabled
 EnhanceQoLSharedMedia: enabled
+BigWigs_Sporefall: enabled

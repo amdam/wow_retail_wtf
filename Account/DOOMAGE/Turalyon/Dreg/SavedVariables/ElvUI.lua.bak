@@ -20,9 +20,9 @@ ElvCharacterDB = {
 "thank you",
 "/rl",
 "/arcui",
-"/ec",
 "/cdm",
 "/plater",
+"/ec",
 },
 ["ConvertKeybindings"] = true,
 }

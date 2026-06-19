@@ -3,7 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/g if its anything like circlet it'll be easy to max out and get what you need",
 "/g maybe they have buffed it since but last time i looked they hadn't even put stamina on it",
 "/g so the ilvl didnt really matter lol",
 "/g it didn't used to lol",
@@ -23,6 +22,7 @@ ElvCharacterDB = {
 "/played",
 "/plater",
 "/cdm",
+"/arcui",
 },
 ["ConvertKeybindings"] = true,
 }

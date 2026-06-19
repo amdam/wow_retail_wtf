@@ -1,0 +1,56 @@
+
+VoidcoreAdvisorCharDB = {
+["minimized"] = false,
+["overviewMinimized"] = false,
+["bonusRollLog"] = {
+},
+["schemaVersion"] = 2,
+["obtainedBackup"] = {
+["mythicPlusTime"] = 1780450800,
+["mythicPlus"] = {
+},
+},
+["selectedItems"] = {
+},
+["lootCache"] = {
+["fingerprint"] = "d1300,d1315,d1316,d1299,d1201,d278,d945,d476,r1305,r1307,r1308,r1314",
+["version"] = 24,
+["entries"] = {
+},
+},
+["obtained"] = {
+["MYTHIC_PLUS:1299:23:62:251096"] = true,
+["MYTHIC_PLUS:945:23:64:151299"] = true,
+["MYTHIC_PLUS:1299:23:63:251090"] = true,
+["MYTHIC_PLUS:1299:23:63:251096"] = true,
+["MYTHIC_PLUS:945:23:63:151299"] = true,
+["MYTHIC_PLUS:1299:23:64:251096"] = true,
+["MYTHIC_PLUS:1299:23:62:251080"] = true,
+["MYTHIC_PLUS:1299:23:64:251085"] = true,
+["MYTHIC_PLUS:1299:23:64:250144"] = true,
+["MYTHIC_PLUS:1300:23:63:250257"] = true,
+["MYTHIC_PLUS:1300:23:64:251102"] = true,
+["MYTHIC_PLUS:1300:23:62:250257"] = true,
+["MYTHIC_PLUS:1299:23:63:251085"] = true,
+["MYTHIC_PLUS:1300:23:62:251102"] = true,
+["MYTHIC_PLUS:1299:23:64:251080"] = true,
+["MYTHIC_PLUS:1299:23:64:251090"] = true,
+["MYTHIC_PLUS:1316:23:64:251205"] = true,
+["MYTHIC_PLUS:1299:23:62:251090"] = true,
+["MYTHIC_PLUS:1300:23:63:251102"] = true,
+["MYTHIC_PLUS:945:23:62:151299"] = true,
+["MYTHIC_PLUS:1300:23:64:250257"] = true,
+["MYTHIC_PLUS:1316:23:62:251205"] = true,
+["MYTHIC_PLUS:1299:23:64:250256"] = true,
+["MYTHIC_PLUS:1299:23:63:250256"] = true,
+["MYTHIC_PLUS:1316:23:64:251206"] = true,
+["MYTHIC_PLUS:1299:23:62:251085"] = true,
+["MYTHIC_PLUS:1316:23:63:251205"] = true,
+["MYTHIC_PLUS:1299:23:63:250144"] = true,
+["MYTHIC_PLUS:1299:23:62:250256"] = true,
+["MYTHIC_PLUS:1316:23:62:251206"] = true,
+["MYTHIC_PLUS:1299:23:63:251080"] = true,
+["MYTHIC_PLUS:1316:23:63:251206"] = true,
+["MYTHIC_PLUS:1299:23:62:250144"] = true,
+},
+}

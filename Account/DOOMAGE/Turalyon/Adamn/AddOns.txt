@@ -270,3 +270,6 @@ Narcissus_GamePad: enabled
 Preydator: enabled
 SenseiClassResourceBar: disabled
 EnhanceQoLSharedMedia: enabled
+PatchWerk: disabled
+!PatchWerk: disabled
+BigWigs_Sporefall: enabled

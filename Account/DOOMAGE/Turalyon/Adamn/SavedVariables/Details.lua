@@ -7,14 +7,16 @@ _detalhes_database = {
 ["tabelas"] = {
 },
 },
+["apocalypse_savedsegments"] = {
+},
 ["ocd_tracker"] = {
 ["show_title"] = true,
 ["current_cooldowns"] = {
 },
 ["pos"] = {
 },
-["lines_per_column"] = 12,
 ["group_frames"] = true,
+["lines_per_column"] = 12,
 ["own_frame"] = {
 ["defensive-raid"] = false,
 ["ofensive"] = false,
@@ -57,7 +59,7 @@ _detalhes_database = {
 ["defensive-personal"] = false,
 },
 },
-["last_version"] = "12.0.1 14700",
+["last_version"] = "12.0.7 15236",
 ["player_stats"] = {
 },
 ["SoloTablesSaved"] = {
@@ -71,10 +73,407 @@ _detalhes_database = {
 },
 ["last_coach_name"] = false,
 },
+["auto_combatlog"] = false,
+["apocalypes_info"] = {
+},
 ["arena_data_index_selected"] = 1,
+["benchmark_db"] = {
+["frame"] = {
+},
+},
 ["on_death_menu"] = false,
+["last_realversion"] = 172,
 ["character_data"] = {
-["logons"] = 158,
+["logons"] = 161,
+},
+["announce_firsthit"] = {
+["enabled"] = true,
+["channel"] = "SELF",
+},
+["last_instance_id"] = 967,
+["data_harvest_for_charsts"] = {
+["players"] = {
+{
+["playerKey"] = "total",
+["combatObjectContainer"] = 1,
+["name"] = "Damage of Each Individual Player",
+["playerOnly"] = true,
+},
+},
+["totals"] = {
+{
+["combatObjectSubTableKey"] = 1,
+["name"] = "Damage of All Player Combined",
+["combatObjectSubTableName"] = "totals",
+},
+},
+},
+["announce_interrupts"] = {
+["enabled"] = false,
+["whisper"] = "",
+["channel"] = "SAY",
+["custom"] = "",
+["next"] = "",
+},
+["last_instance_time"] = 1753655356,
+["active_profile"] = "Quazii TWW Season 2",
+["last_encounter"] = "Madness of Deathwing",
+["damage_meter_session_info"] = {
+},
+["ignore_nicktag"] = false,
+["last_day"] = "19",
+["mythic_dungeon_currentsaved"] = {
+["dungeon_name"] = "Shadowmoon Burial Grounds",
+["started"] = false,
+["segment_id"] = 5,
+["ej_id"] = 537,
+["started_at"] = 1681509294.7,
+["run_id"] = 2,
+["level"] = 14,
+["dungeon_zone_id"] = 1176,
+["previous_boss_killed_at"] = 1681510434,
+},
+["combat_log"] = {
+["merge_gemstones_1007"] = false,
+["inverse_deathlog_raid"] = false,
+["calc_evoker_damage"] = true,
+["inverse_deathlog_overalldata"] = false,
+["evoker_calc_damage"] = false,
+["merge_critical_heals"] = false,
+["track_hunter_frenzy"] = false,
+["evoker_show_realtimedps"] = false,
+["inverse_deathlog_mplus"] = false,
+},
+["data_harvested_for_charts"] = {
+},
+["plugin_database"] = {
+["DETAILS_PLUGIN_TINY_THREAT"] = {
+["enabled"] = true,
+["only_my_group"] = false,
+["animate"] = false,
+["usefocus"] = false,
+["hide_pull_bar"] = false,
+["author"] = "Details! Team",
+["playercolor"] = {
+1,
+1,
+1,
+},
+["playSound"] = false,
+["updatespeed"] = 1,
+["disable_gouge"] = false,
+["showamount"] = false,
+["useplayercolor"] = false,
+["absolute_mode"] = false,
+["useclasscolors"] = false,
+["playSoundFile"] = "Details Threat Warning Volume 3",
+["show_party_pets"] = false,
+},
+["DETAILS_PLUGIN_RAIDCHECK"] = {
+["enabled"] = true,
+["food_tier1"] = true,
+["mythic_1_4"] = true,
+["food_tier2"] = true,
+["author"] = "Details! Team",
+["use_report_panel"] = true,
+["pre_pot_healers"] = false,
+["pre_pot_tanks"] = false,
+["food_tier3"] = true,
+},
+["DETAILS_PLUGIN_VANGUARD"] = {
+["tank_block_size_height"] = 50,
+["show_power_bar"] = false,
+["first_run"] = false,
+["aura_timer_text_size"] = 14,
+["tank_block_castbar_size_height"] = 16,
+["show_health_bar"] = true,
+["aura_offset_y"] = 0,
+["enabled"] = true,
+["show_cast_bar"] = false,
+["author"] = "Tercio",
+["tank_block_size"] = 150,
+["bar_height"] = 24,
+["tank_block_texture"] = "Details Serenity",
+["tank_block_color"] = {
+0.24705882,
+0.0039215,
+0,
+0.8,
+},
+["tank_block_powerbar_size_height"] = 10,
+["tank_block_height"] = 40,
+["show_inc_bars"] = true,
+},
+["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+["enabled"] = true,
+["encounter_timers_bw"] = {
+},
+["max_emote_segments"] = 3,
+["last_section_selected"] = "main",
+["author"] = "Details! Team",
+["window_scale"] = 1,
+["hide_on_combat"] = false,
+["show_icon"] = 5,
+["opened"] = 0,
+["encounter_timers_dbm"] = {
+},
+},
+["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
+["enabled"] = true,
+["author"] = "Terciob",
+["max_compares"] = 4,
+["compare_type"] = 1,
+},
+["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+["font_color"] = {
+1,
+1,
+1,
+1,
+},
+["is_first_run"] = false,
+["grow_direction"] = "right",
+["arrow_color"] = {
+1,
+1,
+1,
+0.5,
+},
+["point"] = "CENTER",
+["main_frame_size"] = {
+300.0000305175781,
+500.0000305175781,
+},
+["minimap"] = {
+["minimapPos"] = 312.1877406780602,
+["radius"] = 160,
+["hide"] = false,
+},
+["row_height"] = 20,
+["arrow_anchor_x"] = 0,
+["scale"] = 1,
+["row_texture"] = "Details Serenity",
+["square_grow_direction"] = "right",
+["use_square_mode"] = false,
+["row_color"] = {
+0.1,
+0.1,
+0.1,
+0.4,
+},
+["square_amount"] = 5,
+["enabled"] = false,
+["arrow_size"] = 10,
+["y"] = -6.103515625e-05,
+["row_spacement"] = 21,
+["main_frame_color"] = {
+0,
+0,
+0,
+0.2,
+},
+["author"] = "Details! Team",
+["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+["font_size"] = 10,
+["per_second"] = {
+["enabled"] = false,
+["point"] = "CENTER",
+["scale"] = 1,
+["font_shadow"] = true,
+["y"] = -6.103515625e-05,
+["x"] = 0.005859375,
+["size"] = 32,
+["update_speed"] = 0.05,
+["attribute_type"] = 1,
+},
+["x"] = 0.0001220703125,
+["font_face"] = "Friz Quadrata TT",
+["square_size"] = 32,
+["use_spark"] = true,
+["main_frame_strata"] = "LOW",
+["main_frame_locked"] = false,
+["arrow_anchor_y"] = 0,
+},
+},
+["nick_tag_cache"] = {
+["nextreset"] = 1783204055,
+["last_version"] = 16,
+},
+["arena_data_compressed"] = {
+},
+["mythic_plus_log"] = {
+"14/04/23 16:13:57|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.",
+"14/04/23 16:13:57|MythicDungeonFinished() | merge_boss_trash = true",
+"14/04/23 16:13:54|MergeTrashCleanup started.",
+"14/04/23 16:13:54|BossDefeated | key level: | 14 | Ner'zhul | Shadowmoon Burial Grounds",
+"14/04/23 16:09:49|MergeTrashCleanup started.",
+"14/04/23 16:09:49|BossDefeated | key level: | 14 | Bonemaw | Shadowmoon Burial Grounds",
+"14/04/23 16:03:27|MergeTrashCleanup started.",
+"14/04/23 16:03:27|BossDefeated | key level: | 14 | Nhallish | Shadowmoon Burial Grounds",
+"14/04/23 15:59:37|MergeTrashCleanup started.",
+"14/04/23 15:59:37|BossDefeated | key level: | 14 | Sadana Bloodfury | Shadowmoon Burial Grounds",
+"14/04/23 15:54:44|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 14 | zone: Shadowmoon Burial Grounds | zoneId: 1176",
+"22/02/23 22:21:12|MythicDungeonFinished() | merge_boss_trash = true",
+"22/02/23 22:21:10|BossDefeated | key level: | 8 | Ner'zhul | Shadowmoon Burial Grounds",
+"22/02/23 22:17:12|BossDefeated | key level: | 8 | Bonemaw | Shadowmoon Burial Grounds",
+"22/02/23 22:10:38|BossDefeated | key level: | 8 | Nhallish | Shadowmoon Burial Grounds",
+"22/02/23 22:07:34|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176",
+"22/02/23 22:06:55|MergeTrashCleanup started.",
+"22/02/23 22:06:55|BossDefeated | key level: | 8 | Sadana Bloodfury | Shadowmoon Burial Grounds",
+"22/02/23 22:02:26|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176",
+},
+["damage_meter_sessions"] = {
+},
+["apocalypse_hashes"] = {
+},
+["combat_counter"] = 1658,
+["force_font_outline"] = "",
+["combat_id"] = 449,
+["savedStyles"] = {
+},
+["announce_prepots"] = {
+["enabled"] = false,
+["channel"] = "SELF",
+["reverse"] = false,
+},
+["cached_talents"] = {
+},
+["announce_deaths"] = {
+["enabled"] = false,
+["last_hits"] = 1,
+["only_first"] = 5,
+["where"] = 1,
+},
+["tabela_overall"] = {
+{
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+{
+["tipo"] = 3,
+["_ActorTable"] = {
+},
+},
+{
+["tipo"] = 7,
+["_ActorTable"] = {
+},
+},
+{
+["tipo"] = 9,
+["_ActorTable"] = {
+},
+},
+{
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["raid_roster"] = {
+},
+["tempo_start"] = 831365.604,
+["last_events_tables"] = {
+},
+["alternate_power"] = {
+},
+["totals_grupo"] = {
+0,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+},
+["bossTimers"] = {
+},
+["trinketProcs"] = {
+},
+["playerTalents"] = {
+},
+["totals"] = {
+0,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+["frags_total"] = 0,
+["voidzone_damage"] = 0,
+},
+["player_last_events"] = {
+},
+["cleu_events"] = {
+["n"] = 1,
+},
+["frags_need_refresh"] = false,
+["aura_timeline"] = {
+},
+["compressed_charts"] = {
+},
+["data_inicio"] = 0,
+["amountCasts"] = {
+},
+["mapId"] = 2552,
+["instance_type"] = "none",
+["zoneName"] = "Khaz Algar (Surface)",
+["boss_hp"] = 1,
+["is_challenge"] = false,
+["frags"] = {
+},
+["data_fim"] = 0,
+["cleu_timeline"] = {
+},
+["spells_cast_timeline"] = {
+},
+["PhaseData"] = {
+{
+1,
+1,
+},
+["heal_section"] = {
+},
+["heal"] = {
+},
+["damage_section"] = {
+},
+["damage"] = {
+},
+},
+["start_time"] = 0,
+["TimeData"] = {
+},
+["combat_counter"] = 1657,
+},
+["cached_roles"] = {
+},
+["arena_data_headers"] = {
 },
 ["local_instances_config"] = {
 {
@@ -184,404 +583,10 @@ _detalhes_database = {
 },
 },
 },
-["announce_firsthit"] = {
-["enabled"] = true,
-["channel"] = "SELF",
-},
-["last_instance_id"] = 967,
-["data_harvest_for_charsts"] = {
-["players"] = {
-{
-["name"] = "Damage of Each Individual Player",
-["playerOnly"] = true,
-["playerKey"] = "total",
-["combatObjectContainer"] = 1,
-},
-},
-["totals"] = {
-{
-["combatObjectSubTableKey"] = 1,
-["name"] = "Damage of All Player Combined",
-["combatObjectSubTableName"] = "totals",
-},
-},
-},
-["announce_interrupts"] = {
-["enabled"] = false,
-["whisper"] = "",
-["channel"] = "SAY",
-["custom"] = "",
-["next"] = "",
-},
-["last_instance_time"] = 1753655356,
-["active_profile"] = "Quazii TWW Season 2",
-["mythic_dungeon_currentsaved"] = {
-["dungeon_name"] = "Shadowmoon Burial Grounds",
-["started"] = false,
-["segment_id"] = 5,
-["ej_id"] = 537,
-["started_at"] = 1681509294.7,
-["run_id"] = 2,
-["level"] = 14,
-["dungeon_zone_id"] = 1176,
-["previous_boss_killed_at"] = 1681510434,
-},
-["announce_damagerecord"] = {
-["enabled"] = true,
-["channel"] = "SELF",
-},
-["ignore_nicktag"] = false,
-["data_harvested_for_charts"] = {
-},
-["nick_tag_cache"] = {
-["nextreset"] = 1773767066,
-["last_version"] = 16,
-},
-["combat_log"] = {
-["merge_gemstones_1007"] = false,
-["inverse_deathlog_raid"] = false,
-["calc_evoker_damage"] = true,
-["inverse_deathlog_overalldata"] = false,
-["evoker_calc_damage"] = false,
-["merge_critical_heals"] = false,
-["track_hunter_frenzy"] = false,
-["evoker_show_realtimedps"] = false,
-["inverse_deathlog_mplus"] = false,
-},
-["arena_data_compressed"] = {
-},
-["plugin_database"] = {
-["DETAILS_PLUGIN_TINY_THREAT"] = {
-["enabled"] = true,
-["only_my_group"] = false,
-["animate"] = false,
-["usefocus"] = false,
-["hide_pull_bar"] = false,
-["author"] = "Details! Team",
-["playercolor"] = {
-1,
-1,
-1,
-},
-["playSound"] = false,
-["updatespeed"] = 1,
-["disable_gouge"] = false,
-["showamount"] = false,
-["useplayercolor"] = false,
-["absolute_mode"] = false,
-["useclasscolors"] = false,
-["playSoundFile"] = "Details Threat Warning Volume 3",
-["show_party_pets"] = false,
-},
-["DETAILS_PLUGIN_RAIDCHECK"] = {
-["enabled"] = true,
-["food_tier1"] = true,
-["mythic_1_4"] = true,
-["food_tier2"] = true,
-["author"] = "Details! Team",
-["use_report_panel"] = true,
-["pre_pot_healers"] = false,
-["pre_pot_tanks"] = false,
-["food_tier3"] = true,
-},
-["DETAILS_PLUGIN_VANGUARD"] = {
-["tank_block_size_height"] = 50,
-["show_power_bar"] = false,
-["first_run"] = false,
-["aura_timer_text_size"] = 14,
-["tank_block_castbar_size_height"] = 16,
-["show_health_bar"] = true,
-["aura_offset_y"] = 0,
-["enabled"] = true,
-["show_cast_bar"] = false,
-["author"] = "Tercio",
-["tank_block_size"] = 150,
-["bar_height"] = 24,
-["tank_block_texture"] = "Details Serenity",
-["show_inc_bars"] = true,
-["tank_block_height"] = 40,
-["tank_block_powerbar_size_height"] = 10,
-["tank_block_color"] = {
-0.24705882,
-0.0039215,
-0,
-0.8,
-},
-},
-["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
-["enabled"] = true,
-["encounter_timers_bw"] = {
-},
-["max_emote_segments"] = 3,
-["last_section_selected"] = "main",
-["author"] = "Details! Team",
-["window_scale"] = 1,
-["encounter_timers_dbm"] = {
-},
-["show_icon"] = 5,
-["opened"] = 0,
-["hide_on_combat"] = false,
-},
-["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
-["enabled"] = true,
-["author"] = "Terciob",
-["max_compares"] = 4,
-["compare_type"] = 1,
-},
-["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
-["font_color"] = {
-1,
-1,
-1,
-1,
-},
-["is_first_run"] = false,
-["grow_direction"] = "right",
-["arrow_color"] = {
-1,
-1,
-1,
-0.5,
-},
-["arrow_anchor_y"] = 0,
-["main_frame_size"] = {
-300.0000305175781,
-500.0000305175781,
-},
-["minimap"] = {
-["minimapPos"] = 312.1877406780602,
-["radius"] = 160,
-["hide"] = false,
-},
-["main_frame_locked"] = false,
-["arrow_anchor_x"] = 0,
-["main_frame_strata"] = "LOW",
-["row_texture"] = "Details Serenity",
-["square_grow_direction"] = "right",
-["y"] = -6.103515625e-05,
-["author"] = "Details! Team",
-["square_amount"] = 5,
-["enabled"] = false,
-["arrow_size"] = 10,
-["per_second"] = {
-["enabled"] = false,
-["point"] = "CENTER",
-["scale"] = 1,
-["font_shadow"] = true,
-["y"] = -6.103515625e-05,
-["x"] = 0.00469970703125,
-["attribute_type"] = 1,
-["update_speed"] = 0.05,
-["size"] = 32,
-},
-["row_spacement"] = 21,
-["main_frame_color"] = {
-0,
-0,
-0,
-0.2,
-},
-["row_color"] = {
-0.1,
-0.1,
-0.1,
-0.4,
-},
-["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-["font_size"] = 10,
-["use_spark"] = true,
-["x"] = 0.0001220703125,
-["font_face"] = "Friz Quadrata TT",
-["square_size"] = 32,
-["use_square_mode"] = false,
-["scale"] = 1,
-["row_height"] = 20,
-["point"] = "CENTER",
-},
-},
-["mythic_plus_log"] = {
-"14/04/23 16:13:57|MergeSegmentsOnEnd started | creating the overall segment at the end of the run.",
-"14/04/23 16:13:57|MythicDungeonFinished() | merge_boss_trash = true",
-"14/04/23 16:13:54|MergeTrashCleanup started.",
-"14/04/23 16:13:54|BossDefeated | key level: | 14 | Ner'zhul | Shadowmoon Burial Grounds",
-"14/04/23 16:09:49|MergeTrashCleanup started.",
-"14/04/23 16:09:49|BossDefeated | key level: | 14 | Bonemaw | Shadowmoon Burial Grounds",
-"14/04/23 16:03:27|MergeTrashCleanup started.",
-"14/04/23 16:03:27|BossDefeated | key level: | 14 | Nhallish | Shadowmoon Burial Grounds",
-"14/04/23 15:59:37|MergeTrashCleanup started.",
-"14/04/23 15:59:37|BossDefeated | key level: | 14 | Sadana Bloodfury | Shadowmoon Burial Grounds",
-"14/04/23 15:54:44|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | reverse_death_log = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 14 | zone: Shadowmoon Burial Grounds | zoneId: 1176",
-"22/02/23 22:21:12|MythicDungeonFinished() | merge_boss_trash = true",
-"22/02/23 22:21:10|BossDefeated | key level: | 8 | Ner'zhul | Shadowmoon Burial Grounds",
-"22/02/23 22:17:12|BossDefeated | key level: | 8 | Bonemaw | Shadowmoon Burial Grounds",
-"22/02/23 22:10:38|BossDefeated | key level: | 8 | Nhallish | Shadowmoon Burial Grounds",
-"22/02/23 22:07:34|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176",
-"22/02/23 22:06:55|MergeTrashCleanup started.",
-"22/02/23 22:06:55|BossDefeated | key level: | 8 | Sadana Bloodfury | Shadowmoon Burial Grounds",
-"22/02/23 22:02:26|CHALLENGE_MODE_START | settings: make_overall_boss_only = false | merge_boss_trash = true | delay_to_show_graphic = 5 | always_in_combat = false | make_overall_when_done = true | delete_trash_after_merge = true | show_damage_graphic = true | boss_dedicated_segment = true |  | level: 8 | zone: Shadowmoon Burial Grounds | zoneId: 1176",
-},
-["cached_talents"] = {
-},
-["last_realversion"] = 170,
-["announce_prepots"] = {
-["enabled"] = false,
-["channel"] = "SELF",
-["reverse"] = false,
-},
-["last_encounter"] = "Madness of Deathwing",
-["combat_counter"] = 1652,
-["force_font_outline"] = "",
-["combat_id"] = 449,
-["savedStyles"] = {
-},
-["last_day"] = "02",
-["benchmark_db"] = {
-["frame"] = {
-},
-},
-["announce_deaths"] = {
-["enabled"] = false,
-["last_hits"] = 1,
-["only_first"] = 5,
-["where"] = 1,
-},
-["tabela_overall"] = {
-{
-["tipo"] = 2,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 3,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 7,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 9,
-["_ActorTable"] = {
-},
-},
-{
-["tipo"] = 2,
-["_ActorTable"] = {
-},
-},
-["raid_roster"] = {
-},
-["tempo_start"] = 225485.696,
-["last_events_tables"] = {
-},
-["alternate_power"] = {
-},
-["totals_grupo"] = {
-0,
-0,
-{
-0,
-[0] = 0,
-["alternatepower"] = 0,
-[3] = 0,
-[6] = 0,
-},
-{
-["buff_uptime"] = 0,
-["ress"] = 0,
-["debuff_uptime"] = 0,
-["cooldowns_defensive"] = 0,
-["interrupt"] = 0,
-["dispell"] = 0,
-["cc_break"] = 0,
-["dead"] = 0,
-},
-},
-["bossTimers"] = {
-},
-["trinketProcs"] = {
-},
-["playerTalents"] = {
-},
-["totals"] = {
-0,
-0,
-{
-0,
-[0] = 0,
-["alternatepower"] = 0,
-[3] = 0,
-[6] = 0,
-},
-{
-["buff_uptime"] = 0,
-["ress"] = 0,
-["debuff_uptime"] = 0,
-["cooldowns_defensive"] = 0,
-["interrupt"] = 0,
-["dispell"] = 0,
-["cc_break"] = 0,
-["dead"] = 0,
-},
-["frags_total"] = 0,
-["voidzone_damage"] = 0,
-},
-["player_last_events"] = {
-},
-["cleu_events"] = {
-["n"] = 1,
-},
-["frags_need_refresh"] = false,
-["aura_timeline"] = {
-},
-["compressed_charts"] = {
-},
-["data_inicio"] = 0,
-["amountCasts"] = {
-},
-["mapId"] = 2552,
-["instance_type"] = "none",
-["zoneName"] = "Khaz Algar (Surface)",
-["boss_hp"] = 1,
-["is_challenge"] = false,
-["frags"] = {
-},
-["data_fim"] = 0,
-["cleu_timeline"] = {
-},
-["spells_cast_timeline"] = {
-},
-["PhaseData"] = {
-{
-1,
-1,
-},
-["heal_section"] = {
-},
-["heal"] = {
-},
-["damage_section"] = {
-},
-["damage"] = {
-},
-},
-["start_time"] = 0,
-["TimeData"] = {
-},
-["combat_counter"] = 1651,
-},
-["damage_meter_sessions"] = {
-},
-["arena_data_headers"] = {
-},
-["cached_roles"] = {
-},
 ["announce_cooldowns"] = {
+["enabled"] = false,
 ["ignored_cooldowns"] = {
 },
-["enabled"] = false,
 ["custom"] = "",
 ["channel"] = "RAID",
 },
@@ -589,7 +594,9 @@ _detalhes_database = {
 ["last_difficulty"] = 15,
 ["last_raid"] = "",
 },
-["damage_meter_session_info"] = {
+["announce_damagerecord"] = {
+["enabled"] = true,
+["channel"] = "SELF",
 },
 ["cached_specs"] = {
 ["Player-3685-0722B5D5"] = 260,

@@ -146,7 +146,7 @@ WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 DBM-DefaultSkin: enabled
 DBM-GUI: enabled
-DBM-StatusBarTimers: enabled
+DBM-StatusBarTimers: disabled
 DBM-Azeroth-BfA: enabled
 DBM-ZuldazarRaid: enabled
 DBM-Brawlers: disabled
@@ -288,3 +288,4 @@ Narcissus_Database_NPC: enabled
 Narcissus_GamePad: enabled
 Preydator: enabled
 EnhanceQoLSharedMedia: enabled
+BigWigs_Sporefall: enabled

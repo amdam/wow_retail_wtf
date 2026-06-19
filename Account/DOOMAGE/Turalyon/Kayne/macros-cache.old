@@ -97,7 +97,7 @@ VER 3 0100000000000012 " " "134400"
 END
 VER 3 0100000000000013 " " "134400"
 #showtooltip
-/cast [mod:alt] Abomination Limb; Dark Transformation;
+/cast [mod:alt,known:Soul Reaper] Soul Reaper; Dark Transformation;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000014 " " "134400"

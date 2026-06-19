@@ -1,11 +1,13 @@
 
 MissingClassBuffDB = {
 ["profileKeys"] = {
+["Dreg - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
 ["Badam - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
 ["Amdam - Turalyon"] = "Default",
 },
 ["layouts"] = {
@@ -17,13 +19,13 @@ MissingClassBuffDB = {
 ["textFont"] = "GameFontNormal",
 ["zoomBottom"] = 1,
 ["alpha"] = 0.8,
-["x"] = 0,
-["y"] = 250,
 ["zoomRight"] = 1,
+["y"] = 250,
+["x"] = 0,
 ["iconZoom"] = 0,
 ["iconHeight"] = 80,
-["point"] = "CENTER",
 ["zoomLeft"] = 0,
+["point"] = "CENTER",
 ["frameWidth"] = 100,
 ["hideText"] = false,
 },
@@ -35,19 +37,16 @@ MissingClassBuffDB = {
 ["textFont"] = "GameFontNormal",
 ["zoomBottom"] = 1,
 ["alpha"] = 0.8,
-["x"] = 0,
-["y"] = 250,
 ["zoomRight"] = 1,
+["y"] = 250,
+["x"] = 0,
 ["iconZoom"] = 0,
 ["iconHeight"] = 63,
-["point"] = "CENTER",
 ["zoomLeft"] = 0,
+["point"] = "CENTER",
 ["frameWidth"] = 63,
 ["hideText"] = false,
 },
-},
-["lastRunDBVersion"] = 137,
-["namespaces"] = {
 },
 ["profiles"] = {
 ["Default"] = {
@@ -60,4 +59,7 @@ MissingClassBuffDB = {
 },
 },
 },
+["namespaces"] = {
+},
+["lastRunDBVersion"] = 137,
 }

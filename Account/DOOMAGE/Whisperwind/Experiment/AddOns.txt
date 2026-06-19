@@ -168,3 +168,4 @@ HandyNotes_Midnight: enabled
 MissingClassBuff: enabled
 Preydator: enabled
 EnhanceQoLSharedMedia: enabled
+BigWigs_Sporefall: enabled
