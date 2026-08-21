@@ -3,8 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/p ggs",
-"ele is kinda fun",
 "/macro",
 "/p ggs, good finish for the week ;)",
 "/p take care",
@@ -21,6 +19,8 @@ ElvCharacterDB = {
 "/rl",
 "/plater",
 "/ec",
+"/cw Sulveris just doing some wqs while we waiting for everyone",
+"/cw Sulveris cool lemme finish this one and ill log over",
 "/cdm",
 "/arcui",
 },

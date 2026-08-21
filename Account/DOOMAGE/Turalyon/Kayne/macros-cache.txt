@@ -69,11 +69,6 @@ VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
 /cast [mod:alt,known:Reaper's Mark] Reaper's Mark; Howling Blast;
 /script UIErrorsFrame:Clear()
 END
-VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [mod:alt] Abomination Limb; [spec:2,known:Reaper's Mark] Reaper's Mark; Abomination Limb;
-/script UIErrorsFrame:Clear()
-END
 VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [mod:alt,known:Blinding Sleet] Blinding Sleet; Putrefy;
@@ -110,13 +105,10 @@ VER 3 0100000000000015 " " "134400"
 /cast [@mouseover] Raise Ally
 /script UIErrorsFrame:Clear()
 END
-VER 3 0100000000000016 " " "134400"
-#showtooltip
-/cast [mod:alt] Frostwyrm's Fury; Reaper's Mark
-/script UIErrorsFrame:Clear()
-END
 VER 3 0100000000000017 " " "134400"
-#showtooltip
+#showtooltip Breath of Sindragosa
+/use 13
+/cast Pillar of Frost
 /cast Breath of Sindragosa
 /script UIErrorsFrame:Clear()
 END
@@ -131,5 +123,11 @@ VER 3 0100000000000019 " " "134400"
 /cast Dark Transformation
 /use 13
 /use 14
+/script UIErrorsFrame:Clear()
+END
+VER 3 010000000000001A " " "134400"
+#showtooltip
+/cast Reaper's Mark
+/cast Pillar of Frost
 /script UIErrorsFrame:Clear()
 END

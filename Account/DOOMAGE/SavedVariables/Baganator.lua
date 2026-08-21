@@ -123,6 +123,7 @@ BAGANATOR_CONFIG = {
 ["bank"] = true,
 },
 ["icon_corners_auto_insert_applied"] = {
+["wildu_upgrade"] = true,
 ["battle_pet_level"] = true,
 ["keystone_level"] = true,
 ["enhanceqol_upgrade_arrow"] = true,
@@ -132,7 +133,7 @@ BAGANATOR_CONFIG = {
 ["show_recents_tabs_main_view"] = false,
 ["upgrade_plugin_ignored"] = {
 },
-["bag_icon_size"] = 37,
+["bag_icon_size"] = 35,
 ["junk_plugin_ignored"] = {
 },
 ["icon_flash_similar_alt"] = false,
@@ -145,6 +146,7 @@ BAGANATOR_CONFIG = {
 ["warband_current_tab"] = 0,
 ["category_item_grouping"] = true,
 ["icon_top_left_corner_array"] = {
+"wildu_upgrade",
 "junk",
 "battle_pet_level",
 "keystone_level",
@@ -185,7 +187,7 @@ BAGANATOR_CONFIG = {
 "default_junk",
 "default_special_empty",
 },
-["current_skin"] = "elvui",
+["current_skin"] = "dark",
 ["hide_boe_on_common"] = false,
 ["bank_view_type"] = "category",
 ["show_buttons_on_alt"] = false,
@@ -209,8 +211,8 @@ BAGANATOR_CONFIG = {
 ["character_bank_view_width"] = 14,
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-580.506103515625,
-446.6462707519531,
+308.8301086425781,
+417.6059875488281,
 },
 ["currency_headers_collapsed"] = {
 },
@@ -241,8 +243,8 @@ BAGANATOR_CONFIG = {
 ["category_horizontal_spacing_2"] = 0.3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--405.666015625,
-404.545654296875,
+-256.77734375,
+378.4345703125,
 },
 ["category_default_import"] = 3,
 ["add_to_category_buttons"] = true,
@@ -250,7 +252,7 @@ BAGANATOR_CONFIG = {
 ["no_frame_borders"] = false,
 ["character_select_position"] = {
 "RIGHT",
-"Baganator_CategoryViewBackpackViewFrameelvui",
+"Baganator_CategoryViewBackpackViewFramedark",
 "LEFT",
 0,
 0,
@@ -314,7 +316,7 @@ BAGANATOR_CONFIG = {
 },
 },
 ["recent_timeout"] = 15,
-["icon_text_font_size"] = 14,
+["icon_text_font_size"] = 12,
 ["category_group_empty_slots"] = true,
 ["setting_anchors"] = false,
 ["view_alpha"] = 1,
@@ -338,9 +340,9 @@ BAGANATOR_CONFIG = {
 },
 ["dark"] = {
 ["view_transparency"] = 0.3,
-["square_icons"] = false,
+["square_icons"] = true,
 ["no_frame_borders"] = false,
-["empty_slot_background"] = false,
+["empty_slot_background"] = true,
 },
 },
 ["category_section_toggled"] = {
@@ -420,7 +422,7 @@ BAGANATOR_CONFIG = {
 ["guild_current_tab"] = 5,
 ["currency_panel_position"] = {
 "RIGHT",
-"Baganator_CategoryViewBackpackViewFrameelvui",
+"Baganator_CategoryViewBackpackViewFramedark",
 "LEFT",
 0,
 0,

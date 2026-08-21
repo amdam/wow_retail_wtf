@@ -3,10 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"/p the omnomnomnom oilio",
-"/p lemme go open his vault",
-"/p ugh it was in the pillar",
-"/p ye first pull tilted me lol",
 "/p ggs",
 "/p tyfg, take care",
 "/p hi",
@@ -23,6 +19,10 @@ ElvCharacterDB = {
 "/p thansk for inv",
 "/elvui",
 "/arcui",
+"/p yeah just checking vaults, haven't had a chance yet today",
+"/p been pushin on the dk so will keep bringing that",
+"/p we got a bit while we wait for sky or we want to go ahead and pug for a bit?",
+"/p fair, will open my free trash boxes and hop on the dk",
 },
 ["ConvertKeybindings"] = true,
 }

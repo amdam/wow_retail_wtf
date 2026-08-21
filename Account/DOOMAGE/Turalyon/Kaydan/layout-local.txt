@@ -1,4 +1,11 @@
 Version: 1
+Frame: ColorPickerFrame
+FrameLevel: 121
+Anchor: CENTER
+X: 125
+Y: 49
+W: 388
+H: 250
 Frame: GroupLootHistoryFrame
 FrameLevel: 1
 Anchor: RIGHT
@@ -34,10 +41,3 @@ X: -177
 Y: -179
 W: 240
 H: 116
-Frame: ColorPickerFrame
-FrameLevel: 121
-Anchor: CENTER
-X: 125
-Y: 49
-W: 405
-H: 250

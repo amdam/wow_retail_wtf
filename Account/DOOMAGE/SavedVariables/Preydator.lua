@@ -4,12 +4,12 @@ PreydatorDB = {
 ["currency"] = {
 ["preyWeeklyProgress"] = {
 ["Adamian-Turalyon"] = {
-["server-week-1780412391"] = {
+["server-week-1782226801"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412400"] = {
+["server-week-1780412391"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -19,22 +19,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226798"] = {
+["server-week-1783436399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226800"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807601"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412399"] = {
+["server-week-1784041200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -49,12 +39,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622001"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017199"] = {
+["server-week-1780412399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -67,6 +52,86 @@ PreydatorDB = {
 ["server-week-1781017200"] = {
 ["normal"] = 0,
 ["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807601"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
 ["hard"] = 0,
 },
 ["server-week-1781017194"] = {
@@ -81,37 +146,17 @@ PreydatorDB = {
 },
 },
 ["Adamancy-Turalyon"] = {
-["week-2026-12"] = {
+["server-week-1782226801"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412391"] = {
+["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993197"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783554"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202802"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807600"] = {
+["server-week-1777993200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -126,12 +171,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781017199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017200"] = {
+["server-week-1781622000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -152,11 +192,6 @@ PreydatorDB = {
 ["hard"] = 0,
 },
 ["server-week-1776783599"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -166,27 +201,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778597999"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202800"] = {
-["normal"] = 0,
-["nightmare"] = 1,
-["hard"] = 0,
-},
-["server-week-1775574000"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1775573998"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412401"] = {
+["server-week-1775574000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -201,6 +221,131 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1784041200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776178800"] = {
+["normal"] = 0,
+["nightmare"] = 3,
+["hard"] = 0,
+},
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388398"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969199"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1779807595"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993197"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783554"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202802"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388401"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969200"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778597999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412401"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1775574001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -211,12 +356,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202798"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1774969198"] = {
+["server-week-1783436399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -231,19 +371,9 @@ PreydatorDB = {
 ["nightmare"] = 1,
 ["hard"] = 0,
 },
-["server-week-1776178799"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1781017194"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1774969199"] = {
-["normal"] = 0,
-["nightmare"] = 1,
 ["hard"] = 0,
 },
 ["server-week-1778598000"] = {
@@ -251,77 +381,32 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783600"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993200"] = {
+["server-week-1786460400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993199"] = {
+["week-2026-12"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783598"] = {
+["server-week-1780412391"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776178800"] = {
-["normal"] = 0,
-["nightmare"] = 3,
-["hard"] = 0,
-},
-["server-week-1777388397"] = {
+["server-week-1779202798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807601"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1782226798"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993202"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388398"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1775573999"] = {
-["normal"] = 0,
-["nightmare"] = 1,
-["hard"] = 0,
-},
-["server-week-1779807595"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412400"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781622001"] = {
+["server-week-1779807600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -331,9 +416,54 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969200"] = {
+["server-week-1775573999"] = {
 ["normal"] = 0,
 ["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1782226798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776178799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807601"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202800"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1774969198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
 ["hard"] = 0,
 },
 ["server-week-1779202799"] = {
@@ -341,18 +471,23 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622000"] = {
+["server-week-1777388397"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226799"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
 },
 ["Kaydan-Turalyon"] = {
+["server-week-1782226801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -418,6 +553,21 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1776783599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -428,7 +578,22 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778597999"] = {
+["server-week-1776783554"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -438,7 +603,22 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1778597999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1775574000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -453,12 +633,27 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775574001"] = {
+["server-week-1778598001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388397"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
 ["server-week-1779807599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1783436399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -473,19 +668,19 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202800"] = {
+["server-week-1781622000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781017194"] = {
+["server-week-1785250799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388399"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
-["nightmare"] = 0,
+["nightmare"] = 1,
 ["hard"] = 0,
 },
 ["server-week-1778598000"] = {
@@ -498,7 +693,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783554"] = {
+["server-week-1779807595"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -508,7 +703,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388397"] = {
+["server-week-1777993198"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -518,7 +713,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807600"] = {
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -528,32 +728,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1782226798"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807595"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807601"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776178799"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412391"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -563,17 +738,37 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1779807601"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017194"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1775574001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776178799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1781622001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778598001"] = {
+["server-week-1785250800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622000"] = {
+["server-week-1780412391"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -583,7 +778,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226799"] = {
+["server-week-1777388399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -594,38 +789,35 @@ PreydatorDB = {
 ["hard"] = 0,
 },
 },
+["Jeryn-Bloodscalp"] = {
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+},
 ["Dreg-Turalyon"] = {
-["server-week-1777993202"] = {
+["server-week-1782226801"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412400"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993197"] = {
+["week-2026-12"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
 ["server-week-1777993200"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202802"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783598"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -640,12 +832,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202798"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017200"] = {
+["server-week-1781622000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -670,16 +857,6 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388400"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1778597999"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1779202800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -690,22 +867,137 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993201"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1776783590"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775573998"] = {
+["server-week-1777388397"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776178800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388398"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807595"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993197"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783554"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202802"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388401"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778597999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412401"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -720,7 +1012,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807600"] = {
+["server-week-1783436399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -730,17 +1022,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1779202801"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807595"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -750,47 +1032,42 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1778598000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783600"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783554"] = {
+["server-week-1786460400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993199"] = {
+["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778598001"] = {
+["server-week-1780412400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776178800"] = {
+["server-week-1776783598"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388397"] = {
+["server-week-1779202798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388398"] = {
+["server-week-1777993201"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -805,7 +1082,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["week-2026-12"] = {
+["server-week-1775573998"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -815,7 +1092,37 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993198"] = {
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778598001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -830,38 +1137,13 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622001"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1774969200"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202799"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781622000"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1782226799"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 },
 ["Kayne-Turalyon"] = {
+["server-week-1782226801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -927,6 +1209,21 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1776783599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -937,7 +1234,22 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778597999"] = {
+["server-week-1777993200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -947,7 +1259,22 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1778597999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1775574000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783598"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -962,12 +1289,27 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775574001"] = {
+["server-week-1778598001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388397"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
 ["server-week-1779807599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1783436399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -982,17 +1324,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202800"] = {
+["server-week-1781622000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781017194"] = {
+["server-week-1785250799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993201"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1007,7 +1349,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993200"] = {
+["server-week-1779807595"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1017,7 +1359,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388397"] = {
+["server-week-1777993198"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1027,7 +1369,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783598"] = {
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1037,32 +1384,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1782226798"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807595"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807601"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807600"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1072,17 +1394,37 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1779807601"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017194"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1775574001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1781622001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778598001"] = {
+["server-week-1785250800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622000"] = {
+["server-week-1780412400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1092,7 +1434,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226799"] = {
+["server-week-1777993201"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1104,6 +1446,11 @@ PreydatorDB = {
 },
 },
 ["Badam-Turalyon"] = {
+["server-week-1782226801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -1164,6 +1511,16 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1776783599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -1184,6 +1541,11 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1780412401"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -1199,7 +1561,22 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1777388397"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1779807599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1783436399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1214,7 +1591,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1785250799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1781017194"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1229,22 +1616,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1781017199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1777993199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388397"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1782226798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1259,27 +1636,27 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622000"] = {
+["server-week-1782831600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783598"] = {
+["server-week-1785250798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807595"] = {
+["server-week-1777993198"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622001"] = {
+["server-week-1782226798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412391"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1289,12 +1666,27 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202799"] = {
+["server-week-1779807595"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781017199"] = {
+["server-week-1780412391"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1304,39 +1696,34 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1779202799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 },
 ["Abel-Turalyon"] = {
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412400"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993197"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783554"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202802"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807600"] = {
+["server-week-1777993200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1351,12 +1738,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202798"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017200"] = {
+["server-week-1781622000"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1381,16 +1763,6 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388400"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1778597999"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1775573998"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -1401,17 +1773,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1776783590"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1421,47 +1783,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807599"] = {
+["server-week-1784041200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622000"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1774969198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783601"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202801"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993200"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017194"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412391"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1778598000"] = {
+["server-week-1785250799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1471,17 +1798,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1777993199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388397"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1491,12 +1808,167 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775574001"] = {
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388398"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807595"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993197"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783554"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202802"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388401"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
 ["server-week-1776178799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778597999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412401"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1775574001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1783436399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017194"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778598000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412391"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1511,7 +1983,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388398"] = {
+["server-week-1777388399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1521,17 +1993,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
 ["server-week-1776783598"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781017199"] = {
+["server-week-1777388397"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1541,12 +2013,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969200"] = {
+["server-week-1785250800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202800"] = {
+["server-week-1776783601"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1556,54 +2028,29 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226799"] = {
+["server-week-1779202800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807595"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
 },
-["Adamn-Turalyon"] = {
-["server-week-1780412400"] = {
+["Amdam-Turalyon"] = {
+["server-week-1782226801"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226798"] = {
+["server-week-1777993202"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1781622000"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017194"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781622001"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017199"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1780412399"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017200"] = {
+["server-week-1777993200"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1613,13 +2060,231 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1780412399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776178801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969201"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["week-2026-11"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1775573998"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1775574000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783590"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388397"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993199"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1776178800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388398"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969199"] = {
+["normal"] = 0,
+["nightmare"] = 2,
+["hard"] = 0,
+},
+["server-week-1779807595"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777993197"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783554"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202802"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388401"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776178799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1782226799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1781017199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
 },
-["Amdam-Turalyon"] = {
+["server-week-1781017200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 1,
+},
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1777388400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778597999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412401"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1775574001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1783436399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1774969198"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017194"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778598000"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["week-2026-12"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
@@ -1630,24 +2295,9 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993197"] = {
+["server-week-1779202798"] = {
 ["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993200"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202802"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
+["nightmare"] = 3,
 ["hard"] = 0,
 },
 ["server-week-1776783598"] = {
@@ -1655,7 +2305,99 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226800"] = {
+["server-week-1777993201"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+["server-week-1775573999"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779807601"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1776783601"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781622001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1779202799"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1778598001"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782831599"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+},
+["Adamn-Turalyon"] = {
+["server-week-1782226801"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1780412400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1783436399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041200"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1675,157 +2417,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993201"] = {
-["normal"] = 0,
-["nightmare"] = 1,
-["hard"] = 0,
-},
-["server-week-1776178801"] = {
+["server-week-1784041199"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969201"] = {
+["server-week-1785250798"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1776783599"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388400"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["week-2026-11"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1778597999"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202800"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1775574000"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1775573998"] = {
-["normal"] = 0,
-["nightmare"] = 1,
-["hard"] = 0,
-},
-["server-week-1780412401"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783590"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1775574001"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1778598001"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807599"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202798"] = {
-["normal"] = 0,
-["nightmare"] = 3,
-["hard"] = 0,
-},
-["server-week-1776783601"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1774969198"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202801"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779807600"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1781017194"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1774969199"] = {
-["normal"] = 0,
-["nightmare"] = 2,
-["hard"] = 0,
-},
-["server-week-1778598000"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783600"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776783554"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993199"] = {
-["normal"] = 0,
-["nightmare"] = 1,
-["hard"] = 0,
-},
-["server-week-1776178799"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1776178800"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388397"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777388398"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1777993198"] = {
+["server-week-1785855598"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1835,27 +2437,27 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777993202"] = {
+["server-week-1786460400"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807601"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775573999"] = {
+["server-week-1782831600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807595"] = {
+["server-week-1785250799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1780412400"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1865,17 +2467,22 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1774969200"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 1,
-},
-["server-week-1777388399"] = {
+["server-week-1785250800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202799"] = {
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1781017194"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1782226800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1885,7 +2492,44 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782226799"] = {
+},
+["Christoff-Turalyon"] = {
+["server-week-1786460400"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1784041199"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250798"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855600"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785855598"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1786460399"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["server-week-1785250799"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1896,13 +2540,13 @@ PreydatorDB = {
 ["Adamian-Turalyon"] = {
 ["activeQuestID"] = 0,
 ["zoneName"] = "Silvermoon City",
-["weeklyKey"] = "server-week-1782226798",
-["inPreyZone"] = false,
-["capturedAt"] = 829790.341,
+["weeklyKey"] = "server-week-1786460399",
+["classFile"] = "EVOKER",
+["stage"] = 1,
 ["preyAvailableCounts"] = {
 ["normal"] = 4,
 ["nightmare"] = 4,
-["capturedAt"] = 830202.596,
+["capturedAt"] = 421019.464,
 ["hard"] = 4,
 },
 ["weeklyCompleted"] = {
@@ -1910,23 +2554,69 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["preyAvailabilitySource"] = "derived_reset",
 ["preyAvailabilityKnown"] = false,
+["preyAvailabilitySource"] = "derived_reset",
 ["level"] = 90,
-["stage"] = 1,
-["classFile"] = "EVOKER",
+["capturedAt"] = 1195321.148,
+["inPreyZone"] = false,
 },
 ["Adamancy-Turalyon"] = {
 ["activeQuestID"] = 0,
-["zoneName"] = "",
-["weeklyKey"] = "server-week-1782226798",
-["classFile"] = "MAGE",
-["stage"] = 1,
+["zoneName"] = "Voidstorm",
+["weeklyKey"] = "server-week-1786460399",
+["inPreyZone"] = false,
+["capturedAt"] = 192697.888,
 ["preyAvailableCounts"] = {
 ["normal"] = 4,
 ["nightmare"] = 4,
-["capturedAt"] = 830202.596,
+["capturedAt"] = 421019.464,
 ["hard"] = 4,
+},
+["weeklyCompleted"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["preyAvailabilitySource"] = "derived_reset",
+["preyAvailabilityKnown"] = false,
+["level"] = 90,
+["stage"] = 1,
+["classFile"] = "MAGE",
+},
+["Kaydan-Turalyon"] = {
+["activeQuestID"] = 0,
+["zoneName"] = "Silvermoon City",
+["weeklyKey"] = "server-week-1786460399",
+["inPreyZone"] = false,
+["capturedAt"] = 602940.166,
+["preyAvailableCounts"] = {
+["normal"] = 4,
+["nightmare"] = 3,
+["capturedAt"] = 425426.792,
+["hard"] = 4,
+},
+["classFile"] = "DEMONHUNTER",
+["preyAvailabilitySource"] = "derived_default",
+["preyAvailabilityKnown"] = false,
+["level"] = 90,
+["stage"] = 1,
+["weeklyCompleted"] = {
+["normal"] = 0,
+["nightmare"] = 1,
+["hard"] = 0,
+},
+},
+["Jeryn-Bloodscalp"] = {
+["activeQuestID"] = 0,
+["zoneName"] = "",
+["weeklyKey"] = "server-week-1786460399",
+["classFile"] = "PRIEST",
+["stage"] = 1,
+["preyAvailableCounts"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["capturedAt"] = 421019.464,
+["hard"] = 0,
 },
 ["weeklyCompleted"] = {
 ["normal"] = 0,
@@ -1935,49 +2625,49 @@ PreydatorDB = {
 },
 ["preyAvailabilityKnown"] = false,
 ["preyAvailabilitySource"] = "derived_reset",
-["level"] = 90,
-["capturedAt"] = 829569.932,
+["level"] = 15,
+["capturedAt"] = 2307.091,
 ["inPreyZone"] = false,
-},
-["Kaydan-Turalyon"] = {
-["activeQuestID"] = 0,
-["classFile"] = "DEMONHUNTER",
-["zoneName"] = "",
-["weeklyKey"] = "server-week-1782226798",
-["capturedAt"] = 831666.427,
-["preyAvailabilitySource"] = "derived_default",
-["inPreyZone"] = false,
-["preyAvailableCounts"] = {
-["normal"] = 4,
-["nightmare"] = 0,
-["capturedAt"] = 830202.596,
-["hard"] = 0,
-},
-["weeklyCompleted"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["preyAvailabilityKnown"] = false,
-["level"] = 80,
-["stage"] = 1,
 },
 ["Dreg-Turalyon"] = {
 ["activeQuestID"] = 0,
 ["zoneName"] = "",
-["weeklyKey"] = "server-week-1782226798",
+["weeklyKey"] = "server-week-1786460399",
 ["inPreyZone"] = false,
-["capturedAt"] = 830222.326,
+["capturedAt"] = 2492242.102,
 ["preyAvailableCounts"] = {
 ["normal"] = 4,
+["nightmare"] = 4,
+["capturedAt"] = 421019.464,
+["hard"] = 4,
+},
+["weeklyCompleted"] = {
+["normal"] = 0,
 ["nightmare"] = 0,
-["capturedAt"] = 830202.596,
 ["hard"] = 0,
 },
-["classFile"] = "SHAMAN",
-["preyAvailabilitySource"] = "derived_default",
+["preyAvailabilitySource"] = "derived_reset",
 ["preyAvailabilityKnown"] = false,
-["level"] = 81,
+["level"] = 90,
+["stage"] = 1,
+["classFile"] = "SHAMAN",
+},
+["Kayne-Turalyon"] = {
+["activeQuestID"] = 0,
+["zoneName"] = "Silvermoon City",
+["weeklyKey"] = "server-week-1786460399",
+["inPreyZone"] = false,
+["capturedAt"] = 820763.551,
+["preyAvailableCounts"] = {
+["normal"] = 4,
+["nightmare"] = 4,
+["capturedAt"] = 421019.464,
+["hard"] = 4,
+},
+["classFile"] = "DEATHKNIGHT",
+["preyAvailabilitySource"] = "derived_reset",
+["preyAvailabilityKnown"] = false,
+["level"] = 90,
 ["stage"] = 1,
 ["weeklyCompleted"] = {
 ["normal"] = 0,
@@ -1985,62 +2675,39 @@ PreydatorDB = {
 ["hard"] = 0,
 },
 },
-["Kayne-Turalyon"] = {
+["Badam-Turalyon"] = {
 ["activeQuestID"] = 0,
-["zoneName"] = "",
-["weeklyKey"] = "server-week-1782226798",
-["weeklyCompleted"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
+["zoneName"] = "Silvermoon City",
+["weeklyKey"] = "server-week-1786460399",
+["classFile"] = "WARRIOR",
 ["stage"] = 1,
 ["preyAvailableCounts"] = {
 ["normal"] = 4,
 ["nightmare"] = 4,
-["capturedAt"] = 830202.596,
+["capturedAt"] = 421019.464,
 ["hard"] = 4,
-},
-["classFile"] = "DEATHKNIGHT",
-["preyAvailabilityKnown"] = false,
-["preyAvailabilitySource"] = "derived_reset",
-["level"] = 90,
-["capturedAt"] = 829911.175,
-["inPreyZone"] = false,
-},
-["Badam-Turalyon"] = {
-["activeQuestID"] = 0,
-["zoneName"] = "Dornogal",
-["weeklyKey"] = "server-week-1782226798",
-["inPreyZone"] = false,
-["capturedAt"] = 831307.22,
-["preyAvailableCounts"] = {
-["normal"] = 4,
-["nightmare"] = 0,
-["capturedAt"] = 830202.596,
-["hard"] = 0,
 },
 ["weeklyCompleted"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["preyAvailabilitySource"] = "derived_default",
 ["preyAvailabilityKnown"] = false,
-["level"] = 80,
-["stage"] = 1,
-["classFile"] = "WARRIOR",
+["preyAvailabilitySource"] = "derived_reset",
+["level"] = 90,
+["capturedAt"] = 2491432.682,
+["inPreyZone"] = false,
 },
 ["Abel-Turalyon"] = {
 ["activeQuestID"] = 0,
 ["zoneName"] = "Silvermoon City",
-["weeklyKey"] = "server-week-1782226798",
+["weeklyKey"] = "server-week-1786460399",
 ["inPreyZone"] = false,
 ["capturedAt"] = 237242.153,
 ["preyAvailableCounts"] = {
 ["normal"] = 4,
 ["nightmare"] = 0,
-["capturedAt"] = 830202.596,
+["capturedAt"] = 421019.464,
 ["hard"] = 0,
 },
 ["classFile"] = "PRIEST",
@@ -2054,39 +2721,16 @@ PreydatorDB = {
 ["hard"] = 0,
 },
 },
-["Adamn-Turalyon"] = {
-["activeQuestID"] = 0,
-["zoneName"] = "",
-["weeklyKey"] = "server-week-1782226798",
-["stage"] = 1,
-["weeklyCompleted"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["preyAvailableCounts"] = {
-["normal"] = 4,
-["nightmare"] = 0,
-["capturedAt"] = 830202.596,
-["hard"] = 0,
-},
-["classFile"] = "ROGUE",
-["preyAvailabilityKnown"] = false,
-["preyAvailabilitySource"] = "derived_default",
-["level"] = 80,
-["capturedAt"] = 831379.268,
-["inPreyZone"] = false,
-},
 ["Amdam-Turalyon"] = {
 ["activeQuestID"] = 0,
-["zoneName"] = "Magister's Terrace",
-["weeklyKey"] = "server-week-1782226798",
+["zoneName"] = "Silvermoon City",
+["weeklyKey"] = "server-week-1786460399",
 ["inPreyZone"] = false,
-["capturedAt"] = 829453.005,
+["capturedAt"] = 676.395,
 ["preyAvailableCounts"] = {
 ["normal"] = 4,
 ["nightmare"] = 4,
-["capturedAt"] = 830202.596,
+["capturedAt"] = 421019.464,
 ["hard"] = 4,
 },
 ["classFile"] = "PALADIN",
@@ -2100,948 +2744,1151 @@ PreydatorDB = {
 ["hard"] = 0,
 },
 },
+["Adamn-Turalyon"] = {
+["activeQuestID"] = 0,
+["zoneName"] = "The Underbog",
+["weeklyKey"] = "server-week-1786460399",
+["weeklyCompleted"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["stage"] = 1,
+["preyAvailableCounts"] = {
+["normal"] = 4,
+["nightmare"] = 0,
+["capturedAt"] = 421019.464,
+["hard"] = 0,
+},
+["classFile"] = "ROGUE",
+["preyAvailabilityKnown"] = false,
+["preyAvailabilitySource"] = "derived_reset",
+["level"] = 82,
+["capturedAt"] = 1283804.924,
+["inPreyZone"] = false,
+},
+["Christoff-Turalyon"] = {
+["activeQuestID"] = 0,
+["zoneName"] = "Silvermoon City",
+["weeklyKey"] = "server-week-1786460399",
+["inPreyZone"] = false,
+["capturedAt"] = 980081.277,
+["preyAvailableCounts"] = {
+["normal"] = 4,
+["nightmare"] = 4,
+["capturedAt"] = 421019.464,
+["hard"] = 4,
+},
+["weeklyCompleted"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
+["preyAvailabilitySource"] = "derived_reset",
+["preyAvailabilityKnown"] = false,
+["level"] = 90,
+["stage"] = 1,
+["classFile"] = "DRUID",
+},
 },
 ["snapshots"] = {
 ["Adamian-Turalyon"] = {
 [3266] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3392] = {
 ["quantity"] = 1763,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3352] = {
-["quantity"] = 0,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3212] = {
-["quantity"] = 11,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3261] = {
-["quantity"] = 0,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3356] = {
-["quantity"] = 50,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3379] = {
-["quantity"] = 790,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3259] = {
 ["quantity"] = 210,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
+},
+[3212] = {
+["quantity"] = 11,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3400] = {
+["quantity"] = 0,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3373] = {
+["quantity"] = 0,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3356] = {
+["quantity"] = 50,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3377] = {
+["quantity"] = 0,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3379] = {
+["quantity"] = 790,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3257] = {
+["quantity"] = 0,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
+},
+[3383] = {
+["quantity"] = 21,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
 },
 [3385] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3263] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3265] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [2803] = {
 ["quantity"] = 3906,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3028] = {
 ["quantity"] = 8,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
+},
+[3378] = {
+["quantity"] = 3,
+["classFile"] = "EVOKER",
+["lastSeen"] = 1195321.148,
 },
 [3347] = {
-["quantity"] = 0,
+["quantity"] = 16,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
-},
-[3316] = {
-["quantity"] = 2492,
-["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3376] = {
 ["quantity"] = 2,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3310] = {
 ["quantity"] = 1,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3341] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3343] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3345] = {
-["quantity"] = 35,
+["quantity"] = 5,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
-[3378] = {
-["quantity"] = 2,
+[3316] = {
+["quantity"] = 2492,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3256] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3258] = {
 ["quantity"] = 255,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3260] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3262] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 [3264] = {
 ["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
-[3383] = {
-["quantity"] = 11,
+[3352] = {
+["quantity"] = 0,
 ["classFile"] = "EVOKER",
-["lastSeen"] = 829790.341,
+["lastSeen"] = 1195321.148,
 },
 },
 ["Adamancy-Turalyon"] = {
 [3266] = {
 ["quantity"] = 500,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
 [3392] = {
 ["quantity"] = 1506,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3352] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3212] = {
-["quantity"] = 12,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3385] = {
-["quantity"] = 26,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3263] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3377] = {
-["quantity"] = 7200,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3379] = {
-["quantity"] = 2327,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
 [3259] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[3261] = {
+[3212] = {
+["quantity"] = 12,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3400] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[3356] = {
-["quantity"] = 360,
+[3385] = {
+["quantity"] = 26,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[3265] = {
+[3373] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[2803] = {
-["quantity"] = 22663,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3028] = {
-["quantity"] = 8,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3347] = {
-["quantity"] = 86,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3316] = {
-["quantity"] = 24778,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3345] = {
-["quantity"] = 15,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3341] = {
+[3263] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[3310] = {
-["quantity"] = 246,
+[3377] = {
+["quantity"] = 7200,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[3343] = {
-["quantity"] = 20,
+[3379] = {
+["quantity"] = 2327,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
-[3376] = {
-["quantity"] = 8,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3378] = {
-["quantity"] = 8,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3256] = {
+[3257] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3258] = {
-["quantity"] = 640,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3260] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3262] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
-},
-[3264] = {
-["quantity"] = 0,
-["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
 },
 [3383] = {
 ["quantity"] = 25,
 ["classFile"] = "MAGE",
-["lastSeen"] = 829569.932,
+["lastSeen"] = 192683.148,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3356] = {
+["quantity"] = 360,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[2803] = {
+["quantity"] = 22663,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3028] = {
+["quantity"] = 8,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3378] = {
+["quantity"] = 8,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3347] = {
+["quantity"] = 76,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3345] = {
+["quantity"] = 15,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3341] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3310] = {
+["quantity"] = 246,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3343] = {
+["quantity"] = 20,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3376] = {
+["quantity"] = 8,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3316] = {
+["quantity"] = 25228,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3258] = {
+["quantity"] = 685,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3264] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
+},
+[3352] = {
+["quantity"] = 0,
+["classFile"] = "MAGE",
+["lastSeen"] = 192683.148,
 },
 },
 ["Kaydan-Turalyon"] = {
 [3266] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
 [3392] = {
-["quantity"] = 0,
+["quantity"] = 3524,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3383] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3212] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3385] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3263] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3379] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
 [3352] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[3261] = {
+[3212] = {
+["quantity"] = 12,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3400] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[3356] = {
+[3385] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[3265] = {
+[3373] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[2803] = {
+[3263] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[3028] = {
+[3377] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[3316] = {
+[3379] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
-[3378] = {
-["quantity"] = 7,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3345] = {
+[3257] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3341] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3310] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3343] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3376] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3347] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3256] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3258] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3260] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3262] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
-},
-[3264] = {
-["quantity"] = 0,
-["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
 },
 [3259] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
-["lastSeen"] = 831666.427,
+["lastSeen"] = 602940.166,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3356] = {
+["quantity"] = 135,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[2803] = {
+["quantity"] = 277,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3028] = {
+["quantity"] = 6,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3347] = {
+["quantity"] = 15,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3316] = {
+["quantity"] = 4122,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3345] = {
+["quantity"] = 20,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3341] = {
+["quantity"] = 20,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3310] = {
+["quantity"] = 131,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3343] = {
+["quantity"] = 5,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3376] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3378] = {
+["quantity"] = 4,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3264] = {
+["quantity"] = 0,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+[3383] = {
+["quantity"] = 31,
+["classFile"] = "DEMONHUNTER",
+["lastSeen"] = 602940.166,
+},
+},
+["Jeryn-Bloodscalp"] = {
+[3266] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3392] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3383] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3212] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3400] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3385] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3373] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3263] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3377] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3379] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3257] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3352] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3356] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[2803] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3028] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3316] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3378] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3345] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3341] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3310] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3343] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3376] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3347] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3264] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
+},
+[3259] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 2307.091,
 },
 },
 ["Dreg-Turalyon"] = {
 [3266] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
 [3392] = {
-["quantity"] = 0,
+["quantity"] = 1170,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3383] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3212] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3261] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3356] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3379] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
 [3352] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
-[3385] = {
+[3212] = {
+["quantity"] = 13,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3400] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
-[3263] = {
+[3261] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
-[3265] = {
+[3373] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
-[2803] = {
+[3356] = {
+["quantity"] = 180,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3377] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
-[3028] = {
+[3379] = {
+["quantity"] = 370,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3257] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3316] = {
-["quantity"] = 130,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3378] = {
-["quantity"] = 7,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3376] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3310] = {
-["quantity"] = 75,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3341] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3343] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3345] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3347] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3256] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3258] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3260] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3262] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
-},
-[3264] = {
-["quantity"] = 0,
-["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
 },
 [3259] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
-["lastSeen"] = 830222.326,
+["lastSeen"] = 2492242.102,
+},
+[3385] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3263] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[2803] = {
+["quantity"] = 3690,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3028] = {
+["quantity"] = 8,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3347] = {
+["quantity"] = 80,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3316] = {
+["quantity"] = 6945,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3376] = {
+["quantity"] = 2,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3310] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3341] = {
+["quantity"] = 40,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3343] = {
+["quantity"] = 1,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3345] = {
+["quantity"] = 36,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3378] = {
+["quantity"] = 3,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3264] = {
+["quantity"] = 0,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
+},
+[3383] = {
+["quantity"] = 27,
+["classFile"] = "SHAMAN",
+["lastSeen"] = 2492242.102,
 },
 },
 ["Kayne-Turalyon"] = {
 [3266] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
 [3392] = {
 ["quantity"] = 3580,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3383] = {
-["quantity"] = 34,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3212] = {
-["quantity"] = 14,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3261] = {
-["quantity"] = 0,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3356] = {
-["quantity"] = 360,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3379] = {
-["quantity"] = 610,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3257] = {
-["quantity"] = 870,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
 [3352] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[3385] = {
+[3212] = {
+["quantity"] = 15,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3400] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[3263] = {
+[3261] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[3265] = {
+[3373] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[2803] = {
-["quantity"] = 10883,
+[3356] = {
+["quantity"] = 405,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[3028] = {
-["quantity"] = 11,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3316] = {
-["quantity"] = 13393,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3378] = {
-["quantity"] = 2,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3376] = {
-["quantity"] = 8,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3310] = {
-["quantity"] = 90,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3341] = {
-["quantity"] = 20,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3343] = {
-["quantity"] = 2,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3345] = {
-["quantity"] = 10,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3347] = {
-["quantity"] = 4,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3256] = {
+[3377] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[3258] = {
-["quantity"] = 0,
+[3379] = {
+["quantity"] = 610,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
-[3260] = {
-["quantity"] = 0,
+[3257] = {
+["quantity"] = 925,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3262] = {
-["quantity"] = 0,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
-},
-[3264] = {
-["quantity"] = 255,
-["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
 },
 [3259] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
-["lastSeen"] = 829911.175,
+["lastSeen"] = 820763.551,
+},
+[3385] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3263] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[2803] = {
+["quantity"] = 11387,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3028] = {
+["quantity"] = 10,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3347] = {
+["quantity"] = 39,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3316] = {
+["quantity"] = 13634,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3376] = {
+["quantity"] = 8,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3310] = {
+["quantity"] = 90,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3341] = {
+["quantity"] = 20,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3343] = {
+["quantity"] = 2,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3345] = {
+["quantity"] = 30,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3378] = {
+["quantity"] = 6,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3264] = {
+["quantity"] = 255,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
+},
+[3383] = {
+["quantity"] = 34,
+["classFile"] = "DEATHKNIGHT",
+["lastSeen"] = 820763.551,
 },
 },
 ["Badam-Turalyon"] = {
 [3266] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
 [3392] = {
-["quantity"] = 0,
+["quantity"] = 575,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3352] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3212] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3385] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3263] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3379] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
 [3259] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[3261] = {
+[3212] = {
+["quantity"] = 4,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3400] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[3356] = {
+[3385] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[3265] = {
+[3373] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[2803] = {
+[3263] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[3028] = {
+[3377] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[3347] = {
+[3379] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
-[3316] = {
-["quantity"] = 0,
+[3257] = {
+["quantity"] = 320,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3345] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3341] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3310] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3343] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3376] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3378] = {
-["quantity"] = 7,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3256] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3258] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3260] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3262] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
-},
-[3264] = {
-["quantity"] = 0,
-["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
 },
 [3383] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
-["lastSeen"] = 831307.22,
+["lastSeen"] = 2491432.682,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3356] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[2803] = {
+["quantity"] = 750,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3028] = {
+["quantity"] = 1,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3378] = {
+["quantity"] = 8,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3347] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3345] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3341] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3310] = {
+["quantity"] = 124,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3343] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3376] = {
+["quantity"] = 2,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3316] = {
+["quantity"] = 660,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3264] = {
+["quantity"] = 50,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
+},
+[3352] = {
+["quantity"] = 0,
+["classFile"] = "WARRIOR",
+["lastSeen"] = 2491432.682,
 },
 },
 ["Abel-Turalyon"] = {
@@ -3055,7 +3902,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3383] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -3100,7 +3947,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3352] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -3130,7 +3977,37 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
+[3347] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
+},
 [3316] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
+},
+[3345] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
+},
+[3341] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
+},
+[3310] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
+},
+[3343] = {
+["quantity"] = 0,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
+},
+[3376] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -3140,36 +4017,6 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3345] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
-[3341] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
-[3310] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
-[3343] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
-[3376] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
-[3347] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
 [3256] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
@@ -3194,375 +4041,536 @@ PreydatorDB = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
-},
-[3259] = {
-["quantity"] = 0,
-["classFile"] = "PRIEST",
-["lastSeen"] = 237242.153,
-},
-},
-["Adamn-Turalyon"] = {
-[3266] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3392] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3259] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3212] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3385] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3263] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3379] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
 },
 [3383] = {
 ["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3261] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3356] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3265] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[2803] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3028] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3378] = {
-["quantity"] = 7,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3347] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3345] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3341] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3310] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3343] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3376] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3316] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3256] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3258] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3260] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3262] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3264] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
-},
-[3352] = {
-["quantity"] = 0,
-["classFile"] = "ROGUE",
-["lastSeen"] = 831379.268,
+["classFile"] = "PRIEST",
+["lastSeen"] = 237242.153,
 },
 },
 ["Amdam-Turalyon"] = {
 [3266] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3392] = {
 ["quantity"] = 3307,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3352] = {
-["quantity"] = 0,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3212] = {
-["quantity"] = 14,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3400] = {
-["quantity"] = 0,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3261] = {
-["quantity"] = 0,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3373] = {
-["quantity"] = 0,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3356] = {
-["quantity"] = 610,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3377] = {
-["quantity"] = 0,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3379] = {
-["quantity"] = 1649,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3257] = {
-["quantity"] = 0,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3259] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
+},
+[3212] = {
+["quantity"] = 17,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3400] = {
+["quantity"] = 0,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3373] = {
+["quantity"] = 0,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3356] = {
+["quantity"] = 610,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3377] = {
+["quantity"] = 0,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3379] = {
+["quantity"] = 1649,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3257] = {
+["quantity"] = 0,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3383] = {
+["quantity"] = 18,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
 },
 [3385] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3263] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3265] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [2803] = {
 ["quantity"] = 15747,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3028] = {
+["quantity"] = 14,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+[3378] = {
 ["quantity"] = 6,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3347] = {
-["quantity"] = 8,
+["quantity"] = 62,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
-},
-[3316] = {
-["quantity"] = 26523,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3376] = {
 ["quantity"] = 8,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3310] = {
-["quantity"] = 10,
+["quantity"] = 132,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3341] = {
-["quantity"] = 10,
+["quantity"] = 30,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3343] = {
-["quantity"] = 19,
+["quantity"] = 32,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3345] = {
-["quantity"] = 10,
+["quantity"] = 147,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
-[3378] = {
-["quantity"] = 2,
+[3316] = {
+["quantity"] = 29855,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3256] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3258] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3260] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3262] = {
 ["quantity"] = 605,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
 },
 [3264] = {
 ["quantity"] = 420,
 ["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["lastSeen"] = 676.395,
+},
+[3352] = {
+["quantity"] = 0,
+["classFile"] = "PALADIN",
+["lastSeen"] = 676.395,
+},
+},
+["Adamn-Turalyon"] = {
+[3266] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3392] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
 },
 [3383] = {
-["quantity"] = 9,
-["classFile"] = "PALADIN",
-["lastSeen"] = 829135.235,
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3212] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3400] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3385] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3373] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3263] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3377] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3379] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3257] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3352] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3356] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[2803] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3028] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3316] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3378] = {
+["quantity"] = 8,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3345] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3341] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3310] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3343] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3376] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3347] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3256] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3264] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+[3259] = {
+["quantity"] = 0,
+["classFile"] = "ROGUE",
+["lastSeen"] = 1283786.962,
+},
+},
+["Christoff-Turalyon"] = {
+[3266] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3392] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3352] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3212] = {
+["quantity"] = 3,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3400] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3385] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3373] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3263] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3377] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3379] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3257] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3259] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3261] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3356] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3265] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[2803] = {
+["quantity"] = 1500,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3028] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3347] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3316] = {
+["quantity"] = 1289,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3345] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3341] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3310] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3343] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3376] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3378] = {
+["quantity"] = 8,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3256] = {
+["quantity"] = 40,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3258] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3260] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3262] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3264] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
+},
+[3383] = {
+["quantity"] = 0,
+["classFile"] = "DRUID",
+["lastSeen"] = 980081.277,
 },
 },
 },
 ["warbandTotal"] = {
 [3266] = 500,
-[3392] = 10156,
-[3383] = 79,
-[3212] = 51,
+[3392] = 13006,
+[3352] = 0,
+[3212] = 83,
 [3400] = 0,
-[3385] = 26,
+[3261] = 225,
 [3373] = 0,
 [3263] = 0,
 [3377] = 7200,
-[3379] = 5376,
-[3257] = 870,
-[3352] = 0,
-[3261] = 225,
-[3356] = 1380,
+[3379] = 5746,
+[3257] = 1245,
+[3383] = 148,
+[3385] = 26,
+[3356] = 1605,
 [3265] = 0,
-[2803] = 53199,
-[3028] = 33,
-[3316] = 67186,
-[3378] = 35,
-[3345] = 70,
-[3341] = 30,
-[3310] = 347,
-[3343] = 41,
-[3376] = 26,
-[3347] = 98,
-[3256] = 0,
-[3258] = 895,
+[2803] = 59643,
+[3028] = 53,
+[3347] = 273,
+[3316] = 81881,
+[3345] = 238,
+[3341] = 90,
+[3310] = 811,
+[3343] = 80,
+[3376] = 30,
+[3378] = 60,
+[3256] = 40,
+[3258] = 940,
 [3260] = 0,
 [3262] = 605,
-[3264] = 675,
+[3264] = 725,
 [3259] = 210,
 },
-["lastWeeklyResetKey"] = "server-week-1782226798",
+["lastWeeklyResetKey"] = "server-week-1786460399",
 ["preyAccountState"] = {
 ["nightmareUnlocked"] = true,
 },
 ["weeklyProgressCanonicalized"] = true,
 },
 ["huntScanner"] = {
-["difficultyRewardCache"] = {
+["availabilityTouchedByScope"] = {
+["Adamancy-Turalyon@90"] = true,
+["Kaydan-Turalyon@90"] = false,
+["Kayne-Turalyon@90"] = true,
 },
-["lastRewardScope"] = "Kaydan-Turalyon@80",
-["lastRewardDay"] = "2026-06-19",
+["lastRewardScope"] = "Adamancy-Turalyon@90",
+["lastRewardDay"] = "2026-08-21",
 ["completedAchievements"] = {
 ["42330"] = true,
 ["16789"] = true,
+["62883"] = true,
 ["62238"] = true,
 ["62168"] = true,
 ["61913"] = true,
@@ -3575,7 +4583,7 @@ PreydatorDB = {
 ["61491"] = true,
 ["62173"] = true,
 ["62175"] = true,
-["61519"] = true,
+["62262"] = true,
 ["61270"] = true,
 ["61391"] = true,
 ["61729"] = true,
@@ -3585,126 +4593,163 @@ PreydatorDB = {
 ["62233"] = true,
 ["62158"] = true,
 ["61268"] = true,
-["62143"] = true,
+["62154"] = true,
+["61386"] = true,
 ["61387"] = true,
 ["62157"] = true,
 ["62174"] = true,
 ["62177"] = true,
 ["61613"] = true,
-["62374"] = true,
+["63457"] = true,
 ["62179"] = true,
 ["42768"] = true,
 ["61922"] = true,
 ["61606"] = true,
+["61636"] = true,
 ["62167"] = true,
+["61900"] = true,
+["62164"] = true,
+["61366"] = true,
 ["62184"] = true,
+["62165"] = true,
 ["61267"] = true,
+["62183"] = true,
 ["61271"] = true,
-["62154"] = true,
-["62262"] = true,
+["62137"] = true,
+["61678"] = true,
+["61254"] = true,
 ["62155"] = true,
 ["62169"] = true,
-["18864"] = true,
-["61254"] = true,
 ["61389"] = true,
+["61635"] = true,
+["18864"] = true,
 ["61637"] = true,
 ["62161"] = true,
 ["61488"] = true,
-["61366"] = true,
+["63451"] = true,
 ["62176"] = true,
-["62137"] = true,
+["61272"] = true,
 ["62156"] = true,
-["61635"] = true,
-["42117"] = true,
+["61519"] = true,
+["63164"] = true,
 ["62163"] = true,
-["16643"] = true,
-["61257"] = true,
+["9425"] = true,
+["62178"] = true,
 ["62606"] = true,
-["61392"] = true,
+["42117"] = true,
 ["62139"] = true,
 ["61858"] = true,
-["61272"] = true,
-["61900"] = true,
-["63164"] = true,
+["63452"] = true,
+["63416"] = true,
+["62410"] = true,
 ["61487"] = true,
-["62165"] = true,
-["61678"] = true,
+["61388"] = true,
+["16643"] = true,
 ["42767"] = true,
 ["61262"] = true,
-["62178"] = true,
+["62374"] = true,
 ["62142"] = true,
-["62164"] = true,
-["62183"] = true,
-["61636"] = true,
+["61257"] = true,
+["61392"] = true,
+["62143"] = true,
 },
-["availabilityTouchedByScope"] = {
+["availabilityCacheByScope"] = {
+["Adamancy-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 2,
+["capturedAt"] = 595920.1900000001,
+["hard"] = 6,
+},
+["Kaydan-Turalyon@90"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["capturedAt"] = 0,
+["hard"] = 0,
+},
+["Kayne-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 0,
+["capturedAt"] = 418299.757,
+["hard"] = 6,
+},
 },
 ["questDifficultyByID"] = {
-["91269"] = "nightmare",
-["91114"] = "normal",
-["91113"] = "normal",
 ["91249"] = "hard",
+["91247"] = "hard",
+["91113"] = "normal",
 ["91222"] = "hard",
 ["91117"] = "normal",
-["91236"] = "hard",
-["91240"] = "hard",
+["91210"] = "hard",
 ["91245"] = "hard",
-["91213"] = "nightmare",
-["91243"] = "hard",
-["91219"] = "nightmare",
-["91120"] = "normal",
-["91110"] = "normal",
 ["91107"] = "normal",
-["91102"] = "normal",
-["91095"] = "normal",
-["91123"] = "normal",
-["91119"] = "normal",
-["91227"] = "nightmare",
-["91259"] = "nightmare",
-["91256"] = "nightmare",
 ["91100"] = "normal",
 ["91115"] = "normal",
+["91256"] = "nightmare",
+["95022"] = "nightmare",
+["91101"] = "normal",
+["91212"] = "hard",
+["91217"] = "nightmare",
+["95024"] = "nightmare",
+["91216"] = "hard",
+["91258"] = "nightmare",
+["91214"] = "hard",
+["91242"] = "hard",
+["91251"] = "hard",
+["91255"] = "hard",
+["91220"] = "hard",
+["91268"] = "nightmare",
+["95023"] = "nightmare",
+["91095"] = "normal",
+["91116"] = "normal",
+["95021"] = "nightmare",
+["91269"] = "nightmare",
+["91236"] = "hard",
+["91240"] = "hard",
+["91213"] = "nightmare",
+["91219"] = "nightmare",
+["91243"] = "hard",
+["91264"] = "nightmare",
+["91123"] = "normal",
+["91105"] = "normal",
+["91119"] = "normal",
+["91227"] = "nightmare",
 ["91267"] = "nightmare",
 ["91260"] = "nightmare",
-["91225"] = "nightmare",
 ["91124"] = "normal",
-["91101"] = "normal",
-["91266"] = "nightmare",
-["91217"] = "nightmare",
+["91121"] = "normal",
 ["91118"] = "normal",
-["91239"] = "nightmare",
-["91220"] = "hard",
+["91225"] = "nightmare",
 ["91229"] = "nightmare",
-["91214"] = "hard",
-["91250"] = "hard",
 ["91231"] = "nightmare",
-["91258"] = "nightmare",
+["91250"] = "hard",
+["91239"] = "nightmare",
+["91114"] = "normal",
 ["91221"] = "nightmare",
-["91242"] = "hard",
+["91233"] = "nightmare",
 ["91234"] = "hard",
 ["91238"] = "hard",
-["91251"] = "hard",
+["91110"] = "normal",
 ["91237"] = "nightmare",
 ["91246"] = "hard",
 ["91230"] = "hard",
-["91121"] = "normal",
 ["91244"] = "hard",
+["91102"] = "normal",
 ["91228"] = "hard",
-["91216"] = "hard",
-["91268"] = "nightmare",
-["91264"] = "nightmare",
-["91104"] = "normal",
+["91259"] = "nightmare",
+["91266"] = "nightmare",
 ["91248"] = "hard",
+["91104"] = "normal",
+["91098"] = "normal",
 ["91103"] = "normal",
 ["91218"] = "hard",
 ["91099"] = "normal",
 ["91262"] = "nightmare",
-["91116"] = "normal",
-["91233"] = "nightmare",
+["91120"] = "normal",
+["91109"] = "normal",
 },
 ["rewardCache"] = {
 },
-["availabilityCacheByScope"] = {
+["difficultyRewardCache"] = {
 },
 },
 ["profiles"] = {
@@ -3764,7 +4809,7 @@ PreydatorDB = {
 ["currencyWarbandTrackedIDs"] = {
 [3266] = false,
 [3392] = true,
-[3259] = false,
+[3352] = true,
 [3212] = true,
 [3400] = true,
 [3261] = false,
@@ -3773,26 +4818,26 @@ PreydatorDB = {
 [3377] = true,
 [3379] = true,
 [3257] = false,
-[3352] = true,
+[3383] = true,
 [3385] = true,
 [3356] = true,
 [3265] = false,
 [2803] = true,
 [3028] = true,
+[3347] = true,
 [3316] = true,
-[3378] = true,
 [3345] = true,
 [3341] = true,
 [3310] = true,
 [3343] = true,
 [3376] = true,
-[3347] = true,
+[3378] = true,
 [3256] = false,
 [3258] = false,
 [3260] = false,
 [3262] = false,
 [3264] = false,
-[3383] = true,
+[3259] = false,
 },
 ["currencyWarbandScale"] = 1,
 ["verticalPercentOffset"] = 10,
@@ -3832,7 +4877,7 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3352] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
@@ -3877,8 +4922,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3259] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 10,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -3907,13 +4952,13 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3347] = {
-["quantity"] = 0,
+[3378] = {
+["quantity"] = 1,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3316] = {
-["quantity"] = 11233,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -3942,8 +4987,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3378] = {
-["quantity"] = 1,
+[3316] = {
+["quantity"] = 11233,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -3972,8 +5017,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3383] = {
-["quantity"] = 10,
+[3352] = {
+["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -3989,7 +5034,7 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
@@ -4034,8 +5079,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 39,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -4064,13 +5109,13 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3316] = {
-["quantity"] = 15241,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3378] = {
-["quantity"] = 1,
+[3316] = {
+["quantity"] = 15241,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -4099,8 +5144,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3347] = {
-["quantity"] = 0,
+[3378] = {
+["quantity"] = 1,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -4129,8 +5174,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3383] = {
-["quantity"] = 39,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -4140,7 +5185,7 @@ PreydatorDB = {
 ["warbandTotal"] = {
 [3266] = 310,
 [3392] = 3334,
-[3352] = 0,
+[3383] = 49,
 [3212] = 6,
 [3400] = 1,
 [3261] = 0,
@@ -4149,26 +5194,26 @@ PreydatorDB = {
 [3377] = 2700,
 [3379] = 1928,
 [3257] = 0,
-[3383] = 49,
+[3259] = 0,
 [3385] = 26,
 [3356] = 0,
 [3265] = 0,
 [2803] = 5457,
 [3028] = 0,
+[3316] = 26474,
 [3378] = 2,
-[3347] = 0,
 [3376] = 15,
 [3310] = 0,
 [3341] = 15,
 [3343] = 91,
 [3345] = 144,
-[3316] = 26474,
+[3347] = 0,
 [3256] = 0,
 [3258] = 310,
 [3260] = 0,
 [3262] = 60,
 [3264] = 315,
-[3259] = 0,
+[3352] = 0,
 },
 ["preyAccountState"] = {
 ["nightmareUnlocked"] = true,
@@ -4313,7 +5358,7 @@ PreydatorDB = {
 0.2,
 0.85,
 },
-["locked"] = true,
+["locked"] = false,
 ["horizontalHeight"] = 30,
 ["forceShowBar"] = false,
 ["huntScannerCollapsedGroups"] = {
@@ -4348,7 +5393,7 @@ PreydatorDB = {
 ["currencyTrackedIDs"] = {
 [3266] = false,
 [3392] = true,
-[3259] = false,
+[3352] = true,
 [3212] = true,
 [3400] = true,
 [3261] = false,
@@ -4357,26 +5402,26 @@ PreydatorDB = {
 [3377] = true,
 [3379] = true,
 [3257] = false,
-[3352] = true,
+[3383] = true,
 [3385] = true,
 [3356] = true,
 [3265] = false,
 [2803] = true,
 [3028] = true,
+[3347] = true,
 [3316] = true,
-[3378] = true,
 [3345] = true,
 [3341] = true,
 [3310] = true,
 [3343] = true,
 [3376] = true,
-[3347] = true,
+[3378] = true,
 [3256] = false,
 [3258] = false,
 [3260] = false,
 [3262] = false,
 [3264] = false,
-[3383] = true,
+[3259] = false,
 },
 ["currencyWarbandHideLowLevel"] = false,
 ["barAccessibilityTheme"] = "default",
@@ -4390,31 +5435,31 @@ PreydatorDB = {
 },
 ["currencyShowRealmInWarband"] = false,
 ["showInEditMode"] = true,
-["ambushLabel"] = "AMBUSH",
 ["debugBloodyCommand"] = false,
+["ambushLabel"] = "AMBUSH",
 ["currencyWarbandHeight"] = 250,
 ["ambushSuffix"] = "preyTargetName",
 ["huntScannerMatchCurrencyTheme"] = true,
+["huntScannerAchievementIconSize"] = 18,
 ["huntScanner"] = {
 ["lastRewardScope"] = "Amdam-Turalyon@90",
 ["lastRewardDay"] = "2026-03-21",
-["availabilityCacheByScope"] = {
-["Amdam-Turalyon@90"] = {
-["normal"] = 4,
-["nightmare"] = 2,
-["capturedAt"] = 18557.727,
-["hard"] = 1,
-},
-["Adamancy-Turalyon@90"] = {
-["normal"] = 4,
-["nightmare"] = 2,
-["capturedAt"] = 13404.603,
-["hard"] = 3,
-},
-},
 ["availabilityTouchedByScope"] = {
 ["Amdam-Turalyon@90"] = true,
 ["Adamancy-Turalyon@90"] = true,
+},
+["difficultyRewardCache"] = {
+["normal"] = {
+},
+["nightmare"] = {
+"Preyseeker's Champion Sack",
+"Hero Dawncrest x5",
+"Champion Dawncrest x10",
+"Coffer Key Shards x75",
+"Preyseeker's Journey x50",
+},
+["hard"] = {
+},
 },
 ["questDifficultyByID"] = {
 ["91230"] = "hard",
@@ -4469,24 +5514,28 @@ PreydatorDB = {
 "|T7639517:14:14:0:0|t 10 Adventurer Dawncrest",
 },
 },
-["difficultyRewardCache"] = {
-["normal"] = {
+["availabilityCacheByScope"] = {
+["Amdam-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 2,
+["capturedAt"] = 18557.727,
+["hard"] = 1,
 },
-["nightmare"] = {
-"Preyseeker's Champion Sack",
-"Hero Dawncrest x5",
-"Champion Dawncrest x10",
-"Coffer Key Shards x75",
-"Preyseeker's Journey x50",
-},
-["hard"] = {
+["Adamancy-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 2,
+["capturedAt"] = 13404.603,
+["hard"] = 3,
 },
 },
 },
-["huntScannerAchievementIconSize"] = 18,
-["bloodyCommandSoundPath"] = "Interface\\AddOns\\Preydator\\sounds\\predator-kills-its-prey-to-survive.ogg",
+["currencyWarbandTheme"] = "brown",
 ["currencyWindowFontSize"] = 14,
 ["progressSegments"] = "thirds",
+["currencyMinimap"] = {
+["minimapPos"] = 225,
+["hide"] = false,
+},
 ["customizationV2"] = {
 ["moduleEnabled"] = {
 ["warband"] = true,
@@ -4497,14 +5546,11 @@ PreydatorDB = {
 ["bar"] = true,
 },
 },
-["currencyMinimap"] = {
-["minimapPos"] = 225,
-["hide"] = false,
-},
 ["customThemeOrder"] = {
 },
+["bloodyCommandSuffix"] = "",
 ["textureKey"] = "default",
-["bloodyCommandSoundEnabled"] = true,
+["huntScannerAnchorAlign"] = "top",
 ["soundsEnabled"] = true,
 ["ambushSoundPath"] = "Interface\\AddOns\\Preydator\\sounds\\well-we-ve-prepared-a-trap-for-this-predator.ogg",
 ["huntScannerAchievementBadgeColor"] = {
@@ -4514,17 +5560,17 @@ PreydatorDB = {
 1,
 },
 ["borderColorLinked"] = true,
-["huntScannerAnchorAlign"] = "top",
+["bloodyCommandSoundEnabled"] = true,
+["currencyWhatsNewSeenVersion"] = "2.1.1",
 ["huntScannerUseCurrencyTheme"] = true,
 ["showAlignmentDot"] = false,
-["currencyWhatsNewSeenVersion"] = "2.1.1",
-["currencyWarbandMouseoverHide"] = false,
+["currencyDebugEvents"] = false,
 ["currencyWindowHideInInstance"] = false,
 ["height"] = 30,
-["currencyDebugEvents"] = false,
 ["stageLabelMode"] = "center",
-["huntScannerAchievementSignals"] = true,
 ["horizontalWidth"] = 160,
+["huntScannerAchievementSignals"] = true,
+["currencyWarbandWidth"] = 420,
 ["outOfZonePrefix"] = "",
 ["point"] = {
 ["anchor"] = "CENTER",
@@ -4532,37 +5578,37 @@ PreydatorDB = {
 ["y"] = 374,
 ["relativePoint"] = "CENTER",
 },
-["currencyWarbandWidth"] = 420,
 ["verticalSideOffset"] = 10,
+["huntScannerSortDir"] = "asc",
 ["stageSuffixLabels"] = {
 "",
 "",
 "",
 "",
 },
-["currencyTheme"] = "dark",
+["verticalTextOffset"] = 10,
 ["tickColor"] = {
 1,
 1,
 1,
 0.35,
 },
+["currencyTheme"] = "dark",
+["outOfZoneLabel"] = "No Sign in These Fields",
+["themeUseClassColors"] = true,
+["verticalTextSide"] = "right",
 ["bgColor"] = {
 0,
 0,
 0,
 0.6,
 },
-["verticalTextOffset"] = 10,
-["outOfZoneLabel"] = "No Sign in These Fields",
-["verticalTextSide"] = "right",
-["themeUseClassColors"] = true,
 ["themeEditorPreviewInOptions"] = false,
-["huntScannerSortDir"] = "asc",
 ["showVerticalTickPercent"] = false,
 ["huntScannerHeight"] = 460,
 ["soundEnhance"] = 0,
 ["verticalFillDirection"] = "up",
+["currencyWarbandMouseoverHide"] = false,
 ["currencyDeltaGainColor"] = {
 0,
 0.56,
@@ -4582,14 +5628,12 @@ PreydatorDB = {
 ["huntScannerSide"] = "right",
 ["huntScannerPreviewInOptions"] = false,
 ["width"] = 160,
-["bloodyCommandSuffix"] = "",
 ["currencyWarbandCharacterVisibility"] = {
 },
+["bloodyCommandSoundPath"] = "Interface\\AddOns\\Preydator\\sounds\\predator-kills-its-prey-to-survive.ogg",
 ["currencyShowAffordableHunts"] = false,
 ["currencyWarbandUseIcons"] = false,
-["currencyWarbandTheme"] = "brown",
 ["percentFontKey"] = "frizqt",
-["debugSounds"] = false,
 ["huntScannerDifficultyColors"] = {
 ["normal"] = {
 0.42,
@@ -4610,6 +5654,8 @@ PreydatorDB = {
 1,
 },
 },
+["debugSounds"] = false,
+["preydatorThreeSplashSeenVersion"] = "3.0.3",
 },
 },
 }

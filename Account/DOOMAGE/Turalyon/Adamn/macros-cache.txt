@@ -90,3 +90,8 @@ VER 3 010000000000001C " " "134400"
 /cast [@focus,exists][] Kick;
 /script UIErrorsFrame:Clear()
 END
+VER 3 010000000000001D " " "134400"
+#showtooltip
+/cast [mod:alt] Shiv; Blade Rush;
+/script UIErrorsFrame:Clear()
+END

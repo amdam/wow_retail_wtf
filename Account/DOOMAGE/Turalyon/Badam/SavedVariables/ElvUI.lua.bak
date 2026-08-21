@@ -20,9 +20,9 @@ ElvCharacterDB = {
 "/g oo",
 "/g prob from the dreamweavers quartermaster",
 "/g oh nice",
-"/cdm",
 "/arcui",
 "/plater",
+"/cdm",
 },
 ["ConvertKeybindings"] = true,
 }

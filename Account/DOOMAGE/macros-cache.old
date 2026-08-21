@@ -60,13 +60,15 @@ you zap and you blast, tunnel night and day,
 SHIT that's a raid wipe, god damnit ELEMENTE
 END
 VER 3 000000000000006C "EnhanceQoLBuffFoodMacro" "INV_Misc_QuestionMark"
-#showtooltip
+#showtooltip item:242275
+/use item:242275
 END
 VER 3 000000000000006B "EnhanceQoLFlaskMacro" "INV_Misc_QuestionMark"
 #showtooltip
 END
 VER 3 000000000000006A "EnhanceQoLHealthMacro" "INV_Misc_QuestionMark"
 #showtooltip
+/castsequence reset=combat item:241305
 END
 VER 3 000000000000006D "focus mark" "132212"
 /tm 4
@@ -137,6 +139,10 @@ END
 VER 3 000000000000006E "Ready" "1390947"
 /rc
 /s SKY CHECK YOUR TALENTS
+END
+VER 3 000000000000006F "shell" "134400"
+#showtooltip Ruby Whelp Shell
+/run for i=2148,2153,1 do V=C_CurrencyInfo.GetCurrencyInfo(i); print(V.name..": "..tostring(V.quantity)) end
 END
 VER 3 0000000000000025 "ship shit" "134190"
 /run for k, v in pairs({ Belgork = 38932, Felsmith = 39366, Xanzith = 39356, Cindral = 39363, Shark = 39355, Zoug = 39360}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end

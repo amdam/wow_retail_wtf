@@ -30,7 +30,8 @@ VER 3 0100000000000008 " " "134400"
 END
 VER 3 0100000000000009 " " "134400"
 #showtooltip
-/cast [mod:alt,known:Thunderstorm] Thunderstorm; Frost Shock;
+/cast [nomod] Nature's Swiftness
+/cast [mod:alt,known:Thunderstorm] Thunderstorm; Tempest;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"

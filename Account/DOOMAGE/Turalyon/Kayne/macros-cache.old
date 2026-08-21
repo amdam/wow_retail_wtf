@@ -125,3 +125,11 @@ VER 3 0100000000000018 " " "134400"
 /cast [mod:alt] Outbreak; Festering Strike
 /script UIErrorsFrame:Clear()
 END
+VER 3 0100000000000019 " " "134400"
+#showtooltip
+/cast Army of the Dead
+/cast Dark Transformation
+/use 13
+/use 14
+/script UIErrorsFrame:Clear()
+END

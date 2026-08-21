@@ -1,6 +1,9 @@
 
 WilduToolsDB = {
 ["minimapPos"] = 205.6017314060113,
+["global"] = {
+["lastSeenWhatsNewVersion"] = "2.14.3",
+},
 ["profileKeys"] = {
 ["Ezray - Turalyon"] = "Default",
 ["Wake - Bloodscalp"] = "Default",
@@ -40,12 +43,6 @@ WilduToolsDB = {
 ["profiles"] = {
 ["Default"] = {
 ["editMode"] = {
-["gcdHistory"] = {
-["alpha"] = 1,
-},
-["targetCombat"] = {
-["alpha"] = 1,
-},
 ["rangeCheck"] = {
 ["alpha"] = 1,
 },
@@ -53,6 +50,12 @@ WilduToolsDB = {
 ["alpha"] = 1,
 },
 ["playerCombat"] = {
+["alpha"] = 1,
+},
+["gcdHistory"] = {
+["alpha"] = 1,
+},
+["targetCombat"] = {
 ["alpha"] = 1,
 },
 ["rangeMeleeIndicator"] = {

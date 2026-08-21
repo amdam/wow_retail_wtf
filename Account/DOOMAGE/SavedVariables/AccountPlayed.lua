@@ -13,7 +13,7 @@ AccountPlayedDB = {
 ["class"] = "SHAMAN",
 },
 ["Turalyon-Adamn"] = {
-["time"] = 7741655,
+["time"] = 7742548,
 ["class"] = "ROGUE",
 },
 ["Turalyon-Fernie"] = {
@@ -21,11 +21,11 @@ AccountPlayedDB = {
 ["class"] = "DRUID",
 },
 ["Turalyon-Kayne"] = {
-["time"] = 1678419,
+["time"] = 1699734,
 ["class"] = "DEATHKNIGHT",
 },
 ["Turalyon-Adamian"] = {
-["time"] = 221522,
+["time"] = 223536,
 ["class"] = "EVOKER",
 },
 ["Turalyon-Donnd"] = {
@@ -41,7 +41,7 @@ AccountPlayedDB = {
 ["class"] = "HUNTER",
 },
 ["Turalyon-Christoff"] = {
-["time"] = 639747,
+["time"] = 660654,
 ["class"] = "DRUID",
 },
 ["Bloodscalp-Wake"] = {
@@ -65,7 +65,7 @@ AccountPlayedDB = {
 ["class"] = "ROGUE",
 },
 ["Turalyon-Dreg"] = {
-["time"] = 585746,
+["time"] = 646461,
 ["class"] = "SHAMAN",
 },
 ["Turalyon-Dugan"] = {
@@ -77,7 +77,7 @@ AccountPlayedDB = {
 ["class"] = "SHAMAN",
 },
 ["Turalyon-Badam"] = {
-["time"] = 6619341,
+["time"] = 6639812,
 ["class"] = "WARRIOR",
 },
 ["Bloodscalp-Adreya"] = {
@@ -93,7 +93,7 @@ AccountPlayedDB = {
 ["class"] = "DEATHKNIGHT",
 },
 ["Turalyon-Kaydan"] = {
-["time"] = 1048241,
+["time"] = 1073996,
 ["class"] = "DEMONHUNTER",
 },
 ["Turalyon-Adrid"] = {
@@ -105,7 +105,7 @@ AccountPlayedDB = {
 ["class"] = "DEMONHUNTER",
 },
 ["Turalyon-Adamancy"] = {
-["time"] = 19646712,
+["time"] = 19680527,
 ["class"] = "MAGE",
 },
 ["Turalyon-Aduum"] = {
@@ -125,7 +125,7 @@ AccountPlayedDB = {
 ["class"] = "PRIEST",
 },
 ["Turalyon-Amdam"] = {
-["time"] = 29126446,
+["time"] = 29139477,
 ["class"] = "PALADIN",
 },
 ["Turalyon-Abel"] = {

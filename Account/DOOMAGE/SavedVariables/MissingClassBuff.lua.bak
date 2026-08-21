@@ -2,12 +2,15 @@
 MissingClassBuffDB = {
 ["profileKeys"] = {
 ["Adamancy - Turalyon"] = "Default",
-["Badam - Turalyon"] = "Default",
-["Adamian - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
-["Dreg - Turalyon"] = "Default",
+["Jeryn - Bloodscalp"] = "Default",
 ["Amdam - Turalyon"] = "Default",
+["Badam - Turalyon"] = "Default",
+["Kaydan - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
+["Dreg - Turalyon"] = "Default",
+["Christoff - Turalyon"] = "Default",
+["Adamian - Turalyon"] = "Default",
 },
 ["layouts"] = {
 ["Modern"] = {

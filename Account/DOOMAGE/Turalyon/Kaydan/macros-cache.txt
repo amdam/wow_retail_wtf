@@ -21,7 +21,7 @@ END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; [nochanneling] Immolation Aura;
+/cast [mod:alt,spec:1] Eye Beam; [mod:alt,spec:2] Fel Devastation; [mod:alt,spec:3] Void Ray; [nochanneling] Immolation Aura;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000007 " " "134400"

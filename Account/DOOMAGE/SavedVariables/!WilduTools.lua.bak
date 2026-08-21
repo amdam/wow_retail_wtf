@@ -37,19 +37,22 @@ WilduToolsDB = {
 ["Caseann - Turalyon"] = "Default",
 ["Fredus - Turalyon"] = "Default",
 },
+["global"] = {
+["lastSeenWhatsNewVersion"] = "2.14.3",
+},
 ["profiles"] = {
 ["Default"] = {
 ["editMode"] = {
 ["rangeCheck"] = {
 ["alpha"] = 1,
 },
+["mountIcon"] = {
+["alpha"] = 1,
+},
 ["playerCombat"] = {
 ["alpha"] = 1,
 },
 ["gcdHistory"] = {
-["alpha"] = 1,
-},
-["mountIcon"] = {
 ["alpha"] = 1,
 },
 ["targetCombat"] = {

@@ -86,12 +86,12 @@ VER 3 0100000000000010 " " "134400"
 END
 VER 3 0100000000000011 " " "134400"
 #showtooltip
-/cast [mod:alt] Ursol's Vortex; Rip;
+/cast [mod:alt] Primal Wrath; Rip;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000012 " " "134400"
 #showtooltip
-/cast [mod:alt] Moonfire; Sunfire;
+/cast [mod:alt] Sunfire; Moonfire;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000013 " " "134400"
@@ -103,5 +103,10 @@ VER 3 0100000000000014 " " "134400"
 #showtooltip
 /stopcasting
 /use [@mouseover, help,nodead][help,nodead][@player] Ironbark
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000015 " " "134400"
+#showtooltip
+/cast [known:Wild Charge] Wild Charge; [known:Tiger Dash] Tiger Dash;
 /script UIErrorsFrame:Clear()
 END

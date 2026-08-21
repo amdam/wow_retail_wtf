@@ -10,7 +10,6 @@ ElvCharacterDB = {
 "im down to help tonight for sure",
 "sounds good",
 "/cdm",
-"/arcui",
 "/clique",
 "/p he has returned",
 "/p from space",
@@ -22,6 +21,7 @@ ElvCharacterDB = {
 "/p spoiler i am bad",
 "/p nah the meters are full of lies",
 "/p ggs",
+"/arcui",
 },
 ["ChatHistoryLog"] = {
 },

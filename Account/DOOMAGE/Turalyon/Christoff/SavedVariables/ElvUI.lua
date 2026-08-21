@@ -3,9 +3,6 @@ ElvCharacterDB = {
 ["ChatHistoryLog"] = {
 },
 ["ChatEditHistory"] = {
-"you can queue for follower dungeon",
-"/clique",
-"/details",
 "/details options",
 "/p you dont want to do timewlaking with me?",
 "/p you get a heroic loot",
@@ -23,6 +20,9 @@ ElvCharacterDB = {
 "/cell opt",
 "/ec",
 "/macro",
+"/plater",
+"/cdm",
+"/arcui",
 },
 ["ConvertKeybindings"] = true,
 }
