@@ -55,6 +55,124 @@ nil,
 },
 },
 },
+["BigWigs_Plugins_InfoBox"] = {
+["profiles"] = {
+["Default"] = {
+["position"] = {
+nil,
+nil,
+-532,
+-24,
+},
+},
+["Quazii TWW S2"] = {
+["position"] = {
+nil,
+nil,
+-418,
+160,
+},
+},
+},
+},
+["BigWigs_Plugins_Bars"] = {
+["profiles"] = {
+["Default"] = {
+["expPosition"] = {
+nil,
+nil,
+-3,
+-246,
+},
+},
+["Quazii TWW S2"] = {
+["outline"] = "OUTLINE",
+["emphasize"] = false,
+["visibleBarLimit"] = 3,
+["growup"] = true,
+["fontName"] = "Accidental Presidency",
+["barStyle"] = "ElvUI",
+["emphasizeGrowup"] = true,
+["normalHeight"] = 20,
+["spacing"] = 4,
+["expPosition"] = {
+[3] = -1,
+[4] = 111,
+},
+["fontSize"] = 16,
+["normalWidth"] = 205,
+["normalPosition"] = {
+[3] = 298,
+[4] = -151,
+},
+},
+},
+},
+["BigWigs_Plugins_PrivateAuras"] = {
+["global"] = {
+["showHelpTip"] = false,
+},
+["profiles"] = {
+["Quazii TWW S2"] = {
+["other"] = {
+["disabled"] = false,
+},
+["player"] = {
+["anchorXOffset"] = 67,
+["anchorYOffset"] = 316,
+},
+},
+},
+},
+["MythicPlus"] = {
+["global"] = {
+["showViewerTeleportTip"] = false,
+},
+["profiles"] = {
+["Quazii TWW S2"] = {
+["viewerPosition"] = {
+nil,
+nil,
+31,
+-3,
+},
+},
+},
+},
+["BigWigs_Plugins_Auras"] = {
+["global"] = {
+["showHelpTip"] = false,
+},
+["profiles"] = {
+["Quazii TWW S2"] = {
+["player"] = {
+["anchorPoint"] = "LEFT",
+["anchorRelPoint"] = "LEFT",
+["anchorXOffset"] = 237,
+["anchorYOffset"] = 1,
+},
+},
+},
+},
+["BigWigs_Plugins_Messages"] = {
+["profiles"] = {
+["Quazii TWW S2"] = {
+["fontName"] = "Accidental Presidency",
+["fontSize"] = 22,
+},
+},
+},
+["BigWigs_Plugins_Proximity"] = {
+["profiles"] = {
+["Default"] = {
+["posx"] = 988.1890529389784,
+["posy"] = 695.7077913168177,
+["height"] = 119.9999618530273,
+["font"] = "Friz Quadrata TT",
+["width"] = 139.9999389648438,
+},
+},
+},
 ["BigWigs_Plugins_BossBlock"] = {
 ["global"] = {
 ["tableNeedsCopied"] = false,
@@ -108,126 +226,10 @@ true,
 },
 },
 },
-["MythicPlus"] = {
-["global"] = {
-["showViewerTeleportTip"] = false,
-},
-["profiles"] = {
-["Quazii TWW S2"] = {
-["viewerPosition"] = {
-nil,
-nil,
-31,
--3,
-},
-},
-},
-},
-["BigWigs_Plugins_PrivateAuras"] = {
-["global"] = {
-["showHelpTip"] = false,
-},
-["profiles"] = {
-["Quazii TWW S2"] = {
-["other"] = {
-["disabled"] = false,
-},
-["player"] = {
-["anchorXOffset"] = 67,
-["anchorYOffset"] = 316,
-},
-},
-},
-},
-["BigWigs_Plugins_Bars"] = {
-["profiles"] = {
-["Default"] = {
-["expPosition"] = {
-nil,
-nil,
--3,
--246,
-},
-},
-["Quazii TWW S2"] = {
-["outline"] = "OUTLINE",
-["emphasize"] = false,
-["visibleBarLimit"] = 3,
-["growup"] = true,
-["fontName"] = "Accidental Presidency",
-["emphasizeGrowup"] = true,
-["barStyle"] = "ElvUI",
-["spacing"] = 4,
-["normalHeight"] = 20,
-["fontSize"] = 16,
-["normalWidth"] = 205,
-["normalPosition"] = {
-nil,
-nil,
-259,
--210,
-},
-},
-},
-},
-["BigWigs_Plugins_Auras"] = {
-["global"] = {
-["showHelpTip"] = false,
-},
-["profiles"] = {
-["Quazii TWW S2"] = {
-["player"] = {
-["anchorPoint"] = "LEFT",
-["anchorRelPoint"] = "LEFT",
-["anchorXOffset"] = 237,
-["anchorYOffset"] = 1,
-},
-},
-},
-},
-["BigWigs_Plugins_Proximity"] = {
-["profiles"] = {
-["Default"] = {
-["posx"] = 988.1890529389784,
-["posy"] = 695.7077913168177,
-["height"] = 119.9999618530273,
-["font"] = "Friz Quadrata TT",
-["width"] = 139.9999389648438,
-},
-},
-},
-["BigWigs_Plugins_InfoBox"] = {
-["profiles"] = {
-["Default"] = {
-["position"] = {
-nil,
-nil,
--532,
--24,
-},
-},
-["Quazii TWW S2"] = {
-["position"] = {
-nil,
-nil,
--418,
-160,
-},
-},
-},
-},
-["BigWigs_Plugins_Messages"] = {
-["profiles"] = {
-["Quazii TWW S2"] = {
-["fontName"] = "Accidental Presidency",
-["fontSize"] = 22,
-},
-},
-},
 },
 ["myKeystones"] = {
 ["Player-3685-07F1620A"] = {
-["playerRating"] = 1785,
+["playerRating"] = 2318,
 ["specId"] = 62,
 ["keyMap"] = 0,
 ["name"] = "Adamancy",
@@ -237,9 +239,17 @@ nil,
 ["Player-3685-0990B6B7"] = {
 ["playerRating"] = 0,
 ["specId"] = 251,
-["keyMap"] = 399,
+["keyMap"] = 0,
 ["name"] = "Kayne",
-["keyLevel"] = 2,
+["keyLevel"] = 0,
+["realm"] = "Turalyon",
+},
+["Player-3685-0722C2B9"] = {
+["playerRating"] = 0,
+["specId"] = 70,
+["keyMap"] = 0,
+["name"] = "Amdam",
+["keyLevel"] = 0,
 ["realm"] = "Turalyon",
 },
 },
@@ -257,24 +267,25 @@ BigWigsIconDB = {
 }
 BigWigsStatsDB = {
 [2522] = {
-[2500] = {
-["heroic"] = {
-["kills"] = 10,
-["wipes"] = 6,
-["best"] = 152.6169999999984,
-},
-["mythic"] = {
-["kills"] = 4,
-["wipes"] = 97,
-["best"] = 377.6790000000037,
-},
+[2486] = {
 ["normal"] = {
-["best"] = 165.0960000000196,
+["best"] = 153.7029999999795,
 ["kills"] = 2,
 },
+["mythic"] = {
+["kills"] = 9,
+["wipes"] = 9,
+["best"] = 239.1100000000006,
+},
+["heroic"] = {
+["kills"] = 11,
+["wipes"] = 7,
+["best"] = 138.7440000000061,
+},
 ["LFR"] = {
-["best"] = 165.4390000000058,
-["kills"] = 1,
+["kills"] = 2,
+["wipes"] = 1,
+["best"] = 227.474000000002,
 },
 },
 [2491] = {
@@ -300,19 +311,24 @@ BigWigsStatsDB = {
 ["best"] = 579.4320000000007,
 },
 },
-[2493] = {
+[2500] = {
 ["heroic"] = {
-["kills"] = 11,
-["wipes"] = 27,
-["best"] = 313.2819999998901,
+["kills"] = 10,
+["wipes"] = 6,
+["best"] = 152.6169999999984,
+},
+["mythic"] = {
+["kills"] = 4,
+["wipes"] = 97,
+["best"] = 377.6790000000037,
 },
 ["normal"] = {
-["kills"] = 6,
-["wipes"] = 3,
-["best"] = 288.8870000001043,
+["best"] = 165.0960000000196,
+["kills"] = 2,
 },
 ["LFR"] = {
-["wipes"] = 2,
+["best"] = 165.4390000000058,
+["kills"] = 1,
 },
 },
 [2480] = {
@@ -368,25 +384,19 @@ BigWigsStatsDB = {
 ["kills"] = 1,
 },
 },
-[2486] = {
-["normal"] = {
-["best"] = 153.7029999999795,
-["kills"] = 2,
-},
-["mythic"] = {
-["kills"] = 9,
-["wipes"] = 9,
-["best"] = 239.1100000000006,
-},
+[2493] = {
 ["heroic"] = {
 ["kills"] = 11,
-["wipes"] = 7,
-["best"] = 138.7440000000061,
+["wipes"] = 27,
+["best"] = 313.2819999998901,
+},
+["normal"] = {
+["kills"] = 6,
+["wipes"] = 3,
+["best"] = 288.8870000001043,
 },
 ["LFR"] = {
-["kills"] = 2,
-["wipes"] = 1,
-["best"] = 227.474000000002,
+["wipes"] = 2,
 },
 },
 },
@@ -1083,77 +1093,6 @@ BigWigsStatsDB = {
 ["fkDate"] = "2025/08/20",
 },
 },
-[2684] = {
-["heroic"] = {
-["kills"] = 1,
-["fkDate"] = "2025/09/30",
-["bestDate"] = "2025/09/30",
-["best"] = 229,
-["fkDuration"] = 229,
-},
-["mythic"] = {
-["wipes"] = 3,
-},
-["LFR"] = {
-["kills"] = 7,
-["fkDate"] = "2025/08/18",
-["bestDate"] = "2025/08/20",
-["best"] = 227.4959999999264,
-["fkDuration"] = 248.4720000000089,
-},
-},
-[2690] = {
-["heroic"] = {
-["kills"] = 1,
-["fkDate"] = "2025/09/30",
-["bestDate"] = "2025/09/30",
-["fkWipes"] = 2,
-["best"] = 346.2159999998985,
-["wipes"] = 2,
-["fkDuration"] = 346.2159999998985,
-},
-["LFR"] = {
-["kills"] = 2,
-["fkDuration"] = 483.7029999999795,
-["best"] = 226.7239999999874,
-["bestDate"] = "2025/11/26",
-["fkDate"] = "2025/09/03",
-},
-},
-[2747] = {
-["heroic"] = {
-["kills"] = 1,
-["fkDate"] = "2025/09/30",
-["bestDate"] = "2025/09/30",
-["best"] = 226.1529999999329,
-["fkDuration"] = 226.1529999999329,
-},
-["LFR"] = {
-["kills"] = 6,
-["fkDuration"] = 198.3360000000102,
-["wipes"] = 1,
-["fkWipes"] = 1,
-["best"] = 191.4780000000028,
-["bestDate"] = "2025/09/29",
-["fkDate"] = "2025/08/20",
-},
-},
-[2685] = {
-["heroic"] = {
-["kills"] = 1,
-["fkDate"] = "2025/09/30",
-["bestDate"] = "2025/09/30",
-["best"] = 211.5829999999842,
-["fkDuration"] = 211.5829999999842,
-},
-["LFR"] = {
-["kills"] = 7,
-["fkDate"] = "2025/08/18",
-["bestDate"] = "2025/09/29",
-["best"] = 238.8819999999832,
-["fkDuration"] = 247.1290000000154,
-},
-},
 [2691] = {
 ["heroic"] = {
 ["kills"] = 1,
@@ -1179,6 +1118,77 @@ BigWigsStatsDB = {
 ["best"] = 361.9180000000051,
 ["bestDate"] = "2025/11/26",
 ["fkDate"] = "2025/09/03",
+},
+},
+[2690] = {
+["heroic"] = {
+["kills"] = 1,
+["fkDate"] = "2025/09/30",
+["bestDate"] = "2025/09/30",
+["fkWipes"] = 2,
+["best"] = 346.2159999998985,
+["wipes"] = 2,
+["fkDuration"] = 346.2159999998985,
+},
+["LFR"] = {
+["kills"] = 2,
+["fkDuration"] = 483.7029999999795,
+["best"] = 226.7239999999874,
+["bestDate"] = "2025/11/26",
+["fkDate"] = "2025/09/03",
+},
+},
+[2684] = {
+["heroic"] = {
+["kills"] = 1,
+["fkDate"] = "2025/09/30",
+["bestDate"] = "2025/09/30",
+["best"] = 229,
+["fkDuration"] = 229,
+},
+["mythic"] = {
+["wipes"] = 3,
+},
+["LFR"] = {
+["kills"] = 7,
+["fkDate"] = "2025/08/18",
+["bestDate"] = "2025/08/20",
+["best"] = 227.4959999999264,
+["fkDuration"] = 248.4720000000089,
+},
+},
+[2685] = {
+["heroic"] = {
+["kills"] = 1,
+["fkDate"] = "2025/09/30",
+["bestDate"] = "2025/09/30",
+["best"] = 211.5829999999842,
+["fkDuration"] = 211.5829999999842,
+},
+["LFR"] = {
+["kills"] = 7,
+["fkDate"] = "2025/08/18",
+["bestDate"] = "2025/09/29",
+["best"] = 238.8819999999832,
+["fkDuration"] = 247.1290000000154,
+},
+},
+[2747] = {
+["heroic"] = {
+["kills"] = 1,
+["fkDate"] = "2025/09/30",
+["bestDate"] = "2025/09/30",
+["best"] = 226.1529999999329,
+["fkDuration"] = 226.1529999999329,
+},
+["LFR"] = {
+["kills"] = 6,
+["fkDuration"] = 198.3360000000102,
+["wipes"] = 1,
+["fkWipes"] = 1,
+["best"] = 191.4780000000028,
+["bestDate"] = "2025/09/29",
+["fkDate"] = "2025/08/20",
 },
 },
 },
@@ -1448,6 +1458,28 @@ BigWigsStatsDB = {
 ["H10"] = {
 ["best"] = 22.69500000000699,
 ["kills"] = 8,
+},
+},
+},
+[3004] = {
+[2888] = {
+["LFR"] = {
+["kills"] = 1,
+["fkDuration"] = 246.2889999999898,
+["best"] = 246.2889999999898,
+["bestDate"] = "2026/08/21",
+["fkDate"] = "2026/08/21",
+},
+},
+[2887] = {
+["LFR"] = {
+["kills"] = 1,
+["fkDuration"] = 326.3630000000121,
+["wipes"] = 1,
+["fkWipes"] = 1,
+["best"] = 326.3630000000121,
+["bestDate"] = "2026/08/21",
+["fkDate"] = "2026/08/21",
 },
 },
 },

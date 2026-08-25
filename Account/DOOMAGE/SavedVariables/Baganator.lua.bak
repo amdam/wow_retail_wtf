@@ -211,8 +211,8 @@ BAGANATOR_CONFIG = {
 ["icon_mark_unusable"] = false,
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-308.8301086425781,
-417.6059875488281,
+443.8301696777344,
+423.1615600585938,
 },
 ["custom_categories"] = {
 ["1"] = {
@@ -254,8 +254,8 @@ BAGANATOR_CONFIG = {
 ["category_default_import"] = 3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--256.77734375,
-378.4345703125,
+-196.2222900390625,
+386.6663513183594,
 },
 ["character_bank_current_tab"] = 0,
 ["sort_start_at_bottom"] = false,

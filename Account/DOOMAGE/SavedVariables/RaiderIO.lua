@@ -33,8 +33,8 @@ RaiderIO_Config = {
 ["mplusHeadlineMode"] = 0,
 ["showScoreInCombat"] = true,
 ["replaySelection"] = "user_best_replay",
+["inverseProfileModifier"] = false,
 ["showRaiderIOProfile"] = true,
-["showWarbandScore"] = true,
 ["enableClientEnhancements"] = true,
 ["enableGuildTooltips"] = true,
 ["enableProfileModifier"] = true,
@@ -51,11 +51,15 @@ RaiderIO_Config = {
 ["enableWhoTooltips"] = true,
 ["lockProfile"] = false,
 ["showSimpleScoreColors"] = false,
-["inverseProfileModifier"] = false,
+["showWarbandScore"] = true,
 ["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Adamancy-turalyon"
+RaiderIO_LastCharacter = "us-Amdam-turalyon"
 RaiderIO_MissingCharacters = {
+["us-Sunstriker-turalyon"] = true,
+["us-Mondr-turalyon"] = true,
+["us-Rya-turalyon"] = true,
+["us-Amdam-turalyon"] = true,
 }
 RaiderIO_MissingServers = {
 }

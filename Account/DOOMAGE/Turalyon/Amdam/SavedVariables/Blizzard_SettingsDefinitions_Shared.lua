@@ -5,7 +5,7 @@ NewSettingsSeen = {
 ["SPELL_DIMINISH_SECTION_HEADER_LABEL"] = true,
 ["PROXY_RAID_SPELL_DENSITY"] = true,
 ["raidFramesCenterBigDefensive"] = true,
-["raidFramesDisplayLargerRoleSpecificDebuffs"] = true,
+["raidFramesDispelIndicatorOverlay"] = true,
 ["EXTERNAL_DEFENSIVES_LABEL"] = true,
 ["chatBubblesRaid"] = true,
 ["DAMAGE_METER_LABEL"] = true,
@@ -13,6 +13,6 @@ NewSettingsSeen = {
 ["raidFramesDispelIndicatorType"] = true,
 ["raidFramesDisplayClassColor"] = true,
 ["COMBAT_WARNINGS_LABEL"] = true,
-["raidFramesDispelIndicatorOverlay"] = true,
+["raidFramesDisplayLargerRoleSpecificDebuffs"] = true,
 ["PROXY_ACCESSIBILITY_FONT_SIZE"] = true,
 }

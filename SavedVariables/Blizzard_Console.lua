@@ -1,8 +1,419 @@
 
 Blizzard_Console_SavedVars = {
 ["version"] = 3,
-["height"] = 300.0000610351563,
 ["messageHistory"] = {
+{
+"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
+3,
+},
+{
+"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
+3,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:16",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:16",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:19",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:19",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:20",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:20",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:21",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:21",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:23",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:23",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:23",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:23",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"12734706214800\" nowNs=\"12734709101500\"",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000174a6e0a9f0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000175b467f500\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:25",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 16:25",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001751730c210\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000174a6e0a9f0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000174d3a77dc0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001751730c210\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"GameTimeSync: skipping forwards 2 game minutes, (current = 8/23/2026 (Sun) 16:48, newtime = 8/23/2026 (Sun) 16:50)",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"14534682347000\" nowNs=\"14534684677300\"",
+0,
+},
+{
+"KillConnection conn=\"00000174d3a77dc0\" state=\"(enum)7\"",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"16334708721100\" nowNs=\"16334724918700\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"18134724506500\" nowNs=\"18134740620300\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"19934783974500\" nowNs=\"19934800085900\"",
+0,
+},
+{
+"Session with Battle.net destroyed.",
+0,
+},
+{
+"Disconnected from WoW previouslyConnected=\"true\"",
+0,
+},
+{
+"Screen invalid. Changing from=\"charselect\" to=\"login\"",
+0,
+},
+{
+"Switching to screen=\"AccountLogin\" (from \"charselect\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"Clearing last error",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Multithreaded lightshaft passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 1",
+0,
+},
+{
+"Ripple detail changed to 0",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 0",
+0,
+},
+{
+"Refraction mode changed to 0",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"Particulate volumes disabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Number of shadow cascades changed to 1",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading disabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Disabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 1.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
 {
 "dynamicLod enabled",
 0,
@@ -48,51 +459,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
 "LimitedLuaResources: Global capacity for Animation changed to 50000",
 0,
 },
 {
 "LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
 0,
 },
 {
@@ -104,27 +475,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
 0,
 },
 {
@@ -136,7 +491,59 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
 0,
 },
 {
@@ -144,11 +551,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
 0,
 },
 {
@@ -160,11 +571,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
 0,
 },
 {
@@ -260,7 +671,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Reconnect token saved;  creationTime=\"1787196482\" expirationTime=\"1787210882\"",
+"Reconnect token saved;  creationTime=\"1787541324\" expirationTime=\"1787555724\"",
 0,
 },
 {
@@ -288,11 +699,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787117375\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
+"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"34-2-89\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
@@ -300,7 +711,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"34-2-89\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787529491\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
 0,
 },
 {
@@ -312,7 +723,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787117375\"",
+"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787529491\"",
 0,
 },
 {
@@ -320,7 +731,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sending ping results from timeout timeoutNs=\"676537015213500\" nowNs=\"676537023126900\"",
+"Sending ping results from timeout timeoutNs=\"26564400369000\" nowNs=\"26564408123700\"",
 0,
 },
 {
@@ -328,7 +739,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)0\" connPtr=\"0000025c169c2780\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)0\" connPtr=\"000001f9e65cb740\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -340,11 +751,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)2\" connPtr=\"0000025bfda2ef00\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)2\" connPtr=\"000001f9a2d1c970\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025c169c2780\" state=\"(enum)6\"",
+"KillConnection conn=\"000001f9e65cb740\" state=\"(enum)6\"",
 0,
 },
 {
@@ -368,11 +779,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
 "LimitedLuaResources: Global capacity for Font changed to 3000",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
 0,
 },
 {
@@ -380,39 +799,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Enabled = false",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
 0,
 },
 {
@@ -424,7 +811,31 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
 0,
 },
 {
@@ -456,7 +867,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025bfda2f020\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fa12b0e820\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -504,7 +915,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/19/2026 (Wed) 20:27",
+"Time set to 8/23/2026 (Sun) 20:15",
 0,
 },
 {
@@ -512,11 +923,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025c171972d0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001f9a2d3e7b0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025bfda2f020\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fa12b0e820\" state=\"(enum)6\"",
 0,
 },
 {
@@ -616,23 +1027,23 @@ Blizzard_Console_SavedVars = {
 3,
 },
 {
-"Time set to 8/19/2026 (Wed) 20:29",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fbe590fc70\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Time set to 8/19/2026 (Wed) 20:29",
+"KillConnection conn=\"000001f9a2d3e7b0\" state=\"(enum)6\"",
 0,
 },
 {
-"World transfer pending...",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d3379b8c0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb45ebd210\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025c171972d0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fbe590fc70\" state=\"(enum)6\"",
 0,
 },
 {
@@ -644,15 +1055,51 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d421b2e60\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb320da3c0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025d3379b8c0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fb45ebd210\" state=\"(enum)6\"",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"[Airlock] Received PreloadMap Destination MapID:2916, Current MapID:0, PreviousTransitionID:-1, Position (4502.42, -10843.1, 112.468)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2916",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb0dc3f630\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001fb320da3c0\" state=\"(enum)6\"",
+0,
+},
+{
+"[Airlock] Loading new map 2916 from previous map 0 with translation: (-547.67, 149.6, -90.394)\n    Location : (4647.28, -10568.8, 37.4593)\n    Location in previous map : (5194.95, -10718.4, 127.853)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 2916 and unloading map 0. (Map Table Size 30 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 2916",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:2916, PreviousTransitionID:-1, Position (5194.95, -10718.4, 127.853)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 0",
+0,
+},
+{
+"[Airlock] Cancel Preload of MapID:0",
 0,
 },
 {
@@ -660,47 +1107,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025daf9a1b80\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb1f7c7240\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025d421b2e60\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d125e9fb0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025daf9a1b80\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fb0dc3f630\" state=\"(enum)6\"",
 0,
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 20:39",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 20:39",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 20:40",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 20:40",
 0,
 },
 {
@@ -708,59 +1123,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[tail call]: ?\n[Interface/AddOns/Blizzard_SharedXML/MixinUtil.lua]:341: in function <Interface/AddOns/Blizzard_SharedXML/MixinUtil.lua:340>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Sending ping results from timeout timeoutNs=\"678336943919300\" nowNs=\"678336946311500\"",
+"Sending ping results from timeout timeoutNs=\"28364410433900\" nowNs=\"28364413080800\"",
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
+"Completed challenge mode mapID 2993, level 12, time 1772836",
+0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
+"World transfer pending...",
+0,
 },
 {
-"Completed challenge mode mapID 2923, level 8, time 1481722",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fc036f6780\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001fb1f7c7240\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -776,27 +1159,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d42194800\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb0dc44d60\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025d125e9fb0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025ce4906c60\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025d42194800\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fc036f6780\" state=\"(enum)6\"",
 0,
 },
 {
@@ -808,15 +1175,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d3409dd70\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb0e404440\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025ce4906c60\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
+"KillConnection conn=\"000001fb0dc44d60\" state=\"(enum)6\"",
 0,
 },
 {
@@ -824,39 +1187,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025c1718c0e0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb45ec8e20\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025d3409dd70\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fb0e404440\" state=\"(enum)6\"",
 0,
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:16",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:16",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:16",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:16",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:16",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:16",
 0,
 },
 {
@@ -864,35 +1203,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: BigWigs: \"Adderis and Aspix\" had issues reading the timeline. Show the devs a screenshot of the messages in your chat, NOT this error message.\n[Interface/AddOns/BigWigs_Core/BossPrototype.lua]:1961: in function <Interface/AddOns/BigWigs_Core/BossPrototype.lua:1961>\n",
-3,
-},
-{
-"Sending ping results from timeout timeoutNs=\"680136987963700\" nowNs=\"680136993775100\"",
+"Sending ping results from timeout timeoutNs=\"30164385608800\" nowNs=\"30164388443100\"",
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
+"Completed challenge mode mapID 2859, level 11, time 1674833",
+0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: ...rface/AddOns/EnhanceQoLTooltip/EnhanceQoLTooltip.lua:1443: calling 'SetScale' on bad self (Attempt to access forbidden object from code tainted by an AddOn - Usage: self:SetScale(scale))\n[Interface/AddOns/EnhanceQoLTooltip/EnhanceQoLTooltip.lua]:1443: in function <...rface/AddOns/EnhanceQoLTooltip/EnhanceQoLTooltip.lua:1443>\n[C]: ?\n[C]: in function 'SetShown'\n[Interface/AddOns/Blizzard_UIWidgets/Blizzard_UIWidgetTemplateBase.lua]:105: in function 'OnEnter'\n[Interface/AddOns/Blizzard_UIWidgets/Blizzard_UIWidgetTemplateBase.lua]:969: in function <...Blizzard_UIWidgets/Blizzard_UIWidgetTemplateBase.lua:968>\n",
-3,
-},
-{
-"Lua Error: ...rface/AddOns/EnhanceQoLTooltip/EnhanceQoLTooltip.lua:1443: calling 'SetScale' on bad self (Attempt to access forbidden object from code tainted by an AddOn - Usage: self:SetScale(scale))\n[Interface/AddOns/EnhanceQoLTooltip/EnhanceQoLTooltip.lua]:1443: in function <...rface/AddOns/EnhanceQoLTooltip/EnhanceQoLTooltip.lua:1443>\n[C]: ?\n[C]: in function 'SetShown'\n[Interface/AddOns/Blizzard_UIWidgets/Blizzard_UIWidgetTemplateBase.lua]:105: in function 'OnEnter'\n[Interface/AddOns/Blizzard_UIWidgets/Blizzard_UIWidgetTemplateBase.lua]:969: in function <...Blizzard_UIWidgets/Blizzard_UIWidgetTemplateBase.lua:968>\n",
-3,
-},
-{
-"Completed challenge mode mapID 1877, level 9, time 1422379",
+"Added house xp xp=\"45\"",
 0,
 },
 {
@@ -900,11 +1219,47 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d42187360\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb3f396890\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025c1718c0e0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fb45ec8e20\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001fbc0c7a990\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001fb3f396890\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"31964412782600\" nowNs=\"31964415157800\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"33764417948900\" nowNs=\"33764419899200\"",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001fc2d4dfb30\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001fbc0c7a990\" state=\"(enum)6\"",
 0,
 },
 {
@@ -916,11 +1271,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025cd5f00790\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fbe6d79810\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025d42187360\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fc2d4dfb30\" state=\"(enum)6\"",
 0,
 },
 {
@@ -928,15 +1283,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d42196bd0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fbe6390270\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025cd5f00790\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
+"KillConnection conn=\"000001fbe6d79810\" state=\"(enum)6\"",
 0,
 },
 {
@@ -944,11 +1295,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/19/2026 (Wed) 21:50",
+"Time set to 8/23/2026 (Sun) 22:21",
 0,
 },
 {
-"Time set to 8/19/2026 (Wed) 21:50",
+"Time set to 8/23/2026 (Sun) 22:21",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 22:23",
+0,
+},
+{
+"Time set to 8/23/2026 (Sun) 22:23",
 0,
 },
 {
@@ -956,435 +1315,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"World transfer pending...",
+"Sending ping results from timeout timeoutNs=\"35564346767800\" nowNs=\"35564347647100\"",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025e0566f350\" protocol=\"(enum)0\"",
+"Completed challenge mode mapID 1762, level 11, time 1962413",
 0,
-},
-{
-"KillConnection conn=\"0000025d42196bd0\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d34093600\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025e0566f350\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d421ada00\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025d34093600\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025d1260eb80\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025d421ada00\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:54",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:54",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:55",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:55",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:55",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 21:55",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Sending ping results from timeout timeoutNs=\"681936947175900\" nowNs=\"681936951646800\"",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Lua Error: Interface/AddOns/BigWigs_Plugins/Auras.lua:1782: calling 'SetSize' on bad self (Attempt to access forbidden object from code tainted by an AddOn - Usage: self:SetSize(x, y))\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1782: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:1781>\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1894: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:1864>\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1656: in function 'UpdateAnchors'\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1581: in function 'UpdateAllAnchors'\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1466: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:1453>\n[C]: ?\n[Interface/AddOns/BigWigs/Loader.lua]:1623: in function 'SendMessage'\n[Interface/AddOns/BigWigs_Core/Core.lua]:310: in function <Interface/AddOns/BigWigs_Core/Core.lua:292>\n[Interface/AddOns/BigWigs_Core/Core.lua]:353: in function 'v'\n[Interface/AddOns/BigWigs_Core/Core.lua]:51: in function <Interface/AddOns/BigWigs_Core/Core.lua:47>\n",
-3,
-},
-{
-"LimitedLuaResources: Reset Timer",
-0,
-},
-{
-"LimitedLuaResources: Reset All",
-0,
-},
-{
-"Lua Error: Interface/AddOns/BigWigs_Plugins/Auras.lua:1782: calling 'SetSize' on bad self (Attempt to access forbidden object from code tainted by an AddOn - Usage: self:SetSize(x, y))\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1782: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:1781>\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1894: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:1864>\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1656: in function 'UpdateAnchors'\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1581: in function 'UpdateAllAnchors'\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:286: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:136>\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1515: in function 'OnPluginEnable'\n[Interface/AddOns/BigWigs_Core/PluginPrototype.lua]:34: in function 'Enable'\n[Interface/AddOns/BigWigs_Core/Core.lua]:330: in function <Interface/AddOns/BigWigs_Core/Core.lua:328>\n[Interface/AddOns/BigWigs_Core/Core.lua]:363: in function 'Enable'\n[Interface/AddOns/BigWigs/Loader.lua]:854: in function <Interface/AddOns/BigWigs/Loader.lua:848>\n[Interface/AddOns/BigWigs/Loader.lua]:1949: in function '?'\n[Interface/AddOns/BigWigs/Loader.lua]:1690: in function <Interface/AddOns/BigWigs/Loader.lua:1689>\n",
-3,
 },
 {
 "Successfully instantiated mirrored storage object",
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'EnhanceQoLDungeonRaid'\nLua Taint: EnhanceQoLDungeonRaid\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[tail call]: ?\n[Interface/AddOns/Blizzard_SharedXML/MixinUtil.lua]:341: in function <Interface/AddOns/Blizzard_SharedXML/MixinUtil.lua:340>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'EnhanceQoLDungeonRaid'\nLua Taint: EnhanceQoLDungeonRaid\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'EnhanceQoLDungeonRaid'\nLua Taint: EnhanceQoLDungeonRaid\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'EnhanceQoLDungeonRaid'\nLua Taint: EnhanceQoLDungeonRaid\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'EnhanceQoLDungeonRaid'\nLua Taint: EnhanceQoLDungeonRaid\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'EnhanceQoLDungeonRaid'\nLua Taint: EnhanceQoLDungeonRaid\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Completed challenge mode mapID 2521, level 10, time 1627092",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Added house xp xp=\"50\"",
-0,
-},
-{
 "World transfer pending...",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025b924e8620\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001fb31aaa110\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025d1260eb80\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 22:26",
-0,
-},
-{
-"Time set to 8/19/2026 (Wed) 22:26",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025daf982cb0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025b924e8620\" state=\"(enum)6\"",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"683736957908100\" nowNs=\"683737073831000\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000025dffc164b0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000025daf982cb0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001fbe6390270\" state=\"(enum)6\"",
 0,
 },
 {
@@ -1392,19 +1343,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"KillConnection conn=\"0000025dffc164b0\" state=\"(enum)7\"",
+"KillConnection conn=\"000001fb31aaa110\" state=\"(enum)7\"",
 0,
 },
 {
@@ -1688,14 +1627,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Global capacity for Frame changed to 100000",
 0,
 },
@@ -1704,11 +1635,75 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
 "LimitedLuaResources: Addon capacity for Frame changed to 10000",
 0,
 },
 {
 "LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -1736,54 +1731,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Enabled = false",
 0,
 },
@@ -1792,19 +1739,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
@@ -1876,11 +1815,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"BG code=\"ERROR_OK (0)\"",
+"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
 0,
 },
 {
-"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
+"BGS_ACCO code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -1888,7 +1827,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"BGS_ACCO code=\"ERROR_OK (0)\"",
+"BG code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -1900,7 +1839,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Reconnect token saved;  creationTime=\"1787284084\" expirationTime=\"1787298484\"",
+"Reconnect token saved;  creationTime=\"1787618222\" expirationTime=\"1787632622\"",
 0,
 },
 {
@@ -1928,11 +1867,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
@@ -1940,11 +1879,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"76-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787551722\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
 0,
 },
 {
-"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787204116\" numRegions=\"5\" numRegionsWithData=\"4\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
+"Received last played char code=\" (309)\" subRegion=\"76-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"4\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
@@ -1952,7 +1891,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787204116\"",
+"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787551722\"",
 0,
 },
 {
@@ -1960,7 +1899,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sending ping results from timeout timeoutNs=\"764139925578400\" nowNs=\"764139941644600\"",
+"Sending ping results from timeout timeoutNs=\"103462710955600\" nowNs=\"103462716424100\"",
 0,
 },
 {
@@ -1968,7 +1907,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)0\" connPtr=\"000001aa0d6de1d0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)0\" connPtr=\"000001bb5db40770\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -1977,6 +1916,14 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Screen invalid. Changing from=\"login\" to=\"charselect\"",
+0,
+},
+{
+"Connecting conn=\"(enum)2\" connPtr=\"000001bb1382f720\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001bb5db40770\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2004,7 +1951,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
 "LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
 0,
 },
 {
@@ -2016,35 +1983,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Enabled = false",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
 0,
 },
 {
@@ -2052,11 +1991,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
 "LimitedLuaResources: Addon capacity for Animation changed to 5000",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -2088,239 +2035,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001a9bed79240\" protocol=\"(enum)0\"",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x0000008000",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000021",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c000",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000000c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c400",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000010c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 2 set to 0x000018c480",
-0,
-},
-{
-"Proficiency in item class 4 set to 0x0000000023",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 20:48",
-0,
-},
-{
-"Gamespeed set from 0.017 to 0.017",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001a9bed62020\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001a9bed79240\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Successfully instantiated mirrored storage object",
-0,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2933, Current MapID:0, PreviousTransitionID:-1, Position (8762.24, -4478.72, 78.8075)",
-0,
-},
-{
-"[Airlock] Preload initiated for map 2933, with already loaded cosmetic parent 0",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2933, Current MapID:0, PreviousTransitionID:-1, Position (8774.18, -4470.32, 78.3124)",
-0,
-},
-{
-"[Airlock] Preload initiated for map 2933, with already loaded cosmetic parent 0",
-0,
-},
-{
-"[Airlock] Received PreloadMap Destination MapID:2933, Current MapID:0, PreviousTransitionID:-1, Position (8774.18, -4470.32, 78.3124)",
-0,
-},
-{
-"[Airlock] Preload initiated for map 2933, with already loaded cosmetic parent 0",
-0,
-},
-{
-"[Airlock] Cancel Preload of cosmetic child with MapID:2933",
-0,
-},
-{
-"KillConnection conn=\"000001a9bed62020\" state=\"(enum)7\"",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"LimitedLuaResources: Reset Timer",
-0,
-},
-{
-"Resume()",
-0,
-},
-{
-"Screen invalid. Changing from=\"none\" to=\"charselect\"",
-0,
-},
-{
-"Switching to screen=\"CharacterSelect\" (from \"none\")",
-0,
-},
-{
-"From EnsureValidScreen",
-0,
-},
-{
-"-------------------------------------------------- Previous Session --------------------------------------------------",
-0,
-},
-{
-"Suspend()",
-0,
-},
-{
-"LimitedLuaResources: Reset Timer",
-0,
-},
-{
-"Attempted to register existing command: SetDifficulty",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001abcebbf400\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bb1379ce30\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -2392,7 +2107,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/20/2026 (Thu) 20:53",
+"Time set to 8/24/2026 (Mon) 17:37",
 0,
 },
 {
@@ -2400,11 +2115,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001ab26922070\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bb13837190\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001abcebbf400\" state=\"(enum)6\"",
+"KillConnection conn=\"000001bb1379ce30\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2504,15 +2219,151 @@ Blizzard_Console_SavedVars = {
 3,
 },
 {
-"Time set to 8/20/2026 (Thu) 20:57",
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Time set to 8/24/2026 (Mon) 17:37",
 0,
 },
 {
-"Time set to 8/20/2026 (Thu) 20:57",
+"Time set to 8/24/2026 (Mon) 17:37",
 0,
 },
 {
-"KillConnection conn=\"000001ab26922070\" state=\"(enum)7\"",
+"Time set to 8/24/2026 (Mon) 17:38",
+0,
+},
+{
+"Time set to 8/24/2026 (Mon) 17:38",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001bc96980cc0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001bb13837190\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 8/24/2026 (Mon) 17:41",
+0,
+},
+{
+"Time set to 8/24/2026 (Mon) 17:41",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001bc96953360\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001bc96980cc0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"KillConnection conn=\"000001bc96953360\" state=\"(enum)7\"",
 0,
 },
 {
@@ -2556,7 +2407,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001a9bed6baa0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bb13844810\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -2604,7 +2455,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/20/2026 (Thu) 20:59",
+"Time set to 8/24/2026 (Mon) 17:44",
 0,
 },
 {
@@ -2612,11 +2463,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001abea3389f0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bb137a1150\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001a9bed6baa0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001bb13844810\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2716,47 +2567,103 @@ Blizzard_Console_SavedVars = {
 3,
 },
 {
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
 "World transfer pending...",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001ab268fb4f0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bcaaf30690\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001abea3389f0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:04",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:04",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001aa3a6a2400\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001ab268fb4f0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:05",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:05",
+"KillConnection conn=\"000001bb137a1150\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2764,11 +2671,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001a9bed60af0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bcdb517dd0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001aa3a6a2400\" state=\"(enum)6\"",
+"KillConnection conn=\"000001bcaaf30690\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2776,27 +2683,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/20/2026 (Thu) 21:08",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:08",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:08",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:08",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:08",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:08",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
@@ -2804,211 +2691,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[tail call]: ?\n[Interface/AddOns/Blizzard_SharedXML/MixinUtil.lua]:341: in function <Interface/AddOns/Blizzard_SharedXML/MixinUtil.lua:340>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Sending ping results from timeout timeoutNs=\"765939956291100\" nowNs=\"765939962166800\"",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Completed challenge mode mapID 2923, level 12, time 1936869",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001aab2afaf90\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001a9bed60af0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Added house xp to all houses on account xp=\"10\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001aad275de00\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001aab2afaf90\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:41",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:41",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:41",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:41",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:42",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 21:42",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Sending ping results from timeout timeoutNs=\"767739934491100\" nowNs=\"767739943706600\"",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
 "Weather changed to 4, intensity 1.000000\n",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Sending ping results from timeout timeoutNs=\"105262767490900\" nowNs=\"105262768697500\"",
 0,
 },
 {
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
+"Completed challenge mode mapID 2521, level 10, time 1577180",
 0,
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Completed challenge mode mapID 2813, level 11, time 1732946",
 0,
 },
 {
@@ -3016,47 +2711,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001ab393139c0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001bd3905b450\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001aad275de00\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Successfully instantiated mirrored storage object",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"769539911494100\" nowNs=\"769539912457200\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001abcebe4270\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001ab393139c0\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001abea3599c0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001abcebe4270\" state=\"(enum)6\"",
+"KillConnection conn=\"000001bcdb517dd0\" state=\"(enum)6\"",
 0,
 },
 {
@@ -3064,91 +2723,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/20/2026 (Thu) 22:19",
-0,
-},
-{
-"Time set to 8/20/2026 (Thu) 22:19",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Lua Error: GetAuraDataByIndex(): Auras cannot be accessed when secret while tainted by 'HandyNotes_Midnight'\nLua Taint: HandyNotes_Midnight\n[Interface/AddOns/Blizzard_MawBuffs/Blizzard_MawBuffs.lua]:4: in function 'ShouldShowMawBuffs'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:187: in function 'LayoutContents'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:147: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua:126>\n[C]: in function 'Update'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:64: in function <...ectiveTracker/Blizzard_ObjectiveTrackerContainer.lua:49>\n[tail call]: ?\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerContainer.lua]:219: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerModule.lua]:656: in function 'ForceExpand'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:814: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:793>\n[C]: in function 'Activate'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:710: in function 'CheckTimers'\n[Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ScenarioObjectiveTracker.lua]:664: in function <...jectiveTracker/Blizzard_ScenarioObjectiveTracker.lua:661>\n",
-3,
-},
-{
-"Sending ping results from timeout timeoutNs=\"771339907616500\" nowNs=\"771339911893600\"",
-0,
-},
-{
-"Completed challenge mode mapID 2859, level 11, time 1752888",
-0,
-},
-{
-"Successfully instantiated mirrored storage object",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001abcebe7960\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001abea3599c0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"KillConnection conn=\"000001abcebe7960\" state=\"(enum)7\"",
+"KillConnection conn=\"000001bd3905b450\" state=\"(enum)7\"",
 0,
 },
 {
@@ -3432,14 +3007,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Global capacity for Frame changed to 100000",
 0,
 },
@@ -3448,11 +3015,75 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
 "LimitedLuaResources: Addon capacity for Frame changed to 10000",
 0,
 },
 {
 "LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -3480,54 +3111,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Enabled = false",
 0,
 },
@@ -3536,19 +3119,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
@@ -3624,11 +3199,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"BGS_ code=\"ERROR_OK (0)\" name=\"DOOMAGE\" numGameAccounts=\"1\" numGameAccountNames=\"0\"",
+"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
 0,
 },
 {
-"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
+"BGS_ code=\"ERROR_OK (0)\" name=\"DOOMAGE\" numGameAccounts=\"1\" numGameAccountNames=\"0\"",
 0,
 },
 {
@@ -3644,7 +3219,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Reconnect token saved;  creationTime=\"1787292686\" expirationTime=\"1787307086\"",
+"Reconnect token saved;  creationTime=\"1787627567\" expirationTime=\"1787641967\"",
 0,
 },
 {
@@ -3672,11 +3247,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
@@ -3684,7 +3259,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787292602\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
+"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787620542\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
 0,
 },
 {
@@ -3696,7 +3271,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787292602\"",
+"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787620542\"",
 0,
 },
 {
@@ -3704,7 +3279,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sending ping results from timeout timeoutNs=\"772741902190600\" nowNs=\"772741904142300\"",
+"Sending ping results from timeout timeoutNs=\"112808091498400\" nowNs=\"112808107681800\"",
 0,
 },
 {
@@ -3712,7 +3287,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)0\" connPtr=\"0000017eaeb34e50\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)0\" connPtr=\"00000252ae970e10\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -3721,14 +3296,6 @@ Blizzard_Console_SavedVars = {
 },
 {
 "Screen invalid. Changing from=\"login\" to=\"charselect\"",
-0,
-},
-{
-"Connecting conn=\"(enum)2\" connPtr=\"0000017eaec388c0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000017eaeb34e50\" state=\"(enum)6\"",
 0,
 },
 {
@@ -3752,31 +3319,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
+"LimitedLuaResources: Global capacity for Font changed to 3000",
 0,
 },
 {
@@ -3788,7 +3331,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
 0,
 },
 {
@@ -3796,7 +3339,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
 0,
 },
 {
@@ -3804,11 +3363,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
 "LimitedLuaResources: Addon capacity for Font changed to 300",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
 0,
 },
 {
@@ -3840,11 +3407,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000017eaec35650\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"00000252ae8aa370\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008000",
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
 0,
 },
 {
@@ -3852,35 +3427,51 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c000",
+"Proficiency in item class 2 set to 0x0000004141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c400",
+"Proficiency in item class 2 set to 0x0000004143",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c400",
+"Proficiency in item class 4 set to 0x0000000029",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c480",
+"Proficiency in item class 4 set to 0x000000002d",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000004163",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 4 set to 0x000000003d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 2 set to 0x0000104163",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003f",
 0,
 },
 {
@@ -3888,7 +3479,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/20/2026 (Thu) 23:11",
+"Time set to 8/24/2026 (Mon) 20:13",
 0,
 },
 {
@@ -3896,11 +3487,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000017eaec55c00\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"00000252ae9e40d0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000017eaec35650\" state=\"(enum)6\"",
+"KillConnection conn=\"00000252ae8aa370\" state=\"(enum)6\"",
 0,
 },
 {
@@ -4000,7 +3591,415 @@ Blizzard_Console_SavedVars = {
 3,
 },
 {
-"KillConnection conn=\"0000017eaec55c00\" state=\"(enum)7\"",
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"KillConnection conn=\"00000252ae9e40d0\" state=\"(enum)7\"",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Suspend()",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002540f5b71c0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 8/24/2026 (Mon) 20:15",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"0000025437e682f0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002540f5b71c0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
+3,
+},
+{
+"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
+3,
+},
+{
+"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
+3,
+},
+{
+"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
+3,
+},
+{
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
+3,
+},
+{
+"KillConnection conn=\"0000025437e682f0\" state=\"(enum)7\"",
 0,
 },
 {
@@ -4028,8 +4027,9 @@ Blizzard_Console_SavedVars = {
 0,
 },
 },
-["isShown"] = false,
+["height"] = 300.0000610351563,
 ["fontHeight"] = 14,
+["isShown"] = false,
 ["commandHistory"] = {
 },
 }

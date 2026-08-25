@@ -362,3 +362,4 @@ EllesmereUIDamageMeters: enabled
 EllesmereUIChat: enabled
 EllesmereUIMythicTimer: enabled
 EllesmereUIQuestTracker: enabled
+BigWigs_TheVenomousAbyss: enabled

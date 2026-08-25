@@ -211,8 +211,8 @@ BAGANATOR_CONFIG = {
 ["character_bank_view_width"] = 14,
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-308.8301086425781,
-417.6059875488281,
+443.8301696777344,
+423.1615600585938,
 },
 ["currency_headers_collapsed"] = {
 },
@@ -243,8 +243,8 @@ BAGANATOR_CONFIG = {
 ["category_horizontal_spacing_2"] = 0.3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--256.77734375,
-378.4345703125,
+-196.2222900390625,
+386.6663513183594,
 },
 ["category_default_import"] = 3,
 ["add_to_category_buttons"] = true,

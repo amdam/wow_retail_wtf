@@ -151,13 +151,13 @@ SimulationCraftDB = {
 },
 },
 ["Kayne - Turalyon"] = {
-["frame"] = {
-["ofsx"] = 4.525201320648193,
-["ofsy"] = 5.171670436859131,
-},
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,
 ["hide"] = true,
+},
+["frame"] = {
+["ofsx"] = 4.525201320648193,
+["ofsy"] = 5.171670436859131,
 },
 },
 ["Luthro - Turalyon"] = {

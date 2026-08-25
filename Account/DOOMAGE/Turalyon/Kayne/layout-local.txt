@@ -37,7 +37,7 @@ H: 260
 Frame: EllesmereUIFrame
 FrameLevel: 100
 Anchor: TOP
-X: -76
-Y: 74
+X: -53
+Y: 45
 W: 1500
 H: 1154

@@ -110,12 +110,12 @@ CliqueDB3 = {
 ["blizzframes"] = {
 ["statusBarFix"] = false,
 },
-["spec2_profileKey"] = "Adamancy - Turalyon",
-["fastooc"] = false,
-["alerthidden"] = true,
 ["downclick"] = false,
-["spec3_profileKey"] = "Adamancy - Turalyon",
+["alerthidden"] = true,
+["fastooc"] = false,
+["spec2_profileKey"] = "Adamancy - Turalyon",
 ["specswap"] = false,
+["spec3_profileKey"] = "Adamancy - Turalyon",
 },
 ["Brewenjoyer - Turalyon"] = {
 ["spec1_profileKey"] = "Brewenjoyer - Turalyon",
@@ -339,12 +339,12 @@ CliqueDB3 = {
 ["blizzframes"] = {
 ["statusBarFix"] = false,
 },
+["spec3_profileKey"] = "Kayne - Turalyon",
+["fastooc"] = false,
+["specswap"] = false,
 ["downclick"] = false,
 ["spec2_profileKey"] = "Kayne - Turalyon",
-["fastooc"] = false,
 ["alerthidden"] = true,
-["specswap"] = false,
-["spec3_profileKey"] = "Kayne - Turalyon",
 },
 ["Fredus - Turalyon"] = {
 ["spec1_profileKey"] = "Fredus - Turalyon",
