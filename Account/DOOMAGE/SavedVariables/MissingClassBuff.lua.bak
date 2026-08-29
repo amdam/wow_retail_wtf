@@ -1,6 +1,7 @@
 
 MissingClassBuffDB = {
 ["profileKeys"] = {
+["Abel - Turalyon"] = "Default",
 ["Adamancy - Turalyon"] = "Default",
 ["Kayne - Turalyon"] = "Default",
 ["Jeryn - Bloodscalp"] = "Default",

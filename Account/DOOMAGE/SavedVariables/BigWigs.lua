@@ -43,136 +43,6 @@ BigWigs3DB = {
 ["Fredus - Turalyon"] = "Default",
 },
 ["namespaces"] = {
-["BigWigs_Plugins_AltPower"] = {
-["profiles"] = {
-["Quazii TWW S2"] = {
-["position"] = {
-nil,
-nil,
-467,
--129,
-},
-},
-},
-},
-["BigWigs_Plugins_InfoBox"] = {
-["profiles"] = {
-["Default"] = {
-["position"] = {
-nil,
-nil,
--532,
--24,
-},
-},
-["Quazii TWW S2"] = {
-["position"] = {
-nil,
-nil,
--418,
-160,
-},
-},
-},
-},
-["BigWigs_Plugins_Bars"] = {
-["profiles"] = {
-["Default"] = {
-["expPosition"] = {
-nil,
-nil,
--3,
--246,
-},
-},
-["Quazii TWW S2"] = {
-["outline"] = "OUTLINE",
-["emphasize"] = false,
-["visibleBarLimit"] = 3,
-["growup"] = true,
-["fontName"] = "Accidental Presidency",
-["barStyle"] = "ElvUI",
-["emphasizeGrowup"] = true,
-["normalHeight"] = 20,
-["spacing"] = 4,
-["expPosition"] = {
-[3] = -1,
-[4] = 111,
-},
-["fontSize"] = 16,
-["normalWidth"] = 205,
-["normalPosition"] = {
-[3] = 298,
-[4] = -151,
-},
-},
-},
-},
-["BigWigs_Plugins_PrivateAuras"] = {
-["global"] = {
-["showHelpTip"] = false,
-},
-["profiles"] = {
-["Quazii TWW S2"] = {
-["other"] = {
-["disabled"] = false,
-},
-["player"] = {
-["anchorXOffset"] = 67,
-["anchorYOffset"] = 316,
-},
-},
-},
-},
-["MythicPlus"] = {
-["global"] = {
-["showViewerTeleportTip"] = false,
-},
-["profiles"] = {
-["Quazii TWW S2"] = {
-["viewerPosition"] = {
-nil,
-nil,
-31,
--3,
-},
-},
-},
-},
-["BigWigs_Plugins_Auras"] = {
-["global"] = {
-["showHelpTip"] = false,
-},
-["profiles"] = {
-["Quazii TWW S2"] = {
-["player"] = {
-["anchorPoint"] = "LEFT",
-["anchorRelPoint"] = "LEFT",
-["anchorXOffset"] = 237,
-["anchorYOffset"] = 1,
-},
-},
-},
-},
-["BigWigs_Plugins_Messages"] = {
-["profiles"] = {
-["Quazii TWW S2"] = {
-["fontName"] = "Accidental Presidency",
-["fontSize"] = 22,
-},
-},
-},
-["BigWigs_Plugins_Proximity"] = {
-["profiles"] = {
-["Default"] = {
-["posx"] = 988.1890529389784,
-["posy"] = 695.7077913168177,
-["height"] = 119.9999618530273,
-["font"] = "Friz Quadrata TT",
-["width"] = 139.9999389648438,
-},
-},
-},
 ["BigWigs_Plugins_BossBlock"] = {
 ["global"] = {
 ["tableNeedsCopied"] = false,
@@ -226,34 +96,168 @@ true,
 },
 },
 },
+["BigWigs_Plugins_AltPower"] = {
+["profiles"] = {
+["Quazii TWW S2"] = {
+["position"] = {
+nil,
+nil,
+467,
+-129,
+},
+},
+},
+},
+["MythicPlus"] = {
+["global"] = {
+["showViewerTeleportTip"] = false,
+},
+["profiles"] = {
+["Quazii TWW S2"] = {
+["viewerPosition"] = {
+nil,
+nil,
+31,
+-3,
+},
+},
+},
+},
+["BigWigs_Plugins_Auras"] = {
+["global"] = {
+["showHelpTip"] = false,
+},
+["profiles"] = {
+["Quazii TWW S2"] = {
+["player"] = {
+["anchorPoint"] = "LEFT",
+["anchorXOffset"] = 237,
+["anchorYOffset"] = 1,
+["anchorRelPoint"] = "LEFT",
+},
+},
+},
+},
+["BigWigs_Plugins_Proximity"] = {
+["profiles"] = {
+["Default"] = {
+["posx"] = 988.1890529389784,
+["posy"] = 695.7077913168177,
+["height"] = 119.9999618530273,
+["font"] = "Friz Quadrata TT",
+["width"] = 139.9999389648438,
+},
+},
+},
+["BigWigs_Plugins_Messages"] = {
+["profiles"] = {
+["Quazii TWW S2"] = {
+["fontSize"] = 22,
+["fontName"] = "Accidental Presidency",
+},
+},
+},
+["BigWigs_Plugins_PrivateAuras"] = {
+["global"] = {
+["showHelpTip"] = false,
+},
+["profiles"] = {
+["Quazii TWW S2"] = {
+["other"] = {
+["disabled"] = false,
+},
+["player"] = {
+["anchorXOffset"] = 67,
+["anchorYOffset"] = 316,
+},
+},
+},
+},
+["BigWigs_Plugins_InfoBox"] = {
+["profiles"] = {
+["Default"] = {
+["position"] = {
+nil,
+nil,
+-532,
+-24,
+},
+},
+["Quazii TWW S2"] = {
+["position"] = {
+nil,
+nil,
+-418,
+160,
+},
+},
+},
+},
+["BigWigs_Plugins_Bars"] = {
+["profiles"] = {
+["Default"] = {
+["expPosition"] = {
+nil,
+nil,
+-3,
+-246,
+},
+},
+["Quazii TWW S2"] = {
+["outline"] = "OUTLINE",
+["normalWidth"] = 205,
+["growup"] = true,
+["normalHeight"] = 20,
+["visibleBarLimit"] = 3,
+["emphasizeGrowup"] = true,
+["spacing"] = 4,
+["barStyle"] = "ElvUI",
+["fontName"] = "Accidental Presidency",
+["fontSize"] = 16,
+["expPosition"] = {
+nil,
+nil,
+-1,
+111,
+},
+["emphasize"] = false,
+["normalPosition"] = {
+nil,
+nil,
+298,
+-151,
+},
+},
+},
+},
 },
 ["myKeystones"] = {
-["Player-3685-07F1620A"] = {
-["playerRating"] = 2318,
-["specId"] = 62,
+["Player-3685-099FD3E3"] = {
+["playerRating"] = 0,
+["specId"] = 256,
 ["keyMap"] = 0,
-["name"] = "Adamancy",
+["name"] = "Abel",
 ["keyLevel"] = 0,
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0990B6B7"] = {
-["playerRating"] = 0,
+["playerRating"] = 1008,
 ["specId"] = 251,
 ["keyMap"] = 0,
 ["name"] = "Kayne",
 ["keyLevel"] = 0,
 ["realm"] = "Turalyon",
 },
-["Player-3685-0722C2B9"] = {
-["playerRating"] = 0,
-["specId"] = 70,
-["keyMap"] = 0,
-["name"] = "Amdam",
-["keyLevel"] = 0,
+["Player-3685-07F1620A"] = {
+["playerRating"] = 2886,
+["specId"] = 62,
+["keyMap"] = 250,
+["name"] = "Adamancy",
+["keyLevel"] = 13,
 ["realm"] = "Turalyon",
 },
 },
-["prevWeeklyReset"] = 1787065200,
+["prevWeeklyReset"] = 1787670000,
 ["profiles"] = {
 ["Default"] = {
 },
@@ -1462,24 +1466,42 @@ BigWigsStatsDB = {
 },
 },
 [3004] = {
-[2888] = {
-["LFR"] = {
-["kills"] = 1,
-["fkDuration"] = 246.2889999999898,
-["best"] = 246.2889999999898,
-["bestDate"] = "2026/08/21",
-["fkDate"] = "2026/08/21",
-},
-},
 [2887] = {
 ["LFR"] = {
-["kills"] = 1,
+["kills"] = 2,
 ["fkDuration"] = 326.3630000000121,
 ["wipes"] = 1,
 ["fkWipes"] = 1,
 ["best"] = 326.3630000000121,
 ["bestDate"] = "2026/08/21",
 ["fkDate"] = "2026/08/21",
+},
+},
+[2874] = {
+["LFR"] = {
+["kills"] = 1,
+["fkDuration"] = 280.1130000000121,
+["best"] = 280.1130000000121,
+["bestDate"] = "2026/08/26",
+["fkDate"] = "2026/08/26",
+},
+},
+[2888] = {
+["LFR"] = {
+["kills"] = 2,
+["fkDuration"] = 246.2889999999898,
+["best"] = 246.2889999999898,
+["bestDate"] = "2026/08/21",
+["fkDate"] = "2026/08/21",
+},
+},
+[2882] = {
+["LFR"] = {
+["kills"] = 1,
+["fkDuration"] = 182.5899999999965,
+["best"] = 182.5899999999965,
+["bestDate"] = "2026/08/26",
+["fkDate"] = "2026/08/26",
 },
 },
 },

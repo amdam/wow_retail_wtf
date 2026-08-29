@@ -588,12 +588,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782831599"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202800"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -603,12 +598,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1779202800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1778597999"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1785855600"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1244,12 +1244,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782831599"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1779202800"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1259,12 +1254,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1779202800"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1778597999"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1785855600"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -4562,8 +4562,8 @@ PreydatorDB = {
 ["huntScanner"] = {
 ["difficultyRewardCache"] = {
 },
-["lastRewardScope"] = "Amdam-Turalyon@90",
-["lastRewardDay"] = "2026-08-24",
+["lastRewardScope"] = "Adamancy-Turalyon@90",
+["lastRewardDay"] = "2026-08-27",
 ["completedAchievements"] = {
 ["42330"] = true,
 ["16789"] = true,

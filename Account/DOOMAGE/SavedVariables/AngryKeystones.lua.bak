@@ -4,7 +4,20 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 ["state"] = {
+["mapID"] = 588,
+["splits"] = {
+460,
+836,
+1387,
+1442,
+},
 ["playerDeaths"] = {
+},
+["splitNames"] = {
+"Rav'i defeated",
+"The Writhing Coil defeated",
+"Zul'jan defeated",
+"Enemy Forces",
 },
 },
 ["rumors"] = {

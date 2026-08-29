@@ -3,6 +3,16 @@ VoidcoreAdvisorCharDB = {
 ["minimized"] = true,
 ["overviewMinimized"] = false,
 ["bonusRollLog"] = {
+{
+["timestamp"] = 1787722718,
+["difficultyID"] = 23,
+["itemID"] = 251129,
+["itemLink"] = "|cnIQ4:|Hitem:251129::::::::90:62::190:3:12849:6652:13662::::::|h[Counterfeit Clutches]|h|r",
+["specID"] = 63,
+["sourceID"] = 1304,
+["keyLevel"] = 11,
+["sourceType"] = "MYTHIC_PLUS",
+},
 },
 ["schemaVersion"] = 2,
 ["seasonFingerprint"] = "d1322,d1311,d1304,d1309,d1313,d1041,d1202,d1030,r1317,r1320",
@@ -20,5 +30,14 @@ VoidcoreAdvisorCharDB = {
 },
 },
 ["obtained"] = {
+["MYTHIC_PLUS:1304:23:266:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:63:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:64:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:258:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:265:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:267:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:62:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:257:251129:H"] = true,
+["MYTHIC_PLUS:1304:23:256:251129:H"] = true,
 },
 }

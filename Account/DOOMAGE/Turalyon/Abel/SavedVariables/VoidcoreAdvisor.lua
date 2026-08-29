@@ -1,0 +1,13 @@
+
+VoidcoreAdvisorCharDB = {
+["minimized"] = false,
+["seasonFingerprint"] = "d1322,d1311,d1304,d1309,d1313,d1041,d1202,d1030,r1317,r1320",
+["overviewMinimized"] = false,
+["bonusRollLog"] = {
+},
+["selectedItems"] = {
+},
+["schemaVersion"] = 2,
+["obtained"] = {
+},
+}

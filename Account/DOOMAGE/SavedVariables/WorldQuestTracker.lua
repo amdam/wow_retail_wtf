@@ -74,7 +74,7 @@ WQTrackerDB = {
 ["name"] = "Adrid",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE55EF"] = {
+["Player-3685-0EBE448E"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
@@ -109,9 +109,9 @@ WQTrackerDB = {
 ["name"] = "Powerpriest",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0A7F3116"] = {
-["class"] = "SHAMAN",
-["name"] = "Dreg",
+["Player-3685-0ECDE0E1"] = {
+["class"] = "ROGUE",
+["name"] = "Frake",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0EBE564F"] = {
@@ -124,9 +124,9 @@ WQTrackerDB = {
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0ECDE0E1"] = {
-["class"] = "ROGUE",
-["name"] = "Frake",
+["Player-3685-0EBE55EF"] = {
+["class"] = "SHAMAN",
+["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0EBE5595"] = {
@@ -149,9 +149,9 @@ WQTrackerDB = {
 ["name"] = "Fredus",
 ["realm"] = "Turalyon",
 },
-["Player-3685-099FD3E3"] = {
-["class"] = "PRIEST",
-["name"] = "Abel",
+["Player-3685-0A7F3116"] = {
+["class"] = "SHAMAN",
+["name"] = "Dreg",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0990B6B7"] = {
@@ -349,9 +349,9 @@ WQTrackerDB = {
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE448E"] = {
-["class"] = "SHAMAN",
-["name"] = "Brewenjoyer",
+["Player-3685-099FD3E3"] = {
+["class"] = "PRIEST",
+["name"] = "Abel",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0722C2B9"] = {
@@ -403,7 +403,7 @@ WQTrackerDB = {
 },
 ["Player-3685-0717BEFC"] = {
 },
-["Player-3685-0EBE55EF"] = {
+["Player-3685-0EBE448E"] = {
 },
 ["Player-3685-0EBE55BE"] = {
 },
@@ -417,13 +417,13 @@ WQTrackerDB = {
 },
 ["Player-3685-0E99D803"] = {
 },
-["Player-3685-0A7F3116"] = {
+["Player-3685-0ECDE0E1"] = {
 },
 ["Player-3685-0EBE564F"] = {
 },
 ["Player-3685-0EBE4479"] = {
 },
-["Player-3685-0ECDE0E1"] = {
+["Player-3685-0EBE55EF"] = {
 },
 ["Player-3685-0EBE5595"] = {
 },
@@ -433,7 +433,7 @@ WQTrackerDB = {
 },
 ["Player-3685-0ECEA118"] = {
 },
-["Player-3685-099FD3E3"] = {
+["Player-3685-0A7F3116"] = {
 },
 ["Player-3685-0990B6B7"] = {
 },
@@ -513,7 +513,7 @@ WQTrackerDB = {
 },
 ["Player-3685-0EBE559D"] = {
 },
-["Player-3685-0EBE448E"] = {
+["Player-3685-099FD3E3"] = {
 },
 ["Player-3685-0722C2B9"] = {
 },
@@ -530,10 +530,10 @@ WQTrackerDB = {
 ["Player-3685-0EBFE1C9"] = {
 },
 ["Player-3685-07F1620A"] = {
-[91981] = {
-["expireAt"] = 1787745616,
+[89267] = {
+["expireAt"] = 1787914868,
 ["rewardAmount"] = "|cff2292FF269",
-["rewardTexture"] = 7252745,
+["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
 },
 },
 ["Player-3685-0DFC95BB"] = {
@@ -543,46 +543,6 @@ WQTrackerDB = {
 ["Player-3685-07180DDD"] = {
 },
 ["Player-3685-099FD3E3"] = {
-[93397] = {
-["expireAt"] = 1775196045,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
-},
-[92141] = {
-["expireAt"] = 1775271616,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
-},
-[91802] = {
-["expireAt"] = 1775044876,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = 7252745,
-},
-[93577] = {
-["expireAt"] = 1775271645,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
-},
-[90962] = {
-["expireAt"] = 1774998165,
-["rewardAmount"] = "",
-["rewardTexture"] = 3016076,
-},
-[91981] = {
-["expireAt"] = 1775196016,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = "Interface\\ICONS\\INV_Belt_15",
-},
-[93071] = {
-["expireAt"] = 1775271616,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Talisman_07",
-},
-[93507] = {
-["expireAt"] = 1775044845,
-["rewardAmount"] = "|cff2292FF126",
-["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
-},
 },
 ["Player-3685-0ACADE27"] = {
 },
@@ -617,20 +577,10 @@ WQTrackerDB = {
 ["Player-3685-0EC41CD1"] = {
 },
 ["Player-3685-0990B6B7"] = {
-[91981] = {
-["expireAt"] = 1787745614,
-["rewardAmount"] = "|cff2292FF269",
-["rewardTexture"] = 7135735,
-},
-[93671] = {
-["expireAt"] = 1787720506,
-["rewardAmount"] = "|cff2292FF269",
-["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
-},
-[93664] = {
-["expireAt"] = 1787670106,
-["rewardAmount"] = "|cff2292FF266",
-["rewardTexture"] = 7876615,
+[51453] = {
+["expireAt"] = 1787842845,
+["rewardAmount"] = "|cffc557FF56",
+["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
 },
 },
 ["Player-3685-0722C2B9"] = {
@@ -1259,7 +1209,7 @@ WQTrackerDB = {
 [42013] = 2,
 [42276] = 1,
 [44751] = 1,
-[42014] = 2,
+[42269] = 1,
 [46010] = 1,
 [43328] = 3,
 [43336] = 1,
@@ -1274,7 +1224,7 @@ WQTrackerDB = {
 [41623] = 1,
 [42022] = 1,
 [44189] = 1,
-[42779] = 1,
+[44054] = 1,
 [41145] = 4,
 [43193] = 1,
 [41926] = 1,
@@ -1288,7 +1238,7 @@ WQTrackerDB = {
 [46325] = 1,
 [40978] = 1,
 [44811] = 1,
-[42269] = 1,
+[42014] = 2,
 [43807] = 2,
 [42795] = 1,
 [48732] = 1,
@@ -1400,7 +1350,7 @@ WQTrackerDB = {
 [42086] = 1,
 [44934] = 4,
 [48512] = 1,
-[44054] = 1,
+[42779] = 1,
 [47552] = 1,
 [43436] = 1,
 [46504] = 1,

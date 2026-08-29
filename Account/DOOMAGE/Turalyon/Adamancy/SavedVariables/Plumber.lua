@@ -1,6 +1,6 @@
 
 PlumberDB_PC = {
-["CurrencyCap:3446"] = 100,
+["CurrencyCap:3446"] = 200,
 ["CurrencyCap:3345"] = 600,
 ["CurrencyCap:3343"] = 800,
 ["CurrencyCap:3383"] = 300,

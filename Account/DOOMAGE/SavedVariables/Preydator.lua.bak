@@ -593,12 +593,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1785855600"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202800"] = {
+["server-week-1775573998"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -608,7 +608,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775573998"] = {
+["server-week-1779202800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -768,7 +768,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782831599"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1249,12 +1249,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1785855600"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779202800"] = {
+["server-week-1775573998"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1264,7 +1264,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775573998"] = {
+["server-week-1779202800"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1424,7 +1424,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782831599"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -4565,8 +4565,8 @@ PreydatorDB = {
 ["Kayne-Turalyon@90"] = true,
 ["Kaydan-Turalyon@90"] = false,
 },
-["lastRewardScope"] = "Kayne-Turalyon@90",
-["lastRewardDay"] = "2026-08-24",
+["lastRewardScope"] = "Adamancy-Turalyon@90",
+["lastRewardDay"] = "2026-08-26",
 ["questDifficultyByID"] = {
 ["91249"] = "hard",
 ["91247"] = "hard",

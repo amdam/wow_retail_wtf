@@ -4,7 +4,20 @@ AngryKeystones_Config = {
 }
 AngryKeystones_Data = {
 ["state"] = {
+["mapID"] = 399,
+["splits"] = {
+402,
+990,
+1377,
+1131,
+},
 ["playerDeaths"] = {
+},
+["splitNames"] = {
+"Melidrussa Chillworn defeated",
+"Kokia Blazehoof defeated",
+"Kyrakka and Erkhart Stormvein defeated",
+"Enemy Forces",
 },
 },
 ["rumors"] = {

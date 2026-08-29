@@ -243,8 +243,8 @@ BAGANATOR_CONFIG = {
 ["category_horizontal_spacing_2"] = 0.3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--196.2222900390625,
-386.6663513183594,
+-357.334228515625,
+350.5553588867188,
 },
 ["category_default_import"] = 3,
 ["add_to_category_buttons"] = true,

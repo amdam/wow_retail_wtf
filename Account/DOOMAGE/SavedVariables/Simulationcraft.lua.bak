@@ -1,5 +1,21 @@
 
 SimulationCraftDB = {
+["char"] = {
+["Adamancy - Turalyon"] = {
+["bonusRolls"] = {
+{
+["currency"] = 3418,
+["ts"] = 1787708280,
+["source"] = 279623,
+["season"] = 37,
+["keyLevel"] = 11,
+["spec"] = 63,
+["context"] = 16,
+["itemId"] = 251129,
+},
+},
+},
+},
 ["profileKeys"] = {
 ["Ezray - Turalyon"] = "Ezray - Turalyon",
 ["Wake - Bloodscalp"] = "Wake - Bloodscalp",
@@ -78,12 +94,12 @@ SimulationCraftDB = {
 ["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
-["minimap"] = {
-["minimapPos"] = 335.8394311084543,
-},
 ["frame"] = {
 ["ofsx"] = -20.74075317382813,
 ["ofsy"] = 16.59272956848145,
+},
+["minimap"] = {
+["minimapPos"] = 335.8394311084543,
 },
 },
 ["Furrys - Turalyon"] = {
@@ -157,13 +173,13 @@ SimulationCraftDB = {
 ["Luthro - Turalyon"] = {
 },
 ["Kayne - Turalyon"] = {
-["frame"] = {
-["ofsx"] = 4.525201320648193,
-["ofsy"] = 5.171670436859131,
-},
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,
 ["hide"] = true,
+},
+["frame"] = {
+["ofsx"] = 4.525201320648193,
+["ofsy"] = 5.171670436859131,
 },
 },
 ["Adrid - Turalyon"] = {
