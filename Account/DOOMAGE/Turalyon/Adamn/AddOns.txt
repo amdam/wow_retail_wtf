@@ -292,3 +292,4 @@ EllesmereUIChat: enabled
 EllesmereUIMythicTimer: enabled
 EllesmereUIQuestTracker: enabled
 BigWigs_TheVenomousAbyss: enabled
+BigWigs_MidnightLairs: enabled

@@ -3,6 +3,7 @@ NewSettingsSeen = {
 ["NAMEPLATES_LABEL"] = true,
 ["GameplaySoundEffects"] = true,
 ["SPELL_DIMINISH_SECTION_HEADER_LABEL"] = true,
+["raidFramesDisplayLargerRoleSpecificDebuffs"] = true,
 ["PROXY_RAID_SPELL_DENSITY"] = true,
 ["raidFramesCenterBigDefensive"] = true,
 ["raidFramesDispelIndicatorOverlay"] = true,
@@ -13,6 +14,6 @@ NewSettingsSeen = {
 ["raidFramesDispelIndicatorType"] = true,
 ["raidFramesDisplayClassColor"] = true,
 ["COMBAT_WARNINGS_LABEL"] = true,
-["raidFramesDisplayLargerRoleSpecificDebuffs"] = true,
+["ADVANCED_COOLDOWN_SETTINGS1"] = true,
 ["PROXY_ACCESSIBILITY_FONT_SIZE"] = true,
 }

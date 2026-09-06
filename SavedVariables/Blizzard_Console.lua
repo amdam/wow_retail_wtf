@@ -1,129 +1,138 @@
 
 Blizzard_Console_SavedVars = {
 ["version"] = 3,
+["height"] = 300.0000610351563,
 ["messageHistory"] = {
 {
-"Multithreaded decal passes disabled.",
+"Proficiency in item class 2 set to 0x000018c480",
 0,
 },
 {
-"Multithreaded outline passes enabled.",
+"Proficiency in item class 2 set to 0x000018c480",
 0,
 },
 {
-"Multithreaded lightshaft passes enabled.",
+"Proficiency in item class 4 set to 0x0000000023",
 0,
 },
 {
-"Use trigger on BeginDrawComplete enabled.",
-4,
-},
-{
-"Multithreaded alpha pass enabled.",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Multithreaded daynight update enabled.",
+"Time set to 9/4/2026 (Fri) 14:15",
 0,
 },
 {
-"Water detail changed to 1",
+"Gamespeed set from 0.017 to 0.017",
 0,
 },
 {
-"Ripple detail changed to 0",
+"Connecting conn=\"(enum)3\" connPtr=\"000002ac7ba21ca0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Reflection mode changed to 0",
+"KillConnection conn=\"000002ac7ba21a60\" state=\"(enum)6\"",
 0,
 },
 {
-"Reflection downscale changed to 0",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Sunshafts quality changed to 0",
+"Successfully instantiated mirrored storage object",
 0,
 },
 {
-"Refraction mode changed to 0",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:-1, Position (3550.96, 4836.99, 586.862)",
 0,
 },
 {
-"Volume fog disabled.",
+"[Airlock] Preload initiated for map 3003",
 0,
 },
 {
-"Particulate volumes disabled.",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:3003, Position (3558.03, 4837.36, 589.325)",
 0,
 },
 {
-"Projected textures enabled.",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"Shadow mode changed to 0 - Blob shadows",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:3003, Position (3558.03, 4837.36, 589.325)",
 0,
 },
 {
-"Shadow texture size changed to 1024.",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"Soft shadows changed to 0.",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:3003, Position (3558.03, 4837.36, 589.325)",
 0,
 },
 {
-"Shadow cascade blending changed to 0",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"Number of shadow cascades changed to 1",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:3003, Position (3558.03, 4837.36, 589.325)",
 0,
 },
 {
-"Shadow RT mode changed to 0 (Disabled)",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"maxLightCount must be in range 0 to 32.",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:3003, Position (3558.03, 4837.36, 589.325)",
 0,
 },
 {
-"CVar 'maxLightCount' failed validation for its initial value.",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"Clustered shading disabled.",
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:3003, Position (3558.03, 4837.36, 589.325)",
 0,
 },
 {
-"Not forcing clustered shading.",
+"[Airlock] Preload skipped - map is same as current map.",
 0,
 },
 {
-"SSAO mode set to 0",
+"Connecting conn=\"(enum)3\" connPtr=\"000002ad875df1d0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"SSAO type set to 0",
+"KillConnection conn=\"000002ac7ba21ca0\" state=\"(enum)6\"",
 0,
 },
 {
-"Depth Based Opacity Disabled",
+"[Airlock] Loading new map 3003 from previous map 0 with translation: (-5618.32, 9244.9, 584.744)\n    Location : (3558.99, 4805.16, 590.376)\n    Location in previous map : (9177.31, -4439.74, 5.63177)",
 0,
 },
 {
-"SkyCloudLOD set to 0",
+"[Airlock] Swapping to preloaded map 3003 and unloading map 0. (Map Table Size 24 larger than budget 8)",
 0,
 },
 {
-"Texture filtering mode updated.",
+"[Airlock] Finished transition to new map 3003",
 0,
 },
 {
-"Terrain mip level changed to 1.",
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:3003, PreviousTransitionID:-1, Position (9177.9, -4439.3, 5.52411)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 0",
+0,
+},
+{
+"Outline mode changed to 0",
 0,
 },
 {
@@ -131,203 +140,51 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Physics interaction level changed to 1",
+"Outline mode changed to 0",
 0,
 },
 {
-"Render scale changed to 1",
+"Outline mode changed to 2",
 0,
 },
 {
-"Resample quality changed to 3",
+"Outline mode changed to 0",
 0,
 },
 {
-"MSAA disabled",
+"Outline mode changed to 2",
 0,
 },
 {
-"MSAA for alpha-test enabled.",
+"Successfully instantiated mirrored storage object",
 0,
 },
 {
-"VALAR mode changed to 0",
+"World transfer pending...",
 0,
 },
 {
-"lodObjectSizeScale cannot be changed.",
+"Connecting conn=\"(enum)3\" connPtr=\"000002adaa804320\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Volume fog enabled.",
+"KillConnection conn=\"000002ad875df1d0\" state=\"(enum)6\"",
 0,
 },
 {
-"dynamicLod enabled",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"World preload object sort enabled.",
+"KillConnection conn=\"000002adaa804320\" state=\"(enum)7\"",
 0,
 },
 {
-"World load object sort enabled.",
+"-------------------------------------------------- Previous Session --------------------------------------------------",
 0,
 },
 {
-"World preload non critical enabled.",
-0,
-},
-{
-"World preload high res textures enabled.",
-0,
-},
-{
-"FFX: Color Blind Test Mode Disabled",
-0,
-},
-{
-"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
-0,
-},
-{
-"ChromaEffects enabled",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Enabled = false",
-0,
-},
-{
-"LimitedLuaResources: Enabled = false",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Font changed to 3000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Font changed to 3000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
-0,
-},
-{
-"Startup()",
+"LimitedLuaResources: Reset Timer",
 0,
 },
 {
@@ -335,263 +192,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Screen invalid. Changing from=\"none\" to=\"login\"",
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
 0,
 },
 {
-"Switching to screen=\"AccountLogin\" (from \"none\")",
-0,
-},
-{
-"From EnsureValidScreen",
-0,
-},
-{
-"Overlay is disabled.  Only internal builds and public China builds have it.",
-4,
-},
-{
-"Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
-0,
-},
-{
-"Resetting",
-0,
-},
-{
-"Initializing",
-0,
-},
-{
-"Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
-0,
-},
-{
-"Waiting for server response.",
-0,
-},
-{
-"Front connected connectionId=\"1\" title_id=\"5730135\" platform=\"Wn64\" locale=\"enUS\" usedToken=\"true\"",
-0,
-},
-{
-"Waiting for server response.",
-0,
-},
-{
-"OnSendLogon result=\"0\"",
-0,
-},
-{
-"Logon complete result=\"0\" numGameAccounts=\"1\"",
-0,
-},
-{
-"Waiting for server response.",
-0,
-},
-{
-"B code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
-0,
-},
-{
-"BGS_ code=\"ERROR_OK (0)\" name=\"DOOMAGE\" numGameAccounts=\"1\" numGameAccountNames=\"0\"",
-0,
-},
-{
-"BGS_ACCO code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"BG code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Updated game account list, not saving.",
-0,
-},
-{
-"Logon complete.",
-0,
-},
-{
-"Reconnect token saved;  creationTime=\"1787756264\" expirationTime=\"1787770664\"",
-0,
-},
-{
-"Waiting for realm list.",
-0,
-},
-{
-"Requesting realm list ticket",
-0,
-},
-{
-"Received realm list ticket code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Waiting for realm list.",
-0,
-},
-{
-"Received sub region list code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Requesting last played chars numSubRegions=\"5\"",
-0,
-},
-{
-"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
-0,
-},
-{
-"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
-0,
-},
-{
-"Received last played char code=\" (309)\" subRegion=\"34-2-89\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"2\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
-0,
-},
-{
-"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787723977\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
-0,
-},
-{
-"Received last played char code=\" (309)\" subRegion=\"76-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"4\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
-0,
-},
-{
-"Realm list ready.",
-0,
-},
-{
-"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787723977\"",
-0,
-},
-{
-"Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"241505234484500\" nowNs=\"241505247421200\"",
-0,
-},
-{
-"OnRealmJoin code=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Connecting conn=\"(enum)0\" connPtr=\"00000250a32b4a80\" protocol=\"(enum)0\"",
-0,
-},
-{
-"Received AuthedToWoW result=\"ERROR_OK (0)\"",
-0,
-},
-{
-"Screen invalid. Changing from=\"login\" to=\"charselect\"",
-0,
-},
-{
-"Switching to screen=\"CharacterSelect\" (from \"login\")",
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
 0,
 },
 {
 "From EnsureValidScreen",
-0,
-},
-{
-"Connected to Back. Disconnecting from Front.",
-0,
-},
-{
-"Front disconnecting connectionId=\"1\"",
-0,
-},
-{
-"Disconnecting from authentication server.",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Frame changed to 10000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Enabled = false",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Font changed to 3000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
-"Session with Battle.net established.",
-0,
-},
-{
-"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 130 entitlements.",
-0,
-},
-{
-"Front disconnected connectionId=\"1\" result=\"1016\"",
-0,
-},
-{
-"Disconnected from authentication server.",
 0,
 },
 {
@@ -607,11 +216,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"00000250a32bd5d0\" protocol=\"(enum)0\"",
+"Attempted to register existing command: SetDifficulty",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008000",
+"Connecting conn=\"(enum)3\" connPtr=\"000002ac7b98c810\" protocol=\"(enum)0\"",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
 0,
 },
 {
@@ -619,35 +240,55 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c000",
+"Proficiency in item class 2 set to 0x0000004141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c400",
+"Proficiency in item class 2 set to 0x0000004143",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c400",
+"Proficiency in item class 4 set to 0x0000000061",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c480",
+"Proficiency in item class 4 set to 0x0000000069",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 4 set to 0x000000006d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 2 set to 0x0000004163",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 4 set to 0x000000007d",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -655,7 +296,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 7:58",
+"Time set to 9/4/2026 (Fri) 14:30",
 0,
 },
 {
@@ -663,11 +304,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"00000250a3357fb0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000002adbb806290\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"00000250a32bd5d0\" state=\"(enum)6\"",
+"KillConnection conn=\"000002ac7b98c810\" state=\"(enum)6\"",
 0,
 },
 {
@@ -679,191 +320,187 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Connecting conn=\"(enum)3\" connPtr=\"000002adc087ac50\" protocol=\"(enum)0\"",
+0,
 },
 {
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"KillConnection conn=\"000002adbb806290\" state=\"(enum)6\"",
+0,
 },
 {
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Sending ping results from timeout timeoutNs=\"1043516996263600\" nowNs=\"1043517002897700\"",
+0,
 },
 {
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 0",
+0,
 },
 {
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
+"Outline mode changed to 2",
+0,
 },
 {
 "World transfer pending...",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000025163a53c20\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000002ad2f12dd10\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"00000250a3357fb0\" state=\"(enum)6\"",
+"KillConnection conn=\"000002adc087ac50\" state=\"(enum)6\"",
 0,
 },
 {
@@ -871,75 +508,47 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Changed difficulty successfully",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Outline mode changed to 0",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Outline mode changed to 2",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Sending ping results from timeout timeoutNs=\"1045317010810000\" nowNs=\"1045317015071100\"",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Outline mode changed to 0",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Outline mode changed to 2",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Completed challenge mode mapID 2825, level 10, time 1341869",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 8:07",
+"Successfully instantiated mirrored storage object",
 0,
-},
-{
-"Time set to 8/26/2026 (Wed) 8:07",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 8:07",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 8:07",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 8:07",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 8:07",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 8:07",
-0,
-},
-{
-"Lua Error: Interface/AddOns/BigWigs_Plugins/Auras.lua:1955: attempt to compare number with nil\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:1955: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:1942>\n[C]: ?\n[Interface/AddOns/BigWigs/Loader.lua]:1630: in function 'SendMessage'\n[Interface/AddOns/BigWigs_Plugins/Auras.lua]:681: in function <Interface/AddOns/BigWigs_Plugins/Auras.lua:677>\n[C]: ?\n[Interface/AddOns/TomTom/libs/AceConfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.lua]:45: in function <...nfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.lua:43>\n[Interface/AddOns/TomTom/libs/AceConfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.lua]:839: in function <...nfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.lua:661>\n[C]: ?\n[Interface/AddOns/TomTom/libs/AceGUI-3.0/AceGUI-3.0.lua]:66: in function <...terface/AddOns/TomTom/libs/AceGUI-3.0/AceGUI-3.0.lua:64>\n[Interface/AddOns/TomTom/libs/AceGUI-3.0/AceGUI-3.0.lua]:300: in function 'Fire'\n[Interface/AddOns/TomTom/libs/AceGUI-3.0/widgets/AceGUIWidget-Button.lua]:22: in function <...mTom/libs/AceGUI-3.0/widgets/AceGUIWidget-Button.lua:19>\n",
-3,
 },
 {
 "World transfer pending...",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000002523d047b10\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000002ad2f12cf90\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000025163a53c20\" state=\"(enum)6\"",
+"KillConnection conn=\"000002ad2f12dd10\" state=\"(enum)6\"",
 0,
 },
 {
@@ -947,7 +556,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"KillConnection conn=\"000002523d047b10\" state=\"(enum)7\"",
+"KillConnection conn=\"000002ad2f12cf90\" state=\"(enum)7\"",
 0,
 },
 {
@@ -1231,27 +840,35 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Font changed to 300",
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Font changed to 300",
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
+"LimitedLuaResources: Enabled = false",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
 0,
 },
 {
@@ -1263,35 +880,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Global capacity for Texture changed to 400000",
 0,
 },
 {
 "LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
@@ -1319,7 +912,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -1327,19 +932,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Enabled = false",
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
 0,
 },
 {
-"LimitedLuaResources: Enabled = false",
+"LimitedLuaResources: Addon capacity for Font changed to 300",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Addon capacity for Font changed to 300",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
 0,
 },
 {
@@ -1415,19 +1024,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
-0,
-},
-{
 "B code=\"ERROR_OK (0)\"",
 0,
 },
 {
-"BGS_ code=\"ERROR_OK (0)\" name=\"DOOMAGE\" numGameAccounts=\"1\" numGameAccountNames=\"0\"",
+"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
 0,
 },
 {
 "BG code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"BGS_ code=\"ERROR_OK (0)\" name=\"DOOMAGE\" numGameAccounts=\"1\" numGameAccountNames=\"0\"",
 0,
 },
 {
@@ -1443,7 +1052,1287 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Reconnect token saved;  creationTime=\"1787801178\" expirationTime=\"1787815578\"",
+"Reconnect token saved;  creationTime=\"1788573773\" expirationTime=\"1788588173\"",
+0,
+},
+{
+"Waiting for realm list.",
+0,
+},
+{
+"Requesting realm list ticket",
+0,
+},
+{
+"Received realm list ticket code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Waiting for realm list.",
+0,
+},
+{
+"Received sub region list code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Requesting last played chars numSubRegions=\"5\"",
+0,
+},
+{
+"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+0,
+},
+{
+"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+0,
+},
+{
+"Received last played char code=\" (309)\" subRegion=\"34-2-89\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"2\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+0,
+},
+{
+"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1788561425\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
+0,
+},
+{
+"Received last played char code=\" (309)\" subRegion=\"76-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"4\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+0,
+},
+{
+"Realm list ready.",
+0,
+},
+{
+"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1788561425\"",
+0,
+},
+{
+"Joining realm subRegion=\"1-1-89\" realmAddress=\"1-5-8\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1058991376263100\" nowNs=\"1058991392519900\"",
+0,
+},
+{
+"OnRealmJoin code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Connecting conn=\"(enum)0\" connPtr=\"0000028593754590\" protocol=\"(enum)0\"",
+0,
+},
+{
+"Received AuthedToWoW result=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Screen invalid. Changing from=\"login\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"login\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"Connected to Back. Disconnecting from Front.",
+0,
+},
+{
+"Front disconnecting connectionId=\"1\"",
+0,
+},
+{
+"Disconnecting from authentication server.",
+0,
+},
+{
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"Session with Battle.net established.",
+0,
+},
+{
+"[WowEntitlements] [BNetAccount-0-000000227B2E] [WowAccount-0-000000654164] Initialized with 130 entitlements.",
+0,
+},
+{
+"Front disconnected connectionId=\"1\" result=\"1016\"",
+0,
+},
+{
+"Disconnected from authentication server.",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Suspend()",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"0000028593769cb0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Time set to 9/4/2026 (Fri) 19:03",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002859384abd0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"0000028593769cb0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002859381ded0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002859384abd0\" state=\"(enum)6\"",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002872cbe6df0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002859381ded0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002873d738840\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002872cbe6df0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002873d973430\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002873d738840\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000286ce1307a0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002873d973430\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002872cc0bc00\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000286ce1307a0\" state=\"(enum)6\"",
+0,
+},
+{
+"Time set to 9/4/2026 (Fri) 19:23",
+0,
+},
+{
+"Time set to 9/4/2026 (Fri) 19:23",
+0,
+},
+{
+"Time set to 9/4/2026 (Fri) 19:23",
+0,
+},
+{
+"Time set to 9/4/2026 (Fri) 19:23",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002873d730ef0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002872cc0bc00\" state=\"(enum)6\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1060791196349000\" nowNs=\"1060791198695300\"",
+0,
+},
+{
+"KillConnection conn=\"000002873d730ef0\" state=\"(enum)7\"",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1062591323059400\" nowNs=\"1062591339328600\"",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Suspend()",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Attempted to register existing command: SetDifficulty",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000287a7d250d0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000021",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004141",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004143",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000061",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x0000000069",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000006d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000004163",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007d",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Time set to 9/4/2026 (Fri) 20:29",
+0,
+},
+{
+"Gamespeed set from 0.017 to 0.017",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002872cc0e4b0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000287a7d250d0\" state=\"(enum)6\"",
+0,
+},
+{
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002872c2c3b10\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002872cc0e4b0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1064391262521200\" nowNs=\"1064391263312700\"",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:0, PreviousTransitionID:-1, Position (3558.93, 4837.81, 589.426)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 3003",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000286e166e610\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002872c2c3b10\" state=\"(enum)6\"",
+0,
+},
+{
+"[Airlock] Loading new map 3003 from previous map 0 with translation: (-5618.32, 9244.9, 584.744)\n    Location : (3559.89, 4805.61, 590.477)\n    Location in previous map : (9178.21, -4439.29, 5.73303)",
+0,
+},
+{
+"[Airlock] Swapping to preloaded map 3003 and unloading map 0. (Map Table Size 24 larger than budget 8)",
+0,
+},
+{
+"[Airlock] Finished transition to new map 3003",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:3003, Current MapID:3003, PreviousTransitionID:-1, Position (3559.89, 4805.61, 590.477)",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:3003, PreviousTransitionID:-1, Position (9177.9, -4439.3, 5.52411)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 0",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000286ceb1c4b0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000286e166e610\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received Cancel Preload for MapID 3003, but we have not preloaded it. Current preloaded map: -1",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000287569071c0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000286ceb1c4b0\" state=\"(enum)6\"",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:3077, Current MapID:0, PreviousTransitionID:-1, Position (5508.98, -13145.5, 42.0658)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 3077, with already loaded cosmetic parent 0",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000002859375abf0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"00000287569071c0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:0, PreviousTransitionID:-1, Position (5509.1, -13132.5, 42.0659)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1066191321233200\" nowNs=\"1066191322901600\"",
+0,
+},
+{
+"Added house xp xp=\"50\"",
+0,
+},
+{
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"00000287a7d33170\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000002859375abf0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"GameTimeSync: delta=0, differential=1, HoursAndMinutes=1289",
+0,
+},
+{
+"KillConnection conn=\"00000287a7d33170\" state=\"(enum)7\"",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"LimitedLuaResources: Reset Timer",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"charselect\"",
+0,
+},
+{
+"Switching to screen=\"CharacterSelect\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"-------------------------------------------------- Previous Session --------------------------------------------------",
+0,
+},
+{
+"Multithreaded rendering enabled.",
+0,
+},
+{
+"Multithreaded BeginDraw enabled.",
+0,
+},
+{
+"Multithread shadows changed to 1.",
+0,
+},
+{
+"Multithreaded prepass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded opaque pass enabled.",
+0,
+},
+{
+"Multithreaded alpha M2 pass enabled.",
+0,
+},
+{
+"Multithreaded opaque WMO pass enabled.",
+0,
+},
+{
+"Multithreaded terrain pass enabled.",
+0,
+},
+{
+"Multithreaded volumetric fog enabled.",
+0,
+},
+{
+"Multithreaded Refraction Pass enabled.",
+0,
+},
+{
+"Multithreaded miscellaneous passes enabled.",
+0,
+},
+{
+"Multithreaded decal passes disabled.",
+0,
+},
+{
+"Multithreaded outline passes enabled.",
+0,
+},
+{
+"Multithreaded lightshaft passes enabled.",
+0,
+},
+{
+"Use trigger on BeginDrawComplete enabled.",
+4,
+},
+{
+"Multithreaded alpha pass enabled.",
+0,
+},
+{
+"Multithreaded daynight update enabled.",
+0,
+},
+{
+"Water detail changed to 1",
+0,
+},
+{
+"Ripple detail changed to 0",
+0,
+},
+{
+"Reflection mode changed to 0",
+0,
+},
+{
+"Reflection downscale changed to 0",
+0,
+},
+{
+"Sunshafts quality changed to 0",
+0,
+},
+{
+"Refraction mode changed to 0",
+0,
+},
+{
+"Volume fog disabled.",
+0,
+},
+{
+"Particulate volumes disabled.",
+0,
+},
+{
+"Projected textures enabled.",
+0,
+},
+{
+"Shadow mode changed to 0 - Blob shadows",
+0,
+},
+{
+"Shadow texture size changed to 1024.",
+0,
+},
+{
+"Soft shadows changed to 0.",
+0,
+},
+{
+"Shadow cascade blending changed to 0",
+0,
+},
+{
+"Number of shadow cascades changed to 1",
+0,
+},
+{
+"Shadow RT mode changed to 0 (Disabled)",
+0,
+},
+{
+"maxLightCount must be in range 0 to 32.",
+0,
+},
+{
+"CVar 'maxLightCount' failed validation for its initial value.",
+0,
+},
+{
+"Clustered shading disabled.",
+0,
+},
+{
+"Not forcing clustered shading.",
+0,
+},
+{
+"SSAO mode set to 0",
+0,
+},
+{
+"SSAO type set to 0",
+0,
+},
+{
+"Depth Based Opacity Disabled",
+0,
+},
+{
+"SkyCloudLOD set to 0",
+0,
+},
+{
+"Texture filtering mode updated.",
+0,
+},
+{
+"Terrain mip level changed to 1.",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Physics interaction level changed to 1",
+0,
+},
+{
+"Render scale changed to 1",
+0,
+},
+{
+"Resample quality changed to 3",
+0,
+},
+{
+"MSAA disabled",
+0,
+},
+{
+"MSAA for alpha-test enabled.",
+0,
+},
+{
+"VALAR mode changed to 0",
+0,
+},
+{
+"lodObjectSizeScale cannot be changed.",
+0,
+},
+{
+"Volume fog enabled.",
+0,
+},
+{
+"dynamicLod enabled",
+0,
+},
+{
+"World preload object sort enabled.",
+0,
+},
+{
+"World load object sort enabled.",
+0,
+},
+{
+"World preload non critical enabled.",
+0,
+},
+{
+"World preload high res textures enabled.",
+0,
+},
+{
+"FFX: Color Blind Test Mode Disabled",
+0,
+},
+{
+"CVar 'Sound_AmbienceHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_AllyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_EnemyPlayerHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"CVar 'Sound_NPCHighpassDSPCutoff' failed validation for its initial value.",
+0,
+},
+{
+"ChromaEffects enabled",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Frame changed to 10000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
+"Startup()",
+0,
+},
+{
+"Resume()",
+0,
+},
+{
+"Screen invalid. Changing from=\"none\" to=\"login\"",
+0,
+},
+{
+"Switching to screen=\"AccountLogin\" (from \"none\")",
+0,
+},
+{
+"From EnsureValidScreen",
+0,
+},
+{
+"Overlay is disabled.  Only internal builds and public China builds have it.",
+4,
+},
+{
+"Starting login launcherPortal=\"us.actual.battle.net\" loginPortal=\"us.actual.battle.net:1119\"",
+0,
+},
+{
+"Resetting",
+0,
+},
+{
+"Initializing",
+0,
+},
+{
+"Attempting logon host=\"us.actual.battle.net\" port=\"1119\"",
+0,
+},
+{
+"Waiting for server response.",
+0,
+},
+{
+"Front connected connectionId=\"1\" title_id=\"5730135\" platform=\"Wn64\" locale=\"enUS\" usedToken=\"true\"",
+0,
+},
+{
+"Waiting for server response.",
+0,
+},
+{
+"OnSendLogon result=\"0\"",
+0,
+},
+{
+"Logon complete result=\"0\" numGameAccounts=\"1\"",
+0,
+},
+{
+"Waiting for server response.",
+0,
+},
+{
+"B code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
+0,
+},
+{
+"BGS_ code=\"ERROR_OK (0)\" name=\"DOOMAGE\" numGameAccounts=\"1\" numGameAccountNames=\"0\"",
+0,
+},
+{
+"BGS_ACCO code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"BG code=\"ERROR_OK (0)\"",
+0,
+},
+{
+"Updated game account list, not saving.",
+0,
+},
+{
+"Logon complete.",
+0,
+},
+{
+"Reconnect token saved;  creationTime=\"1788619594\" expirationTime=\"1788633994\"",
 0,
 },
 {
@@ -1479,7 +2368,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787757937\" numRegions=\"5\" numRegionsWithData=\"2\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
+"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1788582711\" numRegions=\"5\" numRegionsWithData=\"2\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
 0,
 },
 {
@@ -1495,7 +2384,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787757937\"",
+"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1788582711\"",
 0,
 },
 {
@@ -1503,7 +2392,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sending ping results from timeout timeoutNs=\"286417375782000\" nowNs=\"286417392025400\"",
+"Sending ping results from timeout timeoutNs=\"1104810966519300\" nowNs=\"1104810982768400\"",
 0,
 },
 {
@@ -1511,7 +2400,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)0\" connPtr=\"000001b9907e36c0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)0\" connPtr=\"000001b59070e410\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -1547,7 +2436,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Font changed to 300",
+0,
+},
+{
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for FontString changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Texture changed to 40000",
 0,
 },
 {
@@ -1559,39 +2468,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for FontString changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
 "LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Texture changed to 40000",
-0,
-},
-{
-"LimitedLuaResources: Enabled = false",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
 0,
 },
 {
@@ -1599,7 +2480,15 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Font changed to 300",
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -1631,7 +2520,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001ba12bd5870\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b5b8eccf20\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -1703,7 +2592,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 20:26",
+"Time set to 9/5/2026 (Sat) 7:47",
 0,
 },
 {
@@ -1711,11 +2600,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001ba12bd5990\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b62825d8e0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001ba12bd5870\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b5b8eccf20\" state=\"(enum)6\"",
 0,
 },
 {
@@ -1727,183 +2616,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
+"Added house xp to all houses on account xp=\"10\"",
+0,
 },
 {
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"KillConnection conn=\"000001ba12bd5990\" state=\"(enum)7\"",
+"KillConnection conn=\"000001b62825d8e0\" state=\"(enum)7\"",
 0,
 },
 {
@@ -1947,11 +2664,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001b94a023650\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b6ca02f140\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008000",
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
 0,
 },
 {
@@ -1959,35 +2684,51 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c000",
+"Proficiency in item class 2 set to 0x0000004141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c400",
+"Proficiency in item class 2 set to 0x0000004143",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c400",
+"Proficiency in item class 4 set to 0x0000000029",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c480",
+"Proficiency in item class 4 set to 0x000000002d",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000004163",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 4 set to 0x000000003d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 2 set to 0x0000104163",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000003f",
 0,
 },
 {
@@ -1995,7 +2736,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 20:27",
+"Time set to 9/5/2026 (Sat) 8:04",
 0,
 },
 {
@@ -2003,331 +2744,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001b9572a20c0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b6b4c5a620\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001b94a023650\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Successfully instantiated mirrored storage object",
-0,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001bac256d240\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001b9572a20c0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001baaf03ec50\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001bac256d240\" state=\"(enum)6\"",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001bac2542f40\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001baaf03ec50\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001baaf0407e0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001bac2542f40\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 20:33",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 20:33",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"288217353611800\" nowNs=\"288217356847800\"",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Completed challenge mode mapID 2825, level 11, time 1696642",
-0,
-},
-{
-"Added house xp xp=\"50\"",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001bbd36180c0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001baaf0407e0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b6ca02f140\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2339,27 +2760,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
+"[Airlock] Received PreloadMap Destination MapID:2933, Current MapID:0, PreviousTransitionID:-1, Position (8773.51, -4470.37, 78.3117)",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001b9572a2c00\" protocol=\"(enum)0\"",
+"[Airlock] Preload initiated for map 2933, with already loaded cosmetic parent 0",
 0,
 },
 {
-"KillConnection conn=\"000001bbd36180c0\" state=\"(enum)6\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b6ca04a5f0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001baaed49cf0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001b9572a2c00\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b6b4c5a620\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2367,23 +2780,43 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 21:10",
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:0, PreviousTransitionID:-1, Position (8781.1, -4466.19, 78.3117)",
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 21:10",
+"Outline mode changed to 0",
 0,
 },
 {
-"Changed difficulty successfully",
+"Outline mode changed to 2",
 0,
 },
 {
-"Sending ping results from timeout timeoutNs=\"290017330517600\" nowNs=\"290017334459900\"",
+"Outline mode changed to 0",
 0,
 },
 {
-"Completed challenge mode mapID 2859, level 11, time 1468101",
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1106610917265500\" nowNs=\"1106610919074700\"",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
 0,
 },
 {
@@ -2391,11 +2824,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001bbd3ae94b0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b68be86b70\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001baaed49cf0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b6ca04a5f0\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2407,11 +2840,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001bbd3adfd00\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b69c1046e0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001bbd3ae94b0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b68be86b70\" state=\"(enum)6\"",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2963, Current MapID:2694, PreviousTransitionID:-1, Position (-776.507, -1787, 917.066)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2963, with already loaded cosmetic parent 2694",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001b6e41d1d00\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001b69c1046e0\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2419,15 +2868,47 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
+"Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001bb5de9f1a0\" protocol=\"(enum)0\"",
+"[Airlock] Received PreloadMap Destination MapID:2694, Current MapID:2694, PreviousTransitionID:-1, Position (-783.761, -1797.58, 913.395)",
 0,
 },
 {
-"KillConnection conn=\"000001bbd3adfd00\" state=\"(enum)6\"",
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Skill 2916 increased from 93 to 94",
 0,
 },
 {
@@ -2439,11 +2920,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001baaeef7ae0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b69c0f2b00\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001bb5de9f1a0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b6e41d1d00\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2451,23 +2932,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/26/2026 (Wed) 21:42",
-0,
-},
-{
-"Time set to 8/26/2026 (Wed) 21:42",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"291817259578200\" nowNs=\"291817261105300\"",
-0,
-},
-{
-"Completed challenge mode mapID 1762, level 12, time 1659375",
+"Sending ping results from timeout timeoutNs=\"1108410889290500\" nowNs=\"1108410889406900\"",
 0,
 },
 {
@@ -2475,11 +2940,31 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001b9a3b40ad0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b6b468bf00\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001baaeef7ae0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b69c0f2b00\" state=\"(enum)6\"",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:3038, Current MapID:0, PreviousTransitionID:-1, Position (4360.06, -12592, 84.0135)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 3038, with already loaded cosmetic parent 0",
+0,
+},
+{
+"[Airlock] Cancel Preload of cosmetic child with MapID:3038",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"000001b6ca0757c0\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"000001b6b468bf00\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2487,7 +2972,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Successfully instantiated mirrored storage object",
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:0, PreviousTransitionID:-1, Position (4347.43, -12580.9, 83.8296)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1110210928388600\" nowNs=\"1110210930598300\"",
 0,
 },
 {
@@ -2495,23 +3000,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"000001bbd3af26c0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"000001b68c6f2910\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"000001b9a3b40ad0\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001ba12be44b0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001bbd3af26c0\" state=\"(enum)6\"",
+"KillConnection conn=\"000001b6ca0757c0\" state=\"(enum)6\"",
 0,
 },
 {
@@ -2519,63 +3012,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Changed difficulty successfully",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"293617299844400\" nowNs=\"293617300320800\"",
-0,
-},
-{
-"Added house xp xp=\"25\"",
-0,
-},
-{
-"Completed challenge mode mapID 2993, level 10, time 1441751",
-0,
-},
-{
-"Successfully instantiated mirrored storage object",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001ba893054e0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001ba12be44b0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"000001baaef201f0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"000001ba893054e0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"295417298324600\" nowNs=\"295417331492100\"",
-0,
-},
-{
-"Successfully instantiated mirrored storage object",
-0,
-},
-{
-"KillConnection conn=\"000001baaef201f0\" state=\"(enum)7\"",
+"KillConnection conn=\"000001b68c6f2910\" state=\"(enum)7\"",
 0,
 },
 {
@@ -2859,27 +3296,35 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Font changed to 300",
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Font changed to 300",
+"LimitedLuaResources: Global capacity for Animation changed to 50000",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
+"LimitedLuaResources: Enabled = false",
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
+"LimitedLuaResources: Enabled = false",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Font changed to 3000",
 0,
 },
 {
@@ -2891,35 +3336,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Animation changed to 50000",
-0,
-},
-{
 "LimitedLuaResources: Global capacity for Texture changed to 400000",
 0,
 },
 {
 "LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Timer changed to 500",
 0,
 },
 {
@@ -2947,7 +3368,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -2955,19 +3388,23 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Enabled = false",
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
 0,
 },
 {
-"LimitedLuaResources: Enabled = false",
+"LimitedLuaResources: Addon capacity for Font changed to 300",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Addon capacity for Font changed to 300",
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Font changed to 3000",
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
 0,
 },
 {
@@ -3047,11 +3484,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"BG code=\"ERROR_OK (0)\"",
+"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
 0,
 },
 {
-"Received auth token  code=\"ERROR_OK (0)\" gotCredentials=\"true\"",
+"BGS_ACCO code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -3059,7 +3496,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"BGS_ACCO code=\"ERROR_OK (0)\"",
+"BG code=\"ERROR_OK (0)\"",
 0,
 },
 {
@@ -3071,7 +3508,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Reconnect token saved;  creationTime=\"1787888054\" expirationTime=\"1787902454\"",
+"Reconnect token saved;  creationTime=\"1788635635\" expirationTime=\"1788650035\"",
 0,
 },
 {
@@ -3099,19 +3536,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"34-2-89\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"0\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\" (309)\" subRegion=\"71-1-59\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"1\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
-"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1787810710\" numRegions=\"5\" numRegionsWithData=\"2\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
+"Received last played char code=\" (309)\" subRegion=\"21-1-50\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"2\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
 0,
 },
 {
-"Received last played char code=\" (309)\" subRegion=\"34-2-89\" lastPlayedTime=\"0\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"0\" licensesCount=\"0\" realmEntry=\"{\"wowRealmAddress\":0,\"useBleepChance\":0.0,\"cfgTimezonesID\":0,\"populationState\":0,\"cfgCategoriesID\":0,\"version\":{\"versionMajor\":0,\"versionBuild\":0,\"versionMinor\":0,\"versionRevision\":0},\"cfgRealmsID\":0,\"gameServiceRegionId\":0,\"flags\":0,\"name\":\"\",\"cfgConfigsID\":0,\"cfgContentSetID\":0,\"cfgLanguagesID\":0}\"",
+"Received last played char code=\"ERROR_OK (0)\" subRegion=\"1-1-89\" lastPlayedTime=\"1788625188\" numRegions=\"5\" numRegionsWithData=\"3\" realmPermissions=\"3\" licensesCount=\"1\" realmEntry=\"{\"wowRealmAddress\":17104904,\"useBleepChance\":0.0,\"cfgTimezonesID\":4,\"populationState\":1,\"cfgCategoriesID\":2,\"version\":{\"versionMajor\":12,\"versionBuild\":68914,\"versionMinor\":1,\"versionRevision\":0},\"cfgRealmsID\":1265,\"gameServiceRegionId\":1,\"flags\":0,\"name\":\"Turalyon\",\"cfgConfigsID\":1,\"cfgContentSetID\":0,\"cfgLanguagesID\":1}\"",
 0,
 },
 {
@@ -3123,7 +3560,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1787810710\"",
+"Found most recently played char. Joining realm. lastPlayedRegion=\"1-1-89\" realmAddress=\"17104904\" lastActiveTime=\"1788625188\"",
 0,
 },
 {
@@ -3131,7 +3568,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Sending ping results from timeout timeoutNs=\"373290947838000\" nowNs=\"373290964027200\"",
+"Sending ping results from timeout timeoutNs=\"1120851828285900\" nowNs=\"1120851844285500\"",
 0,
 },
 {
@@ -3139,7 +3576,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)0\" connPtr=\"0000020e8004b060\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)0\" connPtr=\"0000013c950f9de0\" protocol=\"(enum)0\"",
 0,
 },
 {
@@ -3171,10 +3608,6 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for Font changed to 300",
-0,
-},
-{
 "LimitedLuaResources: Addon capacity for Frame changed to 10000",
 0,
 },
@@ -3183,11 +3616,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+"LimitedLuaResources: Addon capacity for Font changed to 300",
 0,
 },
 {
@@ -3195,23 +3624,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Addon capacity for FontString changed to 5000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
-0,
-},
-{
-"LimitedLuaResources: Addon capacity for Timer changed to 500",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for Frame changed to 100000",
-0,
-},
-{
-"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
+"LimitedLuaResources: Global capacity for Texture changed to 400000",
 0,
 },
 {
@@ -3219,15 +3632,39 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"LimitedLuaResources: Global capacity for Texture changed to 400000",
-0,
-},
-{
 "LimitedLuaResources: Addon capacity for Texture changed to 40000",
 0,
 },
 {
+"LimitedLuaResources: Addon capacity for FontString changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Animation changed to 5000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for Frame changed to 100000",
+0,
+},
+{
 "LimitedLuaResources: Global capacity for Animation changed to 50000",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for Timer changed to 500",
+0,
+},
+{
+"LimitedLuaResources: Addon capacity for AnimGroup changed to 2000",
+0,
+},
+{
+"LimitedLuaResources: Global capacity for AnimGroup changed to 20000",
 0,
 },
 {
@@ -3259,11 +3696,19 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000020e69e1e870\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"0000013c359a6a30\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x0000008000",
+"Proficiency in item class 2 set to 0x0000000100",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000101",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000000141",
 0,
 },
 {
@@ -3271,35 +3716,55 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c000",
+"Proficiency in item class 2 set to 0x0000004141",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000000c400",
+"Proficiency in item class 2 set to 0x0000004143",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c400",
+"Proficiency in item class 4 set to 0x0000000061",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000010c480",
+"Proficiency in item class 4 set to 0x0000000069",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 4 set to 0x000000006d",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 2 set to 0x0000004163",
 0,
 },
 {
-"Proficiency in item class 2 set to 0x000018c480",
+"Proficiency in item class 4 set to 0x000000007d",
 0,
 },
 {
-"Proficiency in item class 4 set to 0x0000000023",
+"Proficiency in item class 2 set to 0x0000104163",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x0000104173",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
+0,
+},
+{
+"Proficiency in item class 2 set to 0x00001041f3",
+0,
+},
+{
+"Proficiency in item class 4 set to 0x000000007f",
 0,
 },
 {
@@ -3307,7 +3772,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/27/2026 (Thu) 20:34",
+"Time set to 9/5/2026 (Sat) 12:14",
 0,
 },
 {
@@ -3315,11 +3780,11 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000020e69e396c0\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"0000013d0ec0f5a0\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000020e69e1e870\" state=\"(enum)6\"",
+"KillConnection conn=\"0000013c359a6a30\" state=\"(enum)6\"",
 0,
 },
 {
@@ -3331,187 +3796,103 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 132484. Parent: 132482.  Modifier not supported on client (type=174, asset=59755, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 343955 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344017 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344018 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344024 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344028 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344115 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344223 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 344224 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 444810 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"ModifierTree: 296564. Parent: 296552.  Modifier not supported on client (type=174, asset=82817, secondaryAsset=0, tertiaryAsset=0). Put in a task to add this.",
-3,
-},
-{
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1230979 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236628 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1236850 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1238765 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1245978 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1264339 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1265418 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1266478 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1289482 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1290027 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Spell 1297936 tried to cast with a spellVisualScript evaluated on the client.  This is unsupported.",
-3,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020ef7a82450\" protocol=\"(enum)0\"",
+"Login failed due to challenge URL timeout.",
 0,
 },
 {
-"KillConnection conn=\"0000020e69e396c0\" state=\"(enum)6\"",
+"Fatal error while logging in result=\"2147483973\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1122651765087500\" nowNs=\"1122651768285100\"",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1124451713703600\" nowNs=\"1124451715441300\"",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2933, Current MapID:0, PreviousTransitionID:-1, Position (8762.98, -4477.37, 78.7277)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2933, with already loaded cosmetic parent 0",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:2933, Current MapID:0, PreviousTransitionID:-1, Position (8780.03, -4465.12, 78.312)",
+0,
+},
+{
+"[Airlock] Preload initiated for map 2933, with already loaded cosmetic parent 0",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"0000013ebfb46630\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"0000013d0ec0f5a0\" state=\"(enum)6\"",
+0,
+},
+{
+"Weather changed to 0, intensity 0.000000\n",
+0,
+},
+{
+"[Airlock] Received PreloadMap Destination MapID:0, Current MapID:0, PreviousTransitionID:-1, Position (8780.03, -4465.12, 78.312)",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Sending ping results from timeout timeoutNs=\"1126251743917500\" nowNs=\"1126251745711400\"",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"World transfer pending...",
+0,
+},
+{
+"Connecting conn=\"(enum)3\" connPtr=\"0000013e37702280\" protocol=\"(enum)0\"",
+0,
+},
+{
+"KillConnection conn=\"0000013ebfb46630\" state=\"(enum)6\"",
 0,
 },
 {
@@ -3523,55 +3904,35 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000020fbaa4de30\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"0000013dfa719220\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000020ef7a82450\" state=\"(enum)6\"",
+"KillConnection conn=\"0000013e37702280\" state=\"(enum)6\"",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"[Airlock] Received PreloadMap Destination MapID:2963, Current MapID:2694, PreviousTransitionID:-1, Position (-779.578, -1792.88, 914.519)",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000020fad44e540\" protocol=\"(enum)0\"",
+"[Airlock] Preload initiated for map 2963, with already loaded cosmetic parent 2694",
 0,
 },
 {
-"KillConnection conn=\"0000020fbaa4de30\" state=\"(enum)6\"",
+"[Airlock] Received PreloadMap Destination MapID:2963, Current MapID:2694, PreviousTransitionID:-1, Position (-783.823, -1798.72, 913.027)",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"[Airlock] Preload initiated for map 2963, with already loaded cosmetic parent 2694",
 0,
 },
 {
-"Time set to 8/27/2026 (Thu) 20:40",
+"Connecting conn=\"(enum)3\" connPtr=\"0000013dc1146090\" protocol=\"(enum)0\"",
 0,
 },
 {
-"Time set to 8/27/2026 (Thu) 20:40",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 20:41",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 20:41",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020fc0424280\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020fad44e540\" state=\"(enum)6\"",
+"KillConnection conn=\"0000013dfa719220\" state=\"(enum)6\"",
 0,
 },
 {
@@ -3579,127 +3940,27 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"Time set to 8/27/2026 (Thu) 20:43",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 20:43",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020fad4452a0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020fc0424280\" state=\"(enum)6\"",
-0,
-},
-{
 "Weather changed to 0, intensity 0.000000\n",
 0,
 },
 {
-"World transfer pending...",
+"[Airlock] Received PreloadMap Destination MapID:2694, Current MapID:2694, PreviousTransitionID:-1, Position (-783.823, -1798.72, 913.027)",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000020e94df6b50\" protocol=\"(enum)0\"",
+"Outline mode changed to 0",
 0,
 },
 {
-"KillConnection conn=\"0000020fad4452a0\" state=\"(enum)6\"",
+"Outline mode changed to 2",
 0,
 },
 {
-"Weather changed to 0, intensity 0.000000\n",
+"Outline mode changed to 0",
 0,
 },
 {
-"Time set to 8/27/2026 (Thu) 20:44",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 20:44",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"375090851252200\" nowNs=\"375090856481800\"",
-0,
-},
-{
-"Completed challenge mode mapID 2923, level 13, time 1582105",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000021085ae7f60\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020e94df6b50\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020f4f00fe70\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000021085ae7f60\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 21:14",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 21:14",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 21:14",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 21:14",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 21:14",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 21:14",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"376890870911500\" nowNs=\"376890875371100\"",
-0,
-},
-{
-"Completed challenge mode mapID 2993, level 13, time 1694896",
+"Outline mode changed to 2",
 0,
 },
 {
@@ -3707,151 +3968,31 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
+"Successfully instantiated mirrored storage object",
+0,
+},
+{
+"Outline mode changed to 0",
+0,
+},
+{
+"Outline mode changed to 2",
+0,
+},
+{
 "World transfer pending...",
 0,
 },
 {
-"Connecting conn=\"(enum)3\" connPtr=\"0000020f9a3c1e90\" protocol=\"(enum)0\"",
+"Connecting conn=\"(enum)3\" connPtr=\"0000013ec5d2fb70\" protocol=\"(enum)0\"",
 0,
 },
 {
-"KillConnection conn=\"0000020f4f00fe70\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020fc0a2fcf0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020f9a3c1e90\" state=\"(enum)6\"",
+"KillConnection conn=\"0000013dc1146090\" state=\"(enum)6\"",
 0,
 },
 {
 "Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"378690970387600\" nowNs=\"378690977913000\"",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Lua Error: LittleWigs: \"Xathuux the Annihilator\" timeline issue. Show the devs a screenshot of the messages in your chat, NOT this error message.\n[Interface/AddOns/BigWigs_Core/BossPrototype.lua]:2069: in function <Interface/AddOns/BigWigs_Core/BossPrototype.lua:2069>\n",
-3,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Dissolve Effect ID 306 has invalid fade out time. This will result in the record beign ignore and a regular fade out being applied to the creature.",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Completed challenge mode mapID 2813, level 13, time 2004689",
 0,
 },
 {
@@ -3859,147 +4000,7 @@ Blizzard_Console_SavedVars = {
 0,
 },
 {
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000021091beaca0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020fc0a2fcf0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"Outline mode changed to 0",
-0,
-},
-{
-"Outline mode changed to 2",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020fcc9b1330\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000021091beaca0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000021091bd75f0\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020fcc9b1330\" state=\"(enum)6\"",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020f4fae3490\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000021091bd75f0\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 22:24",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 22:24",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 22:25",
-0,
-},
-{
-"Time set to 8/27/2026 (Thu) 22:25",
-0,
-},
-{
-"Changed difficulty successfully",
-0,
-},
-{
-"Weather changed to 4, intensity 1.000000\n",
-0,
-},
-{
-"Sending ping results from timeout timeoutNs=\"380490925942900\" nowNs=\"380490931390500\"",
-0,
-},
-{
-"Completed challenge mode mapID 2521, level 13, time 1377253",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"World transfer pending...",
-0,
-},
-{
-"Connecting conn=\"(enum)3\" connPtr=\"0000020f4f036d80\" protocol=\"(enum)0\"",
-0,
-},
-{
-"KillConnection conn=\"0000020f4fae3490\" state=\"(enum)6\"",
-0,
-},
-{
-"Weather changed to 0, intensity 0.000000\n",
-0,
-},
-{
-"KillConnection conn=\"0000020f4f036d80\" state=\"(enum)7\"",
+"KillConnection conn=\"0000013ec5d2fb70\" state=\"(enum)7\"",
 0,
 },
 {
@@ -4027,9 +4028,8 @@ Blizzard_Console_SavedVars = {
 0,
 },
 },
-["height"] = 300.0000610351563,
-["fontHeight"] = 14,
 ["isShown"] = false,
+["fontHeight"] = 14,
 ["commandHistory"] = {
 },
 }

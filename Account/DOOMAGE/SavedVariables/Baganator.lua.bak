@@ -69,7 +69,7 @@ BAGANATOR_CONFIG = {
 ["Version"] = 1,
 ["Profiles"] = {
 ["DEFAULT"] = {
-["guild_view_width"] = 14,
+["guild_view_width"] = 16,
 ["empty_slot_background"] = true,
 ["junk_plugin"] = "poor_quality",
 ["reduce_spacing"] = false,
@@ -211,8 +211,8 @@ BAGANATOR_CONFIG = {
 ["icon_mark_unusable"] = false,
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-443.8301696777344,
-423.1615600585938,
+49.38559341430664,
+433.1614990234375,
 },
 ["custom_categories"] = {
 ["1"] = {
@@ -254,8 +254,8 @@ BAGANATOR_CONFIG = {
 ["category_default_import"] = 3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--395.6673583984375,
-343.8887634277344,
+-257.89013671875,
+281.6666564941406,
 },
 ["character_bank_current_tab"] = 0,
 ["sort_start_at_bottom"] = false,
@@ -440,7 +440,7 @@ BAGANATOR_CONFIG = {
 ["new_items_flashing"] = true,
 ["currency_headers_collapsed"] = {
 },
-["character_bank_view_width"] = 14,
+["character_bank_view_width"] = 15,
 },
 },
 }

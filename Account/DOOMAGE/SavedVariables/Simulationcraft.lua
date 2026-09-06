@@ -13,6 +13,16 @@ SimulationCraftDB = {
 ["season"] = 37,
 ["itemId"] = 251129,
 },
+{
+["currency"] = 3418,
+["ts"] = 1788311100,
+["source"] = 279623,
+["season"] = 37,
+["keyLevel"] = 15,
+["spec"] = 63,
+["context"] = 16,
+["itemId"] = 251136,
+},
 },
 },
 },
@@ -167,13 +177,13 @@ SimulationCraftDB = {
 },
 },
 ["Kayne - Turalyon"] = {
-["frame"] = {
-["ofsx"] = 4.525201320648193,
-["ofsy"] = 5.171670436859131,
-},
 ["minimap"] = {
 ["minimapPos"] = 324.307535653447,
 ["hide"] = true,
+},
+["frame"] = {
+["ofsx"] = 4.525201320648193,
+["ofsy"] = 5.171670436859131,
 },
 },
 ["Luthro - Turalyon"] = {

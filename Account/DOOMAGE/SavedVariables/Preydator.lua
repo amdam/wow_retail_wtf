@@ -588,12 +588,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1785855600"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1775573998"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -603,12 +598,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1775573998"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1778597999"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782831599"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -633,12 +633,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775574001"] = {
+["server-week-1777388397"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778598001"] = {
+["server-week-1775574001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -748,7 +748,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388397"] = {
+["server-week-1778598001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1244,12 +1244,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1785855600"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["hard"] = 0,
-},
-["server-week-1775573998"] = {
+["server-week-1782831599"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1259,12 +1254,17 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
+["server-week-1775573998"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["hard"] = 0,
+},
 ["server-week-1778597999"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1782831599"] = {
+["server-week-1785855600"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1289,12 +1289,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1775574001"] = {
+["server-week-1777388397"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1778598001"] = {
+["server-week-1775574001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1404,7 +1404,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388397"] = {
+["server-week-1778598001"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1631,7 +1631,7 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1777388398"] = {
+["server-week-1786460399"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -1656,12 +1656,12 @@ PreydatorDB = {
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1779807601"] = {
+["server-week-1777388398"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
 },
-["server-week-1786460399"] = {
+["server-week-1779807601"] = {
 ["normal"] = 0,
 ["nightmare"] = 0,
 ["hard"] = 0,
@@ -2803,8 +2803,8 @@ PreydatorDB = {
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 21,
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
@@ -2848,8 +2848,8 @@ PreydatorDB = {
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
-[3259] = {
-["quantity"] = 210,
+[3352] = {
+["quantity"] = 0,
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
@@ -2878,13 +2878,13 @@ PreydatorDB = {
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
-[3347] = {
-["quantity"] = 16,
+[3316] = {
+["quantity"] = 2492,
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
-[3316] = {
-["quantity"] = 2492,
+[3378] = {
+["quantity"] = 3,
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
@@ -2913,8 +2913,8 @@ PreydatorDB = {
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
-[3378] = {
-["quantity"] = 3,
+[3347] = {
+["quantity"] = 16,
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
@@ -2943,8 +2943,8 @@ PreydatorDB = {
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
-[3383] = {
-["quantity"] = 21,
+[3259] = {
+["quantity"] = 210,
 ["classFile"] = "EVOKER",
 ["lastSeen"] = 1195321.148,
 },
@@ -2960,8 +2960,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 25,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
@@ -3005,7 +3005,7 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
@@ -3035,13 +3035,13 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
-[3347] = {
-["quantity"] = 76,
+[3316] = {
+["quantity"] = 25228,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
-[3316] = {
-["quantity"] = 25228,
+[3378] = {
+["quantity"] = 8,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
@@ -3070,8 +3070,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
-[3378] = {
-["quantity"] = 8,
+[3347] = {
+["quantity"] = 76,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
@@ -3100,8 +3100,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
-[3383] = {
-["quantity"] = 25,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 192683.148,
 },
@@ -3117,8 +3117,8 @@ PreydatorDB = {
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
-[3383] = {
-["quantity"] = 31,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
@@ -3162,8 +3162,8 @@ PreydatorDB = {
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 31,
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
@@ -3192,13 +3192,13 @@ PreydatorDB = {
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
-[3316] = {
-["quantity"] = 4122,
+[3378] = {
+["quantity"] = 4,
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
-[3378] = {
-["quantity"] = 4,
+[3347] = {
+["quantity"] = 15,
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
@@ -3227,8 +3227,8 @@ PreydatorDB = {
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
-[3347] = {
-["quantity"] = 15,
+[3316] = {
+["quantity"] = 4122,
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
@@ -3257,7 +3257,7 @@ PreydatorDB = {
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "DEMONHUNTER",
 ["lastSeen"] = 602940.166,
@@ -3274,7 +3274,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
@@ -3319,7 +3319,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
 },
-[3383] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
@@ -3349,12 +3349,12 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
 },
-[3378] = {
+[3347] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
 },
-[3347] = {
+[3316] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
@@ -3384,7 +3384,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
 },
-[3316] = {
+[3378] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
@@ -3414,7 +3414,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
 },
-[3352] = {
+[3383] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 2307.091,
@@ -3431,8 +3431,8 @@ PreydatorDB = {
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
-[3383] = {
-["quantity"] = 27,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
@@ -3476,8 +3476,8 @@ PreydatorDB = {
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 27,
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
@@ -3506,13 +3506,13 @@ PreydatorDB = {
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
-[3316] = {
-["quantity"] = 6945,
+[3378] = {
+["quantity"] = 3,
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
-[3378] = {
-["quantity"] = 3,
+[3347] = {
+["quantity"] = 80,
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
@@ -3541,8 +3541,8 @@ PreydatorDB = {
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
-[3347] = {
-["quantity"] = 80,
+[3316] = {
+["quantity"] = 6945,
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
@@ -3571,7 +3571,7 @@ PreydatorDB = {
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "SHAMAN",
 ["lastSeen"] = 2492242.102,
@@ -3588,8 +3588,8 @@ PreydatorDB = {
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
-[3383] = {
-["quantity"] = 34,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
@@ -3633,8 +3633,8 @@ PreydatorDB = {
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 34,
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
@@ -3663,13 +3663,13 @@ PreydatorDB = {
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
-[3316] = {
-["quantity"] = 13634,
+[3378] = {
+["quantity"] = 6,
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
-[3378] = {
-["quantity"] = 6,
+[3347] = {
+["quantity"] = 39,
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
@@ -3698,8 +3698,8 @@ PreydatorDB = {
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
-[3347] = {
-["quantity"] = 39,
+[3316] = {
+["quantity"] = 13634,
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
@@ -3728,7 +3728,7 @@ PreydatorDB = {
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "DEATHKNIGHT",
 ["lastSeen"] = 820763.551,
@@ -3745,7 +3745,7 @@ PreydatorDB = {
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
-[3352] = {
+[3383] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
@@ -3790,7 +3790,7 @@ PreydatorDB = {
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
@@ -3820,13 +3820,13 @@ PreydatorDB = {
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
-[3347] = {
-["quantity"] = 0,
+[3316] = {
+["quantity"] = 660,
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
-[3316] = {
-["quantity"] = 660,
+[3378] = {
+["quantity"] = 8,
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
@@ -3855,8 +3855,8 @@ PreydatorDB = {
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
-[3378] = {
-["quantity"] = 8,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
@@ -3885,7 +3885,7 @@ PreydatorDB = {
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
 },
-[3383] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "WARRIOR",
 ["lastSeen"] = 2491432.682,
@@ -3902,7 +3902,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3383] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -3947,7 +3947,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3352] = {
+[3383] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -3977,13 +3977,13 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3316] = {
-["quantity"] = 0,
+[3378] = {
+["quantity"] = 2,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3378] = {
-["quantity"] = 2,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
@@ -4012,7 +4012,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3347] = {
+[3316] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -4042,7 +4042,7 @@ PreydatorDB = {
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "PRIEST",
 ["lastSeen"] = 237242.153,
@@ -4059,8 +4059,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 18,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
@@ -4104,7 +4104,7 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
@@ -4134,13 +4134,13 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
-[3347] = {
-["quantity"] = 62,
+[3316] = {
+["quantity"] = 29855,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
-[3316] = {
-["quantity"] = 29855,
+[3378] = {
+["quantity"] = 6,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
@@ -4169,8 +4169,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
-[3378] = {
-["quantity"] = 6,
+[3347] = {
+["quantity"] = 62,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
@@ -4199,8 +4199,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
-[3383] = {
-["quantity"] = 18,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 676.395,
 },
@@ -4216,7 +4216,7 @@ PreydatorDB = {
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
@@ -4261,7 +4261,7 @@ PreydatorDB = {
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
-[3383] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
@@ -4291,12 +4291,12 @@ PreydatorDB = {
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
-[3378] = {
-["quantity"] = 8,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
-[3347] = {
+[3316] = {
 ["quantity"] = 0,
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
@@ -4326,8 +4326,8 @@ PreydatorDB = {
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
-[3316] = {
-["quantity"] = 0,
+[3378] = {
+["quantity"] = 8,
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
@@ -4356,7 +4356,7 @@ PreydatorDB = {
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
 },
-[3352] = {
+[3383] = {
 ["quantity"] = 0,
 ["classFile"] = "ROGUE",
 ["lastSeen"] = 1283786.962,
@@ -4373,7 +4373,7 @@ PreydatorDB = {
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
-[3383] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
@@ -4418,7 +4418,7 @@ PreydatorDB = {
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
-[3352] = {
+[3383] = {
 ["quantity"] = 0,
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
@@ -4448,13 +4448,13 @@ PreydatorDB = {
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
-[3316] = {
-["quantity"] = 1289,
+[3378] = {
+["quantity"] = 8,
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
-[3378] = {
-["quantity"] = 8,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
@@ -4483,8 +4483,8 @@ PreydatorDB = {
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
-[3347] = {
-["quantity"] = 0,
+[3316] = {
+["quantity"] = 1289,
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
@@ -4513,7 +4513,7 @@ PreydatorDB = {
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "DRUID",
 ["lastSeen"] = 980081.277,
@@ -4523,7 +4523,7 @@ PreydatorDB = {
 ["warbandTotal"] = {
 [3266] = 500,
 [3392] = 13006,
-[3259] = 210,
+[3383] = 148,
 [3212] = 83,
 [3400] = 0,
 [3261] = 225,
@@ -4532,26 +4532,26 @@ PreydatorDB = {
 [3377] = 7200,
 [3379] = 5746,
 [3257] = 1245,
-[3352] = 0,
+[3259] = 210,
 [3385] = 26,
 [3356] = 1605,
 [3265] = 0,
 [2803] = 59643,
 [3028] = 53,
-[3316] = 81881,
 [3378] = 60,
+[3347] = 273,
 [3345] = 238,
 [3341] = 90,
 [3310] = 811,
 [3343] = 80,
 [3376] = 30,
-[3347] = 273,
+[3316] = 81881,
 [3256] = 40,
 [3258] = 940,
 [3260] = 0,
 [3262] = 605,
 [3264] = 725,
-[3383] = 148,
+[3352] = 0,
 },
 ["lastWeeklyResetKey"] = "server-week-1786460399",
 ["preyAccountState"] = {
@@ -4560,10 +4560,34 @@ PreydatorDB = {
 ["weeklyProgressCanonicalized"] = true,
 },
 ["huntScanner"] = {
-["difficultyRewardCache"] = {
+["availabilityCacheByScope"] = {
+["Amdam-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 2,
+["capturedAt"] = 1059801.223,
+["hard"] = 6,
 },
-["lastRewardScope"] = "Adamancy-Turalyon@90",
-["lastRewardDay"] = "2026-08-27",
+["Adamancy-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 2,
+["capturedAt"] = 506469.352,
+["hard"] = 6,
+},
+["Kaydan-Turalyon@90"] = {
+["normal"] = 0,
+["nightmare"] = 0,
+["capturedAt"] = 0,
+["hard"] = 0,
+},
+["Kayne-Turalyon@90"] = {
+["normal"] = 4,
+["nightmare"] = 2,
+["capturedAt"] = 589297.164,
+["hard"] = 6,
+},
+},
+["lastRewardScope"] = "Amdam-Turalyon@90",
+["lastRewardDay"] = "2026-09-05",
 ["completedAchievements"] = {
 ["42330"] = true,
 ["16789"] = true,
@@ -4581,7 +4605,7 @@ PreydatorDB = {
 ["62173"] = true,
 ["62175"] = true,
 ["62262"] = true,
-["61270"] = true,
+["62412"] = true,
 ["61391"] = true,
 ["61729"] = true,
 ["42769"] = true,
@@ -4599,26 +4623,32 @@ PreydatorDB = {
 ["61613"] = true,
 ["63457"] = true,
 ["62179"] = true,
+["63415"] = true,
+["63416"] = true,
 ["63452"] = true,
-["62165"] = true,
-["61606"] = true,
+["42770"] = true,
 ["61922"] = true,
-["62181"] = true,
-["62167"] = true,
-["62164"] = true,
+["61392"] = true,
 ["61366"] = true,
+["61606"] = true,
+["62181"] = true,
 ["62374"] = true,
-["62184"] = true,
-["62154"] = true,
-["61267"] = true,
-["62183"] = true,
-["61271"] = true,
 ["61678"] = true,
-["61254"] = true,
-["18864"] = true,
-["62155"] = true,
-["62169"] = true,
+["62167"] = true,
+["62871"] = true,
+["62232"] = true,
 ["63164"] = true,
+["62184"] = true,
+["9425"] = true,
+["61267"] = true,
+["61271"] = true,
+["62183"] = true,
+["42768"] = true,
+["61272"] = true,
+["62155"] = true,
+["61388"] = true,
+["62169"] = true,
+["61254"] = true,
 ["61635"] = true,
 ["61389"] = true,
 ["61637"] = true,
@@ -4626,35 +4656,32 @@ PreydatorDB = {
 ["61488"] = true,
 ["63451"] = true,
 ["62176"] = true,
-["42768"] = true,
-["62156"] = true,
-["9425"] = true,
-["42117"] = true,
-["62163"] = true,
 ["62178"] = true,
-["61272"] = true,
-["62606"] = true,
+["62156"] = true,
 ["62137"] = true,
+["62163"] = true,
+["42117"] = true,
+["18864"] = true,
+["62240"] = true,
+["62606"] = true,
+["61519"] = true,
 ["62139"] = true,
 ["61858"] = true,
-["42770"] = true,
-["63416"] = true,
+["62165"] = true,
+["63640"] = true,
 ["62410"] = true,
 ["61487"] = true,
-["61388"] = true,
+["61270"] = true,
 ["16643"] = true,
 ["42767"] = true,
 ["61262"] = true,
-["61519"] = true,
-["62142"] = true,
 ["61636"] = true,
-["61392"] = true,
-["63415"] = true,
+["62142"] = true,
+["62164"] = true,
+["62154"] = true,
+["63453"] = true,
 },
-["availabilityTouchedByScope"] = {
-["Adamancy-Turalyon@90"] = true,
-["Kaydan-Turalyon@90"] = false,
-["Kayne-Turalyon@90"] = true,
+["difficultyRewardCache"] = {
 },
 ["questDifficultyByID"] = {
 ["91249"] = "hard",
@@ -4681,6 +4708,7 @@ PreydatorDB = {
 ["91255"] = "hard",
 ["91220"] = "hard",
 ["91268"] = "nightmare",
+["91224"] = "hard",
 ["95023"] = "nightmare",
 ["91095"] = "normal",
 ["91116"] = "normal",
@@ -4698,59 +4726,49 @@ PreydatorDB = {
 ["91227"] = "nightmare",
 ["91267"] = "nightmare",
 ["91260"] = "nightmare",
+["91225"] = "nightmare",
 ["91124"] = "normal",
+["91114"] = "normal",
+["91120"] = "normal",
 ["91121"] = "normal",
 ["91118"] = "normal",
-["91225"] = "nightmare",
+["91233"] = "nightmare",
+["91218"] = "hard",
 ["91229"] = "nightmare",
 ["91231"] = "nightmare",
 ["91250"] = "hard",
 ["91239"] = "nightmare",
-["91114"] = "normal",
+["91102"] = "normal",
 ["91221"] = "nightmare",
-["91233"] = "nightmare",
 ["91234"] = "hard",
+["91122"] = "normal",
 ["91238"] = "hard",
-["91110"] = "normal",
+["91248"] = "hard",
 ["91237"] = "nightmare",
 ["91246"] = "hard",
 ["91230"] = "hard",
-["91244"] = "hard",
-["91102"] = "normal",
+["91098"] = "normal",
+["91096"] = "normal",
 ["91228"] = "hard",
 ["91259"] = "nightmare",
 ["91266"] = "nightmare",
-["91248"] = "hard",
+["91244"] = "hard",
 ["91104"] = "normal",
-["91098"] = "normal",
+["91110"] = "normal",
 ["91103"] = "normal",
-["91218"] = "hard",
+["91112"] = "normal",
 ["91099"] = "normal",
 ["91262"] = "nightmare",
-["91120"] = "normal",
 ["91109"] = "normal",
+["91252"] = "hard",
 },
 ["rewardCache"] = {
 },
-["availabilityCacheByScope"] = {
-["Adamancy-Turalyon@90"] = {
-["normal"] = 4,
-["nightmare"] = 2,
-["capturedAt"] = 595920.1900000001,
-["hard"] = 6,
-},
-["Kaydan-Turalyon@90"] = {
-["normal"] = 0,
-["nightmare"] = 0,
-["capturedAt"] = 0,
-["hard"] = 0,
-},
-["Kayne-Turalyon@90"] = {
-["normal"] = 4,
-["nightmare"] = 3,
-["capturedAt"] = 897879.314,
-["hard"] = 6,
-},
+["availabilityTouchedByScope"] = {
+["Amdam-Turalyon@90"] = true,
+["Adamancy-Turalyon@90"] = true,
+["Kaydan-Turalyon@90"] = false,
+["Kayne-Turalyon@90"] = true,
 },
 },
 ["profiles"] = {
@@ -4810,7 +4828,7 @@ PreydatorDB = {
 ["currencyWarbandTrackedIDs"] = {
 [3266] = false,
 [3392] = true,
-[3259] = false,
+[3383] = true,
 [3212] = true,
 [3400] = true,
 [3261] = false,
@@ -4819,26 +4837,26 @@ PreydatorDB = {
 [3377] = true,
 [3379] = true,
 [3257] = false,
-[3352] = true,
+[3259] = false,
 [3385] = true,
 [3356] = true,
 [3265] = false,
 [2803] = true,
 [3028] = true,
-[3316] = true,
 [3378] = true,
+[3347] = true,
 [3345] = true,
 [3341] = true,
 [3310] = true,
 [3343] = true,
 [3376] = true,
-[3347] = true,
+[3316] = true,
 [3256] = false,
 [3258] = false,
 [3260] = false,
 [3262] = false,
 [3264] = false,
-[3383] = true,
+[3352] = true,
 },
 ["currencyWarbandScale"] = 1,
 ["verticalPercentOffset"] = 10,
@@ -4878,8 +4896,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3352] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 10,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -4923,7 +4941,7 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3259] = {
+[3352] = {
 ["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
@@ -4953,13 +4971,13 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3347] = {
-["quantity"] = 0,
+[3316] = {
+["quantity"] = 11233,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3316] = {
-["quantity"] = 11233,
+[3378] = {
+["quantity"] = 1,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -4988,8 +5006,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3378] = {
-["quantity"] = 1,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -5018,8 +5036,8 @@ PreydatorDB = {
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
-[3383] = {
-["quantity"] = 10,
+[3259] = {
+["quantity"] = 0,
 ["classFile"] = "PALADIN",
 ["lastSeen"] = 57422.727,
 },
@@ -5035,8 +5053,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3259] = {
-["quantity"] = 0,
+[3383] = {
+["quantity"] = 39,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -5080,7 +5098,7 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3352] = {
+[3259] = {
 ["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
@@ -5110,13 +5128,13 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3316] = {
-["quantity"] = 15241,
+[3378] = {
+["quantity"] = 1,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3378] = {
-["quantity"] = 1,
+[3347] = {
+["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -5145,8 +5163,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3347] = {
-["quantity"] = 0,
+[3316] = {
+["quantity"] = 15241,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -5175,8 +5193,8 @@ PreydatorDB = {
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
-[3383] = {
-["quantity"] = 39,
+[3352] = {
+["quantity"] = 0,
 ["classFile"] = "MAGE",
 ["lastSeen"] = 13313.95,
 },
@@ -5186,7 +5204,7 @@ PreydatorDB = {
 ["warbandTotal"] = {
 [3266] = 310,
 [3392] = 3334,
-[3352] = 0,
+[3259] = 0,
 [3212] = 6,
 [3400] = 1,
 [3261] = 0,
@@ -5195,26 +5213,26 @@ PreydatorDB = {
 [3377] = 2700,
 [3379] = 1928,
 [3257] = 0,
-[3383] = 49,
+[3352] = 0,
 [3385] = 26,
 [3356] = 0,
 [3265] = 0,
 [2803] = 5457,
 [3028] = 0,
-[3378] = 2,
 [3347] = 0,
+[3316] = 26474,
 [3376] = 15,
 [3310] = 0,
 [3341] = 15,
 [3343] = 91,
 [3345] = 144,
-[3316] = 26474,
+[3378] = 2,
 [3256] = 0,
 [3258] = 310,
 [3260] = 0,
 [3262] = 60,
 [3264] = 315,
-[3259] = 0,
+[3383] = 49,
 },
 ["preyAccountState"] = {
 ["nightmareUnlocked"] = true,
@@ -5394,7 +5412,7 @@ PreydatorDB = {
 ["currencyTrackedIDs"] = {
 [3266] = false,
 [3392] = true,
-[3259] = false,
+[3383] = true,
 [3212] = true,
 [3400] = true,
 [3261] = false,
@@ -5403,26 +5421,26 @@ PreydatorDB = {
 [3377] = true,
 [3379] = true,
 [3257] = false,
-[3352] = true,
+[3259] = false,
 [3385] = true,
 [3356] = true,
 [3265] = false,
 [2803] = true,
 [3028] = true,
-[3316] = true,
 [3378] = true,
+[3347] = true,
 [3345] = true,
 [3341] = true,
 [3310] = true,
 [3343] = true,
 [3376] = true,
-[3347] = true,
+[3316] = true,
 [3256] = false,
 [3258] = false,
 [3260] = false,
 [3262] = false,
 [3264] = false,
-[3383] = true,
+[3352] = true,
 },
 ["currencyWarbandHideLowLevel"] = false,
 ["barAccessibilityTheme"] = "default",
@@ -5445,6 +5463,19 @@ PreydatorDB = {
 ["huntScanner"] = {
 ["lastRewardScope"] = "Amdam-Turalyon@90",
 ["lastRewardDay"] = "2026-03-21",
+["difficultyRewardCache"] = {
+["normal"] = {
+},
+["nightmare"] = {
+"Preyseeker's Champion Sack",
+"Hero Dawncrest x5",
+"Champion Dawncrest x10",
+"Coffer Key Shards x75",
+"Preyseeker's Journey x50",
+},
+["hard"] = {
+},
+},
 ["availabilityCacheByScope"] = {
 ["Amdam-Turalyon@90"] = {
 ["normal"] = 4,
@@ -5458,10 +5489,6 @@ PreydatorDB = {
 ["capturedAt"] = 13404.603,
 ["hard"] = 3,
 },
-},
-["availabilityTouchedByScope"] = {
-["Amdam-Turalyon@90"] = true,
-["Adamancy-Turalyon@90"] = true,
 },
 ["questDifficultyByID"] = {
 ["91230"] = "hard",
@@ -5516,18 +5543,9 @@ PreydatorDB = {
 "|T7639517:14:14:0:0|t 10 Adventurer Dawncrest",
 },
 },
-["difficultyRewardCache"] = {
-["normal"] = {
-},
-["nightmare"] = {
-"Preyseeker's Champion Sack",
-"Hero Dawncrest x5",
-"Champion Dawncrest x10",
-"Coffer Key Shards x75",
-"Preyseeker's Journey x50",
-},
-["hard"] = {
-},
+["availabilityTouchedByScope"] = {
+["Amdam-Turalyon@90"] = true,
+["Adamancy-Turalyon@90"] = true,
 },
 },
 ["currencyWarbandTheme"] = "brown",
@@ -5550,7 +5568,7 @@ PreydatorDB = {
 ["customThemeOrder"] = {
 },
 ["bloodyCommandSuffix"] = "",
-["huntScannerPreviewInOptions"] = false,
+["borderColorLinked"] = true,
 ["huntScannerAnchorAlign"] = "top",
 ["soundsEnabled"] = true,
 ["ambushSoundPath"] = "Interface\\AddOns\\Preydator\\sounds\\well-we-ve-prepared-a-trap-for-this-predator.ogg",
@@ -5560,11 +5578,11 @@ PreydatorDB = {
 0,
 1,
 },
-["textureKey"] = "default",
+["huntScannerPreviewInOptions"] = false,
 ["bloodyCommandSoundEnabled"] = true,
-["huntScannerUseCurrencyTheme"] = true,
 ["showAlignmentDot"] = false,
 ["currencyWhatsNewSeenVersion"] = "2.1.1",
+["huntScannerUseCurrencyTheme"] = true,
 ["currencyDebugEvents"] = false,
 ["currencyWindowHideInInstance"] = false,
 ["height"] = 30,
@@ -5627,7 +5645,7 @@ PreydatorDB = {
 "echo-of-predation.ogg",
 },
 ["huntScannerSide"] = "right",
-["borderColorLinked"] = true,
+["textureKey"] = "default",
 ["width"] = 160,
 ["currencyWarbandCharacterVisibility"] = {
 },

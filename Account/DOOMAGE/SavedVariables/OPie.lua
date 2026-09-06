@@ -125,8 +125,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
 ["sliceToken"] = "OPCCTj",
+["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
 },
 {
 ["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
@@ -143,8 +143,8 @@ OPie_SavedData = {
 ["id"] = 439871,
 },
 {
-["sliceToken"] = "OPCCTt",
 ["id"] = "/cast {{spell:3908/51309}}",
+["sliceToken"] = "OPCCTt",
 },
 {
 ["id"] = 194174,
@@ -165,20 +165,20 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCCTu",
 },
 {
-["sliceToken"] = "OPCCTe",
 ["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+["sliceToken"] = "OPCCTe",
 },
 {
 ["id"] = "/cast {{spell:2108/51302}}",
 ["sliceToken"] = "OPCCTl",
 },
 {
-["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 ["sliceToken"] = "OPCCTm",
+["id"] = "/cast [in:df,nomod,near:mine-overload][in:df,mod,nonear:mine-overload] {{spell:388213}}; {{spell:2656}}",
 },
 {
-["c"] = "d8d1ad",
 ["sliceToken"] = "ABueaL4inxa",
+["c"] = "d8d1ad",
 ["id"] = 3908,
 ["id2"] = 51309,
 },
@@ -195,14 +195,14 @@ OPie_SavedData = {
 ["id2"] = 51300,
 },
 {
-["sliceToken"] = "ABueaL4inx2",
 ["c"] = "3319e5",
+["sliceToken"] = "ABueaL4inx2",
 ["id"] = 25229,
 ["id2"] = 51311,
 },
 {
-["c"] = "f4ef28",
 ["sliceToken"] = "ABueaL4inxi",
+["c"] = "f4ef28",
 ["id"] = 7411,
 ["id2"] = 51313,
 },
@@ -283,51 +283,51 @@ OPie_SavedData = {
 ["onlyNonEmpty"] = true,
 },
 {
-["id"] = 1022,
 ["sliceToken"] = "OPCPAt",
+["id"] = 1022,
 },
 {
-["id"] = 1044,
 ["sliceToken"] = "OPCPAe",
+["id"] = 1044,
 },
 {
 ["id"] = 25780,
 ["sliceToken"] = "OPCPAf",
 },
-["limit"] = "PALADIN",
+["name"] = "Paladin Buffs",
 ["save"] = true,
 ["hotkey"] = "ALT-P",
-["name"] = "Paladin Buffs",
+["limit"] = "PALADIN",
 },
 ["MageTravel"] = {
 {
-["sliceToken"] = "OPCMVb",
 ["id"] = "/cast [mod] {{spell:224871}}; {{spell:224869}}",
+["sliceToken"] = "OPCMVb",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVv",
 ["id"] = "/cast [mod] {{spell:132620/132626}}; {{spell:132621/132627}}",
+["sliceToken"] = "OPCMVv",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVr",
 ["id"] = "/cast [mod] {{spell:53142}}; {{spell:53140}}",
+["sliceToken"] = "OPCMVr",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVs",
 ["id"] = "/cast [mod] {{spell:35717/33691}}; {{spell:33690}}",
+["sliceToken"] = "OPCMVs",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVw",
 ["id"] = "/cast [mod] {{spell:10059}}; {{spell:3561}}",
+["sliceToken"] = "OPCMVw",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVd",
 ["id"] = "/cast [mod] {{spell:11419}}; {{spell:3565}}",
+["sliceToken"] = "OPCMVd",
 ["vm"] = 2,
 },
 {
@@ -341,8 +341,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMVi",
 ["id"] = "/cast [mod] {{spell:11416}}; {{spell:3562}}",
+["sliceToken"] = "OPCMVi",
 ["vm"] = 2,
 },
 {
@@ -361,48 +361,48 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCMV1",
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}}",
+["sliceToken"] = "OPCMV1",
 },
 {
-["sliceToken"] = "OPCMVx",
 ["id"] = "/cast [mod] {{spell:32266}}; {{spell:32271}}",
+["sliceToken"] = "OPCMVx",
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "ABue3Xt7/Yi",
 ["id"] = "/cast [mod] {{spell:281400}}; {{spell:281403}}",
+["sliceToken"] = "ABue3Xt7/Yi",
 },
 {
-["sliceToken"] = "OPCMV9",
 ["id"] = "/cast [mod] {{spell:344597}}; {{spell:344587}}",
+["sliceToken"] = "OPCMV9",
 },
 {
-["sliceToken"] = "OPCMV2",
 ["id"] = "/cast [mod] {{spell:1259190}}; {{spell:1259194}}",
+["sliceToken"] = "OPCMV2",
 },
 {
-["sliceToken"] = "OPCMV0",
 ["id"] = "/cast [mod] {{spell:395289}}; {{spell:395277}}",
+["sliceToken"] = "OPCMV0",
 },
 {
-["sliceToken"] = "OPCMV8",
 ["id"] = "/cast [mod] {{spell:268969/281402}}; {{spell:281403/281404}}",
+["sliceToken"] = "OPCMV8",
 },
 {
-["sliceToken"] = "ABueQUekVHw",
 ["id"] = "/cast [mod] {{spell:446534}}; {{spell:446540}};",
+["sliceToken"] = "ABueQUekVHw",
 },
 {
-["sliceToken"] = "ABueTrlkBNw",
 ["id"] = "/cast [mod] {{spell:1259194}}; {{spell:1259190}}",
+["sliceToken"] = "ABueTrlkBNw",
 },
-["save"] = true,
-["v"] = 4,
-["vm"] = 127,
 ["limit"] = "MAGE",
 ["name"] = "Portals and Teleports",
+["vm"] = 127,
+["save"] = true,
 ["hotkey"] = "ALT-G",
+["v"] = 4,
 },
 ["ipmentSets1"] = {
 {
@@ -499,10 +499,10 @@ OPie_SavedData = {
 ["show"] = "[spec:70/66] hide;",
 ["sliceToken"] = "ABues6epD11",
 },
-["name"] = "Equipment Sets",
+["limit"] = "Amdam-Turalyon",
 ["save"] = true,
 ["hotkey"] = "NUMPAD5",
-["limit"] = "Amdam-Turalyon",
+["name"] = "Equipment Sets",
 },
 ["WarlockDemons"] = {
 {
