@@ -3,6 +3,12 @@ PlumberDB_PC = {
 ["CurrencyCap:3345"] = 700,
 ["DelvesRecords"] = {
 {
+["instanceID"] = 3077,
+["uiMapID"] = 2633,
+["time"] = 1788711568,
+["tier"] = 11,
+},
+{
 ["instanceID"] = 2963,
 ["uiMapID"] = 2510,
 ["time"] = 1788642152,

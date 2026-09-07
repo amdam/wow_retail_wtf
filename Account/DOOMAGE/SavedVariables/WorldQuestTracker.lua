@@ -27,59 +27,59 @@ WQTrackerDB = {
 ["Adreya - Bloodscalp"] = "Default",
 ["Drunkan - Turalyon"] = "Default",
 ["Ninjee - Whisperwind"] = "Default",
-["Fife - The Forgotten Coast"] = "Default",
+["Caseann - Turalyon"] = "Default",
 ["Frake - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Default",
 ["Asaam - Turalyon"] = "Default",
-["Luthro - Turalyon"] = "Default",
+["Brewenjoyer - Turalyon"] = "Default",
 ["Adrid - Turalyon"] = "Default",
 ["Dugan - Turalyon"] = "Default",
 ["Taybae - Turalyon"] = "Default",
-["Brewenjoyer - Turalyon"] = "Default",
+["Luthro - Turalyon"] = "Default",
 ["Tupac - Turalyon"] = "Default",
-["Caseann - Turalyon"] = "Default",
+["Fife - The Forgotten Coast"] = "Default",
 ["Fredus - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
 ["TutorialTracker"] = 2,
 ["world_map_hubscale"] = {
-[2537] = 0.85,
+[2274] = 0.95,
 [875] = 0.9,
 [947] = 1,
-[619] = 0.3,
-[1550] = 1,
-[876] = 0.9,
 [1978] = 0.85,
-[2274] = 0.95,
+[1550] = 1,
+[2537] = 0.85,
+[619] = 0.3,
+[876] = 0.9,
 },
 ["world_map_hubenabled"] = {
-[2537] = true,
+[2274] = true,
 [875] = true,
 [947] = true,
-[619] = true,
-[1550] = true,
-[876] = true,
 [1978] = true,
-[2274] = true,
+[1550] = true,
+[2537] = true,
+[619] = true,
+[876] = true,
 },
 ["player_names"] = {
-["Player-3685-0EC4EEC1"] = {
+["Player-55-028A5CCC"] = {
 ["class"] = "PRIEST",
-["name"] = "Ezray",
-["realm"] = "Turalyon",
+["name"] = "Experiment",
+["realm"] = "Whisperwind",
 },
-["Player-3685-0717BEFC"] = {
-["class"] = "HUNTER",
-["name"] = "Adrid",
-["realm"] = "Turalyon",
-},
-["Player-3685-0EBE55EF"] = {
-["class"] = "SHAMAN",
+["Player-3685-0EBE2885"] = {
+["class"] = "PRIEST",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE55BE"] = {
+["Player-3685-0ECDE0E1"] = {
+["class"] = "ROGUE",
+["name"] = "Frake",
+["realm"] = "Turalyon",
+},
+["Player-3685-0EBE55E4"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
@@ -89,9 +89,9 @@ WQTrackerDB = {
 ["name"] = "Adaam",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0D056B5D"] = {
-["class"] = "DEATHKNIGHT",
-["name"] = "Asaam",
+["Player-3685-0EBE4479"] = {
+["class"] = "SHAMAN",
+["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0DFC95BB"] = {
@@ -109,9 +109,9 @@ WQTrackerDB = {
 ["name"] = "Powerpriest",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0A7F3116"] = {
-["class"] = "SHAMAN",
-["name"] = "Dreg",
+["Player-3685-099FD3E3"] = {
+["class"] = "PRIEST",
+["name"] = "Abel",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0EBE564F"] = {
@@ -119,24 +119,24 @@ WQTrackerDB = {
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE4479"] = {
-["class"] = "SHAMAN",
-["name"] = "Brewenjoyer",
-["realm"] = "Turalyon",
-},
-["Player-3685-0ECDE0E1"] = {
-["class"] = "ROGUE",
-["name"] = "Frake",
-["realm"] = "Turalyon",
-},
-["Player-3685-0EBE5595"] = {
-["class"] = "SHAMAN",
-["name"] = "Brewenjoyer",
-["realm"] = "Turalyon",
-},
 ["Player-3685-0EBE5642"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
+},
+["Player-3685-0A7F3116"] = {
+["class"] = "SHAMAN",
+["name"] = "Dreg",
+["realm"] = "Turalyon",
+},
+["Player-3685-0EBE2877"] = {
+["class"] = "PRIEST",
+["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
+},
+["Player-3685-0ECD2195"] = {
+["class"] = "DRUID",
+["name"] = "Donnd",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0ECDE0D6"] = {
@@ -149,42 +149,7 @@ WQTrackerDB = {
 ["name"] = "Fredus",
 ["realm"] = "Turalyon",
 },
-["Player-3685-099FD3E3"] = {
-["class"] = "PRIEST",
-["name"] = "Abel",
-["realm"] = "Turalyon",
-},
-["Player-3685-0990B6B7"] = {
-["class"] = "DEATHKNIGHT",
-["name"] = "Kayne",
-["realm"] = "Turalyon",
-},
-["Player-55-02405283"] = {
-["class"] = "ROGUE",
-["name"] = "Ninjee",
-["realm"] = "Whisperwind",
-},
-["Player-3685-0E7AA059"] = {
-["class"] = "PALADIN",
-["name"] = "Tupac",
-["realm"] = "Turalyon",
-},
-["Player-3685-0EBE5588"] = {
-["class"] = "SHAMAN",
-["name"] = "Brewenjoyer",
-["realm"] = "Turalyon",
-},
-["Player-3685-09491807"] = {
-["class"] = "DRUID",
-["name"] = "Christoff",
-["realm"] = "Turalyon",
-},
-["Player-3685-0ECD2195"] = {
-["class"] = "DRUID",
-["name"] = "Donnd",
-["realm"] = "Turalyon",
-},
-["Player-3685-0EBE55CE"] = {
+["Player-3685-0EBE448E"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
@@ -194,29 +159,64 @@ WQTrackerDB = {
 ["name"] = "Dugan",
 ["realm"] = "Turalyon",
 },
+["Player-55-02405283"] = {
+["class"] = "ROGUE",
+["name"] = "Ninjee",
+["realm"] = "Whisperwind",
+},
+["Player-3685-0EBE447E"] = {
+["class"] = "SHAMAN",
+["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
+},
+["Player-3685-0EBE5588"] = {
+["class"] = "SHAMAN",
+["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
+},
+["Player-1185-0D2880F2"] = {
+["class"] = "PRIEST",
+["name"] = "Jeryn",
+["realm"] = "Bloodscalp",
+},
+["Player-3685-0EC4EEC1"] = {
+["class"] = "PRIEST",
+["name"] = "Ezray",
+["realm"] = "Turalyon",
+},
+["Player-3685-0EBE55CE"] = {
+["class"] = "SHAMAN",
+["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
+},
+["Player-3685-0990B6B7"] = {
+["class"] = "DEATHKNIGHT",
+["name"] = "Kayne",
+["realm"] = "Turalyon",
+},
 ["Player-3685-0E75565A"] = {
 ["class"] = "DRUID",
 ["name"] = "Fernie",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE5599"] = {
+["Player-3685-0EBE55AA"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE288E"] = {
-["class"] = "PRIEST",
-["name"] = "Brewenjoyer",
+["Player-1185-0D28815F"] = {
+["class"] = "HUNTER",
+["name"] = "Wake",
+["realm"] = "Bloodscalp",
+},
+["Player-3685-0E7AA059"] = {
+["class"] = "PALADIN",
+["name"] = "Tupac",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0E7B47C1"] = {
-["class"] = "DEMONHUNTER",
-["name"] = "Adonis",
-["realm"] = "Turalyon",
-},
-["Player-3685-0ACADE27"] = {
-["class"] = "WARLOCK",
-["name"] = "Aduum",
+["Player-3685-09491807"] = {
+["class"] = "DRUID",
+["name"] = "Christoff",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0E728F10"] = {
@@ -229,9 +229,9 @@ WQTrackerDB = {
 ["name"] = "Adonis",
 ["realm"] = "Turalyon",
 },
-["Player-3685-07180DDD"] = {
-["class"] = "MONK",
-["name"] = "Drunkan",
+["Player-3685-0EBE5663"] = {
+["class"] = "SHAMAN",
+["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0EBE55FF"] = {
@@ -239,10 +239,10 @@ WQTrackerDB = {
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0A95F80C"] = {
-["class"] = "DEMONHUNTER",
-["name"] = "Kaydan",
-["realm"] = "Turalyon",
+["Player-1185-0D61B051"] = {
+["class"] = "DEATHKNIGHT",
+["name"] = "Adreya",
+["realm"] = "Bloodscalp",
 },
 ["Player-3685-0EBA63C5"] = {
 ["class"] = "DRUID",
@@ -274,54 +274,54 @@ WQTrackerDB = {
 ["name"] = "Luthro",
 ["realm"] = "Turalyon",
 },
-["Player-71-07A8DA5F"] = {
-["class"] = "MAGE",
-["name"] = "Fife",
-["realm"] = "The Forgotten Coast",
+["Player-3685-0EBE287E"] = {
+["class"] = "PALADIN",
+["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
 },
 ["Player-3685-0EBE565A"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
+["Player-71-07A8DA5F"] = {
+["class"] = "MAGE",
+["name"] = "Fife",
+["realm"] = "The Forgotten Coast",
+},
 ["Player-3685-0EBE2896"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE287E"] = {
-["class"] = "PALADIN",
-["name"] = "Brewenjoyer",
+["Player-3685-0A95F80C"] = {
+["class"] = "DEMONHUNTER",
+["name"] = "Kaydan",
 ["realm"] = "Turalyon",
 },
-["Player-1185-0D61B051"] = {
-["class"] = "DEATHKNIGHT",
-["name"] = "Adreya",
-["realm"] = "Bloodscalp",
-},
-["Player-3685-0EBE5663"] = {
-["class"] = "SHAMAN",
-["name"] = "Brewenjoyer",
+["Player-3685-07180DDD"] = {
+["class"] = "MONK",
+["name"] = "Drunkan",
 ["realm"] = "Turalyon",
 },
-["Player-1185-0D28815F"] = {
-["class"] = "HUNTER",
-["name"] = "Wake",
-["realm"] = "Bloodscalp",
-},
-["Player-3685-0EBE55AA"] = {
-["class"] = "SHAMAN",
-["name"] = "Brewenjoyer",
-["realm"] = "Turalyon",
-},
-["Player-1185-0D2880F2"] = {
+["Player-3685-0EBE288E"] = {
 ["class"] = "PRIEST",
-["name"] = "Jeryn",
-["realm"] = "Bloodscalp",
+["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
 },
-["Player-3685-0EBE447E"] = {
+["Player-3685-0EBE5599"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
+["realm"] = "Turalyon",
+},
+["Player-3685-0ACADE27"] = {
+["class"] = "WARLOCK",
+["name"] = "Aduum",
+["realm"] = "Turalyon",
+},
+["Player-3685-0E7B47C1"] = {
+["class"] = "DEMONHUNTER",
+["name"] = "Adonis",
 ["realm"] = "Turalyon",
 },
 ["Player-3685-0EBE2870"] = {
@@ -334,8 +334,8 @@ WQTrackerDB = {
 ["name"] = "Adamantium",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE2877"] = {
-["class"] = "PRIEST",
+["Player-3685-0EBE5595"] = {
+["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
@@ -349,7 +349,7 @@ WQTrackerDB = {
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE448E"] = {
+["Player-3685-0EBE55EF"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
@@ -359,7 +359,7 @@ WQTrackerDB = {
 ["name"] = "Amdam",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE55E4"] = {
+["Player-3685-0EBE55BE"] = {
 ["class"] = "SHAMAN",
 ["name"] = "Brewenjoyer",
 ["realm"] = "Turalyon",
@@ -369,15 +369,15 @@ WQTrackerDB = {
 ["name"] = "Adamn",
 ["realm"] = "Turalyon",
 },
-["Player-3685-0EBE2885"] = {
-["class"] = "PRIEST",
-["name"] = "Brewenjoyer",
+["Player-3685-0717BEFC"] = {
+["class"] = "HUNTER",
+["name"] = "Adrid",
 ["realm"] = "Turalyon",
 },
-["Player-55-028A5CCC"] = {
-["class"] = "PRIEST",
-["name"] = "Experiment",
-["realm"] = "Whisperwind",
+["Player-3685-0D056B5D"] = {
+["class"] = "DEATHKNIGHT",
+["name"] = "Asaam",
+["realm"] = "Turalyon",
 },
 },
 ["clicked_order_by_once"] = true,
@@ -393,23 +393,23 @@ WQTrackerDB = {
 [300618] = true,
 [305184] = true,
 [300617] = true,
-[305188] = true,
+[0] = true,
 [305192] = true,
 [305187] = true,
-[0] = true,
+[305188] = true,
 },
 ["quests_tracked"] = {
-["Player-3685-0EC4EEC1"] = {
+["Player-55-028A5CCC"] = {
 },
-["Player-3685-0717BEFC"] = {
+["Player-3685-0EBE2885"] = {
 },
-["Player-3685-0EBE55EF"] = {
+["Player-3685-0ECDE0E1"] = {
 },
-["Player-3685-0EBE55BE"] = {
+["Player-3685-0EBE55E4"] = {
 },
 ["Player-3685-0E6E79DF"] = {
 },
-["Player-3685-0D056B5D"] = {
+["Player-3685-0EBE4479"] = {
 },
 ["Player-3685-0DFC95BB"] = {
 },
@@ -417,59 +417,59 @@ WQTrackerDB = {
 },
 ["Player-3685-0E99D803"] = {
 },
-["Player-3685-0A7F3116"] = {
+["Player-3685-099FD3E3"] = {
 },
 ["Player-3685-0EBE564F"] = {
 },
-["Player-3685-0EBE4479"] = {
-},
-["Player-3685-0ECDE0E1"] = {
-},
-["Player-3685-0EBE5595"] = {
-},
 ["Player-3685-0EBE5642"] = {
+},
+["Player-3685-0A7F3116"] = {
+},
+["Player-3685-0EBE2877"] = {
+},
+["Player-3685-0ECD2195"] = {
 },
 ["Player-3685-0ECDE0D6"] = {
 },
 ["Player-3685-0ECEA118"] = {
 },
-["Player-3685-099FD3E3"] = {
-},
-["Player-3685-0990B6B7"] = {
-},
-["Player-55-02405283"] = {
-},
-["Player-3685-0E7AA059"] = {
-},
-["Player-3685-0EBE5588"] = {
-},
-["Player-3685-09491807"] = {
-},
-["Player-3685-0ECD2195"] = {
-},
-["Player-3685-0EBE55CE"] = {
+["Player-3685-0EBE448E"] = {
 },
 ["Player-3685-0EC41CD1"] = {
 },
+["Player-55-02405283"] = {
+},
+["Player-3685-0EBE447E"] = {
+},
+["Player-3685-0EBE5588"] = {
+},
+["Player-1185-0D2880F2"] = {
+},
+["Player-3685-0EC4EEC1"] = {
+},
+["Player-3685-0EBE55CE"] = {
+},
+["Player-3685-0990B6B7"] = {
+},
 ["Player-3685-0E75565A"] = {
 },
-["Player-3685-0EBE5599"] = {
+["Player-3685-0EBE55AA"] = {
 },
-["Player-3685-0EBE288E"] = {
+["Player-1185-0D28815F"] = {
 },
-["Player-3685-0E7B47C1"] = {
+["Player-3685-0E7AA059"] = {
 },
-["Player-3685-0ACADE27"] = {
+["Player-3685-09491807"] = {
 },
 ["Player-3685-0E728F10"] = {
 },
 ["Player-3685-0EBFE1C9"] = {
 },
-["Player-3685-07180DDD"] = {
+["Player-3685-0EBE5663"] = {
 },
 ["Player-3685-0EBE55FF"] = {
 },
-["Player-3685-0A95F80C"] = {
+["Player-1185-0D61B051"] = {
 },
 ["Player-3685-0EBA63C5"] = {
 },
@@ -483,68 +483,53 @@ WQTrackerDB = {
 },
 ["Player-3685-0ECCF26A"] = {
 },
-["Player-71-07A8DA5F"] = {
+["Player-3685-0EBE287E"] = {
 },
 ["Player-3685-0EBE565A"] = {
 },
+["Player-71-07A8DA5F"] = {
+},
 ["Player-3685-0EBE2896"] = {
 },
-["Player-3685-0EBE287E"] = {
+["Player-3685-0A95F80C"] = {
 },
-["Player-1185-0D61B051"] = {
+["Player-3685-07180DDD"] = {
 },
-["Player-3685-0EBE5663"] = {
+["Player-3685-0EBE288E"] = {
 },
-["Player-1185-0D28815F"] = {
+["Player-3685-0EBE5599"] = {
 },
-["Player-3685-0EBE55AA"] = {
+["Player-3685-0ACADE27"] = {
 },
-["Player-1185-0D2880F2"] = {
-},
-["Player-3685-0EBE447E"] = {
+["Player-3685-0E7B47C1"] = {
 },
 ["Player-3685-0EBE2870"] = {
 },
 ["Player-3685-0E99C27F"] = {
 },
-["Player-3685-0EBE2877"] = {
+["Player-3685-0EBE5595"] = {
 },
 ["Player-3685-0717C7FF"] = {
 },
 ["Player-3685-0EBE559D"] = {
 },
-["Player-3685-0EBE448E"] = {
+["Player-3685-0EBE55EF"] = {
 },
 ["Player-3685-0722C2B9"] = {
 },
-["Player-3685-0EBE55E4"] = {
+["Player-3685-0EBE55BE"] = {
 },
 ["Player-3685-0722B5D5"] = {
 },
-["Player-3685-0EBE2885"] = {
+["Player-3685-0717BEFC"] = {
 },
-["Player-55-028A5CCC"] = {
+["Player-3685-0D056B5D"] = {
 },
 },
 ["quests_all_characters"] = {
 ["Player-3685-0EBFE1C9"] = {
 },
 ["Player-3685-07F1620A"] = {
-[88679] = {
-["expireAt"] = 1788591644,
-["rewardAmount"] = "|cff2292FF269",
-["rewardTexture"] = "Interface\\ICONS\\INV_Chest_Cloth_08",
-},
-[89267] = {
-["expireAt"] = 1788577244,
-["rewardAmount"] = "|cff2292FF269",
-["rewardTexture"] = "Interface\\ICONS\\INV_Boots_Cloth_03",
-},
-[93071] = {
-["expireAt"] = 1788577244,
-["rewardAmount"] = "|cff2292FF266",
-["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Necklace_07",
-},
 },
 ["Player-3685-0DFC95BB"] = {
 },
@@ -554,7 +539,12 @@ WQTrackerDB = {
 },
 ["Player-3685-099FD3E3"] = {
 },
-["Player-3685-0ACADE27"] = {
+["Player-3685-09491807"] = {
+[91490] = {
+["expireAt"] = 1785099615,
+["rewardAmount"] = "|cff2292FF151",
+["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+},
 },
 ["Player-3685-0ECDE0E1"] = {
 },
@@ -584,7 +574,36 @@ WQTrackerDB = {
 },
 ["Player-3685-0EC4EEC1"] = {
 },
+["Player-3685-0717C7FF"] = {
+},
 ["Player-3685-0EC41CD1"] = {
+},
+["Player-3685-0722C2B9"] = {
+[93671] = {
+["expireAt"] = 1788980506,
+["rewardAmount"] = "|cff2292FF266",
+["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+},
+[88992] = {
+["expireAt"] = 1788764446,
+["rewardAmount"] = "|cff2292FF269",
+["rewardTexture"] = "Interface\\ICONS\\INV_Bracer_07",
+},
+[91555] = {
+["expireAt"] = 1788879646,
+["rewardAmount"] = "|cff2292FF266",
+["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+},
+[92583] = {
+["expireAt"] = 1789030846,
+["rewardAmount"] = "|cff2292FF276",
+["rewardTexture"] = "Interface\\ICONS\\INV_Misc_Cape_19",
+},
+[92731] = {
+["expireAt"] = 1789030846,
+["rewardAmount"] = "|cff2292FF269",
+["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
+},
 },
 ["Player-3685-0990B6B7"] = {
 [91555] = {
@@ -592,31 +611,12 @@ WQTrackerDB = {
 ["rewardAmount"] = "|cff2292FF266",
 ["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
 },
-[89377] = {
-["expireAt"] = 1788649241,
-["rewardAmount"] = "|cff2292FF269",
-["rewardTexture"] = "Interface\\ICONS\\INV_Sword_39",
-},
-},
-["Player-3685-0722C2B9"] = {
-[91555] = {
-["expireAt"] = 1788879634,
-["rewardAmount"] = "|cff2292FF266",
-["rewardTexture"] = "Interface\\ICONS\\INV_Jewelry_Ring_22",
-},
-},
-["Player-3685-0717C7FF"] = {
 },
 ["Player-3685-0722B5D5"] = {
 },
 ["Player-3685-0717BEFC"] = {
 },
-["Player-3685-09491807"] = {
-[91490] = {
-["expireAt"] = 1785099615,
-["rewardAmount"] = "|cff2292FF151",
-["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
-},
+["Player-3685-0ACADE27"] = {
 },
 },
 ["low_level_tutorial"] = true,
@@ -628,6 +628,2515 @@ WQTrackerDB = {
 ["scale"] = 1,
 },
 ["history"] = {
+["period"] = {
+["global"] = {
+["251004"] = {
+["quest"] = 1,
+},
+["250504"] = {
+["quest"] = 1,
+},
+["250321"] = {
+["artifact"] = 200,
+["resource"] = 261,
+["quest"] = 13,
+},
+["250427"] = {
+["artifact"] = 200,
+["quest"] = 1,
+["resource"] = 200,
+},
+["251108"] = {
+["quest"] = 1,
+},
+["250803"] = {
+["quest"] = 1,
+},
+["260516"] = {
+["quest"] = 2,
+["gold"] = 683200,
+},
+["251006"] = {
+["quest"] = 6,
+["resource"] = 130,
+},
+["250125"] = {
+["quest"] = 1,
+},
+["250603"] = {
+["quest"] = 1,
+},
+["250812"] = {
+["quest"] = 11,
+["resource"] = 1000,
+["gold"] = 9951100,
+},
+["251116"] = {
+["quest"] = 1,
+},
+["250701"] = {
+["quest"] = 1,
+},
+["241004"] = {
+["quest"] = 1,
+["gold"] = 9849700,
+},
+["250205"] = {
+["quest"] = 4,
+["gold"] = 8153500,
+},
+["240919"] = {
+["quest"] = 3,
+},
+["250608"] = {
+["quest"] = 1,
+},
+["251014"] = {
+["resource"] = 1000,
+["quest"] = 25,
+["gold"] = 1170000,
+},
+["260319"] = {
+["resource"] = 50,
+["quest"] = 4,
+["gold"] = 341600,
+},
+["250419"] = {
+["quest"] = 11,
+["resource"] = 85,
+},
+["241006"] = {
+["quest"] = 1,
+["gold"] = 9849700,
+},
+["250806"] = {
+["resource"] = 1000,
+["quest"] = 4,
+["gold"] = 86400,
+},
+["250510"] = {
+["quest"] = 1,
+["resource"] = 100,
+},
+["250930"] = {
+["quest"] = 6,
+},
+["251020"] = {
+["resource"] = 200,
+["quest"] = 16,
+["gold"] = 234000,
+},
+["240926"] = {
+["quest"] = 6,
+},
+["250811"] = {
+["quest"] = 24,
+["resource"] = 43,
+["gold"] = 8096500,
+},
+["250617"] = {
+["quest"] = 1,
+},
+["241217"] = {
+["quest"] = 2,
+},
+["260304"] = {
+["quest"] = 6,
+},
+["260320"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["250722"] = {
+["quest"] = 2,
+},
+["250620"] = {
+["quest"] = 3,
+},
+["241005"] = {
+["artifact"] = 200,
+["quest"] = 1,
+["resource"] = 200,
+},
+["250212"] = {
+["quest"] = 3,
+},
+["250311"] = {
+["quest"] = 8,
+},
+["250616"] = {
+["quest"] = 2,
+},
+["241105"] = {
+["resource"] = 1027,
+["quest"] = 11,
+["gold"] = 9928000,
+},
+["250410"] = {
+["resource"] = 150,
+["quest"] = 5,
+["gold"] = 9749600,
+},
+["250322"] = {
+["quest"] = 6,
+["resource"] = 161,
+},
+["250821"] = {
+["quest"] = 4,
+},
+["250408"] = {
+["quest"] = 2,
+},
+["250717"] = {
+["quest"] = 1,
+},
+["250323"] = {
+["quest"] = 4,
+["resource"] = 100,
+},
+["241223"] = {
+["quest"] = 3,
+["gold"] = 9852100,
+},
+["250326"] = {
+["quest"] = 2,
+},
+["250307"] = {
+["quest"] = 3,
+["resource"] = 45,
+},
+["260308"] = {
+["quest"] = 8,
+["resource"] = 150,
+["gold"] = 683200,
+},
+["250706"] = {
+["quest"] = 1,
+},
+["250217"] = {
+["quest"] = 5,
+},
+["250105"] = {
+["quest"] = 2,
+["resource"] = 29,
+},
+["250601"] = {
+["quest"] = 1,
+},
+["251028"] = {
+["quest"] = 1,
+},
+["250130"] = {
+["quest"] = 7,
+},
+["250819"] = {
+["quest"] = 10,
+["resource"] = 150,
+},
+["250816"] = {
+["quest"] = 10,
+["resource"] = 45,
+},
+["251018"] = {
+["resource"] = 2084,
+["quest"] = 41,
+["gold"] = 2574000,
+},
+["250817"] = {
+["quest"] = 1,
+},
+["250424"] = {
+["quest"] = 3,
+},
+["250302"] = {
+["quest"] = 2,
+["resource"] = 150,
+["gold"] = 9854900,
+},
+["250405"] = {
+["quest"] = 1,
+},
+["251024"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["251208"] = {
+["quest"] = 1,
+},
+["250514"] = {
+["quest"] = 1,
+},
+["260523"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["241017"] = {
+["artifact"] = 230,
+["resource"] = 230,
+["quest"] = 2,
+["gold"] = 702000,
+},
+["251012"] = {
+["quest"] = 1,
+},
+["250101"] = {
+["quest"] = 3,
+},
+["241112"] = {
+["artifact"] = 55,
+["resource"] = 155,
+["quest"] = 16,
+["gold"] = 702000,
+},
+["251015"] = {
+["quest"] = 37,
+["resource"] = 1936,
+["gold"] = 2340000,
+},
+["260209"] = {
+["quest"] = 4,
+},
+["250208"] = {
+["quest"] = 2,
+["resource"] = 35,
+},
+["250430"] = {
+["quest"] = 1,
+},
+["251114"] = {
+["quest"] = 1,
+},
+["241018"] = {
+["quest"] = 2,
+},
+["260417"] = {
+["quest"] = 6,
+["gold"] = 10180286,
+},
+["241024"] = {
+["quest"] = 6,
+["resource"] = 1049,
+},
+["241016"] = {
+["quest"] = 8,
+},
+["250901"] = {
+["quest"] = 6,
+["resource"] = 388,
+},
+["250526"] = {
+["quest"] = 3,
+},
+["260315"] = {
+["quest"] = 10,
+["gold"] = 341600,
+},
+["241021"] = {
+["artifact"] = 36,
+["quest"] = 2,
+["resource"] = 36,
+},
+["241015"] = {
+["quest"] = 2,
+},
+["241008"] = {
+["quest"] = 2,
+},
+["250116"] = {
+["quest"] = 6,
+},
+["250918"] = {
+["artifact"] = 30,
+["resource"] = 121,
+["quest"] = 6,
+},
+["250411"] = {
+["quest"] = 1,
+},
+["251117"] = {
+["resource"] = 200,
+["quest"] = 1,
+["gold"] = 234000,
+},
+["260208"] = {
+["quest"] = 8,
+["resource"] = 32,
+},
+["250310"] = {
+["quest"] = 1,
+},
+["241114"] = {
+["quest"] = 1,
+["resource"] = 100,
+},
+["250808"] = {
+["quest"] = 1,
+},
+["250820"] = {
+["quest"] = 7,
+["resource"] = 45,
+["gold"] = 9994900,
+},
+["250109"] = {
+["quest"] = 2,
+},
+["240920"] = {
+["quest"] = 5,
+["gold"] = 21269400,
+},
+["260324"] = {
+["quest"] = 2,
+},
+["240923"] = {
+["quest"] = 6,
+},
+["250509"] = {
+["quest"] = 1,
+},
+["260310"] = {
+["quest"] = 12,
+["resource"] = 300,
+["gold"] = 1024800,
+},
+["250222"] = {
+["quest"] = 1,
+},
+["260201"] = {
+["quest"] = 1,
+},
+["251023"] = {
+["quest"] = 4,
+["gold"] = 234000,
+},
+["240925"] = {
+["quest"] = 11,
+["gold"] = 18280000,
+},
+["250516"] = {
+["quest"] = 1,
+},
+["250719"] = {
+["quest"] = 1,
+},
+["250913"] = {
+["quest"] = 1,
+},
+["260514"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["251009"] = {
+["quest"] = 1,
+},
+["251013"] = {
+["quest"] = 31,
+["resource"] = 1148,
+["gold"] = 1404000,
+},
+["250908"] = {
+["quest"] = 3,
+},
+["250421"] = {
+["quest"] = 2,
+},
+["250827"] = {
+["quest"] = 7,
+["resource"] = 202,
+},
+["241124"] = {
+["quest"] = 2,
+["resource"] = 43,
+},
+["251011"] = {
+["quest"] = 9,
+["resource"] = 600,
+["gold"] = 702000,
+},
+["250910"] = {
+["quest"] = 6,
+["gold"] = 10018700,
+},
+["250114"] = {
+["quest"] = 1,
+},
+["260401"] = {
+["quest"] = 1,
+["resource"] = 50,
+},
+["260303"] = {
+["quest"] = 7,
+},
+["250304"] = {
+["quest"] = 8,
+},
+["250107"] = {
+["quest"] = 4,
+["resource"] = 29,
+},
+["241003"] = {
+["quest"] = 1,
+},
+["251021"] = {
+["quest"] = 12,
+["resource"] = 1078,
+["gold"] = 1404000,
+},
+["250131"] = {
+["quest"] = 13,
+},
+["241025"] = {
+["quest"] = 1,
+},
+["250313"] = {
+["quest"] = 2,
+},
+["251026"] = {
+["quest"] = 2,
+["gold"] = 606600,
+},
+["241020"] = {
+["quest"] = 4,
+},
+["260402"] = {
+["quest"] = 1,
+},
+["241011"] = {
+["quest"] = 7,
+["gold"] = 9836900,
+},
+["241218"] = {
+["quest"] = 2,
+},
+["241231"] = {
+["quest"] = 4,
+["gold"] = 2106000,
+},
+["251213"] = {
+["resource"] = 300,
+["quest"] = 9,
+["gold"] = 234000,
+},
+["241224"] = {
+["quest"] = 3,
+["gold"] = 702000,
+},
+["250520"] = {
+["quest"] = 1,
+},
+["260628"] = {
+["quest"] = 1,
+},
+["250216"] = {
+["quest"] = 2,
+["resource"] = 1000,
+["gold"] = 702000,
+},
+["241120"] = {
+["quest"] = 2,
+},
+["250227"] = {
+["quest"] = 2,
+},
+["241229"] = {
+["quest"] = 10,
+["gold"] = 17013200,
+},
+["260313"] = {
+["quest"] = 1,
+["resource"] = 150,
+},
+["250813"] = {
+["quest"] = 8,
+["resource"] = 45,
+},
+["241026"] = {
+["quest"] = 12,
+["resource"] = 82,
+},
+["250103"] = {
+["quest"] = 5,
+["gold"] = 18002800,
+},
+["251001"] = {
+["artifact"] = 30,
+["quest"] = 6,
+["resource"] = 30,
+},
+["250201"] = {
+["resource"] = 1000,
+["quest"] = 5,
+["gold"] = 702000,
+},
+["251127"] = {
+["quest"] = 16,
+["resource"] = 1980,
+["gold"] = 5148000,
+},
+["250124"] = {
+["quest"] = 1,
+["gold"] = 702000,
+},
+["250129"] = {
+["quest"] = 4,
+},
+["250810"] = {
+["quest"] = 4,
+},
+["241009"] = {
+["quest"] = 1,
+["gold"] = 9836900,
+},
+["250407"] = {
+["quest"] = 1,
+["resource"] = 100,
+["gold"] = 9982300,
+},
+["250315"] = {
+["quest"] = 7,
+["gold"] = 702000,
+},
+["250824"] = {
+["quest"] = 9,
+["resource"] = 345,
+},
+["250119"] = {
+["quest"] = 2,
+},
+["260621"] = {
+["quest"] = 4,
+},
+["241227"] = {
+["quest"] = 4,
+["gold"] = 8179900,
+},
+["260331"] = {
+["quest"] = 1,
+},
+["260807"] = {
+["quest"] = 5,
+["resource"] = 200,
+},
+["260207"] = {
+["quest"] = 4,
+},
+["260424"] = {
+["quest"] = 2,
+["resource"] = 75,
+},
+["250108"] = {
+["quest"] = 1,
+},
+["251130"] = {
+["resource"] = 200,
+["quest"] = 4,
+["gold"] = 702000,
+},
+["241107"] = {
+["quest"] = 1,
+},
+["241001"] = {
+["quest"] = 2,
+},
+["250202"] = {
+["quest"] = 6,
+["gold"] = 16243100,
+},
+["260620"] = {
+["quest"] = 1,
+},
+["260407"] = {
+["quest"] = 1,
+},
+["250204"] = {
+["quest"] = 2,
+},
+["250417"] = {
+["artifact"] = 200,
+["quest"] = 6,
+["resource"] = 200,
+},
+["251209"] = {
+["resource"] = 600,
+["quest"] = 4,
+["gold"] = 1872000,
+},
+["250828"] = {
+["quest"] = 5,
+["gold"] = 9797100,
+},
+["260418"] = {
+["quest"] = 2,
+["gold"] = 341600,
+},
+["260501"] = {
+["quest"] = 1,
+["gold"] = 10941972,
+},
+["260428"] = {
+["quest"] = 2,
+["gold"] = 11283572,
+},
+["250814"] = {
+["resource"] = 45,
+["quest"] = 5,
+["gold"] = 10010500,
+},
+["260330"] = {
+["quest"] = 1,
+},
+["251022"] = {
+["resource"] = 400,
+["quest"] = 13,
+["gold"] = 468000,
+},
+["250911"] = {
+["quest"] = 6,
+},
+["260311"] = {
+["quest"] = 3,
+["gold"] = 319000,
+},
+["260411"] = {
+["quest"] = 1,
+["resource"] = 40,
+},
+["250228"] = {
+["quest"] = 1,
+},
+["260309"] = {
+["quest"] = 4,
+["gold"] = 319000,
+},
+["241122"] = {
+["quest"] = 4,
+["resource"] = 100,
+},
+["260405"] = {
+["quest"] = 1,
+["resource"] = 40,
+},
+["240929"] = {
+["quest"] = 2,
+},
+["251105"] = {
+["quest"] = 2,
+["resource"] = 200,
+},
+["250826"] = {
+["quest"] = 12,
+["resource"] = 101,
+},
+["251129"] = {
+["quest"] = 6,
+["gold"] = 7655500,
+},
+["250905"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["251019"] = {
+["resource"] = 800,
+["quest"] = 24,
+["gold"] = 936000,
+},
+["260307"] = {
+["quest"] = 8,
+},
+["250906"] = {
+["quest"] = 13,
+["resource"] = 450,
+},
+["241226"] = {
+["quest"] = 1,
+},
+["250409"] = {
+["quest"] = 2,
+},
+["250306"] = {
+["resource"] = 45,
+["quest"] = 4,
+["gold"] = 17969800,
+},
+["250126"] = {
+["quest"] = 14,
+["gold"] = 9590300,
+},
+["250415"] = {
+["quest"] = 7,
+},
+["250807"] = {
+["resource"] = 116,
+["quest"] = 14,
+["gold"] = 17831700,
+},
+["250316"] = {
+["quest"] = 1,
+},
+["251110"] = {
+["quest"] = 1,
+},
+["250301"] = {
+["quest"] = 3,
+},
+["251215"] = {
+["quest"] = 4,
+["resource"] = 200,
+["gold"] = 702000,
+},
+["250331"] = {
+["resource"] = 150,
+["quest"] = 6,
+["gold"] = 8423800,
+},
+["250818"] = {
+["quest"] = 2,
+},
+["250507"] = {
+["quest"] = 1,
+["resource"] = 1000,
+},
+["250809"] = {
+["quest"] = 10,
+["gold"] = 7968300,
+},
+["251128"] = {
+["quest"] = 8,
+["resource"] = 687,
+["gold"] = 1170000,
+},
+["250429"] = {
+["quest"] = 1,
+},
+["260126"] = {
+["quest"] = 1,
+["gold"] = 9950100,
+},
+["250527"] = {
+["quest"] = 1,
+},
+["260321"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["250607"] = {
+["quest"] = 4,
+},
+["250916"] = {
+["quest"] = 6,
+["resource"] = 241,
+},
+["260422"] = {
+["quest"] = 3,
+},
+["251016"] = {
+["resource"] = 1000,
+["quest"] = 40,
+["gold"] = 1170000,
+},
+["241225"] = {
+["quest"] = 2,
+},
+["250325"] = {
+["quest"] = 9,
+["resource"] = 250,
+},
+["250829"] = {
+["quest"] = 6,
+},
+["241121"] = {
+["artifact"] = 200,
+["quest"] = 8,
+["resource"] = 200,
+["gold"] = 17301300,
+},
+["260127"] = {
+["quest"] = 4,
+["resource"] = 30,
+},
+["250401"] = {
+["artifact"] = 200,
+["resource"] = 1200,
+["quest"] = 3,
+},
+["240922"] = {
+["quest"] = 6,
+["resource"] = 34,
+},
+["250909"] = {
+["quest"] = 13,
+["gold"] = 10018700,
+},
+["250823"] = {
+["quest"] = 5,
+},
+["260212"] = {
+["quest"] = 3,
+},
+["250318"] = {
+["quest"] = 4,
+["resource"] = 1000,
+},
+["260415"] = {
+["quest"] = 2,
+},
+["260306"] = {
+["quest"] = 1,
+},
+["251010"] = {
+["quest"] = 7,
+},
+["250515"] = {
+["quest"] = 1,
+},
+["250223"] = {
+["quest"] = 4,
+["gold"] = 7936300,
+},
+["250904"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["240930"] = {
+["quest"] = 4,
+["gold"] = 8336800,
+},
+["250531"] = {
+["quest"] = 3,
+},
+["260818"] = {
+["quest"] = 1,
+},
+["250328"] = {
+["quest"] = 3,
+},
+["241110"] = {
+["quest"] = 3,
+["gold"] = 9928000,
+},
+["260305"] = {
+["quest"] = 4,
+},
+["260829"] = {
+["quest"] = 1,
+},
+["251107"] = {
+["quest"] = 2,
+["resource"] = 1000,
+},
+["250825"] = {
+["artifact"] = 200,
+["quest"] = 25,
+["resource"] = 300,
+["gold"] = 31177200,
+},
+["251104"] = {
+["quest"] = 12,
+["resource"] = 600,
+["gold"] = 1170000,
+},
+["241103"] = {
+["quest"] = 3,
+},
+["250907"] = {
+["quest"] = 5,
+["resource"] = 77,
+},
+["250312"] = {
+["resource"] = 50,
+["quest"] = 1,
+["gold"] = 8196300,
+},
+["251030"] = {
+["quest"] = 3,
+["resource"] = 1000,
+},
+["250815"] = {
+["quest"] = 3,
+},
+["251027"] = {
+["quest"] = 1,
+},
+["241230"] = {
+["quest"] = 3,
+},
+["260325"] = {
+["quest"] = 3,
+["gold"] = 341600,
+},
+["251113"] = {
+["quest"] = 1,
+},
+["250903"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["251106"] = {
+["quest"] = 6,
+["resource"] = 400,
+["gold"] = 1404000,
+},
+["250917"] = {
+["artifact"] = 30,
+["resource"] = 121,
+["quest"] = 6,
+},
+["250702"] = {
+["quest"] = 2,
+},
+["250902"] = {
+["quest"] = 12,
+["gold"] = 8189800,
+},
+["250305"] = {
+["quest"] = 1,
+["resource"] = 1000,
+},
+["250218"] = {
+["quest"] = 1,
+},
+["240921"] = {
+["quest"] = 2,
+},
+["250314"] = {
+["artifact"] = 200,
+["quest"] = 2,
+["resource"] = 200,
+},
+["251118"] = {
+["quest"] = 12,
+["resource"] = 697,
+["gold"] = 1170000,
+},
+["251017"] = {
+["quest"] = 43,
+["resource"] = 1600,
+["gold"] = 1872000,
+},
+["241219"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["241029"] = {
+["quest"] = 8,
+["gold"] = 20274600,
+},
+["260128"] = {
+["artifact"] = 20,
+["quest"] = 2,
+["resource"] = 20,
+},
+["260302"] = {
+["quest"] = 7,
+},
+["260423"] = {
+["quest"] = 1,
+},
+["240924"] = {
+["quest"] = 5,
+["gold"] = 10085200,
+},
+["250110"] = {
+["quest"] = 1,
+},
+["250118"] = {
+["quest"] = 9,
+},
+["251029"] = {
+["quest"] = 1,
+},
+["241109"] = {
+["quest"] = 3,
+},
+["250104"] = {
+["quest"] = 4,
+["resource"] = 150,
+},
+["241019"] = {
+["artifact"] = 30,
+["quest"] = 1,
+["resource"] = 30,
+["gold"] = 702000,
+},
+["251025"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["251103"] = {
+["quest"] = 1,
+},
+["250317"] = {
+["quest"] = 1,
+["resource"] = 92,
+},
+["241012"] = {
+["quest"] = 2,
+},
+["250618"] = {
+["quest"] = 1,
+},
+["250225"] = {
+["quest"] = 1,
+},
+["250802"] = {
+["quest"] = 1,
+},
+["250309"] = {
+["quest"] = 5,
+},
+["251212"] = {
+["resource"] = 200,
+["quest"] = 4,
+["gold"] = 702000,
+},
+["250923"] = {
+["quest"] = 6,
+["resource"] = 94,
+},
+["251031"] = {
+["quest"] = 1,
+},
+["241106"] = {
+["quest"] = 10,
+},
+["260906"] = {
+["quest"] = 1,
+},
+["250528"] = {
+["quest"] = 1,
+},
+["260316"] = {
+["quest"] = 4,
+["gold"] = 341600,
+},
+["260413"] = {
+["quest"] = 3,
+["gold"] = 11077588,
+},
+["260403"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["250604"] = {
+["quest"] = 1,
+},
+["251003"] = {
+["artifact"] = 30,
+["quest"] = 6,
+["resource"] = 30,
+},
+["260606"] = {
+["quest"] = 1,
+["resource"] = 75,
+},
+["250303"] = {
+["quest"] = 4,
+["resource"] = 150,
+},
+["250420"] = {
+["resource"] = 34,
+["quest"] = 4,
+["gold"] = 8110600,
+},
+["250327"] = {
+["resource"] = 45,
+["quest"] = 1,
+["gold"] = 9651200,
+},
+["260822"] = {
+["quest"] = 1,
+},
+["251206"] = {
+["resource"] = 600,
+["quest"] = 4,
+["gold"] = 1638000,
+},
+["260830"] = {
+["quest"] = 4,
+},
+},
+["character"] = {
+["Player-3685-07180DDD"] = {
+["250410"] = {
+["resource"] = 150,
+["quest"] = 5,
+["gold"] = 9749600,
+},
+["250409"] = {
+["quest"] = 1,
+},
+["250217"] = {
+["quest"] = 5,
+},
+["250218"] = {
+["quest"] = 1,
+},
+["250415"] = {
+["quest"] = 7,
+},
+["250408"] = {
+["quest"] = 1,
+},
+["250223"] = {
+["quest"] = 2,
+},
+["250407"] = {
+["quest"] = 1,
+["resource"] = 100,
+["gold"] = 9982300,
+},
+["250216"] = {
+["quest"] = 2,
+["resource"] = 1000,
+["gold"] = 702000,
+},
+},
+["Player-3685-0EBFE1C9"] = {
+["251020"] = {
+["quest"] = 4,
+},
+["251025"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["251019"] = {
+["resource"] = 800,
+["quest"] = 20,
+["gold"] = 936000,
+},
+["251104"] = {
+["quest"] = 12,
+["resource"] = 600,
+["gold"] = 1170000,
+},
+["251031"] = {
+["quest"] = 1,
+},
+["251108"] = {
+["quest"] = 1,
+},
+["251011"] = {
+["quest"] = 9,
+["resource"] = 600,
+["gold"] = 702000,
+},
+["251018"] = {
+["resource"] = 2084,
+["quest"] = 35,
+["gold"] = 2574000,
+},
+["251027"] = {
+["quest"] = 1,
+},
+["251113"] = {
+["quest"] = 1,
+},
+["251106"] = {
+["quest"] = 6,
+["resource"] = 400,
+["gold"] = 1404000,
+},
+["251024"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["251107"] = {
+["quest"] = 1,
+},
+["251118"] = {
+["quest"] = 12,
+["resource"] = 697,
+["gold"] = 1170000,
+},
+["251116"] = {
+["quest"] = 1,
+},
+["251012"] = {
+["quest"] = 1,
+},
+["251110"] = {
+["quest"] = 1,
+},
+["251215"] = {
+["quest"] = 4,
+["resource"] = 200,
+["gold"] = 702000,
+},
+["251206"] = {
+["resource"] = 600,
+["quest"] = 4,
+["gold"] = 1638000,
+},
+["251021"] = {
+["quest"] = 12,
+["resource"] = 1078,
+["gold"] = 1404000,
+},
+["251128"] = {
+["quest"] = 8,
+["resource"] = 687,
+["gold"] = 1170000,
+},
+["251015"] = {
+["quest"] = 37,
+["resource"] = 1936,
+["gold"] = 2340000,
+},
+["251026"] = {
+["quest"] = 1,
+},
+["251103"] = {
+["quest"] = 1,
+},
+["251014"] = {
+["resource"] = 1000,
+["quest"] = 25,
+["gold"] = 1170000,
+},
+["251114"] = {
+["quest"] = 1,
+},
+["251029"] = {
+["quest"] = 1,
+},
+["251023"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["251213"] = {
+["quest"] = 1,
+["gold"] = 234000,
+},
+["251212"] = {
+["resource"] = 200,
+["quest"] = 4,
+["gold"] = 702000,
+},
+["251117"] = {
+["resource"] = 200,
+["quest"] = 1,
+["gold"] = 234000,
+},
+["251016"] = {
+["resource"] = 1000,
+["quest"] = 38,
+["gold"] = 1170000,
+},
+["251013"] = {
+["quest"] = 31,
+["resource"] = 1148,
+["gold"] = 1404000,
+},
+["251028"] = {
+["quest"] = 1,
+},
+["251010"] = {
+["quest"] = 7,
+},
+["251017"] = {
+["quest"] = 31,
+["resource"] = 1000,
+["gold"] = 1170000,
+},
+["251130"] = {
+["resource"] = 200,
+["quest"] = 4,
+["gold"] = 702000,
+},
+["251009"] = {
+["quest"] = 1,
+},
+["251105"] = {
+["quest"] = 2,
+["resource"] = 200,
+},
+["251209"] = {
+["resource"] = 600,
+["quest"] = 4,
+["gold"] = 1872000,
+},
+["251022"] = {
+["resource"] = 400,
+["quest"] = 13,
+["gold"] = 468000,
+},
+["251127"] = {
+["quest"] = 16,
+["resource"] = 1980,
+["gold"] = 5148000,
+},
+},
+["Player-3685-099FD3E3"] = {
+["250507"] = {
+["quest"] = 1,
+["resource"] = 1000,
+},
+["250119"] = {
+["quest"] = 2,
+},
+["241229"] = {
+["quest"] = 4,
+["gold"] = 8506600,
+},
+["250509"] = {
+["quest"] = 1,
+},
+["241124"] = {
+["quest"] = 1,
+["resource"] = 43,
+},
+["241227"] = {
+["quest"] = 3,
+["gold"] = 8179900,
+},
+["250430"] = {
+["quest"] = 1,
+},
+["260201"] = {
+["quest"] = 1,
+},
+["241225"] = {
+["quest"] = 1,
+},
+["250419"] = {
+["quest"] = 9,
+["resource"] = 85,
+},
+["250424"] = {
+["quest"] = 2,
+},
+["250125"] = {
+["quest"] = 1,
+},
+["241224"] = {
+["quest"] = 1,
+},
+["250901"] = {
+["quest"] = 6,
+["resource"] = 388,
+},
+["250514"] = {
+["quest"] = 1,
+},
+["250515"] = {
+["quest"] = 1,
+},
+["241223"] = {
+["quest"] = 3,
+["gold"] = 9852100,
+},
+["250421"] = {
+["quest"] = 2,
+},
+["250616"] = {
+["quest"] = 2,
+},
+["250531"] = {
+["quest"] = 1,
+},
+["241122"] = {
+["quest"] = 4,
+["resource"] = 100,
+},
+["260207"] = {
+["quest"] = 4,
+},
+},
+["Player-3685-0ACADE27"] = {
+["250802"] = {
+["quest"] = 1,
+},
+["250803"] = {
+["quest"] = 1,
+},
+["250810"] = {
+["quest"] = 1,
+},
+},
+["Player-3685-0A7F3116"] = {
+["250110"] = {
+["quest"] = 1,
+},
+["250118"] = {
+["quest"] = 9,
+},
+["250824"] = {
+["quest"] = 8,
+["resource"] = 345,
+},
+["250108"] = {
+["quest"] = 1,
+},
+["260621"] = {
+["quest"] = 4,
+},
+["250905"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["250109"] = {
+["quest"] = 2,
+},
+["260628"] = {
+["quest"] = 1,
+},
+["250208"] = {
+["quest"] = 2,
+["resource"] = 35,
+},
+["250202"] = {
+["quest"] = 1,
+},
+["250829"] = {
+["quest"] = 6,
+},
+["250816"] = {
+["quest"] = 5,
+},
+["260620"] = {
+["quest"] = 1,
+},
+["250126"] = {
+["quest"] = 9,
+["gold"] = 9590300,
+},
+["250116"] = {
+["quest"] = 6,
+},
+},
+["Player-3685-0717C7FF"] = {
+["241112"] = {
+["artifact"] = 55,
+["resource"] = 155,
+["quest"] = 12,
+["gold"] = 702000,
+},
+["241021"] = {
+["quest"] = 1,
+},
+["241103"] = {
+["quest"] = 3,
+},
+["241026"] = {
+["quest"] = 7,
+["resource"] = 33,
+},
+["241110"] = {
+["quest"] = 3,
+["gold"] = 9928000,
+},
+["241105"] = {
+["quest"] = 6,
+["resource"] = 1000,
+},
+["241114"] = {
+["quest"] = 1,
+["resource"] = 100,
+},
+["241219"] = {
+["quest"] = 2,
+["gold"] = 234000,
+},
+["241018"] = {
+["quest"] = 2,
+},
+["241029"] = {
+["quest"] = 7,
+["gold"] = 10137300,
+},
+["241121"] = {
+["artifact"] = 200,
+["quest"] = 8,
+["resource"] = 200,
+["gold"] = 17301300,
+},
+["251129"] = {
+["quest"] = 6,
+["gold"] = 7655500,
+},
+},
+["Player-3685-07F1620A"] = {
+["250225"] = {
+["quest"] = 1,
+},
+["241124"] = {
+["quest"] = 1,
+},
+["250228"] = {
+["quest"] = 1,
+},
+["250826"] = {
+["quest"] = 6,
+["resource"] = 101,
+},
+["250424"] = {
+["quest"] = 1,
+},
+["250302"] = {
+["quest"] = 2,
+["resource"] = 150,
+["gold"] = 9854900,
+},
+["250405"] = {
+["quest"] = 1,
+},
+["250812"] = {
+["quest"] = 11,
+["resource"] = 1000,
+["gold"] = 9951100,
+},
+["260303"] = {
+["quest"] = 7,
+},
+["250304"] = {
+["quest"] = 8,
+},
+["250301"] = {
+["quest"] = 2,
+},
+["250818"] = {
+["quest"] = 1,
+},
+["241025"] = {
+["quest"] = 1,
+},
+["250313"] = {
+["quest"] = 1,
+},
+["260422"] = {
+["quest"] = 3,
+},
+["250325"] = {
+["quest"] = 2,
+},
+["250419"] = {
+["quest"] = 2,
+},
+["241231"] = {
+["quest"] = 1,
+["gold"] = 702000,
+},
+["251213"] = {
+["quest"] = 8,
+["resource"] = 300,
+},
+["241006"] = {
+["quest"] = 1,
+["gold"] = 9849700,
+},
+["250806"] = {
+["quest"] = 1,
+["resource"] = 1000,
+},
+["241224"] = {
+["quest"] = 1,
+["gold"] = 702000,
+},
+["260306"] = {
+["quest"] = 1,
+},
+["260302"] = {
+["quest"] = 7,
+},
+["260128"] = {
+["artifact"] = 20,
+["quest"] = 2,
+["resource"] = 20,
+},
+["250930"] = {
+["quest"] = 6,
+},
+["250227"] = {
+["quest"] = 2,
+},
+["250811"] = {
+["quest"] = 5,
+},
+["250825"] = {
+["quest"] = 14,
+["gold"] = 10618300,
+},
+["250813"] = {
+["quest"] = 4,
+},
+["241026"] = {
+["quest"] = 5,
+["resource"] = 49,
+},
+["250312"] = {
+["resource"] = 50,
+["quest"] = 1,
+["gold"] = 8196300,
+},
+["241230"] = {
+["quest"] = 3,
+},
+["250328"] = {
+["quest"] = 3,
+},
+["250808"] = {
+["quest"] = 1,
+},
+["240921"] = {
+["quest"] = 2,
+},
+["240922"] = {
+["quest"] = 6,
+["resource"] = 34,
+},
+["260307"] = {
+["quest"] = 8,
+},
+["250902"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["250810"] = {
+["quest"] = 2,
+},
+["241009"] = {
+["quest"] = 1,
+["gold"] = 9836900,
+},
+["240920"] = {
+["quest"] = 3,
+["gold"] = 10634700,
+},
+["260829"] = {
+["quest"] = 1,
+},
+["250311"] = {
+["quest"] = 8,
+},
+["260415"] = {
+["quest"] = 1,
+},
+["260324"] = {
+["quest"] = 2,
+},
+["260319"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["260401"] = {
+["quest"] = 1,
+["resource"] = 50,
+},
+["260325"] = {
+["quest"] = 3,
+["gold"] = 341600,
+},
+["250303"] = {
+["quest"] = 1,
+["resource"] = 150,
+},
+["260331"] = {
+["quest"] = 1,
+},
+["250409"] = {
+["quest"] = 1,
+},
+["260304"] = {
+["quest"] = 6,
+},
+["260305"] = {
+["quest"] = 4,
+},
+["250429"] = {
+["quest"] = 1,
+},
+["250223"] = {
+["quest"] = 2,
+["gold"] = 7936300,
+},
+["260310"] = {
+["quest"] = 12,
+["resource"] = 300,
+["gold"] = 1024800,
+},
+["250222"] = {
+["quest"] = 1,
+},
+["250719"] = {
+["quest"] = 1,
+},
+["250401"] = {
+["quest"] = 2,
+["resource"] = 1000,
+},
+["250318"] = {
+["quest"] = 4,
+["resource"] = 1000,
+},
+["250807"] = {
+["quest"] = 9,
+["gold"] = 86400,
+},
+["241029"] = {
+["quest"] = 1,
+["gold"] = 10137300,
+},
+["250103"] = {
+["quest"] = 4,
+["gold"] = 9712200,
+},
+["250306"] = {
+["quest"] = 3,
+["gold"] = 8228900,
+},
+["250305"] = {
+["quest"] = 1,
+["resource"] = 1000,
+},
+["240925"] = {
+["quest"] = 9,
+["gold"] = 10085200,
+},
+["260308"] = {
+["quest"] = 8,
+["resource"] = 150,
+["gold"] = 683200,
+},
+["250706"] = {
+["quest"] = 1,
+},
+["241227"] = {
+["quest"] = 1,
+},
+["241016"] = {
+["quest"] = 4,
+},
+["260514"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["241019"] = {
+["artifact"] = 30,
+["quest"] = 1,
+["resource"] = 30,
+["gold"] = 702000,
+},
+["250322"] = {
+["quest"] = 3,
+["resource"] = 11,
+},
+["260407"] = {
+["quest"] = 1,
+},
+["250909"] = {
+["quest"] = 7,
+},
+["250327"] = {
+["resource"] = 45,
+["quest"] = 1,
+["gold"] = 9651200,
+},
+["250815"] = {
+["quest"] = 2,
+},
+["260818"] = {
+["quest"] = 1,
+},
+["250819"] = {
+["quest"] = 10,
+["resource"] = 150,
+},
+},
+["Player-3685-0DFC95BB"] = {
+["241231"] = {
+["quest"] = 1,
+["gold"] = 702000,
+},
+["241106"] = {
+["quest"] = 10,
+},
+["260606"] = {
+["quest"] = 1,
+["resource"] = 75,
+},
+["241107"] = {
+["quest"] = 1,
+},
+["250105"] = {
+["quest"] = 2,
+["resource"] = 29,
+},
+["241105"] = {
+["quest"] = 4,
+["resource"] = 27,
+},
+["250101"] = {
+["quest"] = 3,
+},
+["241120"] = {
+["quest"] = 1,
+},
+["241112"] = {
+["quest"] = 4,
+},
+["241109"] = {
+["quest"] = 3,
+},
+},
+["Player-3685-0EC4EEC1"] = {
+["251020"] = {
+["resource"] = 200,
+["quest"] = 12,
+["gold"] = 234000,
+},
+["251023"] = {
+["quest"] = 1,
+},
+},
+["Player-3685-0A95F80C"] = {
+["251004"] = {
+["quest"] = 1,
+},
+["250821"] = {
+["quest"] = 4,
+},
+["250504"] = {
+["quest"] = 1,
+},
+["250321"] = {
+["quest"] = 4,
+["resource"] = 50,
+},
+["250411"] = {
+["quest"] = 1,
+},
+["250923"] = {
+["quest"] = 6,
+["resource"] = 94,
+},
+["250317"] = {
+["quest"] = 1,
+["resource"] = 92,
+},
+["251030"] = {
+["quest"] = 1,
+},
+["250816"] = {
+["quest"] = 5,
+["resource"] = 45,
+},
+["250817"] = {
+["quest"] = 1,
+},
+["250323"] = {
+["quest"] = 4,
+["resource"] = 100,
+},
+["260807"] = {
+["quest"] = 5,
+["resource"] = 200,
+},
+["250401"] = {
+["artifact"] = 200,
+["quest"] = 1,
+["resource"] = 200,
+},
+["250307"] = {
+["quest"] = 3,
+["resource"] = 45,
+},
+["250806"] = {
+["quest"] = 3,
+["gold"] = 86400,
+},
+["250818"] = {
+["quest"] = 1,
+},
+["251001"] = {
+["artifact"] = 30,
+["quest"] = 6,
+["resource"] = 30,
+},
+["250326"] = {
+["quest"] = 2,
+},
+["250510"] = {
+["quest"] = 1,
+["resource"] = 100,
+},
+["250827"] = {
+["quest"] = 7,
+["resource"] = 202,
+},
+["250807"] = {
+["resource"] = 116,
+["quest"] = 5,
+["gold"] = 17745300,
+},
+["250316"] = {
+["quest"] = 1,
+},
+["250303"] = {
+["quest"] = 3,
+},
+["250907"] = {
+["quest"] = 5,
+["resource"] = 77,
+},
+["250531"] = {
+["quest"] = 1,
+},
+["260208"] = {
+["quest"] = 4,
+["resource"] = 32,
+},
+["250315"] = {
+["quest"] = 7,
+["gold"] = 702000,
+},
+},
+["Player-3685-0990B6B7"] = {
+["250908"] = {
+["quest"] = 3,
+},
+["250811"] = {
+["quest"] = 8,
+},
+["250813"] = {
+["quest"] = 4,
+["resource"] = 45,
+},
+["250916"] = {
+["quest"] = 6,
+["resource"] = 241,
+},
+["240929"] = {
+["quest"] = 1,
+},
+["250826"] = {
+["quest"] = 6,
+},
+["250820"] = {
+["quest"] = 7,
+["resource"] = 45,
+["gold"] = 9994900,
+},
+["250903"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["251006"] = {
+["quest"] = 6,
+["resource"] = 130,
+},
+["241005"] = {
+["artifact"] = 200,
+["quest"] = 1,
+["resource"] = 200,
+},
+["250603"] = {
+["quest"] = 1,
+},
+["250124"] = {
+["quest"] = 1,
+["gold"] = 702000,
+},
+["250810"] = {
+["quest"] = 1,
+},
+["241017"] = {
+["artifact"] = 230,
+["resource"] = 230,
+["quest"] = 2,
+["gold"] = 702000,
+},
+["240920"] = {
+["quest"] = 2,
+["gold"] = 10634700,
+},
+["250527"] = {
+["quest"] = 1,
+},
+["250809"] = {
+["quest"] = 10,
+["gold"] = 7968300,
+},
+["250824"] = {
+["quest"] = 1,
+},
+["241004"] = {
+["quest"] = 1,
+["gold"] = 9849700,
+},
+["241011"] = {
+["quest"] = 7,
+["gold"] = 9836900,
+},
+["260822"] = {
+["quest"] = 1,
+},
+["260523"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["250620"] = {
+["quest"] = 3,
+},
+["250910"] = {
+["quest"] = 6,
+["gold"] = 10018700,
+},
+["260417"] = {
+["quest"] = 6,
+["gold"] = 10180286,
+},
+["241016"] = {
+["quest"] = 4,
+},
+["260830"] = {
+["quest"] = 4,
+},
+["250528"] = {
+["quest"] = 1,
+},
+["241012"] = {
+["quest"] = 2,
+},
+["250604"] = {
+["quest"] = 1,
+},
+["260424"] = {
+["quest"] = 2,
+["resource"] = 75,
+},
+["260423"] = {
+["quest"] = 1,
+},
+["250815"] = {
+["quest"] = 1,
+},
+["250823"] = {
+["quest"] = 5,
+},
+["240926"] = {
+["quest"] = 6,
+},
+["250526"] = {
+["quest"] = 1,
+},
+["260413"] = {
+["quest"] = 2,
+["gold"] = 11077588,
+},
+["260418"] = {
+["quest"] = 2,
+["gold"] = 341600,
+},
+["260428"] = {
+["quest"] = 2,
+["gold"] = 11283572,
+},
+["240923"] = {
+["quest"] = 6,
+},
+},
+["Player-3685-0722C2B9"] = {
+["250911"] = {
+["quest"] = 6,
+},
+["250427"] = {
+["artifact"] = 200,
+["quest"] = 1,
+["resource"] = 200,
+},
+["240929"] = {
+["quest"] = 1,
+},
+["260516"] = {
+["quest"] = 2,
+["gold"] = 683200,
+},
+["250114"] = {
+["quest"] = 1,
+},
+["250417"] = {
+["artifact"] = 200,
+["quest"] = 6,
+["resource"] = 200,
+},
+["251208"] = {
+["quest"] = 1,
+},
+["250306"] = {
+["resource"] = 45,
+["quest"] = 1,
+["gold"] = 9740900,
+},
+["250701"] = {
+["quest"] = 1,
+},
+["250107"] = {
+["quest"] = 4,
+["resource"] = 29,
+},
+["241003"] = {
+["quest"] = 1,
+},
+["250313"] = {
+["quest"] = 1,
+},
+["251026"] = {
+["quest"] = 1,
+["gold"] = 606600,
+},
+["240919"] = {
+["quest"] = 3,
+},
+["250814"] = {
+["resource"] = 45,
+["quest"] = 5,
+["gold"] = 10010500,
+},
+["260402"] = {
+["quest"] = 1,
+},
+["250618"] = {
+["quest"] = 1,
+},
+["241218"] = {
+["quest"] = 2,
+},
+["241231"] = {
+["quest"] = 2,
+["gold"] = 702000,
+},
+["260501"] = {
+["quest"] = 1,
+["gold"] = 10941972,
+},
+["241024"] = {
+["quest"] = 6,
+["resource"] = 1049,
+},
+["260405"] = {
+["quest"] = 1,
+["resource"] = 40,
+},
+["241224"] = {
+["quest"] = 1,
+},
+["250520"] = {
+["quest"] = 1,
+},
+["260415"] = {
+["quest"] = 1,
+},
+["240924"] = {
+["quest"] = 5,
+["gold"] = 10085200,
+},
+["250526"] = {
+["quest"] = 2,
+},
+["241120"] = {
+["quest"] = 1,
+},
+["260315"] = {
+["quest"] = 10,
+["gold"] = 341600,
+},
+["260330"] = {
+["quest"] = 1,
+},
+["241021"] = {
+["artifact"] = 36,
+["quest"] = 1,
+["resource"] = 36,
+},
+["241015"] = {
+["quest"] = 2,
+},
+["250331"] = {
+["resource"] = 150,
+["quest"] = 6,
+["gold"] = 8423800,
+},
+["250825"] = {
+["artifact"] = 200,
+["quest"] = 11,
+["resource"] = 300,
+["gold"] = 20558900,
+},
+["260313"] = {
+["quest"] = 1,
+["resource"] = 150,
+},
+["260208"] = {
+["quest"] = 4,
+},
+["251030"] = {
+["quest"] = 2,
+["resource"] = 1000,
+},
+["250103"] = {
+["quest"] = 1,
+["gold"] = 8290600,
+},
+["241217"] = {
+["quest"] = 2,
+},
+["260311"] = {
+["quest"] = 3,
+["gold"] = 319000,
+},
+["250722"] = {
+["quest"] = 2,
+},
+["250902"] = {
+["quest"] = 6,
+},
+["251107"] = {
+["quest"] = 1,
+["resource"] = 1000,
+},
+["240930"] = {
+["quest"] = 4,
+["gold"] = 8336800,
+},
+["260403"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["260321"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["260320"] = {
+["quest"] = 1,
+["gold"] = 341600,
+},
+["260309"] = {
+["quest"] = 4,
+["gold"] = 319000,
+},
+["260316"] = {
+["quest"] = 4,
+["gold"] = 341600,
+},
+["241008"] = {
+["quest"] = 2,
+},
+["241105"] = {
+["quest"] = 1,
+["gold"] = 9928000,
+},
+["241229"] = {
+["quest"] = 6,
+["gold"] = 8506600,
+},
+["251003"] = {
+["artifact"] = 30,
+["quest"] = 6,
+["resource"] = 30,
+},
+["250322"] = {
+["quest"] = 3,
+["resource"] = 150,
+},
+["250325"] = {
+["quest"] = 7,
+["resource"] = 250,
+},
+["250104"] = {
+["quest"] = 4,
+["resource"] = 150,
+},
+["250321"] = {
+["artifact"] = 200,
+["resource"] = 211,
+["quest"] = 9,
+},
+["260411"] = {
+["quest"] = 1,
+["resource"] = 40,
+},
+["241226"] = {
+["quest"] = 1,
+},
+["250531"] = {
+["quest"] = 1,
+},
+["250408"] = {
+["quest"] = 1,
+},
+["250717"] = {
+["quest"] = 1,
+},
+["260127"] = {
+["quest"] = 4,
+["resource"] = 30,
+},
+["260906"] = {
+["quest"] = 1,
+},
+["241225"] = {
+["quest"] = 1,
+},
+["250314"] = {
+["artifact"] = 200,
+["quest"] = 2,
+["resource"] = 200,
+},
+["250617"] = {
+["quest"] = 1,
+},
+["250702"] = {
+["quest"] = 2,
+},
+["250917"] = {
+["artifact"] = 30,
+["resource"] = 121,
+["quest"] = 6,
+},
+["240925"] = {
+["quest"] = 2,
+["gold"] = 8194800,
+},
+["250516"] = {
+["quest"] = 1,
+},
+["260126"] = {
+["quest"] = 1,
+["gold"] = 9950100,
+},
+["241020"] = {
+["quest"] = 4,
+},
+["250608"] = {
+["quest"] = 1,
+},
+["250309"] = {
+["quest"] = 5,
+},
+["250601"] = {
+["quest"] = 1,
+},
+["260413"] = {
+["quest"] = 1,
+},
+["250310"] = {
+["quest"] = 1,
+},
+["250420"] = {
+["resource"] = 34,
+["quest"] = 4,
+["gold"] = 8110600,
+},
+["241001"] = {
+["quest"] = 2,
+},
+["250811"] = {
+["quest"] = 11,
+["resource"] = 43,
+["gold"] = 8096500,
+},
+["250828"] = {
+["quest"] = 5,
+["gold"] = 9797100,
+},
+["260319"] = {
+["quest"] = 3,
+["resource"] = 50,
+},
+},
+["Player-3685-0EC41CD1"] = {
+["251017"] = {
+["quest"] = 12,
+["resource"] = 600,
+["gold"] = 702000,
+},
+["251019"] = {
+["quest"] = 4,
+},
+["251023"] = {
+["quest"] = 1,
+},
+["251018"] = {
+["quest"] = 6,
+},
+["251016"] = {
+["quest"] = 2,
+},
+},
+["Player-3685-0722B5D5"] = {
+["250212"] = {
+["quest"] = 3,
+},
+["250202"] = {
+["quest"] = 2,
+["gold"] = 8241700,
+},
+["260212"] = {
+["quest"] = 3,
+},
+["250301"] = {
+["quest"] = 1,
+},
+["250130"] = {
+["quest"] = 7,
+},
+["250129"] = {
+["quest"] = 4,
+},
+["260209"] = {
+["quest"] = 4,
+},
+},
+["Player-3685-0717BEFC"] = {
+["250131"] = {
+["quest"] = 13,
+},
+["250909"] = {
+["quest"] = 6,
+["gold"] = 10018700,
+},
+["250906"] = {
+["quest"] = 13,
+["resource"] = 450,
+},
+["250205"] = {
+["quest"] = 4,
+["gold"] = 8153500,
+},
+["250918"] = {
+["artifact"] = 30,
+["resource"] = 121,
+["quest"] = 6,
+},
+["250913"] = {
+["quest"] = 1,
+},
+["250126"] = {
+["quest"] = 5,
+},
+["250904"] = {
+["quest"] = 6,
+["gold"] = 8189800,
+},
+["250204"] = {
+["quest"] = 2,
+},
+["250202"] = {
+["quest"] = 3,
+["gold"] = 8001400,
+},
+["250201"] = {
+["resource"] = 1000,
+["quest"] = 5,
+["gold"] = 702000,
+},
+},
+["Player-3685-09491807"] = {
+["250607"] = {
+["quest"] = 4,
+},
+},
+},
+},
 ["quest"] = {
 ["global"] = {
 [48096] = 1,
@@ -660,79 +3169,79 @@ WQTrackerDB = {
 [81854] = 4,
 [83930] = 2,
 [92138] = 3,
-[42652] = 2,
+[92583] = 2,
 [48736] = 1,
 [42620] = 2,
-[43738] = 1,
-[86709] = 1,
+[92105] = 1,
+[42652] = 2,
 [82653] = 8,
 [46261] = 3,
 [43722] = 1,
-[82238] = 1,
+[43738] = 1,
 [86869] = 22,
 [46325] = 1,
 [43786] = 2,
 [42780] = 1,
 [91596] = 1,
 [92139] = 1,
-[43513] = 2,
+[93573] = 1,
 [46932] = 1,
 [82526] = 11,
 [85113] = 5,
 [44936] = 3,
-[91594] = 1,
-[44026] = 1,
+[42779] = 1,
+[86391] = 4,
 [46006] = 2,
 [76586] = 77,
 [41950] = 2,
 [45032] = 1,
-[86391] = 4,
+[44026] = 1,
 [81824] = 2,
 [42014] = 2,
-[91595] = 1,
+[42013] = 2,
 [92140] = 1,
-[44934] = 4,
+[82586] = 2,
 [43611] = 1,
-[46197] = 1,
-[45924] = 2,
+[45926] = 1,
+[86610] = 2,
 [91789] = 1,
-[46867] = 1,
+[45925] = 2,
 [48098] = 1,
 [42174] = 1,
-[85466] = 2,
-[84955] = 1,
+[48097] = 1,
+[42797] = 1,
 [43755] = 3,
 [43771] = 2,
 [81825] = 2,
-[92141] = 3,
-[42797] = 1,
 [44857] = 1,
+[85466] = 2,
+[92141] = 3,
 [48512] = 1,
 [86584] = 5,
 [45927] = 1,
-[48099] = 3,
+[43963] = 4,
 [44937] = 3,
 [89267] = 1,
 [43436] = 2,
 [43452] = 2,
-[86872] = 21,
-[82234] = 6,
 [44011] = 1,
+[41692] = 1,
+[48099] = 3,
 [45049] = 1,
-[80295] = 4,
-[91759] = 5,
-[85467] = 1,
-[90962] = 6,
-[91792] = 1,
-[43612] = 2,
-[82585] = 3,
 [42111] = 1,
-[91791] = 1,
 [48100] = 1,
+[85467] = 1,
+[42511] = 2,
 [81828] = 3,
+[43612] = 2,
+[42123] = 1,
+[91759] = 5,
+[91791] = 1,
+[44938] = 1,
+[44012] = 1,
 [44730] = 4,
 [46279] = 1,
-[44119] = 1,
+[42075] = 1,
 [43756] = 2,
 [43772] = 1,
 [81827] = 4,
@@ -742,71 +3251,71 @@ WQTrackerDB = {
 [42830] = 3,
 [41824] = 1,
 [45928] = 1,
-[42511] = 2,
-[44938] = 1,
+[91591] = 1,
+[91792] = 1,
 [43932] = 1,
 [82658] = 9,
 [43453] = 1,
 [41936] = 2,
-[48723] = 1,
-[44012] = 1,
+[42080] = 2,
+[90962] = 6,
 [41984] = 1,
 [86938] = 2,
-[84948] = 26,
+[42027] = 1,
 [91601] = 9,
 [92144] = 1,
-[44811] = 1,
-[42080] = 2,
+[42176] = 2,
+[48723] = 1,
 [82531] = 8,
 [42112] = 1,
-[92549] = 1,
-[84852] = 7,
-[48095] = 1,
+[42506] = 2,
+[44023] = 2,
+[93507] = 1,
 [43709] = 1,
-[92560] = 4,
+[86939] = 2,
 [41697] = 2,
 [82787] = 2,
-[47552] = 1,
-[86939] = 2,
-[43448] = 1,
+[86800] = 2,
+[44811] = 1,
+[43959] = 2,
 [91602] = 1,
-[89291] = 10,
+[43943] = 4,
 [82468] = 8,
-[43437] = 1,
-[82584] = 4,
-[82552] = 4,
+[91790] = 1,
+[44933] = 1,
+[82041] = 3,
 [44939] = 3,
-[79722] = 4,
+[42991] = 1,
 [46504] = 3,
 [43454] = 2,
-[81862] = 7,
-[85822] = 1,
-[42991] = 1,
-[97128] = 1,
-[82852] = 5,
 [39462] = 1,
-[43336] = 1,
+[85822] = 1,
+[79722] = 4,
+[97128] = 2,
+[82852] = 5,
+[81862] = 7,
+[82456] = 8,
 [92146] = 3,
+[94574] = 2,
+[86941] = 2,
 [48740] = 1,
-[81831] = 3,
-[82533] = 5,
 [42624] = 2,
-[91604] = 1,
+[85472] = 4,
 [44189] = 1,
 [81639] = 6,
 [42177] = 2,
-[41794] = 1,
+[91796] = 1,
 [42209] = 2,
 [81767] = 6,
 [43774] = 1,
-[86941] = 2,
+[81831] = 3,
 [84929] = 1,
-[85472] = 4,
-[43327] = 2,
+[91604] = 1,
+[41794] = 1,
 [82470] = 1,
 [44892] = 2,
 [81512] = 6,
-[84851] = 6,
+[43767] = 1,
 [89241] = 2,
 [46264] = 2,
 [93904] = 2,
@@ -814,107 +3323,107 @@ WQTrackerDB = {
 [41427] = 1,
 [43710] = 1,
 [86367] = 5,
-[85473] = 4,
+[84962] = 1,
 [45068] = 3,
 [42018] = 2,
-[84962] = 1,
+[85473] = 4,
 [84994] = 5,
 [96268] = 1,
 [43615] = 1,
 [45046] = 1,
-[53979] = 1,
+[46825] = 1,
 [82088] = 1,
 [82120] = 3,
 [93905] = 1,
 [42178] = 3,
-[42274] = 3,
-[92149] = 1,
-[46825] = 1,
-[46194] = 1,
-[82519] = 4,
-[92085] = 3,
-[85474] = 6,
+[43807] = 2,
 [43328] = 4,
+[53979] = 1,
+[78974] = 3,
+[42090] = 2,
+[42274] = 3,
+[85474] = 6,
+[92149] = 1,
 [41091] = 1,
 [44893] = 3,
-[48701] = 2,
+[82455] = 2,
 [83079] = 2,
-[42269] = 2,
+[79116] = 4,
 [43630] = 1,
 [43951] = 1,
 [83718] = 2,
 [86305] = 2,
-[92086] = 1,
+[42019] = 1,
 [48103] = 1,
 [46075] = 1,
 [45069] = 3,
-[42019] = 1,
-[85088] = 14,
+[92086] = 1,
+[42623] = 2,
 [41090] = 1,
-[45804] = 4,
+[46502] = 2,
 [43616] = 1,
 [83048] = 3,
 [83080] = 2,
 [91799] = 1,
-[93524] = 2,
-[47551] = 1,
+[40978] = 1,
+[41930] = 2,
 [81675] = 6,
-[44287] = 2,
-[42211] = 2,
-[93013] = 1,
 [42243] = 1,
+[42211] = 2,
+[45804] = 4,
+[44287] = 2,
 [44303] = 1,
 [42864] = 1,
-[82332] = 9,
+[43759] = 1,
 [42926] = 1,
+[85400] = 5,
 [41828] = 1,
-[44894] = 2,
 [41844] = 1,
-[82518] = 5,
+[45922] = 1,
 [91800] = 4,
-[92195] = 1,
+[41818] = 1,
 [93397] = 1,
 [46012] = 1,
 [42962] = 1,
 [41956] = 1,
-[42004] = 1,
+[44157] = 1,
 [93046] = 2,
-[45070] = 1,
+[42004] = 1,
 [42927] = 1,
 [92120] = 1,
 [92152] = 3,
-[85925] = 4,
+[82524] = 4,
 [43617] = 1,
 [41078] = 1,
-[86957] = 3,
+[43798] = 1,
 [91801] = 3,
 [96432] = 1,
-[44847] = 1,
-[42819] = 1,
-[44751] = 1,
-[43745] = 1,
-[91802] = 1,
-[43777] = 2,
-[44815] = 1,
-[42276] = 1,
 [92121] = 2,
 [92153] = 1,
-[41925] = 2,
-[44895] = 1,
-[43985] = 1,
-[78995] = 7,
+[44751] = 1,
+[43745] = 1,
 [44943] = 1,
+[43777] = 2,
+[85925] = 4,
+[42276] = 1,
+[44847] = 1,
+[42819] = 1,
+[43458] = 1,
+[44895] = 1,
+[81710] = 1,
+[78995] = 7,
+[91802] = 1,
 [95922] = 1,
-[48105] = 1,
-[41414] = 1,
-[94996] = 1,
-[89288] = 21,
 [44017] = 1,
+[41925] = 2,
+[43985] = 1,
+[43175] = 1,
+[48105] = 1,
 [94581] = 1,
 [86948] = 2,
 [42021] = 2,
 [92122] = 1,
-[96210] = 2,
+[82237] = 6,
 [85855] = 2,
 [48728] = 1,
 [42101] = 1,
@@ -922,217 +3431,217 @@ WQTrackerDB = {
 [91803] = 2,
 [81615] = 11,
 [43618] = 1,
-[83028] = 2,
+[42089] = 1,
 [86821] = 15,
 [86429] = 4,
 [85863] = 2,
 [43778] = 2,
 [44305] = 1,
-[43079] = 1,
+[92162] = 3,
 [92123] = 3,
 [85512] = 2,
-[43063] = 1,
-[87354] = 10,
-[85864] = 14,
-[92034] = 4,
+[85487] = 6,
+[82414] = 1,
+[48106] = 1,
+[91523] = 1,
 [91804] = 3,
-[92731] = 2,
-[88904] = 9,
+[42086] = 1,
+[81750] = 10,
 [41926] = 1,
 [40920] = 1,
 [44002] = 1,
-[48106] = 1,
-[42150] = 1,
+[85864] = 14,
+[41623] = 1,
 [44050] = 2,
 [42022] = 1,
-[46017] = 1,
+[82197] = 3,
 [85513] = 6,
 [44114] = 1,
-[42086] = 1,
-[43827] = 2,
-[82133] = 1,
+[92731] = 2,
+[92636] = 3,
+[45985] = 1,
 [91805] = 1,
-[44194] = 2,
+[42150] = 1,
 [81649] = 1,
 [91390] = 1,
-[92636] = 3,
+[84971] = 1,
 [42725] = 1,
 [82288] = 7,
-["total"] = 1431,
+["total"] = 1432,
 [86951] = 1,
 [91582] = 1,
-[84971] = 1,
+[43827] = 2,
 [85514] = 3,
 [43332] = 1,
-[82448] = 2,
-[83538] = 2,
-[41961] = 4,
+[41144] = 2,
+[45921] = 1,
+[41927] = 1,
 [91806] = 2,
-[85834] = 1,
+[48091] = 1,
 [94425] = 1,
 [43460] = 3,
 [82225] = 8,
-[48091] = 1,
+[85834] = 1,
 [95575] = 1,
 [86409] = 1,
-[43430] = 4,
+[82206] = 6,
 [44067] = 2,
-[93244] = 1,
+[82481] = 8,
 [85515] = 5,
 [42071] = 2,
-[79958] = 1,
+[93244] = 1,
 [47724] = 1,
 [42119] = 1,
-[48732] = 1,
+[82257] = 1,
 [42151] = 3,
 [46766] = 2,
 [42183] = 2,
-[82324] = 6,
+[85390] = 1,
 [82258] = 3,
 [43764] = 1,
 [41145] = 4,
-[91458] = 1,
+[41705] = 2,
 [85263] = 5,
 [42806] = 1,
 [82256] = 6,
-[79959] = 9,
 [83536] = 2,
-[81620] = 1,
+[79959] = 9,
+[43429] = 2,
 [91776] = 1,
 [91808] = 1,
-[43429] = 2,
-[88774] = 2,
+[81620] = 1,
+[41416] = 2,
 [46016] = 1,
-[82387] = 8,
+[82451] = 1,
 [88902] = 14,
 [82291] = 1,
 [41992] = 4,
 [82355] = 1,
-[42024] = 1,
-[79960] = 7,
+[82387] = 8,
+[83537] = 1,
 [92160] = 1,
 [43605] = 1,
-[83537] = 1,
+[79960] = 7,
 [46192] = 1,
-[82451] = 1,
-[41416] = 2,
+[42024] = 1,
+[88774] = 2,
 [81621] = 8,
 [81653] = 10,
 [93438] = 1,
 [91937] = 1,
-[41705] = 2,
+[91458] = 1,
 [91490] = 1,
-[85390] = 1,
-[82257] = 1,
-[82481] = 8,
-[82206] = 6,
+[82324] = 6,
+[48732] = 1,
+[79958] = 1,
+[43430] = 4,
 [85518] = 5,
-[41927] = 1,
-[45921] = 1,
-[41144] = 2,
+[41961] = 4,
+[83538] = 2,
+[82448] = 2,
 [91778] = 1,
 [91810] = 4,
-[45985] = 1,
+[82133] = 1,
 [95451] = 1,
-[82197] = 3,
-[41623] = 1,
-[81750] = 10,
+[46017] = 1,
+[44194] = 2,
+[88904] = 9,
 [44021] = 1,
-[91523] = 1,
+[92034] = 4,
 [91555] = 1,
-[82414] = 1,
-[85487] = 6,
-[92162] = 3,
+[87354] = 10,
+[43063] = 1,
+[43079] = 1,
 [43606] = 1,
-[42089] = 1,
+[83028] = 2,
 [42105] = 2,
 [91779] = 4,
-[82237] = 6,
-[43175] = 1,
+[96210] = 2,
+[89288] = 21,
 [42169] = 1,
-[81710] = 1,
-[43458] = 1,
+[94996] = 1,
+[41414] = 1,
 [41706] = 1,
 [43766] = 1,
 [92546] = 2,
-[43798] = 1,
-[82524] = 4,
+[86957] = 3,
+[44815] = 1,
 [85488] = 2,
-[44157] = 1,
-[41818] = 1,
-[45922] = 1,
-[85400] = 5,
+[45070] = 1,
+[92195] = 1,
+[82518] = 5,
+[44894] = 2,
 [44932] = 3,
-[43759] = 1,
+[82332] = 9,
 [81624] = 9,
 [81656] = 2,
-[41930] = 2,
-[40978] = 1,
-[46502] = 2,
+[47551] = 1,
+[93013] = 1,
+[93524] = 2,
 [84850] = 3,
-[42623] = 2,
+[85088] = 14,
 [44054] = 1,
 [42026] = 2,
-[79116] = 4,
-[82455] = 2,
+[42269] = 2,
+[48701] = 2,
 [81465] = 2,
-[42090] = 2,
-[78974] = 3,
+[82519] = 4,
+[46194] = 1,
 [82583] = 2,
-[43807] = 2,
+[92085] = 3,
 [48286] = 1,
 [43192] = 1,
 [48829] = 1,
 [41691] = 1,
 [43751] = 5,
-[43767] = 1,
-[91796] = 1,
+[84851] = 6,
+[43327] = 2,
 [86959] = 3,
 [91590] = 1,
-[94574] = 2,
-[82456] = 8,
+[82533] = 5,
+[43336] = 1,
 [41308] = 1,
 [91207] = 2,
-[82041] = 3,
-[44933] = 1,
-[91790] = 1,
-[43943] = 4,
-[43959] = 2,
-[86800] = 2,
+[82552] = 4,
+[82584] = 4,
+[43437] = 1,
+[89291] = 10,
+[43448] = 1,
+[47552] = 1,
 [42969] = 3,
-[93507] = 1,
-[44023] = 2,
-[42506] = 2,
-[42176] = 2,
-[42027] = 1,
+[48095] = 1,
+[84852] = 7,
+[92549] = 1,
+[92560] = 4,
+[84948] = 26,
 [48175] = 1,
-[91591] = 1,
-[42075] = 1,
+[80295] = 4,
+[44119] = 1,
 [82521] = 7,
 [47728] = 1,
-[42123] = 1,
+[82585] = 3,
 [95392] = 1,
 [87759] = 1,
 [43193] = 2,
 [81691] = 1,
-[41692] = 1,
+[82234] = 6,
 [82266] = 9,
-[43963] = 4,
+[86872] = 21,
 [43784] = 1,
 [92582] = 1,
 [85460] = 29,
-[48097] = 1,
+[84955] = 1,
 [85524] = 3,
-[45925] = 2,
-[86610] = 2,
-[45926] = 1,
-[82586] = 2,
-[42013] = 2,
+[46867] = 1,
+[45924] = 2,
+[46197] = 1,
+[44934] = 4,
+[91595] = 1,
 [89293] = 16,
-[42779] = 1,
-[93573] = 1,
-[92105] = 1,
-[92583] = 2,
+[91594] = 1,
+[43513] = 2,
+[82238] = 1,
+[86709] = 1,
 },
 ["character"] = {
 ["Player-3685-07180DDD"] = {
@@ -1148,114 +3657,114 @@ WQTrackerDB = {
 [82658] = 1,
 [85512] = 1,
 [81825] = 1,
-[85488] = 1,
+[82387] = 1,
 [85270] = 1,
-[76586] = 4,
+[79722] = 1,
 [85088] = 2,
 ["total"] = 25,
 [81465] = 1,
-[79722] = 1,
-[82387] = 1,
+[76586] = 4,
+[85488] = 1,
 },
 ["Player-3685-0EBFE1C9"] = {
 [41692] = 1,
-[42274] = 2,
-[44067] = 2,
+[48091] = 1,
+[48099] = 3,
 [43756] = 2,
 [43764] = 1,
 [43772] = 1,
 [46075] = 1,
-[42178] = 2,
-[42864] = 1,
-[42019] = 1,
-[42027] = 1,
-[43437] = 1,
+[43453] = 1,
+[45804] = 4,
+[42274] = 2,
+[44067] = 2,
+[42927] = 1,
 [43063] = 1,
-[44194] = 1,
+[43429] = 1,
 [43079] = 1,
-[46194] = 1,
+[43963] = 4,
 [43605] = 1,
 [41828] = 1,
-[46825] = 1,
-[45924] = 2,
-[43454] = 2,
+[41980] = 2,
+[42864] = 1,
+[43709] = 1,
 [41095] = 3,
 [42123] = 1,
 [44936] = 3,
-[42211] = 2,
+[45032] = 1,
 [43932] = 1,
 [43430] = 3,
-[42624] = 2,
-[41980] = 2,
-[43709] = 1,
+[47724] = 1,
+[48100] = 1,
+[43454] = 2,
 [46012] = 1,
 [40920] = 1,
-[48728] = 1,
-[41956] = 1,
-[42090] = 2,
+[41078] = 1,
+[42211] = 2,
+[44895] = 1,
 [44012] = 1,
-[48100] = 1,
+[46825] = 1,
 [42075] = 1,
 [42506] = 1,
 [42004] = 1,
 [39462] = 1,
 [43804] = 1,
 [42028] = 1,
-[43327] = 1,
+[41414] = 1,
 [41789] = 3,
-[44857] = 1,
+[43327] = 1,
+[41844] = 1,
+[45925] = 2,
 [42076] = 2,
-[41925] = 2,
-[43606] = 1,
-[43827] = 1,
-[42172] = 1,
+[44847] = 1,
+[48106] = 1,
 [43630] = 1,
 [42108] = 2,
-[43710] = 1,
+[44730] = 4,
 [42124] = 3,
 [44937] = 2,
-[41949] = 1,
-[44050] = 2,
-[42021] = 2,
-[41144] = 2,
-[43192] = 1,
-[44730] = 4,
-[42101] = 1,
-[47551] = 1,
 [42969] = 3,
-[45046] = 1,
+[45070] = 1,
+[44026] = 1,
+[41144] = 2,
+[42172] = 1,
+[41925] = 2,
+[43766] = 1,
+[47551] = 1,
+[41949] = 1,
+[43771] = 2,
 [41965] = 1,
-[44157] = 1,
+[46197] = 1,
 [44021] = 1,
-[46006] = 2,
-[44938] = 1,
-[42209] = 2,
+[41926] = 1,
+[41623] = 1,
+[44759] = 3,
 [42013] = 2,
-[42276] = 1,
-[44751] = 1,
-[42014] = 2,
-[46010] = 1,
+[42021] = 2,
+[41691] = 1,
+[43448] = 1,
+[43460] = 2,
 [43328] = 3,
 [43336] = 1,
-[43452] = 2,
+[42177] = 2,
 ["total"] = 360,
 [43615] = 1,
 [48723] = 1,
-[45926] = 1,
-[42169] = 1,
-[46197] = 1,
-[41926] = 1,
-[41623] = 1,
-[42022] = 1,
+[42101] = 1,
+[46504] = 1,
+[44157] = 1,
+[46261] = 3,
+[44938] = 1,
+[47552] = 1,
 [44189] = 1,
 [42779] = 1,
 [41145] = 4,
 [43193] = 1,
-[46261] = 3,
-[46867] = 1,
+[46006] = 2,
+[43807] = 2,
 [42962] = 1,
 [41950] = 2,
-[48740] = 1,
+[41090] = 1,
 [43751] = 5,
 [43759] = 1,
 [43767] = 1,
@@ -1263,156 +3772,156 @@ WQTrackerDB = {
 [40978] = 1,
 [44811] = 1,
 [42269] = 1,
-[43807] = 2,
+[42022] = 1,
 [42795] = 1,
-[48732] = 1,
-[41090] = 1,
+[42086] = 1,
+[42620] = 2,
 [42819] = 1,
-[48286] = 1,
+[43951] = 1,
 [91789] = 1,
-[43959] = 2,
+[42174] = 1,
 [43616] = 1,
 [42859] = 2,
-[45927] = 1,
-[42620] = 2,
+[48732] = 1,
+[48740] = 1,
 [47728] = 1,
-[42089] = 1,
+[44894] = 2,
 [44939] = 3,
 [42652] = 2,
 [42150] = 1,
 [43943] = 4,
-[43951] = 1,
-[42174] = 1,
+[48286] = 1,
+[43959] = 2,
 [41927] = 1,
 [41930] = 2,
 [91790] = 1,
-[41308] = 1,
-[44023] = 1,
+[41818] = 1,
 [43513] = 1,
-[48095] = 1,
 [48103] = 1,
+[48095] = 1,
+[44023] = 1,
 [41416] = 2,
 [43784] = 1,
 [44815] = 1,
 [42780] = 1,
+[42071] = 1,
+[91791] = 1,
+[46932] = 1,
+[42725] = 1,
+[48175] = 1,
+[42511] = 1,
 [48701] = 2,
 [44119] = 1,
 [43617] = 1,
-[41705] = 1,
-[48175] = 1,
-[43786] = 2,
-[42071] = 1,
-[41824] = 1,
-[44892] = 2,
-[42183] = 1,
+[43458] = 1,
 [45928] = 1,
 [42111] = 1,
 [42119] = 1,
 [44932] = 3,
-[41936] = 2,
-[48097] = 1,
-[42151] = 2,
-[46279] = 1,
-[41706] = 1,
-[42725] = 1,
-[43458] = 1,
 [46016] = 1,
-[91792] = 1,
-[41697] = 2,
+[44017] = 1,
+[42151] = 2,
+[48829] = 1,
+[41961] = 3,
 [43745] = 1,
+[42183] = 1,
+[41936] = 2,
+[46279] = 1,
+[41697] = 2,
+[41705] = 1,
 [43753] = 1,
 [48096] = 1,
 [41984] = 1,
 [43777] = 1,
-[44303] = 1,
 [45068] = 3,
-[41427] = 1,
+[44303] = 1,
+[46017] = 1,
 [42024] = 1,
 [42797] = 1,
 [44287] = 1,
-[42176] = 2,
-[43769] = 1,
+[46766] = 2,
+[41992] = 3,
 [41091] = 1,
-[44305] = 1,
+[43722] = 1,
 [42080] = 2,
 [44893] = 2,
 [45921] = 1,
-[46192] = 1,
-[42112] = 1,
-[42991] = 1,
-[44933] = 1,
-[43618] = 1,
 [44011] = 1,
-[43722] = 1,
+[46192] = 1,
+[43618] = 1,
+[44933] = 1,
+[42991] = 1,
+[42112] = 1,
+[44305] = 1,
 [45985] = 1,
-[41992] = 3,
-[46766] = 2,
+[43769] = 1,
+[42176] = 2,
 [46264] = 2,
-[46017] = 1,
+[41427] = 1,
 [43985] = 1,
 [43738] = 1,
-[41961] = 3,
-[48829] = 1,
-[44017] = 1,
+[41706] = 1,
+[91792] = 1,
+[48097] = 1,
 [48105] = 1,
 [43778] = 2,
-[42511] = 1,
+[43786] = 2,
 [45069] = 2,
-[46932] = 1,
-[91791] = 1,
+[44892] = 2,
+[41824] = 1,
 [42798] = 1,
 [42806] = 1,
 [41794] = 1,
 [43332] = 1,
 [42830] = 3,
-[41818] = 1,
+[41308] = 1,
 [43611] = 1,
-[44894] = 2,
+[42089] = 1,
 [45922] = 1,
 [42105] = 1,
 [42623] = 1,
-[42086] = 1,
+[45927] = 1,
 [44934] = 4,
 [48512] = 1,
-[44054] = 1,
-[47552] = 1,
+[42014] = 2,
+[46867] = 1,
 [43436] = 1,
-[46504] = 1,
-[42177] = 2,
-[43460] = 2,
-[43448] = 1,
-[41691] = 1,
-[44759] = 3,
+[42169] = 1,
+[43452] = 2,
+[46010] = 1,
+[44054] = 1,
+[44751] = 1,
+[42209] = 2,
 [44002] = 1,
 [43755] = 2,
 [48098] = 1,
-[43771] = 2,
-[43766] = 1,
-[44026] = 1,
-[45070] = 1,
+[45046] = 1,
+[45926] = 1,
+[42276] = 1,
+[44050] = 2,
 [42018] = 2,
 [42026] = 1,
-[48106] = 1,
-[44847] = 1,
-[45925] = 2,
-[41844] = 1,
-[41414] = 1,
+[43192] = 1,
+[43827] = 1,
+[43710] = 1,
+[43606] = 1,
+[44857] = 1,
 [44114] = 1,
 [43612] = 2,
-[44895] = 1,
-[41078] = 1,
+[42090] = 2,
+[48728] = 1,
 [48736] = 1,
-[47724] = 1,
-[45032] = 1,
+[46194] = 1,
+[41956] = 1,
 [44935] = 2,
 [44943] = 1,
-[43963] = 4,
-[43429] = 1,
-[42927] = 1,
-[45804] = 4,
-[43453] = 1,
-[48099] = 3,
-[48091] = 1,
+[42624] = 2,
+[44194] = 1,
+[43437] = 1,
+[45924] = 2,
+[42178] = 2,
+[42027] = 1,
+[42019] = 1,
 },
 ["Player-3685-099FD3E3"] = {
 [84948] = 4,
@@ -1438,32 +3947,30 @@ WQTrackerDB = {
 [86939] = 1,
 [82852] = 1,
 [88904] = 1,
-[85524] = 1,
+[89293] = 1,
 [82234] = 1,
 [84994] = 1,
 [81675] = 1,
 [91759] = 1,
 [81620] = 1,
 [81624] = 2,
-[82363] = 1,
-[82518] = 2,
-[91779] = 1,
-[86869] = 1,
-[82237] = 1,
-[82266] = 1,
-[82324] = 1,
-[85513] = 1,
-[82455] = 1,
 [87354] = 1,
+[82455] = 1,
+[82518] = 2,
+[86869] = 1,
+[85513] = 1,
+[82324] = 1,
+[82266] = 1,
+[82237] = 1,
+[91779] = 1,
+[82363] = 1,
 [89291] = 1,
-[89293] = 1,
+[85524] = 1,
 },
-["Player-3685-09491807"] = {
-[82456] = 1,
-[82523] = 1,
-[82584] = 1,
-[83930] = 1,
-["total"] = 4,
+["Player-3685-0ACADE27"] = {
+[83079] = 1,
+["total"] = 3,
+[76586] = 2,
 },
 ["Player-3685-0A7F3116"] = {
 [85460] = 3,
@@ -1490,48 +3997,81 @@ WQTrackerDB = {
 [84962] = 1,
 [96432] = 1,
 [82387] = 1,
-[86872] = 2,
+[84852] = 1,
 [81639] = 1,
-[85864] = 1,
+[86872] = 2,
 [89293] = 2,
-[87354] = 1,
+[86429] = 1,
 [86821] = 3,
 [82531] = 1,
-[79722] = 1,
+[82364] = 1,
 [86707] = 1,
 [89294] = 2,
-[81675] = 1,
-[95575] = 1,
-[85400] = 1,
-[82332] = 1,
-[83080] = 1,
-[79116] = 1,
-[81825] = 1,
-[86869] = 2,
-[82524] = 1,
-[82256] = 1,
+[79722] = 1,
 [96268] = 1,
-[82364] = 1,
+[85400] = 1,
+[82256] = 1,
+[82524] = 1,
+[81825] = 1,
+[79116] = 1,
+[86869] = 2,
+[83080] = 1,
+[82332] = 1,
+[95575] = 1,
+[81675] = 1,
 [79959] = 1,
-[86429] = 1,
+[87354] = 1,
 [89291] = 1,
-[84852] = 1,
+[85864] = 1,
 },
-["Player-3685-0EC4EEC1"] = {
-["total"] = 13,
-[42926] = 1,
-[43436] = 1,
-[41949] = 1,
-[43513] = 1,
-[43774] = 1,
-[42183] = 1,
-[42071] = 1,
-[45049] = 1,
-[43827] = 1,
-[43175] = 1,
-[44893] = 1,
-[42243] = 1,
-[42178] = 1,
+["Player-3685-0717C7FF"] = {
+[81621] = 1,
+[82456] = 1,
+[81767] = 1,
+[82653] = 1,
+[81649] = 1,
+[81653] = 1,
+[79960] = 1,
+[89288] = 1,
+["total"] = 58,
+[76586] = 5,
+[81630] = 1,
+[82583] = 1,
+[81831] = 1,
+[83536] = 1,
+[82225] = 1,
+[82481] = 1,
+[81615] = 1,
+[83930] = 1,
+[82288] = 1,
+[82531] = 1,
+[82387] = 2,
+[81824] = 1,
+[81828] = 1,
+[85864] = 1,
+[84852] = 1,
+[82470] = 1,
+[82586] = 1,
+[82533] = 2,
+[81675] = 2,
+[86707] = 1,
+[89294] = 1,
+[79722] = 1,
+[81750] = 1,
+[78974] = 1,
+[81624] = 2,
+[82518] = 1,
+[82451] = 1,
+[82266] = 1,
+[86869] = 1,
+[82526] = 3,
+[85113] = 1,
+[82364] = 1,
+[81656] = 1,
+[79959] = 3,
+[82521] = 1,
+[89291] = 1,
+[78995] = 1,
 },
 ["Player-3685-07F1620A"] = {
 [82363] = 2,
@@ -1644,63 +4184,63 @@ WQTrackerDB = {
 [91810] = 2,
 [85467] = 1,
 [85515] = 1,
-[85863] = 1,
-[87759] = 1,
-[91803] = 1,
+[92120] = 1,
+[79722] = 1,
+[91555] = 1,
 [82519] = 1,
-[93244] = 1,
-[85088] = 2,
-[92143] = 1,
-[91601] = 2,
+[86800] = 1,
+[83048] = 1,
+[92122] = 1,
+[81831] = 1,
 [92034] = 1,
 [92560] = 1,
-[92549] = 1,
-[87354] = 2,
+[81767] = 2,
+[81854] = 2,
 [89293] = 3,
 [91604] = 1,
-[85518] = 3,
+[85263] = 1,
 [81691] = 1,
 [92162] = 2,
-[91799] = 1,
+[89291] = 3,
 [86584] = 1,
-[91595] = 1,
+[81862] = 1,
 [92141] = 1,
 [46504] = 1,
-[91390] = 1,
+[86409] = 1,
 [82584] = 1,
-[81827] = 1,
+[82225] = 2,
 [91796] = 1,
-[92085] = 1,
+[84948] = 11,
 [92731] = 1,
 [89294] = 4,
-[82585] = 1,
-[89288] = 4,
-[82120] = 1,
+[85390] = 1,
+[82456] = 1,
+[92146] = 1,
 [93438] = 1,
 [82234] = 1,
-[82266] = 1,
 [82521] = 3,
+[82266] = 1,
 [86872] = 3,
-[92146] = 1,
-[82456] = 1,
-[85390] = 1,
+[82120] = 1,
+[89288] = 4,
+[82585] = 1,
 [92546] = 1,
-[84948] = 11,
-[82225] = 2,
-[86409] = 1,
+[92085] = 1,
+[81827] = 1,
+[91390] = 1,
 [91590] = 1,
-[81862] = 1,
-[89291] = 3,
-[85263] = 1,
-[81854] = 2,
-[81767] = 2,
-[81831] = 1,
-[92122] = 1,
-[83048] = 1,
-[86800] = 1,
-[91555] = 1,
-[79722] = 1,
-[92120] = 1,
+[91595] = 1,
+[91799] = 1,
+[85518] = 3,
+[87354] = 2,
+[92549] = 1,
+[91601] = 2,
+[92143] = 1,
+[85088] = 2,
+[93244] = 1,
+[91803] = 1,
+[87759] = 1,
+[85863] = 1,
 },
 ["Player-3685-0DFC95BB"] = {
 [82120] = 1,
@@ -1713,74 +4253,95 @@ WQTrackerDB = {
 [81828] = 1,
 [83537] = 1,
 [82206] = 1,
-[82526] = 2,
+[82585] = 1,
 [81621] = 1,
 [82088] = 1,
 [82586] = 1,
-[84851] = 1,
-[82552] = 1,
+[82526] = 2,
+[81653] = 1,
 [92636] = 1,
 [79959] = 1,
 [82658] = 1,
 [82133] = 1,
 [76586] = 2,
-[81656] = 1,
+["total"] = 30,
 [82852] = 1,
 [81512] = 1,
 [83079] = 1,
 [82238] = 1,
-["total"] = 30,
-[81653] = 1,
-[82585] = 1,
-},
-["Player-3685-0717C7FF"] = {
-[81621] = 1,
-[82456] = 1,
-[81767] = 1,
-[82653] = 1,
-[81649] = 1,
-[81653] = 1,
-[79960] = 1,
-[89288] = 1,
-["total"] = 58,
-[76586] = 5,
-[81630] = 1,
-[82583] = 1,
-[81831] = 1,
-[83536] = 1,
-[82225] = 1,
-[82481] = 1,
-[81615] = 1,
-[78995] = 1,
-[82288] = 1,
-[81828] = 1,
-[82387] = 2,
-[81824] = 1,
-[82521] = 1,
-[85864] = 1,
-[84852] = 1,
-[82470] = 1,
-[82586] = 1,
-[89294] = 1,
-[79722] = 1,
-[86707] = 1,
-[82364] = 1,
-[81675] = 2,
-[81624] = 2,
-[78974] = 1,
-[81750] = 1,
-[82266] = 1,
-[82451] = 1,
-[82518] = 1,
-[86869] = 1,
-[82526] = 3,
-[85113] = 1,
-[82533] = 2,
 [81656] = 1,
-[79959] = 3,
-[82531] = 1,
+[82552] = 1,
+[84851] = 1,
+},
+["Player-3685-0EC4EEC1"] = {
+["total"] = 13,
+[42178] = 1,
+[42243] = 1,
+[41949] = 1,
+[44893] = 1,
+[45049] = 1,
+[42183] = 1,
+[42926] = 1,
+[43774] = 1,
+[43827] = 1,
+[43175] = 1,
+[43513] = 1,
+[42071] = 1,
+[43436] = 1,
+},
+["Player-3685-0A95F80C"] = {
+[85515] = 1,
+[85397] = 1,
+[87354] = 2,
+[92146] = 1,
+[85925] = 1,
+[88902] = 2,
+[92560] = 1,
+[89288] = 4,
+[81862] = 1,
+["total"] = 84,
+[82256] = 1,
+[86800] = 1,
+[85863] = 1,
+[76586] = 6,
+[82658] = 1,
+[85855] = 1,
+[82225] = 1,
+[83718] = 1,
+[86391] = 1,
+[85513] = 1,
+[85864] = 3,
+[81615] = 1,
+[93904] = 1,
+[85466] = 1,
+[82206] = 1,
+[82324] = 1,
+[86872] = 3,
+[81639] = 1,
+[86305] = 1,
+[85088] = 4,
+[84852] = 1,
+[86821] = 2,
+[89294] = 4,
+[92121] = 1,
+[86959] = 1,
+[85514] = 1,
+[94425] = 1,
+[91759] = 1,
+[89293] = 3,
+[81750] = 1,
+[82258] = 2,
+[82332] = 2,
+[91779] = 1,
+[86869] = 4,
+[84994] = 1,
+[86584] = 1,
+[86429] = 1,
+[82288] = 1,
+[86957] = 1,
+[85460] = 6,
 [89291] = 1,
-[83930] = 1,
+[78995] = 1,
 },
 ["Player-3685-0990B6B7"] = {
 [81827] = 1,
@@ -1829,72 +4390,44 @@ WQTrackerDB = {
 [97128] = 1,
 [82531] = 2,
 [85460] = 6,
-[92143] = 1,
+[91801] = 1,
 [76586] = 11,
 [89294] = 5,
-[84994] = 1,
+[86391] = 1,
+[86584] = 2,
 [82206] = 1,
-[95922] = 1,
 [82237] = 1,
-[89288] = 4,
-[91810] = 1,
+[86367] = 2,
+[88774] = 1,
 [93524] = 1,
 [92152] = 1,
-[82787] = 1,
-[79960] = 1,
-[81653] = 2,
+[82533] = 1,
+[81824] = 1,
+[85473] = 1,
 [85834] = 1,
-[94574] = 1,
+[92034] = 1,
 [92141] = 1,
-[85864] = 3,
+[86872] = 5,
 [81675] = 1,
-[82653] = 1,
+[82266] = 1,
 [90962] = 1,
 [87354] = 2,
 [85263] = 2,
 [85398] = 1,
-[82266] = 1,
-[86872] = 5,
+[82653] = 1,
+[85864] = 3,
 [82120] = 1,
-[92034] = 1,
-[85473] = 1,
-[81824] = 1,
-[82533] = 1,
+[94574] = 1,
+[81653] = 2,
+[79960] = 1,
+[82787] = 1,
 [82414] = 1,
-[88774] = 1,
-[86367] = 2,
+[91810] = 1,
+[89288] = 4,
 [84851] = 1,
-[86584] = 2,
-[86391] = 1,
-[91801] = 1,
-},
-["Player-3685-0EC41CD1"] = {
-[41961] = 1,
-[44194] = 1,
-[43327] = 1,
-[42026] = 1,
-[42151] = 1,
-[45069] = 1,
-[42623] = 1,
-[43430] = 1,
-[41992] = 1,
-[43429] = 1,
-[43328] = 1,
-[44023] = 1,
-[42124] = 1,
-[43777] = 1,
-[42506] = 1,
-[42105] = 1,
-[44287] = 1,
-[42511] = 1,
-[43193] = 1,
-[41705] = 1,
-[43753] = 1,
-["total"] = 25,
-[43755] = 1,
-[42274] = 1,
-[42269] = 1,
-[43460] = 1,
+[95922] = 1,
+[84994] = 1,
+[92143] = 1,
 },
 ["Player-3685-0722C2B9"] = {
 [82363] = 3,
@@ -1944,6 +4477,7 @@ WQTrackerDB = {
 [92139] = 1,
 [82481] = 3,
 [88904] = 2,
+[97128] = 1,
 [81621] = 2,
 [81653] = 3,
 [82355] = 1,
@@ -1986,100 +4520,74 @@ WQTrackerDB = {
 [81675] = 1,
 [82456] = 3,
 [92162] = 1,
-[81827] = 2,
+[91779] = 1,
 [86584] = 1,
-[92146] = 1,
-[92138] = 1,
+[79959] = 1,
+[82531] = 2,
 [82552] = 1,
-[86939] = 1,
+["total"] = 230,
 [82518] = 1,
-[86367] = 2,
-[82455] = 1,
-[46504] = 1,
-[81630] = 3,
+[82324] = 1,
+[85514] = 1,
+[85474] = 2,
+[79116] = 1,
 [89294] = 4,
-[85518] = 2,
-[84948] = 5,
+[85263] = 2,
+[81854] = 1,
 [53979] = 1,
-[85512] = 1,
+[86872] = 5,
 [82234] = 2,
 [92195] = 1,
 [82521] = 2,
 [91207] = 2,
-[86957] = 1,
-[85925] = 1,
+[85513] = 2,
+[92141] = 1,
 [82585] = 1,
 [92546] = 1,
-[82266] = 2,
 [81512] = 1,
-[92141] = 1,
-[85513] = 2,
-[86872] = 5,
-[81854] = 1,
-[85263] = 2,
-[79116] = 1,
-[85474] = 2,
-[85514] = 1,
-[82324] = 1,
-[85088] = 5,
-["total"] = 229,
-[82531] = 2,
-[79959] = 1,
-[91779] = 1,
-},
-["Player-3685-0A95F80C"] = {
-[85515] = 1,
-[85397] = 1,
-[87354] = 2,
-[92146] = 1,
+[82266] = 2,
 [85925] = 1,
-[88902] = 2,
-[92560] = 1,
-[89288] = 4,
-[81862] = 1,
-["total"] = 84,
-[82256] = 1,
-[86800] = 1,
-[85863] = 1,
-[78995] = 1,
-[82658] = 1,
-[85855] = 1,
-[82225] = 1,
-[85460] = 6,
-[86391] = 1,
-[85513] = 1,
 [86957] = 1,
-[81615] = 1,
-[93904] = 1,
-[85466] = 1,
-[82288] = 1,
-[82324] = 1,
-[86429] = 1,
-[81639] = 1,
-[86305] = 1,
-[86584] = 1,
-[86821] = 2,
-[84994] = 1,
-[85514] = 1,
-[92121] = 1,
-[86959] = 1,
-[89294] = 4,
-[91779] = 1,
-[91759] = 1,
-[82332] = 2,
-[81750] = 1,
-[82258] = 2,
-[89293] = 3,
-[94425] = 1,
-[86869] = 4,
-[84852] = 1,
-[85088] = 4,
-[86872] = 3,
-[82206] = 1,
-[85864] = 3,
-[83718] = 1,
-[89291] = 1,
-[76586] = 6,
+[85512] = 1,
+[84948] = 5,
+[85518] = 2,
+[81630] = 3,
+[46504] = 1,
+[82455] = 1,
+[86367] = 2,
+[85088] = 5,
+[86939] = 1,
+[92138] = 1,
+[92146] = 1,
+[81827] = 2,
+},
+["Player-3685-0EC41CD1"] = {
+[41961] = 1,
+[44194] = 1,
+[43327] = 1,
+[42026] = 1,
+[42151] = 1,
+[45069] = 1,
+[42623] = 1,
+[43430] = 1,
+[43460] = 1,
+[43429] = 1,
+[42274] = 1,
+[44023] = 1,
+[42124] = 1,
+[43777] = 1,
+["total"] = 25,
+[42105] = 1,
+[44287] = 1,
+[41705] = 1,
+[42511] = 1,
+[43193] = 1,
+[43753] = 1,
+[42506] = 1,
+[43755] = 1,
+[43328] = 1,
+[42269] = 1,
+[41992] = 1,
 },
 ["Player-3685-0722B5D5"] = {
 [82523] = 1,
@@ -2092,19 +4600,19 @@ WQTrackerDB = {
 [82237] = 2,
 [82456] = 1,
 [82526] = 1,
-[82266] = 1,
-[91759] = 1,
+[86951] = 1,
+[83048] = 1,
 [82658] = 2,
-[81639] = 1,
 [82197] = 1,
+[81639] = 1,
 [91778] = 1,
-["total"] = 24,
+[86959] = 1,
 [82234] = 1,
 [86948] = 1,
-[86959] = 1,
+["total"] = 24,
 [82519] = 1,
-[83048] = 1,
-[86951] = 1,
+[91759] = 1,
+[82266] = 1,
 },
 ["Player-3685-0717BEFC"] = {
 [84948] = 2,
@@ -2127,2546 +4635,45 @@ WQTrackerDB = {
 [82481] = 1,
 [86391] = 1,
 [82237] = 1,
-[82552] = 1,
-[89293] = 1,
+[82523] = 1,
+[82288] = 1,
 [85399] = 1,
-[89241] = 1,
+[82524] = 1,
 [83048] = 1,
-[85397] = 1,
+[81512] = 1,
+[85864] = 1,
 [82584] = 2,
-[84852] = 1,
 [86872] = 2,
-[89294] = 2,
-[85487] = 1,
+[82364] = 1,
+[82526] = 1,
 [86821] = 1,
 [88904] = 2,
 [82041] = 1,
 [82234] = 1,
-[82364] = 1,
+[89294] = 2,
 [81639] = 1,
-[79116] = 1,
+[82266] = 1,
 [85400] = 1,
 [81750] = 1,
-[82332] = 1,
 [82852] = 1,
-[82266] = 1,
+[82332] = 1,
+[79116] = 1,
 [86869] = 2,
-[82526] = 1,
+[85487] = 1,
 [83538] = 1,
-[85864] = 1,
-[81512] = 1,
+[84852] = 1,
+[85397] = 1,
 [79959] = 1,
-[82524] = 1,
-[82288] = 1,
-[82523] = 1,
-},
-["Player-3685-0ACADE27"] = {
-[83079] = 1,
-["total"] = 3,
-[76586] = 2,
-},
-},
-},
-["period"] = {
-["global"] = {
-["251004"] = {
-["quest"] = 1,
-},
-["250504"] = {
-["quest"] = 1,
-},
-["250321"] = {
-["artifact"] = 200,
-["resource"] = 261,
-["quest"] = 13,
-},
-["250427"] = {
-["artifact"] = 200,
-["quest"] = 1,
-["resource"] = 200,
-},
-["251108"] = {
-["quest"] = 1,
-},
-["250803"] = {
-["quest"] = 1,
-},
-["260516"] = {
-["quest"] = 2,
-["gold"] = 683200,
-},
-["251006"] = {
-["quest"] = 6,
-["resource"] = 130,
-},
-["250125"] = {
-["quest"] = 1,
-},
-["250603"] = {
-["quest"] = 1,
-},
-["250812"] = {
-["resource"] = 1000,
-["quest"] = 11,
-["gold"] = 9951100,
-},
-["251116"] = {
-["quest"] = 1,
-},
-["250701"] = {
-["quest"] = 1,
-},
-["241004"] = {
-["quest"] = 1,
-["gold"] = 9849700,
-},
-["250205"] = {
-["quest"] = 4,
-["gold"] = 8153500,
-},
-["240919"] = {
-["quest"] = 3,
-},
-["250608"] = {
-["quest"] = 1,
-},
-["251014"] = {
-["quest"] = 25,
-["resource"] = 1000,
-["gold"] = 1170000,
-},
-["260319"] = {
-["quest"] = 4,
-["resource"] = 50,
-["gold"] = 341600,
-},
-["250419"] = {
-["quest"] = 11,
-["resource"] = 85,
-},
-["241006"] = {
-["quest"] = 1,
-["gold"] = 9849700,
-},
-["250806"] = {
-["quest"] = 4,
-["resource"] = 1000,
-["gold"] = 86400,
-},
-["250510"] = {
-["quest"] = 1,
-["resource"] = 100,
-},
-["250930"] = {
-["quest"] = 6,
-},
-["251020"] = {
-["quest"] = 16,
-["resource"] = 200,
-["gold"] = 234000,
-},
-["240926"] = {
-["quest"] = 6,
-},
-["250811"] = {
-["resource"] = 43,
-["quest"] = 24,
-["gold"] = 8096500,
-},
-["250617"] = {
-["quest"] = 1,
-},
-["241217"] = {
-["quest"] = 2,
-},
-["260304"] = {
-["quest"] = 6,
-},
-["260320"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["250722"] = {
-["quest"] = 2,
-},
-["250620"] = {
-["quest"] = 3,
-},
-["241005"] = {
-["artifact"] = 200,
-["quest"] = 1,
-["resource"] = 200,
-},
-["250212"] = {
-["quest"] = 3,
-},
-["250311"] = {
-["quest"] = 8,
-},
-["250616"] = {
-["quest"] = 2,
-},
-["241105"] = {
-["quest"] = 11,
-["resource"] = 1027,
-["gold"] = 9928000,
-},
-["250410"] = {
-["quest"] = 5,
-["resource"] = 150,
-["gold"] = 9749600,
-},
-["250322"] = {
-["quest"] = 6,
-["resource"] = 161,
-},
-["250821"] = {
-["quest"] = 4,
-},
-["250408"] = {
-["quest"] = 2,
-},
-["250717"] = {
-["quest"] = 1,
-},
-["250323"] = {
-["quest"] = 4,
-["resource"] = 100,
-},
-["241223"] = {
-["quest"] = 3,
-["gold"] = 9852100,
-},
-["250326"] = {
-["quest"] = 2,
-},
-["250307"] = {
-["quest"] = 3,
-["resource"] = 45,
-},
-["260308"] = {
-["resource"] = 150,
-["quest"] = 8,
-["gold"] = 683200,
-},
-["250706"] = {
-["quest"] = 1,
-},
-["250217"] = {
-["quest"] = 5,
-},
-["250105"] = {
-["quest"] = 2,
-["resource"] = 29,
-},
-["250601"] = {
-["quest"] = 1,
-},
-["251028"] = {
-["quest"] = 1,
-},
-["250130"] = {
-["quest"] = 7,
-},
-["250819"] = {
-["quest"] = 10,
-["resource"] = 150,
-},
-["250816"] = {
-["quest"] = 10,
-["resource"] = 45,
-},
-["251018"] = {
-["quest"] = 41,
-["resource"] = 2084,
-["gold"] = 2574000,
-},
-["250817"] = {
-["quest"] = 1,
-},
-["250424"] = {
-["quest"] = 3,
-},
-["250302"] = {
-["resource"] = 150,
-["quest"] = 2,
-["gold"] = 9854900,
-},
-["250405"] = {
-["quest"] = 1,
-},
-["251024"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["251208"] = {
-["quest"] = 1,
-},
-["250514"] = {
-["quest"] = 1,
-},
-["260523"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["241017"] = {
-["artifact"] = 230,
-["quest"] = 2,
-["resource"] = 230,
-["gold"] = 702000,
-},
-["251012"] = {
-["quest"] = 1,
-},
-["250101"] = {
-["quest"] = 3,
-},
-["241112"] = {
-["artifact"] = 55,
-["quest"] = 16,
-["resource"] = 155,
-["gold"] = 702000,
-},
-["251015"] = {
-["resource"] = 1936,
-["quest"] = 37,
-["gold"] = 2340000,
-},
-["260209"] = {
-["quest"] = 4,
-},
-["250208"] = {
-["quest"] = 2,
-["resource"] = 35,
-},
-["250430"] = {
-["quest"] = 1,
-},
-["251114"] = {
-["quest"] = 1,
-},
-["241018"] = {
-["quest"] = 2,
-},
-["260417"] = {
-["quest"] = 6,
-["gold"] = 10180286,
-},
-["241024"] = {
-["quest"] = 6,
-["resource"] = 1049,
-},
-["241016"] = {
-["quest"] = 8,
-},
-["250901"] = {
-["quest"] = 6,
-["resource"] = 388,
-},
-["250526"] = {
-["quest"] = 3,
-},
-["260315"] = {
-["quest"] = 10,
-["gold"] = 341600,
-},
-["241021"] = {
-["artifact"] = 36,
-["quest"] = 2,
-["resource"] = 36,
-},
-["241015"] = {
-["quest"] = 2,
-},
-["241008"] = {
-["quest"] = 2,
-},
-["250116"] = {
-["quest"] = 6,
-},
-["250918"] = {
-["artifact"] = 30,
-["resource"] = 121,
-["quest"] = 6,
-},
-["250411"] = {
-["quest"] = 1,
-},
-["251117"] = {
-["quest"] = 1,
-["resource"] = 200,
-["gold"] = 234000,
-},
-["260208"] = {
-["quest"] = 8,
-["resource"] = 32,
-},
-["250310"] = {
-["quest"] = 1,
-},
-["241114"] = {
-["quest"] = 1,
-["resource"] = 100,
-},
-["250808"] = {
-["quest"] = 1,
-},
-["250820"] = {
-["resource"] = 45,
-["quest"] = 7,
-["gold"] = 9994900,
-},
-["250109"] = {
-["quest"] = 2,
-},
-["240920"] = {
-["quest"] = 5,
-["gold"] = 21269400,
-},
-["260324"] = {
-["quest"] = 2,
-},
-["240923"] = {
-["quest"] = 6,
-},
-["250509"] = {
-["quest"] = 1,
-},
-["260310"] = {
-["resource"] = 300,
-["quest"] = 12,
-["gold"] = 1024800,
-},
-["250222"] = {
-["quest"] = 1,
-},
-["260201"] = {
-["quest"] = 1,
-},
-["251023"] = {
-["quest"] = 4,
-["gold"] = 234000,
-},
-["240925"] = {
-["quest"] = 11,
-["gold"] = 18280000,
-},
-["250516"] = {
-["quest"] = 1,
-},
-["250719"] = {
-["quest"] = 1,
-},
-["250913"] = {
-["quest"] = 1,
-},
-["260514"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["251009"] = {
-["quest"] = 1,
-},
-["251013"] = {
-["resource"] = 1148,
-["quest"] = 31,
-["gold"] = 1404000,
-},
-["250908"] = {
-["quest"] = 3,
-},
-["250421"] = {
-["quest"] = 2,
-},
-["250827"] = {
-["quest"] = 7,
-["resource"] = 202,
-},
-["241124"] = {
-["quest"] = 2,
-["resource"] = 43,
-},
-["251011"] = {
-["resource"] = 600,
-["quest"] = 9,
-["gold"] = 702000,
-},
-["250910"] = {
-["quest"] = 6,
-["gold"] = 10018700,
-},
-["250114"] = {
-["quest"] = 1,
-},
-["260401"] = {
-["quest"] = 1,
-["resource"] = 50,
-},
-["260303"] = {
-["quest"] = 7,
-},
-["250304"] = {
-["quest"] = 8,
-},
-["250107"] = {
-["quest"] = 4,
-["resource"] = 29,
-},
-["241003"] = {
-["quest"] = 1,
-},
-["251021"] = {
-["resource"] = 1078,
-["quest"] = 12,
-["gold"] = 1404000,
-},
-["250131"] = {
-["quest"] = 13,
-},
-["241025"] = {
-["quest"] = 1,
-},
-["250313"] = {
-["quest"] = 2,
-},
-["251026"] = {
-["quest"] = 2,
-["gold"] = 606600,
-},
-["241020"] = {
-["quest"] = 4,
-},
-["260402"] = {
-["quest"] = 1,
-},
-["241011"] = {
-["quest"] = 7,
-["gold"] = 9836900,
-},
-["241218"] = {
-["quest"] = 2,
-},
-["241231"] = {
-["quest"] = 4,
-["gold"] = 2106000,
-},
-["251213"] = {
-["quest"] = 9,
-["resource"] = 300,
-["gold"] = 234000,
-},
-["241224"] = {
-["quest"] = 3,
-["gold"] = 702000,
-},
-["250520"] = {
-["quest"] = 1,
-},
-["260628"] = {
-["quest"] = 1,
-},
-["250216"] = {
-["resource"] = 1000,
-["quest"] = 2,
-["gold"] = 702000,
-},
-["241120"] = {
-["quest"] = 2,
-},
-["250227"] = {
-["quest"] = 2,
-},
-["241229"] = {
-["quest"] = 10,
-["gold"] = 17013200,
-},
-["260313"] = {
-["quest"] = 1,
-["resource"] = 150,
-},
-["250813"] = {
-["quest"] = 8,
-["resource"] = 45,
-},
-["241026"] = {
-["quest"] = 12,
-["resource"] = 82,
-},
-["250103"] = {
-["quest"] = 5,
-["gold"] = 18002800,
-},
-["251001"] = {
-["artifact"] = 30,
-["quest"] = 6,
-["resource"] = 30,
-},
-["250201"] = {
-["quest"] = 5,
-["resource"] = 1000,
-["gold"] = 702000,
-},
-["251127"] = {
-["resource"] = 1980,
-["quest"] = 16,
-["gold"] = 5148000,
-},
-["250124"] = {
-["quest"] = 1,
-["gold"] = 702000,
-},
-["250129"] = {
-["quest"] = 4,
-},
-["250810"] = {
-["quest"] = 4,
-},
-["241009"] = {
-["quest"] = 1,
-["gold"] = 9836900,
-},
-["250407"] = {
-["resource"] = 100,
-["quest"] = 1,
-["gold"] = 9982300,
-},
-["250315"] = {
-["quest"] = 7,
-["gold"] = 702000,
-},
-["250824"] = {
-["quest"] = 9,
-["resource"] = 345,
-},
-["250119"] = {
-["quest"] = 2,
-},
-["260621"] = {
-["quest"] = 4,
-},
-["241227"] = {
-["quest"] = 4,
-["gold"] = 8179900,
-},
-["260830"] = {
-["quest"] = 4,
-},
-["260207"] = {
-["quest"] = 4,
-},
-["251206"] = {
-["quest"] = 4,
-["resource"] = 600,
-["gold"] = 1638000,
-},
-["250108"] = {
-["quest"] = 1,
-},
-["260822"] = {
-["quest"] = 1,
-},
-["241107"] = {
-["quest"] = 1,
-},
-["250327"] = {
-["quest"] = 1,
-["resource"] = 45,
-["gold"] = 9651200,
-},
-["250417"] = {
-["artifact"] = 200,
-["quest"] = 6,
-["resource"] = 200,
-},
-["260620"] = {
-["quest"] = 1,
-},
-["260407"] = {
-["quest"] = 1,
-},
-["250204"] = {
-["quest"] = 2,
-},
-["250303"] = {
-["quest"] = 4,
-["resource"] = 150,
-},
-["251209"] = {
-["quest"] = 4,
-["resource"] = 600,
-["gold"] = 1872000,
-},
-["250828"] = {
-["quest"] = 5,
-["gold"] = 9797100,
-},
-["260606"] = {
-["quest"] = 1,
-["resource"] = 75,
-},
-["260501"] = {
-["quest"] = 1,
-["gold"] = 10941972,
-},
-["260428"] = {
-["quest"] = 2,
-["gold"] = 11283572,
-},
-["260403"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["260413"] = {
-["quest"] = 3,
-["gold"] = 11077588,
-},
-["251022"] = {
-["quest"] = 13,
-["resource"] = 400,
-["gold"] = 468000,
-},
-["250911"] = {
-["quest"] = 6,
-},
-["260316"] = {
-["quest"] = 4,
-["gold"] = 341600,
-},
-["260411"] = {
-["quest"] = 1,
-["resource"] = 40,
-},
-["250228"] = {
-["quest"] = 1,
-},
-["260331"] = {
-["quest"] = 1,
-},
-["241122"] = {
-["quest"] = 4,
-["resource"] = 100,
-},
-["260405"] = {
-["quest"] = 1,
-["resource"] = 40,
-},
-["240929"] = {
-["quest"] = 2,
-},
-["251031"] = {
-["quest"] = 1,
-},
-["250826"] = {
-["quest"] = 12,
-["resource"] = 101,
-},
-["251129"] = {
-["quest"] = 6,
-["gold"] = 7655500,
-},
-["250923"] = {
-["quest"] = 6,
-["resource"] = 94,
-},
-["251019"] = {
-["quest"] = 24,
-["resource"] = 800,
-["gold"] = 936000,
-},
-["250309"] = {
-["quest"] = 5,
-},
-["250906"] = {
-["quest"] = 13,
-["resource"] = 450,
-},
-["241226"] = {
-["quest"] = 1,
-},
-["250225"] = {
-["quest"] = 1,
-},
-["250306"] = {
-["quest"] = 4,
-["resource"] = 45,
-["gold"] = 17969800,
-},
-["250618"] = {
-["quest"] = 1,
-},
-["250415"] = {
-["quest"] = 7,
-},
-["250807"] = {
-["quest"] = 14,
-["resource"] = 116,
-["gold"] = 17831700,
-},
-["250316"] = {
-["quest"] = 1,
-},
-["251110"] = {
-["quest"] = 1,
-},
-["250301"] = {
-["quest"] = 3,
-},
-["251215"] = {
-["resource"] = 200,
-["quest"] = 4,
-["gold"] = 702000,
-},
-["241012"] = {
-["quest"] = 2,
-},
-["250818"] = {
-["quest"] = 2,
-},
-["250507"] = {
-["quest"] = 1,
-["resource"] = 1000,
-},
-["250809"] = {
-["quest"] = 10,
-["gold"] = 7968300,
-},
-["251128"] = {
-["resource"] = 687,
-["quest"] = 8,
-["gold"] = 1170000,
-},
-["250429"] = {
-["quest"] = 1,
-},
-["260126"] = {
-["quest"] = 1,
-["gold"] = 9950100,
-},
-["250527"] = {
-["quest"] = 1,
-},
-["260321"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["251025"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["241019"] = {
-["artifact"] = 30,
-["resource"] = 30,
-["quest"] = 1,
-["gold"] = 702000,
-},
-["260422"] = {
-["quest"] = 3,
-},
-["251016"] = {
-["quest"] = 40,
-["resource"] = 1000,
-["gold"] = 1170000,
-},
-["241109"] = {
-["quest"] = 3,
-},
-["250325"] = {
-["quest"] = 9,
-["resource"] = 250,
-},
-["251029"] = {
-["quest"] = 1,
-},
-["241121"] = {
-["artifact"] = 200,
-["resource"] = 200,
-["quest"] = 8,
-["gold"] = 17301300,
-},
-["250118"] = {
-["quest"] = 9,
-},
-["250401"] = {
-["artifact"] = 200,
-["resource"] = 1200,
-["quest"] = 3,
-},
-["260306"] = {
-["quest"] = 1,
-},
-["250909"] = {
-["quest"] = 13,
-["gold"] = 10018700,
-},
-["250823"] = {
-["quest"] = 5,
-},
-["260212"] = {
-["quest"] = 3,
-},
-["250515"] = {
-["quest"] = 1,
-},
-["250223"] = {
-["quest"] = 4,
-["gold"] = 7936300,
-},
-["260423"] = {
-["quest"] = 1,
-},
-["251010"] = {
-["quest"] = 7,
-},
-["260302"] = {
-["quest"] = 7,
-},
-["240924"] = {
-["quest"] = 5,
-["gold"] = 10085200,
-},
-["260128"] = {
-["artifact"] = 20,
-["quest"] = 2,
-["resource"] = 20,
-},
-["241029"] = {
-["quest"] = 8,
-["gold"] = 20274600,
-},
-["250531"] = {
-["quest"] = 3,
-},
-["260818"] = {
-["quest"] = 1,
-},
-["250328"] = {
-["quest"] = 3,
-},
-["251017"] = {
-["resource"] = 1600,
-["quest"] = 43,
-["gold"] = 1872000,
-},
-["260305"] = {
-["quest"] = 4,
-},
-["260829"] = {
-["quest"] = 1,
-},
-["251107"] = {
-["quest"] = 2,
-["resource"] = 1000,
-},
-["250825"] = {
-["artifact"] = 200,
-["resource"] = 300,
-["quest"] = 25,
-["gold"] = 31177200,
-},
-["241103"] = {
-["quest"] = 3,
-},
-["250218"] = {
-["quest"] = 1,
-},
-["240921"] = {
-["quest"] = 2,
-},
-["250312"] = {
-["quest"] = 1,
-["resource"] = 50,
-["gold"] = 8196300,
-},
-["251030"] = {
-["quest"] = 3,
-["resource"] = 1000,
-},
-["250305"] = {
-["quest"] = 1,
-["resource"] = 1000,
-},
-["250702"] = {
-["quest"] = 2,
-},
-["250815"] = {
-["quest"] = 3,
-},
-["251027"] = {
-["quest"] = 1,
-},
-["251113"] = {
-["quest"] = 1,
-},
-["251106"] = {
-["resource"] = 400,
-["quest"] = 6,
-["gold"] = 1404000,
-},
-["250917"] = {
-["artifact"] = 30,
-["resource"] = 121,
-["quest"] = 6,
-},
-["250907"] = {
-["quest"] = 5,
-["resource"] = 77,
-},
-["250903"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["250902"] = {
-["quest"] = 12,
-["gold"] = 8189800,
-},
-["241230"] = {
-["quest"] = 3,
-},
-["260325"] = {
-["quest"] = 3,
-["gold"] = 341600,
-},
-["251104"] = {
-["resource"] = 600,
-["quest"] = 12,
-["gold"] = 1170000,
-},
-["250314"] = {
-["artifact"] = 200,
-["quest"] = 2,
-["resource"] = 200,
-},
-["251118"] = {
-["resource"] = 697,
-["quest"] = 12,
-["gold"] = 1170000,
-},
-["241110"] = {
-["quest"] = 3,
-["gold"] = 9928000,
-},
-["241219"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["240930"] = {
-["quest"] = 4,
-["gold"] = 8336800,
-},
-["250904"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["260415"] = {
-["quest"] = 2,
-},
-["250318"] = {
-["quest"] = 4,
-["resource"] = 1000,
-},
-["240922"] = {
-["quest"] = 6,
-["resource"] = 34,
-},
-["250110"] = {
-["quest"] = 1,
-},
-["250829"] = {
-["quest"] = 6,
-},
-["260127"] = {
-["quest"] = 4,
-["resource"] = 30,
-},
-["241225"] = {
-["quest"] = 2,
-},
-["250104"] = {
-["quest"] = 4,
-["resource"] = 150,
-},
-["250916"] = {
-["quest"] = 6,
-["resource"] = 241,
-},
-["250607"] = {
-["quest"] = 4,
-},
-["251103"] = {
-["quest"] = 1,
-},
-["250317"] = {
-["quest"] = 1,
-["resource"] = 92,
-},
-["250331"] = {
-["quest"] = 6,
-["resource"] = 150,
-["gold"] = 8423800,
-},
-["250126"] = {
-["quest"] = 14,
-["gold"] = 9590300,
-},
-["250409"] = {
-["quest"] = 2,
-},
-["250802"] = {
-["quest"] = 1,
-},
-["260307"] = {
-["quest"] = 8,
-},
-["251212"] = {
-["quest"] = 4,
-["resource"] = 200,
-["gold"] = 702000,
-},
-["250905"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["251105"] = {
-["quest"] = 2,
-["resource"] = 200,
-},
-["241106"] = {
-["quest"] = 10,
-},
-["260309"] = {
-["quest"] = 4,
-["gold"] = 319000,
-},
-["250528"] = {
-["quest"] = 1,
-},
-["260311"] = {
-["quest"] = 3,
-["gold"] = 319000,
-},
-["260330"] = {
-["quest"] = 1,
-},
-["250814"] = {
-["quest"] = 5,
-["resource"] = 45,
-["gold"] = 10010500,
-},
-["250604"] = {
-["quest"] = 1,
-},
-["251003"] = {
-["artifact"] = 30,
-["quest"] = 6,
-["resource"] = 30,
-},
-["260418"] = {
-["quest"] = 2,
-["gold"] = 341600,
-},
-["250202"] = {
-["quest"] = 6,
-["gold"] = 16243100,
-},
-["250420"] = {
-["quest"] = 4,
-["resource"] = 34,
-["gold"] = 8110600,
-},
-["251130"] = {
-["quest"] = 4,
-["resource"] = 200,
-["gold"] = 702000,
-},
-["241001"] = {
-["quest"] = 2,
-},
-["260424"] = {
-["quest"] = 2,
-["resource"] = 75,
-},
-["260807"] = {
-["quest"] = 5,
-["resource"] = 200,
-},
-},
-["character"] = {
-["Player-3685-07180DDD"] = {
-["250410"] = {
-["quest"] = 5,
-["resource"] = 150,
-["gold"] = 9749600,
-},
-["250409"] = {
-["quest"] = 1,
-},
-["250217"] = {
-["quest"] = 5,
-},
-["250218"] = {
-["quest"] = 1,
-},
-["250415"] = {
-["quest"] = 7,
-},
-["250408"] = {
-["quest"] = 1,
-},
-["250223"] = {
-["quest"] = 2,
-},
-["250407"] = {
-["resource"] = 100,
-["quest"] = 1,
-["gold"] = 9982300,
-},
-["250216"] = {
-["resource"] = 1000,
-["quest"] = 2,
-["gold"] = 702000,
-},
-},
-["Player-3685-0EBFE1C9"] = {
-["251020"] = {
-["quest"] = 4,
-},
-["251025"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["251019"] = {
-["quest"] = 20,
-["resource"] = 800,
-["gold"] = 936000,
-},
-["251104"] = {
-["resource"] = 600,
-["quest"] = 12,
-["gold"] = 1170000,
-},
-["251031"] = {
-["quest"] = 1,
-},
-["251108"] = {
-["quest"] = 1,
-},
-["251011"] = {
-["resource"] = 600,
-["quest"] = 9,
-["gold"] = 702000,
-},
-["251018"] = {
-["quest"] = 35,
-["resource"] = 2084,
-["gold"] = 2574000,
-},
-["251027"] = {
-["quest"] = 1,
-},
-["251113"] = {
-["quest"] = 1,
-},
-["251106"] = {
-["resource"] = 400,
-["quest"] = 6,
-["gold"] = 1404000,
-},
-["251024"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["251107"] = {
-["quest"] = 1,
-},
-["251118"] = {
-["resource"] = 697,
-["quest"] = 12,
-["gold"] = 1170000,
-},
-["251116"] = {
-["quest"] = 1,
-},
-["251012"] = {
-["quest"] = 1,
-},
-["251110"] = {
-["quest"] = 1,
-},
-["251215"] = {
-["resource"] = 200,
-["quest"] = 4,
-["gold"] = 702000,
-},
-["251206"] = {
-["quest"] = 4,
-["resource"] = 600,
-["gold"] = 1638000,
-},
-["251021"] = {
-["resource"] = 1078,
-["quest"] = 12,
-["gold"] = 1404000,
-},
-["251128"] = {
-["resource"] = 687,
-["quest"] = 8,
-["gold"] = 1170000,
-},
-["251015"] = {
-["resource"] = 1936,
-["quest"] = 37,
-["gold"] = 2340000,
-},
-["251026"] = {
-["quest"] = 1,
-},
-["251103"] = {
-["quest"] = 1,
-},
-["251014"] = {
-["quest"] = 25,
-["resource"] = 1000,
-["gold"] = 1170000,
-},
-["251114"] = {
-["quest"] = 1,
-},
-["251029"] = {
-["quest"] = 1,
-},
-["251023"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["251213"] = {
-["quest"] = 1,
-["gold"] = 234000,
-},
-["251127"] = {
-["resource"] = 1980,
-["quest"] = 16,
-["gold"] = 5148000,
-},
-["251022"] = {
-["quest"] = 13,
-["resource"] = 400,
-["gold"] = 468000,
-},
-["251016"] = {
-["quest"] = 38,
-["resource"] = 1000,
-["gold"] = 1170000,
-},
-["251105"] = {
-["quest"] = 2,
-["resource"] = 200,
-},
-["251017"] = {
-["resource"] = 1000,
-["quest"] = 31,
-["gold"] = 1170000,
-},
-["251010"] = {
-["quest"] = 7,
-},
-["251028"] = {
-["quest"] = 1,
-},
-["251130"] = {
-["quest"] = 4,
-["resource"] = 200,
-["gold"] = 702000,
-},
-["251009"] = {
-["quest"] = 1,
-},
-["251013"] = {
-["resource"] = 1148,
-["quest"] = 31,
-["gold"] = 1404000,
-},
-["251209"] = {
-["quest"] = 4,
-["resource"] = 600,
-["gold"] = 1872000,
-},
-["251117"] = {
-["quest"] = 1,
-["resource"] = 200,
-["gold"] = 234000,
-},
-["251212"] = {
-["quest"] = 4,
-["resource"] = 200,
-["gold"] = 702000,
-},
-},
-["Player-3685-099FD3E3"] = {
-["250507"] = {
-["quest"] = 1,
-["resource"] = 1000,
-},
-["250119"] = {
-["quest"] = 2,
-},
-["241229"] = {
-["quest"] = 4,
-["gold"] = 8506600,
-},
-["250509"] = {
-["quest"] = 1,
-},
-["241124"] = {
-["quest"] = 1,
-["resource"] = 43,
-},
-["241227"] = {
-["quest"] = 3,
-["gold"] = 8179900,
-},
-["250430"] = {
-["quest"] = 1,
-},
-["260201"] = {
-["quest"] = 1,
-},
-["241225"] = {
-["quest"] = 1,
-},
-["250419"] = {
-["quest"] = 9,
-["resource"] = 85,
-},
-["250424"] = {
-["quest"] = 2,
-},
-["250125"] = {
-["quest"] = 1,
-},
-["241224"] = {
-["quest"] = 1,
-},
-["250901"] = {
-["quest"] = 6,
-["resource"] = 388,
-},
-["250514"] = {
-["quest"] = 1,
-},
-["250515"] = {
-["quest"] = 1,
-},
-["260207"] = {
-["quest"] = 4,
-},
-["241122"] = {
-["quest"] = 4,
-["resource"] = 100,
-},
-["250616"] = {
-["quest"] = 2,
-},
-["250531"] = {
-["quest"] = 1,
-},
-["250421"] = {
-["quest"] = 2,
-},
-["241223"] = {
-["quest"] = 3,
-["gold"] = 9852100,
-},
+[89241] = 1,
+[89293] = 1,
+[82552] = 1,
 },
 ["Player-3685-09491807"] = {
-["250607"] = {
-["quest"] = 4,
-},
-},
-["Player-3685-0A7F3116"] = {
-["250110"] = {
-["quest"] = 1,
-},
-["250118"] = {
-["quest"] = 9,
-},
-["250824"] = {
-["quest"] = 8,
-["resource"] = 345,
-},
-["250108"] = {
-["quest"] = 1,
-},
-["250116"] = {
-["quest"] = 6,
-},
-["250109"] = {
-["quest"] = 2,
-},
-["250126"] = {
-["quest"] = 9,
-["gold"] = 9590300,
-},
-["250208"] = {
-["quest"] = 2,
-["resource"] = 35,
-},
-["260620"] = {
-["quest"] = 1,
-},
-["250202"] = {
-["quest"] = 1,
-},
-["250816"] = {
-["quest"] = 5,
-},
-["250829"] = {
-["quest"] = 6,
-},
-["260628"] = {
-["quest"] = 1,
-},
-["250905"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["260621"] = {
-["quest"] = 4,
-},
-},
-["Player-3685-0EC4EEC1"] = {
-["251020"] = {
-["quest"] = 12,
-["resource"] = 200,
-["gold"] = 234000,
-},
-["251023"] = {
-["quest"] = 1,
-},
-},
-["Player-3685-07F1620A"] = {
-["250225"] = {
-["quest"] = 1,
-},
-["241124"] = {
-["quest"] = 1,
-},
-["250228"] = {
-["quest"] = 1,
-},
-["250826"] = {
-["quest"] = 6,
-["resource"] = 101,
-},
-["250424"] = {
-["quest"] = 1,
-},
-["250302"] = {
-["resource"] = 150,
-["quest"] = 2,
-["gold"] = 9854900,
-},
-["250405"] = {
-["quest"] = 1,
-},
-["250812"] = {
-["resource"] = 1000,
-["quest"] = 11,
-["gold"] = 9951100,
-},
-["260303"] = {
-["quest"] = 7,
-},
-["250304"] = {
-["quest"] = 8,
-},
-["250301"] = {
-["quest"] = 2,
-},
-["250818"] = {
-["quest"] = 1,
-},
-["241025"] = {
-["quest"] = 1,
-},
-["250313"] = {
-["quest"] = 1,
-},
-["260422"] = {
-["quest"] = 3,
-},
-["250325"] = {
-["quest"] = 2,
-},
-["250419"] = {
-["quest"] = 2,
-},
-["241231"] = {
-["quest"] = 1,
-["gold"] = 702000,
-},
-["251213"] = {
-["quest"] = 8,
-["resource"] = 300,
-},
-["241006"] = {
-["quest"] = 1,
-["gold"] = 9849700,
-},
-["250806"] = {
-["quest"] = 1,
-["resource"] = 1000,
-},
-["241224"] = {
-["quest"] = 1,
-["gold"] = 702000,
-},
-["260306"] = {
-["quest"] = 1,
-},
-["260302"] = {
-["quest"] = 7,
-},
-["260128"] = {
-["artifact"] = 20,
-["quest"] = 2,
-["resource"] = 20,
-},
-["250930"] = {
-["quest"] = 6,
-},
-["250227"] = {
-["quest"] = 2,
-},
-["250811"] = {
-["quest"] = 5,
-},
-["250825"] = {
-["quest"] = 14,
-["gold"] = 10618300,
-},
-["250813"] = {
-["quest"] = 4,
-},
-["241026"] = {
-["quest"] = 5,
-["resource"] = 49,
-},
-["250312"] = {
-["quest"] = 1,
-["resource"] = 50,
-["gold"] = 8196300,
-},
-["241230"] = {
-["quest"] = 3,
-},
-["250328"] = {
-["quest"] = 3,
-},
-["250808"] = {
-["quest"] = 1,
-},
-["240921"] = {
-["quest"] = 2,
-},
-["240922"] = {
-["quest"] = 6,
-["resource"] = 34,
-},
-["260307"] = {
-["quest"] = 8,
-},
-["250902"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["250810"] = {
-["quest"] = 2,
-},
-["241009"] = {
-["quest"] = 1,
-["gold"] = 9836900,
-},
-["240920"] = {
-["quest"] = 3,
-["gold"] = 10634700,
-},
-["260829"] = {
-["quest"] = 1,
-},
-["250311"] = {
-["quest"] = 8,
-},
-["260818"] = {
-["quest"] = 1,
-},
-["260324"] = {
-["quest"] = 2,
-},
-["250815"] = {
-["quest"] = 2,
-},
-["260401"] = {
-["quest"] = 1,
-["resource"] = 50,
-},
-["250909"] = {
-["quest"] = 7,
-},
-["260407"] = {
-["quest"] = 1,
-},
-["260331"] = {
-["quest"] = 1,
-},
-["250322"] = {
-["quest"] = 3,
-["resource"] = 11,
-},
-["241019"] = {
-["artifact"] = 30,
-["resource"] = 30,
-["quest"] = 1,
-["gold"] = 702000,
-},
-["260305"] = {
-["quest"] = 4,
-},
-["241016"] = {
-["quest"] = 4,
-},
-["250222"] = {
-["quest"] = 1,
-},
-["260310"] = {
-["resource"] = 300,
-["quest"] = 12,
-["gold"] = 1024800,
-},
-["241227"] = {
-["quest"] = 1,
-},
-["250706"] = {
-["quest"] = 1,
-},
-["250401"] = {
-["quest"] = 2,
-["resource"] = 1000,
-},
-["250318"] = {
-["quest"] = 4,
-["resource"] = 1000,
-},
-["250807"] = {
-["quest"] = 9,
-["gold"] = 86400,
-},
-["250306"] = {
-["quest"] = 3,
-["gold"] = 8228900,
-},
-["250103"] = {
-["quest"] = 4,
-["gold"] = 9712200,
-},
-["241029"] = {
-["quest"] = 1,
-["gold"] = 10137300,
-},
-["250305"] = {
-["quest"] = 1,
-["resource"] = 1000,
-},
-["240925"] = {
-["quest"] = 9,
-["gold"] = 10085200,
-},
-["260308"] = {
-["resource"] = 150,
-["quest"] = 8,
-["gold"] = 683200,
-},
-["250719"] = {
-["quest"] = 1,
-},
-["250223"] = {
-["quest"] = 2,
-["gold"] = 7936300,
-},
-["250429"] = {
-["quest"] = 1,
-},
-["260514"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["260304"] = {
-["quest"] = 6,
-},
-["250409"] = {
-["quest"] = 1,
-},
-["250303"] = {
-["quest"] = 1,
-["resource"] = 150,
-},
-["260325"] = {
-["quest"] = 3,
-["gold"] = 341600,
-},
-["250327"] = {
-["quest"] = 1,
-["resource"] = 45,
-["gold"] = 9651200,
-},
-["260319"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["260415"] = {
-["quest"] = 1,
-},
-["250819"] = {
-["quest"] = 10,
-["resource"] = 150,
-},
-},
-["Player-3685-0DFC95BB"] = {
-["241231"] = {
-["quest"] = 1,
-["gold"] = 702000,
-},
-["241106"] = {
-["quest"] = 10,
-},
-["260606"] = {
-["quest"] = 1,
-["resource"] = 75,
-},
-["241107"] = {
-["quest"] = 1,
-},
-["250105"] = {
-["quest"] = 2,
-["resource"] = 29,
-},
-["241109"] = {
-["quest"] = 3,
-},
-["250101"] = {
-["quest"] = 3,
-},
-["241120"] = {
-["quest"] = 1,
-},
-["241112"] = {
-["quest"] = 4,
-},
-["241105"] = {
-["quest"] = 4,
-["resource"] = 27,
-},
-},
-["Player-3685-0717C7FF"] = {
-["241112"] = {
-["artifact"] = 55,
-["quest"] = 12,
-["resource"] = 155,
-["gold"] = 702000,
-},
-["241021"] = {
-["quest"] = 1,
-},
-["241103"] = {
-["quest"] = 3,
-},
-["241026"] = {
-["quest"] = 7,
-["resource"] = 33,
-},
-["241110"] = {
-["quest"] = 3,
-["gold"] = 9928000,
-},
-["251129"] = {
-["quest"] = 6,
-["gold"] = 7655500,
-},
-["241114"] = {
-["quest"] = 1,
-["resource"] = 100,
-},
-["241219"] = {
-["quest"] = 2,
-["gold"] = 234000,
-},
-["241029"] = {
-["quest"] = 7,
-["gold"] = 10137300,
-},
-["241018"] = {
-["quest"] = 2,
-},
-["241121"] = {
-["artifact"] = 200,
-["resource"] = 200,
-["quest"] = 8,
-["gold"] = 17301300,
-},
-["241105"] = {
-["quest"] = 6,
-["resource"] = 1000,
-},
-},
-["Player-3685-0990B6B7"] = {
-["250908"] = {
-["quest"] = 3,
-},
-["250811"] = {
-["quest"] = 8,
-},
-["250813"] = {
-["quest"] = 4,
-["resource"] = 45,
-},
-["250916"] = {
-["quest"] = 6,
-["resource"] = 241,
-},
-["240929"] = {
-["quest"] = 1,
-},
-["250826"] = {
-["quest"] = 6,
-},
-["250820"] = {
-["resource"] = 45,
-["quest"] = 7,
-["gold"] = 9994900,
-},
-["250903"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["251006"] = {
-["quest"] = 6,
-["resource"] = 130,
-},
-["241005"] = {
-["artifact"] = 200,
-["quest"] = 1,
-["resource"] = 200,
-},
-["250603"] = {
-["quest"] = 1,
-},
-["250124"] = {
-["quest"] = 1,
-["gold"] = 702000,
-},
-["250810"] = {
-["quest"] = 1,
-},
-["241017"] = {
-["artifact"] = 230,
-["quest"] = 2,
-["resource"] = 230,
-["gold"] = 702000,
-},
-["240920"] = {
-["quest"] = 2,
-["gold"] = 10634700,
-},
-["250527"] = {
-["quest"] = 1,
-},
-["250809"] = {
-["quest"] = 10,
-["gold"] = 7968300,
-},
-["250824"] = {
-["quest"] = 1,
-},
-["241004"] = {
-["quest"] = 1,
-["gold"] = 9849700,
-},
-["241011"] = {
-["quest"] = 7,
-["gold"] = 9836900,
-},
-["260822"] = {
-["quest"] = 1,
-},
-["240923"] = {
-["quest"] = 6,
-},
-["260428"] = {
-["quest"] = 2,
-["gold"] = 11283572,
-},
-["260418"] = {
-["quest"] = 2,
-["gold"] = 341600,
-},
-["260417"] = {
-["quest"] = 6,
-["gold"] = 10180286,
-},
-["260413"] = {
-["quest"] = 2,
-["gold"] = 11077588,
-},
-["260830"] = {
-["quest"] = 4,
-},
-["250528"] = {
-["quest"] = 1,
-},
-["250526"] = {
-["quest"] = 1,
-},
-["240926"] = {
-["quest"] = 6,
-},
-["260424"] = {
-["quest"] = 2,
-["resource"] = 75,
-},
-["260423"] = {
-["quest"] = 1,
-},
-["250823"] = {
-["quest"] = 5,
-},
-["250815"] = {
-["quest"] = 1,
-},
-["250604"] = {
-["quest"] = 1,
-},
-["241012"] = {
-["quest"] = 2,
-},
-["241016"] = {
-["quest"] = 4,
-},
-["250910"] = {
-["quest"] = 6,
-["gold"] = 10018700,
-},
-["250620"] = {
-["quest"] = 3,
-},
-["260523"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-},
-["Player-3685-0EC41CD1"] = {
-["251017"] = {
-["resource"] = 600,
-["quest"] = 12,
-["gold"] = 702000,
-},
-["251019"] = {
-["quest"] = 4,
-},
-["251016"] = {
-["quest"] = 2,
-},
-["251018"] = {
-["quest"] = 6,
-},
-["251023"] = {
-["quest"] = 1,
-},
-},
-["Player-3685-0722C2B9"] = {
-["250911"] = {
-["quest"] = 6,
-},
-["250427"] = {
-["artifact"] = 200,
-["quest"] = 1,
-["resource"] = 200,
-},
-["240929"] = {
-["quest"] = 1,
-},
-["260516"] = {
-["quest"] = 2,
-["gold"] = 683200,
-},
-["250114"] = {
-["quest"] = 1,
-},
-["250417"] = {
-["artifact"] = 200,
-["quest"] = 6,
-["resource"] = 200,
-},
-["251208"] = {
-["quest"] = 1,
-},
-["250306"] = {
-["quest"] = 1,
-["resource"] = 45,
-["gold"] = 9740900,
-},
-["250701"] = {
-["quest"] = 1,
-},
-["250107"] = {
-["quest"] = 4,
-["resource"] = 29,
-},
-["241003"] = {
-["quest"] = 1,
-},
-["250313"] = {
-["quest"] = 1,
-},
-["251026"] = {
-["quest"] = 1,
-["gold"] = 606600,
-},
-["240919"] = {
-["quest"] = 3,
-},
-["250814"] = {
-["quest"] = 5,
-["resource"] = 45,
-["gold"] = 10010500,
-},
-["260402"] = {
-["quest"] = 1,
-},
-["250618"] = {
-["quest"] = 1,
-},
-["241218"] = {
-["quest"] = 2,
-},
-["241231"] = {
-["quest"] = 2,
-["gold"] = 702000,
-},
-["260501"] = {
-["quest"] = 1,
-["gold"] = 10941972,
-},
-["241024"] = {
-["quest"] = 6,
-["resource"] = 1049,
-},
-["260405"] = {
-["quest"] = 1,
-["resource"] = 40,
-},
-["241224"] = {
-["quest"] = 1,
-},
-["250520"] = {
-["quest"] = 1,
-},
-["260415"] = {
-["quest"] = 1,
-},
-["240924"] = {
-["quest"] = 5,
-["gold"] = 10085200,
-},
-["250526"] = {
-["quest"] = 2,
-},
-["241120"] = {
-["quest"] = 1,
-},
-["260315"] = {
-["quest"] = 10,
-["gold"] = 341600,
-},
-["260330"] = {
-["quest"] = 1,
-},
-["241021"] = {
-["artifact"] = 36,
-["quest"] = 1,
-["resource"] = 36,
-},
-["241015"] = {
-["quest"] = 2,
-},
-["250331"] = {
-["quest"] = 6,
-["resource"] = 150,
-["gold"] = 8423800,
-},
-["250825"] = {
-["artifact"] = 200,
-["resource"] = 300,
-["quest"] = 11,
-["gold"] = 20558900,
-},
-["260313"] = {
-["quest"] = 1,
-["resource"] = 150,
-},
-["260208"] = {
-["quest"] = 4,
-},
-["251030"] = {
-["quest"] = 2,
-["resource"] = 1000,
-},
-["250103"] = {
-["quest"] = 1,
-["gold"] = 8290600,
-},
-["241217"] = {
-["quest"] = 2,
-},
-["260311"] = {
-["quest"] = 3,
-["gold"] = 319000,
-},
-["250722"] = {
-["quest"] = 2,
-},
-["250902"] = {
-["quest"] = 6,
-},
-["251107"] = {
-["quest"] = 1,
-["resource"] = 1000,
-},
-["240930"] = {
-["quest"] = 4,
-["gold"] = 8336800,
-},
-["260319"] = {
-["quest"] = 3,
-["resource"] = 50,
-},
-["260321"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["250811"] = {
-["resource"] = 43,
-["quest"] = 11,
-["gold"] = 8096500,
-},
-["241001"] = {
-["quest"] = 2,
-},
-["250420"] = {
-["quest"] = 4,
-["resource"] = 34,
-["gold"] = 8110600,
-},
-["241105"] = {
-["quest"] = 1,
-["gold"] = 9928000,
-},
-["250310"] = {
-["quest"] = 1,
-},
-["250322"] = {
-["quest"] = 3,
-["resource"] = 150,
-},
-["260413"] = {
-["quest"] = 1,
-},
-["250601"] = {
-["quest"] = 1,
-},
-["250104"] = {
-["quest"] = 4,
-["resource"] = 150,
-},
-["250309"] = {
-["quest"] = 5,
-},
-["260411"] = {
-["quest"] = 1,
-["resource"] = 40,
-},
-["250608"] = {
-["quest"] = 1,
-},
-["241020"] = {
-["quest"] = 4,
-},
-["250408"] = {
-["quest"] = 1,
-},
-["250717"] = {
-["quest"] = 1,
-},
-["260126"] = {
-["quest"] = 1,
-["gold"] = 9950100,
-},
-["260127"] = {
-["quest"] = 4,
-["resource"] = 30,
-},
-["241225"] = {
-["quest"] = 1,
-},
-["250917"] = {
-["artifact"] = 30,
-["resource"] = 121,
-["quest"] = 6,
-},
-["250702"] = {
-["quest"] = 2,
-},
-["250617"] = {
-["quest"] = 1,
-},
-["250314"] = {
-["artifact"] = 200,
-["quest"] = 2,
-["resource"] = 200,
-},
-["240925"] = {
-["quest"] = 2,
-["gold"] = 8194800,
-},
-["250516"] = {
-["quest"] = 1,
-},
-["250531"] = {
-["quest"] = 1,
-},
-["241226"] = {
-["quest"] = 1,
-},
-["250321"] = {
-["artifact"] = 200,
-["resource"] = 211,
-["quest"] = 9,
-},
-["250325"] = {
-["quest"] = 7,
-["resource"] = 250,
-},
-["251003"] = {
-["artifact"] = 30,
-["quest"] = 6,
-["resource"] = 30,
-},
-["241229"] = {
-["quest"] = 6,
-["gold"] = 8506600,
-},
-["241008"] = {
-["quest"] = 2,
-},
-["260316"] = {
-["quest"] = 4,
-["gold"] = 341600,
-},
-["260309"] = {
-["quest"] = 4,
-["gold"] = 319000,
-},
-["260320"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-["250828"] = {
-["quest"] = 5,
-["gold"] = 9797100,
-},
-["260403"] = {
-["quest"] = 1,
-["gold"] = 341600,
-},
-},
-["Player-3685-0A95F80C"] = {
-["251004"] = {
-["quest"] = 1,
-},
-["250821"] = {
-["quest"] = 4,
-},
-["250504"] = {
-["quest"] = 1,
-},
-["250321"] = {
-["quest"] = 4,
-["resource"] = 50,
-},
-["250411"] = {
-["quest"] = 1,
-},
-["250923"] = {
-["quest"] = 6,
-["resource"] = 94,
-},
-["250317"] = {
-["quest"] = 1,
-["resource"] = 92,
-},
-["251030"] = {
-["quest"] = 1,
-},
-["250816"] = {
-["quest"] = 5,
-["resource"] = 45,
-},
-["250817"] = {
-["quest"] = 1,
-},
-["250323"] = {
-["quest"] = 4,
-["resource"] = 100,
-},
-["250315"] = {
-["quest"] = 7,
-["gold"] = 702000,
-},
-["250401"] = {
-["artifact"] = 200,
-["quest"] = 1,
-["resource"] = 200,
-},
-["250307"] = {
-["quest"] = 3,
-["resource"] = 45,
-},
-["250806"] = {
-["quest"] = 3,
-["gold"] = 86400,
-},
-["260208"] = {
-["quest"] = 4,
-["resource"] = 32,
-},
-["251001"] = {
-["artifact"] = 30,
-["quest"] = 6,
-["resource"] = 30,
-},
-["250907"] = {
-["quest"] = 5,
-["resource"] = 77,
-},
-["250510"] = {
-["quest"] = 1,
-["resource"] = 100,
-},
-["250316"] = {
-["quest"] = 1,
-},
-["250807"] = {
-["quest"] = 5,
-["resource"] = 116,
-["gold"] = 17745300,
-},
-["250303"] = {
-["quest"] = 3,
-},
-["250827"] = {
-["quest"] = 7,
-["resource"] = 202,
-},
-["250326"] = {
-["quest"] = 2,
-},
-["250531"] = {
-["quest"] = 1,
-},
-["250818"] = {
-["quest"] = 1,
-},
-["260807"] = {
-["quest"] = 5,
-["resource"] = 200,
-},
-},
-["Player-3685-0722B5D5"] = {
-["260209"] = {
-["quest"] = 4,
-},
-["250202"] = {
-["quest"] = 2,
-["gold"] = 8241700,
-},
-["250301"] = {
-["quest"] = 1,
-},
-["260212"] = {
-["quest"] = 3,
-},
-["250130"] = {
-["quest"] = 7,
-},
-["250129"] = {
-["quest"] = 4,
-},
-["250212"] = {
-["quest"] = 3,
-},
-},
-["Player-3685-0717BEFC"] = {
-["250131"] = {
-["quest"] = 13,
-},
-["250909"] = {
-["quest"] = 6,
-["gold"] = 10018700,
-},
-["250906"] = {
-["quest"] = 13,
-["resource"] = 450,
-},
-["250205"] = {
-["quest"] = 4,
-["gold"] = 8153500,
-},
-["250918"] = {
-["artifact"] = 30,
-["resource"] = 121,
-["quest"] = 6,
-},
-["250913"] = {
-["quest"] = 1,
-},
-["250126"] = {
-["quest"] = 5,
-},
-["250904"] = {
-["quest"] = 6,
-["gold"] = 8189800,
-},
-["250204"] = {
-["quest"] = 2,
-},
-["250202"] = {
-["quest"] = 3,
-["gold"] = 8001400,
-},
-["250201"] = {
-["quest"] = 5,
-["resource"] = 1000,
-["gold"] = 702000,
-},
-},
-["Player-3685-0ACADE27"] = {
-["250802"] = {
-["quest"] = 1,
-},
-["250803"] = {
-["quest"] = 1,
-},
-["250810"] = {
-["quest"] = 1,
-},
+[82456] = 1,
+[82523] = 1,
+[82584] = 1,
+["total"] = 4,
+[83930] = 1,
 },
 },
 },
@@ -4689,15 +4696,16 @@ WQTrackerDB = {
 ["resource"] = 1616,
 ["gold"] = 26538600,
 },
-["Player-3685-09491807"] = {
+["Player-3685-0ACADE27"] = {
 },
 ["Player-3685-0A7F3116"] = {
 ["resource"] = 380,
 ["gold"] = 17780100,
 },
-["Player-3685-0EC4EEC1"] = {
-["resource"] = 200,
-["gold"] = 234000,
+["Player-3685-0717C7FF"] = {
+["artifact"] = 255,
+["resource"] = 1488,
+["gold"] = 45958100,
 },
 ["Player-3685-07F1620A"] = {
 ["artifact"] = 50,
@@ -4708,29 +4716,28 @@ WQTrackerDB = {
 ["resource"] = 131,
 ["gold"] = 702000,
 },
-["Player-3685-0717C7FF"] = {
-["artifact"] = 255,
-["resource"] = 1488,
-["gold"] = 45958100,
+["Player-3685-0EC4EEC1"] = {
+["resource"] = 200,
+["gold"] = 234000,
+},
+["Player-3685-0A95F80C"] = {
+["artifact"] = 230,
+["resource"] = 1383,
+["gold"] = 18533700,
 },
 ["Player-3685-0990B6B7"] = {
 ["artifact"] = 430,
 ["resource"] = 966,
 ["gold"] = 101121646,
 },
-["Player-3685-0EC41CD1"] = {
-["resource"] = 600,
-["gold"] = 702000,
-},
 ["Player-3685-0722C2B9"] = {
 ["artifact"] = 1096,
 ["resource"] = 5553,
 ["gold"] = 153310172,
 },
-["Player-3685-0A95F80C"] = {
-["artifact"] = 230,
-["resource"] = 1383,
-["gold"] = 18533700,
+["Player-3685-0EC41CD1"] = {
+["resource"] = 600,
+["gold"] = 702000,
 },
 ["Player-3685-0722B5D5"] = {
 ["gold"] = 8241700,
@@ -4740,7 +4747,7 @@ WQTrackerDB = {
 ["resource"] = 1571,
 ["gold"] = 35065400,
 },
-["Player-3685-0ACADE27"] = {
+["Player-3685-09491807"] = {
 },
 },
 },
@@ -4750,232 +4757,232 @@ WQTrackerDB = {
 [8685] = {
 ["poiID"] = 8685,
 ["mapID"] = 2537,
-["tooltipSetId"] = 1918,
+["zoneY"] = 0.1840884685516357,
 ["worldY"] = 0.06444814801216125,
 ["zoneX"] = 0.4897408485412598,
 ["continentID"] = 13,
 ["worldX"] = 0.6475410461425781,
-["zoneY"] = 0.1840884685516357,
+["tooltipSetId"] = 1918,
 },
 [8693] = {
 ["poiID"] = 8693,
 ["mapID"] = 2537,
-["zoneY"] = 0.8548790216445923,
+["tooltipSetId"] = 1921,
 ["worldY"] = 0.3132497668266296,
 ["zoneX"] = 0.372792661190033,
 ["continentID"] = 13,
 ["worldX"] = 0.6041669845581055,
-["tooltipSetId"] = 1921,
+["zoneY"] = 0.8548790216445923,
 },
 [8585] = {
 ["poiID"] = 8585,
 ["mapID"] = 2405,
-["zoneY"] = 0.6922240257263184,
+["tooltipSetId"] = 1915,
 ["worldY"] = 0,
 ["zoneX"] = 0.3563025593757629,
 ["continentID"] = 2537,
 ["worldX"] = 0,
-["tooltipSetId"] = 1915,
+["zoneY"] = 0.6922240257263184,
 },
 [8686] = {
 ["poiID"] = 8686,
 ["mapID"] = 2537,
-["tooltipSetId"] = 1915,
+["zoneY"] = 0.1840884685516357,
 ["worldY"] = 0.06444814801216125,
 ["zoneX"] = 0.5739741325378418,
 ["continentID"] = 13,
 ["worldX"] = 0.6787816286087036,
-["zoneY"] = 0.1840884685516357,
+["tooltipSetId"] = 1915,
 },
 [7823] = {
 ["poiID"] = 7823,
 ["mapID"] = 2248,
-["zoneY"] = 0.3779747486114502,
+["tooltipSetId"] = 1108,
 ["worldY"] = 0.1785767376422882,
 ["zoneX"] = 0.7312923669815063,
 ["continentID"] = 2274,
 ["worldX"] = 0.8276190161705017,
-["tooltipSetId"] = 1108,
+["zoneY"] = 0.3779747486114502,
 },
 [7827] = {
 ["poiID"] = 7827,
 ["mapID"] = 2215,
-["zoneY"] = 0.660647451877594,
+["tooltipSetId"] = 1121,
 ["worldY"] = 0.5970885157585144,
 ["zoneX"] = 0.6504725217819214,
 ["continentID"] = 2274,
 ["worldX"] = 0.4461714029312134,
-["tooltipSetId"] = 1121,
+["zoneY"] = 0.660647451877594,
 },
 [8524] = {
 ["poiID"] = 8524,
 ["mapID"] = 2413,
-["zoneY"] = 0.7589195966720581,
+["tooltipSetId"] = 1897,
 ["worldY"] = 0,
 ["zoneX"] = 0.3327273726463318,
 ["continentID"] = 2537,
 ["worldX"] = 0,
-["tooltipSetId"] = 1897,
+["zoneY"] = 0.7589195966720581,
 },
 [8695] = {
 ["poiID"] = 8695,
 ["mapID"] = 2395,
-["tooltipSetId"] = 1975,
+["zoneY"] = 0.818000316619873,
 ["worldY"] = 0.7239596247673035,
 ["zoneX"] = 0.6105030179023743,
 ["continentID"] = 2537,
 ["worldX"] = 0.3344846665859222,
-["zoneY"] = 0.818000316619873,
+["tooltipSetId"] = 1975,
 },
 [8688] = {
 ["poiID"] = 8688,
 ["mapID"] = 2537,
-["tooltipSetId"] = 1897,
+["zoneY"] = 0.1243194937705994,
 ["worldY"] = 0.04227935150265694,
 ["zoneX"] = 0.8655507564544678,
 ["continentID"] = 13,
 ["worldX"] = 0.7869222164154053,
-["zoneY"] = 0.1243194937705994,
+["tooltipSetId"] = 1897,
 },
 [7824] = {
 ["poiID"] = 7824,
 ["mapID"] = 2248,
-["zoneY"] = 0.7109032869338989,
+["tooltipSetId"] = 1117,
 ["worldY"] = 0.3270628750324249,
 ["zoneX"] = 0.3140128254890442,
 ["continentID"] = 2274,
 ["worldX"] = 0.6406777501106262,
-["tooltipSetId"] = 1117,
+["zoneY"] = 0.7109032869338989,
 },
 [8611] = {
 ["poiID"] = 8611,
 ["mapID"] = 2437,
-["zoneY"] = 0.7738290429115295,
+["tooltipSetId"] = 1921,
 ["worldY"] = 0.8548790216445923,
 ["zoneX"] = 0.2852997779846191,
 ["continentID"] = 2537,
 ["worldX"] = 0.372792661190033,
-["tooltipSetId"] = 1921,
+["zoneY"] = 0.7738290429115295,
 },
 [8588] = {
 ["poiID"] = 8588,
 ["mapID"] = 2405,
-["zoneY"] = 0.855483889579773,
+["tooltipSetId"] = 1918,
 ["worldY"] = 0,
 ["zoneX"] = 0.3867294192314148,
 ["continentID"] = 2537,
 ["worldX"] = 0,
-["tooltipSetId"] = 1918,
+["zoneY"] = 0.855483889579773,
 },
 [8612] = {
 ["poiID"] = 8612,
 ["mapID"] = 2437,
-["tooltipSetId"] = 1922,
+["zoneY"] = 0.5443726181983948,
 ["worldY"] = 0.7218235731124878,
 ["zoneX"] = 0.323729932308197,
 ["continentID"] = 2537,
 ["worldX"] = 0.3950788378715515,
-["zoneY"] = 0.5443726181983948,
+["tooltipSetId"] = 1922,
 },
 [7887] = {
 ["poiID"] = 7887,
 ["mapID"] = 2248,
-["zoneY"] = 0.3083001971244812,
+["tooltipSetId"] = 1298,
 ["worldY"] = 0.1475018858909607,
 ["zoneX"] = 0.724856436252594,
 ["continentID"] = 2274,
 ["worldX"] = 0.8247356414794922,
-["tooltipSetId"] = 1298,
+["zoneY"] = 0.3083001971244812,
 },
 [7829] = {
 ["poiID"] = 7829,
 ["mapID"] = 2255,
-["tooltipSetId"] = 1122,
+["zoneY"] = 0.4741144478321075,
 ["worldY"] = 0.731215238571167,
 ["zoneX"] = 0.5663099884986877,
 ["continentID"] = 2274,
 ["worldX"] = 0.4659847617149353,
-["zoneY"] = 0.4741144478321075,
-},
-[8523] = {
-["poiID"] = 8523,
-["mapID"] = 2413,
-["zoneY"] = 0.3885794878005981,
-["worldY"] = 0,
-["zoneX"] = 0.7079315185546875,
-["continentID"] = 2537,
-["worldX"] = 0,
-["tooltipSetId"] = 1895,
-},
-[8328] = {
-["poiID"] = 8328,
-["mapID"] = 2371,
-["tooltipSetId"] = 1670,
-["worldY"] = 0,
-["zoneX"] = 0.77094966173172,
-["continentID"] = 2274,
-["worldX"] = 0,
-["zoneY"] = 0.4840457439422607,
-},
-[7828] = {
-["poiID"] = 7828,
-["mapID"] = 2215,
-["zoneY"] = 0.08865920454263687,
-["worldY"] = 0.3747150003910065,
-["zoneX"] = 0.6303520202636719,
-["continentID"] = 2274,
-["worldX"] = 0.4383490979671478,
-["tooltipSetId"] = 1120,
-},
-[7886] = {
-["poiID"] = 7886,
-["mapID"] = 2248,
-["zoneY"] = 0.7182743549346924,
-["worldY"] = 0.3303503394126892,
-["zoneX"] = 0.701687216758728,
-["continentID"] = 2274,
-["worldX"] = 0.8143559098243713,
-["tooltipSetId"] = 1297,
-},
-[7825] = {
-["poiID"] = 7825,
-["mapID"] = 2214,
-["zoneY"] = 0.5031269788742065,
-["worldY"] = 0.5881654620170593,
-["zoneX"] = 0.6342707872390747,
-["continentID"] = 2274,
-["worldX"] = 0.597230851650238,
-["tooltipSetId"] = 1118,
-},
-[8324] = {
-["poiID"] = 8324,
-["mapID"] = 2371,
-["tooltipSetId"] = 1596,
-["worldY"] = 0,
-["zoneX"] = 0.5634082555770874,
-["continentID"] = 2274,
-["worldX"] = 0,
-["zoneY"] = 0.2729568481445313,
-},
-[7826] = {
-["poiID"] = 7826,
-["mapID"] = 2214,
-["tooltipSetId"] = 1119,
-["worldY"] = 0.4605581760406494,
-["zoneX"] = 0.510077953338623,
-["continentID"] = 2274,
-["worldX"] = 0.5552620887756348,
-["zoneY"] = 0.1255691051483154,
+["tooltipSetId"] = 1122,
 },
 [8471] = {
 ["poiID"] = 8471,
 ["mapID"] = 2395,
-["tooltipSetId"] = 1846,
+["zoneY"] = 0.6031304001808167,
 ["worldY"] = 0.5928800106048584,
 ["zoneX"] = 0.4053011536598206,
 ["continentID"] = 2537,
 ["worldX"] = 0.2093082666397095,
-["zoneY"] = 0.6031304001808167,
+["tooltipSetId"] = 1846,
+},
+[7826] = {
+["poiID"] = 7826,
+["mapID"] = 2214,
+["zoneY"] = 0.1255691051483154,
+["worldY"] = 0.4605581760406494,
+["zoneX"] = 0.510077953338623,
+["continentID"] = 2274,
+["worldX"] = 0.5552620887756348,
+["tooltipSetId"] = 1119,
+},
+[8324] = {
+["poiID"] = 8324,
+["mapID"] = 2371,
+["zoneY"] = 0.2729568481445313,
+["worldY"] = 0,
+["zoneX"] = 0.5634082555770874,
+["continentID"] = 2274,
+["worldX"] = 0,
+["tooltipSetId"] = 1596,
+},
+[7825] = {
+["poiID"] = 7825,
+["mapID"] = 2214,
+["tooltipSetId"] = 1118,
+["worldY"] = 0.5881654620170593,
+["zoneX"] = 0.6342707872390747,
+["continentID"] = 2274,
+["worldX"] = 0.597230851650238,
+["zoneY"] = 0.5031269788742065,
+},
+[7886] = {
+["poiID"] = 7886,
+["mapID"] = 2248,
+["tooltipSetId"] = 1297,
+["worldY"] = 0.3303503394126892,
+["zoneX"] = 0.701687216758728,
+["continentID"] = 2274,
+["worldX"] = 0.8143559098243713,
+["zoneY"] = 0.7182743549346924,
+},
+[7828] = {
+["poiID"] = 7828,
+["mapID"] = 2215,
+["tooltipSetId"] = 1120,
+["worldY"] = 0.3747150003910065,
+["zoneX"] = 0.6303520202636719,
+["continentID"] = 2274,
+["worldX"] = 0.4383490979671478,
+["zoneY"] = 0.08865920454263687,
+},
+[8328] = {
+["poiID"] = 8328,
+["mapID"] = 2371,
+["zoneY"] = 0.4840457439422607,
+["worldY"] = 0,
+["zoneX"] = 0.77094966173172,
+["continentID"] = 2274,
+["worldX"] = 0,
+["tooltipSetId"] = 1670,
+},
+[8523] = {
+["poiID"] = 8523,
+["mapID"] = 2413,
+["tooltipSetId"] = 1895,
+["worldY"] = 0,
+["zoneX"] = 0.7079315185546875,
+["continentID"] = 2537,
+["worldX"] = 0,
+["zoneY"] = 0.3885794878005981,
 },
 },
 },

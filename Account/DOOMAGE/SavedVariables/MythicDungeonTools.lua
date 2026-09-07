@@ -19,15 +19,15 @@ MythicDungeonToolsDB = {
 ["Artoc - Silvermoon"] = "Artoc - Silvermoon",
 ["Adamantium - Turalyon"] = "Adamantium - Turalyon",
 ["Adamn - Turalyon"] = "Adamn - Turalyon",
-["Adomic - Turalyon"] = "Adomic - Turalyon",
-["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
+["Fredus - Turalyon"] = "Fredus - Turalyon",
+["Shado - Turalyon"] = "Shado - Turalyon",
 ["Fernie - Turalyon"] = "Fernie - Turalyon",
 ["Powerpriest - Turalyon"] = "Powerpriest - Turalyon",
 ["Donnd - Turalyon"] = "Donnd - Turalyon",
 ["Kurate - Turalyon"] = "Kurate - Turalyon",
-["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
-["Asaam - Turalyon"] = "Asaam - Turalyon",
 ["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Caseann - Turalyon"] = "Caseann - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
@@ -35,26 +35,27 @@ MythicDungeonToolsDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-["Drunkan - Turalyon"] = "Drunkan - Turalyon",
+["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
 ["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
-["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
-["Kayne - Turalyon"] = "Kayne - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
-["Luthro - Turalyon"] = "Luthro - Turalyon",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
+["Christifur - Turalyon"] = "Christifur - Turalyon",
+["Dreg - Turalyon"] = "Dreg - Turalyon",
+["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
 ["Frake - Turalyon"] = "Frake - Turalyon",
-["Adonis - Turalyon"] = "Adonis - Turalyon",
-["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Christifur - Turalyon"] = "Christifur - Turalyon",
-["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
+["Luthro - Turalyon"] = "Luthro - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
+["Kayne - Turalyon"] = "Kayne - Turalyon",
+["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
 ["Dugan - Turalyon"] = "Dugan - Turalyon",
 ["Taybae - Turalyon"] = "Taybae - Turalyon",
 ["Adris - Turalyon"] = "Adris - Turalyon",
 ["Tupac - Turalyon"] = "Tupac - Turalyon",
-["Shado - Turalyon"] = "Shado - Turalyon",
-["Fredus - Turalyon"] = "Fredus - Turalyon",
+["Ninjee - Whisperwind"] = "Ninjee - Whisperwind",
+["Adomic - Turalyon"] = "Adomic - Turalyon",
 },
 ["global"] = {
+["enemyForcesTooltip"] = 1,
 ["devMode"] = false,
 ["colorPaletteInfo"] = {
 ["customPaletteValues"] = {
@@ -122,3126 +123,47 @@ MythicDungeonToolsDB = {
 },
 ["anchorFrom"] = "LEFT",
 ["latestDungeonSeen"] = 160,
+["announceDungeonReset"] = false,
 ["nonFullscreenScale"] = 1,
 ["MDI"] = {
 },
-["dataCollection"] = {
-[36] = {
-[163089] = {
-[330694] = true,
-[321041] = true,
-[330693] = true,
+["focusMarker"] = {
+["announceReadyCheck"] = false,
+["suppressNotifications"] = false,
+["useMacro"] = false,
+["disableTargetMarkerInRaid"] = false,
+["preserveExistingTargetMarkers"] = true,
+["assignments"] = {
+},
+},
+["combatLogging"] = {
+["enabled"] = false,
+["content"] = {
+["normal"] = false,
+["mythic"] = false,
+["heroic"] = false,
+["lfr"] = false,
+["mythic_plus"] = false,
+["mythic_dungeon"] = false,
 },
-[164461] = {
-[333231] = true,
-[333292] = true,
-[320293] = true,
-[320277] = true,
-[320300] = true,
-[320272] = true,
-},
-[167534] = {
-[317605] = true,
-[333845] = true,
-[333839] = true,
-[333841] = true,
-},
-[167538] = {
-[331320] = true,
-[342139] = true,
-[331319] = true,
-[331316] = true,
-[342126] = true,
-[342125] = true,
-},
-[170882] = {
-[341771] = true,
-[317898] = true,
-[333293] = true,
-[342675] = true,
-[132951] = true,
-},
-[162763] = {
-[331243] = true,
-[331223] = true,
-[331224] = true,
-[331237] = true,
-},
-[163086] = {
-[330592] = true,
-[345245] = true,
-[330614] = true,
-[330973] = true,
-[330608] = true,
-},
-[170850] = {
-[333241] = true,
-[333242] = true,
-},
-[165946] = {
-[324449] = true,
-[339573] = true,
-[323681] = true,
-[324424] = true,
-[132951] = true,
-[339759] = true,
-[323608] = true,
-[323683] = true,
-[324079] = true,
-},
-[167998] = {
-[330725] = true,
-[330720] = true,
-[326494] = true,
-[330716] = true,
-[326497] = true,
-},
-[162329] = {
-[320050] = true,
-[320789] = true,
-[317231] = true,
-[316995] = true,
-[320644] = true,
-[318102] = true,
-[316981] = true,
-[331618] = true,
-[320114] = true,
-[320729] = true,
-[339415] = true,
-},
-[164464] = {
-[333523] = true,
-[342048] = true,
-[333540] = true,
-},
-[174197] = {
-[330784] = true,
-[341902] = true,
-},
-[167532] = {
-[331288] = true,
-[332708] = true,
-[342135] = true,
-},
-[164451] = {
-[324085] = true,
-[320063] = true,
-[326892] = true,
-[320069] = true,
-},
-[164510] = {
-[330532] = true,
-[319997] = true,
-[327029] = true,
-},
-[170690] = {
-[330697] = true,
-[341977] = true,
-[319290] = true,
-[224729] = true,
-[330700] = true,
-},
-[164463] = {
-[320248] = true,
-[320180] = true,
-[320120] = true,
-},
-[167536] = {
-[342139] = true,
-[334025] = true,
-[333861] = true,
-[334023] = true,
-},
-[169927] = {
-[332836] = true,
-[330586] = true,
-},
-[164506] = {
-[330565] = true,
-[330545] = true,
-[330546] = true,
-[330562] = true,
-},
-[162309] = {
-[319765] = true,
-[322087] = true,
-[319669] = true,
-[319626] = true,
-[319639] = true,
-[322088] = true,
-[333567] = true,
-[319531] = true,
-[45524] = true,
-[319539] = true,
-[319567] = true,
-[317367] = true,
-[319521] = true,
-[342691] = true,
-},
-[170838] = {
-[331510] = true,
-[337178] = true,
-[320679] = true,
-},
-[162317] = {
-[323515] = true,
-[318406] = true,
-},
-[167994] = {
-[326835] = true,
-},
-[167533] = {
-[333827] = true,
-[333861] = true,
-[331275] = true,
-},
-[169893] = {
-[333294] = true,
-[333297] = true,
-[330875] = true,
-[333299] = true,
-[132951] = true,
-},
-[160495] = {
-[317898] = true,
-[330784] = true,
-[333708] = true,
-[330868] = true,
-[224729] = true,
-[132951] = true,
-},
-[174210] = {
-[341969] = true,
-[330694] = true,
-[330703] = true,
-[330693] = true,
-[330700] = true,
-[321041] = true,
-},
-[162744] = {
-[317605] = true,
-[337037] = true,
-[342135] = true,
-[336996] = true,
-},
-[169875] = {
-[224729] = true,
-[317898] = true,
-[330810] = true,
-[332550] = true,
-},
-},
-[31] = {
-[163058] = {
-[324859] = true,
-[331721] = true,
-[324737] = true,
-[331718] = true,
-[324736] = true,
-[224729] = true,
-},
-[164926] = {
-[325027] = true,
-[324923] = true,
-[324909] = true,
-[324922] = true,
-},
-[172312] = {
-[336416] = true,
-[326022] = true,
-[336407] = true,
-[224729] = true,
-[326021] = true,
-},
-[166275] = {
-[324859] = true,
-[324776] = true,
-[224729] = true,
-[132951] = true,
-},
-[167116] = {
-[326090] = true,
-[326092] = true,
-},
-[164501] = {
-[321471] = true,
-[321828] = true,
-[336499] = true,
-[321834] = true,
-[341709] = true,
-[336759] = true,
-[336813] = true,
-[336752] = true,
-},
-[164567] = {
-[321010] = true,
-[331440] = true,
-[323149] = true,
-[323138] = true,
-[323146] = true,
-[321005] = true,
-[132951] = true,
-[323057] = true,
-[321006] = true,
-[328756] = true,
-},
-[166276] = {
-[331747] = true,
-[331748] = true,
-[331743] = true,
-[132951] = true,
-[324859] = true,
-},
-[173720] = {
-[340300] = true,
-[340304] = true,
-[340305] = true,
-[340311] = true,
-},
-[164920] = {
-[121308] = true,
-[322569] = true,
-[322557] = true,
-[224729] = true,
-},
-[164804] = {
-[321772] = true,
-[323059] = true,
-[323250] = true,
-[132951] = true,
-[323177] = true,
-[323137] = true,
-},
-[164517] = {
-[322450] = true,
-[1604] = true,
-[337253] = true,
-[113746] = true,
-[322614] = true,
-[35079] = true,
-[326281] = true,
-[1490] = true,
-[337255] = true,
-[322709] = true,
-[322655] = true,
-[326278] = true,
-[255909] = true,
-[337249] = true,
-[322563] = true,
-[322465] = true,
-[337220] = true,
-[3409] = true,
-[157736] = true,
-[337235] = true,
-[337251] = true,
-[5760] = true,
-[322658] = true,
-[408] = true,
-[322550] = true,
-[322527] = true,
-[322654] = true,
-[326263] = true,
-},
-[166304] = {
-[324859] = true,
-[325223] = true,
-[325224] = true,
-[325226] = true,
-},
-[173655] = {
-[340189] = true,
-[340160] = true,
-[340208] = true,
-},
-[167113] = {
-[325418] = true,
-[224729] = true,
-},
-[164921] = {
-[326319] = true,
-[322767] = true,
-[224729] = true,
-[322939] = true,
-[322938] = true,
-},
-[165111] = {
-[323020] = true,
-[323043] = true,
-[322968] = true,
-[322967] = true,
-[224729] = true,
-},
-[164929] = {
-[322486] = true,
-[300155] = true,
-[322487] = true,
-[132466] = true,
-[321952] = true,
-[321968] = true,
-},
-[173714] = {
-[340288] = true,
-[340289] = true,
-[340279] = true,
-[340283] = true,
-},
-[166301] = {
-[325021] = true,
-[132951] = true,
-[324987] = true,
-[324859] = true,
-},
-[167111] = {
-[326046] = true,
-[340544] = true,
-},
-[167117] = {
-[326018] = true,
-[224729] = true,
-},
-[166299] = {
-[324859] = true,
-[324914] = true,
-[224729] = true,
-[132951] = true,
-},
-},
-[29] = {
-[171184] = {
-[340016] = true,
-[340026] = true,
-},
-[167964] = {
-[331847] = true,
-[331548] = true,
-[331846] = true,
-[132951] = true,
-[240443] = true,
-},
-[164558] = {
-[322759] = true,
-[323118] = true,
-[322735] = true,
-[322773] = true,
-[323166] = true,
-[132951] = true,
-[322736] = true,
-[323064] = true,
-},
-[166608] = {
-[334810] = true,
-[325807] = true,
-[326171] = true,
-[325725] = true,
-[327649] = true,
-[334913] = true,
-[327646] = true,
-[334970] = true,
-[334961] = true,
-[325258] = true,
-[335000] = true,
-[325691] = true,
-[326221] = true,
-},
-[164450] = {
-[342961] = true,
-[323732] = true,
-[323687] = true,
-[324090] = true,
-[321948] = true,
-[132951] = true,
-[320230] = true,
-[320232] = true,
-},
-[168949] = {
-[240443] = true,
-[333728] = true,
-[333729] = true,
-[132951] = true,
-},
-[164861] = {
-[30831] = true,
-[339966] = true,
-[132951] = true,
-[240443] = true,
-[321764] = true,
-},
-[164555] = {
-[324010] = true,
-[320144] = true,
-[320823] = true,
-[323992] = true,
-[321011] = true,
-[320145] = true,
-[332509] = true,
-[320168] = true,
-[323877] = true,
-[321061] = true,
-[132951] = true,
-[320147] = true,
-[330434] = true,
-[324047] = true,
-},
-[170480] = {
-[332678] = true,
-[332672] = true,
-[240443] = true,
-[132951] = true,
-[332671] = true,
-},
-[168934] = {
-[240443] = true,
-[333790] = true,
-[132951] = true,
-[333787] = true,
-[333789] = true,
-[342869] = true,
-},
-[170147] = {
-[331398] = true,
-[132951] = true,
-},
-[168942] = {
-[333875] = true,
-[334051] = true,
-[132951] = true,
-[334076] = true,
-[240443] = true,
-},
-[164857] = {
-[321349] = true,
-[30831] = true,
-[240443] = true,
-[132951] = true,
-},
-[171343] = {
-[334967] = true,
-[334535] = true,
-[334800] = true,
-[132951] = true,
-[240443] = true,
-},
-[167962] = {
-[331933] = true,
-[132951] = true,
-[240443] = true,
-[331927] = true,
-},
-[164556] = {
-[320785] = true,
-[326684] = true,
-[320141] = true,
-[132951] = true,
-[320142] = true,
-[332521] = true,
-[342905] = true,
-[320132] = true,
-[320008] = true,
-[335072] = true,
-[326920] = true,
-[320787] = true,
-},
-[171341] = {
-[132951] = true,
-[240443] = true,
-[334664] = true,
-},
-[171181] = {
-[132951] = true,
-[240443] = true,
-[334535] = true,
-},
-[164862] = {
-[132951] = true,
-[240443] = true,
-[334493] = true,
-},
-[164873] = {
-[323123] = true,
-[323136] = true,
-[345498] = true,
-[132951] = true,
-[323576] = true,
-[240443] = true,
-},
-[171342] = {
-[132951] = true,
-[334529] = true,
-[334530] = true,
-[240443] = true,
-},
-[167963] = {
-[332157] = true,
-[332156] = true,
-[332196] = true,
-[132951] = true,
-[332158] = true,
-[240443] = true,
-},
-[168986] = {
-[132951] = true,
-[333711] = true,
-[240443] = true,
-},
-[167967] = {
-[332232] = true,
-[331422] = true,
-[332236] = true,
-[132951] = true,
-[240443] = true,
-[332234] = true,
-},
-[170572] = {
-[332608] = true,
-[240443] = true,
-[332605] = true,
-[332607] = true,
-[332693] = true,
-[132951] = true,
-[1604] = true,
-[332612] = true,
-},
-[168992] = {
-[328729] = true,
-[328740] = true,
-[132951] = true,
-[328707] = true,
-[240443] = true,
-},
-[170490] = {
-[332706] = true,
-[332705] = true,
-[332707] = true,
-[132951] = true,
-[1604] = true,
-[240443] = true,
-},
-[169905] = {
-[333641] = true,
-[132951] = true,
-[333227] = true,
-[333250] = true,
-[240443] = true,
-},
-[167965] = {
-[332084] = true,
-[331379] = true,
-[240443] = true,
-[132951] = true,
-},
-},
-[32] = {
-[168022] = {
-[328429] = true,
-[319898] = true,
-[345429] = true,
-[329226] = true,
-[328432] = true,
-[329224] = true,
-},
-[164266] = {
-[336449] = true,
-[331818] = true,
-[325552] = true,
-[325245] = true,
-[339184] = true,
-[333353] = true,
-[132951] = true,
-[325550] = true,
-[328539] = true,
-[336306] = true,
-[336258] = true,
-[325551] = true,
-[332313] = true,
-},
-[164967] = {
-[329110] = true,
-[332617] = true,
-[330026] = true,
-[322358] = true,
-[329217] = true,
-[328175] = true,
-[333808] = true,
-[331967] = true,
-[132951] = true,
-[340358] = true,
-},
-[168574] = {
-[121308] = true,
-[327995] = true,
-[328002] = true,
-[317898] = true,
-},
-[163857] = {
-[340702] = true,
-[132951] = true,
-[341022] = true,
-[317898] = true,
-},
-[168968] = {
-[331874] = true,
-[331871] = true,
-},
-[164267] = {
-[322304] = true,
-[331399] = true,
-[322492] = true,
-[132951] = true,
-[322232] = true,
-[322491] = true,
-},
-[168969] = {
-[328660] = true,
-[328662] = true,
-[317898] = true,
-[224729] = true,
-[328661] = true,
-[346989] = true,
-[336449] = true,
-[132951] = true,
-},
-[163882] = {
-[320040] = true,
-[320072] = true,
-[132951] = true,
-[336449] = true,
-[329239] = true,
-},
-[171474] = {
-[334640] = true,
-},
-[169159] = {
-[328986] = true,
-},
-[163891] = {
-[328662] = true,
-[319070] = true,
-[346989] = true,
-[317898] = true,
-},
-[168396] = {
-[327233] = true,
-[327594] = true,
-[327581] = true,
-},
-[169861] = {
-[132951] = true,
-[328094] = true,
-[330786] = true,
-[330816] = true,
-},
-[163892] = {
-[320512] = true,
-[340358] = true,
-[331967] = true,
-[328175] = true,
-[132951] = true,
-},
-[169696] = {
-[132951] = true,
-[330417] = true,
-[317898] = true,
-},
-[168578] = {
-[328016] = true,
-[329917] = true,
-[328015] = true,
-[121308] = true,
-[132951] = true,
-},
-[168153] = {
-[330403] = true,
-[330404] = true,
-[327882] = true,
-[132951] = true,
-},
-[164255] = {
-[319780] = true,
-[324652] = true,
-[332865] = true,
-[132951] = true,
-[324459] = true,
-[326242] = true,
-[324527] = true,
-[324490] = true,
-[324667] = true,
-},
-[168891] = {
-[334926] = true,
-[328501] = true,
-},
-[168365] = {
-[132951] = true,
-},
-[168878] = {
-[328501] = true,
-[317898] = true,
-[334926] = true,
-[328175] = true,
-[224729] = true,
-[340358] = true,
-},
-[168886] = {
-[320542] = true,
-[320576] = true,
-[320529] = true,
-[121308] = true,
-[328094] = true,
-},
-[168747] = {
-[1604] = true,
-[328342] = true,
-[336449] = true,
-[132951] = true,
-[328343] = true,
-[224729] = true,
-},
-[163862] = {
-[336451] = true,
-[317898] = true,
-[328533] = true,
-[132951] = true,
-[336449] = true,
-[224729] = true,
-},
-[168580] = {
-[344003] = true,
-},
-[173360] = {
-[327233] = true,
-},
-[164705] = {
-[321975] = true,
-[317898] = true,
-[340356] = true,
-[340357] = true,
-[321999] = true,
-[224729] = true,
-[346989] = true,
-},
-[163894] = {
-[320519] = true,
-[340358] = true,
-[328175] = true,
-[332581] = true,
-[331967] = true,
-[320517] = true,
-[318949] = true,
-},
-[167493] = {
-[328338] = true,
-[339155] = true,
-[328365] = true,
-[328395] = true,
-[132951] = true,
-[328651] = true,
-[336449] = true,
-},
-[168572] = {
-[328177] = true,
-[317898] = true,
-[328176] = true,
-[121308] = true,
-[132951] = true,
-[330422] = true,
-[330423] = true,
-},
-[164737] = {
-[336449] = true,
-[317898] = true,
-[338077] = true,
-[132951] = true,
-[328400] = true,
-[338079] = true,
-[328539] = true,
-[224729] = true,
-[328475] = true,
-[328409] = true,
-},
-[168627] = {
-[328180] = true,
-[328094] = true,
-[317898] = true,
-[121308] = true,
-[340358] = true,
-[328175] = true,
-[224729] = true,
-[331967] = true,
-[132951] = true,
-},
-[164707] = {
-[333737] = true,
-[321935] = true,
-[346989] = true,
-[322410] = true,
-},
-[168361] = {
-[330037] = true,
-[327515] = true,
-},
-},
-[33] = {
-[167956] = {
-[326712] = true,
-[132951] = true,
-},
-[162039] = {
-[321020] = true,
-[321038] = true,
-[132951] = true,
-[224729] = true,
-[326836] = true,
-},
-[162047] = {
-[334918] = true,
-[321178] = true,
-[334921] = true,
-[132951] = true,
-[334246] = true,
-},
-[162051] = {
-[321249] = true,
-[321220] = true,
-},
-[171448] = {
-[334563] = true,
-[321020] = true,
-[334567] = true,
-[132951] = true,
-[334558] = true,
-},
-[162102] = {
-[325360] = true,
-[326039] = true,
-[328593] = true,
-[325260] = true,
-[132951] = true,
-[325257] = true,
-[325261] = true,
-[325254] = true,
-[325262] = true,
-},
-[168058] = {
-[326952] = true,
-},
-[162056] = {
-[316244] = true,
-[321264] = true,
-[132951] = true,
-},
-[172265] = {
-[336277] = true,
-[132951] = true,
-[336279] = true,
-},
-[162099] = {
-[323846] = true,
-[322796] = true,
-[331415] = true,
-[323845] = true,
-[334877] = true,
-[132951] = true,
-[323821] = true,
-[322903] = true,
-},
-[162103] = {
-[322567] = true,
-[132951] = true,
-[322554] = true,
-},
-[171376] = {
-[334329] = true,
-[334324] = true,
-[334326] = true,
-[334615] = true,
-[132951] = true,
-},
-[162049] = {
-[322169] = true,
-[322212] = true,
-},
-[171384] = {
-[334534] = true,
-[334381] = true,
-[334377] = true,
-[334378] = true,
-},
-[162057] = {
-[328170] = true,
-[322418] = true,
-[321020] = true,
-[322429] = true,
-[315536] = true,
-[322433] = true,
-[132951] = true,
-},
-[167955] = {
-[334753] = true,
-[132951] = true,
-[326718] = true,
-},
-[171799] = {
-[335305] = true,
-[335306] = true,
-[132951] = true,
-[335308] = true,
-},
-[162100] = {
-[319713] = true,
-[319657] = true,
-[338471] = true,
-[319650] = true,
-[319654] = true,
-[132951] = true,
-[319655] = true,
-[330468] = true,
-[319715] = true,
-[319685] = true,
-[319687] = true,
-},
-[166396] = {
-[324609] = true,
-},
-[162046] = {
-[320862] = true,
-[320843] = true,
-[330528] = true,
-[132951] = true,
-[224729] = true,
-[320861] = true,
-},
-[168591] = {
-[321105] = true,
-},
-[162040] = {
-[326826] = true,
-[326825] = true,
-[326837] = true,
-[346537] = true,
-[326827] = true,
-[132951] = true,
-[326831] = true,
-[321020] = true,
-},
-[162041] = {
-[132951] = true,
-[334470] = true,
-[316068] = true,
-},
-[162038] = {
-[321019] = true,
-[321020] = true,
-[320991] = true,
-[132951] = true,
-},
-[165076] = {
-[321401] = true,
-[320843] = true,
-[334653] = true,
-[132951] = true,
-[321402] = true,
-},
-},
-[34] = {
-[168681] = {
-[328205] = true,
-[324392] = true,
-[323739] = true,
-[323740] = true,
-[328217] = true,
-[328203] = true,
-[336444] = true,
-},
-[168844] = {
-[328454] = true,
-[328458] = true,
-[328462] = true,
-[328466] = true,
-[336420] = true,
-[336496] = true,
-[336444] = true,
-[328453] = true,
-[324662] = true,
-[328434] = true,
-},
-[162059] = {
-[321009] = true,
-[327481] = true,
-[320966] = true,
-[132951] = true,
-[345561] = true,
-[324662] = true,
-[321034] = true,
-},
-[163458] = {
-[317959] = true,
-[317963] = true,
-[207707] = true,
-[132951] = true,
-},
-[163524] = {
-[323804] = true,
-[132951] = true,
-[323786] = true,
-},
-[166411] = {
-[323682] = true,
-},
-[163501] = {
-[132951] = true,
-[323682] = true,
-[207707] = true,
-},
-[168717] = {
-[328331] = true,
-[317959] = true,
-[328330] = true,
-[328332] = true,
-[132951] = true,
-[224729] = true,
-[324392] = true,
-},
-[168318] = {
-[327416] = true,
-[327413] = true,
-[132951] = true,
-[324392] = true,
-[207707] = true,
-},
-[162060] = {
-[338729] = true,
-[334053] = true,
-[324427] = true,
-[132951] = true,
-[132466] = true,
-[324608] = true,
-[324392] = true,
-[338731] = true,
-[323195] = true,
-[324444] = true,
-[323878] = true,
-[323372] = true,
-[324046] = true,
-[331997] = true,
-},
-[163459] = {
-[317936] = true,
-[327332] = true,
-[327331] = true,
-[132951] = true,
-[207707] = true,
-},
-[163506] = {
-[27638] = true,
-[323744] = true,
-[132951] = true,
-[30831] = true,
-},
-[168718] = {
-[328289] = true,
-[324392] = true,
-[328295] = true,
-[132951] = true,
-[328288] = true,
-},
-[162061] = {
-[322814] = true,
-[322893] = true,
-[323010] = true,
-[322999] = true,
-[132951] = true,
-[335817] = true,
-[323011] = true,
-[334625] = true,
-[322908] = true,
-[322817] = true,
-[323943] = true,
-[322818] = true,
-},
-[168420] = {
-[327655] = true,
-[317936] = true,
-[132951] = true,
-[327653] = true,
-},
-[168845] = {
-[336444] = true,
-[328466] = true,
-[328453] = true,
-[324662] = true,
-[328434] = true,
-[336496] = true,
-[333887] = true,
-[328462] = true,
-},
-[168418] = {
-[317959] = true,
-[327647] = true,
-[327648] = true,
-[132951] = true,
-},
-[163503] = {
-[132951] = true,
-[323645] = true,
-[317661] = true,
-[207707] = true,
-},
-[163077] = {
-[132951] = true,
-[331249] = true,
-[324370] = true,
-[345561] = true,
-[331251] = true,
-[324368] = true,
-},
-[168843] = {
-[328435] = true,
-[328462] = true,
-[328466] = true,
-[336420] = true,
-[328452] = true,
-[336496] = true,
-[328434] = true,
-[328453] = true,
-[324662] = true,
-[323739] = true,
-[336444] = true,
-},
-[162058] = {
-[324154] = true,
-[324205] = true,
-[338070] = true,
-[324146] = true,
-[324148] = true,
-[132951] = true,
-[334485] = true,
-},
-[163457] = {
-[132951] = true,
-[207707] = true,
-[317943] = true,
-},
-[163520] = {
-[317985] = true,
-[327808] = true,
-[327812] = true,
-[323740] = true,
-[336447] = true,
-[132951] = true,
-[323739] = true,
-},
-},
-[35] = {
-[165197] = {
-[324387] = true,
-[324391] = true,
-[324372] = true,
-[324381] = true,
-[324394] = true,
-},
-[173044] = {
-[323496] = true,
-[338653] = true,
-[334749] = true,
-[334748] = true,
-[240443] = true,
-[323471] = true,
-[323489] = true,
-},
-[163128] = {
-[345931] = true,
-[320462] = true,
-[320571] = true,
-[320573] = true,
-[240443] = true,
-},
-[162729] = {
-[224729] = true,
-[338022] = true,
-[240443] = true,
-},
-[166302] = {
-[334747] = true,
-[334748] = true,
-[334749] = true,
-[240443] = true,
-},
-[165872] = {
-[323496] = true,
-[240443] = true,
-[327130] = true,
-[323471] = true,
-[323489] = true,
-},
-[163620] = {
-[333485] = true,
-[333482] = true,
-[333479] = true,
-[240443] = true,
-[338456] = true,
-},
-[163121] = {
-[320696] = true,
-[323190] = true,
-[319290] = true,
-[240443] = true,
-[320703] = true,
-},
-[162691] = {
-[320596] = true,
-[320655] = true,
-[320637] = true,
-},
-[165919] = {
-[240443] = true,
-[324293] = true,
-[343470] = true,
-[324323] = true,
-},
-[166264] = {
-[334610] = true,
-},
-[165137] = {
-[323347] = true,
-[322756] = true,
-[320462] = true,
-[240443] = true,
-[322757] = true,
-},
-[163618] = {
-[327393] = true,
-[327397] = true,
-[324026] = true,
-[321780] = true,
-[324027] = true,
-[321575] = true,
-[240443] = true,
-[320462] = true,
-[327396] = true,
-[323957] = true,
-},
-[165222] = {
-[335143] = true,
-[320822] = true,
-[224729] = true,
-},
-[163622] = {
-[338022] = true,
-[240443] = true,
-},
-[163122] = {
-[321576] = true,
-},
-[163126] = {
-[321576] = true,
-[328664] = true,
-[320336] = true,
-[322493] = true,
-[328667] = true,
-[333602] = true,
-},
-[173016] = {
-[334747] = true,
-[334749] = true,
-[240443] = true,
-[334748] = true,
-[338353] = true,
-},
-[166079] = {
-[321576] = true,
-[328687] = true,
-},
-[172981] = {
-[338456] = true,
-[240443] = true,
-[338357] = true,
-},
-[165824] = {
-[335142] = true,
-[345623] = true,
-[345625] = true,
-[320462] = true,
-[335141] = true,
-[327396] = true,
-[327393] = true,
-[327397] = true,
-},
-[165138] = {
-[335164] = true,
-[321821] = true,
-[338022] = true,
-},
-[165911] = {
-[240443] = true,
-[320696] = true,
-[327240] = true,
-[327155] = true,
-},
-[162689] = {
-[320200] = true,
-[320358] = true,
-[320366] = true,
-[327664] = true,
-[320365] = true,
-[320359] = true,
-[334321] = true,
-[343556] = true,
-[326574] = true,
-[343558] = true,
-[326629] = true,
-[334476] = true,
-[334488] = true,
-},
-[162693] = {
-[321370] = true,
-[320771] = true,
-[323730] = true,
-[321754] = true,
-[321368] = true,
-[320772] = true,
-[321755] = true,
-[321894] = true,
-[320788] = true,
-[320784] = true,
-[321956] = true,
-},
-[163619] = {
-[321807] = true,
-[240443] = true,
-},
-[163623] = {
-[338022] = true,
-[240443] = true,
-},
-[163157] = {
-[321247] = true,
-[320171] = true,
-[320580] = true,
-[333634] = true,
-[333488] = true,
-[333492] = true,
-[321226] = true,
-[132951] = true,
-[333489] = true,
-[319897] = true,
-[320012] = true,
-[333627] = true,
-[319902] = true,
-},
-[167731] = {
-[323496] = true,
-[240443] = true,
-[338606] = true,
-[338636] = true,
-[338610] = true,
-[323471] = true,
-[323489] = true,
-},
-[163621] = {
-[240443] = true,
-[338456] = true,
-[333477] = true,
-[338357] = true,
-},
-[164578] = {
-[322681] = true,
-[320376] = true,
-[322548] = true,
-[348170] = true,
-[320208] = true,
-[327952] = true,
-[334322] = true,
-},
-},
-[30] = {
-[165414] = {
-[325876] = true,
-[224729] = true,
-[338003] = true,
-[132951] = true,
-[325879] = true,
-[325872] = true,
-},
-[165515] = {
-[132951] = true,
-[224729] = true,
-[325523] = true,
-},
-[164562] = {
-[325797] = true,
-[325799] = true,
-[325535] = true,
-[325793] = true,
-[132951] = true,
-[326450] = true,
-},
-[167612] = {
-[326623] = true,
-[326632] = true,
-[326617] = true,
-[132951] = true,
-[326607] = true,
-},
-[165415] = {
-[338005] = true,
-[132951] = true,
-[338004] = true,
-[224729] = true,
-},
-[167876] = {
-[326847] = true,
-[326891] = true,
-[326846] = true,
-[326806] = true,
-[326794] = true,
-[132951] = true,
-[326829] = true,
-},
-[164563] = {
-[344993] = true,
-[329324] = true,
-[329321] = true,
-[224729] = true,
-[132951] = true,
-},
-[165408] = {
-[339235] = true,
-[324044] = true,
-[322943] = true,
-[322977] = true,
-[322936] = true,
-[132951] = true,
-[339237] = true,
-[322711] = true,
-[323001] = true,
-[322945] = true,
-},
-[167892] = {
-[132951] = true,
-},
-[165529] = {
-[224729] = true,
-[325700] = true,
-[325701] = true,
-[132951] = true,
-},
-[167610] = {
-[224729] = true,
-[326879] = true,
-[326874] = true,
-[132951] = true,
-},
-[164218] = {
-[323414] = true,
-[323392] = true,
-[132951] = true,
-[327885] = true,
-[329104] = true,
-[323393] = true,
-[329262] = true,
-[323236] = true,
-[335345] = true,
-[323143] = true,
-[335338] = true,
-[323437] = true,
-[328791] = true,
-[329113] = true,
-},
-[164557] = {
-[326441] = true,
-[326438] = true,
-[325509] = true,
-[132951] = true,
-[326409] = true,
-[326440] = true,
-[326426] = true,
-},
-[167611] = {
-[326644] = true,
-[326632] = true,
-[326638] = true,
-[132951] = true,
-[326642] = true,
-[326637] = true,
-},
-[174175] = {
-[346866] = true,
-[342189] = true,
-[132951] = true,
-[342021] = true,
-[201657] = true,
-},
-[167607] = {
-[326771] = true,
-[326997] = true,
-},
-[165410] = {
-[132951] = true,
-[323552] = true,
-[323538] = true,
-[329340] = true,
-},
-[164185] = {
-[319702] = true,
-[326389] = true,
-[319733] = true,
-[132951] = true,
-[319941] = true,
-[344874] = true,
-[319603] = true,
-[319592] = true,
-[328206] = true,
-[319703] = true,
-},
-},
-},
-["dataCollectionCC"] = {
-[36] = {
-[163089] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Stun"] = true,
-},
-[164461] = {
-["Taunt"] = true,
-},
-[170882] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Silence"] = true,
-},
-[167538] = {
-["Taunt"] = true,
-},
-[169875] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Stun"] = true,
-},
-[169893] = {
-["Taunt"] = true,
-},
-[163086] = {
-["Taunt"] = true,
-},
-[167998] = {
-["Taunt"] = true,
-},
-[165946] = {
-["Taunt"] = true,
-},
-[164464] = {
-["Polymorph"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[162763] = {
-["Taunt"] = true,
-},
-[170850] = {
-["Taunt"] = true,
-},
-[160495] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[174197] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[164451] = {
-["Taunt"] = true,
-},
-[162309] = {
-["Taunt"] = true,
-},
-[170690] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Control Undead"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Silence"] = true,
-},
-[164463] = {
-["Taunt"] = true,
-},
-[167536] = {
-["Taunt"] = true,
-},
-[169927] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Control Undead"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Stun"] = true,
-},
-[164506] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[164510] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-},
-[170838] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Stun"] = true,
-},
-[162317] = {
-["Taunt"] = true,
-},
-[167994] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-},
-[167533] = {
-["Taunt"] = true,
-},
-[162329] = {
-["Taunt"] = true,
-},
-[167532] = {
-["Taunt"] = true,
-},
-[174210] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Stun"] = true,
-},
-[162744] = {
-["Taunt"] = true,
-},
-[167534] = {
-["Taunt"] = true,
-},
-},
-[31] = {
-[163058] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[164926] = {
-["Taunt"] = true,
-},
-[172312] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[166275] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[167116] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[166299] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Repentance"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164567] = {
-["Taunt"] = true,
-},
-[166276] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167117] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164920] = {
-["Taunt"] = true,
-["Root"] = true,
-["Imprison"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Repentance"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[164804] = {
-["Taunt"] = true,
-},
-[164517] = {
-["Taunt"] = true,
-},
-[166304] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[173655] = {
-["Taunt"] = true,
-},
-[173720] = {
-["Taunt"] = true,
-},
-[164921] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Mind Control"] = true,
-["Fear"] = true,
-},
-[165111] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164929] = {
-["Taunt"] = true,
-},
-[173714] = {
-["Taunt"] = true,
-},
-[166301] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[167111] = {
-["Taunt"] = true,
-},
-[164501] = {
-["Taunt"] = true,
-},
-[167113] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-},
-[29] = {
-[171184] = {
-["Taunt"] = true,
-},
-[171343] = {
-["Taunt"] = true,
-},
-[164558] = {
-["Taunt"] = true,
-},
-[166608] = {
-["Taunt"] = true,
-},
-[164450] = {
-["Taunt"] = true,
-},
-[171181] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164861] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167965] = {
-["Taunt"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Stun"] = true,
-},
-[170480] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Shackle Undead"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-},
-[164873] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[170147] = {
-["Taunt"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[168942] = {
-["Taunt"] = true,
-},
-[168949] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Silence"] = true,
-},
-[171341] = {
-["Stun"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[164862] = {
-["Taunt"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164556] = {
-["Taunt"] = true,
-},
-[168992] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Control Undead"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Silence"] = true,
-},
-[167962] = {
-["Taunt"] = true,
-},
-[170572] = {
-["Taunt"] = true,
-},
-[167963] = {
-["Taunt"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Silence"] = true,
-},
-[168986] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Stun"] = true,
-},
-[164857] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[171342] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167967] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[164555] = {
-["Taunt"] = true,
-},
-[168934] = {
-["Taunt"] = true,
-},
-[170490] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[169905] = {
-["Taunt"] = true,
-},
-[167964] = {
-["Taunt"] = true,
-},
-},
-[32] = {
-[168022] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[164266] = {
-["Taunt"] = true,
-},
-[164967] = {
-["Taunt"] = true,
-},
-[168574] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[163857] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164267] = {
-["Taunt"] = true,
-},
-[168969] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[163882] = {
-["Taunt"] = true,
-},
-[171474] = {
-["Taunt"] = true,
-},
-[169159] = {
-["Taunt"] = true,
-},
-[163891] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168396] = {
-["Taunt"] = true,
-},
-[169861] = {
-["Taunt"] = true,
-},
-[163892] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[169696] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168578] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168153] = {
-["Taunt"] = true,
-},
-[164255] = {
-["Taunt"] = true,
-},
-[168891] = {
-["Silence"] = true,
-["Disorient"] = true,
-["Taunt"] = true,
-["Root"] = true,
-},
-[168878] = {
-["Taunt"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168886] = {
-["Taunt"] = true,
-},
-[168365] = {
-["Taunt"] = true,
-["Root"] = true,
-},
-[163862] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168747] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168580] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[164705] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[163894] = {
-["Taunt"] = true,
-},
-[168627] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168572] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164737] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167493] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Repentance"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164707] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168361] = {
-["Stun"] = true,
-},
-},
-[33] = {
-[167956] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[162039] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[162047] = {
-["Taunt"] = true,
-},
-[162051] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[171448] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[162040] = {
-["Taunt"] = true,
-},
-[168058] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-},
-[162056] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[172265] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[167955] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[162099] = {
-["Taunt"] = true,
-},
-[162041] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[171376] = {
-["Taunt"] = true,
-},
-[162049] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[171384] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Imprison"] = true,
-},
-[162057] = {
-["Taunt"] = true,
-},
-[165076] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[171799] = {
-["Taunt"] = true,
-},
-[162100] = {
-["Taunt"] = true,
-},
-[162102] = {
-["Taunt"] = true,
-},
-[162046] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[168591] = {
-["Stun"] = true,
-},
-[162103] = {
-["Taunt"] = true,
-},
-[162038] = {
-["Taunt"] = true,
-},
-[171455] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-[166396] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Fear"] = true,
-},
-},
-[34] = {
-[168681] = {
-["Taunt"] = true,
-},
-[168844] = {
-["Taunt"] = true,
-},
-[162059] = {
-["Taunt"] = true,
-},
-[163520] = {
-["Taunt"] = true,
-},
-[163524] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[166411] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Repentance"] = true,
-},
-[163501] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Fear"] = true,
-["Imprison"] = true,
-},
-[168717] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Repentance"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168318] = {
-["Taunt"] = true,
-},
-[162060] = {
-["Taunt"] = true,
-},
-[163459] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Mind Control"] = true,
-["Imprison"] = true,
-},
-[163506] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[168718] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[162061] = {
-["Taunt"] = true,
-},
-[168420] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Repentance"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Imprison"] = true,
-},
-[168845] = {
-["Taunt"] = true,
-},
-[168418] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Repentance"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[163503] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[168843] = {
-["Taunt"] = true,
-},
-[163077] = {
-["Taunt"] = true,
-},
-[162058] = {
-["Taunt"] = true,
-},
-[163457] = {
-["Taunt"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[163458] = {
-["Taunt"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Repentance"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-},
-[35] = {
-[165197] = {
-["Taunt"] = true,
-},
-[173044] = {
-["Taunt"] = true,
-},
-[163128] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Mind Control"] = true,
-["Sap"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-},
-[162729] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Polymorph"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Repentance"] = true,
-},
-[163620] = {
-["Taunt"] = true,
-},
-[166302] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[165872] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-},
-[163621] = {
-["Taunt"] = true,
-},
-[164578] = {
-["Taunt"] = true,
-},
-[162691] = {
-["Taunt"] = true,
-},
-[165919] = {
-["Taunt"] = true,
-},
-[166264] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Stun"] = true,
-},
-[163122] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[163618] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Repentance"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[165222] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Repentance"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[163157] = {
-["Taunt"] = true,
-},
-[165137] = {
-["Taunt"] = true,
-},
-[163126] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Control Undead"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[171500] = {
-["Stun"] = true,
-["Disorient"] = true,
-["Slow"] = true,
-["Taunt"] = true,
-},
-[166079] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[162689] = {
-["Taunt"] = true,
-},
-[162693] = {
-["Taunt"] = true,
-},
-[163619] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Fear"] = true,
-},
-[163623] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[165138] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Incapacitate"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[173016] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Fear"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Repentance"] = true,
-},
-[172981] = {
-["Taunt"] = true,
-},
-[165824] = {
-["Taunt"] = true,
-},
-[163622] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Root"] = true,
-},
-[167731] = {
-["Taunt"] = true,
-},
-[165911] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Silence"] = true,
-["Incapacitate"] = true,
-},
-[163121] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Control Undead"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Repentance"] = true,
-},
-},
-[30] = {
-[165414] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Fear"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Stun"] = true,
-["Imprison"] = true,
-},
-[165515] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164562] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Repentance"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Mind Control"] = true,
-["Stun"] = true,
-["Silence"] = true,
-["Slow"] = true,
-["Fear"] = true,
-["Imprison"] = true,
-},
-[167612] = {
-["Taunt"] = true,
-},
-[165415] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164218] = {
-["Taunt"] = true,
-},
-[164563] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Sap"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[165408] = {
-["Taunt"] = true,
-},
-[167892] = {
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[165529] = {
-["Taunt"] = true,
-["Incapacitate"] = true,
-["Root"] = true,
-["Polymorph"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167610] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Stun"] = true,
-["Root"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[167876] = {
-["Taunt"] = true,
-},
-[164557] = {
-["Taunt"] = true,
-},
-[165410] = {
-["Taunt"] = true,
-},
-[174175] = {
-["Taunt"] = true,
-},
-[167607] = {
-["Taunt"] = true,
-},
-[167611] = {
-["Taunt"] = true,
-["Disorient"] = true,
-["Imprison"] = true,
-["Root"] = true,
-["Stun"] = true,
-["Slow"] = true,
-["Silence"] = true,
-["Fear"] = true,
-},
-[164185] = {
-["Taunt"] = true,
-},
-},
-},
-["version"] = 6215,
-["xoffset"] = 313.9844055175781,
-["yoffset"] = 139.4825134277344,
-["dataCollectionGUID"] = {
-},
-["currentDungeonIdx"] = 164,
-["minimap"] = {
-["minimapPos"] = 163.1601303883673,
-["lock"] = true,
-["showInCompartment"] = true,
-},
-["currentPreset"] = {
-nil,
-nil,
-nil,
-nil,
-nil,
-nil,
-nil,
-nil,
-nil,
-nil,
-2,
-nil,
-nil,
-nil,
-3,
-nil,
-nil,
-4,
-nil,
-nil,
-3,
-nil,
-nil,
-nil,
-2,
-nil,
-nil,
-nil,
-2,
-9,
-5,
-2,
-nil,
-5,
-5,
-2,
-3,
-3,
-[45] = 2,
-[46] = 2,
-[104] = 2,
-[111] = 8,
-[112] = 3,
-[113] = 8,
-[115] = 5,
-[118] = 2,
-[119] = 5,
-[123] = 3,
-[153] = 2,
-[154] = 2,
-[164] = 2,
 },
 ["latestSeenDungeonList"] = 9,
+["anchorTo"] = "LEFT",
 ["presets"] = {
 {
 {
 ["difficulty"] = 10,
 ["week"] = 5,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["pulls"] = {
-{
-["color"] = "ff3eff",
+["riftOffsets"] = {
+[5] = {
 },
 },
 ["currentDungeonIdx"] = 1,
@@ -3249,15 +171,11 @@ nil,
 ["selection"] = {
 1,
 },
-["riftOffsets"] = {
-[5] = {
+["pulls"] = {
+{
+["color"] = "ff3eff",
 },
 },
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
 },
 },
 },
@@ -3269,15 +187,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 15,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[2] = {
-},
-},
-["currentDungeonIdx"] = 3,
-["teeming"] = false,
-["selection"] = {
-15,
-},
 ["pulls"] = {
 {
 {
@@ -3491,13 +400,22 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 3,
+["teeming"] = false,
+["selection"] = {
+15,
 },
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
+["riftOffsets"] = {
+[2] = {
+},
+},
 },
 ["difficulty"] = 30,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
 },
 },
 {
@@ -3507,15 +425,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[5] = {
-},
-},
-["currentDungeonIdx"] = 4,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 [17] = {
@@ -3545,6 +454,15 @@ nil,
 3,
 2,
 },
+},
+},
+["currentDungeonIdx"] = 4,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[5] = {
 },
 },
 },
@@ -3558,261 +476,8 @@ nil,
 ["value"] = {
 ["currentPull"] = 27,
 ["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-4,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-5,
-6,
-},
-{
-2,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[4] = {
-1,
-},
-},
-{
-{
-7,
-8,
-},
-[6] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-{
-10,
-},
-["color"] = "fffb3e",
-[6] = {
-2,
-},
-[9] = {
-5,
-},
-[7] = {
-6,
-},
-},
-{
-["color"] = "3eff3e",
-[5] = {
-2,
-},
-},
-{
-{
-11,
-},
-["color"] = "ff3e9e",
-[6] = {
-3,
-},
-[9] = {
-7,
-},
-},
-{
-["color"] = "3effff",
-[10] = {
-2,
-},
-[7] = {
-3,
-},
-[8] = {
-5,
-},
-},
-{
-{
-12,
-},
-{
-5,
-},
-["color"] = "ff9b3e",
-[7] = {
-4,
-},
-},
-{
-["color"] = "3e3eff",
-[10] = {
-1,
-},
-[9] = {
-2,
-1,
-4,
-3,
-},
-},
-{
-[11] = {
-1,
-},
-[12] = {
-1,
-2,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[14] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[13] = {
-1,
-},
-},
-{
-{
-13,
-},
-{
-7,
-},
-["color"] = "ff3e3e",
-[6] = {
-5,
-},
-[9] = {
-6,
-},
-},
-{
-{
-15,
-},
-["color"] = "3e9eff",
-[6] = {
-6,
-},
-[7] = {
-2,
-},
-[8] = {
-2,
-},
-},
-{
-["color"] = "fffb3e",
-[17] = {
-1,
-},
-},
-{
-[8] = {
-4,
-3,
-},
-[20] = {
-2,
-1,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[21] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[22] = {
-2,
-1,
-12,
-13,
-11,
-},
-},
-{
-["color"] = "ff9b3e",
-[23] = {
-1,
-},
-},
-{
-{
-14,
-},
-{
-6,
-},
-["color"] = "3e3eff",
-[5] = {
-},
-[8] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[5] = {
-3,
-4,
-},
-},
-{
-["color"] = "ff3eff",
-[24] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[25] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[26] = {
-1,
-},
-[27] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[28] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[29] = {
-1,
-},
+["riftOffsets"] = {
+[2] = {
 },
 },
 ["currentDungeonIdx"] = 6,
@@ -3820,15798 +485,286 @@ nil,
 ["selection"] = {
 27,
 },
-["riftOffsets"] = {
-[2] = {
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+4,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+6,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[4] = {
+1,
 },
 },
+{
+{
+7,
+8,
+},
+[6] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+{
+10,
+},
+["color"] = "fffb3e",
+[6] = {
+2,
+},
+[9] = {
+5,
+},
+[7] = {
+6,
+},
+},
+{
+["color"] = "3eff3e",
+[5] = {
+2,
+},
+},
+{
+{
+11,
+},
+["color"] = "ff3e9e",
+[6] = {
+3,
+},
+[9] = {
+7,
+},
+},
+{
+["color"] = "3effff",
+[10] = {
+2,
+},
+[7] = {
+3,
+},
+[8] = {
+5,
+},
+},
+{
+{
+12,
+},
+{
+5,
+},
+["color"] = "ff9b3e",
+[7] = {
+4,
+},
+},
+{
+["color"] = "3e3eff",
+[10] = {
+1,
+},
+[9] = {
+2,
+1,
+4,
+3,
+},
+},
+{
+[11] = {
+1,
+},
+[12] = {
+1,
+2,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[14] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+1,
+},
+},
+{
+{
+13,
+},
+{
+7,
+},
+["color"] = "ff3e3e",
+[6] = {
+5,
+},
+[9] = {
+6,
+},
+},
+{
+{
+15,
+},
+["color"] = "3e9eff",
+[6] = {
+6,
+},
+[7] = {
+2,
+},
+[8] = {
+2,
+},
+},
+{
+["color"] = "fffb3e",
+[17] = {
+1,
+},
+},
+{
+[8] = {
+4,
+3,
+},
+[20] = {
+2,
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[22] = {
+2,
+1,
+12,
+13,
+11,
+},
+},
+{
+["color"] = "ff9b3e",
+[23] = {
+1,
+},
+},
+{
+{
+14,
+},
+{
+6,
+},
+["color"] = "3e3eff",
+[8] = {
+1,
+},
+[5] = {
+},
+},
+{
+["color"] = "a1ff3e",
+[5] = {
+3,
+4,
+},
+},
+{
+["color"] = "ff3eff",
+[24] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[25] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[26] = {
+1,
+},
+[27] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[28] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[29] = {
+1,
+},
+},
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
 },
 ["difficulty"] = 30,
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
 },
-},
-},
-nil,
-nil,
-nil,
-nil,
-{
-{
-["difficulty"] = 30,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 14,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-},
-["currentDungeonIdx"] = 11,
-["selection"] = {
-14,
-},
-["pulls"] = {
-{
-{
-4,
-},
-[14] = {
-4,
-5,
-2,
-3,
-},
-[13] = {
-2,
-3,
-4,
-5,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-{
-6,
-},
-["color"] = "3eff9e",
-[16] = {
-1,
-},
-[15] = {
-2,
-},
-[14] = {
-8,
-},
-},
-{
-{
-7,
-},
-[13] = {
-24,
-25,
-22,
-26,
-23,
-},
-[15] = {
-3,
-},
-["color"] = "ff3e3e",
-[14] = {
-9,
-14,
-15,
-},
-[16] = {
-2,
-},
-},
-{
-{
-5,
-},
-["color"] = "3e9eff",
-[14] = {
-6,
-7,
-},
-},
-{
-["color"] = "fffb3e",
-[10] = {
-1,
-},
-[17] = {
-1,
-2,
-3,
-},
-},
-{
-[2] = {
-1,
-},
-[3] = {
-2,
-3,
-},
-["color"] = "3eff3e",
-[14] = {
-},
-[5] = {
-},
-},
-{
-[2] = {
-2,
-},
-[15] = {
-1,
-},
-["color"] = "ff3e9e",
-[14] = {
-18,
-19,
-},
-[16] = {
-3,
-},
-},
-{
-[15] = {
-4,
-},
-["color"] = "3effff",
-[4] = {
-5,
-6,
-},
-[16] = {
-4,
-},
-[14] = {
-20,
-21,
-},
-},
-{
-{
-2,
-},
-{
-3,
-},
-nil,
-{
-10,
-11,
-},
-{
-2,
-},
-["color"] = "ff9b3e",
-[14] = {
-22,
-23,
-},
-},
-{
-{
-},
-["color"] = "3e3eff",
-[5] = {
-3,
-},
-[4] = {
-},
-[14] = {
-24,
-25,
-},
-},
-{
-[5] = {
-},
-["color"] = "a1ff3e",
-[4] = {
-15,
-14,
-},
-[3] = {
-14,
-15,
-},
-},
-{
-[15] = {
-7,
-},
-[3] = {
-7,
-},
-["color"] = "ff3eff",
-[16] = {
-7,
-},
-[5] = {
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[2] = {
-4,
-},
-},
-{
-[6] = {
-4,
-3,
-},
-[7] = {
-5,
-4,
-6,
-},
-[15] = {
-8,
-9,
-},
-[3] = {
-16,
-},
-["color"] = "ff3e3e",
-[14] = {
-},
-[16] = {
-8,
-9,
-},
-},
-{
-["color"] = "3e9eff",
-[16] = {
-10,
-11,
-},
-[15] = {
-10,
-11,
-},
-[8] = {
-4,
-},
-},
-{
-[8] = {
-3,
-},
-[6] = {
-7,
-8,
-},
-["color"] = "fffb3e",
-},
-{
-[14] = {
-},
-["color"] = "3eff3e",
-[4] = {
-},
-[8] = {
-2,
-1,
-},
-[16] = {
-},
-[9] = {
-},
-[18] = {
-},
-[6] = {
-10,
-9,
-},
-[15] = {
-},
-},
-},
-},
-},
-{
-["difficulty"] = 30,
-["week"] = 1,
-["uid"] = "LlCS1uS21T6",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 2",
-["objects"] = {
-},
-["value"] = {
-["currentPull"] = 13,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 11,
-["selection"] = {
-13,
-},
-["pulls"] = {
-{
-{
-4,
-},
-[14] = {
-3,
-2,
-4,
-5,
-},
-[13] = {
-2,
-3,
-4,
-5,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-{
-5,
-},
-[14] = {
-7,
-6,
-},
-["color"] = "3eff9e",
-},
-{
-{
-7,
-},
-["color"] = "ff3e3e",
-[16] = {
-2,
-},
-[15] = {
-3,
-},
-[14] = {
-9,
-},
-},
-{
-{
-6,
-},
-["color"] = "3e9eff",
-[16] = {
-1,
-},
-[15] = {
-2,
-},
-[14] = {
-8,
-},
-},
-{
-["color"] = "fffb3e",
-[10] = {
-1,
-},
-[17] = {
-1,
-2,
-3,
-},
-},
-{
-nil,
-{
-1,
-},
-{
-2,
-3,
-},
-{
-4,
-3,
-},
-["color"] = "3eff3e",
-[14] = {
-},
-},
-{
-[2] = {
-2,
-},
-[15] = {
-1,
-},
-[3] = {
-},
-["color"] = "ff3e9e",
-[14] = {
-18,
-19,
-},
-[16] = {
-3,
-},
-[4] = {
-},
-},
-{
-[2] = {
-3,
-},
-[15] = {
-4,
-},
-["color"] = "3effff",
-[4] = {
-5,
-6,
-},
-[16] = {
-4,
-},
-[14] = {
-20,
-21,
-},
-},
-{
-{
-3,
-},
-["color"] = "ff9b3e",
-[5] = {
-3,
-},
-[4] = {
-13,
-12,
-},
-[14] = {
-25,
-24,
-},
-},
-{
-[15] = {
-7,
-},
-[3] = {
-7,
-},
-["color"] = "3e3eff",
-[5] = {
-5,
-},
-[16] = {
-7,
-},
-},
-{
-["color"] = "a1ff3e",
-[2] = {
-4,
-},
-},
-{
-["color"] = "ff3eff",
-[11] = {
-1,
-},
-[12] = {
-1,
-},
-[20] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[6] = {
-1,
-2,
-},
-[7] = {
-1,
-2,
-3,
-},
-},
-{
-[6] = {
-4,
-3,
-},
-[7] = {
-6,
-},
-[15] = {
-9,
-8,
-},
-[3] = {
-16,
-},
-["color"] = "ff3e3e",
-[16] = {
-8,
-9,
-},
-},
-{
-[6] = {
-},
-[7] = {
-5,
-4,
-},
-[3] = {
-},
-["color"] = "3e9eff",
-[14] = {
-},
-},
-{
-[6] = {
-9,
-10,
-},
-[15] = {
-10,
-11,
-},
-["color"] = "fffb3e",
-[16] = {
-10,
-11,
-},
-[8] = {
-4,
-},
-},
-{
-[8] = {
-3,
-2,
-1,
-},
-[6] = {
-7,
-8,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[9] = {
-1,
-},
-[18] = {
-1,
-2,
-},
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-},
-[21] = {
-1,
-2,
-4,
-3,
-},
-},
-},
-},
-},
-{
-["difficulty"] = 30,
-["week"] = 1,
-["uid"] = "zhE)sXTad3q",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 2 2",
-["objects"] = {
-},
-["value"] = {
-["currentPull"] = 15,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 11,
-["selection"] = {
-15,
-},
-["pulls"] = {
-{
-{
-4,
-},
-[14] = {
-3,
-2,
-4,
-5,
-},
-[13] = {
-2,
-3,
-4,
-5,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-{
-5,
-},
-[14] = {
-7,
-6,
-},
-["color"] = "3eff9e",
-},
-{
-{
-7,
-},
-["color"] = "ff3e3e",
-[16] = {
-2,
-},
-[15] = {
-3,
-},
-[14] = {
-9,
-},
-},
-{
-{
-6,
-},
-["color"] = "3e9eff",
-[16] = {
-1,
-},
-[15] = {
-2,
-},
-[14] = {
-8,
-},
-},
-{
-["color"] = "fffb3e",
-[10] = {
-1,
-},
-[17] = {
-1,
-2,
-3,
-},
-},
-{
-[14] = {
-},
-[2] = {
-},
-[4] = {
-},
-["color"] = "3eff3e",
-},
-{
-[3] = {
-2,
-3,
-},
-[2] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[2] = {
-2,
-},
-[15] = {
-1,
-5,
-},
-[3] = {
-4,
-},
-["color"] = "3effff",
-[14] = {
-19,
-18,
-},
-[16] = {
-3,
-5,
-},
-},
-{
-[6] = {
-},
-[2] = {
-3,
-},
-[15] = {
-4,
-},
-[7] = {
-},
-["color"] = "ff9b3e",
-[4] = {
-6,
-5,
-},
-[16] = {
-4,
-},
-[14] = {
-20,
-21,
-},
-},
-{
-{
-3,
-},
-[5] = {
-3,
-},
-[14] = {
-25,
-24,
-},
-[4] = {
-13,
-12,
-},
-["color"] = "3e3eff",
-},
-{
-[5] = {
-},
-[3] = {
-},
-[4] = {
-},
-["color"] = "a1ff3e",
-},
-{
-[15] = {
-7,
-},
-[3] = {
-7,
-},
-["color"] = "ff3eff",
-[5] = {
-5,
-},
-[16] = {
-7,
-},
-},
-{
-["color"] = "3eff9e",
-[2] = {
-4,
-},
-},
-{
-["color"] = "ff3e3e",
-[11] = {
-1,
-},
-[12] = {
-1,
-},
-[20] = {
-1,
-},
-},
-{
-{
-},
-{
-},
-{
-},
-{
-},
-{
-},
-{
-1,
-2,
-},
-{
-2,
-1,
-3,
-},
-nil,
-nil,
-nil,
-nil,
-nil,
-nil,
-{
-},
-{
-},
-{
-},
-["color"] = "3e9eff",
-},
-{
-[6] = {
-4,
-3,
-},
-[7] = {
-6,
-},
-[15] = {
-9,
-8,
-},
-[3] = {
-16,
-},
-["color"] = "fffb3e",
-[16] = {
-8,
-9,
-},
-},
-{
-["color"] = "3eff3e",
-[7] = {
-5,
-4,
-},
-},
-{
-[6] = {
-9,
-10,
-},
-[15] = {
-10,
-11,
-},
-["color"] = "ff3e9e",
-[16] = {
-10,
-11,
-},
-[8] = {
-4,
-},
-},
-{
-[8] = {
-3,
-2,
-1,
-},
-[6] = {
-7,
-8,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[9] = {
-1,
-},
-[18] = {
-1,
-2,
-},
-},
-{
-["color"] = "3e3eff",
-[19] = {
-1,
-},
-[21] = {
-1,
-2,
-4,
-3,
-},
-},
-},
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-nil,
-nil,
-nil,
-{
-{
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 15,
-["teeming"] = false,
-["pulls"] = {
-{
-},
-},
-},
-},
-{
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["week"] = 10,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-6,
-7,
-3,
-4,
-5,
-2,
-1,
-},
-{
-9,
-8,
-3,
-2,
-10,
-1,
-},
-{
-5,
-3,
-6,
-1,
-},
-{
-6,
-7,
-5,
-8,
-2,
-1,
-},
-nil,
-{
-4,
-3,
-2,
-1,
-},
-nil,
-{
-4,
-3,
-8,
-5,
-1,
-},
-{
-1,
-},
-{
-1,
-},
-{
-6,
-7,
-},
-{
-7,
-8,
-2,
-3,
-},
-nil,
-{
-21,
-24,
-25,
-22,
-23,
-19,
-16,
-20,
-17,
-18,
-14,
-12,
-11,
-13,
-15,
-30,
-27,
-28,
-29,
-26,
-34,
-32,
-33,
-31,
-3,
-2,
-4,
-5,
-1,
-9,
-6,
-7,
-8,
-10,
-},
-{
-7,
-6,
-1,
-9,
-10,
-4,
-5,
-8,
-2,
-3,
-},
-[21] = {
-2,
-1,
-},
-["color"] = "228b22",
-},
-},
-["currentDungeonIdx"] = 15,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-[10] = {
-},
-},
-},
-["text"] = "10. Regular",
-["difficulty"] = 15,
-["objects"] = {
-},
-},
-{
-["mdi"] = {
-["freehold"] = 1,
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-},
-["week"] = 7,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[6] = {
-[161241] = {
-["y"] = -446.9934089973061,
-["x"] = 484.0008958524555,
-},
-[161124] = {
-["y"] = -259.8539524204763,
-["x"] = 463.47681237374,
-},
-[161243] = {
-["y"] = -130.6157021218764,
-["x"] = 389.5517808275965,
-},
-[161244] = {
-["y"] = -96.02551861325091,
-["x"] = 436.2687736037165,
-},
-},
-[2] = {
-},
-[5] = {
-},
-[9] = {
-},
-[7] = {
-},
-},
-["currentDungeonIdx"] = 15,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-{
-6,
-7,
-3,
-4,
-5,
-1,
-2,
-},
-{
-8,
-9,
-1,
-2,
-10,
-3,
-7,
-6,
-5,
-},
-{
-5,
-1,
-6,
-3,
-4,
-2,
-},
-{
-6,
-7,
-8,
-5,
-1,
-2,
-4,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-2,
-3,
-4,
-},
-{
-1,
-},
-{
-3,
-4,
-},
-{
-5,
-},
-{
-5,
-},
-{
-7,
-6,
-4,
-5,
-},
-{
-8,
-7,
-},
-{
-1,
-},
-{
-30,
-27,
-28,
-29,
-26,
-34,
-32,
-33,
-31,
-18,
-16,
-20,
-17,
-19,
-14,
-12,
-11,
-13,
-15,
-3,
-2,
-4,
-5,
-1,
-6,
-7,
-8,
-10,
-9,
-24,
-21,
-25,
-22,
-23,
-},
-{
-8,
-5,
-6,
-4,
-1,
-7,
-},
-[20] = {
-1,
-},
-[17] = {
-},
-[18] = {
-},
-["color"] = "3eff3e",
-[19] = {
-},
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 1,
-},
-["text"] = "Default 2",
-["difficulty"] = 11,
-["objects"] = {
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-nil,
-{
-{
-["difficulty"] = 30,
-["value"] = {
-["currentPull"] = 16,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 17,
-["teeming"] = false,
-["selection"] = {
-16,
-},
-["pulls"] = {
-{
-{
-4,
-3,
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[3] = {
-4,
-},
-[4] = {
-1,
-},
-[5] = {
-7,
-8,
-6,
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-11,
-9,
-10,
-14,
-12,
-},
-[4] = {
-2,
-},
-[5] = {
-4,
-5,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[15] = {
-1,
-},
-[14] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[10] = {
-1,
-2,
-4,
-3,
-},
-[9] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[13] = {
-1,
-},
-[12] = {
-1,
-},
-[11] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[7] = {
-1,
-},
-[8] = {
-1,
-},
-},
-{
-[17] = {
-1,
-},
-["color"] = "ff9b3e",
-[26] = {
-6,
-1,
-2,
-4,
-8,
-9,
-5,
-3,
-7,
-},
-[16] = {
-1,
-},
-[37] = {
-1,
-2,
-},
-},
-{
-["color"] = "3e3eff",
-[37] = {
-4,
-3,
-},
-[26] = {
-12,
-16,
-17,
-10,
-11,
-13,
-14,
-15,
-},
-[17] = {
-2,
-},
-},
-{
-[37] = {
-},
-[18] = {
-1,
-},
-["color"] = "a1ff3e",
-[30] = {
-1,
-},
-[17] = {
-},
-},
-{
-[20] = {
-2,
-4,
-},
-[21] = {
-5,
-4,
-},
-[39] = {
-1,
-},
-["color"] = "ff3eff",
-[19] = {
-1,
-2,
-},
-},
-{
-[21] = {
-2,
-6,
-},
-[39] = {
-2,
-},
-["color"] = "3eff9e",
-[19] = {
-3,
-},
-[23] = {
-6,
-5,
-},
-[22] = {
-1,
-},
-},
-{
-[35] = {
-1,
-},
-[27] = {
-1,
-},
-["color"] = "ff3e3e",
-[29] = {
-1,
-},
-[34] = {
-1,
-},
-[36] = {
-1,
-},
-[20] = {
-1,
-},
-[23] = {
-1,
-2,
-},
-[28] = {
-1,
-},
-},
-{
-[24] = {
-1,
-},
-[33] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[31] = {
-1,
-},
-[32] = {
-1,
-},
-[25] = {
-1,
-},
-},
-},
-},
-},
-},
-{
-{
-["week"] = 10,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 18,
-["teeming"] = false,
-["pulls"] = {
-{
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["week"] = 10,
-["text"] = "Default 2",
-["value"] = {
-["currentPull"] = 11,
-["currentSublevel"] = 2,
-["currentDungeonIdx"] = 18,
-["teeming"] = false,
-["selection"] = {
-11,
-},
-["pulls"] = {
-{
-{
-1,
-},
-{
-13,
-10,
-12,
-14,
-9,
-11,
-8,
-2,
-3,
-4,
-5,
-6,
-7,
-1,
-},
-{
-},
-{
-},
-{
-},
-{
-},
-nil,
-{
-},
-{
-},
-{
-},
-{
-},
-{
-},
-[24] = {
-},
-[25] = {
-},
-[27] = {
-},
-[15] = {
-},
-[16] = {
-},
-[17] = {
-},
-[18] = {
-},
-[19] = {
-},
-[21] = {
-},
-[23] = {
-},
-},
-{
-[3] = {
-1,
-2,
-},
-[4] = {
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-10,
-12,
-9,
-11,
-1,
-},
-[5] = {
-1,
-},
-},
-{
-{
-2,
-},
-[5] = {
-10,
-11,
-},
-},
-{
-[3] = {
-4,
-3,
-6,
-5,
-},
-[4] = {
-16,
-14,
-17,
-13,
-15,
-18,
-},
-},
-{
-{
-5,
-},
-nil,
-{
-13,
-12,
-},
-{
-21,
-20,
-24,
-22,
-19,
-23,
-},
-[6] = {
-2,
-},
-},
-{
-[4] = {
-45,
-38,
-40,
-48,
-41,
-42,
-44,
-46,
-39,
-43,
-37,
-47,
-},
-[8] = {
-2,
-1,
-},
-},
-{
-[9] = {
-1,
-},
-[2] = {
-16,
-17,
-15,
-18,
-},
-},
-{
-[10] = {
-2,
-1,
-},
-},
-{
-[8] = {
-3,
-},
-[2] = {
-22,
-20,
-21,
-19,
-},
-[10] = {
-3,
-},
-[3] = {
-15,
-},
-},
-{
-[11] = {
-1,
-},
-[2] = {
-24,
-25,
-26,
-23,
-},
-},
-{
-{
-4,
-},
-nil,
-{
-},
-{
-},
-[8] = {
-8,
-7,
-},
-[10] = {
-7,
-},
-[23] = {
-14,
-16,
-9,
-15,
-10,
-11,
-12,
-13,
-},
-},
-{
-[5] = {
-},
-[10] = {
-5,
-6,
-},
-[8] = {
-5,
-6,
-},
-},
-{
-[12] = {
-1,
-},
-},
-{
-[3] = {
-17,
-18,
-},
-[8] = {
-9,
-},
-},
-{
-[10] = {
-8,
-},
-[8] = {
-10,
-},
-},
-{
-[8] = {
-11,
-},
-[10] = {
-9,
-},
-[2] = {
-31,
-32,
-33,
-34,
-29,
-27,
-28,
-30,
-36,
-38,
-37,
-35,
-},
-},
-{
-[2] = {
-40,
-41,
-42,
-39,
-44,
-46,
-43,
-45,
-49,
-48,
-50,
-47,
-},
-},
-{
-[15] = {
-2,
-},
-[16] = {
-8,
-9,
-10,
-7,
-},
-},
-{
-[17] = {
-6,
-7,
-3,
-},
-},
-{
-[15] = {
-3,
-},
-[16] = {
-16,
-11,
-12,
-13,
-14,
-15,
-},
-},
-{
-[17] = {
-2,
-1,
-},
-},
-{
-[18] = {
-1,
-2,
-},
-[21] = {
-38,
-40,
-33,
-41,
-34,
-36,
-37,
-35,
-39,
-},
-},
-{
-[19] = {
-3,
-4,
-5,
-},
-[18] = {
-3,
-},
-},
-{
-[23] = {
-24,
-17,
-18,
-20,
-21,
-22,
-19,
-23,
-},
-},
-{
-[23] = {
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-2,
-},
-[21] = {
-},
-},
-{
-{
-},
-nil,
-{
-},
-{
-},
-{
-},
-nil,
-nil,
-{
-},
-[21] = {
-31,
-27,
-20,
-24,
-28,
-32,
-17,
-21,
-25,
-29,
-18,
-22,
-26,
-30,
-19,
-23,
-},
-[10] = {
-},
-[23] = {
-},
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["week"] = 2,
-["text"] = "Preset 12",
-["value"] = {
-["currentPull"] = 5,
-["currentSublevel"] = 2,
-["currentDungeonIdx"] = 18,
-["teeming"] = true,
-["selection"] = {
-5,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-5,
-},
-{
-12,
-10,
-14,
-9,
-11,
-13,
-7,
-2,
-3,
-4,
-5,
-6,
-8,
-1,
-},
-{
-2,
-1,
-3,
-4,
-6,
-5,
-},
-{
-3,
-2,
-4,
-5,
-6,
-7,
-8,
-10,
-12,
-9,
-11,
-1,
-16,
-14,
-17,
-13,
-15,
-18,
-},
-{
-1,
-10,
-4,
-3,
-2,
-},
-},
-{
-{
-4,
-},
-{
-16,
-17,
-15,
-18,
-22,
-20,
-21,
-19,
-},
-{
-13,
-12,
-14,
-},
-{
-23,
-20,
-24,
-21,
-22,
-19,
-42,
-38,
-40,
-48,
-41,
-44,
-47,
-46,
-39,
-43,
-37,
-45,
-30,
-27,
-28,
-25,
-29,
-26,
-36,
-32,
-33,
-34,
-35,
-31,
-},
-{
-8,
-9,
-},
-{
-2,
-},
-nil,
-{
-2,
-1,
-},
-{
-1,
-},
-{
-1,
-2,
-},
-},
-{
-[11] = {
-1,
-},
-[2] = {
-24,
-25,
-26,
-23,
-},
-[8] = {
-3,
-5,
-6,
-10,
-9,
-},
-[3] = {
-15,
-17,
-18,
-},
-[12] = {
-1,
-},
-[5] = {
-11,
-},
-[10] = {
-3,
-6,
-5,
-8,
-},
-},
-{
-[2] = {
-34,
-32,
-33,
-31,
-29,
-27,
-28,
-30,
-49,
-48,
-50,
-47,
-46,
-44,
-43,
-45,
-37,
-38,
-36,
-35,
-40,
-41,
-42,
-39,
-},
-[15] = {
-2,
-3,
-},
-[8] = {
-11,
-},
-[16] = {
-8,
-9,
-10,
-7,
-16,
-11,
-12,
-13,
-14,
-15,
-},
-[17] = {
-3,
-6,
-7,
-1,
-2,
-},
-[18] = {
-2,
-1,
-3,
-},
-[10] = {
-9,
-},
-[21] = {
-39,
-38,
-40,
-33,
-41,
-34,
-36,
-37,
-35,
-},
-[19] = {
-3,
-4,
-5,
-},
-},
-{
-[21] = {
-15,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-10,
-12,
-14,
-16,
-9,
-11,
-13,
-1,
-},
-[25] = {
-1,
-2,
-},
-[23] = {
-7,
-1,
-2,
-4,
-8,
-5,
-3,
-6,
-12,
-16,
-9,
-15,
-10,
-11,
-13,
-14,
-21,
-17,
-18,
-20,
-22,
-24,
-23,
-19,
-25,
-32,
-30,
-26,
-27,
-28,
-29,
-31,
-},
-[24] = {
-1,
-},
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["week"] = 2,
-["text"] = "Preset 12 2",
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 18,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-5,
-},
-{
-12,
-10,
-14,
-9,
-11,
-13,
-7,
-2,
-3,
-4,
-5,
-6,
-8,
-1,
-},
-{
-2,
-1,
-3,
-4,
-6,
-5,
-},
-{
-3,
-2,
-4,
-5,
-6,
-7,
-8,
-10,
-12,
-9,
-11,
-1,
-16,
-14,
-17,
-13,
-15,
-18,
-},
-{
-1,
-10,
-4,
-3,
-2,
-},
-["color"] = "228b22",
-},
-{
-{
-4,
-},
-{
-16,
-17,
-15,
-18,
-22,
-20,
-21,
-19,
-},
-{
-13,
-12,
-},
-{
-23,
-20,
-24,
-21,
-22,
-19,
-42,
-38,
-40,
-48,
-41,
-44,
-47,
-46,
-39,
-43,
-37,
-45,
-},
-{
-},
-{
-2,
-},
-nil,
-{
-2,
-1,
-},
-{
-1,
-},
-{
-1,
-2,
-},
-["color"] = "228b22",
-},
-{
-[11] = {
-1,
-},
-[2] = {
-24,
-25,
-26,
-23,
-},
-[8] = {
-3,
-5,
-6,
-10,
-9,
-},
-[3] = {
-15,
-17,
-18,
-},
-[12] = {
-1,
-},
-[10] = {
-3,
-6,
-5,
-8,
-},
-[5] = {
-11,
-},
-["color"] = "228b22",
-},
-{
-[2] = {
-34,
-32,
-33,
-31,
-29,
-27,
-28,
-30,
-49,
-48,
-50,
-47,
-46,
-44,
-43,
-45,
-37,
-38,
-36,
-35,
-40,
-41,
-42,
-39,
-},
-[15] = {
-2,
-3,
-},
-[8] = {
-11,
-},
-[16] = {
-8,
-9,
-10,
-7,
-16,
-11,
-12,
-13,
-14,
-15,
-},
-[17] = {
-3,
-6,
-7,
-1,
-2,
-},
-[18] = {
-2,
-1,
-},
-[10] = {
-9,
-},
-[21] = {
-39,
-38,
-40,
-33,
-41,
-34,
-36,
-37,
-35,
-},
-[19] = {
-},
-["color"] = "228b22",
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-2,
-},
-["color"] = "228b22",
-[4] = {
-},
-[8] = {
-4,
-7,
-8,
-},
-[5] = {
-},
-[10] = {
-4,
-10,
-7,
-},
-[21] = {
-15,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-10,
-12,
-14,
-16,
-9,
-11,
-13,
-1,
-26,
-27,
-20,
-24,
-28,
-32,
-17,
-21,
-25,
-29,
-18,
-22,
-30,
-19,
-23,
-31,
-},
-[3] = {
-16,
-},
-[19] = {
-},
-[23] = {
-7,
-1,
-2,
-4,
-8,
-5,
-3,
-6,
-12,
-16,
-9,
-15,
-10,
-11,
-13,
-14,
-21,
-17,
-18,
-20,
-22,
-24,
-23,
-19,
-25,
-32,
-30,
-26,
-27,
-28,
-29,
-31,
-},
-[18] = {
-},
-},
-},
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["difficulty"] = 2,
-["week"] = 1,
-["faction"] = 2,
-["value"] = {
-["currentPull"] = 15,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-4,
-5,
-3,
-6,
-},
-{
-3,
-2,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-16,
-17,
-14,
-15,
-},
-nil,
-{
-5,
-},
-{
-4,
-},
-{
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-20,
-21,
-},
-{
-7,
-},
-nil,
-{
-6,
-},
-[6] = {
-2,
-3,
-},
-["color"] = "ff3e3e",
-},
-{
-[36] = {
-3,
-4,
-},
-[2] = {
-10,
-},
-[28] = {
-12,
-},
-["color"] = "3e9eff",
-[5] = {
-4,
-},
-},
-{
-{
-24,
-25,
-26,
-},
-{
-11,
-},
-nil,
-{
-7,
-},
-{
-5,
-},
-["color"] = "fffb3e",
-},
-{
-{
-27,
-28,
-29,
-},
-["color"] = "3eff3e",
-[6] = {
-4,
-},
-[4] = {
-8,
-},
-[5] = {
-6,
-},
-},
-{
-["color"] = "ff3e9e",
-[28] = {
-11,
-},
-[26] = {
-1,
-},
-[27] = {
-1,
-},
-},
-{
-[6] = {
-6,
-5,
-},
-[8] = {
-8,
-5,
-},
-[10] = {
-2,
-},
-["color"] = "3effff",
-[9] = {
-2,
-3,
-},
-},
-{
-[25] = {
-16,
-14,
-15,
-},
-["color"] = "ff9b3e",
-[9] = {
-4,
-},
-[5] = {
-8,
-},
-[22] = {
-16,
-},
-},
-{
-["color"] = "3e3eff",
-[23] = {
-8,
-10,
-7,
-9,
-},
-[11] = {
-1,
-},
-},
-{
-[8] = {
-13,
-12,
-},
-[25] = {
-24,
-25,
-},
-["color"] = "a1ff3e",
-[4] = {
-12,
-},
-[9] = {
-6,
-},
-[10] = {
-3,
-},
-},
-{
-[13] = {
-3,
-2,
-},
-[10] = {
-6,
-},
-[12] = {
-3,
-},
-[14] = {
-1,
-},
-["color"] = "ff3eff",
-[25] = {
-32,
-34,
-36,
-35,
-33,
-},
-},
-{
-["color"] = "3eff9e",
-[31] = {
-2,
-},
-[29] = {
-1,
-},
-[30] = {
-4,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-1,
-2,
-},
-[15] = {
-1,
-},
-[17] = {
-1,
-},
-},
-{
-[17] = {
-2,
-},
-[15] = {
-3,
-4,
-2,
-},
-[18] = {
-1,
-3,
-},
-["color"] = "3e9eff",
-[16] = {
-4,
-3,
-5,
-},
-},
-{
-[17] = {
-3,
-},
-[15] = {
-6,
-7,
-},
-[18] = {
-4,
-},
-["color"] = "fffb3e",
-[19] = {
-1,
-2,
-},
-[16] = {
-9,
-},
-},
-{
-[24] = {
-3,
-2,
-1,
-4,
-},
-[12] = {
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[5] = {
-10,
-},
-[10] = {
-7,
-},
-["color"] = "ff3e9e",
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-[10] = {
-4,
-},
-["color"] = "3effff",
-[4] = {
-13,
-},
-},
-{
-[20] = {
-4,
-3,
-},
-[21] = {
-2,
-},
-[10] = {
-5,
-},
-["color"] = "ff9b3e",
-[4] = {
-14,
-},
-},
-{
-[20] = {
-},
-[24] = {
-},
-[32] = {
-1,
-},
-["color"] = "3e3eff",
-[5] = {
-},
-},
-},
-["currentDungeonIdx"] = 19,
-["teeming"] = false,
-["selection"] = {
-15,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-},
-{
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Raider.IO Weekly Route - Bunten",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["week"] = 1,
-["faction"] = 2,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 19,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-},
-{
-2,
-3,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-16,
-17,
-14,
-15,
-},
-nil,
-{
-5,
-},
-{
-4,
-},
-{
-3,
-},
-[36] = {
-},
-["color"] = "3eff9e",
-},
-{
-{
-18,
-19,
-20,
-21,
-},
-{
-6,
-},
-{
-6,
-},
-{
-5,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3e3e",
-[10] = {
-},
-[9] = {
-},
-},
-{
-nil,
-{
-7,
-},
-{
-},
-{
-6,
-},
-["color"] = "3e9eff",
-[6] = {
-3,
-},
-[36] = {
-3,
-4,
-},
-},
-{
-[5] = {
-4,
-},
-[2] = {
-10,
-},
-[28] = {
-12,
-},
-["color"] = "fffb3e",
-},
-{
-{
-24,
-25,
-26,
-},
-{
-11,
-},
-nil,
-{
-7,
-},
-{
-5,
-},
-["color"] = "3eff3e",
-},
-{
-{
-28,
-27,
-29,
-},
-[5] = {
-6,
-},
-[6] = {
-4,
-},
-[4] = {
-8,
-},
-["color"] = "ff3e9e",
-},
-{
-[27] = {
-1,
-},
-[28] = {
-11,
-},
-[26] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-5,
-8,
-9,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[4] = {
-10,
-},
-[9] = {
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-16,
-},
-[9] = {
-4,
-},
-[25] = {
-14,
-15,
-16,
-},
-},
-{
-[11] = {
-1,
-},
-[23] = {
-7,
-8,
-9,
-10,
-},
-["color"] = "a1ff3e",
-},
-{
-[8] = {
-12,
-13,
-},
-[10] = {
-3,
-},
-["color"] = "ff3eff",
-[4] = {
-12,
-},
-[9] = {
-6,
-},
-[25] = {
-24,
-25,
-},
-},
-{
-[13] = {
-2,
-3,
-},
-[25] = {
-36,
-33,
-32,
-35,
-34,
-},
-[12] = {
-3,
-},
-[14] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[30] = {
-4,
 },
 [31] = {
-2,
-},
-[29] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[16] = {
-1,
-2,
-},
-[17] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[18] = {
-1,
-},
-[16] = {
-3,
-4,
-},
-[17] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[15] = {
-3,
-4,
-},
-[17] = {
-3,
-},
-[18] = {
-3,
-},
-},
-{
-{
-},
-{
-},
-{
-7,
-},
-[15] = {
-6,
-7,
-},
-[18] = {
-4,
-},
-["color"] = "ff3e9e",
-[19] = {
-1,
-2,
-},
-[16] = {
-9,
-},
-},
-{
-["color"] = "3effff",
-[16] = {
-},
-[15] = {
-},
-},
-{
-[24] = {
-3,
-2,
-1,
-4,
-},
-[12] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[5] = {
-10,
-},
-[10] = {
-7,
-},
-["color"] = "3e3eff",
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-[10] = {
-4,
-},
-["color"] = "a1ff3e",
-[4] = {
-13,
-},
-},
-{
-[20] = {
-4,
-3,
-},
-[21] = {
-2,
-},
-[10] = {
-5,
-},
-["color"] = "ff3eff",
-[4] = {
-14,
-},
-},
-{
-["color"] = "3eff9e",
-[5] = {
-11,
-},
-[20] = {
-2,
-},
-[24] = {
-6,
-5,
-},
-},
-{
-[32] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[34] = {
-1,
-},
-[33] = {
-1,
-},
-[35] = {
-1,
-},
-["color"] = "3e9eff",
-},
-},
-},
-["difficulty"] = 2,
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"686.3",
-"-531.5",
-1,
-true,
-"Come say hi at twitch.tv/thebunten",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"633.6",
-"-246.7",
-1,
-true,
-"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"324.9",
-"-195.5",
-1,
-true,
-"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"134.2",
-"-96.1",
-1,
-true,
-"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"54.7",
-"-164.5",
-1,
-true,
-"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"706.3",
-"-332",
-1,
-true,
-"stay close to the south wall... do not want to pull the bombers",
-},
-},
-{
-["l"] = {
-"142.9",
-"-490.5",
-"132.1",
-"-483.6",
-"132.1",
-"-483.6",
-"122.2",
-"-471.4",
-"122.2",
-"-471.4",
-"112.2",
-"-458.3",
-"112.2",
-"-458.3",
-"106.9",
-"-446.8",
-"106.9",
-"-446.8",
-"104.6",
-"-433.8",
-"104.6",
-"-433.8",
-"106.9",
-"-420.0",
-"106.9",
-"-420.0",
-"115.4",
-"-409.3",
-"115.4",
-"-409.3",
-"126.0",
-"-407.7",
-"126.0",
-"-407.7",
-"139.9",
-"-406.2",
-"139.9",
-"-406.2",
-"151.4",
-"-410.8",
-"151.4",
-"-410.8",
-"168.1",
-"-410.0",
-"168.1",
-"-410.0",
-"182.0",
-"-410.0",
-"182.0",
-"-410.0",
-"193.5",
-"-412.3",
-"193.5",
-"-412.3",
-"206.5",
-"-417.8",
-"206.5",
-"-417.8",
-"211.1",
-"-429.2",
-"211.1",
-"-429.2",
-"211.1",
-"-439.9",
-"211.1",
-"-439.9",
-"208.1",
-"-452.2",
-"208.1",
-"-452.2",
-"195.0",
-"-463.7",
-"195.0",
-"-463.7",
-"183.5",
-"-472.9",
-"183.5",
-"-472.9",
-"172.1",
-"-479.0",
-"172.1",
-"-479.0",
-"160.5",
-"-479.0",
-"160.5",
-"-479.0",
-"149.8",
-"-478.2",
-"149.8",
-"-478.2",
-"139.1",
-"-479.0",
-"139.1",
-"-479.0",
-"138.3",
-"-478.2",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-{
-["l"] = {
-"204.3",
-"-425.4",
-"213.4",
-"-414.6",
-"213.4",
-"-414.6",
-"223.4",
-"-403.2",
-"223.4",
-"-403.2",
-"232.5",
-"-392.4",
-"232.5",
-"-392.4",
-"247.1",
-"-390.9",
-"247.1",
-"-390.9",
-"262.5",
-"-396.2",
-"262.5",
-"-396.2",
-"273.9",
-"-402.4",
-"273.9",
-"-402.4",
-"284.7",
-"-409.3",
-"284.7",
-"-409.3",
-"296.2",
-"-415.4",
-"296.2",
-"-415.4",
-"303.0",
-"-428.4",
-"303.0",
-"-428.4",
-"300.8",
-"-441.5",
-"300.8",
-"-441.5",
-"298.5",
-"-452.2",
-"298.5",
-"-452.2",
-"287.7",
-"-462.1",
-"287.7",
-"-462.1",
-"275.5",
-"-471.4",
-"275.5",
-"-471.4",
-"264.0",
-"-472.9",
-"264.0",
-"-472.9",
-"250.9",
-"-474.4",
-"250.9",
-"-474.4",
-"239.5",
-"-475.2",
-"239.5",
-"-475.2",
-"225.7",
-"-473.7",
-"225.7",
-"-473.7",
-"211.9",
-"-472.9",
-"211.9",
-"-472.9",
-"200.3",
-"-469.0",
-"200.3",
-"-469.0",
-"188.9",
-"-464.4",
-"188.9",
-"-464.4",
-"187.4",
-"-463.7",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--7,
-true,
-},
-},
-{
-["l"] = {
-"176.6",
-"-413.8",
-"169.0",
-"-403.2",
-"169.0",
-"-403.2",
-"167.4",
-"-390.9",
-"167.4",
-"-390.9",
-"162.1",
-"-379.4",
-"162.1",
-"-379.4",
-"159.8",
-"-365.6",
-"159.8",
-"-365.6",
-"162.1",
-"-353.4",
-"162.1",
-"-353.4",
-"159.0",
-"-342.6",
-"159.0",
-"-342.6",
-"156.7",
-"-330.4",
-"156.7",
-"-330.4",
-"156.7",
-"-319.6",
-"156.7",
-"-319.6",
-"156.7",
-"-305.1",
-"156.7",
-"-305.1",
-"156.7",
-"-293.6",
-"156.7",
-"-293.6",
-"156.7",
-"-282.1",
-"156.7",
-"-282.1",
-"157.5",
-"-269.8",
-"157.5",
-"-269.8",
-"156.7",
-"-252.9",
-"156.7",
-"-252.9",
-"159.0",
-"-240.8",
-"159.0",
-"-240.8",
-"162.1",
-"-227.7",
-"162.1",
-"-227.7",
-"165.1",
-"-213.9",
-"165.1",
-"-213.9",
-"166.6",
-"-200.8",
-"166.6",
-"-200.8",
-"169.8",
-"-189.4",
-"169.8",
-"-189.4",
-"177.4",
-"-177.9",
-"177.4",
-"-177.9",
-"186.6",
-"-161.8",
-"186.6",
-"-161.8",
-"200.3",
-"-145.7",
-"200.3",
-"-145.7",
-"214.2",
-"-137.3",
-"214.2",
-"-137.3",
-"245.6",
-"-134.2",
-"245.6",
-"-134.2",
-"257.9",
-"-134.2",
-"257.9",
-"-134.2",
-"268.6",
-"-136.5",
-"268.6",
-"-136.5",
-"280.1",
-"-140.3",
-"280.1",
-"-140.3",
-"290.8",
-"-146.4",
-"290.8",
-"-146.4",
-"303.0",
-"-155.7",
-"303.0",
-"-155.7",
-"313.8",
-"-168.7",
-"313.8",
-"-168.7",
-"323.7",
-"-184.7",
-"323.7",
-"-184.7",
-"332.2",
-"-200.8",
-"332.2",
-"-200.8",
-"336.8",
-"-215.4",
-"336.8",
-"-215.4",
-"341.3",
-"-236.1",
-"341.3",
-"-236.1",
-"342.1",
-"-252.2",
-"342.1",
-"-252.2",
-"343.6",
-"-269.8",
-"343.6",
-"-269.8",
-"344.4",
-"-281.3",
-"344.4",
-"-281.3",
-"341.3",
-"-293.6",
-"341.3",
-"-293.6",
-"339.1",
-"-305.8",
-"339.1",
-"-305.8",
-"339.1",
-"-321.9",
-"339.1",
-"-321.9",
-"336.8",
-"-334.2",
-"336.8",
-"-334.2",
-"330.7",
-"-348.8",
-"330.7",
-"-348.8",
-"325.2",
-"-363.3",
-"325.2",
-"-363.3",
-"315.3",
-"-377.8",
-"315.3",
-"-377.8",
-"308.4",
-"-389.4",
-"308.4",
-"-389.4",
-"295.4",
-"-400.9",
-"295.4",
-"-400.9",
-"282.4",
-"-409.3",
-"282.4",
-"-409.3",
-"273.9",
-"-411.6",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--6,
-true,
-},
-},
-{
-["l"] = {
-"273.1",
-"-141.9",
-"268.6",
-"-153.4",
-"268.6",
-"-153.4",
-"264.0",
-"-164.8",
-"264.0",
-"-164.8",
-"263.2",
-"-166.3",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-},
-["uid"] = "1HZX(ndLllF",
-},
-{
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Raider.IO Weekly Route - Bunten 2",
-["difficulty"] = 2,
-["uid"] = "(oM5tuyGZY3",
-["faction"] = 2,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 19,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-},
-{
-2,
-3,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-16,
-17,
-14,
-15,
-},
-nil,
-{
-5,
-},
-{
-4,
-},
-{
-3,
-},
-[36] = {
-},
-["color"] = "3eff9e",
-},
-{
-{
-18,
-19,
-20,
-21,
-},
-{
-6,
-},
-{
-6,
-},
-{
-5,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3e3e",
-[10] = {
-},
-[9] = {
-},
-},
-{
-nil,
-{
-7,
-},
-{
-},
-{
-6,
-},
-["color"] = "3e9eff",
-[6] = {
-3,
-},
-[36] = {
-3,
-4,
-},
-},
-{
-[5] = {
-4,
-},
-[2] = {
-10,
-},
-[28] = {
-12,
-},
-["color"] = "fffb3e",
-},
-{
-{
-24,
-25,
-26,
-},
-{
-11,
-},
-nil,
-{
-7,
-},
-{
-5,
-},
-["color"] = "3eff3e",
-},
-{
-{
-28,
-27,
-29,
-},
-[5] = {
-6,
-},
-[6] = {
-4,
-},
-[4] = {
-8,
-},
-["color"] = "ff3e9e",
-},
-{
-[27] = {
-1,
-},
-[28] = {
-11,
-},
-[26] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-5,
-8,
-9,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[4] = {
-10,
-},
-[9] = {
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-16,
-},
-[9] = {
-4,
-},
-[25] = {
-14,
-15,
-16,
-},
-},
-{
-[11] = {
-1,
-},
-[23] = {
-7,
-8,
-9,
-10,
-},
-["color"] = "a1ff3e",
-},
-{
-[8] = {
-12,
-13,
-},
-[10] = {
-3,
-},
-["color"] = "ff3eff",
-[4] = {
-12,
-},
-[9] = {
-6,
-},
-[25] = {
-24,
-25,
-},
-},
-{
-[13] = {
-2,
-3,
-},
-[25] = {
-36,
-33,
-32,
-35,
-34,
-},
-[12] = {
-3,
-},
-[14] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[30] = {
-4,
-},
-[31] = {
-2,
-},
-[29] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[16] = {
-1,
-2,
-},
-[17] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[18] = {
-1,
-},
-[16] = {
-3,
-4,
-},
-[17] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-[18] = {
-3,
-},
-[17] = {
-3,
-},
-[15] = {
-3,
-4,
-},
-["color"] = "3eff3e",
-},
-{
-{
-},
-{
-},
-{
-7,
-},
-[15] = {
-6,
-7,
-},
-[18] = {
-4,
-},
-["color"] = "ff3e9e",
-[19] = {
-1,
-2,
-},
-[16] = {
-9,
-},
-},
-{
-["color"] = "3effff",
-[16] = {
-},
-[15] = {
-},
-},
-{
-[24] = {
-3,
-2,
-1,
-4,
-},
-[12] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[5] = {
-10,
-},
-[10] = {
-7,
-},
-["color"] = "3e3eff",
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-[10] = {
-4,
-},
-["color"] = "a1ff3e",
-[4] = {
-13,
-},
-},
-{
-[20] = {
-4,
-3,
-},
-[21] = {
-2,
-},
-[10] = {
-5,
-},
-["color"] = "ff3eff",
-[4] = {
-14,
-},
-},
-{
-[5] = {
-11,
-},
-[24] = {
-6,
-5,
-},
-[20] = {
-2,
-},
-["color"] = "3eff9e",
-},
-{
-[32] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[34] = {
-1,
-},
-[33] = {
-1,
-},
-[35] = {
-1,
-},
-["color"] = "3e9eff",
-},
-},
-},
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"686.3",
-"-531.5",
-1,
-true,
-"Come say hi at twitch.tv/thebunten",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"633.6",
-"-246.7",
-1,
-true,
-"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"324.9",
-"-195.5",
-1,
-true,
-"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"134.2",
-"-96.1",
-1,
-true,
-"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"54.7",
-"-164.5",
-1,
-true,
-"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"706.3",
-"-332",
-1,
-true,
-"stay close to the south wall... do not want to pull the bombers",
-},
-},
-{
-["l"] = {
-"142.9",
-"-490.5",
-"132.1",
-"-483.6",
-"132.1",
-"-483.6",
-"122.2",
-"-471.4",
-"122.2",
-"-471.4",
-"112.2",
-"-458.3",
-"112.2",
-"-458.3",
-"106.9",
-"-446.8",
-"106.9",
-"-446.8",
-"104.6",
-"-433.8",
-"104.6",
-"-433.8",
-"106.9",
-"-420.0",
-"106.9",
-"-420.0",
-"115.4",
-"-409.3",
-"115.4",
-"-409.3",
-"126.0",
-"-407.7",
-"126.0",
-"-407.7",
-"139.9",
-"-406.2",
-"139.9",
-"-406.2",
-"151.4",
-"-410.8",
-"151.4",
-"-410.8",
-"168.1",
-"-410.0",
-"168.1",
-"-410.0",
-"182.0",
-"-410.0",
-"182.0",
-"-410.0",
-"193.5",
-"-412.3",
-"193.5",
-"-412.3",
-"206.5",
-"-417.8",
-"206.5",
-"-417.8",
-"211.1",
-"-429.2",
-"211.1",
-"-429.2",
-"211.1",
-"-439.9",
-"211.1",
-"-439.9",
-"208.1",
-"-452.2",
-"208.1",
-"-452.2",
-"195.0",
-"-463.7",
-"195.0",
-"-463.7",
-"183.5",
-"-472.9",
-"183.5",
-"-472.9",
-"172.1",
-"-479.0",
-"172.1",
-"-479.0",
-"160.5",
-"-479.0",
-"160.5",
-"-479.0",
-"149.8",
-"-478.2",
-"149.8",
-"-478.2",
-"139.1",
-"-479.0",
-"139.1",
-"-479.0",
-"138.3",
-"-478.2",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-{
-["l"] = {
-"204.3",
-"-425.4",
-"213.4",
-"-414.6",
-"213.4",
-"-414.6",
-"223.4",
-"-403.2",
-"223.4",
-"-403.2",
-"232.5",
-"-392.4",
-"232.5",
-"-392.4",
-"247.1",
-"-390.9",
-"247.1",
-"-390.9",
-"262.5",
-"-396.2",
-"262.5",
-"-396.2",
-"273.9",
-"-402.4",
-"273.9",
-"-402.4",
-"284.7",
-"-409.3",
-"284.7",
-"-409.3",
-"296.2",
-"-415.4",
-"296.2",
-"-415.4",
-"303.0",
-"-428.4",
-"303.0",
-"-428.4",
-"300.8",
-"-441.5",
-"300.8",
-"-441.5",
-"298.5",
-"-452.2",
-"298.5",
-"-452.2",
-"287.7",
-"-462.1",
-"287.7",
-"-462.1",
-"275.5",
-"-471.4",
-"275.5",
-"-471.4",
-"264.0",
-"-472.9",
-"264.0",
-"-472.9",
-"250.9",
-"-474.4",
-"250.9",
-"-474.4",
-"239.5",
-"-475.2",
-"239.5",
-"-475.2",
-"225.7",
-"-473.7",
-"225.7",
-"-473.7",
-"211.9",
-"-472.9",
-"211.9",
-"-472.9",
-"200.3",
-"-469.0",
-"200.3",
-"-469.0",
-"188.9",
-"-464.4",
-"188.9",
-"-464.4",
-"187.4",
-"-463.7",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--7,
-true,
-},
-},
-{
-["l"] = {
-"176.6",
-"-413.8",
-"169.0",
-"-403.2",
-"169.0",
-"-403.2",
-"167.4",
-"-390.9",
-"167.4",
-"-390.9",
-"162.1",
-"-379.4",
-"162.1",
-"-379.4",
-"159.8",
-"-365.6",
-"159.8",
-"-365.6",
-"162.1",
-"-353.4",
-"162.1",
-"-353.4",
-"159.0",
-"-342.6",
-"159.0",
-"-342.6",
-"156.7",
-"-330.4",
-"156.7",
-"-330.4",
-"156.7",
-"-319.6",
-"156.7",
-"-319.6",
-"156.7",
-"-305.1",
-"156.7",
-"-305.1",
-"156.7",
-"-293.6",
-"156.7",
-"-293.6",
-"156.7",
-"-282.1",
-"156.7",
-"-282.1",
-"157.5",
-"-269.8",
-"157.5",
-"-269.8",
-"156.7",
-"-252.9",
-"156.7",
-"-252.9",
-"159.0",
-"-240.8",
-"159.0",
-"-240.8",
-"162.1",
-"-227.7",
-"162.1",
-"-227.7",
-"165.1",
-"-213.9",
-"165.1",
-"-213.9",
-"166.6",
-"-200.8",
-"166.6",
-"-200.8",
-"169.8",
-"-189.4",
-"169.8",
-"-189.4",
-"177.4",
-"-177.9",
-"177.4",
-"-177.9",
-"186.6",
-"-161.8",
-"186.6",
-"-161.8",
-"200.3",
-"-145.7",
-"200.3",
-"-145.7",
-"214.2",
-"-137.3",
-"214.2",
-"-137.3",
-"245.6",
-"-134.2",
-"245.6",
-"-134.2",
-"257.9",
-"-134.2",
-"257.9",
-"-134.2",
-"268.6",
-"-136.5",
-"268.6",
-"-136.5",
-"280.1",
-"-140.3",
-"280.1",
-"-140.3",
-"290.8",
-"-146.4",
-"290.8",
-"-146.4",
-"303.0",
-"-155.7",
-"303.0",
-"-155.7",
-"313.8",
-"-168.7",
-"313.8",
-"-168.7",
-"323.7",
-"-184.7",
-"323.7",
-"-184.7",
-"332.2",
-"-200.8",
-"332.2",
-"-200.8",
-"336.8",
-"-215.4",
-"336.8",
-"-215.4",
-"341.3",
-"-236.1",
-"341.3",
-"-236.1",
-"342.1",
-"-252.2",
-"342.1",
-"-252.2",
-"343.6",
-"-269.8",
-"343.6",
-"-269.8",
-"344.4",
-"-281.3",
-"344.4",
-"-281.3",
-"341.3",
-"-293.6",
-"341.3",
-"-293.6",
-"339.1",
-"-305.8",
-"339.1",
-"-305.8",
-"339.1",
-"-321.9",
-"339.1",
-"-321.9",
-"336.8",
-"-334.2",
-"336.8",
-"-334.2",
-"330.7",
-"-348.8",
-"330.7",
-"-348.8",
-"325.2",
-"-363.3",
-"325.2",
-"-363.3",
-"315.3",
-"-377.8",
-"315.3",
-"-377.8",
-"308.4",
-"-389.4",
-"308.4",
-"-389.4",
-"295.4",
-"-400.9",
-"295.4",
-"-400.9",
-"282.4",
-"-409.3",
-"282.4",
-"-409.3",
-"273.9",
-"-411.6",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--6,
-true,
-},
-},
-{
-["l"] = {
-"273.1",
-"-141.9",
-"268.6",
-"-153.4",
-"268.6",
-"-153.4",
-"264.0",
-"-164.8",
-"264.0",
-"-164.8",
-"263.2",
-"-166.3",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-{
-["l"] = {
-"358.5",
-"-399.0",
-"358.5",
-"-419.2",
-"358.5",
-"-419.2",
-"358.5",
-"-434.3",
-"358.5",
-"-434.3",
-"359.5",
-"-445.4",
-"359.5",
-"-445.4",
-"360.5",
-"-460.5",
-"360.5",
-"-460.5",
-"365.5",
-"-475.7",
-"365.5",
-"-475.7",
-"370.6",
-"-487.8",
-"370.6",
-"-487.8",
-"382.7",
-"-497.9",
-"382.7",
-"-497.9",
-"398.8",
-"-502.9",
-"398.8",
-"-502.9",
-"419.0",
-"-504.9",
-"419.0",
-"-504.9",
-"433.1",
-"-505.9",
-"433.1",
-"-505.9",
-"443.2",
-"-507.0",
-"443.2",
-"-507.0",
-"461.4",
-"-507.0",
-"461.4",
-"-507.0",
-"473.5",
-"-507.0",
-"473.5",
-"-507.0",
-"486.6",
-"-504.9",
-"486.6",
-"-504.9",
-"497.7",
-"-501.9",
-"497.7",
-"-501.9",
-"510.8",
-"-498.9",
-"510.8",
-"-498.9",
-"522.9",
-"-493.8",
-"522.9",
-"-493.8",
-"530.0",
-"-476.7",
-"530.0",
-"-476.7",
-"534.0",
-"-463.6",
-"534.0",
-"-463.6",
-"534.0",
-"-450.4",
-"534.0",
-"-450.4",
-"532.0",
-"-438.3",
-"532.0",
-"-438.3",
-"530.0",
-"-426.2",
-"530.0",
-"-426.2",
-"529.0",
-"-406.0",
-"529.0",
-"-406.0",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-383.8",
-"529.0",
-"-383.8",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-409.1",
-"529.0",
-"-409.1",
-"526.0",
-"-427.2",
-"526.0",
-"-427.2",
-"521.9",
-"-445.4",
-"521.9",
-"-445.4",
-"519.9",
-"-467.6",
-"519.9",
-"-467.6",
-"518.9",
-"-482.7",
-"518.9",
-"-482.7",
-"517.9",
-"-493.8",
-"517.9",
-"-493.8",
-"519.9",
-"-505.9",
-"519.9",
-"-505.9",
-"528.0",
-"-522.1",
-"528.0",
-"-522.1",
-"543.1",
-"-528.1",
-"543.1",
-"-528.1",
-"558.3",
-"-528.1",
-"558.3",
-"-528.1",
-"570.4",
-"-524.1",
-"570.4",
-"-524.1",
-"584.5",
-"-517.0",
-"584.5",
-"-517.0",
-"600.6",
-"-507.0",
-"600.6",
-"-507.0",
-"613.8",
-"-496.9",
-"613.8",
-"-496.9",
-"625.9",
-"-485.8",
-"625.9",
-"-485.8",
-"631.9",
-"-474.7",
-"631.9",
-"-474.7",
-"632.9",
-"-464.6",
-"632.9",
-"-464.6",
-"632.9",
-"-447.4",
-"632.9",
-"-447.4",
-"632.9",
-"-433.3",
-"632.9",
-"-433.3",
-"627.9",
-"-420.2",
-"627.9",
-"-420.2",
-"619.8",
-"-408.1",
-"619.8",
-"-408.1",
-"609.7",
-"-394.9",
-"609.7",
-"-394.9",
-"608.7",
-"-379.8",
-"608.7",
-"-379.8",
-"608.7",
-"-369.7",
-"608.7",
-"-369.7",
-"610.7",
-"-357.6",
-"610.7",
-"-357.6",
-"612.8",
-"-346.5",
-"612.8",
-"-346.5",
-"615.8",
-"-334.4",
-"615.8",
-"-334.4",
-"618.8",
-"-316.2",
-"618.8",
-"-316.2",
-"620.8",
-"-300.1",
-"620.8",
-"-300.1",
-"623.9",
-"-269.8",
-"623.9",
-"-269.8",
-"625.9",
-"-218.3",
-"625.9",
-"-218.3",
-"625.9",
-"-198.2",
-"625.9",
-"-198.2",
-"625.9",
-"-186.0",
-"625.9",
-"-186.0",
-"624.9",
-"-176.0",
-"624.9",
-"-176.0",
-"623.9",
-"-164.9",
-"623.9",
-"-164.9",
-"620.8",
-"-151.7",
-"620.8",
-"-151.7",
-"613.8",
-"-139.6",
-"613.8",
-"-139.6",
-"599.6",
-"-131.6",
-"599.6",
-"-131.6",
-"586.5",
-"-128.5",
-"586.5",
-"-128.5",
-"572.4",
-"-128.5",
-"572.4",
-"-128.5",
-"557.3",
-"-129.5",
-"557.3",
-"-129.5",
-"542.1",
-"-131.6",
-"542.1",
-"-131.6",
-"526.0",
-"-133.6",
-"526.0",
-"-133.6",
-"510.8",
-"-137.6",
-"510.8",
-"-137.6",
-"496.7",
-"-145.7",
-"496.7",
-"-145.7",
-"487.6",
-"-155.8",
-"487.6",
-"-155.8",
-"475.5",
-"-173.9",
-"475.5",
-"-173.9",
-"465.4",
-"-194.1",
-"465.4",
-"-194.1",
-"452.3",
-"-221.4",
-"452.3",
-"-221.4",
-"442.2",
-"-247.6",
-"442.2",
-"-247.6",
-"432.1",
-"-275.9",
-"432.1",
-"-275.9",
-"422.0",
-"-297.1",
-"422.0",
-"-297.1",
-"412.9",
-"-317.2",
-"412.9",
-"-317.2",
-"403.9",
-"-333.4",
-"403.9",
-"-333.4",
-"393.8",
-"-353.6",
-"393.8",
-"-353.6",
-"383.7",
-"-368.7",
-"383.7",
-"-368.7",
-"374.6",
-"-379.8",
-"374.6",
-"-379.8",
-"365.5",
-"-390.9",
-"365.5",
-"-390.9",
-"355.4",
-"-405.0",
-"355.4",
-"-405.0",
-"358.5",
-"-393.9",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"470.5",
-"-170.9",
-"494.7",
-"-178.0",
-"494.7",
-"-178.0",
-"525.0",
-"-184.0",
-"525.0",
-"-184.0",
-"556.2",
-"-188.1",
-"556.2",
-"-188.1",
-"587.5",
-"-189.1",
-"587.5",
-"-189.1",
-"611.7",
-"-191.1",
-"611.7",
-"-191.1",
-"632.9",
-"-195.1",
-"632.9",
-"-195.1",
-"639.0",
-"-197.1",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--7,
-true,
-},
-},
-{
-["l"] = {
-"540.1",
-"-176.0",
-"542.1",
-"-165.9",
-"542.1",
-"-165.9",
-"550.2",
-"-149.7",
-"550.2",
-"-149.7",
-"556.2",
-"-135.6",
-"556.2",
-"-135.6",
-"563.3",
-"-122.5",
-"563.3",
-"-122.5",
-"562.3",
-"-132.6",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"684.4",
-"-99.3",
-"685.4",
-"-117.4",
-"685.4",
-"-117.4",
-"685.4",
-"-131.6",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"721.7",
-"-87.1",
-"725.8",
-"-100.3",
-"725.8",
-"-100.3",
-"730.8",
-"-118.4",
-"730.8",
-"-118.4",
-"730.8",
-"-122.5",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"695.5",
-"-146.7",
-"696.5",
-"-165.9",
-"696.5",
-"-165.9",
-"697.5",
-"-178.0",
-"697.5",
-"-178.0",
-"697.5",
-"-184.0",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"672.3",
-"-160.8",
-"673.3",
-"-178.0",
-"673.3",
-"-178.0",
-"681.4",
-"-192.1",
-"681.4",
-"-192.1",
-"693.5",
-"-202.2",
-"693.5",
-"-202.2",
-"705.6",
-"-205.2",
-"705.6",
-"-205.2",
-"715.7",
-"-206.2",
-"715.7",
-"-206.2",
-"726.8",
-"-200.2",
-"726.8",
-"-200.2",
-"746.0",
-"-177.0",
-"746.0",
-"-177.0",
-"754.0",
-"-160.8",
-"754.0",
-"-160.8",
-"749.0",
-"-168.9",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-},
-["week"] = 1,
-},
-{
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = ":)",
-["mdi"] = {
-["freehold"] = 1,
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-},
-["uid"] = "Aq3zk4cHEOL",
-["faction"] = 2,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-},
-{
-2,
-3,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-16,
-17,
-14,
-15,
-},
-nil,
-{
-5,
-},
-{
-4,
-},
-{
-3,
-},
-[36] = {
-},
-["color"] = "3eff9e",
-},
-{
-{
-18,
-19,
-20,
-21,
-},
-{
-6,
-},
-{
-6,
-},
-{
-5,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3e3e",
-[10] = {
-},
-[9] = {
-},
-},
-{
-nil,
-{
-7,
-},
-{
-},
-{
-6,
-},
-["color"] = "3e9eff",
-[6] = {
-3,
-},
-[36] = {
-3,
-4,
-},
-},
-{
-[5] = {
-4,
-},
-[2] = {
-10,
-},
-["color"] = "fffb3e",
-[28] = {
-12,
-},
-},
-{
-{
-24,
-25,
-26,
-},
-{
-11,
-},
-nil,
-{
-7,
-},
-{
-5,
-},
-["color"] = "3eff3e",
-},
-{
-{
-28,
-27,
-29,
-},
-[5] = {
-6,
-},
-[6] = {
-4,
-},
-[4] = {
-8,
-},
-["color"] = "ff3e9e",
-},
-{
-[27] = {
-1,
-},
-[28] = {
-11,
-},
-[26] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-5,
-8,
-9,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[4] = {
-10,
-},
-[9] = {
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-16,
-},
-[9] = {
-4,
-},
-[25] = {
-14,
-15,
-16,
-},
-},
-{
-[11] = {
-1,
-},
-[23] = {
-7,
-8,
-9,
-10,
-},
-["color"] = "a1ff3e",
-},
-{
-[8] = {
-12,
-13,
-},
-[10] = {
-3,
-},
-["color"] = "ff3eff",
-[4] = {
-12,
-},
-[9] = {
-6,
-},
-[25] = {
-24,
-25,
-},
-},
-{
-[13] = {
-2,
-3,
-},
-[25] = {
-36,
-33,
-32,
-35,
-34,
-},
-[12] = {
-3,
-},
-[14] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[30] = {
-4,
-},
-[31] = {
-2,
-},
-[29] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[16] = {
-1,
-2,
-},
-[17] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[18] = {
-1,
-},
-[16] = {
-3,
-4,
-},
-[17] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-[18] = {
-3,
-},
-["color"] = "3eff3e",
-[17] = {
-3,
-},
-[15] = {
-3,
-4,
-},
-},
-{
-{
-},
-{
-},
-{
-7,
-},
-[15] = {
-6,
-7,
-},
-[18] = {
-4,
-},
-["color"] = "ff3e9e",
-[19] = {
-1,
-2,
-},
-[16] = {
-9,
-},
-},
-{
-["color"] = "3effff",
-[16] = {
-},
-[15] = {
-},
-},
-{
-[24] = {
-3,
-2,
-1,
-4,
-},
-[12] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[5] = {
-10,
-},
-[10] = {
-7,
-},
-["color"] = "3e3eff",
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-[10] = {
-4,
-},
-["color"] = "a1ff3e",
-[4] = {
-13,
-},
-},
-{
-[20] = {
-4,
-3,
-},
-[21] = {
-2,
-},
-[10] = {
-5,
-},
-["color"] = "ff3eff",
-[4] = {
-14,
-},
-},
-{
-[24] = {
-6,
-5,
-},
-[5] = {
-11,
-},
-[20] = {
-2,
-},
-["color"] = "3eff9e",
-},
-{
-[32] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[34] = {
-1,
-},
-[33] = {
-1,
-},
-[35] = {
-1,
-},
-["color"] = "3e9eff",
-},
-},
-["currentDungeonIdx"] = 19,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["week"] = 1,
-["difficulty"] = 2,
-["objects"] = {
-{
-["d"] = {
-"686.3",
-"-531.5",
-1,
-true,
-"Come say hi at twitch.tv/thebunten",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"633.6",
-"-246.7",
-1,
-true,
-"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"324.9",
-"-195.5",
-1,
-true,
-"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"134.2",
-"-96.1",
-1,
-true,
-"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"54.7",
-"-164.5",
-1,
-true,
-"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"706.3",
-"-332",
-1,
-true,
-"stay close to the south wall... do not want to pull the bombers",
-},
-["n"] = true,
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"142.9",
-"-490.5",
-"132.1",
-"-483.6",
-"132.1",
-"-483.6",
-"122.2",
-"-471.4",
-"122.2",
-"-471.4",
-"112.2",
-"-458.3",
-"112.2",
-"-458.3",
-"106.9",
-"-446.8",
-"106.9",
-"-446.8",
-"104.6",
-"-433.8",
-"104.6",
-"-433.8",
-"106.9",
-"-420.0",
-"106.9",
-"-420.0",
-"115.4",
-"-409.3",
-"115.4",
-"-409.3",
-"126.0",
-"-407.7",
-"126.0",
-"-407.7",
-"139.9",
-"-406.2",
-"139.9",
-"-406.2",
-"151.4",
-"-410.8",
-"151.4",
-"-410.8",
-"168.1",
-"-410.0",
-"168.1",
-"-410.0",
-"182.0",
-"-410.0",
-"182.0",
-"-410.0",
-"193.5",
-"-412.3",
-"193.5",
-"-412.3",
-"206.5",
-"-417.8",
-"206.5",
-"-417.8",
-"211.1",
-"-429.2",
-"211.1",
-"-429.2",
-"211.1",
-"-439.9",
-"211.1",
-"-439.9",
-"208.1",
-"-452.2",
-"208.1",
-"-452.2",
-"195.0",
-"-463.7",
-"195.0",
-"-463.7",
-"183.5",
-"-472.9",
-"183.5",
-"-472.9",
-"172.1",
-"-479.0",
-"172.1",
-"-479.0",
-"160.5",
-"-479.0",
-"160.5",
-"-479.0",
-"149.8",
-"-478.2",
-"149.8",
-"-478.2",
-"139.1",
-"-479.0",
-"139.1",
-"-479.0",
-"138.3",
-"-478.2",
-},
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--7,
-true,
-},
-["l"] = {
-"204.3",
-"-425.4",
-"213.4",
-"-414.6",
-"213.4",
-"-414.6",
-"223.4",
-"-403.2",
-"223.4",
-"-403.2",
-"232.5",
-"-392.4",
-"232.5",
-"-392.4",
-"247.1",
-"-390.9",
-"247.1",
-"-390.9",
-"262.5",
-"-396.2",
-"262.5",
-"-396.2",
-"273.9",
-"-402.4",
-"273.9",
-"-402.4",
-"284.7",
-"-409.3",
-"284.7",
-"-409.3",
-"296.2",
-"-415.4",
-"296.2",
-"-415.4",
-"303.0",
-"-428.4",
-"303.0",
-"-428.4",
-"300.8",
-"-441.5",
-"300.8",
-"-441.5",
-"298.5",
-"-452.2",
-"298.5",
-"-452.2",
-"287.7",
-"-462.1",
-"287.7",
-"-462.1",
-"275.5",
-"-471.4",
-"275.5",
-"-471.4",
-"264.0",
-"-472.9",
-"264.0",
-"-472.9",
-"250.9",
-"-474.4",
-"250.9",
-"-474.4",
-"239.5",
-"-475.2",
-"239.5",
-"-475.2",
-"225.7",
-"-473.7",
-"225.7",
-"-473.7",
-"211.9",
-"-472.9",
-"211.9",
-"-472.9",
-"200.3",
-"-469.0",
-"200.3",
-"-469.0",
-"188.9",
-"-464.4",
-"188.9",
-"-464.4",
-"187.4",
-"-463.7",
-},
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--6,
-true,
-},
-["l"] = {
-"176.6",
-"-413.8",
-"169.0",
-"-403.2",
-"169.0",
-"-403.2",
-"167.4",
-"-390.9",
-"167.4",
-"-390.9",
-"162.1",
-"-379.4",
-"162.1",
-"-379.4",
-"159.8",
-"-365.6",
-"159.8",
-"-365.6",
-"162.1",
-"-353.4",
-"162.1",
-"-353.4",
-"159.0",
-"-342.6",
-"159.0",
-"-342.6",
-"156.7",
-"-330.4",
-"156.7",
-"-330.4",
-"156.7",
-"-319.6",
-"156.7",
-"-319.6",
-"156.7",
-"-305.1",
-"156.7",
-"-305.1",
-"156.7",
-"-293.6",
-"156.7",
-"-293.6",
-"156.7",
-"-282.1",
-"156.7",
-"-282.1",
-"157.5",
-"-269.8",
-"157.5",
-"-269.8",
-"156.7",
-"-252.9",
-"156.7",
-"-252.9",
-"159.0",
-"-240.8",
-"159.0",
-"-240.8",
-"162.1",
-"-227.7",
-"162.1",
-"-227.7",
-"165.1",
-"-213.9",
-"165.1",
-"-213.9",
-"166.6",
-"-200.8",
-"166.6",
-"-200.8",
-"169.8",
-"-189.4",
-"169.8",
-"-189.4",
-"177.4",
-"-177.9",
-"177.4",
-"-177.9",
-"186.6",
-"-161.8",
-"186.6",
-"-161.8",
-"200.3",
-"-145.7",
-"200.3",
-"-145.7",
-"214.2",
-"-137.3",
-"214.2",
-"-137.3",
-"245.6",
-"-134.2",
-"245.6",
-"-134.2",
-"257.9",
-"-134.2",
-"257.9",
-"-134.2",
-"268.6",
-"-136.5",
-"268.6",
-"-136.5",
-"280.1",
-"-140.3",
-"280.1",
-"-140.3",
-"290.8",
-"-146.4",
-"290.8",
-"-146.4",
-"303.0",
-"-155.7",
-"303.0",
-"-155.7",
-"313.8",
-"-168.7",
-"313.8",
-"-168.7",
-"323.7",
-"-184.7",
-"323.7",
-"-184.7",
-"332.2",
-"-200.8",
-"332.2",
-"-200.8",
-"336.8",
-"-215.4",
-"336.8",
-"-215.4",
-"341.3",
-"-236.1",
-"341.3",
-"-236.1",
-"342.1",
-"-252.2",
-"342.1",
-"-252.2",
-"343.6",
-"-269.8",
-"343.6",
-"-269.8",
-"344.4",
-"-281.3",
-"344.4",
-"-281.3",
-"341.3",
-"-293.6",
-"341.3",
-"-293.6",
-"339.1",
-"-305.8",
-"339.1",
-"-305.8",
-"339.1",
-"-321.9",
-"339.1",
-"-321.9",
-"336.8",
-"-334.2",
-"336.8",
-"-334.2",
-"330.7",
-"-348.8",
-"330.7",
-"-348.8",
-"325.2",
-"-363.3",
-"325.2",
-"-363.3",
-"315.3",
-"-377.8",
-"315.3",
-"-377.8",
-"308.4",
-"-389.4",
-"308.4",
-"-389.4",
-"295.4",
-"-400.9",
-"295.4",
-"-400.9",
-"282.4",
-"-409.3",
-"282.4",
-"-409.3",
-"273.9",
-"-411.6",
-},
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"273.1",
-"-141.9",
-"268.6",
-"-153.4",
-"268.6",
-"-153.4",
-"264.0",
-"-164.8",
-"264.0",
-"-164.8",
-"263.2",
-"-166.3",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"358.5",
-"-399.0",
-"358.5",
-"-419.2",
-"358.5",
-"-419.2",
-"358.5",
-"-434.3",
-"358.5",
-"-434.3",
-"359.5",
-"-445.4",
-"359.5",
-"-445.4",
-"360.5",
-"-460.5",
-"360.5",
-"-460.5",
-"365.5",
-"-475.7",
-"365.5",
-"-475.7",
-"370.6",
-"-487.8",
-"370.6",
-"-487.8",
-"382.7",
-"-497.9",
-"382.7",
-"-497.9",
-"398.8",
-"-502.9",
-"398.8",
-"-502.9",
-"419.0",
-"-504.9",
-"419.0",
-"-504.9",
-"433.1",
-"-505.9",
-"433.1",
-"-505.9",
-"443.2",
-"-507.0",
-"443.2",
-"-507.0",
-"461.4",
-"-507.0",
-"461.4",
-"-507.0",
-"473.5",
-"-507.0",
-"473.5",
-"-507.0",
-"486.6",
-"-504.9",
-"486.6",
-"-504.9",
-"497.7",
-"-501.9",
-"497.7",
-"-501.9",
-"510.8",
-"-498.9",
-"510.8",
-"-498.9",
-"522.9",
-"-493.8",
-"522.9",
-"-493.8",
-"530.0",
-"-476.7",
-"530.0",
-"-476.7",
-"534.0",
-"-463.6",
-"534.0",
-"-463.6",
-"534.0",
-"-450.4",
-"534.0",
-"-450.4",
-"532.0",
-"-438.3",
-"532.0",
-"-438.3",
-"530.0",
-"-426.2",
-"530.0",
-"-426.2",
-"529.0",
-"-406.0",
-"529.0",
-"-406.0",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-383.8",
-"529.0",
-"-383.8",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-409.1",
-"529.0",
-"-409.1",
-"526.0",
-"-427.2",
-"526.0",
-"-427.2",
-"521.9",
-"-445.4",
-"521.9",
-"-445.4",
-"519.9",
-"-467.6",
-"519.9",
-"-467.6",
-"518.9",
-"-482.7",
-"518.9",
-"-482.7",
-"517.9",
-"-493.8",
-"517.9",
-"-493.8",
-"519.9",
-"-505.9",
-"519.9",
-"-505.9",
-"528.0",
-"-522.1",
-"528.0",
-"-522.1",
-"543.1",
-"-528.1",
-"543.1",
-"-528.1",
-"558.3",
-"-528.1",
-"558.3",
-"-528.1",
-"570.4",
-"-524.1",
-"570.4",
-"-524.1",
-"584.5",
-"-517.0",
-"584.5",
-"-517.0",
-"600.6",
-"-507.0",
-"600.6",
-"-507.0",
-"613.8",
-"-496.9",
-"613.8",
-"-496.9",
-"625.9",
-"-485.8",
-"625.9",
-"-485.8",
-"631.9",
-"-474.7",
-"631.9",
-"-474.7",
-"632.9",
-"-464.6",
-"632.9",
-"-464.6",
-"632.9",
-"-447.4",
-"632.9",
-"-447.4",
-"632.9",
-"-433.3",
-"632.9",
-"-433.3",
-"627.9",
-"-420.2",
-"627.9",
-"-420.2",
-"619.8",
-"-408.1",
-"619.8",
-"-408.1",
-"609.7",
-"-394.9",
-"609.7",
-"-394.9",
-"608.7",
-"-379.8",
-"608.7",
-"-379.8",
-"608.7",
-"-369.7",
-"608.7",
-"-369.7",
-"610.7",
-"-357.6",
-"610.7",
-"-357.6",
-"612.8",
-"-346.5",
-"612.8",
-"-346.5",
-"615.8",
-"-334.4",
-"615.8",
-"-334.4",
-"618.8",
-"-316.2",
-"618.8",
-"-316.2",
-"620.8",
-"-300.1",
-"620.8",
-"-300.1",
-"623.9",
-"-269.8",
-"623.9",
-"-269.8",
-"625.9",
-"-218.3",
-"625.9",
-"-218.3",
-"625.9",
-"-198.2",
-"625.9",
-"-198.2",
-"625.9",
-"-186.0",
-"625.9",
-"-186.0",
-"624.9",
-"-176.0",
-"624.9",
-"-176.0",
-"623.9",
-"-164.9",
-"623.9",
-"-164.9",
-"620.8",
-"-151.7",
-"620.8",
-"-151.7",
-"613.8",
-"-139.6",
-"613.8",
-"-139.6",
-"599.6",
-"-131.6",
-"599.6",
-"-131.6",
-"586.5",
-"-128.5",
-"586.5",
-"-128.5",
-"572.4",
-"-128.5",
-"572.4",
-"-128.5",
-"557.3",
-"-129.5",
-"557.3",
-"-129.5",
-"542.1",
-"-131.6",
-"542.1",
-"-131.6",
-"526.0",
-"-133.6",
-"526.0",
-"-133.6",
-"510.8",
-"-137.6",
-"510.8",
-"-137.6",
-"496.7",
-"-145.7",
-"496.7",
-"-145.7",
-"487.6",
-"-155.8",
-"487.6",
-"-155.8",
-"475.5",
-"-173.9",
-"475.5",
-"-173.9",
-"465.4",
-"-194.1",
-"465.4",
-"-194.1",
-"452.3",
-"-221.4",
-"452.3",
-"-221.4",
-"442.2",
-"-247.6",
-"442.2",
-"-247.6",
-"432.1",
-"-275.9",
-"432.1",
-"-275.9",
-"422.0",
-"-297.1",
-"422.0",
-"-297.1",
-"412.9",
-"-317.2",
-"412.9",
-"-317.2",
-"403.9",
-"-333.4",
-"403.9",
-"-333.4",
-"393.8",
-"-353.6",
-"393.8",
-"-353.6",
-"383.7",
-"-368.7",
-"383.7",
-"-368.7",
-"374.6",
-"-379.8",
-"374.6",
-"-379.8",
-"365.5",
-"-390.9",
-"365.5",
-"-390.9",
-"355.4",
-"-405.0",
-"355.4",
-"-405.0",
-"358.5",
-"-393.9",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--7,
-true,
-},
-["l"] = {
-"470.5",
-"-170.9",
-"494.7",
-"-178.0",
-"494.7",
-"-178.0",
-"525.0",
-"-184.0",
-"525.0",
-"-184.0",
-"556.2",
-"-188.1",
-"556.2",
-"-188.1",
-"587.5",
-"-189.1",
-"587.5",
-"-189.1",
-"611.7",
-"-191.1",
-"611.7",
-"-191.1",
-"632.9",
-"-195.1",
-"632.9",
-"-195.1",
-"639.0",
-"-197.1",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"540.1",
-"-176.0",
-"542.1",
-"-165.9",
-"542.1",
-"-165.9",
-"550.2",
-"-149.7",
-"550.2",
-"-149.7",
-"556.2",
-"-135.6",
-"556.2",
-"-135.6",
-"563.3",
-"-122.5",
-"563.3",
-"-122.5",
-"562.3",
-"-132.6",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"684.4",
-"-99.3",
-"685.4",
-"-117.4",
-"685.4",
-"-117.4",
-"685.4",
-"-131.6",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"721.7",
-"-87.1",
-"725.8",
-"-100.3",
-"725.8",
-"-100.3",
-"730.8",
-"-118.4",
-"730.8",
-"-118.4",
-"730.8",
-"-122.5",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"695.5",
-"-146.7",
-"696.5",
-"-165.9",
-"696.5",
-"-165.9",
-"697.5",
-"-178.0",
-"697.5",
-"-178.0",
-"697.5",
-"-184.0",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"672.3",
-"-160.8",
-"673.3",
-"-178.0",
-"673.3",
-"-178.0",
-"681.4",
-"-192.1",
-"681.4",
-"-192.1",
-"693.5",
-"-202.2",
-"693.5",
-"-202.2",
-"705.6",
-"-205.2",
-"705.6",
-"-205.2",
-"715.7",
-"-206.2",
-"715.7",
-"-206.2",
-"726.8",
-"-200.2",
-"726.8",
-"-200.2",
-"746.0",
-"-177.0",
-"746.0",
-"-177.0",
-"754.0",
-"-160.8",
-"754.0",
-"-160.8",
-"749.0",
-"-168.9",
-},
-},
-},
-},
-{
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = ":) 2",
-["mdi"] = {
-["freehold"] = 1,
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-},
-["uid"] = "2e(l1SyxRlr",
-["faction"] = 2,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-},
-{
-2,
-3,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-16,
-17,
-14,
-15,
-},
-nil,
-{
-5,
-},
-{
-4,
-},
-{
-3,
-},
-[36] = {
-},
-["color"] = "3eff9e",
-},
-{
-{
-18,
-19,
-20,
-21,
-},
-{
-6,
-},
-{
-6,
-},
-{
-5,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3e3e",
-[10] = {
-},
-[9] = {
-},
-},
-{
-nil,
-{
-7,
-},
-{
-},
-{
-6,
-},
-["color"] = "3e9eff",
-[6] = {
-3,
-},
-[36] = {
-3,
-4,
-},
-},
-{
-[5] = {
-4,
-},
-[2] = {
-10,
-},
-["color"] = "fffb3e",
-[28] = {
-12,
-},
-},
-{
-{
-24,
-25,
-26,
-},
-{
-11,
-},
-nil,
-{
-7,
-},
-{
-5,
-},
-["color"] = "3eff3e",
-},
-{
-{
-28,
-27,
-29,
-},
-[5] = {
-6,
-},
-[6] = {
-4,
-},
-[4] = {
-8,
-},
-["color"] = "ff3e9e",
-},
-{
-[27] = {
-1,
-},
-[28] = {
-11,
-},
-[26] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-5,
-8,
-9,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[4] = {
-10,
-},
-[9] = {
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-16,
-},
-[9] = {
-4,
-},
-[25] = {
-14,
-15,
-16,
-},
-},
-{
-[11] = {
-1,
-},
-[23] = {
-7,
-8,
-9,
-10,
-},
-["color"] = "a1ff3e",
-},
-{
-[8] = {
-12,
-13,
-},
-[10] = {
-3,
-},
-["color"] = "ff3eff",
-[4] = {
-12,
-},
-[9] = {
-6,
-},
-[25] = {
-24,
-25,
-},
-},
-{
-[13] = {
-2,
-3,
-},
-[25] = {
-36,
-33,
-32,
-35,
-34,
-},
-[12] = {
-3,
-},
-[14] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[30] = {
-4,
-},
-[31] = {
-2,
-},
-[29] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[16] = {
-1,
-2,
-},
-[17] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[18] = {
-1,
-},
-[16] = {
-3,
-4,
-},
-[17] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-[18] = {
-3,
-},
-["color"] = "3eff3e",
-[17] = {
-3,
-},
-[15] = {
-3,
-4,
-},
-},
-{
-{
-},
-{
-},
-{
-7,
-},
-[15] = {
-6,
-7,
-},
-[18] = {
-4,
-},
-["color"] = "ff3e9e",
-[19] = {
-1,
-2,
-},
-[16] = {
-9,
-},
-},
-{
-["color"] = "3effff",
-[16] = {
-},
-[15] = {
-},
-},
-{
-[24] = {
-3,
-2,
-1,
-4,
-},
-[12] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[5] = {
-10,
-},
-[10] = {
-7,
-},
-["color"] = "3e3eff",
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-[10] = {
-4,
-},
-["color"] = "a1ff3e",
-[4] = {
-13,
-},
-},
-{
-[20] = {
-4,
-3,
-},
-[21] = {
-2,
-},
-[10] = {
-5,
-},
-["color"] = "ff3eff",
-[4] = {
-14,
-},
-},
-{
-[24] = {
-6,
-5,
-},
-[5] = {
-11,
-},
-[20] = {
-2,
-},
-["color"] = "3eff9e",
-},
-{
-[32] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[34] = {
-1,
-},
-[33] = {
-1,
-},
-[35] = {
-1,
-},
-["color"] = "3e9eff",
-},
-},
-["currentDungeonIdx"] = 19,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["week"] = 1,
-["difficulty"] = 2,
-["objects"] = {
-{
-["d"] = {
-"686.3",
-"-531.5",
-1,
-true,
-"Come say hi at twitch.tv/thebunten",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"633.6",
-"-246.7",
-1,
-true,
-"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"324.9",
-"-195.5",
-1,
-true,
-"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"134.2",
-"-96.1",
-1,
-true,
-"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"54.7",
-"-164.5",
-1,
-true,
-"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"706.3",
-"-332",
-1,
-true,
-"stay close to the south wall... do not want to pull the bombers",
-},
-["n"] = true,
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"142.9",
-"-490.5",
-"132.1",
-"-483.6",
-"132.1",
-"-483.6",
-"122.2",
-"-471.4",
-"122.2",
-"-471.4",
-"112.2",
-"-458.3",
-"112.2",
-"-458.3",
-"106.9",
-"-446.8",
-"106.9",
-"-446.8",
-"104.6",
-"-433.8",
-"104.6",
-"-433.8",
-"106.9",
-"-420.0",
-"106.9",
-"-420.0",
-"115.4",
-"-409.3",
-"115.4",
-"-409.3",
-"126.0",
-"-407.7",
-"126.0",
-"-407.7",
-"139.9",
-"-406.2",
-"139.9",
-"-406.2",
-"151.4",
-"-410.8",
-"151.4",
-"-410.8",
-"168.1",
-"-410.0",
-"168.1",
-"-410.0",
-"182.0",
-"-410.0",
-"182.0",
-"-410.0",
-"193.5",
-"-412.3",
-"193.5",
-"-412.3",
-"206.5",
-"-417.8",
-"206.5",
-"-417.8",
-"211.1",
-"-429.2",
-"211.1",
-"-429.2",
-"211.1",
-"-439.9",
-"211.1",
-"-439.9",
-"208.1",
-"-452.2",
-"208.1",
-"-452.2",
-"195.0",
-"-463.7",
-"195.0",
-"-463.7",
-"183.5",
-"-472.9",
-"183.5",
-"-472.9",
-"172.1",
-"-479.0",
-"172.1",
-"-479.0",
-"160.5",
-"-479.0",
-"160.5",
-"-479.0",
-"149.8",
-"-478.2",
-"149.8",
-"-478.2",
-"139.1",
-"-479.0",
-"139.1",
-"-479.0",
-"138.3",
-"-478.2",
-},
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--7,
-true,
-},
-["l"] = {
-"204.3",
-"-425.4",
-"213.4",
-"-414.6",
-"213.4",
-"-414.6",
-"223.4",
-"-403.2",
-"223.4",
-"-403.2",
-"232.5",
-"-392.4",
-"232.5",
-"-392.4",
-"247.1",
-"-390.9",
-"247.1",
-"-390.9",
-"262.5",
-"-396.2",
-"262.5",
-"-396.2",
-"273.9",
-"-402.4",
-"273.9",
-"-402.4",
-"284.7",
-"-409.3",
-"284.7",
-"-409.3",
-"296.2",
-"-415.4",
-"296.2",
-"-415.4",
-"303.0",
-"-428.4",
-"303.0",
-"-428.4",
-"300.8",
-"-441.5",
-"300.8",
-"-441.5",
-"298.5",
-"-452.2",
-"298.5",
-"-452.2",
-"287.7",
-"-462.1",
-"287.7",
-"-462.1",
-"275.5",
-"-471.4",
-"275.5",
-"-471.4",
-"264.0",
-"-472.9",
-"264.0",
-"-472.9",
-"250.9",
-"-474.4",
-"250.9",
-"-474.4",
-"239.5",
-"-475.2",
-"239.5",
-"-475.2",
-"225.7",
-"-473.7",
-"225.7",
-"-473.7",
-"211.9",
-"-472.9",
-"211.9",
-"-472.9",
-"200.3",
-"-469.0",
-"200.3",
-"-469.0",
-"188.9",
-"-464.4",
-"188.9",
-"-464.4",
-"187.4",
-"-463.7",
-},
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--6,
-true,
-},
-["l"] = {
-"176.6",
-"-413.8",
-"169.0",
-"-403.2",
-"169.0",
-"-403.2",
-"167.4",
-"-390.9",
-"167.4",
-"-390.9",
-"162.1",
-"-379.4",
-"162.1",
-"-379.4",
-"159.8",
-"-365.6",
-"159.8",
-"-365.6",
-"162.1",
-"-353.4",
-"162.1",
-"-353.4",
-"159.0",
-"-342.6",
-"159.0",
-"-342.6",
-"156.7",
-"-330.4",
-"156.7",
-"-330.4",
-"156.7",
-"-319.6",
-"156.7",
-"-319.6",
-"156.7",
-"-305.1",
-"156.7",
-"-305.1",
-"156.7",
-"-293.6",
-"156.7",
-"-293.6",
-"156.7",
-"-282.1",
-"156.7",
-"-282.1",
-"157.5",
-"-269.8",
-"157.5",
-"-269.8",
-"156.7",
-"-252.9",
-"156.7",
-"-252.9",
-"159.0",
-"-240.8",
-"159.0",
-"-240.8",
-"162.1",
-"-227.7",
-"162.1",
-"-227.7",
-"165.1",
-"-213.9",
-"165.1",
-"-213.9",
-"166.6",
-"-200.8",
-"166.6",
-"-200.8",
-"169.8",
-"-189.4",
-"169.8",
-"-189.4",
-"177.4",
-"-177.9",
-"177.4",
-"-177.9",
-"186.6",
-"-161.8",
-"186.6",
-"-161.8",
-"200.3",
-"-145.7",
-"200.3",
-"-145.7",
-"214.2",
-"-137.3",
-"214.2",
-"-137.3",
-"245.6",
-"-134.2",
-"245.6",
-"-134.2",
-"257.9",
-"-134.2",
-"257.9",
-"-134.2",
-"268.6",
-"-136.5",
-"268.6",
-"-136.5",
-"280.1",
-"-140.3",
-"280.1",
-"-140.3",
-"290.8",
-"-146.4",
-"290.8",
-"-146.4",
-"303.0",
-"-155.7",
-"303.0",
-"-155.7",
-"313.8",
-"-168.7",
-"313.8",
-"-168.7",
-"323.7",
-"-184.7",
-"323.7",
-"-184.7",
-"332.2",
-"-200.8",
-"332.2",
-"-200.8",
-"336.8",
-"-215.4",
-"336.8",
-"-215.4",
-"341.3",
-"-236.1",
-"341.3",
-"-236.1",
-"342.1",
-"-252.2",
-"342.1",
-"-252.2",
-"343.6",
-"-269.8",
-"343.6",
-"-269.8",
-"344.4",
-"-281.3",
-"344.4",
-"-281.3",
-"341.3",
-"-293.6",
-"341.3",
-"-293.6",
-"339.1",
-"-305.8",
-"339.1",
-"-305.8",
-"339.1",
-"-321.9",
-"339.1",
-"-321.9",
-"336.8",
-"-334.2",
-"336.8",
-"-334.2",
-"330.7",
-"-348.8",
-"330.7",
-"-348.8",
-"325.2",
-"-363.3",
-"325.2",
-"-363.3",
-"315.3",
-"-377.8",
-"315.3",
-"-377.8",
-"308.4",
-"-389.4",
-"308.4",
-"-389.4",
-"295.4",
-"-400.9",
-"295.4",
-"-400.9",
-"282.4",
-"-409.3",
-"282.4",
-"-409.3",
-"273.9",
-"-411.6",
-},
-},
-{
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"273.1",
-"-141.9",
-"268.6",
-"-153.4",
-"268.6",
-"-153.4",
-"264.0",
-"-164.8",
-"264.0",
-"-164.8",
-"263.2",
-"-166.3",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"358.5",
-"-399.0",
-"358.5",
-"-419.2",
-"358.5",
-"-419.2",
-"358.5",
-"-434.3",
-"358.5",
-"-434.3",
-"359.5",
-"-445.4",
-"359.5",
-"-445.4",
-"360.5",
-"-460.5",
-"360.5",
-"-460.5",
-"365.5",
-"-475.7",
-"365.5",
-"-475.7",
-"370.6",
-"-487.8",
-"370.6",
-"-487.8",
-"382.7",
-"-497.9",
-"382.7",
-"-497.9",
-"398.8",
-"-502.9",
-"398.8",
-"-502.9",
-"419.0",
-"-504.9",
-"419.0",
-"-504.9",
-"433.1",
-"-505.9",
-"433.1",
-"-505.9",
-"443.2",
-"-507.0",
-"443.2",
-"-507.0",
-"461.4",
-"-507.0",
-"461.4",
-"-507.0",
-"473.5",
-"-507.0",
-"473.5",
-"-507.0",
-"486.6",
-"-504.9",
-"486.6",
-"-504.9",
-"497.7",
-"-501.9",
-"497.7",
-"-501.9",
-"510.8",
-"-498.9",
-"510.8",
-"-498.9",
-"522.9",
-"-493.8",
-"522.9",
-"-493.8",
-"530.0",
-"-476.7",
-"530.0",
-"-476.7",
-"534.0",
-"-463.6",
-"534.0",
-"-463.6",
-"534.0",
-"-450.4",
-"534.0",
-"-450.4",
-"532.0",
-"-438.3",
-"532.0",
-"-438.3",
-"530.0",
-"-426.2",
-"530.0",
-"-426.2",
-"529.0",
-"-406.0",
-"529.0",
-"-406.0",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-383.8",
-"529.0",
-"-383.8",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-409.1",
-"529.0",
-"-409.1",
-"526.0",
-"-427.2",
-"526.0",
-"-427.2",
-"521.9",
-"-445.4",
-"521.9",
-"-445.4",
-"519.9",
-"-467.6",
-"519.9",
-"-467.6",
-"518.9",
-"-482.7",
-"518.9",
-"-482.7",
-"517.9",
-"-493.8",
-"517.9",
-"-493.8",
-"519.9",
-"-505.9",
-"519.9",
-"-505.9",
-"528.0",
-"-522.1",
-"528.0",
-"-522.1",
-"543.1",
-"-528.1",
-"543.1",
-"-528.1",
-"558.3",
-"-528.1",
-"558.3",
-"-528.1",
-"570.4",
-"-524.1",
-"570.4",
-"-524.1",
-"584.5",
-"-517.0",
-"584.5",
-"-517.0",
-"600.6",
-"-507.0",
-"600.6",
-"-507.0",
-"613.8",
-"-496.9",
-"613.8",
-"-496.9",
-"625.9",
-"-485.8",
-"625.9",
-"-485.8",
-"631.9",
-"-474.7",
-"631.9",
-"-474.7",
-"632.9",
-"-464.6",
-"632.9",
-"-464.6",
-"632.9",
-"-447.4",
-"632.9",
-"-447.4",
-"632.9",
-"-433.3",
-"632.9",
-"-433.3",
-"627.9",
-"-420.2",
-"627.9",
-"-420.2",
-"619.8",
-"-408.1",
-"619.8",
-"-408.1",
-"609.7",
-"-394.9",
-"609.7",
-"-394.9",
-"608.7",
-"-379.8",
-"608.7",
-"-379.8",
-"608.7",
-"-369.7",
-"608.7",
-"-369.7",
-"610.7",
-"-357.6",
-"610.7",
-"-357.6",
-"612.8",
-"-346.5",
-"612.8",
-"-346.5",
-"615.8",
-"-334.4",
-"615.8",
-"-334.4",
-"618.8",
-"-316.2",
-"618.8",
-"-316.2",
-"620.8",
-"-300.1",
-"620.8",
-"-300.1",
-"623.9",
-"-269.8",
-"623.9",
-"-269.8",
-"625.9",
-"-218.3",
-"625.9",
-"-218.3",
-"625.9",
-"-198.2",
-"625.9",
-"-198.2",
-"625.9",
-"-186.0",
-"625.9",
-"-186.0",
-"624.9",
-"-176.0",
-"624.9",
-"-176.0",
-"623.9",
-"-164.9",
-"623.9",
-"-164.9",
-"620.8",
-"-151.7",
-"620.8",
-"-151.7",
-"613.8",
-"-139.6",
-"613.8",
-"-139.6",
-"599.6",
-"-131.6",
-"599.6",
-"-131.6",
-"586.5",
-"-128.5",
-"586.5",
-"-128.5",
-"572.4",
-"-128.5",
-"572.4",
-"-128.5",
-"557.3",
-"-129.5",
-"557.3",
-"-129.5",
-"542.1",
-"-131.6",
-"542.1",
-"-131.6",
-"526.0",
-"-133.6",
-"526.0",
-"-133.6",
-"510.8",
-"-137.6",
-"510.8",
-"-137.6",
-"496.7",
-"-145.7",
-"496.7",
-"-145.7",
-"487.6",
-"-155.8",
-"487.6",
-"-155.8",
-"475.5",
-"-173.9",
-"475.5",
-"-173.9",
-"465.4",
-"-194.1",
-"465.4",
-"-194.1",
-"452.3",
-"-221.4",
-"452.3",
-"-221.4",
-"442.2",
-"-247.6",
-"442.2",
-"-247.6",
-"432.1",
-"-275.9",
-"432.1",
-"-275.9",
-"422.0",
-"-297.1",
-"422.0",
-"-297.1",
-"412.9",
-"-317.2",
-"412.9",
-"-317.2",
-"403.9",
-"-333.4",
-"403.9",
-"-333.4",
-"393.8",
-"-353.6",
-"393.8",
-"-353.6",
-"383.7",
-"-368.7",
-"383.7",
-"-368.7",
-"374.6",
-"-379.8",
-"374.6",
-"-379.8",
-"365.5",
-"-390.9",
-"365.5",
-"-390.9",
-"355.4",
-"-405.0",
-"355.4",
-"-405.0",
-"358.5",
-"-393.9",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--7,
-true,
-},
-["l"] = {
-"470.5",
-"-170.9",
-"494.7",
-"-178.0",
-"494.7",
-"-178.0",
-"525.0",
-"-184.0",
-"525.0",
-"-184.0",
-"556.2",
-"-188.1",
-"556.2",
-"-188.1",
-"587.5",
-"-189.1",
-"587.5",
-"-189.1",
-"611.7",
-"-191.1",
-"611.7",
-"-191.1",
-"632.9",
-"-195.1",
-"632.9",
-"-195.1",
-"639.0",
-"-197.1",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"540.1",
-"-176.0",
-"542.1",
-"-165.9",
-"542.1",
-"-165.9",
-"550.2",
-"-149.7",
-"550.2",
-"-149.7",
-"556.2",
-"-135.6",
-"556.2",
-"-135.6",
-"563.3",
-"-122.5",
-"563.3",
-"-122.5",
-"562.3",
-"-132.6",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"684.4",
-"-99.3",
-"685.4",
-"-117.4",
-"685.4",
-"-117.4",
-"685.4",
-"-131.6",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"721.7",
-"-87.1",
-"725.8",
-"-100.3",
-"725.8",
-"-100.3",
-"730.8",
-"-118.4",
-"730.8",
-"-118.4",
-"730.8",
-"-122.5",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"695.5",
-"-146.7",
-"696.5",
-"-165.9",
-"696.5",
-"-165.9",
-"697.5",
-"-178.0",
-"697.5",
-"-178.0",
-"697.5",
-"-184.0",
-},
-},
-{
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-["l"] = {
-"672.3",
-"-160.8",
-"673.3",
-"-178.0",
-"673.3",
-"-178.0",
-"681.4",
-"-192.1",
-"681.4",
-"-192.1",
-"693.5",
-"-202.2",
-"693.5",
-"-202.2",
-"705.6",
-"-205.2",
-"705.6",
-"-205.2",
-"715.7",
-"-206.2",
-"715.7",
-"-206.2",
-"726.8",
-"-200.2",
-"726.8",
-"-200.2",
-"746.0",
-"-177.0",
-"746.0",
-"-177.0",
-"754.0",
-"-160.8",
-"754.0",
-"-160.8",
-"749.0",
-"-168.9",
-},
-},
-},
-},
-{
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = ":) 3",
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"686.3",
-"-531.5",
-1,
-true,
-"Come say hi at twitch.tv/thebunten",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"633.6",
-"-246.7",
-1,
-true,
-"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"324.9",
-"-195.5",
-1,
-true,
-"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"134.2",
-"-96.1",
-1,
-true,
-"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"54.7",
-"-164.5",
-1,
-true,
-"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"706.3",
-"-332",
-1,
-true,
-"stay close to the south wall... do not want to pull the bombers",
-},
-},
-{
-["l"] = {
-"142.9",
-"-490.5",
-"132.1",
-"-483.6",
-"132.1",
-"-483.6",
-"122.2",
-"-471.4",
-"122.2",
-"-471.4",
-"112.2",
-"-458.3",
-"112.2",
-"-458.3",
-"106.9",
-"-446.8",
-"106.9",
-"-446.8",
-"104.6",
-"-433.8",
-"104.6",
-"-433.8",
-"106.9",
-"-420.0",
-"106.9",
-"-420.0",
-"115.4",
-"-409.3",
-"115.4",
-"-409.3",
-"126.0",
-"-407.7",
-"126.0",
-"-407.7",
-"139.9",
-"-406.2",
-"139.9",
-"-406.2",
-"151.4",
-"-410.8",
-"151.4",
-"-410.8",
-"168.1",
-"-410.0",
-"168.1",
-"-410.0",
-"182.0",
-"-410.0",
-"182.0",
-"-410.0",
-"193.5",
-"-412.3",
-"193.5",
-"-412.3",
-"206.5",
-"-417.8",
-"206.5",
-"-417.8",
-"211.1",
-"-429.2",
-"211.1",
-"-429.2",
-"211.1",
-"-439.9",
-"211.1",
-"-439.9",
-"208.1",
-"-452.2",
-"208.1",
-"-452.2",
-"195.0",
-"-463.7",
-"195.0",
-"-463.7",
-"183.5",
-"-472.9",
-"183.5",
-"-472.9",
-"172.1",
-"-479.0",
-"172.1",
-"-479.0",
-"160.5",
-"-479.0",
-"160.5",
-"-479.0",
-"149.8",
-"-478.2",
-"149.8",
-"-478.2",
-"139.1",
-"-479.0",
-"139.1",
-"-479.0",
-"138.3",
-"-478.2",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-{
-["l"] = {
-"204.3",
-"-425.4",
-"213.4",
-"-414.6",
-"213.4",
-"-414.6",
-"223.4",
-"-403.2",
-"223.4",
-"-403.2",
-"232.5",
-"-392.4",
-"232.5",
-"-392.4",
-"247.1",
-"-390.9",
-"247.1",
-"-390.9",
-"262.5",
-"-396.2",
-"262.5",
-"-396.2",
-"273.9",
-"-402.4",
-"273.9",
-"-402.4",
-"284.7",
-"-409.3",
-"284.7",
-"-409.3",
-"296.2",
-"-415.4",
-"296.2",
-"-415.4",
-"303.0",
-"-428.4",
-"303.0",
-"-428.4",
-"300.8",
-"-441.5",
-"300.8",
-"-441.5",
-"298.5",
-"-452.2",
-"298.5",
-"-452.2",
-"287.7",
-"-462.1",
-"287.7",
-"-462.1",
-"275.5",
-"-471.4",
-"275.5",
-"-471.4",
-"264.0",
-"-472.9",
-"264.0",
-"-472.9",
-"250.9",
-"-474.4",
-"250.9",
-"-474.4",
-"239.5",
-"-475.2",
-"239.5",
-"-475.2",
-"225.7",
-"-473.7",
-"225.7",
-"-473.7",
-"211.9",
-"-472.9",
-"211.9",
-"-472.9",
-"200.3",
-"-469.0",
-"200.3",
-"-469.0",
-"188.9",
-"-464.4",
-"188.9",
-"-464.4",
-"187.4",
-"-463.7",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--7,
-true,
-},
-},
-{
-["l"] = {
-"176.6",
-"-413.8",
-"169.0",
-"-403.2",
-"169.0",
-"-403.2",
-"167.4",
-"-390.9",
-"167.4",
-"-390.9",
-"162.1",
-"-379.4",
-"162.1",
-"-379.4",
-"159.8",
-"-365.6",
-"159.8",
-"-365.6",
-"162.1",
-"-353.4",
-"162.1",
-"-353.4",
-"159.0",
-"-342.6",
-"159.0",
-"-342.6",
-"156.7",
-"-330.4",
-"156.7",
-"-330.4",
-"156.7",
-"-319.6",
-"156.7",
-"-319.6",
-"156.7",
-"-305.1",
-"156.7",
-"-305.1",
-"156.7",
-"-293.6",
-"156.7",
-"-293.6",
-"156.7",
-"-282.1",
-"156.7",
-"-282.1",
-"157.5",
-"-269.8",
-"157.5",
-"-269.8",
-"156.7",
-"-252.9",
-"156.7",
-"-252.9",
-"159.0",
-"-240.8",
-"159.0",
-"-240.8",
-"162.1",
-"-227.7",
-"162.1",
-"-227.7",
-"165.1",
-"-213.9",
-"165.1",
-"-213.9",
-"166.6",
-"-200.8",
-"166.6",
-"-200.8",
-"169.8",
-"-189.4",
-"169.8",
-"-189.4",
-"177.4",
-"-177.9",
-"177.4",
-"-177.9",
-"186.6",
-"-161.8",
-"186.6",
-"-161.8",
-"200.3",
-"-145.7",
-"200.3",
-"-145.7",
-"214.2",
-"-137.3",
-"214.2",
-"-137.3",
-"245.6",
-"-134.2",
-"245.6",
-"-134.2",
-"257.9",
-"-134.2",
-"257.9",
-"-134.2",
-"268.6",
-"-136.5",
-"268.6",
-"-136.5",
-"280.1",
-"-140.3",
-"280.1",
-"-140.3",
-"290.8",
-"-146.4",
-"290.8",
-"-146.4",
-"303.0",
-"-155.7",
-"303.0",
-"-155.7",
-"313.8",
-"-168.7",
-"313.8",
-"-168.7",
-"323.7",
-"-184.7",
-"323.7",
-"-184.7",
-"332.2",
-"-200.8",
-"332.2",
-"-200.8",
-"336.8",
-"-215.4",
-"336.8",
-"-215.4",
-"341.3",
-"-236.1",
-"341.3",
-"-236.1",
-"342.1",
-"-252.2",
-"342.1",
-"-252.2",
-"343.6",
-"-269.8",
-"343.6",
-"-269.8",
-"344.4",
-"-281.3",
-"344.4",
-"-281.3",
-"341.3",
-"-293.6",
-"341.3",
-"-293.6",
-"339.1",
-"-305.8",
-"339.1",
-"-305.8",
-"339.1",
-"-321.9",
-"339.1",
-"-321.9",
-"336.8",
-"-334.2",
-"336.8",
-"-334.2",
-"330.7",
-"-348.8",
-"330.7",
-"-348.8",
-"325.2",
-"-363.3",
-"325.2",
-"-363.3",
-"315.3",
-"-377.8",
-"315.3",
-"-377.8",
-"308.4",
-"-389.4",
-"308.4",
-"-389.4",
-"295.4",
-"-400.9",
-"295.4",
-"-400.9",
-"282.4",
-"-409.3",
-"282.4",
-"-409.3",
-"273.9",
-"-411.6",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--6,
-true,
-},
-},
-{
-["l"] = {
-"273.1",
-"-141.9",
-"268.6",
-"-153.4",
-"268.6",
-"-153.4",
-"264.0",
-"-164.8",
-"264.0",
-"-164.8",
-"263.2",
-"-166.3",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-{
-["l"] = {
-"358.5",
-"-399.0",
-"358.5",
-"-419.2",
-"358.5",
-"-419.2",
-"358.5",
-"-434.3",
-"358.5",
-"-434.3",
-"359.5",
-"-445.4",
-"359.5",
-"-445.4",
-"360.5",
-"-460.5",
-"360.5",
-"-460.5",
-"365.5",
-"-475.7",
-"365.5",
-"-475.7",
-"370.6",
-"-487.8",
-"370.6",
-"-487.8",
-"382.7",
-"-497.9",
-"382.7",
-"-497.9",
-"398.8",
-"-502.9",
-"398.8",
-"-502.9",
-"419.0",
-"-504.9",
-"419.0",
-"-504.9",
-"433.1",
-"-505.9",
-"433.1",
-"-505.9",
-"443.2",
-"-507.0",
-"443.2",
-"-507.0",
-"461.4",
-"-507.0",
-"461.4",
-"-507.0",
-"473.5",
-"-507.0",
-"473.5",
-"-507.0",
-"486.6",
-"-504.9",
-"486.6",
-"-504.9",
-"497.7",
-"-501.9",
-"497.7",
-"-501.9",
-"510.8",
-"-498.9",
-"510.8",
-"-498.9",
-"522.9",
-"-493.8",
-"522.9",
-"-493.8",
-"530.0",
-"-476.7",
-"530.0",
-"-476.7",
-"534.0",
-"-463.6",
-"534.0",
-"-463.6",
-"534.0",
-"-450.4",
-"534.0",
-"-450.4",
-"532.0",
-"-438.3",
-"532.0",
-"-438.3",
-"530.0",
-"-426.2",
-"530.0",
-"-426.2",
-"529.0",
-"-406.0",
-"529.0",
-"-406.0",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-383.8",
-"529.0",
-"-383.8",
-"529.0",
-"-393.9",
-"529.0",
-"-393.9",
-"529.0",
-"-409.1",
-"529.0",
-"-409.1",
-"526.0",
-"-427.2",
-"526.0",
-"-427.2",
-"521.9",
-"-445.4",
-"521.9",
-"-445.4",
-"519.9",
-"-467.6",
-"519.9",
-"-467.6",
-"518.9",
-"-482.7",
-"518.9",
-"-482.7",
-"517.9",
-"-493.8",
-"517.9",
-"-493.8",
-"519.9",
-"-505.9",
-"519.9",
-"-505.9",
-"528.0",
-"-522.1",
-"528.0",
-"-522.1",
-"543.1",
-"-528.1",
-"543.1",
-"-528.1",
-"558.3",
-"-528.1",
-"558.3",
-"-528.1",
-"570.4",
-"-524.1",
-"570.4",
-"-524.1",
-"584.5",
-"-517.0",
-"584.5",
-"-517.0",
-"600.6",
-"-507.0",
-"600.6",
-"-507.0",
-"613.8",
-"-496.9",
-"613.8",
-"-496.9",
-"625.9",
-"-485.8",
-"625.9",
-"-485.8",
-"631.9",
-"-474.7",
-"631.9",
-"-474.7",
-"632.9",
-"-464.6",
-"632.9",
-"-464.6",
-"632.9",
-"-447.4",
-"632.9",
-"-447.4",
-"632.9",
-"-433.3",
-"632.9",
-"-433.3",
-"627.9",
-"-420.2",
-"627.9",
-"-420.2",
-"619.8",
-"-408.1",
-"619.8",
-"-408.1",
-"609.7",
-"-394.9",
-"609.7",
-"-394.9",
-"608.7",
-"-379.8",
-"608.7",
-"-379.8",
-"608.7",
-"-369.7",
-"608.7",
-"-369.7",
-"610.7",
-"-357.6",
-"610.7",
-"-357.6",
-"612.8",
-"-346.5",
-"612.8",
-"-346.5",
-"615.8",
-"-334.4",
-"615.8",
-"-334.4",
-"618.8",
-"-316.2",
-"618.8",
-"-316.2",
-"620.8",
-"-300.1",
-"620.8",
-"-300.1",
-"623.9",
-"-269.8",
-"623.9",
-"-269.8",
-"625.9",
-"-218.3",
-"625.9",
-"-218.3",
-"625.9",
-"-198.2",
-"625.9",
-"-198.2",
-"625.9",
-"-186.0",
-"625.9",
-"-186.0",
-"624.9",
-"-176.0",
-"624.9",
-"-176.0",
-"623.9",
-"-164.9",
-"623.9",
-"-164.9",
-"620.8",
-"-151.7",
-"620.8",
-"-151.7",
-"613.8",
-"-139.6",
-"613.8",
-"-139.6",
-"599.6",
-"-131.6",
-"599.6",
-"-131.6",
-"586.5",
-"-128.5",
-"586.5",
-"-128.5",
-"572.4",
-"-128.5",
-"572.4",
-"-128.5",
-"557.3",
-"-129.5",
-"557.3",
-"-129.5",
-"542.1",
-"-131.6",
-"542.1",
-"-131.6",
-"526.0",
-"-133.6",
-"526.0",
-"-133.6",
-"510.8",
-"-137.6",
-"510.8",
-"-137.6",
-"496.7",
-"-145.7",
-"496.7",
-"-145.7",
-"487.6",
-"-155.8",
-"487.6",
-"-155.8",
-"475.5",
-"-173.9",
-"475.5",
-"-173.9",
-"465.4",
-"-194.1",
-"465.4",
-"-194.1",
-"452.3",
-"-221.4",
-"452.3",
-"-221.4",
-"442.2",
-"-247.6",
-"442.2",
-"-247.6",
-"432.1",
-"-275.9",
-"432.1",
-"-275.9",
-"422.0",
-"-297.1",
-"422.0",
-"-297.1",
-"412.9",
-"-317.2",
-"412.9",
-"-317.2",
-"403.9",
-"-333.4",
-"403.9",
-"-333.4",
-"393.8",
-"-353.6",
-"393.8",
-"-353.6",
-"383.7",
-"-368.7",
-"383.7",
-"-368.7",
-"374.6",
-"-379.8",
-"374.6",
-"-379.8",
-"365.5",
-"-390.9",
-"365.5",
-"-390.9",
-"355.4",
-"-405.0",
-"355.4",
-"-405.0",
-"358.5",
-"-393.9",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"470.5",
-"-170.9",
-"494.7",
-"-178.0",
-"494.7",
-"-178.0",
-"525.0",
-"-184.0",
-"525.0",
-"-184.0",
-"556.2",
-"-188.1",
-"556.2",
-"-188.1",
-"587.5",
-"-189.1",
-"587.5",
-"-189.1",
-"611.7",
-"-191.1",
-"611.7",
-"-191.1",
-"632.9",
-"-195.1",
-"632.9",
-"-195.1",
-"639.0",
-"-197.1",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--7,
-true,
-},
-},
-{
-["l"] = {
-"540.1",
-"-176.0",
-"542.1",
-"-165.9",
-"542.1",
-"-165.9",
-"550.2",
-"-149.7",
-"550.2",
-"-149.7",
-"556.2",
-"-135.6",
-"556.2",
-"-135.6",
-"563.3",
-"-122.5",
-"563.3",
-"-122.5",
-"562.3",
-"-132.6",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"684.4",
-"-99.3",
-"685.4",
-"-117.4",
-"685.4",
-"-117.4",
-"685.4",
-"-131.6",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"721.7",
-"-87.1",
-"725.8",
-"-100.3",
-"725.8",
-"-100.3",
-"730.8",
-"-118.4",
-"730.8",
-"-118.4",
-"730.8",
-"-122.5",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"695.5",
-"-146.7",
-"696.5",
-"-165.9",
-"696.5",
-"-165.9",
-"697.5",
-"-178.0",
-"697.5",
-"-178.0",
-"697.5",
-"-184.0",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"672.3",
-"-160.8",
-"673.3",
-"-178.0",
-"673.3",
-"-178.0",
-"681.4",
-"-192.1",
-"681.4",
-"-192.1",
-"693.5",
-"-202.2",
-"693.5",
-"-202.2",
-"705.6",
-"-205.2",
-"705.6",
-"-205.2",
-"715.7",
-"-206.2",
-"715.7",
-"-206.2",
-"726.8",
-"-200.2",
-"726.8",
-"-200.2",
-"746.0",
-"-177.0",
-"746.0",
-"-177.0",
-"754.0",
-"-160.8",
-"754.0",
-"-160.8",
-"749.0",
-"-168.9",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-},
-["week"] = 1,
-["faction"] = 2,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 19,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-},
-{
-2,
-3,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-16,
-17,
-14,
-15,
-},
-nil,
-{
-5,
-},
-{
-4,
-},
-{
-3,
-},
-[36] = {
-},
-["color"] = "3eff9e",
-},
-{
-{
-18,
-19,
-20,
-21,
-},
-{
-6,
-},
-{
-6,
-},
-{
-5,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3e3e",
-[10] = {
-},
-[9] = {
-},
-},
-{
-nil,
-{
-7,
-},
-{
-},
-{
-6,
-},
-["color"] = "3e9eff",
-[6] = {
-3,
-},
-[36] = {
-3,
-4,
-},
-},
-{
-[5] = {
-4,
-},
-[2] = {
-10,
-},
-[28] = {
-12,
-},
-["color"] = "fffb3e",
-},
-{
-{
-24,
-25,
-26,
-},
-{
-11,
-},
-nil,
-{
-7,
-},
-{
-5,
-},
-["color"] = "3eff3e",
-},
-{
-{
-28,
-27,
-29,
-},
-[5] = {
-6,
-},
-[6] = {
-4,
-},
-[4] = {
-8,
-},
-["color"] = "ff3e9e",
-},
-{
-[27] = {
-1,
-},
-[28] = {
-11,
-},
-[26] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-5,
-8,
-9,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[4] = {
-10,
-},
-[9] = {
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-16,
-},
-[9] = {
-4,
-},
-[25] = {
-14,
-15,
-16,
-},
-},
-{
-[11] = {
-1,
-},
-[23] = {
-7,
-8,
-9,
-10,
-},
-["color"] = "a1ff3e",
-},
-{
-[8] = {
-12,
-13,
-},
-[10] = {
-3,
-},
-["color"] = "ff3eff",
-[4] = {
-12,
-},
-[9] = {
-6,
-},
-[25] = {
-24,
-25,
-},
-},
-{
-[13] = {
-2,
-3,
-},
-[25] = {
-36,
-33,
-32,
-35,
-34,
-},
-[12] = {
-3,
-},
-[14] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[30] = {
-4,
-},
-[31] = {
-2,
-},
-[29] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[16] = {
-1,
-2,
-},
-[17] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[18] = {
-1,
-},
-[16] = {
-3,
-4,
-},
-[17] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[17] = {
-3,
-},
-[15] = {
-3,
-4,
-},
-[18] = {
-3,
-},
-},
-{
-{
-},
-{
-},
-{
-7,
-},
-[15] = {
-6,
-7,
-},
-[18] = {
-4,
-},
-["color"] = "ff3e9e",
-[19] = {
-1,
-2,
-},
-[16] = {
-9,
-},
-},
-{
-["color"] = "3effff",
-[16] = {
-},
-[15] = {
-},
-},
-{
-[24] = {
-3,
-2,
-1,
-4,
-},
-[12] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[5] = {
-10,
-},
-[10] = {
-7,
-},
-["color"] = "3e3eff",
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-[10] = {
-4,
-},
-["color"] = "a1ff3e",
-[4] = {
-13,
-},
-},
-{
-[20] = {
-4,
-3,
-},
-[21] = {
-2,
-},
-[10] = {
-5,
-},
-["color"] = "ff3eff",
-[4] = {
-14,
-},
-},
-{
-["color"] = "3eff9e",
-[5] = {
-11,
-},
-[20] = {
-2,
-},
-[24] = {
-6,
-5,
-},
-},
-{
-[32] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[34] = {
-1,
-},
-[33] = {
-1,
-},
-[35] = {
-1,
-},
-["color"] = "3e9eff",
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["difficulty"] = 2,
-["uid"] = "rVVYMmwPO(B",
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-{
-{
-["difficulty"] = 30,
-["value"] = {
-["currentPull"] = 5,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 20,
-["teeming"] = true,
-["selection"] = {
-5,
-},
-["pulls"] = {
-{
-{
-8,
-22,
-},
-{
-8,
-16,
-15,
-},
-{
-2,
-8,
-9,
-},
-{
-4,
-},
-{
-11,
-},
-["color"] = "ff3eff",
-},
-{
-{
-20,
-21,
-},
-{
-13,
-},
-{
-6,
-},
-{
-7,
-},
-{
-4,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[31] = {
-1,
-},
-[30] = {
-1,
-},
-},
-{
-{
-13,
-},
-{
-},
-{
-5,
-},
-nil,
-nil,
-{
-1,
-},
-{
-1,
-},
-{
-1,
-},
-{
-},
-{
-},
-[34] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-{
-18,
-},
-{
-10,
-9,
-},
-{
-},
-nil,
-nil,
-{
-},
-{
-3,
-},
-{
-3,
-},
-{
-1,
-},
-{
-1,
-},
-["color"] = "fffb3e",
-[34] = {
-},
-},
-{
-{
-},
-[6] = {
-2,
-},
-[7] = {
-},
-[8] = {
-},
-["color"] = "3eff3e",
-[34] = {
-2,
-},
-[12] = {
-1,
-},
-[11] = {
-1,
-},
-},
-{
-[6] = {
-6,
-},
-[7] = {
-4,
-},
-[8] = {
-5,
-4,
-},
-["color"] = "ff3e9e",
-[34] = {
-3,
-},
-[12] = {
-5,
-},
-},
-{
-{
-19,
-},
-[11] = {
-6,
-},
-[8] = {
-8,
-},
-["color"] = "3effff",
-[34] = {
-4,
-},
-[6] = {
-7,
-},
-},
-{
-["color"] = "ff9b3e",
-[8] = {
-7,
-6,
-},
-[7] = {
-6,
-5,
-7,
-},
-[12] = {
-6,
-},
-},
-{
-[20] = {
-1,
-},
-[13] = {
-1,
-},
-[32] = {
-1,
-},
-["color"] = "3e3eff",
-[23] = {
-1,
-},
-[43] = {
-1,
-},
-},
-{
-[27] = {
-2,
-},
-[15] = {
-1,
-4,
-},
-["color"] = "a1ff3e",
-[19] = {
-1,
-},
-[16] = {
-5,
-10,
-},
-[14] = {
-4,
-1,
-},
-},
-{
-[28] = {
-},
-[15] = {
-6,
-5,
-},
-[25] = {
-},
-["color"] = "ff3eff",
-[14] = {
-2,
-},
-[16] = {
-1,
-2,
-3,
-4,
-},
-[33] = {
-},
-},
-{
-["color"] = "3eff9e",
-[33] = {
-1,
-},
-[25] = {
-1,
-},
-[28] = {
-1,
-},
-},
-{
-[27] = {
-1,
-},
-[24] = {
-1,
-},
-[45] = {
-1,
-2,
-},
-["color"] = "ff3e3e",
-[41] = {
-1,
-},
-[29] = {
-1,
-},
-},
-{
-[24] = {
-2,
-},
-[45] = {
-4,
-3,
-},
-[29] = {
-2,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[42] = {
-7,
-6,
-8,
-5,
-11,
-10,
-12,
-9,
-},
-[17] = {
-6,
-},
-[35] = {
-1,
-2,
-4,
-3,
-},
-},
-},
-},
-},
-},
-{
-{
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["week"] = 8,
-["value"] = {
-["currentPull"] = 22,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-[6] = {
-4,
-3,
-},
-[7] = {
-20,
-},
-[8] = {
-},
-["color"] = "228b22",
-[5] = {
-3,
-1,
-2,
-7,
-30,
-},
-[9] = {
-},
-},
-{
-[8] = {
-1,
-},
-[6] = {
-6,
-7,
-},
-[9] = {
-1,
-},
-["color"] = "228b22",
-},
-{
-[5] = {
-10,
-11,
-12,
-},
-[36] = {
-1,
-},
-[7] = {
-2,
-},
-["color"] = "228b22",
-},
-{
-[8] = {
-5,
-},
-[36] = {
-3,
-},
-[7] = {
-3,
-},
-["color"] = "228b22",
-},
-{
-["color"] = "228b22",
-[7] = {
-9,
-10,
-},
-[9] = {
-6,
-},
-},
-{
-["color"] = "228b22",
-[7] = {
-},
-[9] = {
-4,
-5,
-},
-[8] = {
-9,
-},
-},
-{
-[6] = {
-10,
-},
-[7] = {
-12,
-11,
-},
-[8] = {
-},
-["color"] = "228b22",
-[9] = {
-},
-[36] = {
-7,
-},
-},
-{
-[8] = {
-12,
-},
-[6] = {
-11,
-},
-[7] = {
-13,
-},
-["color"] = "228b22",
-},
-{
-[11] = {
-1,
-},
-[6] = {
-12,
-},
-[9] = {
-7,
-},
-["color"] = "228b22",
-},
-{
-[14] = {
-1,
-2,
-4,
-3,
-},
-[13] = {
-1,
-},
-[15] = {
-1,
-},
-["color"] = "228b22",
-},
-{
-[14] = {
-5,
-6,
-},
-[13] = {
-4,
-3,
-2,
-},
-[15] = {
-3,
-2,
-},
-["color"] = "228b22",
-},
-{
-["color"] = "228b22",
-[13] = {
-5,
-9,
-10,
-},
-[15] = {
-4,
-5,
-8,
-9,
-},
-},
-{
-[18] = {
-1,
-2,
-3,
-},
-[19] = {
-1,
-},
-["color"] = "228b22",
-},
-{
-[18] = {
-6,
-4,
-5,
-},
-[19] = {
-2,
-3,
-},
-["color"] = "228b22",
-},
-{
-["color"] = "228b22",
-[13] = {
-},
-[20] = {
-},
-[15] = {
-},
-},
-{
-[27] = {
-17,
-20,
-},
-[24] = {
-9,
-},
-[25] = {
-10,
-11,
-},
-["color"] = "228b22",
-[26] = {
-8,
-},
-},
-{
-[24] = {
-7,
-3,
-},
-["color"] = "228b22",
-},
-{
-[27] = {
-18,
-},
-[28] = {
-25,
-26,
-27,
-28,
-29,
-},
-["color"] = "228b22",
-},
-{
-[24] = {
-6,
-},
-[28] = {
-},
-["color"] = "228b22",
-},
-{
-[27] = {
-7,
-8,
-6,
-},
-[25] = {
-7,
-},
-["color"] = "228b22",
-},
-{
-[27] = {
-5,
-},
-[25] = {
-6,
-},
-[24] = {
-2,
-1,
-},
-["color"] = "228b22",
-},
-{
-[13] = {
-13,
-14,
-12,
-},
-[35] = {
-2,
-7,
-8,
-},
-[28] = {
-18,
-16,
-17,
-19,
-15,
-},
-[15] = {
-13,
-11,
-12,
-},
-[30] = {
-2,
-},
-[31] = {
-2,
-},
-[32] = {
-1,
-},
-[20] = {
-1,
-},
-["color"] = "228b22",
-},
-},
-["currentDungeonIdx"] = 21,
-["teeming"] = true,
-["selection"] = {
-22,
-},
-["riftOffsets"] = {
-[8] = {
-},
-},
-},
-["difficulty"] = 6,
-},
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["week"] = 5,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 1,
-},
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-nil,
-nil,
-nil,
-nil,
-{
-2,
-1,
-3,
-30,
-7,
-10,
-11,
-12,
-13,
-14,
-15,
-25,
-26,
-27,
-28,
-29,
-21,
-20,
-18,
-19,
-},
-{
-3,
-4,
-12,
-10,
-14,
-13,
-11,
-},
-{
-20,
-21,
-2,
-9,
-10,
-19,
-6,
-7,
-8,
-12,
-11,
-15,
-14,
-13,
-},
-{
-9,
-6,
-8,
-7,
-10,
-12,
-},
-{
-7,
-3,
-6,
-4,
-5,
-},
-nil,
-{
-1,
-},
-{
-1,
-},
-{
-3,
-4,
-},
-{
-4,
-3,
-},
-{
-1,
-3,
-},
-[30] = {
-1,
-},
-[31] = {
-1,
-},
-["color"] = "228b22",
-[32] = {
-2,
-3,
-},
-[33] = {
-1,
-2,
-},
-[35] = {
-1,
-4,
-3,
-5,
-2,
-},
-[36] = {
-3,
-2,
-12,
-10,
-4,
-5,
-7,
-6,
-8,
-9,
-1,
-},
-[38] = {
-1,
-},
-[39] = {
-1,
-4,
-17,
-13,
-16,
-},
-[40] = {
-5,
-15,
-8,
-7,
-2,
-13,
-18,
-},
-[21] = {
-1,
-},
-[42] = {
-1,
-},
-[22] = {
-1,
-2,
-4,
-3,
-},
-[44] = {
-2,
-1,
-},
-[45] = {
-2,
-1,
-},
-[25] = {
-3,
-},
-[27] = {
-1,
-},
-[28] = {
-3,
-1,
-2,
-},
-[43] = {
-1,
-},
-[29] = {
-1,
-},
-[41] = {
-11,
-15,
-17,
-9,
-8,
-2,
-},
-},
-},
-["currentDungeonIdx"] = 21,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-[11] = {
-},
-[5] = {
-},
-},
-},
-["text"] = "Default 2",
-["objects"] = {
-},
-["difficulty"] = 15,
-},
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["week"] = 2,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["selection"] = {
-31,
-},
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-[39] = {
-1,
-},
-["color"] = "ff3eff",
-[41] = {
-11,
-},
-[5] = {
-2,
-1,
-3,
-},
-[40] = {
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[6] = {
-1,
-2,
-},
-[5] = {
-4,
-},
-},
-{
-[6] = {
-17,
-},
-[7] = {
-1,
-},
-["color"] = "ff3e3e",
-[5] = {
-5,
-6,
-},
-[40] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-3,
-4,
-},
-[7] = {
-20,
-},
-[5] = {
-30,
-7,
-},
-},
-{
-[8] = {
-4,
-},
-["color"] = "fffb3e",
-[41] = {
-1,
-},
-[9] = {
-2,
-},
-},
-{
-[6] = {
-5,
-},
-[40] = {
-6,
-},
-[41] = {
-12,
-},
-[5] = {
-8,
-9,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[6] = {
-6,
-},
-[8] = {
-1,
-},
-[39] = {
-2,
-},
-},
-{
-["color"] = "3effff",
-[43] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[40] = {
-},
-[7] = {
-},
-[5] = {
-},
-},
-{
-[8] = {
-15,
-},
-[39] = {
-3,
-},
-["color"] = "3e3eff",
-[41] = {
-6,
-},
-[5] = {
-22,
-24,
-23,
-},
-},
-{
-[7] = {
-3,
-},
-[8] = {
-5,
-},
-[39] = {
-12,
-},
-["color"] = "a1ff3e",
-[41] = {
-13,
-},
-},
-{
-[7] = {
-9,
-10,
-},
-[39] = {
-13,
-},
-["color"] = "ff3eff",
-[5] = {
-13,
-14,
-15,
-},
-[9] = {
-3,
-6,
-},
-},
-{
-[8] = {
-9,
-},
-[9] = {
-4,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-[6] = {
-8,
-10,
-},
-[7] = {
-4,
-5,
-6,
-7,
-8,
-12,
-11,
-},
-[38] = {
-1,
-},
-["color"] = "ff3e3e",
-[41] = {
-8,
-},
-[8] = {
-6,
-10,
-},
-},
-{
-[6] = {
-11,
-},
-[7] = {
-13,
-},
-[8] = {
-12,
-},
-["color"] = "3e9eff",
-[40] = {
-18,
-},
-},
-{
-[6] = {
-14,
-},
-[7] = {
-15,
-},
-["color"] = "fffb3e",
-[5] = {
-20,
-21,
-},
-[40] = {
-13,
-},
-},
-{
-[6] = {
-13,
-},
-[7] = {
-14,
-},
-["color"] = "3eff3e",
-[41] = {
-2,
-},
-[5] = {
-18,
-19,
-},
-},
-{
-[6] = {
-12,
-},
-[7] = {
-21,
-},
-["color"] = "ff3e9e",
-[41] = {
-15,
-},
-[9] = {
-7,
-},
-[11] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[12] = {
-1,
-},
-[44] = {
-},
-},
-{
-[13] = {
-1,
-},
-[15] = {
-1,
-},
-[39] = {
-4,
-17,
-},
-["color"] = "ff9b3e",
-[14] = {
-4,
-3,
-1,
-2,
-},
-[40] = {
-14,
-},
-},
-{
-[13] = {
-4,
-3,
-2,
-},
-[15] = {
-3,
-2,
-},
-[40] = {
-15,
-},
-[14] = {
-5,
-6,
-},
-["color"] = "3e3eff",
-},
-{
-[13] = {
-5,
-10,
-9,
-},
-[15] = {
-5,
-4,
-8,
-9,
-},
-[40] = {
-3,
-},
-[41] = {
-16,
-},
-["color"] = "a1ff3e",
-},
-{
-[13] = {
-6,
-},
-[15] = {
-7,
-6,
-},
-[39] = {
-5,
-},
-["color"] = "ff3eff",
-[41] = {
-10,
-},
-[16] = {
-1,
-},
-[14] = {
-7,
-},
-},
-{
-["color"] = "3eff9e",
-[44] = {
-1,
-},
-},
-{
-[21] = {
-1,
-},
-[22] = {
-1,
-2,
-4,
-3,
-},
-["color"] = "ff3e3e",
-[45] = {
-},
-},
-{
-[27] = {
-1,
-},
-[28] = {
-1,
-2,
-3,
-},
-[25] = {
-3,
-},
-["color"] = "3e9eff",
-[41] = {
-17,
-},
-},
-{
-["color"] = "fffb3e",
-[45] = {
-},
-[26] = {
-1,
-},
-[25] = {
-2,
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[45] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[29] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[31] = {
-1,
-},
-[40] = {
-8,
-},
-[30] = {
-1,
-},
-},
-{
-[36] = {
-},
-[7] = {
-2,
-},
-[33] = {
-1,
-2,
-},
-[32] = {
-3,
-2,
-},
-["color"] = "ff9b3e",
-[35] = {
-1,
-},
-[5] = {
-10,
-11,
-12,
-},
-[40] = {
-7,
-},
-},
-{
-["color"] = "3e3eff",
-[42] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 21,
-["teeming"] = false,
-["currentPull"] = 31,
-["riftOffsets"] = {
-[2] = {
-[161124] = {
-["y"] = -367.0130984933503,
-["x"] = 451.6751477327938,
-},
-[161244] = {
-["y"] = -127.1895486137645,
-["x"] = 473.739919640749,
-},
-[161243] = {
-["y"] = -193.045104744705,
-["x"] = 569.4317696983693,
-},
-[161241] = {
-["y"] = -135.9430412389569,
-["x"] = 272.9786296995198,
-},
-},
-},
-},
-["text"] = "Week 2 - Bolstering",
-["difficulty"] = 10,
-["objects"] = {
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["week"] = 10,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 22,
-["teeming"] = false,
-["pulls"] = {
-{
-nil,
-{
-3,
-1,
-},
-{
-7,
-6,
-8,
-1,
-},
-{
-6,
-5,
-2,
-3,
-1,
-},
-{
-6,
-4,
-3,
-1,
-},
-{
-1,
-},
-{
-3,
-4,
-5,
-1,
-2,
-},
-{
-7,
-8,
-6,
-10,
-5,
-4,
-9,
-},
-{
-7,
-6,
-9,
-8,
-},
-{
-1,
-2,
-3,
-13,
-15,
-12,
-14,
-},
-{
-1,
-2,
-6,
-5,
-},
-{
-1,
-3,
-2,
-},
-{
-13,
-1,
-12,
-},
-{
-1,
-4,
-5,
-},
-},
-},
-},
-},
-},
-{
-{
-["difficulty"] = 10,
-["week"] = 4,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 3,
-["riftOffsets"] = {
-[4] = {
-},
-},
-["currentDungeonIdx"] = 23,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-["color"] = "ff3eff",
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-},
-},
-nil,
-{
-{
-["difficulty"] = 11,
-["week"] = 9,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[9] = {
-},
-},
-["currentDungeonIdx"] = 25,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-["color"] = "ff3eff",
-},
-},
-},
-["mdi"] = {
-["freehold"] = 1,
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-},
-},
-{
-["mdi"] = {
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-["freehold"] = 1,
-},
-["week"] = 9,
-["objects"] = {
-},
-["value"] = {
-["selection"] = {
-1,
-},
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[9] = {
-[161244] = {
-["y"] = -331.5151547739791,
-["x"] = 595.3460688074184,
-},
-[161243] = {
-["y"] = -330.3388245740537,
-["x"] = 479.1810443619242,
-},
-[161124] = {
-["y"] = -146.6743952677298,
-["x"] = 518.9421548406202,
-},
-},
-},
-["currentDungeonIdx"] = 25,
-["teeming"] = false,
-["currentPull"] = 1,
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-},
-nil,
-{
-1,
-},
-{
-9,
-10,
-},
-{
-6,
-9,
-10,
-8,
-7,
-11,
-4,
-},
-{
-4,
-3,
-8,
-9,
-7,
-6,
-5,
-},
-{
-9,
-},
-{
-11,
-12,
-9,
-44,
-43,
-45,
-26,
-27,
-25,
-28,
-29,
-30,
-},
-{
-7,
-},
-{
-6,
-1,
-3,
-},
-{
-2,
-3,
-},
-{
-8,
-9,
-11,
-10,
-5,
-4,
-},
-{
-2,
-4,
-3,
-},
-nil,
-{
-2,
-4,
-3,
-},
-{
-2,
-1,
-3,
-4,
-},
-{
-1,
-},
-{
-1,
-},
-{
-1,
-},
-{
-5,
-4,
-},
-{
-1,
-2,
-5,
-4,
-6,
-},
-{
-6,
-4,
-3,
-},
-{
-17,
-14,
-13,
-10,
-8,
-9,
-11,
-12,
-6,
-7,
-},
-{
-4,
-2,
-3,
-5,
-6,
-8,
-},
-{
-2,
-1,
-5,
-},
-{
-3,
-1,
-},
-[29] = {
-1,
-2,
-3,
-},
-["color"] = "228b22",
-},
-},
-},
-["text"] = "burst",
-["difficulty"] = 10,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 1,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-nil,
-nil,
-nil,
-{
-{
-["mdiEnabled"] = false,
-["week"] = 5,
-["value"] = {
-["currentPull"] = 10,
-["currentSublevel"] = 4,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-1,
-2,
-3,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-6,
-4,
-5,
-},
-{
-4,
-},
-nil,
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[16] = {
-1,
-},
-[17] = {
-2,
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[17] = {
-},
-[15] = {
-},
-[18] = {
-1,
-2,
-},
-["color"] = "fffb3e",
-[16] = {
-2,
-},
-},
-{
-[17] = {
-4,
-3,
-5,
-},
-[15] = {
-2,
-},
-[18] = {
-},
-["color"] = "3eff3e",
-[16] = {
-},
-},
-{
-[18] = {
-3,
-4,
-},
-[16] = {
-3,
-},
-[15] = {
-3,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-},
-},
-{
-{
-7,
-},
-[3] = {
-3,
-2,
-},
-[4] = {
-5,
-6,
-3,
-4,
-},
-["color"] = "ff9b3e",
-},
-{
-[7] = {
-1,
-},
-[8] = {
-2,
-3,
-1,
-4,
-},
-[10] = {
-1,
-},
-["color"] = "3e3eff",
-[9] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[9] = {
-4,
-2,
-3,
-},
-},
-{
-["color"] = "ff3eff",
-[11] = {
-2,
-},
-[7] = {
-2,
-},
-[8] = {
-6,
-8,
-5,
-7,
-},
-},
-{
-["color"] = "3eff9e",
-[11] = {
-1,
-3,
-},
-},
-{
-["color"] = "ff3e3e",
-[12] = {
-1,
-2,
-3,
-},
-},
-{
-[14] = {
-1,
-},
-[13] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[6] = {
-2,
-},
-},
-{
-{
-8,
-},
-{
-6,
-5,
-7,
-},
-nil,
-{
-7,
-},
-{
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[24] = {
-4,
-3,
-1,
-2,
-},
-[25] = {
-5,
-4,
-},
-[26] = {
-},
-[27] = {
-},
-["color"] = "ff3e9e",
-[20] = {
-1,
-2,
-4,
-3,
-},
-[21] = {
-2,
-3,
-1,
-},
-[22] = {
-2,
-1,
-3,
-4,
-},
-[23] = {
-1,
-2,
-},
-},
-{
-[20] = {
-5,
-},
-[24] = {
-6,
-9,
-12,
-7,
-11,
-},
-[21] = {
-6,
-7,
-},
-["color"] = "3effff",
-[28] = {
-1,
-},
-},
-{
-[20] = {
-6,
-},
-[25] = {
-7,
-},
-["color"] = "ff9b3e",
-[26] = {
-16,
-14,
-15,
-},
-[27] = {
-3,
-4,
-},
-},
-{
-[20] = {
-8,
-7,
-},
-[24] = {
-13,
-14,
-},
-[21] = {
-9,
-},
-[22] = {
-8,
-7,
-},
-[23] = {
-4,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[30] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 29,
-["teeming"] = false,
-["selection"] = {
-10,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["difficulty"] = 11,
-},
-{
-["objects"] = {
-{
-["d"] = {
-344.3108399849504,
--440.4232910587124,
-1,
-true,
-"Use this urn on the big guy if you have a Night Fae.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-452.2339949182507,
--473.2320716565342,
-1,
-true,
-"U-turn after this and go to Hakkar.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-480.4359654749304,
--247.5697339372276,
-3,
-true,
-"Urn here if you have a night fae.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-503.412609276408,
--346.3409036197118,
-2,
-true,
-"You can chain pull here as you feel safe. Also, if you have an engineer, they can turn off the slimes using the console to your left as you walk into this room.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-548.1106734965242,
--300.3823417293904,
-1,
-true,
-"Urn here (you can combine these pulls with it if you feel safe.)",
-},
-["n"] = true,
-},
-{
-["d"] = {
-436.2790759683894,
--218.4563607098215,
-4,
-true,
-"Urn here!\n\nWith prideful and the urn this pull should be doable but if you have extra time (which is rare in this dungeon) then you can slow down.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-5,
-1,
-4,
-true,
-"1bff00",
--8,
-},
-["t"] = {
-2.478486140709381,
-},
-["l"] = {
-"481.2",
-"-214.4",
-"531.1",
-"-253.4",
-},
-},
-{
-["n"] = true,
-["d"] = {
-510.2258236620871,
--243.7520578328926,
-4,
-true,
-"Skip here with invis pot or shroud.",
-},
-},
-},
-["week"] = 7,
-["difficulty"] = 15,
-["mdi"] = {
-["freehold"] = 1,
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-},
-["value"] = {
-["selection"] = {
-31,
-},
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[5] = {
-},
-[6] = {
-},
-[4] = {
-},
-[7] = {
-},
-},
-["currentDungeonIdx"] = 29,
-["teeming"] = false,
-["currentPull"] = 31,
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-2,
-3,
-},
-{
-2,
-3,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-6,
-4,
-5,
-},
-{
-4,
-},
-nil,
-{
-1,
-2,
-},
-{
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[6] = {
-1,
-},
-},
-{
-{
-7,
-},
-[4] = {
-4,
-6,
-3,
-5,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[3] = {
-2,
-3,
-},
-},
-{
-["color"] = "ff3e9e",
-[16] = {
-1,
-},
-[17] = {
-1,
-2,
-},
-[15] = {
-1,
-},
-},
-{
-[18] = {
-1,
-2,
-},
-[16] = {
-2,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[15] = {
-2,
-},
-[17] = {
-3,
-4,
-5,
-},
-},
-{
-["color"] = "3e3eff",
-[16] = {
-3,
-},
-[15] = {
-3,
-},
-[18] = {
-4,
-3,
-},
-},
-{
-["color"] = "a1ff3e",
-[19] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[7] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[10] = {
-1,
-},
-[9] = {
-1,
-},
-[8] = {
-2,
-3,
-1,
-4,
-},
-},
-{
-["color"] = "ff3e3e",
-[9] = {
-2,
-4,
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[7] = {
-2,
-},
-},
-{
-["color"] = "fffb3e",
-[8] = {
-5,
-6,
-8,
-7,
-},
-[11] = {
-2,
-},
-},
-{
-["color"] = "3eff3e",
-[11] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[11] = {
-3,
-},
-},
-{
-["color"] = "3effff",
-[12] = {
-2,
-1,
-3,
-},
-},
-{
-[14] = {
-1,
-},
-[13] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[6] = {
-2,
-},
-},
-{
-[5] = {
-2,
-},
-[2] = {
-6,
-5,
-7,
-},
-["color"] = "a1ff3e",
-},
-{
-{
-8,
-},
-[4] = {
-7,
-},
-["color"] = "ff3eff",
-},
-{
-[20] = {
-2,
-1,
-3,
-4,
-},
-[24] = {
-1,
-2,
-},
-[21] = {
-1,
-},
-[22] = {
-},
-[23] = {
-},
-["color"] = "3eff9e",
-},
-{
-[24] = {
-3,
-4,
-},
-[21] = {
-2,
-3,
-},
-["color"] = "ff3e3e",
-[23] = {
-1,
-},
-[22] = {
-2,
-1,
-},
-},
-{
-[24] = {
-},
-[28] = {
-},
-["color"] = "3e9eff",
-[22] = {
-3,
-4,
-},
-[26] = {
-},
-[23] = {
-2,
-},
-[21] = {
-},
-},
-{
-[27] = {
-},
-[24] = {
-6,
-9,
-},
-[21] = {
-6,
-},
-[22] = {
-},
-[26] = {
-13,
-2,
-7,
-5,
-1,
-8,
-3,
-6,
-},
-[23] = {
-},
-["color"] = "fffb3e",
-},
-{
-[24] = {
-5,
-8,
-10,
-7,
-11,
-12,
-},
-[25] = {
-},
-[26] = {
-},
-[27] = {
-},
-["color"] = "3eff3e",
-[20] = {
-5,
-},
-[21] = {
-4,
-8,
-5,
-7,
-},
-[22] = {
-},
-[23] = {
-},
-},
-{
-[20] = {
-8,
-7,
-},
-[24] = {
-},
-[21] = {
-},
-[25] = {
-},
-[22] = {
-8,
-7,
-},
-[26] = {
-},
-[23] = {
-4,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[29] = {
-1,
-},
-},
-{
-[24] = {
-},
-[25] = {
-},
-[26] = {
-},
-[27] = {
-},
-["color"] = "ff9b3e",
-[30] = {
-1,
-},
-[20] = {
-},
-[22] = {
-},
-[23] = {
-},
-},
-},
-},
-["text"] = "Tyrannical DOS",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["uid"] = "bcIBLfz8TVt",
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
 {
 ["difficulty"] = 11,
 ["week"] = 5,
-["value"] = {
-["currentPull"] = 20,
-["currentSublevel"] = 3,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-6,
-},
-{
-1,
-},
-{
-2,
-1,
-},
-{
-3,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[2] = {
-4,
-},
-[3] = {
-5,
-6,
-},
-[6] = {
-5,
-2,
-3,
-4,
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[8] = {
-1,
-},
-[7] = {
-1,
-},
-[4] = {
-5,
-6,
-},
-},
-{
-["color"] = "3e9eff",
-[8] = {
-3,
-},
-[7] = {
-3,
-},
-[4] = {
-16,
-15,
-},
-},
-{
-{
-},
-{
-8,
-},
-{
-16,
-15,
-},
-{
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[2] = {
-9,
-},
-[3] = {
-17,
-18,
-},
-[6] = {
-18,
-20,
-17,
-19,
-15,
-},
-},
-{
-[8] = {
-2,
-},
-["color"] = "ff3e9e",
-[7] = {
-2,
-},
-[4] = {
-12,
-13,
-},
-},
-{
-{
-10,
-},
-["color"] = "3effff",
-[4] = {
-10,
-},
-},
-{
-{
-9,
-},
-{
-6,
-},
-{
-11,
-12,
-},
-{
-11,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[9] = {
-1,
-},
-},
-{
-{
-11,
-12,
-},
-["color"] = "a1ff3e",
-[4] = {
-9,
-14,
-},
-},
-{
-["color"] = "ff3eff",
-[13] = {
-},
-[12] = {
-6,
-},
-[10] = {
-6,
-},
-},
-{
-["color"] = "3eff9e",
-[13] = {
-4,
-2,
-},
-},
-{
-["color"] = "ff3e3e",
-[14] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[2] = {
-10,
-11,
-},
-[3] = {
-20,
-21,
-19,
-},
-},
-{
-{
-18,
-17,
-},
-["color"] = "fffb3e",
-[4] = {
-21,
-},
-[7] = {
-4,
-},
-},
-{
-["color"] = "3eff3e",
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[16] = {
-10,
-8,
-9,
-11,
-6,
-7,
-1,
-2,
-4,
-5,
-3,
-24,
-18,
-20,
-21,
-22,
-23,
-19,
-12,
-16,
-17,
-13,
-14,
-15,
-},
-[17] = {
-},
-},
-{
-["color"] = "3effff",
-[17] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[18] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-20,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-},
-{
-["difficulty"] = 11,
-["week"] = 5,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-1,
-},
-{
-1,
-},
-{
-1,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-6,
-},
-["color"] = "3eff9e",
-[6] = {
-5,
-},
-[4] = {
-2,
-},
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-4,
-},
-[3] = {
-5,
-6,
-},
-},
-{
-["color"] = "3e9eff",
-[8] = {
-1,
-},
-[7] = {
-1,
-},
-[4] = {
-},
-},
-{
-["color"] = "fffb3e",
-[8] = {
-},
-[7] = {
-3,
-},
-[4] = {
-16,
-15,
-},
-},
-{
-["color"] = "3eff3e",
-[2] = {
-},
-[3] = {
-},
-},
-{
-["color"] = "ff3e9e",
-[2] = {
-9,
-},
-[3] = {
-17,
-18,
-},
-[6] = {
-},
-},
-{
-[6] = {
-},
-[7] = {
-2,
-},
-[8] = {
-},
-["color"] = "3effff",
-[4] = {
-12,
-},
-},
-{
-{
-10,
-},
-["color"] = "ff9b3e",
-[4] = {
-10,
-},
-},
-{
-{
-},
-{
-6,
-},
-{
-11,
-12,
-},
-{
-11,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[9] = {
-},
-},
-{
-{
-11,
-12,
-},
-["color"] = "ff3eff",
-[4] = {
-9,
-14,
-},
-},
-{
-{
-15,
-},
-["color"] = "3eff9e",
-[10] = {
-},
-[4] = {
-},
-[12] = {
-6,
-},
-},
-{
-["color"] = "ff3e3e",
-[11] = {
-12,
-11,
-13,
-14,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-},
-},
-{
-["color"] = "fffb3e",
-[14] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[2] = {
-11,
-10,
-},
-[3] = {
-20,
-21,
-19,
-},
-},
-{
-{
-17,
-},
-["color"] = "ff3e9e",
-[4] = {
-},
-[7] = {
-},
-},
-{
-["color"] = "3effff",
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[16] = {
-1,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[18] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Retard Route",
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["objects"] = {
-},
-},
-{
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-546.4011042082689,
--143.9265677641711,
-1,
-true,
-"Prideful 1",
-},
-},
-{
-["l"] = {
-"552.0",
-"-141.9",
-"554.7",
-"-142.2",
-"554.7",
-"-142.2",
-"557.6",
-"-143.5",
-"557.6",
-"-143.5",
-"560.5",
-"-145.9",
-"560.5",
-"-145.9",
-"563.1",
-"-148.2",
-"563.1",
-"-148.2",
-"565.5",
-"-150.9",
-"565.5",
-"-150.9",
-"568.2",
-"-153.8",
-"568.2",
-"-153.8",
-"570.3",
-"-156.7",
-"570.3",
-"-156.7",
-"571.8",
-"-159.3",
-"571.8",
-"-159.3",
-"573.2",
-"-162.0",
-"573.2",
-"-162.0",
-"575.0",
-"-164.6",
-"575.0",
-"-164.6",
-"576.9",
-"-167.5",
-"576.9",
-"-167.5",
-"578.1",
-"-170.2",
-"578.1",
-"-170.2",
-"579.5",
-"-173.1",
-"579.5",
-"-173.1",
-"580.5",
-"-175.7",
-"580.5",
-"-175.7",
-"581.6",
-"-178.6",
-"581.6",
-"-178.6",
-"582.4",
-"-181.5",
-"582.4",
-"-181.5",
-"583.4",
-"-184.4",
-"583.4",
-"-184.4",
-"584.5",
-"-187.0",
-"584.5",
-"-187.0",
-"585.6",
-"-189.9",
-"585.6",
-"-189.9",
-"586.6",
-"-192.8",
-"586.6",
-"-192.8",
-"587.4",
-"-195.7",
-"587.4",
-"-195.7",
-"588.7",
-"-198.9",
-"588.7",
-"-198.9",
-"589.5",
-"-201.8",
-"589.5",
-"-201.8",
-"590.6",
-"-204.4",
-"590.6",
-"-204.4",
-"591.9",
-"-207.6",
-"591.9",
-"-207.6",
-"593.2",
-"-210.5",
-"593.2",
-"-210.5",
-"594.5",
-"-213.4",
-"594.5",
-"-213.4",
-"596.1",
-"-216.5",
-"596.1",
-"-216.5",
-"597.4",
-"-219.4",
-"597.4",
-"-219.4",
-"599.5",
-"-222.9",
-"599.5",
-"-222.9",
-"601.9",
-"-226.3",
-"601.9",
-"-226.3",
-"603.7",
-"-229.4",
-"603.7",
-"-229.4",
-"606.1",
-"-232.6",
-"606.1",
-"-232.6",
-"607.9",
-"-235.5",
-"607.9",
-"-235.5",
-"610.3",
-"-238.6",
-"610.3",
-"-238.6",
-"612.2",
-"-241.3",
-"612.2",
-"-241.3",
-"614.3",
-"-244.4",
-"614.3",
-"-244.4",
-"616.4",
-"-247.3",
-"616.4",
-"-247.3",
-"618.2",
-"-250.0",
-"618.2",
-"-250.0",
-"620.1",
-"-252.9",
-"620.1",
-"-252.9",
-"621.9",
-"-256.0",
-"621.9",
-"-256.0",
-"623.5",
-"-258.7",
-"623.5",
-"-258.7",
-"625.3",
-"-261.8",
-"625.3",
-"-261.8",
-"627.2",
-"-264.7",
-"627.2",
-"-264.7",
-"629.1",
-"-267.4",
-"629.1",
-"-267.4",
-"630.6",
-"-270.3",
-"630.6",
-"-270.3",
-"632.2",
-"-272.9",
-"632.2",
-"-272.9",
-"633.8",
-"-275.8",
-"633.8",
-"-275.8",
-"636.4",
-"-278.5",
-"636.4",
-"-278.5",
-"636.9",
-"-275.3",
-"636.9",
-"-275.3",
-"636.9",
-"-272.7",
-"636.9",
-"-272.7",
-"636.9",
-"-270.0",
-},
-["d"] = {
-8,
-1.1,
-1,
-true,
-"9dfffb",
--8,
-true,
-},
-},
-{
-["l"] = {
-"635.4",
-"-276.9",
-"632.7",
-"-277.4",
-"632.7",
-"-277.4",
-"629.8",
-"-277.4",
-"629.8",
-"-277.4",
-"628.0",
-"-277.4",
-},
-["d"] = {
-8,
-1.1,
-1,
-true,
-"9dfffb",
--7,
-true,
-},
-},
-{
-["n"] = true,
-["d"] = {
-542.1461873113435,
--405.7917781141544,
-1,
-true,
-"Prideful 2",
-},
-},
-{
-["n"] = true,
-["d"] = {
-506.8288438720744,
--325.6804273015275,
-1,
-true,
-"Prideful 3 into boss with Stoneborn",
-},
-},
-{
-["n"] = true,
-["d"] = {
-250.9995554867853,
--301.0399508773489,
-1,
-true,
-"Prideful 4 into boss",
-},
-},
-{
-["n"] = true,
-["d"] = {
-329.622210104768,
--271.9016572819921,
-3,
-true,
-"Prideful 5 into boss",
-},
-},
-},
-["week"] = 1,
-["colorPaletteInfo"] = {
-["colorPaletteIdx"] = 6,
-["numberCustomColors"] = 5,
-["autoColoring"] = true,
-["customPaletteValues"] = {
-{
-0.807843137254902,
-0.5882352941176471,
-0.9333333333333333,
-},
-{
-0.4313725490196079,
-0.4862745098039216,
-1,
-},
-{
-0.1882352941176471,
-0.7176470588235294,
-1,
-},
-{
-0.5254901960784314,
-0.8862745098039215,
-1,
-},
-{
-1,
-0.5098039215686274,
-0.9294117647058824,
-},
-{
-0.6588235294117647,
-0,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-{
-1,
-1,
-1,
-},
-},
-},
-["value"] = {
-["currentPull"] = 8,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-},
-{
-1,
-},
-{
-2,
-1,
-},
-{
-},
-["color"] = "ce96ee",
-},
-{
-{
-6,
-},
-{
-4,
-},
-{
-5,
-6,
-},
-{
-2,
-},
-nil,
-{
-5,
-3,
-2,
-4,
-1,
-},
-{
-},
-{
-},
-["color"] = "6e7cff",
-},
-{
-[6] = {
-},
-[7] = {
-1,
-},
-[8] = {
-1,
-},
-["color"] = "30b7ff",
-[4] = {
-5,
-6,
-},
-},
-{
-{
-},
-nil,
-nil,
-{
-16,
-15,
-},
-nil,
-{
-},
-{
-3,
-},
-{
-3,
-},
-["color"] = "86e2ff",
-},
-{
-{
-10,
-},
-{
-8,
-},
-{
-15,
-16,
-},
-{
-10,
-},
-nil,
-{
-15,
-},
-["color"] = "ff82ed",
-},
-{
-["color"] = "ce96ee",
-[8] = {
-2,
-},
-[4] = {
-12,
-13,
-},
-[7] = {
-2,
-},
-},
-{
-{
-},
-{
-7,
-},
-{
-13,
-14,
-},
-{
-},
-nil,
-{
-},
-["color"] = "6e7cff",
-},
-{
-{
-9,
-},
-{
-6,
-},
-{
-11,
-12,
-},
-{
-11,
-},
-["color"] = "30b7ff",
-},
-{
-["color"] = "86e2ff",
-[9] = {
-1,
-},
-},
-{
-{
-11,
-},
-["color"] = "ff82ed",
-[4] = {
-9,
-},
-},
-{
-{
-15,
-},
-[11] = {
-15,
-11,
-12,
-13,
-14,
-},
-[10] = {
-6,
-},
-[12] = {
-6,
-},
-[4] = {
-19,
-},
-["color"] = "ce96ee",
-},
-{
-["color"] = "6e7cff",
-[13] = {
-3,
-4,
-2,
-},
-},
-{
-["color"] = "30b7ff",
-[14] = {
-1,
-},
-},
-{
-["color"] = "86e2ff",
-[2] = {
-11,
-10,
-},
-[3] = {
-20,
-21,
-19,
-},
-},
-{
-{
-17,
-18,
-},
-["color"] = "ff82ed",
-[4] = {
-21,
-},
-[7] = {
-4,
-},
-},
-{
-["color"] = "ce96ee",
-[15] = {
-1,
-},
-},
-{
-["color"] = "6e7cff",
-[17] = {
-1,
-},
-},
-{
-["color"] = "ff0600",
-[18] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-8,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Metro - Halls of Atonement 2",
-["difficulty"] = 15,
 ["mdi"] = {
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 ["freehold"] = 1,
 },
-},
-{
-["difficulty"] = 10,
-["week"] = 7,
-["value"] = {
-["currentPull"] = 19,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-},
-{
-1,
-},
-{
-2,
-1,
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-{
-6,
-},
-["color"] = "3eff9e",
-[6] = {
-2,
-3,
-4,
-1,
-5,
-},
-[4] = {
-2,
-},
-},
-{
-{
-},
-{
-4,
-},
-{
-5,
-6,
-},
-{
-6,
-5,
-},
-nil,
-nil,
-{
-},
-{
-},
-["color"] = "ff3e3e",
-},
-{
-[6] = {
-6,
-7,
-8,
-9,
-},
-[7] = {
-1,
-},
-[8] = {
-1,
-},
-["color"] = "3e9eff",
-[4] = {
-},
-},
-{
-{
-4,
-3,
-},
-{
-},
-{
-},
-{
-1,
-3,
-},
-["color"] = "fffb3e",
-},
-{
-[8] = {
-3,
-},
-[4] = {
-15,
-16,
-},
-[7] = {
-3,
-},
-["color"] = "3eff3e",
-},
-{
-[6] = {
-24,
-27,
-25,
-26,
-},
-[7] = {
-},
-[8] = {
-},
-["color"] = "ff3e9e",
-[4] = {
-},
-},
-{
-{
-10,
-},
-{
-7,
-},
-{
-13,
-14,
-},
-{
-10,
-},
-["color"] = "3effff",
-},
-{
-{
-},
-{
-8,
-},
-{
-16,
-15,
-},
-{
-},
-nil,
-{
-},
-["color"] = "ff9b3e",
-},
-{
-[6] = {
-},
-[7] = {
-2,
-},
-[8] = {
-2,
-},
-["color"] = "3e3eff",
-[4] = {
-12,
-13,
-},
-},
-{
-{
-11,
-12,
-},
-{
-},
-{
-},
-{
-9,
-14,
-},
-nil,
-{
-22,
-16,
-21,
-23,
-},
-["color"] = "a1ff3e",
-},
-{
-{
-9,
-},
-{
-6,
-},
-{
-11,
-12,
-},
-{
-11,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[9] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[14] = {
-1,
-},
-},
-{
-[3] = {
-21,
-20,
-19,
-},
-[2] = {
-10,
-11,
-},
-["color"] = "3e9eff",
-},
-{
-{
-17,
-18,
-},
-["color"] = "fffb3e",
-[4] = {
-21,
-},
-[7] = {
-4,
-},
-},
-{
-["color"] = "3eff3e",
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[16] = {
-22,
-18,
-20,
-21,
-23,
-19,
-15,
-16,
-17,
-12,
-13,
-14,
-10,
-8,
-9,
-11,
-6,
-7,
-3,
-1,
-2,
-4,
-5,
-24,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[18] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-19,
-},
-["riftOffsets"] = {
-[5] = {
-},
-[6] = {
-},
-[4] = {
-},
-[7] = {
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "1.7 HOA w/ Skips by Dratnos",
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["objects"] = {
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"1bff00",
--8,
-},
-["t"] = {
--0.1897883973373674,
-},
-["l"] = {
-"445.3",
-"-341.7",
-"250.2",
-"-304.2",
-},
-},
-{
-["n"] = true,
-["d"] = {
-408.8968029312432,
--328.722857269872,
-1,
-true,
-"Skip",
-},
-},
-{
-["n"] = true,
-["d"] = {
-554.5275866516164,
--415.0770417873064,
-1,
-true,
-"No big deal if this thing pulls at any time.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-627.6802677666751,
--388.6446936001326,
-1,
-true,
-"You can chain these guys in as it feels safe to (during Pride if your tank is tanky)",
-},
-},
-},
-},
-{
-["mdiEnabled"] = false,
-["week"] = 9,
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 4,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-1,
-6,
-3,
-},
-{
-1,
-4,
-},
-{
-1,
-2,
-5,
-6,
-},
-{
-2,
-3,
-},
-{
-},
-{
-5,
-4,
-2,
-3,
-1,
-},
-{
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-{
-4,
-5,
-},
-{
-2,
-},
-{
-3,
-4,
-},
-{
-6,
-5,
-1,
-4,
-},
-nil,
-{
-7,
-6,
-8,
-9,
-},
-{
-1,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-10,
-},
-{
-7,
-},
-{
-13,
-14,
-},
-{
-10,
-15,
-16,
-},
-nil,
-{
-24,
-27,
-25,
-26,
-},
-{
-3,
-},
-{
-3,
-},
-["color"] = "ff3e3e",
-[13] = {
-},
-},
-{
-{
-11,
-12,
-},
-{
-},
-{
-},
-{
-13,
-12,
-9,
-14,
-},
-nil,
-{
-22,
-16,
-21,
-23,
-19,
-20,
-17,
-18,
-15,
-},
-{
-2,
-},
-{
-2,
-},
-["color"] = "3e9eff",
-[13] = {
-},
-},
-{
-["color"] = "fffb3e",
-[9] = {
-1,
-},
-},
-{
-{
-},
-{
-},
-{
-},
-{
-},
-nil,
-{
-},
-["color"] = "3eff3e",
-[13] = {
-},
-},
-{
-["color"] = "ff3e9e",
-[14] = {
-1,
-},
-},
-{
-{
-18,
-17,
-},
-{
-10,
-11,
-},
-{
-21,
-20,
-19,
-},
-{
-21,
-},
-[7] = {
-4,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[15] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[16] = {
-3,
-1,
-2,
-4,
-5,
-24,
-7,
-8,
-9,
-10,
-11,
-6,
-15,
-16,
-17,
-12,
-13,
-14,
-22,
-18,
-20,
-21,
-23,
-19,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[18] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-4,
-},
-["riftOffsets"] = {
-[8] = {
-},
-[9] = {
-},
-[7] = {
-},
-[4] = {
-},
-},
-},
-["text"] = "Dos Route",
-["difficulty"] = 15,
-["mdi"] = {
-["freehold"] = 1,
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-},
-},
-{
-["mdiEnabled"] = false,
-["week"] = 1,
-["difficulty"] = 20,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 6,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-{
-},
-[8] = {
-},
-[10] = {
-},
-[12] = {
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-6,
-},
-["pulls"] = {
-{
-{
-2,
-1,
-4,
-},
-{
-},
-{
-},
-{
-15,
-16,
-1,
-},
-nil,
-{
-},
-{
-3,
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-{
-},
-{
-1,
-},
-{
-1,
-2,
-},
-{
-},
-nil,
-{
-},
-["color"] = "3eff9e",
-},
-{
-{
-6,
-},
-{
-4,
-},
-{
-5,
-6,
-},
-{
-2,
-},
-nil,
-{
-5,
-1,
-2,
-3,
-4,
-},
-["color"] = "ff3e3e",
-[10] = {
-},
-[12] = {
-},
-},
-{
-[6] = {
-6,
-7,
-},
-[7] = {
-1,
-},
-[8] = {
-1,
-},
-[10] = {
-},
-["color"] = "3e9eff",
-[4] = {
-},
-[12] = {
-},
-},
-{
-{
-10,
-},
-{
-},
-{
-},
-{
-10,
-},
-nil,
-{
-},
-["color"] = "fffb3e",
-},
-{
-{
-},
-[6] = {
-},
-[7] = {
-2,
-},
-[8] = {
-},
-[10] = {
-},
-["color"] = "3eff3e",
-[4] = {
-12,
-},
-[12] = {
-},
-},
-{
-{
-12,
-},
-{
-7,
-},
-{
-13,
-14,
-},
-{
-14,
-},
-nil,
-{
-},
-["color"] = "ff3e9e",
-},
-{
-{
-11,
-},
-{
-6,
-},
-{
-11,
-12,
-},
-{
-11,
-9,
-},
-nil,
-{
-},
-["color"] = "3effff",
-[22] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[9] = {
-},
-},
-{
-["color"] = "3e3eff",
-[14] = {
-1,
-},
-},
-{
-{
-},
-{
-11,
-10,
-},
-{
-20,
-21,
-19,
-},
-{
-},
-[7] = {
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[15] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[16] = {
-1,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[15] = {
-},
-[18] = {
-1,
-},
-},
-},
-},
-["text"] = "Dos Route 2",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["objects"] = {
-},
-},
-{
-["difficulty"] = 24,
-["week"] = 1,
-["addonVersion"] = 552,
-["objects"] = {
-},
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 16,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-[6] = {
-7,
-7,
-7,
-7,
-nil,
-nil,
-nil,
-7,
-7,
-},
-[2] = {
-7,
-[6] = 7,
-[7] = 7,
-[10] = 7,
-[4] = 7,
-[9] = 7,
-[11] = 7,
-},
-[12] = {
-[5] = 8,
-[10] = 8,
-[7] = 8,
-[13] = 8,
-},
-[4] = {
-1,
-nil,
-nil,
-1,
-1,
-1,
-nil,
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-[20] = 1,
-[24] = 1,
-[21] = 1,
-[18] = 1,
-[19] = 1,
-},
-[9] = {
-nil,
-nil,
-8,
-8,
-8,
-nil,
-8,
-8,
-[11] = 8,
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-16,
-},
-["pulls"] = {
-{
-{
-2,
-1,
-16,
-},
-{
-1,
-},
-{
-1,
-2,
-},
-{
-12,
-},
-{
-24,
-27,
-25,
-26,
-},
-{
-3,
-},
-{
-3,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-2,
-},
-[7] = {
-2,
-},
-["color"] = "3eff9e",
-[4] = {
-10,
-9,
-},
-[5] = {
-19,
-20,
-17,
-18,
-15,
-},
-},
-{
-{
-},
-{
-7,
-},
-{
-13,
-14,
-},
-{
-},
-["color"] = "ff3e3e",
-[12] = {
-4,
-},
-},
-{
-{
-10,
-},
-{
-6,
-},
-{
-11,
-12,
-},
-{
-11,
-},
-{
-21,
-16,
-22,
-23,
-},
-["color"] = "3e9eff",
-[10] = {
-},
-},
-{
-{
-5,
-},
-{
-4,
-},
-{
-5,
-6,
-},
-{
-4,
-},
-{
-5,
-1,
-2,
-3,
-4,
-},
-["color"] = "fffb3e",
-[12] = {
-},
-},
-{
-{
-15,
-},
-nil,
-nil,
-{
-},
-{
-7,
-6,
-8,
-9,
-},
-{
-1,
-},
-{
-1,
-},
-["color"] = "3eff3e",
-},
-{
-{
-4,
-},
-{
-9,
-},
-{
-17,
-18,
-},
-{
-1,
-},
-nil,
-nil,
-nil,
-{
-},
-{
-},
-nil,
-{
-},
-{
-},
-["color"] = "ff3e9e",
-},
-{
-[8] = {
-1,
-},
-[6] = {
-6,
-5,
-7,
-},
-["color"] = "3effff",
-},
-{
-[11] = {
-},
-[10] = {
-12,
-10,
-14,
-16,
-17,
-11,
-13,
-15,
-18,
-42,
-38,
-40,
-41,
-44,
-43,
-39,
-},
-["color"] = "ff9b3e",
-[4] = {
-},
-[9] = {
-4,
-},
-},
-{
-[10] = {
-},
-[12] = {
-},
-[4] = {
-},
-[9] = {
-8,
-7,
-},
-["color"] = "3e3eff",
-},
-{
-{
-11,
-},
-[5] = {
-},
-[10] = {
-},
-["color"] = "a1ff3e",
-[4] = {
-18,
-14,
-},
-[9] = {
-},
-[12] = {
-},
-},
-{
-{
-},
-{
-},
-{
-},
-{
-20,
-},
-{
-},
-nil,
-nil,
-{
-},
-{
-3,
-},
-{
-},
-{
-6,
-5,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[12] = {
-2,
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-[18] = {
-6,
-2,
-3,
-1,
-4,
-5,
-},
-},
-{
-nil,
-{
-10,
-11,
-},
-{
-21,
-20,
-19,
-},
-{
-},
-[6] = {
-},
-[12] = {
-},
-["color"] = "3e9eff",
-[23] = {
-},
-[9] = {
-11,
-},
-[11] = {
-13,
-14,
-},
-},
-{
-[6] = {
-4,
-},
-["color"] = "fffb3e",
-[4] = {
-24,
-},
-[23] = {
-2,
-1,
-},
-[12] = {
-13,
-},
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-2,
-4,
-3,
-},
-["color"] = "3eff3e",
-[14] = {
-1,
-},
-[22] = {
-1,
-},
-},
-{
-{
-},
-[24] = {
-1,
-2,
-4,
-3,
-},
-["color"] = "ff3e9e",
-[4] = {
-},
-[16] = {
-1,
-},
-[12] = {
-},
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-},
-},
-},
-["text"] = "Halls PUG (11 Aug)",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["uid"] = "Z2RPeZSR3g)",
-},
-{
-["difficulty"] = 24,
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 10,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-1,
-16,
-},
-nil,
-nil,
-{
-12,
-},
-{
-24,
-27,
-25,
-26,
-},
-{
-3,
-},
-{
-3,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-2,
-},
-[7] = {
-2,
-},
-["color"] = "3eff9e",
-[4] = {
-10,
-9,
-},
-[5] = {
-19,
-20,
-17,
-18,
-},
-},
-{
-{
-10,
-},
-{
-7,
-},
-{
-13,
-14,
-},
-{
-11,
-},
-["color"] = "ff3e3e",
-},
-{
-[3] = {
-12,
-11,
-},
-[2] = {
-6,
-},
-["color"] = "3e9eff",
-},
-{
-{
-4,
-},
-{
-9,
-},
-{
-17,
-18,
-},
-{
-1,
-},
-["color"] = "fffb3e",
-[12] = {
-7,
-},
-},
-{
-{
-6,
-14,
-5,
-},
-["color"] = "3eff3e",
-[4] = {
-2,
-4,
-},
-[5] = {
-2,
-3,
-4,
-1,
-},
-},
-{
-{
-17,
-15,
-},
-{
-4,
-},
-{
-5,
-6,
-},
-[5] = {
-5,
-},
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[3] = {
-7,
-8,
-9,
-10,
-},
-[2] = {
-3,
-5,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-1,
-},
-[6] = {
-6,
-5,
-7,
-},
-["color"] = "ff9b3e",
-},
-{
-[11] = {
-8,
-9,
-},
-[10] = {
-},
-["color"] = "3e3eff",
-[4] = {
-27,
-28,
-},
-[9] = {
-},
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-34,
-33,
-35,
-36,
-37,
-},
-[4] = {
-22,
-26,
-},
-[11] = {
-11,
-12,
-},
-},
-{
-["color"] = "ff3eff",
-[4] = {
-20,
-},
-[9] = {
-3,
-},
-[11] = {
-5,
-6,
-},
-},
-{
-["color"] = "3eff9e",
-[12] = {
-1,
-2,
-},
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-[18] = {
-6,
-2,
-3,
-1,
-4,
-5,
-},
-},
-{
-[11] = {
-13,
-14,
-},
-[2] = {
-10,
-11,
-},
-[3] = {
-21,
-20,
-19,
-},
-["color"] = "3e9eff",
-[9] = {
-11,
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-4,
-},
-[23] = {
-1,
-2,
-},
-[4] = {
-24,
-},
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-2,
-4,
-3,
-},
-["color"] = "3eff3e",
-[14] = {
-1,
-},
-[22] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[16] = {
-1,
-},
-[24] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["selection"] = {
-10,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 8",
-["objects"] = {
-},
-["uid"] = "Y6CO)(mfHOW",
-},
-{
-["difficulty"] = 11,
-["week"] = 1,
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["selection"] = {
-10,
-},
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-},
-["currentDungeonIdx"] = 30,
-["teeming"] = false,
-["currentPull"] = 10,
-["pulls"] = {
-{
-{
-1,
-2,
-16,
-},
-{
-1,
-},
-{
-1,
-2,
-},
-{
-12,
-},
-{
-24,
-27,
-25,
-26,
-},
-{
-3,
-},
-{
-3,
-},
-["color"] = "ff3eff",
-[12] = {
-},
-},
-{
-[6] = {
-2,
-},
-[7] = {
-2,
-},
-["color"] = "3eff9e",
-[4] = {
-10,
-9,
-},
-[5] = {
-18,
-20,
-17,
-19,
-15,
-},
-},
-{
-{
-10,
-},
-{
-7,
-6,
-},
-{
-13,
-14,
-11,
-12,
-},
-{
-11,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-4,
-},
-{
-9,
-},
-{
-18,
-17,
-},
-{
-1,
-},
-["color"] = "3e9eff",
-[12] = {
-7,
-},
-},
-{
-{
-6,
-14,
-5,
-},
-["color"] = "fffb3e",
-[4] = {
-2,
-4,
-},
-[5] = {
-1,
-2,
-3,
-4,
-},
-},
-{
-{
-15,
-17,
-},
-{
-4,
-},
-{
-5,
-6,
-},
-[5] = {
-5,
-},
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[2] = {
-3,
-5,
-},
-[3] = {
-8,
-7,
-9,
-10,
-},
-},
-{
-[8] = {
-1,
-},
-[6] = {
-},
-["color"] = "3effff",
-},
-{
-{
-12,
-},
-["color"] = "ff9b3e",
-[10] = {
-38,
-40,
-41,
-42,
-44,
-43,
-39,
-16,
-10,
-12,
-14,
-17,
-11,
-13,
-15,
-18,
-},
-[9] = {
-4,
-8,
-7,
-},
-[4] = {
-15,
-},
-},
-{
-{
-11,
-},
-[5] = {
-39,
-38,
-36,
-37,
-40,
-41,
-42,
-43,
-},
-[4] = {
-18,
-14,
-},
-["color"] = "3e3eff",
-},
-{
-{
-},
-[11] = {
-5,
-6,
-},
-[12] = {
-},
-[4] = {
-20,
-},
-[9] = {
-3,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[13] = {
-1,
-},
-[18] = {
-6,
-2,
-3,
-1,
-4,
-5,
-},
-},
-{
-[11] = {
-14,
-13,
-},
-[2] = {
-10,
-11,
-},
-[3] = {
-20,
-21,
-19,
-},
-["color"] = "3eff9e",
-[9] = {
-11,
-},
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-4,
-},
-[23] = {
-1,
-2,
-},
-[4] = {
-24,
-},
-},
-{
-[20] = {
-1,
-},
-[21] = {
-1,
-2,
-4,
-3,
-},
-["color"] = "3e9eff",
-[14] = {
-1,
-},
-[22] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[16] = {
-1,
-},
-[24] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-["color"] = "3eff3e",
-[19] = {
-1,
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-},
-},
-},
-["text"] = "Route 9",
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["difficulty"] = 11,
-["week"] = 5,
 ["value"] = {
 ["currentPull"] = 18,
 ["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-8,
-7,
-6,
-5,
-4,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[2] = {
-4,
-},
-[4] = {
-4,
-},
-[3] = {
-4,
-5,
-},
-},
-{
-[3] = {
-10,
-9,
-},
-[4] = {
-8,
-7,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
+["riftOffsets"] = {
 [5] = {
-4,
-3,
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-},
-{
-[11] = {
-12,
-},
-[13] = {
-9,
-},
-[8] = {
-13,
-},
-[3] = {
-6,
-8,
-},
-["color"] = "3eff3e",
-[9] = {
-8,
-},
-},
-{
-[11] = {
-},
-[13] = {
-},
-[8] = {
-2,
-1,
-},
-[10] = {
-},
-["color"] = "ff3e9e",
-[12] = {
-},
-[23] = {
-},
-[9] = {
-1,
-2,
-},
-},
-{
-[11] = {
-1,
-},
-[8] = {
-3,
-},
-[10] = {
-1,
-},
-[12] = {
-},
-[9] = {
-3,
-},
-["color"] = "3effff",
-},
-{
-[11] = {
-5,
-},
-[13] = {
-3,
-},
-["color"] = "ff9b3e",
-[12] = {
-2,
-},
-[23] = {
-2,
-},
-[9] = {
-5,
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-1,
-},
-},
-{
-[11] = {
-6,
-},
-[13] = {
-4,
-},
-[8] = {
-4,
-},
-[12] = {
-3,
-},
-["color"] = "a1ff3e",
-[23] = {
-1,
-},
-[15] = {
-},
-},
-{
-["color"] = "ff3eff",
-[15] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[16] = {
-1,
-},
-[17] = {
-1,
-2,
-},
-},
-{
-["color"] = "ff3e3e",
-[17] = {
-8,
-9,
-},
-[18] = {
-7,
-6,
-},
-},
-{
-["color"] = "3e9eff",
-[16] = {
-2,
-},
-[18] = {
-1,
-},
-[19] = {
-1,
-2,
-4,
-5,
-3,
-6,
-},
-},
-{
-[20] = {
-},
-[17] = {
-4,
-3,
-},
-[18] = {
-2,
-},
-["color"] = "fffb3e",
-[16] = {
-3,
-},
-},
-{
-[20] = {
-},
-[17] = {
-5,
-6,
-7,
-},
-[18] = {
-3,
-4,
-5,
-},
-["color"] = "3eff3e",
-[19] = {
-8,
-9,
-10,
-11,
-12,
-7,
-},
-[16] = {
-},
-},
-{
-["color"] = "ff3e9e",
-[21] = {
-1,
-},
 },
 },
 ["currentDungeonIdx"] = 31,
@@ -19619,20 +772,255 @@ nil,
 ["selection"] = {
 18,
 },
-["riftOffsets"] = {
+["pulls"] = {
+{
+{
+8,
+7,
+6,
+5,
+4,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[2] = {
+4,
+},
+[4] = {
+4,
+},
+[3] = {
+4,
+5,
+},
+},
+{
+[3] = {
+10,
+9,
+},
+[4] = {
+8,
+7,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
 [5] = {
+4,
+3,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+},
+{
+[11] = {
+12,
+},
+[13] = {
+9,
+},
+[8] = {
+13,
+},
+[3] = {
+6,
+8,
+},
+["color"] = "3eff3e",
+[9] = {
+8,
+},
+},
+{
+[11] = {
+},
+[13] = {
+},
+[8] = {
+2,
+1,
+},
+[10] = {
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+},
+[23] = {
+},
+[12] = {
+},
+},
+{
+[11] = {
+1,
+},
+[8] = {
+3,
+},
+[10] = {
+1,
+},
+[12] = {
+},
+[9] = {
+3,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+5,
+},
+[13] = {
+3,
+},
+["color"] = "ff9b3e",
+[9] = {
+5,
+},
+[23] = {
+2,
+},
+[12] = {
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+1,
+},
+},
+{
+[11] = {
+6,
+},
+[13] = {
+4,
+},
+[8] = {
+4,
+},
+[12] = {
+3,
+},
+[15] = {
+},
+[23] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[15] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+[17] = {
+1,
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[17] = {
+8,
+9,
+},
+[18] = {
+7,
+6,
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+2,
+},
+[19] = {
+1,
+2,
+4,
+5,
+3,
+6,
+},
+[18] = {
+1,
+},
+},
+{
+[20] = {
+},
+[17] = {
+4,
+3,
+},
+[18] = {
+2,
+},
+["color"] = "fffb3e",
+[16] = {
+3,
+},
+},
+{
+[20] = {
+},
+[17] = {
+5,
+6,
+7,
+},
+[18] = {
+3,
+4,
+5,
+},
+["color"] = "3eff3e",
+[19] = {
+8,
+9,
+10,
+11,
+12,
+7,
+},
+[16] = {
+},
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+1,
 },
 },
 },
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
 },
 },
 {
 ["objects"] = {
 {
+["n"] = true,
 ["d"] = {
 252.7901486611346,
 -377.8457466798726,
@@ -19640,9 +1028,9 @@ nil,
 true,
 "Take care to avoid pulling these!",
 },
-["n"] = true,
 },
 {
+["n"] = true,
 ["d"] = {
 504.7094550255167,
 -177.332100277778,
@@ -19650,30 +1038,23 @@ true,
 true,
 "Maze count is inconsistent - this route is more likely to go over 100% than under, but if you're somehow under at the end just grab some packs from the other side of Tre'dova.",
 },
-["n"] = true,
 },
 },
 ["week"] = 6,
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
+["text"] = "1.6 MOTS No Skips by Dratnos",
+["difficulty"] = 10,
 ["value"] = {
 ["currentPull"] = 20,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[5] = {
-},
-[6] = {
-},
-[4] = {
-},
-},
-["currentDungeonIdx"] = 31,
-["teeming"] = false,
-["selection"] = {
-20,
-},
 ["pulls"] = {
 {
 {
@@ -19926,34 +1307,99 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 31,
+["teeming"] = false,
+["selection"] = {
+20,
 },
-["text"] = "1.6 MOTS No Skips by Dratnos",
-["difficulty"] = 10,
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
+["riftOffsets"] = {
+[5] = {
+},
+[6] = {
+},
+[4] = {
+},
+},
 },
 },
 {
 ["difficulty"] = 10,
 ["week"] = 1,
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+643.1736259889819,
+-175.878151633371,
+1,
+true,
+"Grab Green Mushrooms for stat buff",
+},
+},
+{
+["n"] = true,
+["d"] = {
+528.2051375386911,
+-164.9693065413219,
+1,
+true,
+"Dungeon will vary after this mob, unsure if kill count will var. This part of the instance will give 35-40% trash count.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+664.0514805173382,
+-126.9267649112323,
+1,
+true,
+"These mobs do AoE at 50% health, stagger them down",
+},
+},
+{
+["n"] = true,
+["d"] = {
+769.6678625164457,
+-114.8192312762041,
+1,
+true,
+"Use skip to bypass mobs.",
+},
+},
+{
+["d"] = {
+722.7630976250921,
+-180.4891274190694,
+1,
+true,
+"Lust if on Fortfied. If not, lust on 1st boss.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+147.2071522067205,
+-368.9306990785817,
+1,
+true,
+"Use Pride with boss",
+},
+["n"] = true,
+},
+},
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
+["text"] = "mists paddy",
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
 ["value"] = {
 ["currentPull"] = 18,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 31,
-["teeming"] = false,
-["selection"] = {
-18,
-},
 ["pulls"] = {
 {
 {
@@ -20122,11 +1568,11 @@ nil,
 {
 [18] = {
 },
-["color"] = "ff3e3e",
-[17] = {
-},
 [20] = {
 },
+[17] = {
+},
+["color"] = "ff3e3e",
 },
 {
 [17] = {
@@ -20213,72 +1659,13 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 31,
+["teeming"] = false,
+["selection"] = {
+18,
 },
-["text"] = "mists paddy",
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["objects"] = {
+["riftOffsets"] = {
 {
-["d"] = {
-643.1736259889819,
--175.878151633371,
-1,
-true,
-"Grab Green Mushrooms for stat buff",
-},
-["n"] = true,
-},
-{
-["d"] = {
-528.2051375386911,
--164.9693065413219,
-1,
-true,
-"Dungeon will vary after this mob, unsure if kill count will var. This part of the instance will give 35-40% trash count.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-664.0514805173382,
--126.9267649112323,
-1,
-true,
-"These mobs do AoE at 50% health, stagger them down",
-},
-["n"] = true,
-},
-{
-["d"] = {
-769.6678625164457,
--114.8192312762041,
-1,
-true,
-"Use skip to bypass mobs.",
-},
-["n"] = true,
-},
-{
-["n"] = true,
-["d"] = {
-722.7630976250921,
--180.4891274190694,
-1,
-true,
-"Lust if on Fortfied. If not, lust on 1st boss.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-147.2071522067205,
--368.9306990785817,
-1,
-true,
-"Use Pride with boss",
 },
 },
 },
@@ -20286,27 +1673,18 @@ true,
 {
 ["mdiEnabled"] = false,
 ["week"] = 1,
-["objects"] = {
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
 },
-["difficulty"] = 20,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-{
-},
-[10] = {
-},
-[12] = {
-},
-},
-["currentDungeonIdx"] = 31,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 {
@@ -20411,12 +1789,12 @@ true,
 2,
 },
 ["color"] = "3effff",
-[12] = {
-1,
+[23] = {
 },
 [9] = {
 },
-[23] = {
+[12] = {
+1,
 },
 },
 {
@@ -20451,26 +1829,22 @@ true,
 [10] = {
 },
 ["color"] = "3e3eff",
+[12] = {
+3,
+},
 [9] = {
 },
 [23] = {
 1,
-},
-[12] = {
-3,
 },
 },
 {
 [13] = {
 2,
 },
-[9] = {
-4,
+[18] = {
 },
-[11] = {
-4,
-3,
-11,
+[3] = {
 },
 ["color"] = "a1ff3e",
 [4] = {
@@ -20480,7 +1854,8 @@ true,
 },
 [16] = {
 },
-[17] = {
+[9] = {
+4,
 },
 [5] = {
 },
@@ -20489,13 +1864,16 @@ true,
 },
 [20] = {
 },
-[3] = {
+[11] = {
+4,
+3,
+11,
 },
 [19] = {
 },
 [12] = {
 },
-[18] = {
+[17] = {
 },
 },
 {
@@ -20575,16 +1953,25 @@ true,
 },
 },
 },
+["currentDungeonIdx"] = 31,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+{
+},
+[10] = {
+},
+[12] = {
+},
+},
 },
 ["text"] = "Dos Route",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
+["difficulty"] = 20,
+["objects"] = {
 },
 },
 {
@@ -20593,8 +1980,142 @@ true,
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
+["pulls"] = {
 {
+{
+7,
+8,
+6,
+5,
+4,
+},
+{
+4,
+},
+{
+4,
+5,
+7,
+10,
+9,
+},
+{
+4,
+5,
+6,
+8,
+7,
+},
+{
+2,
+4,
+3,
+},
+nil,
+nil,
+{
+},
+{
+},
+nil,
+{
+},
+nil,
+{
+},
+["color"] = "ff3eff",
+},
+{
+[24] = {
+1,
+},
+[13] = {
+9,
+7,
+},
+["color"] = "3eff9e",
+[8] = {
+19,
+20,
+13,
+16,
+17,
+18,
+},
+[9] = {
+8,
+10,
+7,
+},
+[10] = {
+5,
+},
+[11] = {
+12,
+13,
+9,
+10,
+},
+[12] = {
+11,
+9,
+},
+[23] = {
+3,
+},
+},
+{
+[20] = {
+2,
+1,
+13,
+12,
+11,
+},
+[17] = {
+1,
+2,
+3,
+4,
+5,
+7,
+6,
+8,
+9,
+},
+[2] = {
+},
+[18] = {
+1,
+2,
+3,
+4,
+5,
+7,
+6,
+},
+["color"] = "ff3e3e",
+[19] = {
+1,
+2,
+4,
+5,
+3,
+6,
+8,
+9,
+10,
+11,
+12,
+7,
+},
+[16] = {
+1,
+2,
+3,
+},
+[4] = {
+},
 },
 },
 ["currentDungeonIdx"] = 31,
@@ -20602,5482 +2123,12 @@ true,
 ["selection"] = {
 3,
 },
-["pulls"] = {
+["riftOffsets"] = {
 {
-{
-7,
-8,
-6,
-5,
-4,
-},
-{
-4,
-},
-{
-4,
-5,
-7,
-10,
-9,
-},
-{
-4,
-5,
-6,
-8,
-7,
-},
-{
-2,
-4,
-3,
-},
-nil,
-nil,
-{
-},
-{
-},
-nil,
-{
-},
-nil,
-{
-},
-["color"] = "ff3eff",
-},
-{
-[24] = {
-1,
-},
-[13] = {
-9,
-7,
-},
-["color"] = "3eff9e",
-[8] = {
-19,
-20,
-13,
-16,
-17,
-18,
-},
-[9] = {
-8,
-10,
-7,
-},
-[10] = {
-5,
-},
-[11] = {
-12,
-13,
-9,
-10,
-},
-[12] = {
-11,
-9,
-},
-[23] = {
-3,
-},
-},
-{
-[20] = {
-2,
-1,
-13,
-12,
-11,
-},
-[17] = {
-1,
-2,
-3,
-4,
-5,
-7,
-6,
-8,
-9,
-},
-[19] = {
-1,
-2,
-4,
-5,
-3,
-6,
-8,
-9,
-10,
-11,
-12,
-7,
-},
-[18] = {
-1,
-2,
-3,
-4,
-5,
-7,
-6,
-},
-["color"] = "ff3e3e",
-[4] = {
-},
-[16] = {
-1,
-2,
-3,
-},
-[2] = {
-},
 },
 },
 },
 ["text"] = "SCRATCH",
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["difficulty"] = 11,
-["week"] = 5,
-["value"] = {
-["currentPull"] = 28,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-[7] = {
-},
-[8] = {
-3,
-},
-[3] = {
-5,
-},
-["color"] = "ff3eff",
-[9] = {
-1,
-},
-},
-{
-[3] = {
-4,
-},
-["color"] = "3eff9e",
-[9] = {
-2,
-},
-[8] = {
-1,
-},
-},
-{
-[13] = {
-2,
-},
-[8] = {
-4,
-},
-[3] = {
-6,
-},
-["color"] = "ff3e3e",
-[9] = {
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[4] = {
-2,
-4,
-8,
-16,
-17,
-9,
-18,
-5,
-10,
-20,
-21,
-11,
-3,
-6,
-12,
-13,
-7,
-14,
-19,
-15,
-},
-},
-{
-["color"] = "fffb3e",
-[15] = {
-2,
-},
-},
-{
-["color"] = "3eff3e",
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[16] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[18] = {
-1,
-2,
-3,
-},
-[20] = {
-1,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[19] = {
-2,
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[19] = {
-4,
-3,
-},
-[17] = {
-4,
-},
-[21] = {
-2,
-},
-},
-{
-[21] = {
-5,
-},
-[22] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-[17] = {
-3,
-},
-[21] = {
-3,
-},
-["color"] = "ff3eff",
-[23] = {
-4,
-6,
-5,
-},
-[24] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[21] = {
-4,
-},
-[20] = {
-3,
-},
-[18] = {
-8,
-9,
-},
-},
-{
-["color"] = "ff3e3e",
-[25] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[25] = {
-2,
-},
-},
-{
-["color"] = "fffb3e",
-[26] = {
-1,
-},
-},
-{
-[24] = {
-2,
-},
-[22] = {
-2,
-},
-["color"] = "3eff3e",
-[21] = {
-6,
-},
-},
-{
-[21] = {
-7,
-8,
-},
-["color"] = "ff3e9e",
-[18] = {
-12,
-},
-},
-{
-["color"] = "3effff",
-[20] = {
-4,
-},
-[21] = {
-9,
-},
-},
-{
-["color"] = "ff9b3e",
-[27] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[25] = {
-3,
-},
-[4] = {
-22,
-},
-},
-{
-[7] = {
-2,
-},
-[28] = {
-5,
-6,
-},
-[25] = {
-9,
-},
-["color"] = "a1ff3e",
-[4] = {
-26,
-},
-[30] = {
-3,
-},
-[29] = {
-3,
-},
-},
-{
-[31] = {
-2,
-3,
-},
-[28] = {
-10,
-},
-[25] = {
-},
-["color"] = "ff3eff",
-[30] = {
-5,
-},
-[29] = {
-6,
-},
-},
-{
-[31] = {
-4,
-},
-[28] = {
-11,
-},
-[29] = {
-7,
-},
-[30] = {
-6,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[32] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[33] = {
-1,
-16,
-},
-},
-{
-["color"] = "fffb3e",
-[33] = {
-3,
-2,
-4,
-17,
-5,
-7,
-9,
-10,
-11,
-15,
-14,
-8,
-6,
-12,
-13,
-},
-[34] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[35] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 32,
-["teeming"] = false,
-["selection"] = {
-28,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-},
-{
-["objects"] = {
-},
-["week"] = 5,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 24,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-[7] = {
-1,
-},
-[8] = {
-3,
-},
-[3] = {
-5,
-},
-["color"] = "ff3eff",
-[9] = {
-1,
-},
-},
-{
-[8] = {
-1,
-},
-[3] = {
-4,
-},
-[9] = {
-2,
-},
-["color"] = "3eff9e",
-},
-{
-[13] = {
-2,
-},
-[8] = {
-4,
-},
-[3] = {
-6,
-},
-["color"] = "ff3e3e",
-[9] = {
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[4] = {
-20,
-2,
-4,
-8,
-16,
-17,
-9,
-18,
-5,
-10,
-21,
-11,
-3,
-6,
-12,
-13,
-7,
-14,
-19,
-15,
-},
-},
-{
-["color"] = "fffb3e",
-[15] = {
-1,
-2,
-},
-},
-{
-[18] = {
-1,
-2,
-3,
-},
-[6] = {
-4,
-},
-[17] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[20] = {
-2,
-},
-[18] = {
-7,
-6,
-},
-},
-{
-[21] = {
-4,
-},
-["color"] = "3effff",
-[20] = {
-3,
-},
-[18] = {
-11,
-10,
-8,
-9,
-},
-},
-{
-["color"] = "ff9b3e",
-[25] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[25] = {
-2,
-},
-},
-{
-["color"] = "a1ff3e",
-[26] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[22] = {
-2,
-},
-[21] = {
-6,
-},
-[24] = {
-2,
-},
-},
-{
-[21] = {
-7,
-8,
-},
-["color"] = "3eff9e",
-[18] = {
-12,
-},
-},
-{
-["color"] = "ff3e3e",
-[20] = {
-4,
-},
-[21] = {
-9,
-},
-},
-{
-["color"] = "3e9eff",
-[25] = {
-3,
-},
-[4] = {
-22,
-},
-},
-{
-["color"] = "fffb3e",
-[28] = {
-2,
-},
-[4] = {
-23,
-},
-[25] = {
-4,
-},
-},
-{
-[7] = {
-2,
-},
-[28] = {
-5,
-6,
-},
-["color"] = "3eff3e",
-[4] = {
-26,
-},
-[30] = {
-3,
-},
-[29] = {
-3,
-},
-},
-{
-["color"] = "ff3e9e",
-[29] = {
-1,
-},
-[30] = {
-2,
-},
-},
-{
-["color"] = "3effff",
-[28] = {
-4,
-},
-[4] = {
-25,
-},
-},
-{
-["color"] = "ff9b3e",
-[25] = {
-10,
-},
-[31] = {
-2,
-},
-[28] = {
-9,
-},
-},
-{
-[31] = {
-3,
-},
-[28] = {
-10,
-},
-[29] = {
-6,
-},
-[30] = {
-5,
-},
-["color"] = "3e3eff",
-},
-{
-[31] = {
-4,
-},
-[28] = {
-11,
-},
-[29] = {
-7,
-},
-[30] = {
-6,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[33] = {
-1,
-16,
-},
-},
-{
-[34] = {
-1,
-},
-[33] = {
-2,
-4,
-17,
-5,
-3,
-14,
-8,
-6,
-12,
-13,
-7,
-9,
-10,
-11,
-15,
-},
-["color"] = "3eff9e",
-},
-},
-["currentDungeonIdx"] = 32,
-["teeming"] = false,
-["selection"] = {
-24,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["text"] = "Default 2",
-["difficulty"] = 10,
-["mdi"] = {
-["freehold"] = 1,
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-},
-},
-{
-["difficulty"] = 30,
-["week"] = 5,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 11,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-["color"] = "ff3eff",
-[4] = {
-10,
-2,
-4,
-8,
-16,
-17,
-9,
-18,
-5,
-20,
-21,
-11,
-3,
-6,
-12,
-13,
-7,
-14,
-19,
-15,
-},
-},
-{
-["color"] = "3eff9e",
-[15] = {
-2,
-},
-},
-{
-[20] = {
-1,
-},
-[17] = {
-1,
-},
-[18] = {
-1,
-2,
-3,
-},
-["color"] = "ff3e3e",
-[19] = {
-2,
-},
-},
-{
-[6] = {
-4,
-},
-[21] = {
-1,
-},
-[18] = {
-4,
-5,
-},
-["color"] = "3e9eff",
-[19] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[19] = {
-},
-[15] = {
-1,
-},
-[21] = {
-},
-},
-{
-["color"] = "3eff3e",
-[16] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[19] = {
-4,
-},
-[21] = {
-2,
-5,
-},
-[22] = {
-1,
-},
-},
-{
-[17] = {
-4,
-},
-[21] = {
-},
-["color"] = "3effff",
-[19] = {
-3,
-},
-[23] = {
-5,
-4,
-6,
-},
-},
-{
-["color"] = "ff9b3e",
-[23] = {
-3,
-2,
-1,
-},
-[17] = {
-2,
-3,
-},
-},
-{
-["color"] = "3e3eff",
-[24] = {
-1,
-},
-[21] = {
-},
-},
-{
-["color"] = "a1ff3e",
-[21] = {
-4,
-3,
-},
-[20] = {
-3,
-},
-[18] = {
-8,
-9,
-},
-},
-{
-[18] = {
-6,
-7,
-10,
-11,
-},
-[25] = {
-},
-[20] = {
-2,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[25] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[25] = {
-2,
-},
-},
-{
-["color"] = "3e9eff",
-[25] = {
-12,
-},
-[26] = {
-1,
-},
-},
-{
-[24] = {
-2,
-},
-[22] = {
-2,
-},
-["color"] = "fffb3e",
-[21] = {
-6,
-},
-},
-{
-["color"] = "3eff3e",
-[20] = {
-4,
-},
-[21] = {
-9,
-},
-},
-{
-["color"] = "ff3e9e",
-[18] = {
-12,
-},
-[21] = {
-7,
-8,
-},
-},
-{
-["color"] = "3effff",
-[27] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[25] = {
-3,
-},
-[4] = {
-22,
-},
-},
-{
-[7] = {
-2,
-},
-[28] = {
-5,
-6,
-},
-["color"] = "3e3eff",
-[4] = {
-26,
-},
-[30] = {
-3,
-},
-[29] = {
-3,
-},
-},
-{
-[31] = {
-4,
-},
-[28] = {
-},
-[29] = {
-7,
-},
-[30] = {
-6,
-},
-["color"] = "a1ff3e",
-},
-{
-[31] = {
-3,
-},
-[28] = {
-},
-[29] = {
-6,
-},
-[30] = {
-5,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[32] = {
-1,
-},
-},
-{
-[28] = {
-},
-[31] = {
-2,
-},
-[15] = {
-},
-[25] = {
-},
-["color"] = "ff3e3e",
-[4] = {
-},
-[30] = {
-4,
-},
-[29] = {
-5,
-},
-},
-{
-["color"] = "3e9eff",
-[33] = {
-1,
-16,
-},
-},
-{
-[34] = {
-1,
-},
-[33] = {
-2,
-4,
-17,
-5,
-3,
-7,
-9,
-10,
-11,
-15,
-14,
-8,
-6,
-12,
-13,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[35] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 32,
-["teeming"] = false,
-["selection"] = {
-11,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["text"] = "Quazii Plaguefall Fort & Tyran Advanced",
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-460.1958396840101,
--160.6431076142461,
-1,
-true,
-"poly/cc to split this Plagueborers into two",
-},
-},
-{
-["n"] = true,
-["d"] = {
-480.4025436153342,
--167.8281941461508,
-1,
-true,
-"again, split Plagueborers into two.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-528.0848572738374,
--128.6996443883406,
-1,
-true,
-"abuse plagueborers that spawn here",
-},
-},
-{
-["d"] = {
-5,
-1.1,
-1,
-true,
-"ff58c2",
--8,
-true,
-},
-["l"] = {
-"470.2",
-"-337.6",
-"470.2",
-"-340.3",
-"470.2",
-"-340.3",
-"468.1",
-"-341.5",
-"468.1",
-"-341.5",
-"465.5",
-"-343.7",
-"465.5",
-"-343.7",
-"464.5",
-"-346.5",
-"464.5",
-"-346.5",
-"462.8",
-"-348.8",
-"462.8",
-"-348.8",
-"461.4",
-"-351.2",
-"461.4",
-"-351.2",
-"460.7",
-"-353.5",
-"460.7",
-"-353.5",
-"460.0",
-"-355.9",
-"460.0",
-"-355.9",
-"458.9",
-"-358.5",
-"458.9",
-"-358.5",
-"458.2",
-"-361.2",
-"458.2",
-"-361.2",
-"457.6",
-"-363.4",
-"457.6",
-"-363.4",
-"457.5",
-"-366.4",
-"457.5",
-"-366.4",
-"457.5",
-"-368.7",
-"457.5",
-"-368.7",
-"458.0",
-"-371.0",
-"458.0",
-"-371.0",
-"458.5",
-"-373.9",
-"458.5",
-"-373.9",
-"458.9",
-"-376.1",
-},
-},
-{
-["d"] = {
-5,
-1.1,
-1,
-true,
-"ff58c2",
--7,
-true,
-},
-["l"] = {
-"451.0",
-"-368.4",
-"452.7",
-"-371.0",
-"452.7",
-"-371.0",
-"454.9",
-"-373.7",
-"454.9",
-"-373.7",
-"457.0",
-"-375.6",
-"457.0",
-"-375.6",
-"459.4",
-"-376.9",
-"459.4",
-"-376.9",
-"462.7",
-"-373.4",
-"462.7",
-"-373.4",
-"465.9",
-"-370.5",
-"465.9",
-"-370.5",
-"467.2",
-"-369.6",
-},
-},
-{
-["d"] = {
-455.9851239477369,
--345.009574804947,
-1,
-true,
-"run through here, do not pull either side",
-},
-["n"] = true,
-},
-{
-["d"] = {
-462.9537331630004,
--384.9700607176408,
-1,
-true,
-"CC this guy while you do the boss",
-},
-["n"] = true,
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"ff58c2",
--8,
-},
-["t"] = {
--2.741057386028676,
-},
-["l"] = {
-"314.4",
-"-131.1",
-"387.4",
-"-100.2",
-},
-},
-{
-["n"] = true,
-["d"] = {
-385.4171377953616,
--119.9718784324472,
-1,
-true,
-"invis",
-},
-},
-},
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["week"] = 5,
-["value"] = {
-["currentPull"] = 32,
-["currentSublevel"] = 2,
-["pulls"] = {
-{
-["color"] = "ff3eff",
-[2] = {
-2,
-1,
-4,
-3,
-},
-[3] = {
-1,
-3,
-2,
-},
-[5] = {
-1,
-},
-},
-{
-[5] = {
-2,
-3,
-},
-[6] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-},
-["color"] = "ff3e3e",
-[7] = {
-1,
-},
-[4] = {
-},
-},
-{
-["color"] = "3e9eff",
-[2] = {
-5,
-6,
-},
-[4] = {
-6,
-4,
-5,
-},
-},
-{
-["color"] = "fffb3e",
-[2] = {
-7,
-8,
-9,
-10,
-11,
-},
-[7] = {
-3,
-},
-[4] = {
-8,
-7,
-},
-},
-{
-["color"] = "3eff3e",
-[8] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[9] = {
-1,
-2,
-3,
-},
-[11] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-["color"] = "3effff",
-[12] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[13] = {
-1,
-},
-[9] = {
-4,
-5,
-},
-},
-{
-["color"] = "3e3eff",
-[13] = {
-2,
-},
-[9] = {
-6,
-7,
-8,
-9,
-},
-[11] = {
-5,
-8,
-9,
-6,
-7,
-},
-},
-{
-[13] = {
-6,
-},
-[21] = {
-},
-["color"] = "a1ff3e",
-[9] = {
-10,
-11,
-},
-[16] = {
-},
-},
-{
-{
-},
-[11] = {
-},
-[13] = {
-},
-[15] = {
-},
-["color"] = "ff3eff",
-[17] = {
-1,
-},
-[9] = {
-},
-[16] = {
-1,
-2,
-},
-},
-{
-[20] = {
-5,
-},
-[17] = {
-},
-[18] = {
-4,
-},
-["color"] = "3eff9e",
-[16] = {
-12,
-},
-},
-{
-[17] = {
-3,
-},
-[18] = {
-},
-["color"] = "ff3e3e",
-[19] = {
-},
-[16] = {
-10,
-11,
-},
-},
-{
-[20] = {
-4,
-},
-[18] = {
-},
-["color"] = "3e9eff",
-[19] = {
-4,
-},
-[16] = {
-9,
-},
-},
-{
-[20] = {
-},
-[21] = {
-8,
-6,
-5,
-7,
-},
-[18] = {
-3,
-},
-["color"] = "fffb3e",
-[16] = {
-8,
-},
-[12] = {
-},
-},
-{
-["color"] = "3eff3e",
-[22] = {
-1,
-},
-},
-{
-[21] = {
-3,
-2,
-1,
-},
-[16] = {
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[16] = {
-6,
-},
-[17] = {
-2,
-},
-[19] = {
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[16] = {
-5,
-},
-[20] = {
-3,
-},
-[18] = {
-2,
-},
-},
-{
-["color"] = "3e3eff",
-[9] = {
-15,
-14,
-13,
-},
-},
-{
-["color"] = "a1ff3e",
-[9] = {
-12,
-},
-[20] = {
-6,
-},
-},
-{
-["color"] = "ff3eff",
-[23] = {
-1,
-},
-},
-{
-[24] = {
-1,
-2,
-},
-[21] = {
-},
-[18] = {
-},
-["color"] = "3eff9e",
-[5] = {
-4,
-5,
-},
-[16] = {
-},
-[9] = {
-16,
-17,
-},
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-6,
-},
-[12] = {
-5,
-},
-[13] = {
-7,
-},
-},
-{
-["color"] = "3e9eff",
-[10] = {
-9,
-10,
-},
-[11] = {
-16,
-17,
-15,
-},
-},
-{
-["color"] = "fffb3e",
-[26] = {
-5,
-1,
-2,
-4,
-3,
-6,
-},
-},
-{
-["color"] = "3eff3e",
-[10] = {
-11,
-12,
-},
-[26] = {
-7,
-8,
-9,
-},
-},
-{
-["color"] = "ff3e9e",
-[11] = {
-20,
-18,
-21,
-22,
-19,
-},
-},
-{
-[11] = {
-24,
-23,
-},
-[10] = {
-13,
-14,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[12] = {
-6,
-},
-[3] = {
-6,
-5,
-},
-},
-{
-[5] = {
-7,
-6,
-},
-["color"] = "3e3eff",
-[24] = {
-6,
-8,
-3,
-4,
-5,
-7,
-},
-},
-},
-["currentDungeonIdx"] = 33,
-["teeming"] = false,
-["selection"] = {
-32,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["difficulty"] = 11,
-},
-{
-["difficulty"] = 30,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 35,
-["currentSublevel"] = 2,
-["pulls"] = {
-{
-["color"] = "ff3eff",
-[2] = {
-2,
-1,
-4,
-3,
-},
-[3] = {
-1,
-2,
-3,
-},
-[5] = {
-1,
-},
-},
-{
-[6] = {
-1,
-},
-[2] = {
-},
-["color"] = "3eff9e",
-[5] = {
-2,
-3,
-},
-[7] = {
-},
-},
-{
-{
-},
-["color"] = "ff3e3e",
-[4] = {
-2,
-},
-[7] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[2] = {
-5,
-6,
-},
-[4] = {
-4,
-6,
-5,
-},
-},
-{
-["color"] = "fffb3e",
-[2] = {
-7,
-8,
-9,
-10,
-11,
-},
-[7] = {
-3,
-},
-[4] = {
-8,
-7,
-},
-},
-{
-["color"] = "3eff3e",
-[8] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[9] = {
-1,
-2,
-3,
-},
-[11] = {
-2,
-1,
-4,
-3,
-},
-},
-{
-[11] = {
-},
-[24] = {
-},
-[10] = {
-1,
-7,
-2,
-4,
-8,
-5,
-3,
-6,
-},
-["color"] = "3effff",
-[9] = {
-},
-[5] = {
-},
-},
-{
-["color"] = "ff9b3e",
-[12] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[13] = {
-1,
-},
-[9] = {
-4,
-5,
-},
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-2,
-},
-[9] = {
-6,
-7,
-},
-},
-{
-[20] = {
-},
-[17] = {
-},
-[13] = {
-6,
-},
-[18] = {
-},
-["color"] = "ff3eff",
-[14] = {
-},
-[9] = {
-10,
-11,
-},
-[16] = {
-},
-},
-{
-{
-7,
-8,
-9,
-10,
-11,
-},
-[15] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-2,
-1,
-},
-[17] = {
-1,
-},
-[14] = {
-},
-},
-{
-["color"] = "3e9eff",
-[16] = {
-10,
-11,
-},
-[17] = {
-3,
-},
-},
-{
-[20] = {
-5,
-},
-[13] = {
-},
-[18] = {
-4,
-},
-["color"] = "fffb3e",
-[12] = {
-},
-[16] = {
-12,
-},
-[6] = {
-},
-},
-{
-["color"] = "3eff3e",
-[16] = {
-3,
-},
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[19] = {
-2,
-},
-[20] = {
-2,
-},
-[16] = {
-4,
-},
-},
-{
-["color"] = "3effff",
-[12] = {
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[16] = {
-5,
-},
-[20] = {
-3,
-},
-[18] = {
-2,
-},
-},
-{
-["color"] = "3e3eff",
-[16] = {
-6,
-},
-[17] = {
-2,
-},
-[19] = {
-3,
-},
-},
-{
-["color"] = "a1ff3e",
-[21] = {
-2,
-3,
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[22] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[20] = {
-6,
-},
-[9] = {
-12,
-13,
-},
-},
-{
-["color"] = "ff3e3e",
-[9] = {
-14,
-15,
-},
-},
-{
-["color"] = "3e9eff",
-[23] = {
-1,
-},
-},
-{
-[5] = {
-5,
-4,
-},
-[24] = {
-2,
-1,
-},
-[9] = {
-16,
-17,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[10] = {
-9,
-10,
-},
-[11] = {
-16,
-17,
-15,
-},
-},
-{
-["color"] = "ff3e9e",
-[26] = {
-2,
-1,
-4,
-5,
-3,
-6,
-},
-},
-{
-["color"] = "3effff",
-[10] = {
-11,
-12,
-},
-[26] = {
-7,
-8,
-9,
-},
-},
-{
-["color"] = "ff9b3e",
-[11] = {
-19,
-18,
-20,
-21,
-22,
-},
-},
-{
-["color"] = "3e3eff",
-[10] = {
-13,
-14,
-},
-[11] = {
-24,
-23,
-},
-},
-{
-["color"] = "a1ff3e",
-[12] = {
-6,
-},
-[3] = {
-6,
-5,
-},
-},
-{
-[5] = {
-7,
-6,
-},
-[24] = {
-6,
-8,
-3,
-4,
-5,
-7,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[25] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 33,
-["teeming"] = false,
-["selection"] = {
-35,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Quazii SD Fortified",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["objects"] = {
-{
-["d"] = {
-569.3758456447308,
--246.2853797714665,
-2,
-true,
-"Invis pot skip this. Inefficient pull.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-299.7171036565815,
--124.8534577995556,
-1,
-true,
-"you can skip this pack. Wait for Brute to move to the left of the room, then sneak past.",
-},
-["n"] = true,
-},
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["week"] = 5,
-["value"] = {
-["currentPull"] = 23,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[2] = {
-3,
-},
-[4] = {
-1,
-2,
-},
-[3] = {
-1,
-},
-},
-{
-{
-2,
-},
-{
-4,
-},
-nil,
-{
-3,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-3,
-},
-{
-6,
-5,
-},
-{
-2,
-},
-{
-4,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[6] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-[11] = {
-5,
-4,
-6,
-2,
-1,
-3,
-},
-[12] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-[8] = {
-1,
-},
-[7] = {
-1,
-2,
-3,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[10] = {
-1,
-},
-[9] = {
-1,
-},
-[8] = {
-5,
-},
-},
-{
-["color"] = "ff9b3e",
-[7] = {
-25,
-21,
-22,
-24,
-23,
-},
-},
-{
-[11] = {
-16,
-},
-[13] = {
-4,
-},
-[8] = {
-7,
-},
-[10] = {
-6,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[11] = {
-13,
-15,
-14,
-},
-},
-{
-["color"] = "ff3eff",
-[12] = {
-9,
-},
-[11] = {
-9,
-10,
-12,
-11,
-},
-},
-{
-[3] = {
-6,
-},
-[7] = {
-18,
-20,
-19,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[10] = {
-5,
-},
-[9] = {
-5,
-},
-[13] = {
-3,
-},
-},
-{
-[11] = {
-8,
-},
-[7] = {
-17,
-},
-[10] = {
-4,
-},
-["color"] = "3e9eff",
-[9] = {
-4,
-},
-[12] = {
-8,
-},
-},
-{
-["color"] = "fffb3e",
-[14] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[15] = {
-1,
-},
-},
-{
-[3] = {
-8,
-},
-[16] = {
-2,
-},
-[17] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[21] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[20] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[23] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 34,
-["teeming"] = false,
-["selection"] = {
-23,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["difficulty"] = 11,
-},
-{
-["mdi"] = {
-["freehold"] = 1,
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-},
-["week"] = 7,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 23,
-["currentSublevel"] = 2,
-["pulls"] = {
-{
-{
-1,
-},
-{
-2,
-1,
-3,
-},
-nil,
-{
-2,
-1,
-},
-["color"] = "648fff",
-},
-{
-["color"] = "dc267f",
-[3] = {
-1,
-},
-},
-{
-{
-2,
-},
-{
-4,
-},
-nil,
-{
-3,
-},
-["color"] = "fe6100",
-},
-{
-{
-3,
-},
-{
-6,
-5,
-},
-{
-2,
-},
-{
-4,
-},
-["color"] = "ffb000",
-},
-{
-["color"] = "648fff",
-[11] = {
-3,
-1,
-2,
-},
-},
-{
-[11] = {
-6,
-4,
-5,
-},
-[6] = {
-},
-["color"] = "dc267f",
-[5] = {
-},
-},
-{
-[8] = {
-1,
-},
-[7] = {
-1,
-2,
-3,
-},
-["color"] = "fe6100",
-},
-{
-["color"] = "ffb000",
-[8] = {
-3,
-2,
-4,
-},
-},
-{
-["color"] = "648fff",
-[10] = {
-1,
-},
-[9] = {
-1,
-},
-[8] = {
-5,
-},
-},
-{
-["color"] = "dc267f",
-[7] = {
-24,
-21,
-22,
-25,
-23,
-},
-},
-{
-[11] = {
-16,
-},
-[13] = {
-4,
-},
-[8] = {
-7,
-},
-[10] = {
-6,
-},
-["color"] = "fe6100",
-},
-{
-["color"] = "ffb000",
-[11] = {
-15,
-13,
-14,
-},
-},
-{
-["color"] = "648fff",
-[12] = {
-9,
-},
-[11] = {
-9,
-10,
-12,
-11,
-},
-},
-{
-[3] = {
-6,
-},
-[7] = {
-18,
-20,
-19,
-},
-["color"] = "dc267f",
-},
-{
-["color"] = "fe6100",
-[10] = {
-5,
-},
-[9] = {
-5,
-},
-[13] = {
-3,
-},
-},
-{
-[11] = {
-8,
-},
-[7] = {
-17,
-},
-[10] = {
-4,
-},
-["color"] = "ffb000",
-[9] = {
-4,
-},
-[12] = {
-8,
-},
-},
-{
-["color"] = "648fff",
-[14] = {
-1,
-},
-},
-{
-["color"] = "dc267f",
-[15] = {
-1,
-},
-},
-{
-["color"] = "fe6100",
-[18] = {
-9,
-7,
-8,
-10,
-12,
-11,
-},
-},
-{
-["color"] = "ffb000",
-[19] = {
-1,
-},
-},
-{
-["color"] = "648fff",
-[22] = {
-1,
-},
-},
-{
-["color"] = "dc267f",
-[21] = {
-1,
-},
-},
-{
-["color"] = "fe6100",
-[20] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 34,
-["teeming"] = false,
-["selection"] = {
-23,
-},
-["riftOffsets"] = {
-[7] = {
-},
-},
-},
-["text"] = "1.6 SOA w/ Skips by Dratnos",
-["difficulty"] = 15,
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-430.9582821224306,
--352.7184213868451,
-2,
-true,
-"This pull is very scary for tanks - if you're not confident, save the praetor for later as it makes it hard to kite effectively.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-364.9717240165942,
--393.1214129010223,
-3,
-true,
-"You can jump just on this brazier to skip this",
-},
-},
-{
-["d"] = {
-5,
-1,
-3,
-true,
-"1bff00",
--8,
-},
-["t"] = {
--2.112917566113468,
-},
-["l"] = {
-"351.7",
-"-401.8",
-"437.5",
-"-259.2",
-},
-},
-{
-["n"] = true,
-["d"] = {
-379.8041892500016,
--375.9829983550072,
-3,
-true,
-"You can get on the ledge out here to skip this pack.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-398.5442382779448,
--331.8951420602106,
-3,
-true,
-"Sap/imprison the right most enemy or use mind soothe or shroud or someone with stealth and a multi-person mount to get up on the side without pulling this pack.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-418.6681329982712,
--297.3257553551349,
-3,
-true,
-"Invis pots, shroud, or mind soothe through these two packs.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-435.6533241741592,
--275.5672074988386,
-3,
-true,
-"Pull these guys behind this pillar to group them up.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-412.4329025156983,
--247.1571435813432,
-3,
-true,
-"Pull the next pack behind this pillar also (can do this after boss if CDs are ready)",
-},
-},
-{
-["n"] = true,
-["d"] = {
-353.7983413701378,
--281.3842739487234,
-2,
-true,
-"This pack is very buggy and annoying, be careful!",
-},
-},
-{
-["n"] = true,
-["d"] = {
-535.2258232221793,
--199.5476017795477,
-2,
-true,
-"You can use CC here, just beware because pride will spawn after only one or two kills.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-526.7473072405286,
--208.1210568963102,
-1,
-true,
-"Pull more slowly if scared of explosives",
-},
-},
-{
-["n"] = true,
-["d"] = {
-389.2738938292158,
--370.6004211021286,
-4,
-true,
-"You can do this more slowly if you're scared or don't have Kyrian spears from earlier in the dungeon!",
-},
-},
-},
-},
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["week"] = 9,
-["value"] = {
-["currentPull"] = 22,
-["currentSublevel"] = 3,
-["riftOffsets"] = {
-{
-},
-[9] = {
-},
-},
-["currentDungeonIdx"] = 34,
-["teeming"] = false,
-["selection"] = {
-22,
-},
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-2,
-3,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-2,
-},
-{
-4,
-},
-{
-1,
-},
-{
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-3,
-},
-{
-6,
-5,
-},
-{
-2,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[6] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-[11] = {
-2,
-1,
-3,
-5,
-4,
-6,
-},
-[12] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[8] = {
-4,
-2,
-3,
-},
-},
-{
-[7] = {
-},
-[8] = {
-5,
-},
-[10] = {
-1,
-},
-["color"] = "ff3e9e",
-[9] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[7] = {
-24,
-21,
-22,
-25,
-23,
-},
-},
-{
-[11] = {
-16,
-},
-[13] = {
-4,
-},
-[8] = {
-7,
-},
-[10] = {
-6,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[11] = {
-13,
-15,
-14,
-},
-},
-{
-["color"] = "a1ff3e",
-[12] = {
-9,
-},
-[11] = {
-9,
-10,
-12,
-11,
-},
-},
-{
-[3] = {
-6,
-},
-[7] = {
-18,
-20,
-19,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[10] = {
-5,
-},
-[9] = {
-5,
-},
-[13] = {
-3,
-},
-},
-{
-[11] = {
-8,
-},
-[7] = {
-17,
-},
-[10] = {
-4,
-},
-["color"] = "ff3e3e",
-[9] = {
-4,
-},
-[12] = {
-8,
-},
-},
-{
-["color"] = "3e9eff",
-[14] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[15] = {
-1,
-},
-},
-{
-[3] = {
-8,
-},
-[16] = {
-2,
-},
-[17] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[19] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[22] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[21] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[20] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[23] = {
-1,
-},
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 3",
-["objects"] = {
-},
-["difficulty"] = 11,
-},
-{
-["difficulty"] = 11,
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 19,
-["currentSublevel"] = 3,
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-2,
-3,
-},
-nil,
-{
-1,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[3] = {
-1,
-},
-},
-{
-{
-2,
-},
-{
-4,
-},
-nil,
-{
-3,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-3,
-},
-{
-6,
-5,
-},
-{
-2,
-},
-{
-4,
-},
-["color"] = "3e9eff",
-[11] = {
-6,
-4,
-5,
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-[11] = {
-1,
-2,
-3,
-},
-[8] = {
-},
-["color"] = "3eff3e",
-},
-{
-[8] = {
-4,
-2,
-3,
-},
-[10] = {
-},
-[9] = {
-},
-["color"] = "ff3e9e",
-},
-{
-[8] = {
-5,
-},
-[10] = {
-1,
-},
-[9] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[7] = {
-25,
-21,
-22,
-24,
-23,
-},
-},
-{
-[11] = {
-16,
-},
-[13] = {
-4,
-},
-[8] = {
-7,
-},
-[10] = {
-6,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[11] = {
-15,
-13,
-14,
-},
-},
-{
-["color"] = "ff3eff",
-[12] = {
-9,
-},
-[11] = {
-9,
-10,
-12,
-11,
-},
-},
-{
-[3] = {
-6,
-},
-[7] = {
-18,
-20,
-19,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-3,
-},
-[9] = {
-5,
-},
-[10] = {
-5,
-},
-},
-{
-[11] = {
-8,
-},
-[7] = {
-17,
-},
-[10] = {
-4,
-},
-["color"] = "3e9eff",
-[9] = {
-4,
-},
-[12] = {
-8,
-},
-},
-{
-["color"] = "fffb3e",
-[14] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[15] = {
-1,
-},
-},
-{
-[3] = {
-8,
-},
-[16] = {
-2,
-},
-[17] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[11] = {
-},
-[7] = {
-},
-[8] = {
-},
-[18] = {
-11,
-7,
-8,
-9,
-10,
-12,
-},
-["color"] = "3effff",
-},
-},
-["currentDungeonIdx"] = 34,
-["teeming"] = false,
-["selection"] = {
-19,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Retard Route",
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["objects"] = {
-},
-},
-{
-["difficulty"] = 30,
-["week"] = 8,
-["objects"] = {
-{
-["d"] = {
-364.9717240165942,
--393.1214129010223,
-3,
-true,
-"You can jump just on this brazier to skip this",
-},
-["n"] = true,
-},
-{
-["d"] = {
-5,
-1,
-3,
-true,
-"1bff00",
--8,
-},
-["l"] = {
-"351.7",
-"-401.8",
-"437.5",
-"-259.2",
-},
-["t"] = {
--2.112917566113468,
-},
-},
-{
-["d"] = {
-379.8041892500016,
--375.9829983550072,
-3,
-true,
-"You can get on the ledge out here to skip this pack.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-398.5442382779448,
--331.8951420602106,
-3,
-true,
-"Sap/imprison the right most enemy or use mind soothe or shroud or someone with stealth and a multi-person mount to get up on the side without pulling this pack.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-418.6681329982712,
--297.3257553551349,
-3,
-true,
-"Invis pots, shroud, or mind soothe through these two packs.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-435.6533241741592,
--275.5672074988386,
-3,
-true,
-"Pull these guys behind this pillar to group them up.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-412.4329025156983,
--247.1571435813432,
-3,
-true,
-"Pull the next pack behind this pillar also (can do this after boss if CDs are ready)",
-},
-["n"] = true,
-},
-{
-["d"] = {
-353.7983413701378,
--281.3842739487234,
-2,
-true,
-"This pack is very buggy and annoying, be careful!",
-},
-["n"] = true,
-},
-{
-["d"] = {
-535.2258232221793,
--199.5476017795477,
-2,
-true,
-"You can use CC here, just beware because pride will spawn after only one or two kills.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-526.7473072405286,
--208.1210568963102,
-1,
-true,
-"Pull more slowly if scared of explosives",
-},
-["n"] = true,
-},
-},
-["value"] = {
-["currentPull"] = 16,
-["currentSublevel"] = 4,
-["riftOffsets"] = {
-nil,
-nil,
-nil,
-{
-},
-{
-},
-{
-},
-{
-},
-{
-},
-},
-["currentDungeonIdx"] = 34,
-["teeming"] = false,
-["selection"] = {
-16,
-},
-["pulls"] = {
-{
-{
-1,
-},
-{
-2,
-1,
-3,
-},
-{
-1,
-},
-{
-1,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-2,
-},
-{
-4,
-},
-nil,
-{
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-3,
-},
-{
-6,
-5,
-},
-{
-2,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[6] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-[11] = {
-2,
-1,
-3,
-},
-[12] = {
-},
-["color"] = "fffb3e",
-},
-{
-[11] = {
-4,
-5,
-6,
-},
-[12] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-[8] = {
-1,
-},
-[7] = {
-1,
-2,
-3,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[8] = {
-4,
-2,
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[10] = {
-1,
-},
-[9] = {
-1,
-},
-[8] = {
-5,
-},
-},
-{
-["color"] = "3e3eff",
-[7] = {
-21,
-22,
-24,
-25,
-23,
-},
-},
-{
-[11] = {
-16,
-},
-[13] = {
-4,
-},
-[8] = {
-7,
-},
-[10] = {
-6,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[11] = {
-15,
-13,
-14,
-},
-},
-{
-["color"] = "3eff9e",
-[12] = {
-9,
-},
-[11] = {
-9,
-10,
-12,
-11,
-},
-},
-{
-[3] = {
-6,
-},
-[7] = {
-18,
-20,
-19,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[10] = {
-5,
-},
-[9] = {
-5,
-},
-[13] = {
-3,
-},
-},
-{
-[11] = {
-8,
-},
-[7] = {
-17,
-},
-[10] = {
-4,
-},
-["color"] = "fffb3e",
-[9] = {
-4,
-},
-[12] = {
-8,
-},
-},
-{
-["color"] = "3eff3e",
-[14] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[18] = {
-12,
-7,
-8,
-9,
-10,
-11,
-},
-},
-{
-["color"] = "3effff",
-[18] = {
-2,
-1,
-4,
-5,
-3,
-6,
-},
-},
-{
-["color"] = "ff9b3e",
-[19] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[21] = {
-1,
-},
-},
-{
-[21] = {
-},
-[22] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[20] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[23] = {
-1,
-},
-},
-},
-},
-["text"] = "1.8 SOA w/ Skips by Dratnos 2",
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["week"] = 5,
-["value"] = {
-["currentPull"] = 24,
-["currentSublevel"] = 3,
-["pulls"] = {
-{
-{
-1,
-2,
-4,
-3,
-5,
-},
-nil,
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[2] = {
-5,
-4,
-6,
-7,
-},
-[5] = {
-},
-},
-{
-{
-17,
-18,
-},
-nil,
-{
-5,
-6,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[7] = {
-1,
-},
-},
-{
-{
-16,
-14,
-15,
-},
-{
-14,
-13,
-},
-{
-7,
-8,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[5] = {
-3,
-},
-},
-{
-{
-8,
-},
-["color"] = "ff3e9e",
-[6] = {
-1,
-},
-[3] = {
-4,
-},
-},
-{
-["color"] = "3effff",
-[9] = {
-1,
-},
-[8] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[2] = {
-17,
-16,
-15,
-},
-},
-{
-["color"] = "3e3eff",
-[13] = {
-1,
-},
-[8] = {
-2,
-},
-[14] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[8] = {
-3,
-4,
-},
-[9] = {
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[13] = {
-3,
-2,
-},
-},
-{
-[13] = {
-5,
-},
-[8] = {
-7,
-},
-["color"] = "3eff9e",
-[14] = {
-2,
-},
-[9] = {
-7,
-},
-[16] = {
-},
-},
-{
-[11] = {
-4,
-3,
-},
-[17] = {
-1,
-2,
-},
-[10] = {
-3,
-},
-["color"] = "ff3e3e",
-[12] = {
-6,
-7,
-},
-},
-{
-["color"] = "3e9eff",
-[16] = {
-},
-[19] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[25] = {
-1,
-},
-[24] = {
-1,
-},
-},
-{
-{
-20,
-19,
-},
-["color"] = "3eff3e",
-[22] = {
-6,
-7,
-4,
-8,
-9,
-5,
-},
-[20] = {
-1,
-},
-},
-{
-{
-21,
-},
-[6] = {
-2,
-},
-[21] = {
-1,
-},
-["color"] = "ff3e9e",
-[20] = {
-2,
-},
-[23] = {
-1,
-},
-[22] = {
-1,
-2,
-3,
-},
-},
-{
-{
-22,
-23,
-},
-["color"] = "3effff",
-[20] = {
-3,
-},
-[21] = {
-2,
-},
-},
-{
-{
-24,
-25,
-},
-["color"] = "ff9b3e",
-[6] = {
-3,
-},
-[23] = {
-2,
-},
-[20] = {
-4,
-},
-},
-{
-["color"] = "3e3eff",
-[26] = {
-1,
-},
-[27] = {
-1,
-2,
-3,
-},
-},
-{
-["color"] = "a1ff3e",
-[28] = {
-1,
-2,
-3,
-},
-[29] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[31] = {
-1,
-},
-[30] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[32] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
-["selection"] = {
-24,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["difficulty"] = 11,
-},
-{
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["week"] = 5,
-["uid"] = "92XZqeSo42Q",
-["value"] = {
-["currentPull"] = 26,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-4,
-1,
-2,
-3,
-},
-["color"] = "ff3eff",
-[3] = {
-1,
-},
-},
-{
-{
-5,
-},
-nil,
-{
-2,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-4,
-5,
-6,
-7,
-},
-},
-{
-{
-17,
-18,
-},
-nil,
-{
-6,
-5,
-},
-{
-4,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[7] = {
-1,
-},
-},
-{
-{
-14,
-16,
-15,
-},
-{
-14,
-13,
-},
-{
-8,
-7,
-},
-["color"] = "3eff3e",
-},
-{
-{
-8,
-},
-["color"] = "ff3e9e",
-[6] = {
-1,
-},
-[3] = {
-4,
-},
-},
-{
-[8] = {
-1,
-},
-[2] = {
-},
-[9] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[13] = {
-1,
-},
-[8] = {
-2,
-},
-["color"] = "ff9b3e",
-[14] = {
-1,
-},
-[2] = {
-16,
-17,
-15,
-},
-},
-{
-["color"] = "3e3eff",
-[8] = {
-3,
-4,
-},
-[9] = {
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-3,
-2,
-},
-},
-{
-["color"] = "ff3eff",
-[16] = {
-1,
-},
-},
-{
-[8] = {
-6,
-},
-["color"] = "3eff9e",
-[9] = {
-4,
-},
-[18] = {
-},
-},
-{
-[18] = {
-2,
-6,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-[9] = {
-6,
-5,
-},
-["color"] = "ff3e3e",
-},
-{
-[11] = {
-4,
-3,
-},
-[17] = {
-1,
-2,
-},
-[10] = {
-3,
-},
-["color"] = "3e9eff",
-[12] = {
-6,
-7,
-},
-},
-{
-["color"] = "fffb3e",
-[19] = {
-1,
-},
-},
-{
-{
-20,
-19,
-},
-["color"] = "3eff3e",
-[22] = {
-6,
-7,
-4,
-8,
-9,
-5,
-},
-[20] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[6] = {
-2,
-},
-[23] = {
-1,
-},
-},
-{
-{
-21,
-},
-["color"] = "3effff",
-[22] = {
-1,
-2,
-3,
-},
-[20] = {
-2,
-},
-[21] = {
-1,
-},
-},
-{
-{
-22,
-23,
-},
-["color"] = "ff9b3e",
-[20] = {
-3,
-},
-[21] = {
-2,
-},
-},
-{
-{
-24,
-25,
-},
-["color"] = "3e3eff",
-[6] = {
-3,
-},
-[23] = {
-2,
-},
-[20] = {
-4,
-},
-},
-{
-["color"] = "a1ff3e",
-[26] = {
-1,
-},
-[27] = {
-1,
-2,
-3,
-},
-},
-{
-["color"] = "ff3eff",
-[28] = {
-1,
-2,
-3,
-},
-[29] = {
-1,
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[31] = {
-1,
-},
-[30] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[32] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
-["selection"] = {
-26,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Retard route",
-["objects"] = {
-},
-["difficulty"] = 11,
-},
-{
-["difficulty"] = 13,
-["week"] = 6,
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Default 2",
-["objects"] = {
-},
-["value"] = {
-["currentPull"] = 24,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[6] = {
-},
-},
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
-["selection"] = {
-24,
-},
-["pulls"] = {
-{
-{
-2,
-1,
-4,
-3,
-},
-["color"] = "ff3eff",
-[3] = {
-},
-},
-{
-{
-5,
-},
-{
-4,
-5,
-6,
-7,
-},
-{
-2,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-17,
-18,
-},
-nil,
-{
-6,
-5,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[7] = {
-1,
-},
-},
-{
-{
-16,
-14,
-15,
-},
-[3] = {
-7,
-8,
-},
-["color"] = "fffb3e",
-},
-{
-{
-8,
-},
-["color"] = "3eff3e",
-[6] = {
-1,
-},
-[3] = {
-4,
-},
-},
-{
-["color"] = "ff3e9e",
-[10] = {
-1,
-},
-[12] = {
-2,
-1,
-},
-[11] = {
-1,
-},
-},
-{
-[13] = {
-1,
-},
-[8] = {
-2,
-},
-["color"] = "3effff",
-[14] = {
-1,
-},
-[2] = {
-17,
-16,
-15,
-},
-},
-{
-["color"] = "ff9b3e",
-[15] = {
-1,
-},
-[9] = {
-2,
-},
-[8] = {
-4,
-3,
-},
-},
-{
-["color"] = "3e3eff",
-[13] = {
-3,
-2,
-},
-},
-{
-[8] = {
-6,
-5,
-},
-[13] = {
-4,
-},
-[9] = {
-4,
-3,
-},
-["color"] = "a1ff3e",
-},
-{
-[18] = {
-2,
-6,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-[9] = {
-5,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-[11] = {
-4,
-3,
-},
-[17] = {
-1,
-2,
-},
-[10] = {
-3,
-},
-["color"] = "3eff9e",
-[12] = {
-6,
-7,
-},
-},
-{
-["color"] = "ff3e3e",
-[19] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-2,
-},
-[23] = {
-1,
-},
-},
-{
-{
-20,
-19,
-},
-["color"] = "fffb3e",
-[22] = {
-9,
-7,
-4,
-8,
-5,
-6,
-},
-[20] = {
-1,
-},
-},
-{
-{
-21,
-},
-["color"] = "3eff3e",
-[22] = {
-1,
-2,
-3,
-},
-[20] = {
-2,
-},
-[21] = {
-1,
-},
-},
-{
-{
-24,
-25,
-},
-["color"] = "ff3e9e",
-[6] = {
-3,
-},
-[20] = {
-4,
-},
-[23] = {
-2,
-},
-},
-{
-{
-23,
-22,
-},
-["color"] = "3effff",
-[20] = {
-3,
-},
-[21] = {
-2,
-},
-},
-{
-["color"] = "ff9b3e",
-[28] = {
-1,
-2,
-3,
-},
-[29] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[26] = {
-1,
-},
-[27] = {
-1,
-2,
-3,
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[31] = {
-1,
-},
-[30] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[32] = {
-1,
-},
-[3] = {
-},
-},
-},
-},
-},
-{
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["week"] = 7,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[7] = {
-},
-},
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-4,
-3,
-},
-{
-2,
-1,
-3,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-5,
-},
-{
-6,
-4,
-5,
-7,
-},
-{
-2,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-17,
-18,
-},
-nil,
-{
-5,
-6,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[7] = {
-1,
-},
-},
-{
-{
-11,
-9,
-10,
-},
-{
-14,
-13,
-},
-["color"] = "fffb3e",
-},
-{
-{
-16,
-14,
-15,
-},
-[3] = {
-7,
-8,
-},
-["color"] = "3eff3e",
-},
-{
-[8] = {
-1,
-},
-[9] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[10] = {
-1,
-},
-[12] = {
-2,
-1,
-},
-[11] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[2] = {
-17,
-16,
-15,
-},
-},
-{
-[14] = {
-1,
-},
-[13] = {
-1,
-},
-[8] = {
-2,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-2,
-3,
-},
-},
-{
-[8] = {
-6,
-},
-[9] = {
-4,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[18] = {
-3,
-6,
-2,
-8,
-1,
-4,
-5,
-7,
-},
-},
-{
-["color"] = "ff3e3e",
-[9] = {
-6,
-5,
-},
-},
-{
-[11] = {
-4,
-3,
-},
-[17] = {
-1,
-2,
-},
-[10] = {
-3,
-},
-["color"] = "3e9eff",
-[12] = {
-6,
-7,
-},
-},
-{
-["color"] = "fffb3e",
-[19] = {
-1,
-},
-},
-{
-[13] = {
-5,
-},
-[8] = {
-7,
-},
-["color"] = "3eff3e",
-[14] = {
-2,
-},
-[9] = {
-7,
-},
-},
-{
-{
-20,
-19,
-},
-["color"] = "ff3e9e",
-[22] = {
-9,
-7,
-4,
-8,
-5,
-6,
-},
-[20] = {
-1,
-},
-},
-{
-{
-21,
-},
-["color"] = "3effff",
-[22] = {
-1,
-2,
-3,
-},
-[20] = {
-2,
-},
-[21] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[6] = {
-2,
-},
-[23] = {
-1,
-},
-},
-{
-{
-22,
-23,
-},
-["color"] = "3e3eff",
-[20] = {
-3,
-},
-[21] = {
-2,
-},
-},
-{
-{
-24,
-25,
-},
-["color"] = "a1ff3e",
-[6] = {
-3,
-},
-[23] = {
-2,
-},
-[20] = {
-4,
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[28] = {
-1,
-2,
-3,
-},
-[29] = {
-1,
-},
-},
-{
-{
-},
-{
-11,
-8,
-9,
-10,
-12,
-},
-[27] = {
-1,
-2,
-3,
-},
-[26] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Ruta 25",
-["objects"] = {
-},
-["difficulty"] = 15,
-},
-{
-["difficulty"] = 13,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-1,
-4,
-3,
-5,
-},
-{
-4,
-5,
-6,
-7,
-},
-{
-2,
-},
-{
-1,
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-{
-17,
-18,
-},
-["color"] = "3eff9e",
-[5] = {
-2,
-},
-[4] = {
-4,
-},
-[3] = {
-6,
-5,
-},
-},
-{
-{
-11,
-9,
-10,
-},
-nil,
-{
-},
-{
-},
-{
-},
-{
-},
-["color"] = "ff3e3e",
-},
-{
-{
-16,
-14,
-15,
-},
-{
-},
-{
-8,
-7,
-},
-[5] = {
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[7] = {
-1,
-},
-},
-{
-[11] = {
-1,
-},
-[2] = {
-16,
-17,
-15,
-},
-[8] = {
-1,
-},
-[10] = {
-1,
-},
-[12] = {
-2,
-1,
-},
-[9] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-[13] = {
-1,
-},
-[8] = {
-2,
-3,
-4,
-},
-["color"] = "ff3e9e",
-[14] = {
-1,
-},
-[9] = {
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[13] = {
-2,
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[10] = {
-2,
-},
-[12] = {
-3,
-4,
-5,
-},
-[11] = {
-2,
-},
-},
-{
-[11] = {
-4,
-3,
-},
-[17] = {
-1,
-2,
-},
-[10] = {
-3,
-},
-["color"] = "3e3eff",
-[12] = {
-6,
-7,
-},
-},
-{
-[13] = {
-4,
-},
-[8] = {
-5,
-6,
-},
-[18] = {
-7,
-6,
-2,
-8,
-3,
-1,
-4,
-5,
-},
-["color"] = "a1ff3e",
-[9] = {
-3,
-4,
-},
-},
-{
-[13] = {
-5,
-},
-[8] = {
-7,
-},
-["color"] = "ff3eff",
-[14] = {
-2,
-},
-[9] = {
-6,
-5,
-7,
-},
-[16] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[19] = {
-1,
-},
-},
-{
-{
-20,
-19,
-24,
-25,
-21,
-22,
-23,
-},
-[24] = {
-1,
-},
-[25] = {
-1,
-},
-[26] = {
-1,
-},
-[27] = {
-1,
-2,
-3,
-},
-["color"] = "ff3e3e",
-[29] = {
-1,
-},
-[22] = {
-8,
-7,
-4,
-9,
-5,
-6,
-1,
-2,
-3,
-},
-[20] = {
-1,
-4,
-2,
-3,
-},
-[21] = {
-1,
-2,
-},
-[6] = {
-3,
-2,
-},
-[23] = {
-2,
-1,
-},
-[28] = {
-1,
-2,
-3,
-},
-},
-},
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 5",
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
@@ -26090,1174 +2141,7 @@ nil,
 ["text"] = "<New Preset>",
 },
 },
-{
-{
-["difficulty"] = 11,
-["week"] = 5,
-["value"] = {
-["currentPull"] = 25,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-2,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-["color"] = "3eff9e",
-[4] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[9] = {
-1,
-2,
-},
-[8] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[10] = {
-1,
-},
-[29] = {
-},
-},
-{
-["color"] = "fffb3e",
-[30] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[8] = {
-2,
-3,
-},
-[9] = {
-4,
-3,
-},
-[12] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[31] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[14] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[15] = {
-1,
-2,
-3,
-4,
-5,
-7,
-},
-},
-{
-["color"] = "3e3eff",
-[15] = {
-6,
-8,
-9,
-10,
-11,
-12,
-},
-},
-{
-["color"] = "a1ff3e",
-[16] = {
-1,
-},
-},
-{
-[18] = {
-},
-["color"] = "ff3eff",
-[17] = {
-2,
-1,
-},
-[15] = {
-},
-},
-{
-[17] = {
-3,
-},
-[15] = {
-},
-[18] = {
-1,
-},
-["color"] = "3eff9e",
-[16] = {
-2,
-},
-},
-{
-[18] = {
-6,
-},
-[15] = {
-22,
-24,
-23,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[18] = {
-5,
-},
-[15] = {
-20,
-21,
-19,
-},
-[17] = {
-},
-},
-{
-["color"] = "fffb3e",
-[19] = {
-1,
-},
-[17] = {
-7,
-6,
-},
-},
-{
-["color"] = "3eff3e",
-[17] = {
-12,
-},
-[20] = {
-1,
-},
-[18] = {
-3,
-},
-},
-{
-["color"] = "ff3e9e",
-[21] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[25] = {
-2,
-},
-[22] = {
-3,
-4,
-},
-},
-{
-[24] = {
-2,
-},
-[25] = {
-3,
-},
-["color"] = "ff9b3e",
-[23] = {
-9,
-10,
-},
-[22] = {
-5,
-},
-},
-{
-[25] = {
-},
-[22] = {
-6,
-},
-[26] = {
-3,
-},
-[23] = {
-13,
-15,
-14,
-12,
-11,
-},
-["color"] = "3e3eff",
-},
-{
-[24] = {
-3,
-},
-[25] = {
-4,
-},
-[22] = {
-},
-[23] = {
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[27] = {
-1,
-},
-},
-{
-[24] = {
-1,
-},
-[22] = {
-1,
-},
-[23] = {
-4,
-1,
-2,
-3,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[28] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 36,
-["teeming"] = false,
-["selection"] = {
-25,
-},
-["riftOffsets"] = {
-[5] = {
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-},
-{
-["difficulty"] = 21,
-["week"] = 9,
-["value"] = {
-["selection"] = {
-26,
-},
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[5] = {
-},
-[6] = {
-},
-[9] = {
-},
-},
-["currentDungeonIdx"] = 36,
-["teeming"] = false,
-["currentPull"] = 26,
-["pulls"] = {
-{
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-["color"] = "ff3eff",
-[4] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-[8] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[29] = {
-1,
-},
-},
-{
-[24] = {
-1,
-},
-[22] = {
-1,
-},
-[23] = {
-2,
-1,
-4,
-3,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[25] = {
-1,
-},
-[23] = {
-6,
-7,
-8,
-5,
-},
-[22] = {
-2,
-},
-},
-{
-["color"] = "3eff3e",
-[25] = {
-2,
-},
-[22] = {
-3,
-4,
-},
-},
-{
-[24] = {
-2,
-},
-[25] = {
-3,
-},
-["color"] = "ff3e9e",
-[23] = {
-9,
-10,
-},
-[22] = {
-5,
-},
-},
-{
-["color"] = "3effff",
-[26] = {
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[22] = {
-6,
-},
-[23] = {
-13,
-15,
-14,
-12,
-11,
-},
-},
-{
-["color"] = "3e3eff",
-[25] = {
-4,
-},
-[24] = {
-3,
-},
-},
-{
-["color"] = "a1ff3e",
-[27] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[15] = {
-2,
-1,
-3,
-4,
-5,
-7,
-},
-},
-{
-["color"] = "3eff9e",
-[15] = {
-8,
-9,
-6,
-12,
-10,
-11,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-1,
-},
-},
-{
-[18] = {
-},
-[15] = {
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[16] = {
-2,
-},
-[17] = {
-3,
-},
-[18] = {
-},
-},
-{
-[18] = {
-1,
-},
-[17] = {
-5,
-4,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[20] = {
-2,
-3,
-},
-},
-{
-["color"] = "3effff",
-[18] = {
-3,
-},
-[17] = {
-12,
-},
-[20] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[21] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[30] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[12] = {
-1,
-},
-[9] = {
-4,
-3,
-},
-[8] = {
-2,
-3,
-},
-},
-{
-["color"] = "ff3eff",
-[13] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[14] = {
-1,
-},
-},
-{
-[17] = {
-},
-[15] = {
-24,
-22,
-23,
-},
-[18] = {
-6,
-},
-["color"] = "ff3e3e",
-[3] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[28] = {
-1,
-},
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Trance Week 5 Theater of Pain 2",
-["objects"] = {
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Preset>",
-},
-},
-{
-{
-["difficulty"] = 15,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 37,
-["teeming"] = false,
-["selection"] = {
-},
-["pulls"] = {
-{
-["color"] = "228b22",
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["week"] = 1,
-["addonVersion"] = 552,
-["uid"] = "zHu0sNS42VH",
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-[28] = {
-8,
-8,
-8,
-},
-[29] = {
-1,
-1,
-},
-[16] = {
-8,
-8,
-[6] = 8,
-},
-[9] = {
-7,
-7,
-},
-[5] = {
-8,
-},
-[34] = {
-8,
-8,
-8,
-},
-[20] = {
-7,
-7,
-7,
-},
-[21] = {
-1,
-1,
-},
-[18] = {
-1,
-1,
-},
-[2] = {
-8,
-},
-[3] = {
-1,
-1,
-},
-},
-["currentDungeonIdx"] = 37,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-8,
-1,
-2,
-9,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-3,
-7,
-6,
-},
-nil,
-{
-2,
-1,
-},
-{
-1,
-2,
-},
-{
-1,
-},
-{
-1,
-},
-{
-},
-["color"] = "3eff9e",
-},
-{
-{
-4,
-5,
-},
-nil,
-{
-3,
-},
-{
-3,
-4,
-},
-["color"] = "ff3e3e",
-[7] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[5] = {
-2,
-3,
-},
-},
-{
-[8] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[10] = {
-1,
-},
-[11] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-},
-[12] = {
-1,
-2,
-},
-[26] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[17] = {
-1,
-},
-[18] = {
-1,
-},
-[12] = {
-7,
-6,
-},
-[19] = {
-6,
-},
-[16] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[17] = {
-2,
-},
-[18] = {
-2,
-},
-["color"] = "ff9b3e",
-[13] = {
-},
-[16] = {
-2,
-6,
-},
-[12] = {
-},
-},
-{
-[37] = {
-1,
-},
-[35] = {
-7,
-8,
-9,
-5,
-6,
-},
-["color"] = "3e3eff",
-},
-{
-[34] = {
-1,
-},
-[35] = {
-2,
-4,
-3,
-},
-["color"] = "a1ff3e",
-},
-{
-[37] = {
-2,
-},
-[34] = {
-2,
-3,
-},
-[35] = {
-13,
-1,
-10,
-12,
-11,
-},
-["color"] = "ff3eff",
-},
-{
-[27] = {
-6,
-4,
-5,
-2,
-3,
-1,
-},
-[28] = {
-3,
-1,
-2,
-},
-[29] = {
-2,
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[20] = {
-2,
-},
-[12] = {
-},
-[21] = {
-2,
-},
-[22] = {
-1,
-2,
-},
-[33] = {
-},
-["color"] = "ff3e3e",
-[23] = {
-1,
-},
-[36] = {
-},
-},
-{
-[13] = {
-},
-[27] = {
-7,
-},
-["color"] = "3e9eff",
-[29] = {
-3,
-},
-[30] = {
-1,
-},
-[16] = {
-},
-[32] = {
-1,
-},
-[18] = {
-},
-[19] = {
-},
-[17] = {
-},
-[14] = {
-},
-[12] = {
-},
-[28] = {
-4,
-},
-},
-{
-["color"] = "fffb3e",
-[31] = {
-1,
-},
-},
-},
-},
-["text"] = "Streets Pug (11 Aug)",
-["difficulty"] = 10,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["difficulty"] = 10,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 37,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-8,
-9,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-3,
-7,
-6,
-},
-["color"] = "3eff9e",
-[3] = {
-2,
-1,
-},
-[4] = {
-1,
-2,
-},
-[5] = {
-1,
-},
-},
-{
-{
-4,
-5,
-},
-nil,
-{
-3,
-},
-{
-3,
-4,
-},
-{
-3,
-2,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[6] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[7] = {
-1,
-},
-},
-{
-[8] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[10] = {
-1,
-},
-[11] = {
-3,
-1,
-2,
-4,
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-1,
-},
-[26] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[13] = {
-3,
-6,
-},
-[15] = {
-1,
-},
-[12] = {
-10,
-9,
-5,
-8,
-},
-[14] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[27] = {
-2,
-3,
-1,
-6,
-4,
-5,
-7,
-},
-[28] = {
-1,
-2,
-3,
-4,
-},
-[32] = {
-1,
-},
-[12] = {
-13,
-},
-[29] = {
-1,
-2,
-3,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[30] = {
-1,
-},
-},
-{
-[37] = {
-1,
-},
-[34] = {
-1,
-},
-[35] = {
-7,
-8,
-9,
-5,
-6,
-2,
-4,
-3,
-},
-["color"] = "ff3eff",
-},
-{
-[37] = {
-2,
-},
-[34] = {
-2,
-3,
-},
-[35] = {
-13,
-1,
-10,
-12,
-11,
-},
-["color"] = "3eff9e",
-},
-{
-[20] = {
-2,
-},
-[21] = {
-2,
-},
-[22] = {
-1,
-2,
-},
-[23] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-},
-},
-["text"] = "Route 2",
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-{
+[38] = {
 {
 ["value"] = {
 ["currentSublevel"] = 1,
@@ -27268,20 +2152,20 @@ nil,
 {
 ["mdiEnabled"] = false,
 ["week"] = 1,
-["difficulty"] = 30,
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
+["objects"] = {
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Default 2",
 ["value"] = {
 ["currentPull"] = 8,
 ["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 38,
+["teeming"] = false,
+["selection"] = {
+8,
+},
 ["pulls"] = {
 {
 ["color"] = "ff3eff",
@@ -27431,96 +2315,25 @@ nil,
 ["color"] = "3effff",
 },
 },
-["currentDungeonIdx"] = 38,
-["teeming"] = false,
-["selection"] = {
-8,
 },
-["riftOffsets"] = {
-{
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
+["text"] = "Default 2",
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
 },
-},
-["objects"] = {
-},
+["difficulty"] = 30,
 },
 {
 ["objects"] = {
 },
 ["uid"] = "rmNTRkFiM4a",
 ["addonVersion"] = 550,
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Gambit PUG (9 Aug)",
-["difficulty"] = 10,
 ["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 14,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-[2] = {
-8,
-8,
-[13] = 8,
-[15] = 8,
-[16] = 8,
-},
-[8] = {
-8,
-8,
-8,
-8,
-8,
-8,
-8,
-},
-[3] = {
-1,
-1,
-1,
-1,
-1,
-1,
-[20] = 1,
-[17] = 1,
-[21] = 1,
-[22] = 1,
-[16] = 1,
-},
-[9] = {
-1,
-1,
-1,
-1,
-1,
-1,
-1,
-},
-[14] = {
-8,
-8,
-},
-[23] = {
-[4] = 8,
-},
-[15] = {
-1,
-1,
-1,
-1,
-},
-},
-["currentDungeonIdx"] = 38,
-["teeming"] = false,
-["selection"] = {
-14,
-},
 ["pulls"] = {
 {
 {
@@ -27648,11 +2461,11 @@ nil,
 },
 [24] = {
 },
+["color"] = "3e9eff",
 [5] = {
 13,
 14,
 },
-["color"] = "3e9eff",
 },
 {
 [6] = {
@@ -27663,16 +2476,16 @@ nil,
 },
 [13] = {
 },
-[7] = {
+[17] = {
 },
-[5] = {
+[23] = {
 },
 ["color"] = "fffb3e",
 [19] = {
 },
-[23] = {
+[5] = {
 },
-[17] = {
+[7] = {
 },
 },
 {
@@ -27733,14 +2546,14 @@ nil,
 },
 {
 ["color"] = "3e3eff",
+[18] = {
+1,
+},
 [20] = {
 1,
 2,
 },
 [12] = {
-1,
-},
-[18] = {
 1,
 },
 },
@@ -27799,1386 +2612,103 @@ nil,
 [16] = {
 1,
 },
+[22] = {
+1,
+},
 [21] = {
 1,
 2,
 },
-[22] = {
+},
+},
+["currentPull"] = 14,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[2] = {
+8,
+8,
+[13] = 8,
+[15] = 8,
+[16] = 8,
+},
+[8] = {
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+},
+[3] = {
+1,
+1,
+1,
+1,
+1,
+1,
+[20] = 1,
+[17] = 1,
+[21] = 1,
+[22] = 1,
+[16] = 1,
+},
+[15] = {
+1,
+1,
+1,
 1,
 },
+[14] = {
+8,
+8,
+},
+[9] = {
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+[23] = {
+[4] = 8,
+},
+},
+["currentDungeonIdx"] = 38,
+["teeming"] = false,
+["selection"] = {
+14,
+},
+["riftOffsets"] = {
+{
 },
 },
 },
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Gambit PUG (9 Aug)",
+["difficulty"] = 10,
+["week"] = 1,
 },
 {
 ["value"] = 0,
 ["text"] = "<New Preset>",
 },
 },
-nil,
-nil,
-nil,
-{
-{
-["mdiEnabled"] = false,
-["value"] = {
-["currentPull"] = 8,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-},
-{
-9,
-1,
-2,
-3,
-},
-{
-8,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-2,
-},
-{
-4,
-},
-{
-5,
-4,
-},
-{
-3,
-},
-{
-},
-["color"] = "3eff9e",
-},
-{
-{
-},
-{
-10,
-},
-{
-6,
-},
-{
-6,
-},
-{
-},
-{
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-},
-{
-},
-{
-},
-{
-},
-[6] = {
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[7] = {
-1,
-},
-},
-{
-[11] = {
-1,
-},
-[10] = {
-6,
-3,
-},
-[12] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[11] = {
-2,
-},
-[10] = {
-4,
-5,
-},
-[12] = {
-3,
-10,
-},
-["color"] = "ff3e9e",
-},
-{
-[13] = {
-3,
-},
-[10] = {
-2,
-},
-[12] = {
-8,
-},
-[14] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[11] = {
-3,
-},
-[10] = {
-1,
-10,
-},
-[12] = {
-4,
-9,
-},
-["color"] = "ff9b3e",
-},
-{
-[11] = {
-4,
-},
-[13] = {
-},
-[10] = {
-7,
-},
-["color"] = "3e3eff",
-[12] = {
-6,
-},
-},
-{
-["color"] = "a1ff3e",
-[22] = {
-2,
-1,
-3,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[16] = {
-1,
-2,
-4,
-3,
-},
-[17] = {
-1,
-3,
-2,
-5,
-4,
-6,
-},
-[18] = {
-1,
-},
-},
-{
-[17] = {
-22,
-},
-[10] = {
-9,
-},
-[12] = {
-7,
-},
-[18] = {
-2,
-},
-[16] = {
-9,
-10,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[19] = {
-1,
-},
-[17] = {
-21,
-11,
-12,
-13,
-},
-[16] = {
-7,
-8,
-},
-},
-},
-["currentDungeonIdx"] = 42,
-["teeming"] = false,
-["selection"] = {
-8,
-},
-["riftOffsets"] = {
-[2] = {
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-["difficulty"] = 30,
-},
-},
-{
-{
-["mdiEnabled"] = false,
-["week"] = 4,
-["value"] = {
-["currentPull"] = 25,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-9,
-},
-[6] = {
-2,
-},
-[3] = {
-4,
-},
-["color"] = "ff3eff",
-[4] = {
-2,
-},
-[5] = {
-2,
-},
-},
-{
-{
-2,
-3,
-},
-{
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-11,
-},
-{
-12,
-},
-{
-5,
-},
-[7] = {
-2,
-},
-["color"] = "ff3e3e",
-},
-{
-nil,
-{
-13,
-14,
-},
-{
-6,
-},
-{
-4,
-},
-nil,
-{
-4,
-},
-{
-3,
-},
-["color"] = "3e9eff",
-},
-{
-{
-5,
-6,
-},
-{
-7,
-6,
-},
-{
-3,
-},
-{
-1,
-},
-{
-1,
-},
-{
-1,
-},
-["color"] = "fffb3e",
-},
-{
-{
-8,
-7,
-},
-{
-8,
-9,
-},
-["color"] = "3eff3e",
-[7] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[8] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[10] = {
-1,
-},
-[9] = {
-2,
-1,
-},
-[11] = {
-1,
-},
-},
-{
-[11] = {
-2,
-},
-[13] = {
-1,
-},
-[15] = {
-1,
-},
-["color"] = "ff9b3e",
-[14] = {
-1,
-},
-[9] = {
-3,
-},
-},
-{
-[11] = {
-3,
-},
-[13] = {
-3,
-},
-[18] = {
-1,
-},
-["color"] = "3e3eff",
-[14] = {
-4,
-},
-[16] = {
-2,
-},
-},
-{
-[20] = {
-1,
-},
-[13] = {
-4,
-},
-["color"] = "a1ff3e",
-[14] = {
-3,
-},
-[9] = {
-4,
-5,
-},
-[11] = {
-4,
-},
-},
-{
-["color"] = "ff3eff",
-[16] = {
-9,
-10,
-},
-[12] = {
-3,
-},
-[19] = {
-4,
-1,
-2,
-3,
-},
-},
-{
-["color"] = "3eff9e",
-[21] = {
-1,
-},
-},
-{
-[24] = {
-1,
-},
-[28] = {
-7,
-},
-[25] = {
-1,
-2,
-},
-["color"] = "ff3e3e",
-[23] = {
-1,
-},
-},
-{
-[28] = {
-6,
-},
-[25] = {
-7,
-10,
-},
-["color"] = "3e9eff",
-[32] = {
-1,
-},
-[22] = {
-11,
-},
-},
-{
-[27] = {
-8,
-},
-[31] = {
-1,
-},
-[29] = {
-7,
-},
-["color"] = "fffb3e",
-[22] = {
-4,
-5,
-},
-},
-{
-[27] = {
-3,
-},
-[28] = {
-3,
-},
-["color"] = "3eff3e",
-[30] = {
-1,
-},
-[29] = {
-2,
-8,
-},
-},
-{
-[27] = {
-4,
-},
-[28] = {
-4,
-},
-[29] = {
-3,
-},
-["color"] = "ff3e9e",
-[22] = {
-9,
-3,
-},
-},
-{
-["color"] = "3effff",
-[25] = {
-4,
-5,
-6,
-},
-},
-{
-["color"] = "ff9b3e",
-[28] = {
-1,
-},
-[29] = {
-1,
-},
-[27] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[28] = {
-5,
-},
-[29] = {
-5,
-4,
-},
-[27] = {
-6,
-5,
-},
-},
-{
-[36] = {
-},
-[24] = {
-3,
-},
-[28] = {
-2,
-},
-[25] = {
-11,
-},
-["color"] = "a1ff3e",
-[35] = {
-},
-[27] = {
-2,
-},
-},
-{
-["color"] = "ff3eff",
-[33] = {
-1,
-},
-[34] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[36] = {
-1,
-},
-[35] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[37] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 43,
-["teeming"] = false,
-["selection"] = {
-25,
-},
-["riftOffsets"] = {
-[4] = {
-},
-},
-},
-["difficulty"] = 30,
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-},
-},
-{
-{
-["mdiEnabled"] = false,
-["week"] = 2,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 4,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-7,
-8,
-9,
-},
-["color"] = "ff3eff",
-[3] = {
-1,
-},
-},
-{
-{
-11,
-14,
-15,
-16,
-},
-{
-2,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-4,
-1,
-2,
-3,
-},
-[7] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-9,
-10,
-12,
-11,
-},
-[7] = {
-3,
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-8,
-7,
-5,
-6,
-},
-[7] = {
-2,
-},
-},
-{
-["color"] = "3eff3e",
-[8] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[10] = {
-1,
-2,
-},
-},
-{
-[11] = {
-1,
-},
-[10] = {
-4,
-3,
-},
-["color"] = "3effff",
-},
-{
-[11] = {
-3,
-},
-[13] = {
-4,
-},
-[10] = {
-5,
-6,
-7,
-},
-[12] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-{
-[14] = {
-1,
-},
-[13] = {
-3,
-2,
-1,
-},
-["color"] = "3e3eff",
-[11] = {
-2,
-},
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-6,
-5,
-},
-[15] = {
-4,
-5,
-},
-[14] = {
-2,
-},
-},
-{
-["color"] = "ff3eff",
-[16] = {
-1,
-},
-[12] = {
-2,
-},
-[10] = {
-10,
-},
-},
-{
-["color"] = "3eff9e",
-[17] = {
-1,
-2,
-},
-[18] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-2,
-3,
-4,
-},
-[12] = {
-3,
-4,
-},
-[17] = {
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[17] = {
-4,
-5,
-},
-},
-{
-["color"] = "fffb3e",
-[16] = {
-5,
-6,
-},
-[17] = {
-6,
-},
-[12] = {
-5,
-},
-},
-{
-["color"] = "3eff3e",
-[19] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[22] = {
-3,
-1,
-4,
-},
-[20] = {
-1,
-},
-[21] = {
-2,
-4,
-3,
-},
-},
-{
-["color"] = "3effff",
-[22] = {
-5,
-6,
-},
-[20] = {
-2,
-},
-[21] = {
-5,
-6,
-},
-},
-{
-["color"] = "ff9b3e",
-[22] = {
-7,
-},
-[21] = {
-7,
-8,
-10,
-9,
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-8,
-},
-[20] = {
-3,
-},
-[21] = {
-12,
-11,
-14,
-13,
-},
-},
-{
-["color"] = "a1ff3e",
-[22] = {
-},
-[20] = {
-5,
-4,
-},
-[21] = {
-},
-},
-{
-["color"] = "ff3eff",
-[23] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[24] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 44,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-[2] = {
-},
-},
-},
-["difficulty"] = 30,
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-},
-},
-{
-{
-["mdiEnabled"] = false,
-["week"] = 4,
-["value"] = {
-["currentPull"] = 20,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-["color"] = "ff3eff",
-[16] = {
-3,
-},
-[15] = {
-4,
-6,
-5,
-},
-[17] = {
-},
-},
-{
-["color"] = "3eff9e",
-[16] = {
-1,
-},
-[17] = {
-1,
-},
-[15] = {
-2,
-3,
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-2,
-},
-[17] = {
-},
-},
-{
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[11] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[13] = {
-2,
-3,
-},
-[12] = {
-},
-},
-{
-["color"] = "ff3e9e",
-[13] = {
-1,
-},
-[12] = {
-},
-},
-{
-["color"] = "3effff",
-[12] = {
-1,
-2,
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[14] = {
-1,
-},
-},
-{
-{
-8,
-7,
-},
-{
-5,
-},
-["color"] = "3e3eff",
-},
-{
-nil,
-{
-4,
-},
-{
-3,
-},
-{
-2,
-},
-{
-},
-["color"] = "a1ff3e",
-},
-{
-{
-6,
-5,
-},
-{
-3,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-[5] = {
-1,
-2,
-},
-[4] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-},
-[7] = {
-},
-[8] = {
-2,
-},
-},
-{
-["color"] = "3e9eff",
-[8] = {
-4,
-3,
-},
-[9] = {
-1,
-},
-[7] = {
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-[8] = {
-1,
-},
-},
-{
-{
-3,
-4,
-2,
-1,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-},
-},
-["currentDungeonIdx"] = 45,
-["teeming"] = false,
-["selection"] = {
-20,
-},
-["riftOffsets"] = {
-[4] = {
-},
-},
-},
-["difficulty"] = 30,
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-},
-{
-["difficulty"] = 30,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 7,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 45,
-["selection"] = {
-7,
-},
-["pulls"] = {
-{
-[11] = {
-4,
-6,
-5,
-},
-[13] = {
-17,
-18,
-20,
-21,
-22,
-24,
-23,
-19,
-16,
-9,
-10,
-11,
-12,
-13,
-14,
-15,
-},
-[12] = {
-3,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[13] = {
-1,
-2,
-4,
-8,
-5,
-3,
-6,
-7,
-},
-[12] = {
-1,
-},
-[11] = {
-1,
-2,
-3,
-},
-},
-{
-["color"] = "ff3e3e",
-[14] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[7] = {
-1,
-},
-},
-{
-[8] = {
-6,
-13,
-1,
-2,
-4,
-5,
-3,
-16,
-10,
-12,
-11,
-15,
-7,
-8,
-9,
-14,
-},
-[9] = {
-3,
-2,
-1,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[10] = {
-1,
-},
-},
-{
-{
-7,
-6,
-},
-{
-4,
-12,
-},
-{
-3,
-2,
-},
-{
-},
-["color"] = "ff3e9e",
-},
-{
-{
-4,
-5,
-},
-{
-3,
-11,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[4] = {
-8,
-7,
-1,
-2,
-},
-[3] = {
-1,
-},
-},
-{
-{
-10,
-11,
-8,
-9,
-},
-{
-5,
-8,
-9,
-10,
-6,
-},
-["color"] = "3e3eff",
-[5] = {
-2,
-4,
-3,
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[6] = {
-1,
-},
-},
-{
-{
-2,
-3,
-1,
-},
-{
-2,
-7,
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[16] = {
-1,
-11,
-},
-[15] = {
-4,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-3,
-},
-[15] = {
-1,
-2,
-3,
-},
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Early Season ez",
-["objects"] = {
-},
-["uid"] = "FNMS5ck15vc",
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-{
+[46] = {
 {
 ["mdiEnabled"] = false,
 ["week"] = 9,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[9] = {
+["pulls"] = {
+{
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 46,
@@ -29186,34 +2716,242 @@ nil,
 ["selection"] = {
 1,
 },
-["pulls"] = {
-{
-["color"] = "ff3eff",
+["riftOffsets"] = {
+[9] = {
 },
 },
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
 },
 ["difficulty"] = 30,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
 },
 {
 ["mdiEnabled"] = false,
 ["week"] = 6,
-["difficulty"] = 20,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["objects"] = {
+},
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
+["text"] = "Default 2",
 ["value"] = {
 ["currentPull"] = 5,
 ["currentSublevel"] = 2,
-["riftOffsets"] = {
-[4] = {
+["pulls"] = {
+{
+{
+1,
+2,
+},
+{
+1,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+nil,
+{
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+{
+3,
+4,
+5,
+},
+{
+2,
+},
+nil,
+{
+},
+{
+},
+{
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+23,
+21,
+22,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+},
+["color"] = "3eff9e",
+[13] = {
+},
+},
+{
+["color"] = "ff3e3e",
+[10] = {
+1,
+2,
+},
+[9] = {
+1,
+2,
+3,
+},
+[8] = {
+2,
+3,
+1,
+},
+},
+{
+[13] = {
+},
+[8] = {
+5,
+4,
+},
+[10] = {
+3,
+4,
+},
+["color"] = "3e9eff",
+[9] = {
+4,
+5,
+},
+},
+{
+{
+},
+{
 },
 [6] = {
+56,
+53,
+54,
+55,
+57,
+58,
+68,
+59,
+60,
+61,
+62,
+64,
+65,
+66,
+69,
+70,
+71,
+67,
+63,
+46,
+41,
+42,
+43,
+44,
+45,
+48,
+49,
+50,
+51,
+52,
+47,
+},
+[13] = {
+2,
+1,
+},
+[10] = {
+},
+[12] = {
+2,
+3,
+1,
+5,
+4,
+},
+["color"] = "fffb3e",
+},
+{
+[14] = {
+1,
+2,
+},
+[13] = {
+6,
+3,
+4,
+5,
+},
+[12] = {
+},
+["color"] = "3eff3e",
+},
+{
+[6] = {
+},
+[13] = {
+8,
+7,
+},
+[3] = {
+3,
+4,
+},
+[12] = {
+6,
+7,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
 },
 },
 ["currentDungeonIdx"] = 46,
@@ -29221,15774 +2959,18 @@ nil,
 ["selection"] = {
 5,
 },
-["pulls"] = {
-{
-{
-1,
-2,
-},
-{
-1,
-},
-{
-},
-{
-},
-{
-},
-{
-},
-nil,
-{
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-{
-3,
-4,
-5,
-},
-{
-2,
-},
-nil,
-{
-},
-{
-},
-{
-11,
-12,
-13,
-14,
-15,
-16,
-17,
-18,
-19,
-20,
-23,
-21,
-22,
-24,
-25,
-26,
-27,
-28,
-29,
-30,
-},
-["color"] = "3eff9e",
-[13] = {
-},
-},
-{
-["color"] = "ff3e3e",
-[10] = {
-1,
-2,
-},
-[9] = {
-1,
-2,
-3,
-},
-[8] = {
-2,
-3,
-1,
-},
-},
-{
-[13] = {
-},
-[8] = {
-5,
-4,
-},
-[10] = {
-3,
-4,
-},
-["color"] = "3e9eff",
-[9] = {
-4,
-5,
-},
-},
-{
-{
-},
-{
-},
-[6] = {
-56,
-53,
-54,
-55,
-57,
-58,
-68,
-59,
-60,
-61,
-62,
-64,
-65,
-66,
-69,
-70,
-71,
-67,
-63,
-46,
-41,
-42,
-43,
-44,
-45,
-48,
-49,
-50,
-51,
-52,
-47,
-},
-[13] = {
-2,
-1,
-},
-[10] = {
-},
-[12] = {
-2,
-3,
-1,
-5,
-4,
-},
-["color"] = "fffb3e",
-},
-{
-[14] = {
-1,
-2,
-},
-[13] = {
-6,
-3,
-4,
-5,
-},
-[12] = {
-},
-["color"] = "3eff3e",
-},
-{
-[6] = {
-},
-[13] = {
-8,
-7,
-},
-[3] = {
-3,
-4,
-},
-[12] = {
-6,
-7,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-},
-},
-},
-["text"] = "Default 2",
-["objects"] = {
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-{
-{
-["mdiEnabled"] = false,
-["week"] = 6,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
 ["riftOffsets"] = {
+[4] = {
+},
 [6] = {
 },
 },
-["currentDungeonIdx"] = 47,
-["teeming"] = false,
-["selection"] = {
-1,
 },
-["pulls"] = {
-{
-["color"] = "ff3eff",
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["difficulty"] = 30,
-},
-},
-{
-{
 ["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 48,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-["color"] = "ff3eff",
-},
-},
-},
-},
-},
-{
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 2,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 49,
-["teeming"] = false,
-["selection"] = {
-2,
-},
-["pulls"] = {
-{
-{
-3,
-},
-{
-2,
-3,
-},
-{
-3,
-4,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-4,
-},
-[4] = {
-2,
-},
-["color"] = "3eff9e",
-},
-{
-{
-11,
-},
-{
-6,
-},
-{
-10,
-},
-{
-6,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[4] = {
-9,
-7,
-8,
-},
-},
-{
-{
-12,
-13,
-},
-{
-7,
-},
-{
-12,
-11,
-},
-["color"] = "fffb3e",
-},
-{
-{
-14,
-},
-{
-8,
-},
-{
-13,
-14,
-},
-{
-11,
-10,
-},
-["color"] = "3eff3e",
-},
-{
-{
-16,
-17,
-15,
-},
-[4] = {
-13,
-12,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[5] = {
-1,
-},
-},
-{
-[6] = {
-4,
-3,
-},
-[7] = {
-11,
-12,
-13,
-21,
-16,
-17,
-18,
-20,
-22,
-24,
-25,
-26,
-27,
-14,
-28,
-23,
-19,
-15,
-},
-[8] = {
-8,
-},
-["color"] = "ff9b3e",
-[9] = {
-5,
-},
-},
-{
-[8] = {
-9,
-10,
-},
-[9] = {
-6,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[6] = {
-6,
-5,
-7,
-},
-[9] = {
-7,
-8,
-},
-},
-{
-[11] = {
-1,
-},
-[10] = {
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[12] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[15] = {
-1,
-},
-},
-{
-[13] = {
-2,
-},
-[15] = {
-2,
-},
-["color"] = "3e9eff",
-[14] = {
-3,
-1,
-},
-[16] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[16] = {
-3,
-2,
-},
-[13] = {
-3,
-1,
-},
-},
-{
-[13] = {
-4,
-},
-[15] = {
-3,
-},
-["color"] = "3eff3e",
-[14] = {
-4,
-2,
-},
-[16] = {
-4,
-},
-},
-{
-["color"] = "ff3e9e",
-[17] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[18] = {
-2,
-1,
-10,
-},
-},
-{
-[18] = {
-3,
-4,
-},
-[13] = {
-5,
-},
-[14] = {
-5,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[15] = {
-4,
-},
-},
-{
-[18] = {
-11,
-12,
-6,
-5,
-},
-[16] = {
-5,
-},
-["color"] = "a1ff3e",
-[13] = {
-6,
-},
-},
-{
-[18] = {
-8,
-7,
-9,
-},
-[19] = {
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[20] = {
-1,
-},
-},
-},
-},
-},
-},
-[51] = {
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 20,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 51,
-["teeming"] = false,
-["selection"] = {
-20,
-},
-["pulls"] = {
-{
-{
-2,
-1,
-4,
-3,
-7,
-8,
-5,
-6,
-},
-{
-1,
-},
-{
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[2] = {
-3,
-2,
-4,
-5,
-},
-[4] = {
-3,
-2,
-4,
-5,
-6,
-},
-[3] = {
-2,
-},
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-1,
-},
-[7] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-{
-9,
-10,
-12,
-11,
-},
-{
-7,
-6,
-},
-nil,
-{
-8,
-7,
-},
-["color"] = "3e9eff",
-[8] = {
-1,
-2,
-3,
-},
-},
-{
-[3] = {
-4,
-3,
-},
-[2] = {
-8,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[9] = {
-1,
-},
-},
-{
-[11] = {
-1,
-2,
-},
-[10] = {
-1,
-2,
-},
-["color"] = "ff3e9e",
-},
-{
-[11] = {
-3,
-},
-[13] = {
-12,
-},
-["color"] = "3effff",
-[10] = {
-16,
-17,
-},
-},
-{
-["color"] = "ff9b3e",
-[12] = {
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[10] = {
-4,
-3,
-6,
-5,
-},
-[13] = {
-1,
-2,
-3,
-},
-},
-{
-[14] = {
-1,
-2,
-9,
-},
-[10] = {
-18,
-19,
-},
-["color"] = "a1ff3e",
-[13] = {
-15,
-16,
-},
-},
-{
-[13] = {
-6,
-},
-[15] = {
-2,
-},
-[10] = {
-11,
-10,
-},
-["color"] = "ff3eff",
-[14] = {
-3,
-},
-},
-{
-["color"] = "3eff9e",
-[16] = {
-1,
-2,
-3,
-4,
-},
-[17] = {
-2,
-1,
-3,
-},
-},
-{
-[18] = {
-1,
-},
-[13] = {
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[19] = {
-1,
-},
-[13] = {
-7,
-8,
-},
-},
-{
-["color"] = "fffb3e",
-[13] = {
-9,
-10,
-11,
-},
-[10] = {
-12,
-},
-[19] = {
-2,
-},
-},
-{
-[20] = {
-1,
-},
-[10] = {
-13,
-14,
-15,
-},
-["color"] = "3eff3e",
-[14] = {
-4,
-},
-[19] = {
-4,
-3,
-},
-},
-{
-["color"] = "ff3e9e",
-[19] = {
-5,
-},
-[20] = {
-2,
-},
-[14] = {
-5,
-6,
-7,
-8,
-},
-},
-{
-[21] = {
-1,
-2,
-},
-[22] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[21] = {
-3,
-},
-[22] = {
-2,
-},
-[23] = {
-4,
-7,
-8,
-9,
-5,
-6,
-1,
-2,
-3,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[24] = {
-1,
-},
-},
-},
-},
-},
-},
-[104] = {
-{
-["difficulty"] = 11,
-["week"] = 8,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 104,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-["color"] = "ff3eff",
-},
-},
-},
-},
-{
-["difficulty"] = 28,
-["uid"] = "j1r8jJOONpm",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"454.8",
-"-233.7",
-1,
-true,
-"On Pull 18, kill and kick Pyromancer as a priority.",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"517.5",
-"-314.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"516.3",
-"-316.1",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"515.2",
-"-317.9",
-"514.2",
-"-319.5",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"511",
-"-321.9",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"508.9",
-"-322",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"506.7",
-"-322.1",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"504.5",
-"-322.2",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"502.4",
-"-322.4",
-"501.8",
-"-322.4",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"651.2",
-"-288.2",
-"599.2",
-"-282.5",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"599.2",
-"-282.5",
-"603.6",
-"-277",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-["l"] = {
-"599.2",
-"-282.5",
-"604.7",
-"-286.9",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"499.8",
-"-135.1",
-"492.2",
-"-148",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"492.2",
-"-148",
-"499",
-"-149.8",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"492.2",
-"-148",
-"490.4",
-"-154.8",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"494.1",
-"-153.6",
-"538.8",
-"-179.3",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"538.8",
-"-179.3",
-"536.9",
-"-186.1",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"538.8",
-"-179.3",
-"532",
-"-177.4",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"533",
-"-186.8",
-"515.9",
-"-205",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"515.9",
-"-205",
-"523",
-"-205.2",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"515.9",
-"-205",
-"515.7",
-"-212.1",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"464.2",
-"-276.6",
-"464.2",
-"-276.6",
-"464.2",
-"-276.6",
-"463.2",
-"-278.4",
-"463.2",
-"-278.4",
-"463.2",
-"-278.4",
-"463.2",
-"-278.4",
-"462.1",
-"-280.3",
-"462.1",
-"-280.3",
-"462.1",
-"-280.3",
-"462.1",
-"-280.3",
-"461",
-"-282.2",
-"461",
-"-282.2",
-"461",
-"-282.2",
-"461",
-"-282.2",
-"459.9",
-"-284.1",
-"459.9",
-"-284.1",
-"459.9",
-"-284.1",
-"459.9",
-"-284.1",
-"458.8",
-"-286",
-"458.8",
-"-286",
-"458.8",
-"-286",
-"458.8",
-"-286",
-"457.8",
-"-287.9",
-"457.8",
-"-287.9",
-"457.8",
-"-287.9",
-"457.8",
-"-287.9",
-"456.7",
-"-289.8",
-"456.7",
-"-289.8",
-"456.7",
-"-289.8",
-"456.7",
-"-289.8",
-"455.6",
-"-291.6",
-"455.6",
-"-291.6",
-"455.6",
-"-291.6",
-"455.6",
-"-291.6",
-"454.6",
-"-293.5",
-"454.6",
-"-293.5",
-"454.6",
-"-293.5",
-"454.6",
-"-293.5",
-"453.4",
-"-295.4",
-"453.4",
-"-295.4",
-"453.4",
-"-295.4",
-"453.4",
-"-295.4",
-"452.4",
-"-297.2",
-"452.4",
-"-297.2",
-"452.4",
-"-297.2",
-"452.4",
-"-297.2",
-"451.3",
-"-299.1",
-"451.3",
-"-299.1",
-"451.3",
-"-299.1",
-"451.3",
-"-299.1",
-"450.2",
-"-301.1",
-"450.2",
-"-301.1",
-"450.2",
-"-301.1",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"466",
-"-275",
-"466",
-"-275",
-"466",
-"-275",
-"467.3",
-"-276.8",
-"467.3",
-"-276.8",
-"467.3",
-"-276.8",
-"467.3",
-"-276.8",
-"468.6",
-"-278.5",
-"468.6",
-"-278.5",
-"468.6",
-"-278.5",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"395aea",
--8,
-true,
-},
-["l"] = {
-"462",
-"-274.4",
-"462",
-"-274.4",
-"462",
-"-274.4",
-"459.9",
-"-274.8",
-"459.9",
-"-274.8",
-"459.9",
-"-274.8",
-"459.9",
-"-274.8",
-"457.8",
-"-275.1",
-"457.8",
-"-275.1",
-"457.8",
-"-275.1",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"562",
-"-250.1",
-1,
-true,
-"BL Pull 1",
-},
-},
-},
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[8] = {
-},
-[6] = {
-},
-[4] = {
-},
-},
-["currentDungeonIdx"] = 104,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-},
-{
-1,
-2,
-},
-{
-1,
-2,
-3,
-4,
-5,
-6,
-},
-{
-1,
-},
-nil,
-nil,
-nil,
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-nil,
-{
-3,
-},
-{
-7,
-8,
-9,
-10,
-11,
-},
-{
-3,
-2,
-},
-["color"] = "3eff9e",
-},
-{
-{
-3,
-},
-{
-4,
-},
-{
-12,
-13,
-14,
-15,
-16,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-[3] = {
-38,
-37,
-39,
-40,
-41,
-},
-[2] = {
-7,
-},
-[5] = {
-2,
-},
-["color"] = "3e9eff",
-},
-{
-[5] = {
-3,
-},
-[2] = {
-8,
-9,
-},
-["color"] = "fffb3e",
-},
-{
-[5] = {
-4,
-},
-[2] = {
-11,
-10,
-},
-["color"] = "3eff3e",
-},
-{
-[5] = {
-5,
-},
-[2] = {
-12,
-13,
-},
-["color"] = "ff3e9e",
-},
-{
-[3] = {
-53,
-52,
-54,
-55,
-56,
-},
-[7] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[5] = {
-6,
-},
-["color"] = "ff9b3e",
-[9] = {
-1,
-},
-[8] = {
-3,
-2,
-},
-},
-{
-{
-8,
-9,
-},
-[3] = {
-57,
-58,
-59,
-60,
-61,
-62,
-64,
-65,
-66,
-63,
-},
-["color"] = "3e3eff",
-},
-{
-[5] = {
-7,
-},
-[2] = {
-16,
-15,
-14,
-},
-[8] = {
-4,
-},
-["color"] = "a1ff3e",
-},
-{
-{
-10,
-},
-{
-17,
-},
-{
-71,
-68,
-69,
-70,
-67,
-},
-[9] = {
-2,
-},
-["color"] = "ff3eff",
-},
-{
-[5] = {
-8,
-},
-[9] = {
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-12,
-},
-[3] = {
-77,
-80,
-81,
-79,
-78,
-},
-["color"] = "ff3e3e",
-[8] = {
-10,
-9,
-},
-},
-{
-[11] = {
-1,
-},
-[10] = {
-1,
-},
-[12] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-[14] = {
-1,
-},
-[13] = {
-1,
-2,
-4,
-5,
-3,
-},
-[15] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[13] = {
-9,
-8,
-10,
-11,
-6,
-7,
-},
-[16] = {
-1,
-},
-},
-{
-[14] = {
-2,
-},
-[16] = {
-2,
-},
-[15] = {
-2,
-},
-["color"] = "ff3e9e",
-},
-{
-[17] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[13] = {
-15,
-12,
-13,
-14,
-16,
-17,
-},
-["color"] = "ff9b3e",
-},
-{
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-["color"] = "3e3eff",
-},
-},
-},
-["text"] = "Incorporeal-Spiteful-Petko-Tyrannical",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["week"] = 8,
 },
 {
 ["value"] = 0,
 ["text"] = "<New Route>",
-},
-},
-[110] = {
-{
-["difficulty"] = 2,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 15,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-5,
-4,
-6,
-},
-{
-1,
-},
-{
-1,
-},
-{
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3eff",
-},
-{
-{
-7,
-},
-{
-2,
-},
-{
-2,
-},
-{
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-5,
-},
-[4] = {
-6,
-},
-[3] = {
-4,
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[2] = {
-4,
-3,
-},
-},
-{
-["color"] = "fffb3e",
-[17] = {
-1,
-},
-},
-{
-[5] = {
-1,
-},
-[6] = {
-2,
-4,
-3,
-},
-["color"] = "3eff3e",
-},
-{
-{
-8,
-9,
-},
-["color"] = "ff3e9e",
-[7] = {
-2,
-1,
-3,
-},
-[9] = {
-1,
-},
-[8] = {
-1,
-3,
-2,
-},
-},
-{
-[5] = {
-2,
-},
-[7] = {
-4,
-5,
-},
-["color"] = "3effff",
-},
-{
-{
-10,
-},
-["color"] = "ff9b3e",
-[5] = {
-3,
-},
-[9] = {
-2,
-},
-[8] = {
-4,
-5,
-},
-},
-{
-{
-12,
-11,
-},
-[9] = {
-3,
-4,
-},
-["color"] = "3e3eff",
-},
-{
-[18] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[6] = {
-5,
-},
-[22] = {
-1,
-2,
-},
-[10] = {
-1,
-2,
-},
-},
-{
-[11] = {
-1,
-},
-["color"] = "3eff9e",
-[4] = {
-7,
-},
-[12] = {
-1,
-},
-[6] = {
-6,
-8,
-7,
-},
-},
-{
-[11] = {
-2,
-3,
-},
-[10] = {
-5,
-4,
-3,
-6,
-7,
-8,
-9,
-},
-["color"] = "ff3e3e",
-[4] = {
-8,
-},
-[6] = {
-9,
-},
-},
-{
-[6] = {
-13,
-},
-[10] = {
-12,
-10,
-11,
-13,
-},
-["color"] = "3e9eff",
-[12] = {
-},
-[11] = {
-8,
-7,
-6,
-},
-},
-{
-["color"] = "fffb3e",
-[10] = {
-15,
-16,
-14,
-17,
-},
-[6] = {
-1,
-14,
-},
-[11] = {
-9,
-10,
-},
-},
-{
-["color"] = "3eff3e",
-[6] = {
-12,
-10,
-11,
-},
-[11] = {
-4,
-5,
-},
-},
-{
-["color"] = "ff3e9e",
-[19] = {
-1,
-},
-[20] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[13] = {
-2,
-3,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[13] = {
-1,
-4,
-},
-[14] = {
-2,
-3,
-},
-[16] = {
-2,
-3,
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[15] = {
-2,
-},
-[14] = {
-4,
-5,
-},
-},
-{
-["color"] = "a1ff3e",
-[15] = {
-3,
-},
-[14] = {
-6,
-1,
-},
-},
-},
-["currentDungeonIdx"] = 110,
-["teeming"] = false,
-["selection"] = {
-15,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = "C5jrmS20VL3",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 3,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-4,
-5,
-6,
-},
-{
-1,
-},
-{
-1,
-},
-{
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3eff",
-},
-{
-{
-7,
-},
-{
-5,
-2,
-},
-{
-4,
-3,
-2,
-},
-{
-6,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-4,
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-{
-9,
-8,
-},
-[8] = {
-1,
-3,
-},
-[7] = {
-2,
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[7] = {
-3,
-4,
-5,
-},
-[8] = {
-2,
-},
-["color"] = "3eff3e",
-[9] = {
-1,
-},
-[5] = {
-2,
-},
-},
-{
-{
-12,
-11,
-10,
-},
-["color"] = "ff3e9e",
-[5] = {
-3,
-},
-[9] = {
-4,
-3,
-2,
-},
-[8] = {
-4,
-5,
-},
-},
-{
-[18] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[6] = {
-5,
-},
-[22] = {
-1,
-2,
-},
-[10] = {
-1,
-2,
-},
-},
-{
-[6] = {
-6,
-8,
-7,
-},
-[12] = {
-1,
-},
-[4] = {
-7,
-},
-["color"] = "3e3eff",
-[11] = {
-1,
-},
-},
-{
-[11] = {
-2,
-3,
-},
-[10] = {
-7,
-4,
-5,
-3,
-6,
-8,
-9,
-},
-["color"] = "a1ff3e",
-[4] = {
-8,
-},
-[6] = {
-9,
-},
-},
-{
-[6] = {
-16,
-17,
-15,
-},
-[10] = {
-18,
-19,
-},
-[12] = {
-3,
-4,
-2,
-},
-["color"] = "ff3eff",
-[11] = {
-},
-},
-{
-[11] = {
-5,
-4,
-},
-[15] = {
-},
-["color"] = "3eff9e",
-[14] = {
-},
-[6] = {
-10,
-11,
-12,
-},
-},
-{
-[20] = {
-1,
-},
-[24] = {
-1,
-},
-["color"] = "ff3e3e",
-[19] = {
-1,
-},
-[23] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-3,
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[13] = {
-1,
-4,
-},
-[14] = {
-2,
-3,
-},
-[16] = {
-2,
-1,
-3,
-},
-},
-{
-[14] = {
-5,
-4,
-6,
-1,
-},
-[15] = {
-2,
-3,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[21] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 110,
-["teeming"] = false,
-["selection"] = {
-3,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 1",
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-444.0454209698108,
--131.6365103467477,
-1,
-true,
-"Lust here",
-},
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["t"] = {
-0.2153547133502482,
-},
-["l"] = {
-"447.1",
-"-138.4",
-"437.3",
-"-140.5",
-},
-},
-{
-["n"] = true,
-["d"] = {
-463.5926027437455,
--220.6382716416824,
-1,
-true,
-"Pull this pack into boss if possible",
-},
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["t"] = {
-0.950546454187894,
-},
-["l"] = {
-"469.3",
-"-226.0",
-"465.2",
-"-231.8",
-},
-},
-{
-["n"] = true,
-["d"] = {
-246.6943834601285,
--408.5133668631132,
-1,
-true,
-"Don't butt pull this pack",
-},
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["t"] = {
-1.84174334108763,
-},
-["l"] = {
-"255.5",
-"-408.5",
-"257.6",
-"-415.7",
-},
-},
-{
-["n"] = true,
-["d"] = {
-313.5603285806888,
--384.629050082421,
-1,
-true,
-"Teleport Cart",
-},
-},
-{
-["n"] = true,
-["d"] = {
-613.8939853162248,
--169.5304671417809,
-1,
-true,
-"Teleport Cart",
-},
-},
-},
-["week"] = 1,
-},
-{
-["difficulty"] = 2,
-["uid"] = "yGhznTkIm(a",
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 1 2",
-["objects"] = {
-{
-["d"] = {
-444.0454209698108,
--131.6365103467477,
-1,
-true,
-"Lust here",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"447.1",
-"-138.4",
-"437.3",
-"-140.5",
-},
-["t"] = {
-0.2153547133502482,
-},
-},
-{
-["d"] = {
-463.5926027437455,
--220.6382716416824,
-1,
-true,
-"Pull this pack into boss if possible",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"469.3",
-"-226.0",
-"465.2",
-"-231.8",
-},
-["t"] = {
-0.950546454187894,
-},
-},
-{
-["d"] = {
-246.6943834601285,
--408.5133668631132,
-1,
-true,
-"Don't butt pull this pack",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"255.5",
-"-408.5",
-"257.6",
-"-415.7",
-},
-["t"] = {
-1.84174334108763,
-},
-},
-{
-["d"] = {
-313.5603285806888,
--384.629050082421,
-1,
-true,
-"Teleport Cart",
-},
-["n"] = true,
-},
-{
-["d"] = {
-613.8939853162248,
--169.5304671417809,
-1,
-true,
-"Teleport Cart",
-},
-["n"] = true,
-},
-},
-["value"] = {
-["currentPull"] = 16,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 110,
-["teeming"] = false,
-["selection"] = {
-16,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-4,
-5,
-6,
-},
-{
-1,
-},
-{
-1,
-},
-{
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3eff",
-},
-{
-{
-7,
-},
-{
-5,
-2,
-},
-{
-4,
-3,
-2,
-},
-{
-6,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-4,
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-{
-8,
-9,
-},
-[8] = {
-3,
-1,
-},
-[7] = {
-2,
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[7] = {
-3,
-4,
-5,
-},
-[8] = {
-2,
-},
-["color"] = "3eff3e",
-[9] = {
-1,
-},
-[5] = {
-2,
-},
-},
-{
-{
-12,
-11,
-10,
-},
-["color"] = "ff3e9e",
-[8] = {
-4,
-5,
-},
-[9] = {
-4,
-3,
-2,
-},
-[5] = {
-3,
-},
-},
-{
-[18] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[6] = {
-5,
-},
-[10] = {
-1,
-2,
-},
-[22] = {
-1,
-2,
-},
-},
-{
-[6] = {
-6,
-8,
-7,
-},
-[12] = {
-1,
-},
-[4] = {
-7,
-},
-[11] = {
-1,
-},
-["color"] = "3e3eff",
-},
-{
-[11] = {
-2,
-3,
-},
-[10] = {
-7,
-4,
-5,
-3,
-6,
-8,
-9,
-},
-["color"] = "a1ff3e",
-[4] = {
-8,
-},
-[6] = {
-9,
-},
-},
-{
-[6] = {
-13,
-14,
-1,
-},
-[10] = {
-12,
-10,
-11,
-13,
-16,
-14,
-15,
-17,
-},
-[12] = {
-},
-[11] = {
-8,
-7,
-6,
-9,
-10,
-},
-["color"] = "ff3eff",
-},
-{
-[11] = {
-5,
-4,
-},
-[15] = {
-},
-["color"] = "3eff9e",
-[14] = {
-},
-[6] = {
-10,
-11,
-12,
-},
-},
-{
-[20] = {
-1,
-},
-[24] = {
-1,
-},
-["color"] = "ff3e3e",
-[19] = {
-1,
-},
-[23] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-3,
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[13] = {
-1,
-4,
-},
-[16] = {
-2,
-1,
-3,
-},
-[14] = {
-2,
-3,
-},
-},
-{
-[14] = {
-5,
-4,
-6,
-1,
-},
-[15] = {
-2,
-3,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[21] = {
-1,
-},
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = ")(Zs6U56BuH",
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 1 3",
-["objects"] = {
-{
-["d"] = {
-444.0454209698108,
--131.6365103467477,
-1,
-true,
-"Lust here",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"447.1",
-"-138.4",
-"437.3",
-"-140.5",
-},
-["t"] = {
-0.2153547133502482,
-},
-},
-{
-["d"] = {
-463.5926027437455,
--220.6382716416824,
-1,
-true,
-"Pull this pack into boss if possible",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"469.3",
-"-226.0",
-"465.2",
-"-231.8",
-},
-["t"] = {
-0.950546454187894,
-},
-},
-{
-["d"] = {
-246.6943834601285,
--408.5133668631132,
-1,
-true,
-"Don't butt pull this pack",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"255.5",
-"-408.5",
-"257.6",
-"-415.7",
-},
-["t"] = {
-1.84174334108763,
-},
-},
-{
-["d"] = {
-313.5603285806888,
--384.629050082421,
-1,
-true,
-"Teleport Cart",
-},
-["n"] = true,
-},
-{
-["d"] = {
-613.8939853162248,
--169.5304671417809,
-1,
-true,
-"Teleport Cart",
-},
-["n"] = true,
-},
-},
-["value"] = {
-["currentPull"] = 5,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 110,
-["teeming"] = false,
-["selection"] = {
-5,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-4,
-5,
-6,
-},
-{
-1,
-},
-{
-1,
-},
-{
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3eff",
-},
-{
-{
-7,
-},
-{
-5,
-2,
-},
-{
-4,
-3,
-2,
-},
-{
-6,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-4,
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-{
-8,
-9,
-},
-["color"] = "fffb3e",
-[9] = {
-1,
-},
-[7] = {
-2,
-1,
-3,
-},
-[8] = {
-3,
-1,
-2,
-},
-},
-{
-[7] = {
-4,
-5,
-},
-[8] = {
-},
-["color"] = "3eff3e",
-[9] = {
-},
-[5] = {
-2,
-},
-},
-{
-{
-12,
-11,
-10,
-},
-["color"] = "ff3e9e",
-[8] = {
-4,
-5,
-},
-[9] = {
-4,
-3,
-2,
-},
-[5] = {
-3,
-},
-},
-{
-[18] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[6] = {
-5,
-},
-[10] = {
-1,
-2,
-},
-[22] = {
-1,
-2,
-},
-},
-{
-[6] = {
-6,
-8,
-7,
-},
-[12] = {
-1,
-},
-[4] = {
-7,
-},
-[11] = {
-1,
-},
-["color"] = "3e3eff",
-},
-{
-[11] = {
-2,
-3,
-},
-[10] = {
-7,
-4,
-5,
-3,
-6,
-8,
-9,
-},
-["color"] = "a1ff3e",
-[4] = {
-8,
-},
-[6] = {
-9,
-},
-},
-{
-[6] = {
-13,
-14,
-1,
-},
-[10] = {
-12,
-10,
-11,
-13,
-16,
-14,
-15,
-17,
-},
-[12] = {
-},
-[11] = {
-8,
-7,
-6,
-9,
-10,
-},
-["color"] = "ff3eff",
-},
-{
-[11] = {
-5,
-4,
-},
-[15] = {
-},
-["color"] = "3eff9e",
-[14] = {
-},
-[6] = {
-10,
-11,
-12,
-},
-},
-{
-[20] = {
-1,
-},
-[24] = {
-1,
-},
-["color"] = "ff3e3e",
-[19] = {
-1,
-},
-[23] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-3,
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[13] = {
-1,
-4,
-},
-[16] = {
-2,
-1,
-3,
-},
-[14] = {
-2,
-3,
-},
-},
-{
-[14] = {
-5,
-4,
-6,
-1,
-},
-[15] = {
-2,
-3,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[21] = {
-1,
-},
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = "OZfsGdz4t9A",
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 1 4",
-["objects"] = {
-{
-["d"] = {
-444.0454209698108,
--131.6365103467477,
-1,
-true,
-"Lust here",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"447.1",
-"-138.4",
-"437.3",
-"-140.5",
-},
-["t"] = {
-0.2153547133502482,
-},
-},
-{
-["d"] = {
-463.5926027437455,
--220.6382716416824,
-1,
-true,
-"Pull this pack into boss if possible",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"469.3",
-"-226.0",
-"465.2",
-"-231.8",
-},
-["t"] = {
-0.950546454187894,
-},
-},
-{
-["d"] = {
-246.6943834601285,
--408.5133668631132,
-1,
-true,
-"Don't butt pull this pack",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"255.5",
-"-408.5",
-"257.6",
-"-415.7",
-},
-["t"] = {
-1.84174334108763,
-},
-},
-{
-["d"] = {
-313.5603285806888,
--384.629050082421,
-1,
-true,
-"Teleport Cart",
-},
-["n"] = true,
-},
-{
-["d"] = {
-613.8939853162248,
--169.5304671417809,
-1,
-true,
-"Teleport Cart",
-},
-["n"] = true,
-},
-{
-["d"] = {
-560.3375314983285,
--284.785725358346,
-1,
-true,
-"invis skip",
-},
-["n"] = true,
-},
-},
-["value"] = {
-["currentPull"] = 4,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 110,
-["teeming"] = false,
-["selection"] = {
-4,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-4,
-5,
-6,
-},
-{
-1,
-},
-{
-1,
-},
-{
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3eff",
-},
-{
-{
-7,
-},
-{
-5,
-2,
-},
-{
-4,
-3,
-2,
-},
-{
-6,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[2] = {
-4,
-3,
-},
-},
-{
-[6] = {
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-[8] = {
-1,
-},
-["color"] = "3e9eff",
-[5] = {
-1,
-},
-[7] = {
-2,
-1,
-},
-},
-{
-[7] = {
-4,
-5,
-},
-[8] = {
-},
-["color"] = "fffb3e",
-[9] = {
-},
-[5] = {
-2,
-},
-},
-{
-{
-12,
-11,
-10,
-},
-["color"] = "3eff3e",
-[8] = {
-4,
-5,
-},
-[9] = {
-4,
-3,
-2,
-},
-[5] = {
-3,
-},
-},
-{
-[18] = {
-1,
-},
-[25] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[6] = {
-5,
-},
-[10] = {
-1,
-2,
-},
-[22] = {
-1,
-2,
-},
-},
-{
-[6] = {
-6,
-8,
-7,
-},
-[12] = {
-1,
-},
-[4] = {
-7,
-},
-[11] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-{
-[11] = {
-2,
-3,
-},
-[10] = {
-7,
-4,
-5,
-3,
-6,
-8,
-9,
-},
-["color"] = "3e3eff",
-[4] = {
-8,
-},
-[6] = {
-9,
-},
-},
-{
-[6] = {
-13,
-14,
-1,
-},
-[10] = {
-12,
-10,
-11,
-13,
-16,
-14,
-15,
-17,
-},
-[12] = {
-},
-[11] = {
-8,
-7,
-6,
-9,
-10,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[6] = {
-15,
-},
-[12] = {
-2,
-},
-[10] = {
-18,
-19,
-},
-},
-{
-[11] = {
-5,
-4,
-},
-[15] = {
-},
-["color"] = "3eff9e",
-[14] = {
-},
-[6] = {
-10,
-11,
-12,
-},
-},
-{
-[20] = {
-1,
-},
-[24] = {
-1,
-},
-["color"] = "ff3e3e",
-[19] = {
-1,
-},
-[23] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-3,
-2,
-},
-[15] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[13] = {
-1,
-4,
-},
-[16] = {
-2,
-1,
-3,
-},
-[14] = {
-2,
-3,
-},
-},
-{
-["color"] = "3eff3e",
-[14] = {
-5,
-4,
-6,
-1,
-},
-[15] = {
-2,
-3,
-},
-[21] = {
-1,
-},
-},
-},
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[111] = {
-{
-["difficulty"] = 2,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-},
-["pulls"] = {
-{
-["color"] = "228b22",
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["uid"] = "z0JIPphS0IR",
-["week"] = 1,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-9,
-4,
-5,
-6,
-7,
-8,
-},
-{
-3,
-4,
-},
-{
-2,
-},
-{
-2,
-1,
-},
-{
-2,
-1,
-},
-["color"] = "3eff9e",
-[15] = {
-1,
-},
-},
-{
-{
-},
-[6] = {
-},
-[7] = {
-16,
-40,
-},
-[8] = {
-1,
-2,
-},
-[10] = {
-},
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-},
-{
-{
-10,
-},
-[6] = {
-14,
-17,
-},
-[7] = {
-38,
-39,
-},
-[8] = {
-10,
-11,
-},
-[10] = {
-29,
-},
-["color"] = "3e9eff",
-},
-{
-{
-11,
-},
-["color"] = "fffb3e",
-[6] = {
-15,
-7,
-},
-[7] = {
-12,
-},
-[8] = {
-8,
-5,
-},
-},
-{
-[11] = {
-1,
-},
-[7] = {
-4,
-3,
-},
-[10] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-[6] = {
-2,
-3,
-},
-},
-{
-[6] = {
-1,
-},
-[7] = {
-5,
-},
-[10] = {
-3,
-},
-[12] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[16] = {
-1,
-},
-},
-{
-[14] = {
-1,
-},
-[17] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 1",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["difficulty"] = 2,
-},
-{
-["difficulty"] = 2,
-["week"] = 1,
-["uid"] = "NT)lLrnH2vJ",
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-9,
-4,
-5,
-6,
-7,
-8,
-},
-{
-3,
-4,
-},
-{
-2,
-},
-{
-2,
-1,
-},
-{
-2,
-1,
-},
-["color"] = "3eff9e",
-[15] = {
-1,
-},
-},
-{
-{
-},
-[6] = {
-},
-[7] = {
-16,
-40,
-},
-[8] = {
-1,
-2,
-},
-[10] = {
-},
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-},
-{
-{
-10,
-},
-[6] = {
-14,
-17,
-},
-[7] = {
-38,
-39,
-},
-[8] = {
-10,
-11,
-},
-[10] = {
-29,
-},
-["color"] = "3e9eff",
-},
-{
-{
-11,
-},
-["color"] = "fffb3e",
-[6] = {
-15,
-7,
-},
-[7] = {
-12,
-},
-[8] = {
-8,
-5,
-},
-},
-{
-[11] = {
-1,
-},
-[7] = {
-4,
-3,
-},
-[10] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-[6] = {
-2,
-3,
-},
-},
-{
-[6] = {
-1,
-},
-[7] = {
-5,
-},
-[10] = {
-3,
-},
-[12] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[16] = {
-1,
-},
-},
-{
-[14] = {
-1,
-},
-[17] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 1 2",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["objects"] = {
-{
-["l"] = {
-"11.3",
-"-384.8",
-"18.4",
-"-373.7",
-"18.4",
-"-373.7",
-"29.5",
-"-363.7",
-"29.5",
-"-363.7",
-"43.6",
-"-349.5",
-"43.6",
-"-349.5",
-"57.7",
-"-336.4",
-"57.7",
-"-336.4",
-"72.9",
-"-322.3",
-"72.9",
-"-322.3",
-"85.0",
-"-312.2",
-"85.0",
-"-312.2",
-"99.1",
-"-303.1",
-"99.1",
-"-303.1",
-"115.2",
-"-291.0",
-"115.2",
-"-291.0",
-"135.4",
-"-278.9",
-"135.4",
-"-278.9",
-"156.6",
-"-267.8",
-"156.6",
-"-267.8",
-"179.8",
-"-254.7",
-"179.8",
-"-254.7",
-"199.0",
-"-245.6",
-"199.0",
-"-245.6",
-"214.1",
-"-239.5",
-"214.1",
-"-239.5",
-"230.3",
-"-231.5",
-"230.3",
-"-231.5",
-"245.4",
-"-223.4",
-"245.4",
-"-223.4",
-"261.6",
-"-216.3",
-"261.6",
-"-216.3",
-"282.8",
-"-207.2",
-"282.8",
-"-207.2",
-"304.0",
-"-199.2",
-"304.0",
-"-199.2",
-"330.2",
-"-189.1",
-"330.2",
-"-189.1",
-"353.4",
-"-178.0",
-"353.4",
-"-178.0",
-"405.9",
-"-160.8",
-"405.9",
-"-160.8",
-"433.1",
-"-152.7",
-"433.1",
-"-152.7",
-"469.5",
-"-144.7",
-"469.5",
-"-144.7",
-"493.7",
-"-139.6",
-"493.7",
-"-139.6",
-"517.9",
-"-136.6",
-"517.9",
-"-136.6",
-"541.1",
-"-134.6",
-"541.1",
-"-134.6",
-"561.3",
-"-134.6",
-"561.3",
-"-134.6",
-"574.4",
-"-139.6",
-"574.4",
-"-139.6",
-"587.5",
-"-150.7",
-"587.5",
-"-150.7",
-"600.6",
-"-164.9",
-"600.6",
-"-164.9",
-"610.7",
-"-183.0",
-"610.7",
-"-183.0",
-"619.8",
-"-201.2",
-"619.8",
-"-201.2",
-"627.9",
-"-225.4",
-"627.9",
-"-225.4",
-"628.9",
-"-238.5",
-"628.9",
-"-238.5",
-"628.9",
-"-252.6",
-"628.9",
-"-252.6",
-"625.9",
-"-268.8",
-"625.9",
-"-268.8",
-"613.8",
-"-289.0",
-"613.8",
-"-289.0",
-"594.6",
-"-312.2",
-"594.6",
-"-312.2",
-"569.4",
-"-336.4",
-"569.4",
-"-336.4",
-"540.1",
-"-361.6",
-"540.1",
-"-361.6",
-"505.8",
-"-387.9",
-"505.8",
-"-387.9",
-"466.4",
-"-414.1",
-"466.4",
-"-414.1",
-"402.9",
-"-448.4",
-"402.9",
-"-448.4",
-"360.5",
-"-466.6",
-"360.5",
-"-466.6",
-"326.2",
-"-480.7",
-"326.2",
-"-480.7",
-"287.8",
-"-497.9",
-"287.8",
-"-497.9",
-"234.3",
-"-519.1",
-"234.3",
-"-519.1",
-"201.0",
-"-532.2",
-"201.0",
-"-532.2",
-"174.8",
-"-542.3",
-"174.8",
-"-542.3",
-"152.6",
-"-553.4",
-"152.6",
-"-553.4",
-"128.4",
-"-565.5",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"441.2",
-"-149.7",
-"455.3",
-"-173.9",
-"455.3",
-"-173.9",
-"468.4",
-"-201.2",
-"468.4",
-"-201.2",
-"480.6",
-"-232.5",
-"480.6",
-"-232.5",
-"487.6",
-"-260.7",
-"487.6",
-"-260.7",
-"491.7",
-"-284.9",
-"491.7",
-"-284.9",
-"492.7",
-"-308.2",
-"492.7",
-"-308.2",
-"490.6",
-"-324.3",
-"490.6",
-"-324.3",
-"487.6",
-"-335.4",
-"487.6",
-"-335.4",
-"481.6",
-"-350.5",
-"481.6",
-"-350.5",
-"473.5",
-"-367.7",
-"473.5",
-"-367.7",
-"468.4",
-"-373.7",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--7,
-true,
-},
-},
-{
-["l"] = {
-"530.0",
-"-240.5",
-"549.2",
-"-234.5",
-"549.2",
-"-234.5",
-"562.3",
-"-227.4",
-"562.3",
-"-227.4",
-"574.4",
-"-222.4",
-"574.4",
-"-222.4",
-"585.5",
-"-216.3",
-"585.5",
-"-216.3",
-"589.5",
-"-215.3",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"216.2",
-"-49.8",
-"219.2",
-"-62.9",
-"219.2",
-"-62.9",
-"221.2",
-"-71.0",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"306.0",
-"-46.8",
-"310.0",
-"-62.9",
-"310.0",
-"-62.9",
-"313.0",
-"-69.0",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"194.0",
-"-88.2",
-"198.0",
-"-99.3",
-"198.0",
-"-99.3",
-"206.1",
-"-116.4",
-"206.1",
-"-116.4",
-"214.1",
-"-131.6",
-"214.1",
-"-131.6",
-"225.2",
-"-141.6",
-"225.2",
-"-141.6",
-"235.3",
-"-146.7",
-"235.3",
-"-146.7",
-"249.5",
-"-150.7",
-"249.5",
-"-150.7",
-"269.6",
-"-152.7",
-"269.6",
-"-152.7",
-"296.9",
-"-153.8",
-"296.9",
-"-153.8",
-"328.2",
-"-151.7",
-"328.2",
-"-151.7",
-"362.5",
-"-143.7",
-"362.5",
-"-143.7",
-"402.9",
-"-119.4",
-"402.9",
-"-119.4",
-"412.9",
-"-107.3",
-"412.9",
-"-107.3",
-"416.0",
-"-103.3",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-{
-["l"] = {
-"269.6",
-"-96.2",
-"271.7",
-"-106.3",
-"271.7",
-"-106.3",
-"272.7",
-"-118.4",
-"272.7",
-"-118.4",
-"272.7",
-"-125.5",
-},
-["d"] = {
-20,
-1.1,
-1,
-true,
-"6afff2",
--8,
-true,
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["uid"] = "Q86S4frimDe",
-["difficulty"] = 2,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-9,
-4,
-5,
-6,
-7,
-8,
-},
-{
-3,
-4,
-},
-{
-2,
-},
-{
-2,
-1,
-},
-{
-2,
-1,
-},
-["color"] = "3eff9e",
-[15] = {
-1,
-},
-},
-{
-{
-},
-[6] = {
-},
-[7] = {
-16,
-40,
-},
-[8] = {
-1,
-2,
-},
-[10] = {
-},
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-},
-{
-{
-10,
-},
-[6] = {
-14,
-17,
-},
-[7] = {
-38,
-39,
-},
-[8] = {
-10,
-11,
-},
-[10] = {
-29,
-},
-["color"] = "3e9eff",
-},
-{
-{
-11,
-},
-["color"] = "fffb3e",
-[6] = {
-15,
-7,
-},
-[7] = {
-12,
-},
-[8] = {
-8,
-5,
-},
-},
-{
-[11] = {
-1,
-},
-[7] = {
-4,
-3,
-},
-[10] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-[6] = {
-2,
-3,
-},
-},
-{
-[6] = {
-1,
-},
-[7] = {
-5,
-},
-[10] = {
-3,
-},
-[12] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[16] = {
-1,
-},
-},
-{
-[14] = {
-1,
-},
-[17] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-},
-},
-["text"] = "Route 1 3",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["week"] = 1,
-},
-{
-["objects"] = {
-},
-["uid"] = "sl2iMJN6Elq",
-["week"] = 1,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-9,
-4,
-5,
-6,
-7,
-8,
-},
-{
-3,
-4,
-},
-{
-2,
-},
-{
-2,
-1,
-},
-{
-2,
-1,
-},
-["color"] = "3eff9e",
-[15] = {
-1,
-},
-},
-{
-{
-},
-[6] = {
-},
-[7] = {
-11,
-},
-[8] = {
-},
-[10] = {
-6,
-7,
-27,
-28,
-},
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-},
-{
-{
-10,
-},
-[6] = {
-14,
-17,
-},
-[7] = {
-38,
-39,
-},
-[8] = {
-10,
-11,
-},
-[10] = {
-29,
-},
-["color"] = "3e9eff",
-},
-{
-{
-11,
-},
-["color"] = "fffb3e",
-[6] = {
-7,
-},
-[7] = {
-12,
-},
-[8] = {
-8,
-5,
-},
-},
-{
-[11] = {
-1,
-},
-[7] = {
-4,
-3,
-},
-[10] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-[6] = {
-3,
-2,
-},
-},
-{
-[6] = {
-1,
-},
-[7] = {
-5,
-},
-[10] = {
-3,
-},
-[12] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[16] = {
-1,
-},
-},
-{
-[14] = {
-1,
-},
-[17] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 1 4",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["difficulty"] = 2,
-},
-{
-["addonVersion"] = 5010,
-["wagoID"] = "IBXLDCGwh",
-["colorPaletteInfo"] = {
-["colorPaletteIdx"] = 4,
-["autoColoring"] = true,
-},
-["text"] = "Tactyks S1 PUG Friendly",
-["objects"] = {
-{
-["d"] = {
-614.0248222204376,
--137.7652976341215,
-1,
-true,
-"commander - kick abyssal howl\nshadowmage - kick night bolt",
-},
-["n"] = true,
-},
-{
-["d"] = {
-708.1053100707021,
--197.1844835280415,
-1,
-true,
-"range stack for pools",
-},
-["n"] = true,
-},
-{
-["d"] = {
-128.9815714436408,
--62.08365405193879,
-1,
-true,
-"tacticians are heavy tank damage, can be kited when enranged",
-},
-["n"] = true,
-},
-nil,
-nil,
-nil,
-{
-["n"] = true,
-["d"] = {
-122.62883426848,
--145.47193747223,
-1,
-true,
-"Can use the wall here to stop the tank knockback from this mini boss",
-},
-},
-{
-["l"] = {
-"244.4",
-"-452.3",
-"241.1",
-"-455.6",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
-0,
-true,
-},
-},
-{
-["l"] = {
-"240.5",
-"-451.7",
-"243.8",
-"-455.6",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
-0,
-true,
-},
-},
-{
-["l"] = {
-"242.1",
-"-459.4",
-"242.1",
-"-465.4",
-"242.1",
-"-465.4",
-"242.1",
-"-471.5",
-"242.1",
-"-471.5",
-"242.7",
-"-477.0",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--8,
-true,
-},
-},
-{
-["l"] = {
-"238.3",
-"-474.2",
-"243.8",
-"-479.1",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
--7,
-true,
-},
-},
-{
-["l"] = {
-"241.6",
-"-478.1",
-"244.9",
-"-472.6",
-},
-["d"] = {
-3,
-1.1,
-1,
-true,
-"ffffff",
-0,
-true,
-},
-},
-{
-["n"] = true,
-["d"] = {
-250.93408300191,
--461.04394483241,
-1,
-true,
-"Pull this mini boss out towards the \"x\" marker and aim the orb down the path",
-},
-},
-{
-["n"] = true,
-["d"] = {
-608.50284119702,
--476.18591866743,
-1,
-true,
-"Lust pull 1 then on CD.\nRitualist - kick tormenting ray\nShadowmage - kick night bolt\ndispell ensnaring shadows",
-},
-},
-},
-["uid"] = "veoIyNR4h84",
-["value"] = {
-["currentPull"] = 10,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-10,
-},
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-4,
-},
-{
-3,
-},
-{
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-5,
-6,
-},
-[3] = {
-2,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-7,
-8,
-},
-{
-4,
-},
-[5] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-{
-9,
-},
-{
-},
-nil,
-{
-2,
-},
-{
-2,
-},
-{
-},
-nil,
-{
-},
-[10] = {
-},
-["color"] = "fffb3e",
-},
-{
-[15] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-[6] = {
-36,
-},
-[7] = {
-},
-[8] = {
-18,
-},
-[10] = {
-27,
-28,
-26,
-},
-["color"] = "ff3e9e",
-[9] = {
-},
-},
-{
-{
-},
-{
-},
-nil,
-nil,
-{
-},
-{
-7,
-},
-{
-12,
-11,
-},
-{
-5,
-},
-[11] = {
-},
-[10] = {
-6,
-7,
-},
-["color"] = "3effff",
-},
-{
-[6] = {
-14,
-},
-[7] = {
-39,
-38,
-},
-[8] = {
-10,
-},
-[10] = {
-29,
-},
-[12] = {
-},
-["color"] = "ff9b3e",
-},
-{
-[11] = {
-},
-[13] = {
-1,
-},
-[8] = {
-},
-[10] = {
-},
-["color"] = "3e3eff",
-[6] = {
-},
-[7] = {
-},
-[12] = {
-},
-},
-{
-[6] = {
-},
-[7] = {
-16,
-40,
-},
-[8] = {
-1,
-2,
-},
-[10] = {
-},
-["color"] = "a1ff3e",
-[5] = {
-},
-[9] = {
-},
-},
-{
-{
-},
-[6] = {
-},
-[7] = {
-},
-[8] = {
-},
-[10] = {
-1,
-2,
-},
-["color"] = "ff3eff",
-[11] = {
-1,
-},
-},
-{
-[6] = {
-},
-[7] = {
-5,
-},
-[8] = {
-},
-[10] = {
-3,
-},
-[12] = {
-},
-[9] = {
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-},
-[12] = {
-1,
-},
-},
-{
-[5] = {
-},
-[16] = {
-1,
-},
-[9] = {
-},
-["color"] = "3e9eff",
-},
-{
-[14] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[6] = {
-},
-[17] = {
-1,
-},
-[8] = {
-},
-[10] = {
-},
-["color"] = "3eff3e",
-[7] = {
-},
-},
-},
-},
-["difficulty"] = 10,
-["week"] = 1,
-},
-{
-["difficulty"] = 13,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 5,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-2,
-1,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-[7] = {
-},
-},
-{
-{
-4,
-6,
-5,
-9,
-7,
-8,
-},
-{
-3,
-4,
-},
-{
-2,
-},
-{
-1,
-2,
-},
-{
-2,
-1,
-},
-{
-},
-nil,
-{
-},
-["color"] = "3eff9e",
-[10] = {
-},
-},
-{
-[6] = {
-7,
-},
-[7] = {
-12,
-},
-[8] = {
-5,
-},
-[10] = {
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[10] = {
-},
-[7] = {
-11,
-},
-},
-{
-{
-},
-{
-},
-nil,
-nil,
-nil,
-{
-},
-{
-},
-{
-},
-[10] = {
-},
-["color"] = "fffb3e",
-},
-{
-[6] = {
-14,
-},
-[7] = {
-38,
-39,
-},
-[8] = {
-10,
-},
-[10] = {
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[6] = {
-},
-[7] = {
-},
-[13] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[6] = {
-},
-[7] = {
-40,
-16,
-},
-[8] = {
-1,
-2,
-},
-},
-{
-["color"] = "ff9b3e",
-[10] = {
-nil,
-1,
-},
-[11] = {
-1,
-},
-},
-{
-[7] = {
-5,
-},
-[2] = {
-8,
-},
-[15] = {
-},
-[16] = {
-},
-[17] = {
-},
-[10] = {
-},
-[6] = {
-},
-[12] = {
-1,
-},
-["color"] = "3e3eff",
-},
-{
-[14] = {
-1,
-},
-[6] = {
-},
-[7] = {
-},
-["color"] = "a1ff3e",
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
-5,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Yup",
-["objects"] = {
-},
-["uid"] = "HiR26p20uia",
-},
-{
-["difficulty"] = 10,
-["week"] = 1,
-["addonVersion"] = 550,
-["uid"] = "5PGp1LE9tWF",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Dawnbreaker (9 Aug)",
-["objects"] = {
-},
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["selection"] = {
-8,
-},
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-[6] = {
-[7] = 1,
-[28] = 1,
-[29] = 1,
-[22] = 1,
-[8] = 1,
-},
-[2] = {
-1,
-1,
-1,
-1,
-nil,
-nil,
-nil,
-1,
-1,
-},
-[4] = {
-8,
-8,
-},
-[9] = {
-8,
-8,
-8,
-[20] = 8,
-[21] = 8,
-[14] = 8,
-[5] = 8,
-[15] = 8,
-},
-[5] = {
-1,
-1,
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["currentPull"] = 8,
-["pulls"] = {
-{
-{
-1,
-2,
-3,
-},
-{
-1,
-2,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-5,
-6,
-4,
-},
-{
-3,
-},
-{
-2,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-9,
-},
-["color"] = "ff3e3e",
-[4] = {
-2,
-},
-[5] = {
-2,
-},
-},
-{
-{
-8,
-7,
-},
-{
-4,
-},
-["color"] = "3e9eff",
-[5] = {
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[14] = {
-1,
-},
-},
-{
-{
-16,
-},
-{
-9,
-},
-nil,
-nil,
-nil,
-{
-7,
-},
-{
-33,
-14,
-},
-{
-1,
-2,
-},
-{
-5,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[6] = {
-8,
-},
-[12] = {
-1,
-},
-[7] = {
-1,
-2,
-12,
-},
-},
-{
-[6] = {
-10,
-11,
-12,
-},
-[7] = {
-},
-[8] = {
-},
-["color"] = "3effff",
-[4] = {
-4,
-},
-[9] = {
-6,
-},
-[17] = {
-},
-},
-{
-[11] = {
-1,
-},
-[7] = {
-5,
-},
-[17] = {
-},
-["color"] = "ff9b3e",
-[6] = {
-},
-[9] = {
-3,
-},
-[2] = {
-8,
-},
-},
-{
-{
-12,
-},
-{
-6,
-5,
-},
-{
-4,
-},
-{
-8,
-},
-nil,
-{
-30,
-31,
-24,
-33,
-32,
-},
-["color"] = "3e3eff",
-[9] = {
-16,
-},
-},
-{
-[7] = {
-},
-[10] = {
-1,
-},
-["color"] = "a1ff3e",
-[9] = {
-2,
-1,
-},
-[17] = {
-},
-},
-{
-[6] = {
-},
-[2] = {
-},
-[15] = {
-1,
-},
-[18] = {
-3,
-2,
-1,
-4,
-5,
-},
-["color"] = "ff3eff",
-[9] = {
-},
-[17] = {
-},
-},
-{
-["color"] = "3eff9e",
-[13] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-1,
-},
-},
-},
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[112] = {
-{
-["difficulty"] = 2,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-["color"] = "ff3eff",
-},
-},
-["currentDungeonIdx"] = 112,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = "qkfBqFGPB7m",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"166.3",
-"-261.8",
-1,
-true,
-"Tank on the platform with your back against the wall for the Twilight Destroyer's knock back. DPS can Line of Sight up on the stairs.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"36.7",
-"-344.5",
-1,
-true,
-"Have suggestions = twitch.tv/thebunten\nMore notes to come ",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"337.5",
-"-444.1",
-1,
-true,
-"Umbriss uses [Rock Spikes] to summon [Rumbling Earth], and [Shadowflame Breath] from Twilight Drakes. The tank will also deal with [Skullsplitter]. 3 dragons will breathe along the platform, avoid massive damage by standing in the safe lane. Try to spread outt with brown circle and dont get knocked forward into extra damage.\n\nTanks: Manage Skullsplitter and position Umbriss away from the group.\nHealers: Handle AoE from Rumbling Earth and Shadowflame Breath.\nDPS: Avoid Rock Spikes and focus on handling adds.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"277",
-"-104.9",
-1,
-true,
-"Each player can click a net to free a dragon. Claim your unique dragon and use the 1 & 2 vehicle buttons to defeat mobs along your flight. Your #1 is strongest but limited. Try to save your #1 charges for large pulls on your return flight",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"451.8",
-"-322.8",
-1,
-true,
-"Throngus switches between weapons like [Molten Mace] (buffs melee attacks), [Fiery Cleave], and [Molten Flurry]. These abilities create Molten Pools and Molten Spark.\n\nTanks: Manage Molten Mace, position Throngus to avoid AoE.\nHealers: Heal through fire damage from Molten Pools.\nDPS: Avoid Molten Pools and interrupt when necessary.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"394.3",
-"-263.4",
-1,
-true,
-"Boss will begin to patrol this room once this pack is defeated. Stand either on the far side of the rooms (wall or ledge) to not engage the boss before your bloodlust/hero is ready. Organize this room however works best for your CDs.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"580.5",
-"-119.2",
-1,
-true,
-"DONT USE CDs until Dragon!\nDrahga summons Shadowflame Spirits that explode with [Shadowflame Nova]. At 1% health, Valiona aids Drahga with [Twilight Buffet] and [Devouring Flame].\n\nTanks: Handle [Shadowflame Bolt].\nHealers: Heal through AoE from Twilight Buffet and Shadowflame Nova.\nDPS: Kill spirits before they explode and interrupt adds.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"726.1",
-"-494.1",
-1,
-true,
-"Erudax summons Void Tendrils and uses [Void Surge] to deal heavy shadow damage. He also corrupts Alexstrasza’s eggs with [Void Infusion], turning them into Mutated Hatchlings.\n\nTanks: Deal with adds and keep Erudax away from the eggs.\nHealers: Manage party-wide damage from Void Surge and Shadow Gale.\nDPS: Interrupt adds and avoid Void Tendrils.",
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Raider.IO Weekly Route - Bunten",
-["value"] = {
-["currentPull"] = 22,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[2] = {
-},
-},
-["currentDungeonIdx"] = 112,
-["teeming"] = false,
-["selection"] = {
-22,
-},
-["pulls"] = {
-{
-{
-2,
-3,
-},
-{
-2,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-4,
-},
-{
-3,
-},
-nil,
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-6,
-5,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-[4] = {
-2,
-},
-["color"] = "3e9eff",
-},
-{
-{
-7,
-1,
-},
-{
-1,
-5,
-},
-["color"] = "fffb3e",
-},
-{
-[19] = {
-3,
-4,
-5,
-2,
-1,
-},
-["color"] = "3eff3e",
-},
-{
-{
-8,
-9,
-10,
-12,
-11,
-13,
-14,
-15,
-},
-{
-6,
-7,
-17,
-8,
-18,
-9,
-10,
-11,
-12,
-13,
-14,
-},
-{
-3,
-1,
-},
-{
-3,
-4,
-5,
-6,
-7,
-},
-["color"] = "ff3e9e",
-},
-{
-[13] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[5] = {
-2,
-4,
-3,
-},
-[6] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[2] = {
-15,
-},
-[9] = {
-7,
-1,
-},
-},
-{
-[14] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-[5] = {
-5,
-6,
-7,
-},
-[6] = {
-3,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-1,
-},
-[2] = {
-16,
-},
-["color"] = "3eff9e",
-[5] = {
-1,
-8,
-9,
-},
-[9] = {
-8,
-9,
-},
-},
-{
-["color"] = "ff3e3e",
-[9] = {
-10,
-},
-[7] = {
-2,
-},
-},
-{
-[10] = {
-2,
-},
-["color"] = "3e9eff",
-},
-{
-[8] = {
-6,
-},
-[7] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[7] = {
-3,
-},
-[8] = {
-7,
-},
-["color"] = "3eff3e",
-[9] = {
-2,
-},
-[5] = {
-12,
-},
-},
-{
-[10] = {
-3,
-},
-["color"] = "ff3e9e",
-},
-{
-[8] = {
-10,
-},
-[10] = {
-1,
-},
-["color"] = "3effff",
-[9] = {
-3,
-},
-[5] = {
-14,
-13,
-},
-},
-{
-[7] = {
-},
-[8] = {
-4,
-5,
-9,
-8,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[5] = {
-11,
-},
-},
-{
-[5] = {
-16,
-15,
-},
-[9] = {
-4,
-5,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-},
-[7] = {
-4,
-},
-[8] = {
-1,
-13,
-11,
-},
-},
-{
-["color"] = "ff3eff",
-[16] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[7] = {
-5,
-},
-[8] = {
-14,
-12,
-},
-["color"] = "3eff9e",
-[9] = {
-6,
-},
-[5] = {
-18,
-17,
-},
-},
-{
-[3] = {
-4,
-},
-["color"] = "ff3e3e",
-[11] = {
-1,
-2,
-3,
-4,
-5,
-7,
-8,
-6,
-},
-},
-{
-[11] = {
-9,
-10,
-11,
-12,
-13,
-14,
-15,
-16,
-},
-[12] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-[11] = {
-20,
-24,
-17,
-21,
-18,
-22,
-19,
-23,
-},
-[12] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-[11] = {
-27,
-28,
-32,
-33,
-25,
-29,
-34,
-26,
-30,
-36,
-35,
-31,
-},
-[12] = {
-4,
-3,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[17] = {
-1,
-},
-[20] = {
-1,
-},
-},
-},
-},
-["week"] = 2,
-},
-{
-["difficulty"] = 2,
-["uid"] = "7Wwg8YJBkaw",
-["mdi"] = {
-["beguiling"] = 1,
-["freehold"] = 1,
-["freeholdJoined"] = false,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"166.3",
-"-261.8",
-1,
-true,
-"Tank on the platform with your back against the wall for the Twilight Destroyer's knock back. DPS can Line of Sight up on the stairs.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"36.7",
-"-344.5",
-1,
-true,
-"Have suggestions = twitch.tv/thebunten\nMore notes to come ",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"337.5",
-"-444.1",
-1,
-true,
-"Umbriss uses [Rock Spikes] to summon [Rumbling Earth], and [Shadowflame Breath] from Twilight Drakes. The tank will also deal with [Skullsplitter]. 3 dragons will breathe along the platform, avoid massive damage by standing in the safe lane. Try to spread outt with brown circle and dont get knocked forward into extra damage.\n\nTanks: Manage Skullsplitter and position Umbriss away from the group.\nHealers: Handle AoE from Rumbling Earth and Shadowflame Breath.\nDPS: Avoid Rock Spikes and focus on handling adds.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"277",
-"-104.9",
-1,
-true,
-"Each player can click a net to free a dragon. Claim your unique dragon and use the 1 & 2 vehicle buttons to defeat mobs along your flight. Your #1 is strongest but limited. Try to save your #1 charges for large pulls on your return flight",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"451.8",
-"-322.8",
-1,
-true,
-"Throngus switches between weapons like [Molten Mace] (buffs melee attacks), [Fiery Cleave], and [Molten Flurry]. These abilities create Molten Pools and Molten Spark.\n\nTanks: Manage Molten Mace, position Throngus to avoid AoE.\nHealers: Heal through fire damage from Molten Pools.\nDPS: Avoid Molten Pools and interrupt when necessary.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"394.3",
-"-263.4",
-1,
-true,
-"Boss will begin to patrol this room once this pack is defeated. Stand either on the far side of the rooms (wall or ledge) to not engage the boss before your bloodlust/hero is ready. Organize this room however works best for your CDs.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"580.5",
-"-119.2",
-1,
-true,
-"DONT USE CDs until Dragon!\nDrahga summons Shadowflame Spirits that explode with [Shadowflame Nova]. At 1% health, Valiona aids Drahga with [Twilight Buffet] and [Devouring Flame].\n\nTanks: Handle [Shadowflame Bolt].\nHealers: Heal through AoE from Twilight Buffet and Shadowflame Nova.\nDPS: Kill spirits before they explode and interrupt adds.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"726.1",
-"-494.1",
-1,
-true,
-"Erudax summons Void Tendrils and uses [Void Surge] to deal heavy shadow damage. He also corrupts Alexstrasza’s eggs with [Void Infusion], turning them into Mutated Hatchlings.\n\nTanks: Deal with adds and keep Erudax away from the eggs.\nHealers: Manage party-wide damage from Void Surge and Shadow Gale.\nDPS: Interrupt adds and avoid Void Tendrils.",
-},
-},
-},
-["value"] = {
-["currentPull"] = 13,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[2] = {
-},
-},
-["currentDungeonIdx"] = 112,
-["teeming"] = false,
-["selection"] = {
-13,
-},
-["pulls"] = {
-{
-{
-2,
-3,
-},
-{
-2,
-},
-{
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-4,
-},
-{
-3,
-},
-nil,
-{
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-6,
-5,
-},
-{
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-[4] = {
-2,
-},
-["color"] = "3e9eff",
-},
-{
-{
-7,
-1,
-},
-{
-1,
-5,
-},
-["color"] = "fffb3e",
-},
-{
-[19] = {
-3,
-4,
-5,
-2,
-1,
-},
-["color"] = "3eff3e",
-},
-{
-{
-8,
-9,
-10,
-12,
-11,
-13,
-14,
-15,
-},
-{
-6,
-7,
-17,
-8,
-18,
-9,
-10,
-11,
-12,
-13,
-14,
-},
-{
-3,
-1,
-},
-{
-3,
-4,
-5,
-6,
-7,
-},
-["color"] = "ff3e9e",
-},
-{
-[13] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[5] = {
-2,
-4,
-3,
-},
-[6] = {
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[2] = {
-},
-[9] = {
-},
-},
-{
-[14] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-[5] = {
-5,
-6,
-7,
-},
-[6] = {
-3,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[2] = {
-16,
-},
-[9] = {
-8,
-9,
-},
-},
-{
-[6] = {
-},
-[2] = {
-15,
-},
-["color"] = "ff3e3e",
-[5] = {
-},
-[9] = {
-7,
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[9] = {
-10,
-},
-[7] = {
-2,
-},
-},
-{
-[10] = {
-2,
-},
-["color"] = "fffb3e",
-},
-{
-[8] = {
-6,
-},
-[7] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-[7] = {
-3,
-},
-[8] = {
-7,
-},
-["color"] = "ff3e9e",
-[9] = {
-2,
-},
-[5] = {
-12,
-},
-},
-{
-[10] = {
-3,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-10,
-},
-[10] = {
-1,
-},
-["color"] = "ff9b3e",
-[9] = {
-3,
-},
-[5] = {
-14,
-13,
-},
-},
-{
-[7] = {
-},
-[8] = {
-4,
-5,
-9,
-8,
-},
-[10] = {
-},
-["color"] = "3e3eff",
-[5] = {
-11,
-},
-},
-{
-[5] = {
-16,
-15,
-},
-[9] = {
-4,
-5,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[10] = {
-4,
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[16] = {
-1,
-},
-[15] = {
-1,
-},
-},
-{
-[7] = {
-5,
-},
-[8] = {
-14,
-12,
-},
-["color"] = "ff3e3e",
-[9] = {
-6,
-},
-[5] = {
-18,
-17,
-},
-},
-{
-["color"] = "3e9eff",
-[11] = {
-1,
-2,
-3,
-4,
-5,
-7,
-8,
-6,
-},
-[3] = {
-4,
-},
-},
-{
-[11] = {
-9,
-10,
-11,
-12,
-13,
-14,
-15,
-16,
-},
-[12] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[11] = {
-20,
-24,
-17,
-21,
-18,
-22,
-19,
-23,
-},
-[12] = {
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[11] = {
-27,
-28,
-32,
-33,
-25,
-29,
-34,
-26,
-30,
-36,
-35,
-31,
-},
-[12] = {
-4,
-3,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[17] = {
-1,
-},
-[20] = {
-1,
-},
-},
-},
-},
-["text"] = "Raider.IO Weekly Route - Bunten 2",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["week"] = 2,
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[113] = {
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 9,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-36,
-2,
-35,
-37,
-3,
-5,
-4,
-6,
-12,
-},
-["color"] = "ff3eff",
-[4] = {
-6,
-7,
-},
-},
-{
-{
-26,
-27,
-28,
-24,
-25,
-23,
-},
-{
-7,
-6,
-8,
-29,
-30,
-32,
-31,
-},
-{
-6,
-},
-["color"] = "3eff9e",
-[7] = {
-1,
-},
-},
-{
-{
-30,
-32,
-31,
-29,
-},
-nil,
-{
-5,
-},
-{
-23,
-24,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-20,
-21,
-22,
-},
-{
-36,
-38,
-37,
-27,
-28,
-26,
-},
-{
-8,
-},
-{
-20,
-19,
-16,
-14,
-15,
-},
-["color"] = "3e9eff",
-},
-{
-{
-18,
-17,
-19,
-},
-{
-20,
-21,
-22,
-},
-["color"] = "fffb3e",
-[6] = {
-1,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[2] = {
-16,
-17,
-15,
-24,
-25,
-23,
-},
-[3] = {
-4,
-},
-[5] = {
-1,
-},
-},
-{
-{
-34,
-},
-[11] = {
-1,
-},
-[8] = {
-2,
-3,
-1,
-4,
-5,
-6,
-7,
-},
-[10] = {
-1,
-},
-["color"] = "ff3e9e",
-[9] = {
-1,
-2,
-},
-},
-{
-[11] = {
-4,
-},
-[8] = {
-33,
-34,
-36,
-35,
-38,
-37,
-39,
-},
-[10] = {
-4,
-10,
-11,
-},
-["color"] = "3effff",
-[9] = {
-3,
-10,
-11,
-},
-[12] = {
-5,
-},
-},
-{
-[11] = {
-5,
-},
-[8] = {
-43,
-40,
-41,
-42,
-},
-[10] = {
-12,
-8,
-},
-["color"] = "ff9b3e",
-[9] = {
-12,
-},
-[12] = {
-6,
-7,
-},
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-9,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = "dIK14nNgOvd",
-["week"] = 1,
-["value"] = {
-["currentPull"] = 16,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-12,
-35,
-36,
-37,
-},
-{
-6,
-7,
-8,
-},
-nil,
-{
-6,
-7,
-},
-["color"] = "ff3eff",
-},
-{
-{
-23,
-24,
-25,
-26,
-27,
-28,
-},
-{
-29,
-30,
-31,
-32,
-},
-{
-6,
-},
-[7] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-29,
-30,
-31,
-32,
-16,
-},
-{
-20,
-21,
-22,
-36,
-37,
-38,
-34,
-33,
-35,
-18,
-19,
-},
-{
-5,
-8,
-},
-{
-14,
-15,
-16,
-23,
-24,
-13,
-},
-nil,
-{
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-17,
-18,
-19,
-},
-{
-23,
-24,
-25,
-},
-{
-4,
-},
-[5] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-{
-20,
-21,
-22,
-},
-{
-26,
-27,
-28,
-},
-nil,
-{
-19,
-20,
-},
-[17] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-{
-34,
-},
-[8] = {
-1,
-2,
-3,
-4,
-5,
-},
-[10] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[11] = {
-1,
-},
-[8] = {
-6,
-7,
-},
-["color"] = "ff3e9e",
-},
-{
-[8] = {
-8,
-10,
-9,
-11,
-},
-[12] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[11] = {
-2,
-},
-[8] = {
-12,
-13,
-14,
-15,
-},
-[10] = {
-3,
-},
-["color"] = "ff9b3e",
-[9] = {
-5,
-6,
-},
-},
-{
-[8] = {
-16,
-17,
-18,
-19,
-22,
-},
-[10] = {
-2,
-4,
-},
-["color"] = "3e3eff",
-[9] = {
-3,
-},
-[12] = {
-2,
-3,
-},
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-6,
-7,
-},
-[9] = {
-7,
-8,
-9,
-},
-},
-{
-[8] = {
-23,
-24,
-},
-[10] = {
-8,
-},
-[12] = {
-6,
-7,
-},
-["color"] = "ff3eff",
-},
-{
-[8] = {
-27,
-28,
-25,
-29,
-26,
-30,
-},
-["color"] = "3eff9e",
-},
-{
-[11] = {
-6,
-},
-["color"] = "ff3e3e",
-},
-{
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-[14] = {
-1,
-2,
-3,
-4,
-5,
-},
-[13] = {
-1,
-},
-["color"] = "fffb3e",
-[16] = {
-3,
-4,
-16,
-17,
-},
-},
-{
-[14] = {
-6,
-7,
-8,
-9,
-10,
-},
-[13] = {
-7,
-8,
-},
-["color"] = "3eff3e",
-[16] = {
-18,
-19,
-20,
-21,
-22,
-},
-},
-{
-["color"] = "ff3e9e",
-},
-{
-[20] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-16,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 1",
-["objects"] = {
-{
-["d"] = {
-"727.6",
-"-465.3",
-1,
-true,
-"The % is still shifting on TWW Beta. this is the best current 100%. Trust the route!\nHave suggestions? Come say hi  twitch.tv/thebunten",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"545.1",
-"-138.6",
-1,
-true,
-"Avoid web traps and quickly eliminate Starved Crawlers before they gain too much power.\n\nHealers: Be ready to dispel [Web Wrap] and manage party-wide damage from [Gossamer Onslaught] and [Alerting Shrill].\nWatch out for [Insatiable], making Avanoxx more dangerous as the fight progresses. Burn her down quickly to avoid overwhelming pressure.\nDamage Dealers:\nAvoid [Vile Webbing] and focus on burning down Starved Crawlers quickly to prevent them from growing too strong.\n\nTanks:\nMitigate [Voracious Bite] and move away from [Vile Webbing]. Ensure Starved Crawlers fixate on you by managing [Hunger].",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"80.1",
-"-193.5",
-1,
-true,
-"Add always spawns after the burrow. Be sure to interupt and you win.\n\nHealers:Keep players affected by [Infestation] topped up to handle the burst from [Ceaseless Swarms].\nManage healing in tight spaces when [Eye of the Swarm] limits mobility.\n\nDamage Dealers:Avoid standing in front of Anub'Zekt to dodge [Burrow Charge].\nQuickly deal with [Ceaseless Swarms] from players affected by [Infestation].\n\nTanks:Position carefully to avoid getting hit by [Impale] and knocked back.\nManage threat while positioning for [Eye of the Swarm] limitations.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"239.2",
-"-485.3",
-1,
-true,
-"Players must carefully navigate around Black Blood puddles to avoid being rooted by Grasping Blood, and position themselves strategically to avoid the pull from Cosmic Singularity. Healing cooldowns are crucial to survive the burst damage following the pull.  Use stuns or movement speed out of roots.\n\nHealers: Watch for players stuck in Black Blood and prepare to heal through the Cosmic Singularity damage.\n\nDamage Dealers: Avoid Black Blood to maintain mobility and maximize uptime on the boss. Save burst cooldowns for after Cosmic Singularity.\n\nTanks: Position Ki'katal to keep the group away from Black Blood puddles. Mitigate the incoming Cosmic Singularity burst damage effectively.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"357.5",
-"-186.6",
-1,
-true,
-"This south side requires fewer interupts and less chaos for a PUG.",
-},
-["n"] = true,
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["freehold"] = 1,
-["beguiling"] = 1,
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = "fc(w41j2iay",
-["week"] = 1,
-["value"] = {
-["currentPull"] = 15,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-6,
-12,
-35,
-36,
-37,
-10,
-9,
-},
-{
-6,
-7,
-8,
-},
-nil,
-{
-6,
-7,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-{
-23,
-24,
-25,
-26,
-27,
-28,
-},
-{
-29,
-30,
-31,
-32,
-},
-{
-6,
-},
-[7] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-29,
-30,
-31,
-32,
-16,
-},
-{
-20,
-21,
-22,
-36,
-37,
-38,
-34,
-33,
-35,
-18,
-19,
-},
-{
-5,
-8,
-},
-{
-14,
-15,
-16,
-23,
-24,
-13,
-},
-nil,
-{
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-17,
-18,
-19,
-},
-{
-23,
-24,
-25,
-},
-{
-4,
-},
-{
-},
-{
-1,
-},
-["color"] = "3e9eff",
-},
-{
-{
-20,
-21,
-22,
-},
-{
-26,
-27,
-28,
-},
-nil,
-{
-19,
-20,
-},
-[17] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-{
-34,
-},
-[8] = {
-1,
-2,
-3,
-4,
-5,
-},
-[10] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[11] = {
-1,
-},
-[8] = {
-6,
-7,
-},
-},
-{
-[8] = {
-8,
-10,
-9,
-11,
-},
-[12] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-[11] = {
-2,
-},
-[8] = {
-12,
-13,
-14,
-15,
-},
-[10] = {
-3,
-},
-["color"] = "ff9b3e",
-[9] = {
-5,
-6,
-},
-},
-{
-[8] = {
-16,
-17,
-18,
-19,
-22,
-},
-[10] = {
-2,
-4,
-},
-["color"] = "3e3eff",
-[9] = {
-3,
-},
-[12] = {
-2,
-3,
-},
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-6,
-7,
-},
-[9] = {
-7,
-8,
-9,
-},
-[12] = {
-4,
-},
-},
-{
-[8] = {
-23,
-24,
-},
-[10] = {
-8,
-},
-[12] = {
-6,
-7,
-},
-["color"] = "ff3eff",
-},
-{
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[14] = {
-1,
-2,
-3,
-4,
-5,
-},
-[13] = {
-1,
-},
-["color"] = "ff3e3e",
-[16] = {
-3,
-4,
-16,
-17,
-1,
-2,
-},
-},
-{
-[13] = {
-7,
-8,
-},
-[15] = {
-},
-["color"] = "3e9eff",
-[14] = {
-9,
-7,
-8,
-10,
-6,
-},
-[16] = {
-21,
-22,
-19,
-18,
-20,
-},
-},
-{
-[20] = {
-1,
-},
-["color"] = "fffb3e",
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-15,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 1 2",
-["objects"] = {
-{
-["d"] = {
-"727.6",
-"-465.3",
-1,
-true,
-"The % is still shifting on TWW Beta. this is the best current 100%. Trust the route!\nHave suggestions? Come say hi  twitch.tv/thebunten",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"545.1",
-"-138.6",
-1,
-true,
-"Avoid web traps and quickly eliminate Starved Crawlers before they gain too much power.\n\nHealers: Be ready to dispel [Web Wrap] and manage party-wide damage from [Gossamer Onslaught] and [Alerting Shrill].\nWatch out for [Insatiable], making Avanoxx more dangerous as the fight progresses. Burn her down quickly to avoid overwhelming pressure.\nDamage Dealers:\nAvoid [Vile Webbing] and focus on burning down Starved Crawlers quickly to prevent them from growing too strong.\n\nTanks:\nMitigate [Voracious Bite] and move away from [Vile Webbing]. Ensure Starved Crawlers fixate on you by managing [Hunger].",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"80.1",
-"-193.5",
-1,
-true,
-"Add always spawns after the burrow. Be sure to interupt and you win.\n\nHealers:Keep players affected by [Infestation] topped up to handle the burst from [Ceaseless Swarms].\nManage healing in tight spaces when [Eye of the Swarm] limits mobility.\n\nDamage Dealers:Avoid standing in front of Anub'Zekt to dodge [Burrow Charge].\nQuickly deal with [Ceaseless Swarms] from players affected by [Infestation].\n\nTanks:Position carefully to avoid getting hit by [Impale] and knocked back.\nManage threat while positioning for [Eye of the Swarm] limitations.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"239.2",
-"-485.3",
-1,
-true,
-"Players must carefully navigate around Black Blood puddles to avoid being rooted by Grasping Blood, and position themselves strategically to avoid the pull from Cosmic Singularity. Healing cooldowns are crucial to survive the burst damage following the pull.  Use stuns or movement speed out of roots.\n\nHealers: Watch for players stuck in Black Blood and prepare to heal through the Cosmic Singularity damage.\n\nDamage Dealers: Avoid Black Blood to maintain mobility and maximize uptime on the boss. Save burst cooldowns for after Cosmic Singularity.\n\nTanks: Position Ki'katal to keep the group away from Black Blood puddles. Mitigate the incoming Cosmic Singularity burst damage effectively.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-"357.5",
-"-186.6",
-1,
-true,
-"This south side requires fewer interupts and less chaos for a PUG.",
-},
-["n"] = true,
-},
-{
-["n"] = true,
-["d"] = {
-148.6015173640026,
--152.8788128890059,
-1,
-true,
-"LOCK SKIP",
-},
-},
-},
-["mdi"] = {
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-["freehold"] = 1,
-},
-},
-{
-["difficulty"] = 3,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 10,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-35,
-2,
-36,
-3,
-37,
-6,
-4,
-5,
-10,
-9,
-12,
-},
-{
-6,
-7,
-8,
-},
-nil,
-{
-2,
-6,
-7,
-4,
-5,
-},
-["color"] = "ff3eff",
-},
-{
-{
-31,
-32,
-30,
-26,
-27,
-28,
-29,
-24,
-25,
-23,
-},
-{
-29,
-30,
-32,
-31,
-},
-{
-5,
-6,
-},
-["color"] = "3eff9e",
-[7] = {
-1,
-},
-},
-{
-{
-20,
-21,
-22,
-},
-{
-26,
-27,
-28,
-38,
-36,
-37,
-},
-{
-8,
-},
-{
-23,
-24,
-19,
-20,
-15,
-16,
-14,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-17,
-18,
-19,
-},
-{
-17,
-16,
-15,
-21,
-20,
-22,
-},
-{
-},
-["color"] = "3e9eff",
-[6] = {
-1,
-},
-},
-{
-[3] = {
-4,
-},
-[2] = {
-24,
-25,
-23,
-},
-["color"] = "fffb3e",
-[5] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[17] = {
-1,
-},
-},
-{
-{
-34,
-},
-[8] = {
-2,
-3,
-1,
-4,
-5,
-},
-[10] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "ff3e9e",
-},
-{
-[11] = {
-1,
-},
-[8] = {
-6,
-7,
-},
-[10] = {
-4,
-},
-["color"] = "3effff",
-[9] = {
-3,
-},
-},
-{
-[11] = {
-},
-[8] = {
-8,
-10,
-9,
-11,
-12,
-14,
-13,
-15,
-},
-[10] = {
-},
-["color"] = "ff9b3e",
-[9] = {
-5,
-},
-[12] = {
-1,
-},
-},
-{
-[11] = {
-2,
-},
-[8] = {
-},
-[10] = {
-},
-[12] = {
-},
-["color"] = "3e3eff",
-},
-{
-[8] = {
-24,
-22,
-23,
-},
-[10] = {
-13,
-3,
-},
-[12] = {
-3,
-},
-[9] = {
-4,
-6,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[10] = {
-7,
-6,
-},
-[9] = {
-7,
-8,
-9,
-},
-[12] = {
-4,
-},
-},
-{
-[8] = {
-},
-[10] = {
-8,
-},
-[12] = {
-6,
-7,
-},
-["color"] = "3eff9e",
-},
-{
-[11] = {
-6,
-},
-["color"] = "ff3e3e",
-[8] = {
-27,
-28,
-25,
-29,
-26,
-30,
-},
-},
-{
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[13] = {
-1,
-},
-[16] = {
-},
-[14] = {
-4,
-1,
-2,
-5,
-3,
-},
-},
-{
-[14] = {
-6,
-7,
-8,
-9,
-10,
-},
-[13] = {
-2,
-3,
-},
-[15] = {
-1,
-},
-["color"] = "3eff3e",
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-10,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Route 3",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["objects"] = {
-},
-},
-{
-["objects"] = {
-},
-["week"] = 1,
-["addonVersion"] = 528,
-["uid"] = "9r5qR)iRvJ1",
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-32,
-30,
-31,
-28,
-27,
-26,
-36,
-2,
-35,
-3,
-nil,
-5,
-4,
-6,
-12,
-24,
-25,
-23,
-29,
-},
-{
-29,
-30,
-31,
-32,
-6,
-7,
-8,
-},
-{
-6,
-5,
-},
-{
-6,
-7,
-},
-[7] = {
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-21,
-20,
-22,
-},
-{
-38,
-36,
-37,
-26,
-27,
-28,
-},
-{
-8,
-},
-{
-nil,
-nil,
-20,
-19,
-15,
-16,
-14,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-1,
-},
-[17] = {
-},
-[2] = {
-20,
-21,
-22,
-},
-},
-{
-[3] = {
-4,
-},
-[2] = {
-24,
-25,
-23,
-},
-["color"] = "3e9eff",
-[5] = {
-1,
-},
-},
-{
-{
-18,
-17,
-19,
-16,
-},
-{
-18,
-19,
-17,
-16,
-15,
-},
-nil,
-{
-13,
-},
-["color"] = "fffb3e",
-},
-{
-{
-34,
-},
-[8] = {
-2,
-3,
-1,
-4,
-5,
-},
-[10] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[11] = {
-1,
-},
-[8] = {
-6,
-7,
-},
-[10] = {
-4,
-},
-["color"] = "ff3e9e",
-[9] = {
-3,
-},
-[12] = {
-},
-},
-{
-[11] = {
-4,
-},
-[10] = {
-10,
-},
-[9] = {
-10,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-33,
-34,
-36,
-35,
-39,
-38,
-37,
-},
-[10] = {
-11,
-},
-[12] = {
-5,
-},
-[9] = {
-11,
-},
-["color"] = "ff9b3e",
-},
-{
-[11] = {
-5,
-},
-[10] = {
-},
-[9] = {
-12,
-},
-["color"] = "3e3eff",
-},
-{
-[8] = {
-},
-[10] = {
-8,
-},
-[12] = {
-6,
-7,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[11] = {
-6,
-},
-[8] = {
-27,
-28,
-25,
-29,
-26,
-30,
-},
-},
-{
-["color"] = "3eff9e",
-[13] = {
-1,
-},
-[16] = {
-1,
-},
-[14] = {
-1,
-2,
-4,
-5,
-3,
-9,
-7,
-8,
-10,
-6,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-},
-[15] = {
-1,
-},
-},
-{
-[20] = {
-},
-[13] = {
-3,
-2,
-},
-["color"] = "3e9eff",
-[14] = {
-},
-[16] = {
-},
-},
-{
-["color"] = "fffb3e",
-[20] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Ara Kara +10",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["difficulty"] = 10,
-},
-{
-["difficulty"] = 10,
-["uid"] = "4F)ErSiP2E8",
-["addonVersion"] = 550,
-["week"] = 1,
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["selection"] = {
-14,
-},
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-nil,
-nil,
-{
-nil,
-nil,
-nil,
-1,
-1,
-1,
-1,
-1,
-},
-nil,
-{
-8,
-},
-{
-1,
-},
-{
-1,
-},
-nil,
-{
-8,
-8,
-nil,
-8,
-8,
-8,
-8,
-8,
-8,
-},
-{
-1,
-[6] = 1,
-[7] = 1,
-[3] = 1,
-[5] = 1,
-[11] = 1,
-},
-{
-},
-{
-1,
-[3] = 7,
-[6] = 7,
-[7] = 7,
-[4] = 7,
-},
-{
-7,
-[8] = 7,
-[7] = 7,
-[4] = 7,
-},
-nil,
-nil,
-{
-[13] = 8,
-[3] = 8,
-[14] = 8,
-[19] = 8,
-[15] = 8,
-[21] = 8,
-[16] = 8,
-[17] = 8,
-[18] = 8,
-[10] = 8,
-[20] = 8,
-[11] = 8,
-[22] = 8,
-[12] = 8,
-[4] = 8,
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["currentPull"] = 14,
-["pulls"] = {
-{
-{
-35,
-2,
-34,
-3,
-36,
-5,
-4,
-6,
-11,
-27,
-25,
-26,
-31,
-29,
-30,
-24,
-22,
-23,
-28,
-},
-{
-6,
-42,
-43,
-5,
-27,
-26,
-28,
-29,
-},
-{
-5,
-6,
-},
-{
-5,
-6,
-},
-[7] = {
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-21,
-20,
-19,
-},
-{
-24,
-23,
-25,
-33,
-34,
-35,
-},
-{
-8,
-},
-{
-20,
-19,
-16,
-15,
-},
-["color"] = "3eff9e",
-},
-{
-{
-},
-{
-17,
-18,
-19,
-},
-nil,
-{
-10,
-11,
-12,
-},
-[6] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-16,
-17,
-18,
-},
-{
-20,
-21,
-22,
-62,
-64,
-65,
-66,
-67,
-63,
-14,
-12,
-13,
-},
-{
-4,
-},
-{
-},
-{
-1,
-},
-nil,
-nil,
-{
-},
-["color"] = "3e9eff",
-[13] = {
-},
-[16] = {
-},
-},
-{
-{
-15,
-},
-{
-16,
-15,
-31,
-32,
-54,
-55,
-30,
-},
-{
-7,
-},
-{
-9,
-17,
-18,
-},
-["color"] = "fffb3e",
-[16] = {
-},
-},
-{
-["color"] = "3eff3e",
-[16] = {
-1,
-},
-[22] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-{
-33,
-},
-[11] = {
-1,
-},
-[8] = {
-4,
-5,
-6,
-7,
-2,
-3,
-1,
-},
-[10] = {
-1,
-},
-["color"] = "ff3e9e",
-[9] = {
-2,
-1,
-},
-},
-{
-[11] = {
-2,
-},
-[8] = {
-8,
-10,
-9,
-11,
-12,
-14,
-13,
-15,
-},
-[12] = {
-1,
-},
-[9] = {
-5,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-20,
-21,
-22,
-},
-[10] = {
-11,
-3,
-},
-["color"] = "ff9b3e",
-[9] = {
-4,
-6,
-},
-[12] = {
-3,
-},
-},
-{
-["color"] = "3e3eff",
-[10] = {
-5,
-6,
-},
-[9] = {
-7,
-8,
-9,
-},
-[12] = {
-4,
-},
-},
-{
-[2] = {
-},
-[8] = {
-39,
-38,
-36,
-37,
-},
-[10] = {
-7,
-},
-[12] = {
-6,
-7,
-},
-[4] = {
-},
-["color"] = "a1ff3e",
-},
-{
-[11] = {
-5,
-},
-[8] = {
-27,
-24,
-28,
-25,
-26,
-23,
-},
-[18] = {
-},
-["color"] = "ff3eff",
-[19] = {
-},
-},
-{
-["color"] = "3eff9e",
-[17] = {
-1,
-},
-[18] = {
-1,
-},
-},
-{
-[13] = {
-1,
-4,
-},
-[15] = {
-5,
-6,
-2,
-1,
-8,
-9,
-7,
-},
-["color"] = "ff3e3e",
-[14] = {
-5,
-1,
-2,
-4,
-3,
-},
-[16] = {
-},
-[4] = {
-},
-},
-{
-[13] = {
-7,
-8,
-},
-[15] = {
-17,
-16,
-20,
-18,
-19,
-3,
-4,
-21,
-22,
-},
-["color"] = "3e9eff",
-[14] = {
-7,
-8,
-9,
-10,
-6,
-},
-[16] = {
-},
-},
-{
-[20] = {
-1,
-2,
-},
-[13] = {
-},
-[21] = {
-1,
-2,
-},
-["color"] = "fffb3e",
-[19] = {
-1,
-},
-[16] = {
-},
-[22] = {
-},
-},
-},
-},
-["text"] = "AraKara (9 Aug)",
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["mdi"] = {
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-["freehold"] = 1,
-},
-["week"] = 1,
-["uid"] = "GwMKTNT6m1D",
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-34,
-2,
-35,
-3,
-36,
-6,
-4,
-5,
-10,
-9,
-11,
-},
-{
-7,
-44,
-45,
-},
-nil,
-{
-2,
-5,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-{
-22,
-23,
-24,
-25,
-26,
-27,
-28,
-29,
-30,
-31,
-},
-{
-5,
-6,
-26,
-27,
-28,
-29,
-42,
-43,
-},
-{
-5,
-6,
-},
-[7] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-20,
-21,
-19,
-},
-{
-23,
-24,
-25,
-33,
-34,
-35,
-},
-{
-8,
-},
-{
-19,
-20,
-16,
-15,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-16,
-17,
-18,
-15,
-},
-{
-16,
-15,
-13,
-12,
-14,
-17,
-18,
-19,
-},
-nil,
-{
-10,
-11,
-12,
-9,
-},
-[6] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-nil,
-{
-20,
-21,
-22,
-62,
-64,
-65,
-66,
-67,
-63,
-},
-{
-4,
-},
-{
-14,
-13,
-},
-{
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[16] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-{
-33,
-},
-[11] = {
-1,
-},
-[8] = {
-1,
-2,
-3,
-4,
-5,
-6,
-7,
-},
-[10] = {
-1,
-4,
-},
-["color"] = "ff3e9e",
-[9] = {
-1,
-2,
-3,
-},
-},
-{
-[11] = {
-2,
-},
-[8] = {
-8,
-10,
-9,
-11,
-12,
-14,
-13,
-15,
-},
-[12] = {
-1,
-},
-[9] = {
-5,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-20,
-21,
-22,
-},
-[10] = {
-11,
-3,
-},
-[12] = {
-3,
-},
-[9] = {
-4,
-6,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[10] = {
-5,
-6,
-},
-[12] = {
-4,
-},
-[9] = {
-7,
-8,
-9,
-},
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-7,
-},
-[12] = {
-6,
-7,
-},
-},
-{
-["color"] = "ff3eff",
-[8] = {
-24,
-27,
-28,
-25,
-26,
-23,
-},
-[11] = {
-5,
-},
-},
-{
-[17] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[14] = {
-1,
-2,
-4,
-5,
-3,
-},
-[13] = {
-1,
-},
-[15] = {
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[13] = {
-4,
-},
-[15] = {
-5,
-6,
-8,
-9,
-7,
-},
-},
-{
-[14] = {
-7,
-8,
-9,
-10,
-6,
-},
-[13] = {
-7,
-8,
-},
-[15] = {
-16,
-17,
-19,
-18,
-20,
-21,
-22,
-},
-["color"] = "fffb3e",
-},
-{
-[19] = {
-1,
-},
-["color"] = "3eff3e",
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "cook 1.2",
-["difficulty"] = 10,
-["objects"] = {
-},
-},
-{
-["mdi"] = {
-["beguiling"] = 1,
-["freeholdJoined"] = false,
-["freehold"] = 1,
-},
-["week"] = 1,
-["uid"] = "8v1g2f0sHcS",
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-34,
-2,
-35,
-3,
-36,
-6,
-4,
-5,
-10,
-9,
-11,
-},
-{
-7,
-44,
-45,
-},
-nil,
-{
-2,
-5,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-{
-22,
-23,
-24,
-25,
-26,
-27,
-28,
-29,
-30,
-31,
-},
-{
-5,
-6,
-26,
-27,
-28,
-29,
-42,
-43,
-},
-{
-5,
-6,
-},
-[7] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-{
-20,
-21,
-19,
-},
-{
-23,
-24,
-25,
-33,
-34,
-35,
-},
-{
-8,
-},
-{
-19,
-20,
-16,
-15,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-16,
-17,
-18,
-15,
-},
-{
-16,
-15,
-13,
-12,
-14,
-17,
-18,
-19,
-},
-nil,
-{
-10,
-11,
-12,
-9,
-},
-[6] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-nil,
-{
-20,
-21,
-22,
-62,
-64,
-65,
-66,
-67,
-63,
-},
-{
-4,
-},
-{
-14,
-13,
-},
-{
-1,
-},
-["color"] = "fffb3e",
-},
-{
-[16] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-{
-33,
-},
-[11] = {
-1,
-},
-[8] = {
-1,
-2,
-3,
-4,
-5,
-6,
-7,
-},
-[10] = {
-1,
-4,
-},
-["color"] = "ff3e9e",
-[9] = {
-1,
-2,
-3,
-},
-},
-{
-[11] = {
-2,
-},
-[8] = {
-8,
-10,
-9,
-11,
-12,
-14,
-13,
-15,
-},
-[12] = {
-1,
-},
-[9] = {
-5,
-},
-["color"] = "3effff",
-},
-{
-[8] = {
-20,
-21,
-22,
-},
-[10] = {
-11,
-3,
-},
-[12] = {
-3,
-},
-[9] = {
-4,
-6,
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[10] = {
-5,
-6,
-},
-[12] = {
-4,
-},
-[9] = {
-7,
-8,
-9,
-},
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-7,
-},
-[12] = {
-6,
-7,
-},
-},
-{
-["color"] = "ff3eff",
-[8] = {
-24,
-27,
-28,
-25,
-26,
-23,
-},
-[11] = {
-5,
-},
-},
-{
-[17] = {
-1,
-},
-["color"] = "3eff9e",
-},
-{
-[14] = {
-1,
-2,
-4,
-5,
-3,
-},
-[13] = {
-1,
-},
-[15] = {
-2,
-1,
-3,
-4,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[13] = {
-4,
-},
-[15] = {
-5,
-6,
-8,
-9,
-7,
-},
-},
-{
-[14] = {
-7,
-8,
-9,
-10,
-6,
-},
-[13] = {
-7,
-8,
-},
-[15] = {
-16,
-17,
-19,
-18,
-20,
-21,
-22,
-},
-["color"] = "fffb3e",
-},
-{
-[19] = {
-1,
-},
-["color"] = "3eff3e",
-},
-},
-["currentDungeonIdx"] = 113,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "cook 1.2 2",
-["difficulty"] = 10,
-["objects"] = {
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[114] = {
-{
-["difficulty"] = 3,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-4,
-3,
-2,
-},
-{
-3,
-4,
-2,
-},
-["color"] = "ff3eff",
-},
-{
-[3] = {
-1,
-},
-[10] = {
-4,
-5,
-6,
-7,
-},
-["color"] = "3eff9e",
-},
-{
-{
-11,
-12,
-},
-[4] = {
-3,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[10] = {
-32,
-33,
-29,
-34,
-30,
-35,
-31,
-40,
-38,
-41,
-42,
-36,
-44,
-39,
-43,
-37,
-},
-[4] = {
-5,
-},
-[3] = {
-5,
-},
-},
-{
-["color"] = "fffb3e",
-[19] = {
-1,
-},
-},
-{
-[5] = {
-1,
-},
-[6] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[6] = {
-2,
-},
-[7] = {
-1,
-},
-[8] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[6] = {
-3,
-},
-[7] = {
-2,
-},
-[11] = {
-1,
-},
-},
-{
-[11] = {
-2,
-},
-[7] = {
-3,
-},
-[8] = {
-2,
-},
-["color"] = "ff9b3e",
-[6] = {
-4,
-},
-},
-{
-["color"] = "3e3eff",
-[20] = {
-1,
-},
-[21] = {
-1,
-},
-},
-{
-[27] = {
-1,
-},
-[8] = {
-3,
-4,
-},
-[25] = {
-1,
-2,
-},
-[12] = {
-1,
-2,
-4,
-3,
-16,
-17,
-18,
-15,
-8,
-9,
-10,
-5,
-6,
-7,
-},
-[26] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[25] = {
-4,
-},
-[12] = {
-20,
-21,
-22,
-19,
-24,
-25,
-26,
-23,
-},
-[26] = {
-6,
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[13] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-1,
-2,
-},
-[15] = {
-2,
-},
-[14] = {
-1,
-2,
-3,
-},
-},
-{
-["color"] = "3e9eff",
-[14] = {
-7,
-4,
-8,
-5,
-6,
-},
-[9] = {
-10,
-7,
-1,
-2,
-4,
-8,
-9,
-5,
-3,
-6,
-},
-[15] = {
-3,
-},
-},
-{
-["color"] = "fffb3e",
-[23] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[17] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[18] = {
-1,
-},
-},
-{
-["color"] = "3effff",
-[22] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 114,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-},
-},
-[115] = {
-{
-["difficulty"] = 20,
-["uid"] = "6erVb2emu(7",
-["value"] = {
-["currentPull"] = 17,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 115,
-["teeming"] = false,
-["selection"] = {
-17,
-},
-["pulls"] = {
-{
-{
-4,
-2,
-3,
-5,
-11,
-7,
-},
-{
-3,
-2,
-},
-["color"] = "ff3eff",
-[10] = {
-36,
-39,
-},
-},
-{
-{
-12,
-13,
-8,
-9,
-},
-["color"] = "3eff9e",
-[10] = {
-3,
-2,
-},
-[12] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[10] = {
-28,
-30,
-29,
-31,
-},
-[20] = {
-16,
-15,
-},
-[17] = {
-1,
-},
-},
-{
-{
-40,
-},
-["color"] = "3e9eff",
-[14] = {
-6,
-5,
-},
-[7] = {
-15,
-16,
-},
-[9] = {
-15,
-17,
-18,
-16,
-},
-},
-{
-[3] = {
-3,
-13,
-7,
-2,
-4,
-8,
-9,
-5,
-10,
-6,
-12,
-11,
-},
-[13] = {
-1,
-},
-["color"] = "fffb3e",
-},
-{
-{
-46,
-47,
-},
-{
-7,
-},
-[20] = {
-13,
-14,
-12,
-},
-[17] = {
-},
-[10] = {
-38,
-37,
-25,
-24,
-},
-["color"] = "3eff3e",
-[19] = {
-1,
-},
-[7] = {
-32,
-},
-},
-{
-["color"] = "ff3e9e",
-[22] = {
-1,
-},
-[8] = {
-1,
-},
-},
-{
-[21] = {
-3,
-2,
-},
-[6] = {
-2,
-3,
-},
-[4] = {
-4,
-6,
-2,
-8,
-3,
-9,
-5,
-7,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[6] = {
-7,
-4,
-5,
-},
-[7] = {
-19,
-17,
-},
-[21] = {
-6,
-7,
-4,
-},
-},
-{
-[6] = {
-8,
-9,
-6,
-},
-[7] = {
-20,
-18,
-},
-[21] = {
-5,
-},
-["color"] = "3e3eff",
-[9] = {
-20,
-19,
-},
-},
-{
-["color"] = "a1ff3e",
-[23] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[6] = {
-10,
-11,
-},
-[7] = {
-22,
-21,
-},
-[21] = {
-8,
-9,
-},
-},
-{
-[6] = {
-13,
-12,
-},
-[7] = {
-25,
-},
-[15] = {
-12,
-},
-["color"] = "3eff9e",
-[14] = {
-8,
-},
-[16] = {
-3,
-},
-},
-{
-[6] = {
-14,
-},
-[7] = {
-29,
-},
-[15] = {
-3,
-1,
-10,
-},
-["color"] = "ff3e3e",
-[14] = {
-1,
-},
-[16] = {
-7,
-1,
-},
-},
-{
-[18] = {
-1,
-},
-[7] = {
-28,
-27,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[15] = {
-7,
-8,
-9,
-4,
-5,
-6,
-},
-[7] = {
-31,
-30,
-},
-},
-{
-[24] = {
-1,
-},
-[25] = {
-6,
-2,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-["color"] = "3eff3e",
-},
-},
-},
-["week"] = 1,
-},
-{
-["difficulty"] = 10,
-["uid"] = "QtyljzOmkmJ",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"245.3",
-"-277.8",
-1,
-true,
-"Pull back into stairs for LOS",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"203.2",
-"-304.3",
-1,
-true,
-"If you need extra count",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"421.7",
-"-307.2",
-1,
-true,
-"Chain Pull packs",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"530.9",
-"-308",
-1,
-true,
-"Need to pull from boss or his HP is insane",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"624.2",
-"-303.2",
-1,
-true,
-"Back to stairs for miniboss (knockback)",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"499.7",
-"-280.1",
-1,
-true,
-"1️⃣ Tanks separate Trusted Guards so they don’t get stronger together.\n3️⃣ Kill enemies quickly to avoid stacking Battle Cry buffs.\n4️⃣ Dodge Hurl Spear, Ember Storm, and Brutal Smash.\n\n🛡 Tanks:\nMove Captain Dailcry away from his Trusted Guards to weaken them.\nBe ready for Pierce Armor, which causes a heavy bleed effect.\nInterrupt Elaena Emberlanz’s Divine Judgment to prevent extra damage taken.\nPosition the boss so players can avoid Hurl Spear.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"390.1",
-"-276.2",
-1,
-true,
-"1️⃣ Interrupt Burning Light to stop the boss from healing.\n2️⃣ Spread out to avoid overlapping Castigator’s Detonation explosions.\n3️⃣ Move away from Hammer of Purity impact zones AND its spinning hammers.\n4️⃣ During Vindictive Wrath, expect heavy damage—healers and tanks prepare cooldowns.\n5️⃣ On Mythic, carefully soak Sacrificial Pyre to prevent massive group damage.\n\n🛡 Tanks:\n\nBraunpyke hits much harder during Vindictive Wrath—use defensive cooldowns.\nKeep the boss positioned so players have room to dodge Hammers of Purity.\nMove away from Castigator’s Detonation explosions.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"72.7",
-"-287.7",
-1,
-true,
-"1️⃣ Interrupt Embrace the Light early to prevent stacking damage.\n2️⃣ At 50% HP, burn through Barrier of Light quickly to stop her from dealing extra damage.\n3️⃣ Dodge The Sacred Flame and Sanctified Ground—fire hurts!\n4️⃣ Look away from Blinding Light to avoid getting disoriented.\n5️⃣ Kill Arathi Neophytes and Devoted quickly before they deal too much Holy damage.\n\n🛡 Tanks:\nMurrpray deals more damage while empowered by Inner Fire—use defensive cooldowns.\nMove her away from Sanctified Ground (fire pools) to keep space open for players.\nArathor Devoted (Mythic+) deal AoE Holy damage while buffed—be ready for extra healing.",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"73.9",
-"-277.7",
-1,
-true,
-"Burn shield after 50%",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"ff7d0a",
--8,
-true,
-},
-["l"] = {
-"239.2",
-"-272.1",
-"249.6",
-"-284.7",
-},
-},
-{
-["d"] = {
-5,
-1,
-1,
-true,
-"ff7d0a",
--8,
-true,
-},
-["l"] = {
-"251.2",
-"-272.5",
-"239.1",
-"-284.7",
-},
-},
-},
-["value"] = {
-["currentPull"] = 3,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[2] = {
-},
-},
-["currentDungeonIdx"] = 115,
-["teeming"] = false,
-["selection"] = {
-3,
-},
-["pulls"] = {
-{
-{
-3,
-2,
-4,
-5,
-7,
-8,
-9,
-12,
-13,
-},
-{
-2,
-},
-[10] = {
-},
-["color"] = "ff3eff",
-},
-{
-{
-20,
-16,
-17,
-18,
-},
-[17] = {
-},
-["color"] = "3eff9e",
-[7] = {
-},
-[9] = {
-3,
-},
-[12] = {
-1,
-},
-},
-{
-{
-},
-[20] = {
-},
-[17] = {
-1,
-},
-[10] = {
-},
-[12] = {
-},
-["color"] = "ff3e3e",
-},
-{
-{
-},
-{
-7,
-},
-["color"] = "3e9eff",
-[10] = {
-},
-[7] = {
-},
-},
-{
-{
-40,
-},
-["color"] = "fffb3e",
-[7] = {
-},
-[9] = {
-15,
-17,
-18,
-},
-[14] = {
-6,
-},
-},
-{
-["color"] = "3eff3e",
-[9] = {
-16,
-},
-[7] = {
-},
-[14] = {
-5,
-},
-},
-{
-[3] = {
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
-10,
-11,
-12,
-},
-[13] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[10] = {
-},
-[20] = {
-},
-[19] = {
-1,
-},
-},
-{
-[22] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-{
-[21] = {
-},
-[6] = {
-2,
-3,
-},
-[4] = {
-2,
-3,
-4,
-5,
-6,
-8,
-nil,
-7,
-},
-["color"] = "3e3eff",
-},
-{
-[21] = {
-},
-[6] = {
-7,
-4,
-5,
-},
-[7] = {
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[6] = {
-8,
-9,
-},
-[9] = {
-20,
-},
-[7] = {
-},
-},
-{
-[6] = {
-6,
-},
-[7] = {
-},
-[21] = {
-},
-["color"] = "3eff9e",
-[9] = {
-19,
-},
-},
-{
-[23] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[21] = {
-},
-[6] = {
-10,
-11,
-},
-[7] = {
-},
-["color"] = "3e9eff",
-},
-{
-[6] = {
-12,
-13,
-},
-[7] = {
-},
-[15] = {
-},
-["color"] = "fffb3e",
-[14] = {
-7,
-},
-[16] = {
-},
-},
-{
-[14] = {
-9,
-},
-[16] = {
-},
-[15] = {
-2,
-},
-["color"] = "3eff3e",
-},
-{
-[14] = {
-1,
-},
-[16] = {
-1,
-},
-[15] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[18] = {
-1,
-},
-[7] = {
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[7] = {
-},
-[15] = {
-5,
-4,
-},
-},
-{
-[24] = {
-1,
-},
-["color"] = "3e3eff",
-},
-},
-},
-["text"] = "YoDa Priory",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["week"] = 2,
-},
-{
-["difficulty"] = 2,
-["uid"] = "3vBw9kar2dm",
-["week"] = 1,
-["value"] = {
-["selection"] = {
-17,
-},
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-14,
-15,
-8,
-9,
-11,
-},
-{
-3,
-},
-["color"] = "ff3eff",
-[10] = {
-4,
-2,
-36,
-},
-[12] = {
-1,
-},
-},
-{
-{
-16,
-17,
-18,
-20,
-12,
-13,
-},
-[7] = {
-6,
-},
-[10] = {
-3,
-},
-["color"] = "3eff9e",
-[9] = {
-3,
-},
-[17] = {
-1,
-},
-},
-{
-{
-41,
-42,
-43,
-44,
-},
-["color"] = "ff3e3e",
-},
-{
-[13] = {
-1,
-},
-[3] = {
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
-10,
-11,
-12,
-13,
-},
-["color"] = "3e9eff",
-[14] = {
-6,
-},
-[9] = {
-17,
-18,
-},
-},
-{
-{
-40,
-},
-["color"] = "fffb3e",
-[9] = {
-15,
-12,
-13,
-},
-[7] = {
-15,
-13,
-},
-},
-{
-[7] = {
-16,
-},
-["color"] = "3eff3e",
-[19] = {
-1,
-},
-[9] = {
-16,
-},
-[14] = {
-5,
-},
-},
-{
-[22] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[6] = {
-2,
-3,
-4,
-5,
-},
-[7] = {
-17,
-},
-[21] = {
-2,
-3,
-4,
-},
-["color"] = "3effff",
-[4] = {
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
-},
-},
-{
-[6] = {
-6,
-},
-[7] = {
-18,
-},
-[21] = {
-5,
-},
-["color"] = "ff9b3e",
-[9] = {
-19,
-},
-},
-{
-[6] = {
-8,
-9,
-7,
-},
-[7] = {
-20,
-19,
-},
-[21] = {
-6,
-7,
-},
-["color"] = "3e3eff",
-[9] = {
-20,
-},
-},
-{
-[23] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-[21] = {
-8,
-9,
-},
-[6] = {
-10,
-11,
-},
-[7] = {
-21,
-22,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-12,
-13,
-},
-[7] = {
-24,
-},
-[15] = {
-12,
-},
-["color"] = "3eff9e",
-[14] = {
-7,
-},
-[16] = {
-2,
-},
-},
-{
-[6] = {
-14,
-},
-[7] = {
-25,
-29,
-},
-[15] = {
-3,
-},
-["color"] = "ff3e3e",
-[14] = {
-8,
-},
-[16] = {
-3,
-},
-},
-{
-[14] = {
-9,
-1,
-},
-[16] = {
-4,
-1,
-7,
-},
-[15] = {
-2,
-11,
-1,
-10,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[15] = {
-4,
-5,
-6,
-},
-[7] = {
-27,
-28,
-30,
-},
-[18] = {
-1,
-},
-},
-{
-[7] = {
-31,
-},
-[15] = {
-7,
-8,
-9,
-},
-[25] = {
-1,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-},
-["color"] = "3eff3e",
-[24] = {
-1,
-},
-},
-},
-["currentDungeonIdx"] = 115,
-["teeming"] = false,
-["currentPull"] = 17,
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "自律的盾墙's +16",
-["objects"] = {
-{
-["d"] = {
-621.4235388022195,
--249.0524087514635,
-1,
-true,
-"Lust",
-},
-["n"] = true,
-},
-{
-["d"] = {
-454.6821596302044,
--270.6787097137112,
-1,
-true,
-"Lust",
-},
-["n"] = true,
-},
-{
-["d"] = {
-192.4858796155996,
--265.8327237623109,
-1,
-true,
-"Lust",
-},
-["n"] = true,
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["difficulty"] = 15,
-["uid"] = "3D(s5y(ChDG",
-["addonVersion"] = 552,
-["objects"] = {
-},
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 14,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-[6] = {
-[24] = 1,
-[25] = 1,
-[7] = 1,
-[27] = 1,
-[28] = 1,
-[29] = 1,
-[8] = 1,
-[17] = 1,
-[9] = 1,
-[19] = 1,
-[20] = 1,
-[21] = 1,
-[22] = 1,
-[23] = 1,
-[26] = 1,
-},
-[2] = {
-8,
-},
-[8] = {
-[5] = 1,
-[19] = 1,
-[18] = 1,
-},
-[10] = {
-8,
-},
-[15] = {
-1,
-1,
-1,
-[5] = 1,
-},
-[11] = {
-8,
-},
-[5] = {
-[5] = 2,
-},
-[17] = {
-8,
-},
-},
-["currentDungeonIdx"] = 115,
-["teeming"] = false,
-["selection"] = {
-14,
-},
-["pulls"] = {
-{
-{
-3,
-2,
-4,
-5,
-9,
-13,
-12,
-},
-{
-3,
-},
-["color"] = "ff3eff",
-[9] = {
-34,
-4,
-},
-[11] = {
-1,
-},
-},
-{
-{
-22,
-20,
-21,
-19,
-},
-[7] = {
-},
-["color"] = "3eff9e",
-[19] = {
-4,
-3,
-},
-[9] = {
-11,
-},
-[16] = {
-1,
-},
-},
-{
-{
-43,
-1,
-26,
-},
-{
-1,
-},
-["color"] = "ff3e3e",
-[6] = {
-8,
-},
-[9] = {
-33,
-1,
-13,
-},
-},
-{
-{
-25,
-24,
-23,
-},
-["color"] = "3e9eff",
-[10] = {
-1,
-},
-},
-{
-{
-27,
-28,
-},
-[6] = {
-7,
-},
-[7] = {
-1,
-},
-[8] = {
-5,
-},
-["color"] = "fffb3e",
-[14] = {
-},
-[9] = {
-12,
-14,
-},
-[19] = {
-5,
-},
-},
-{
-{
-32,
-},
-["color"] = "3eff3e",
-[6] = {
-9,
-},
-[9] = {
-18,
-19,
-},
-[19] = {
-6,
-7,
-8,
-},
-},
-{
-{
-},
-[14] = {
-},
-[18] = {
-},
-[21] = {
-1,
-},
-["color"] = "ff3e9e",
-},
-{
-[20] = {
-2,
-1,
-3,
-},
-["color"] = "3effff",
-[4] = {
-2,
-6,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-[5] = {
-1,
-2,
-4,
-3,
-},
-[6] = {
-17,
-},
-},
-{
-[20] = {
-4,
-},
-[8] = {
-18,
-},
-["color"] = "ff9b3e",
-[5] = {
-5,
-},
-[6] = {
-18,
-},
-},
-{
-[6] = {
-20,
-19,
-},
-[8] = {
-19,
-},
-["color"] = "3e3eff",
-[5] = {
-7,
-8,
-6,
-},
-[20] = {
-6,
-5,
-},
-},
-{
-["color"] = "a1ff3e",
-[22] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[6] = {
-21,
-22,
-},
-[20] = {
-8,
-7,
-},
-[5] = {
-9,
-10,
-},
-},
-{
-[6] = {
-},
-[13] = {
-7,
-},
-[15] = {
-2,
-},
-["color"] = "3eff9e",
-[14] = {
-12,
-},
-[5] = {
-12,
-11,
-},
-},
-{
-[6] = {
-27,
-24,
-},
-[13] = {
-8,
-},
-[15] = {
-},
-["color"] = "ff3e3e",
-[14] = {
-3,
-},
-[5] = {
-13,
-},
-[20] = {
-10,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-1,
-},
-[15] = {
-1,
-5,
-},
-[14] = {
-1,
-10,
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-25,
-26,
-29,
-},
-[17] = {
-1,
-},
-[14] = {
-9,
-7,
-8,
-11,
-},
-},
-{
-[6] = {
-28,
-},
-[24] = {
-6,
-2,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-["color"] = "3eff3e",
-[14] = {
-5,
-4,
-6,
-},
-[23] = {
-1,
-},
-},
-},
-},
-["text"] = "Priory (11 Aug)",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["week"] = 1,
-},
-{
-["difficulty"] = 15,
-["week"] = 1,
-["uid"] = "Q9Pba1LnxWs",
-["value"] = {
-["currentPull"] = 7,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 115,
-["teeming"] = false,
-["selection"] = {
-7,
-},
-["pulls"] = {
-{
-{
-3,
-2,
-4,
-5,
-9,
-13,
-12,
-},
-{
-3,
-},
-["color"] = "ff3eff",
-[9] = {
-34,
-4,
-},
-[11] = {
-1,
-},
-},
-{
-{
-17,
-},
-[6] = {
-4,
-5,
-},
-[8] = {
-1,
-},
-["color"] = "3eff9e",
-[9] = {
-9,
-10,
-},
-[16] = {
-1,
-},
-},
-{
-{
-20,
-21,
-22,
-19,
-26,
-},
-["color"] = "ff3e3e",
-[19] = {
-4,
-3,
-},
-[9] = {
-11,
-13,
-},
-[6] = {
-8,
-},
-},
-{
-{
-43,
-1,
-},
-{
-1,
-},
-["color"] = "3e9eff",
-[9] = {
-33,
-1,
-},
-},
-{
-{
-24,
-25,
-23,
-},
-["color"] = "fffb3e",
-[10] = {
-1,
-},
-},
-{
-{
-},
-{
-},
-[6] = {
-7,
-},
-[7] = {
-1,
-},
-[8] = {
-5,
-},
-["color"] = "3eff3e",
-[19] = {
-5,
-},
-[9] = {
-12,
-},
-},
-{
-{
-33,
-34,
-32,
-},
-{
-5,
-},
-["color"] = "ff3e9e",
-[6] = {
-9,
-},
-},
-{
-[21] = {
-1,
-},
-[18] = {
-},
-["color"] = "3effff",
-},
-{
-[20] = {
-2,
-1,
-3,
-},
-["color"] = "ff9b3e",
-[4] = {
-6,
-2,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-[5] = {
-1,
-2,
-4,
-3,
-},
-[6] = {
-17,
-},
-},
-{
-[20] = {
-6,
-5,
-4,
-},
-[8] = {
-18,
-},
-["color"] = "3e3eff",
-[5] = {
-6,
-5,
-},
-[6] = {
-19,
-18,
-},
-},
-{
-[5] = {
-7,
-8,
-},
-[6] = {
-20,
-},
-[8] = {
-19,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[22] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[6] = {
-21,
-22,
-},
-[20] = {
-8,
-7,
-},
-[5] = {
-9,
-10,
-},
-},
-{
-[20] = {
-9,
-},
-[13] = {
-7,
-},
-[15] = {
-2,
-},
-["color"] = "ff3e3e",
-[14] = {
-12,
-},
-[5] = {
-12,
-11,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-9,
-},
-[15] = {
-4,
-},
-[14] = {
-2,
-11,
-},
-},
-{
-[14] = {
-10,
-1,
-},
-[13] = {
-1,
-},
-[15] = {
-1,
-5,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[6] = {
-25,
-26,
-28,
-},
-[17] = {
-1,
-},
-[14] = {
-6,
-4,
-5,
-},
-},
-{
-[6] = {
-29,
-},
-[24] = {
-6,
-2,
-8,
-3,
-1,
-4,
-5,
-7,
-},
-["color"] = "ff3e9e",
-[14] = {
-9,
-7,
-8,
-},
-[23] = {
-1,
-},
-},
-},
-},
-["text"] = "Route 4",
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[116] = {
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 10,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 116,
-["teeming"] = false,
-["selection"] = {
-10,
-},
-["pulls"] = {
-{
-{
-2,
-3,
-},
-{
-2,
-4,
-5,
-},
-{
-2,
-3,
-4,
-5,
-6,
-7,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-5,
-},
-{
-7,
-},
-{
-9,
-8,
-12,
-13,
-},
-{
-2,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[5] = {
-1,
-},
-},
-{
-{
-4,
-},
-{
-9,
-8,
-6,
-},
-{
-19,
-18,
-16,
-17,
-15,
-14,
-10,
-11,
-},
-{
-3,
-},
-["color"] = "3e9eff",
-},
-{
-["color"] = "fffb3e",
-[16] = {
-1,
-},
-},
-{
-[11] = {
-2,
-3,
-},
-[13] = {
-2,
-},
-["color"] = "3eff3e",
-[12] = {
-2,
-3,
-},
-[2] = {
-10,
-11,
-},
-},
-{
-[11] = {
-4,
-5,
-6,
-},
-[2] = {
-12,
-},
-[12] = {
-4,
-},
-[13] = {
-3,
-4,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[2] = {
-13,
-14,
-},
-[12] = {
-5,
-6,
-8,
-7,
-9,
-10,
-},
-[11] = {
-7,
-},
-},
-{
-["color"] = "ff9b3e",
-[14] = {
-2,
-3,
-4,
-5,
-6,
-7,
-},
-[20] = {
-2,
-3,
-1,
-},
-[12] = {
-11,
-},
-},
-{
-[11] = {
-},
-[2] = {
-15,
-16,
-18,
-19,
-},
-[12] = {
-12,
-16,
-15,
-},
-[14] = {
-8,
-},
-["color"] = "3e3eff",
-[13] = {
-6,
-5,
-},
-},
-{
-["color"] = "a1ff3e",
-[17] = {
-1,
-},
-[21] = {
-1,
-2,
-},
-},
-{
-["color"] = "ff3eff",
-[6] = {
-2,
-3,
-6,
-4,
-5,
-},
-[9] = {
-2,
-},
-[8] = {
-2,
-},
-},
-{
-[6] = {
-7,
-8,
-9,
-10,
-11,
-},
-[7] = {
-2,
-3,
-},
-[8] = {
-1,
-},
-[10] = {
-5,
-2,
-3,
-4,
-1,
-},
-["color"] = "3eff9e",
-[9] = {
-3,
-},
-},
-{
-[6] = {
-13,
-12,
-},
-[7] = {
-4,
-},
-[10] = {
-6,
-7,
-8,
-10,
-9,
-11,
-},
-["color"] = "ff3e3e",
-[9] = {
-4,
-},
-},
-{
-[24] = {
-7,
-1,
-2,
-4,
-8,
-9,
-5,
-10,
-3,
-6,
-},
-[8] = {
-3,
-},
-["color"] = "3e9eff",
-[7] = {
-5,
-},
-[9] = {
-5,
-6,
-},
-[23] = {
-2,
-1,
-},
-},
-{
-[7] = {
-9,
-},
-[8] = {
-4,
-},
-[10] = {
-12,
-14,
-16,
-13,
-15,
-},
-["color"] = "fffb3e",
-[9] = {
-9,
-},
-},
-{
-["color"] = "3eff3e",
-[10] = {
-45,
-42,
-44,
-46,
-43,
-36,
-32,
-33,
-34,
-35,
-30,
-27,
-28,
-29,
-31,
-},
-[22] = {
-1,
-2,
-3,
-},
-[18] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[15] = {
-3,
-2,
-4,
-5,
-},
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-},
-},
-},
-},
-},
-},
-[117] = {
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 6,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 117,
-["teeming"] = false,
-["selection"] = {
-6,
-},
-["pulls"] = {
-{
-{
-4,
-2,
-3,
-5,
-7,
-6,
-8,
-9,
-10,
-11,
-12,
-14,
-16,
-13,
-15,
-},
-{
-2,
-},
-{
-},
-{
-},
-["color"] = "ff3eff",
-},
-{
-{
-17,
-20,
-24,
-21,
-18,
-22,
-19,
-23,
-},
-{
-3,
-},
-{
-},
-{
-},
-{
-2,
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-27,
-28,
-26,
-32,
-33,
-29,
-30,
-31,
-},
-{
-5,
-},
-{
-4,
-5,
-},
-{
-8,
-7,
-},
-{
-5,
-1,
-},
-{
-},
-nil,
-{
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[28] = {
-2,
-3,
-1,
-4,
-5,
-},
-[23] = {
-1,
-},
-[29] = {
-1,
-2,
-},
-},
-{
-[8] = {
-3,
-1,
-},
-[6] = {
-10,
-11,
-9,
-},
-[7] = {
-4,
-},
-["color"] = "fffb3e",
-},
-{
-[8] = {
-2,
-},
-[6] = {
-6,
-8,
-7,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[15] = {
-2,
-},
-[8] = {
-4,
-},
-[16] = {
-2,
-},
-[17] = {
-2,
-},
-[18] = {
-2,
-},
-[19] = {
-2,
-},
-[20] = {
-2,
-},
-[21] = {
-2,
-},
-[22] = {
-2,
-},
-},
-{
-["color"] = "3effff",
-[24] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[9] = {
-10,
-7,
-2,
-4,
-8,
-9,
-5,
-3,
-6,
-12,
-11,
-},
-},
-{
-{
-34,
-36,
-35,
-},
-["color"] = "3e3eff",
-[10] = {
-1,
-},
-[9] = {
-13,
-14,
-16,
-15,
-},
-[11] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[25] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[13] = {
-2,
-},
-[12] = {
-3,
-2,
-4,
-5,
-6,
-7,
-8,
-9,
-10,
-12,
-11,
-},
-},
-{
-[14] = {
-1,
-},
-[13] = {
-1,
-5,
-3,
-},
-[12] = {
-16,
-17,
-18,
-1,
-19,
-20,
-21,
-24,
-22,
-23,
-14,
-13,
-15,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-6,
-},
-[12] = {
-26,
-27,
-28,
-32,
-25,
-29,
-30,
-31,
-33,
-34,
-35,
-},
-[14] = {
-3,
-4,
-},
-},
-{
-["color"] = "3e9eff",
-[26] = {
-1,
-},
-[30] = {
-2,
-3,
-1,
-4,
-5,
-},
-},
-{
-[14] = {
-5,
-6,
-7,
-9,
-},
-[12] = {
-40,
-41,
-36,
-44,
-39,
-43,
-48,
-42,
-54,
-52,
-53,
-},
-["color"] = "fffb3e",
-},
-},
-},
-},
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 15,
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-2,
-3,
-4,
-5,
-7,
-6,
-8,
-9,
-10,
-11,
-12,
-14,
-16,
-13,
-15,
-},
-{
-2,
-},
-{
-2,
-},
-{
-2,
-3,
-4,
-},
-{
-2,
-3,
-},
-["color"] = "ff3eff",
-},
-{
-{
-1,
-38,
-40,
-37,
-39,
-},
-{
-4,
-},
-{
-3,
-},
-{
-6,
-5,
-},
-{
-4,
-},
-["color"] = "3eff9e",
-},
-{
-{
-27,
-28,
-26,
-30,
-32,
-33,
-29,
-31,
-},
-{
-5,
-},
-{
-4,
-5,
-},
-{
-8,
-7,
-},
-{
-1,
-5,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[28] = {
-2,
-3,
-1,
-4,
-5,
-},
-[23] = {
-1,
-},
-[29] = {
-1,
-2,
-},
-},
-{
-["color"] = "fffb3e",
-[6] = {
-11,
-10,
-9,
-},
-[7] = {
-4,
-},
-[8] = {
-3,
-},
-},
-{
-[8] = {
-2,
-1,
-},
-[6] = {
-6,
-8,
-7,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[15] = {
-2,
-},
-[8] = {
-4,
-},
-[16] = {
-2,
-},
-[17] = {
-2,
-},
-[18] = {
-2,
-},
-[19] = {
-2,
-},
-[20] = {
-2,
-},
-[21] = {
-2,
-},
-[22] = {
-2,
-},
-},
-{
-["color"] = "3effff",
-[24] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[9] = {
-10,
-7,
-2,
-4,
-8,
-9,
-5,
-3,
-6,
-12,
-11,
-},
-},
-{
-["color"] = "3e3eff",
-[25] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-2,
-},
-[12] = {
-4,
-2,
-3,
-5,
-6,
-7,
-8,
-9,
-10,
-12,
-11,
-},
-},
-{
-[14] = {
-1,
-},
-[13] = {
-1,
-},
-[12] = {
-16,
-17,
-18,
-1,
-21,
-20,
-19,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[13] = {
-5,
-},
-[12] = {
-24,
-22,
-23,
-27,
-28,
-32,
-25,
-29,
-26,
-30,
-31,
-},
-[14] = {
-4,
-3,
-},
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-6,
-},
-[12] = {
-33,
-34,
-35,
-},
-},
-{
-[14] = {
-5,
-6,
-7,
-9,
-8,
-},
-["color"] = "3e9eff",
-[12] = {
-40,
-41,
-36,
-44,
-39,
-43,
-37,
-38,
-48,
-42,
-54,
-52,
-53,
-49,
-50,
-51,
-45,
-47,
-46,
-},
-[27] = {
-2,
-1,
-},
-},
-{
-["color"] = "fffb3e",
-[26] = {
-1,
-},
-[30] = {
-2,
-3,
-1,
-4,
-5,
-},
-},
-},
-["currentDungeonIdx"] = 117,
-["teeming"] = false,
-["selection"] = {
-15,
-},
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "gate skip miniboss",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["objects"] = {
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[118] = {
-{
-["difficulty"] = 20,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["currentDungeonIdx"] = 118,
-["teeming"] = false,
-["pulls"] = {
-{
-["color"] = "228b22",
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["uid"] = "BDIp08bmjT2",
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
-},
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-"661.8",
-"-150.1",
-1,
-true,
-"Bloodlust first pull",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"168.3",
-"-254.5",
-1,
-true,
-"Bloodlust on trash or whenever it comes back off cooldown",
-},
-},
-{
-["n"] = true,
-["d"] = {
-"588.5",
-"-467.3",
-1,
-true,
-"Bloodlust Voidstone Monstrosity",
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Raider.IO The Weekly Route: Beginner - Intermediate",
-["value"] = {
-["currentPull"] = 1,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-[5] = {
-},
-},
-["currentDungeonIdx"] = 118,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["pulls"] = {
-{
-{
-1,
-},
-{
-3,
-5,
-},
-{
-6,
-7,
-5,
-2,
-4,
-3,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-7,
-},
-[2] = {
-24,
-23,
-},
-[3] = {
-31,
-30,
-12,
-26,
-},
-["color"] = "3eff9e",
-[5] = {
-1,
-},
-},
-{
-nil,
-{
-21,
-},
-{
-25,
-1,
-},
-{
-6,
-},
-{
-3,
-},
-{
-3,
-},
-["color"] = "ff3e3e",
-},
-{
-nil,
-{
-7,
-20,
-1,
-8,
-},
-{
-8,
-},
-{
-1,
-},
-["color"] = "3e9eff",
-},
-{
-[3] = {
-9,
-10,
-},
-[6] = {
-5,
-1,
-6,
-},
-[5] = {
-4,
-5,
-},
-["color"] = "fffb3e",
-},
-{
-[13] = {
-1,
-},
-["color"] = "3eff3e",
-},
-{
-[8] = {
-3,
-},
-["color"] = "ff3e9e",
-[9] = {
-},
-[3] = {
-16,
-28,
-},
-},
-{
-[7] = {
-5,
-6,
-7,
-},
-[8] = {
-4,
-},
-[3] = {
-17,
-},
-["color"] = "3effff",
-[9] = {
-3,
-4,
-},
-},
-{
-[7] = {
-8,
-4,
-},
-[8] = {
-1,
-7,
-},
-[3] = {
-24,
-},
-["color"] = "ff9b3e",
-[9] = {
-1,
-6,
-},
-},
-{
-[14] = {
-1,
-},
-[10] = {
-9,
-8,
-6,
-7,
-3,
-2,
-4,
-5,
-},
-["color"] = "3e3eff",
-},
-{
-[11] = {
-2,
-},
-[7] = {
-2,
-18,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[10] = {
-13,
-10,
-11,
-12,
-1,
-18,
-14,
-15,
-16,
-17,
-},
-[7] = {
-15,
-14,
-},
-},
-{
-[11] = {
-4,
-},
-[7] = {
-16,
-17,
-},
-[10] = {
-34,
-35,
-36,
-37,
-38,
-39,
-40,
-41,
-46,
-42,
-43,
-44,
-45,
-48,
-49,
-50,
-51,
-47,
-},
-[12] = {
-3,
-},
-["color"] = "3eff9e",
-},
-{
-[11] = {
-7,
-},
-[7] = {
-21,
-19,
-},
-[10] = {
-58,
-66,
-68,
-69,
-70,
-72,
-73,
-71,
-67,
-19,
-20,
-22,
-23,
-24,
-},
-[12] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[11] = {
-6,
-},
-[10] = {
-61,
-62,
-64,
-65,
-63,
-},
-[12] = {
-7,
-},
-["color"] = "3e9eff",
-},
-{
-[15] = {
-1,
-},
-["color"] = "fffb3e",
-},
-},
-},
-["week"] = 5,
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[119] = {
-{
-["difficulty"] = 2,
-["uid"] = "ggZJet81HxK",
-["value"] = {
-["currentPull"] = 8,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 119,
-["teeming"] = false,
-["selection"] = {
-8,
-},
-["pulls"] = {
-{
-{
-4,
-},
-{
-8,
-9,
-},
-nil,
-{
-1,
-5,
-6,
-},
-{
-8,
-7,
-9,
-1,
-32,
-19,
-18,
-},
-nil,
-nil,
-nil,
-nil,
-{
-2,
-3,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-11,
-12,
-},
-[13] = {
-},
-[10] = {
-5,
-4,
-},
-["color"] = "3eff9e",
-[14] = {
-5,
-},
-[5] = {
-21,
-20,
-16,
-17,
-},
-[4] = {
-2,
-4,
-3,
-},
-},
-{
-[7] = {
-5,
-},
-[3] = {
-14,
-16,
-15,
-},
-["color"] = "ff3e3e",
-[9] = {
-},
-[2] = {
-1,
-20,
-19,
-},
-},
-{
-["color"] = "3e9eff",
-[6] = {
-15,
-16,
-},
-[3] = {
-17,
-18,
-},
-[2] = {
-21,
-22,
-24,
-23,
-},
-},
-{
-[18] = {
-1,
-},
-[5] = {
-},
-[23] = {
-1,
-2,
-4,
-3,
-},
-["color"] = "fffb3e",
-},
-{
-[2] = {
-12,
-13,
-26,
-25,
-},
-[8] = {
-},
-["color"] = "3eff3e",
-[9] = {
-},
-[5] = {
-11,
-10,
-},
-},
-{
-[2] = {
-},
-[8] = {
-},
-[3] = {
-},
-["color"] = "ff3e9e",
-[5] = {
-33,
-14,
-13,
-15,
-},
-[7] = {
-},
-},
-{
-[14] = {
-6,
-7,
-},
-[10] = {
-6,
-7,
-},
-[5] = {
-22,
-23,
-24,
-25,
-},
-["color"] = "3effff",
-},
-{
-{
-6,
-5,
-},
-["color"] = "ff9b3e",
-[10] = {
-8,
-},
-[5] = {
-27,
-26,
-},
-},
-{
-["color"] = "3e3eff",
-[19] = {
-1,
-},
-[20] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-5,
-6,
-4,
-nil,
-8,
-7,
-},
-[17] = {
-},
-},
-{
-["color"] = "ff3eff",
-[15] = {
-3,
-6,
-2,
-4,
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[21] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-1,
-},
-},
-{
-[11] = {
-4,
-1,
-},
-[17] = {
-},
-["color"] = "3e9eff",
-[9] = {
-7,
-},
-[5] = {
-30,
-31,
-},
-},
-{
-["color"] = "fffb3e",
-[2] = {
-27,
-},
-[9] = {
-},
-[5] = {
-},
-},
-{
-["color"] = "3eff3e",
-[17] = {
-},
-[11] = {
-},
-},
-{
-["color"] = "ff3e9e",
-[17] = {
-},
-},
-},
-},
-["week"] = 1,
-},
-{
-["difficulty"] = 2,
-["uid"] = "Lx5M5dNQQTC",
-["week"] = 1,
-["value"] = {
-["selection"] = {
-18,
-},
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-[8] = {
-2,
-},
-[6] = {
-4,
-5,
-6,
-7,
-10,
-8,
-9,
-},
-[2] = {
-10,
-11,
-},
-["color"] = "ff3eff",
-},
-{
-[5] = {
-11,
-10,
-},
-["color"] = "3eff9e",
-[23] = {
-1,
-2,
-4,
-3,
-},
-[18] = {
-1,
-},
-},
-{
-[6] = {
-},
-[2] = {
-26,
-25,
-13,
-12,
-},
-[8] = {
-},
-["color"] = "ff3e3e",
-[9] = {
-5,
-6,
-},
-},
-{
-["color"] = "3e9eff",
-[2] = {
-24,
-23,
-},
-[4] = {
-11,
-10,
-},
-[6] = {
-},
-},
-{
-[7] = {
-},
-[8] = {
-},
-[3] = {
-},
-["color"] = "fffb3e",
-[5] = {
-14,
-15,
-13,
-33,
-},
-},
-{
-[5] = {
-16,
-17,
-},
-[10] = {
-4,
-},
-[4] = {
-4,
-2,
-3,
-},
-["color"] = "3eff3e",
-},
-{
-[6] = {
-11,
-12,
-},
-[10] = {
-5,
-},
-["color"] = "ff3e9e",
-[14] = {
-5,
-},
-[5] = {
-20,
-21,
-},
-},
-{
-[3] = {
-13,
-11,
-12,
-},
-[2] = {
-15,
-14,
-},
-[6] = {
-13,
-14,
-},
-["color"] = "3effff",
-},
-{
-{
-4,
-},
-[5] = {
-18,
-19,
-32,
-1,
-},
-[10] = {
-3,
-2,
-},
-[4] = {
-5,
-1,
-6,
-},
-["color"] = "ff9b3e",
-},
-{
-[5] = {
-23,
-22,
-},
-[13] = {
-3,
-2,
-},
-[14] = {
-6,
-},
-["color"] = "3e3eff",
-},
-{
-[5] = {
-24,
-25,
-},
-[10] = {
-6,
-7,
-},
-[14] = {
-7,
-},
-["color"] = "a1ff3e",
-},
-{
-{
-6,
-5,
-},
-[5] = {
-26,
-27,
-28,
-29,
-},
-[10] = {
-8,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[19] = {
-1,
-},
-[20] = {
-1,
-},
-},
-{
-[15] = {
-4,
-6,
-2,
-3,
-5,
-},
-["color"] = "ff3e3e",
-},
-{
-[21] = {
-1,
-},
-["color"] = "3e9eff",
-},
-{
-[16] = {
-},
-["color"] = "fffb3e",
-},
-{
-[11] = {
-4,
-1,
-},
-["color"] = "3eff3e",
-[9] = {
-7,
-},
-[5] = {
-31,
-30,
-},
-},
-{
-[11] = {
-6,
-5,
-},
-[2] = {
-27,
-},
-["color"] = "ff3e9e",
-[9] = {
-},
-[5] = {
-},
-},
-{
-[11] = {
-},
-[17] = {
-},
-["color"] = "3effff",
-},
-{
-[17] = {
-},
-["color"] = "ff9b3e",
-},
-{
-["color"] = "3e3eff",
-[22] = {
-1,
-},
-[16] = {
-},
-},
-},
-["currentDungeonIdx"] = 119,
-["teeming"] = false,
-["currentPull"] = 18,
-["riftOffsets"] = {
-{
-},
-},
-},
-["text"] = "Tactyks PUG Friendly",
-["objects"] = {
-{
-["d"] = {
-227.85748291475,
--68.131671995169,
-1,
-true,
-"Mount up and run up the hill towards pull 1, G11 patrols but if you just run straight up you'll beat it, for safety you can have some use a long range CC on the demolitionist to stop the patrol",
-},
-["n"] = true,
-},
-{
-["d"] = {
-241.59540773832,
--455.98883702878,
-1,
-true,
-"Use the gliders here to go to pull 6, make sure your tank is first!",
-},
-["n"] = true,
-},
-{
-["d"] = {
-334.37524626748,
--255.02964578219,
-1,
-true,
-"Watch for the G39 patrol, it's not a big deal to add them into pull 7 instead of pull 10",
-},
-["n"] = true,
-},
-{
-["d"] = {
-476.69351264636,
--282.66368101877,
-1,
-true,
-"Chain pull into G46 once G43 is dead",
-},
-["n"] = true,
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"227.5",
-"-78.40000000000002",
-"134.3",
-"-165.6",
-},
-["t"] = {
-0.75207734315778,
-},
-},
-{
-["d"] = {
-11,
-1,
-1,
-true,
-"ffffff",
--8,
-},
-["l"] = {
-"222.9",
-"-449.9",
-"236.1",
-"-309.9",
-},
-["t"] = {
--1.6646377710065,
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-},
-{
-["difficulty"] = 10,
-["week"] = 1,
-["addonVersion"] = 550,
-["objects"] = {
-},
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 12,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-[3] = {
-[14] = 7,
-[13] = 7,
-[12] = 7,
-},
-[10] = {
-[7] = 7,
-[8] = 7,
-},
-[11] = {
-1,
-[8] = 1,
-[4] = 1,
-[7] = 1,
-},
-[8] = {
-[2] = 8,
-},
-},
-["currentDungeonIdx"] = 119,
-["teeming"] = false,
-["selection"] = {
-12,
-},
-["pulls"] = {
-{
-{
-3,
-},
-{
-8,
-9,
-},
-nil,
-{
-5,
-1,
-6,
-},
-{
-9,
-7,
-8,
-1,
-31,
-17,
-18,
-},
-nil,
-nil,
-nil,
-nil,
-{
-2,
-1,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-12,
-11,
-},
-[10] = {
-4,
-3,
-},
-[4] = {
-3,
-2,
-4,
-},
-[25] = {
-5,
-},
-["color"] = "3eff9e",
-[14] = {
-4,
-},
-[5] = {
-20,
-19,
-16,
-15,
-},
-[12] = {
-},
-},
-{
-[13] = {
-1,
-2,
-},
-[25] = {
-2,
-},
-[12] = {
-},
-[14] = {
-5,
-},
-[5] = {
-21,
-22,
-},
-["color"] = "ff3e3e",
-},
-{
-{
-5,
-4,
-},
-[5] = {
-26,
-25,
-27,
-28,
-},
-[10] = {
-7,
-8,
-},
-["color"] = "3e9eff",
-},
-{
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-[27] = {
-1,
-2,
-},
-["color"] = "fffb3e",
-},
-{
-[7] = {
-4,
-},
-[3] = {
-12,
-13,
-14,
-},
-[12] = {
-4,
-3,
-14,
-},
-[2] = {
-1,
-20,
-19,
-},
-[9] = {
-3,
-2,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[2] = {
-18,
-16,
-17,
-14,
-15,
-},
-[7] = {
-2,
-3,
-},
-[6] = {
-13,
-14,
-},
-},
-{
-[6] = {
-16,
-15,
-},
-[17] = {
-1,
-},
-[3] = {
-},
-[22] = {
-1,
-2,
-4,
-3,
-},
-[2] = {
-21,
-22,
-},
-[5] = {
-11,
-10,
-},
-["color"] = "3effff",
-},
-{
-[2] = {
-23,
-24,
-},
-[8] = {
-2,
-},
-[3] = {
-17,
-},
-["color"] = "ff9b3e",
-[5] = {
-13,
-12,
-14,
-32,
-},
-[7] = {
-5,
-},
-},
-{
-["color"] = "3e3eff",
-[15] = {
-1,
-6,
-2,
-3,
-4,
-5,
-},
-[20] = {
-},
-[12] = {
-},
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-7,
-6,
-8,
-3,
-4,
-5,
-},
-[20] = {
-},
-},
-{
-["color"] = "ff3eff",
-[20] = {
-1,
-},
-},
-{
-[11] = {
-4,
-1,
-},
-[2] = {
-30,
-28,
-29,
-},
-["color"] = "3eff9e",
-[5] = {
-30,
-29,
-},
-[9] = {
-4,
-5,
-},
-},
-{
-[11] = {
-8,
-7,
-},
-[2] = {
-27,
-},
-["color"] = "ff3e3e",
-[9] = {
-7,
-6,
-},
-[16] = {
-4,
-},
-[5] = {
-33,
-},
-},
-{
-["color"] = "3e9eff",
-[16] = {
-2,
-1,
-},
-},
-{
-[21] = {
-1,
-},
-[26] = {
-1,
-2,
-3,
-},
-["color"] = "fffb3e",
-},
-},
-},
-["text"] = "Floodgate (9 Aug)",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["uid"] = "BMi35jt00rD",
-},
-{
-["difficulty"] = 2,
-["week"] = 1,
-["uid"] = "uRoPC(NIsrP",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 3",
-["objects"] = {
-},
-["value"] = {
-["currentPull"] = 5,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 119,
-["teeming"] = false,
-["selection"] = {
-5,
-},
-["pulls"] = {
-{
-{
-3,
-},
-{
-8,
-9,
-},
-nil,
-{
-5,
-1,
-6,
-},
-{
-7,
-8,
-9,
-1,
-31,
-17,
-18,
-},
-nil,
-nil,
-nil,
-nil,
-{
-2,
-1,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-11,
-12,
-},
-[4] = {
-4,
-2,
-3,
-},
-[10] = {
-4,
-3,
-},
-["color"] = "3eff9e",
-[14] = {
-4,
-},
-[5] = {
-20,
-19,
-16,
-15,
-},
-[25] = {
-5,
-},
-},
-{
-[6] = {
-},
-[7] = {
-4,
-},
-[3] = {
-12,
-13,
-14,
-},
-["color"] = "ff3e3e",
-[9] = {
-2,
-3,
-},
-[2] = {
-1,
-20,
-19,
-},
-},
-{
-nil,
-{
-22,
-21,
-},
-{
-16,
-15,
-},
-{
-8,
-7,
-9,
-10,
-11,
-},
-{
-},
-{
-16,
-15,
-},
-["color"] = "3e9eff",
-[22] = {
-},
-[17] = {
-},
-},
-{
-["color"] = "fffb3e",
-[22] = {
-1,
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-[5] = {
-},
-},
-{
-[2] = {
-23,
-24,
-},
-[8] = {
-2,
-},
-[3] = {
-17,
-},
-["color"] = "3eff3e",
-[5] = {
-32,
-12,
-14,
-13,
-},
-[7] = {
-5,
-},
-},
-{
-[14] = {
-5,
-},
-[25] = {
-2,
-},
-[5] = {
-21,
-22,
-},
-["color"] = "ff3e9e",
-},
-{
-[25] = {
-4,
-},
-["color"] = "3effff",
-[14] = {
-6,
-},
-[5] = {
-24,
-23,
-},
-[10] = {
-5,
-6,
-},
-},
-{
-{
-5,
-4,
-},
-["color"] = "ff9b3e",
-[10] = {
-7,
-8,
-},
-[5] = {
-25,
-26,
-28,
-27,
-},
-},
-{
-[27] = {
-2,
-1,
-},
-[19] = {
-1,
-},
-[18] = {
-1,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-5,
-3,
-4,
-7,
-6,
-8,
-1,
-2,
-},
-},
-{
-["color"] = "ff3eff",
-[15] = {
-3,
-6,
-2,
-1,
-4,
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[20] = {
-1,
-},
-},
-{
-[11] = {
-4,
-1,
-},
-[2] = {
-29,
-30,
-28,
-},
-["color"] = "ff3e3e",
-[5] = {
-30,
-29,
-},
-[9] = {
-4,
-5,
-},
-},
-{
-[11] = {
-8,
-7,
-},
-[2] = {
-27,
-},
-["color"] = "3e9eff",
-[9] = {
-6,
-7,
-},
-[5] = {
-33,
-},
-[16] = {
-4,
-},
-},
-{
-["color"] = "fffb3e",
-[16] = {
-2,
-1,
-},
-},
-{
-[21] = {
-1,
-},
-[26] = {
-1,
-2,
-3,
-},
-["color"] = "3eff3e",
-},
-},
-},
-},
-{
-["difficulty"] = 2,
-["week"] = 1,
-["uid"] = "NoKDewZ0UZt",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Route 3 2",
-["objects"] = {
-},
-["value"] = {
-["currentPull"] = 5,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 119,
-["teeming"] = false,
-["selection"] = {
-5,
-},
-["pulls"] = {
-{
-{
-3,
-},
-{
-8,
-9,
-},
-nil,
-{
-5,
-1,
-6,
-},
-{
-7,
-8,
-9,
-1,
-31,
-17,
-18,
-},
-nil,
-nil,
-nil,
-nil,
-{
-2,
-1,
-},
-["color"] = "ff3eff",
-},
-{
-[6] = {
-11,
-12,
-},
-[4] = {
-4,
-2,
-3,
-},
-[10] = {
-4,
-3,
-},
-["color"] = "3eff9e",
-[14] = {
-4,
-},
-[5] = {
-20,
-19,
-16,
-15,
-},
-[25] = {
-5,
-},
-},
-{
-[6] = {
-},
-[7] = {
-4,
-},
-[3] = {
-12,
-13,
-14,
-},
-["color"] = "ff3e3e",
-[9] = {
-2,
-3,
-},
-[2] = {
-1,
-20,
-19,
-},
-},
-{
-nil,
-{
-22,
-21,
-},
-{
-16,
-15,
-},
-{
-8,
-7,
-9,
-10,
-11,
-},
-{
-},
-{
-16,
-15,
-},
-["color"] = "3e9eff",
-[22] = {
-},
-[17] = {
-},
-},
-{
-["color"] = "fffb3e",
-[22] = {
-1,
-2,
-4,
-3,
-},
-[17] = {
-1,
-},
-[5] = {
-},
-},
-{
-[2] = {
-23,
-24,
-},
-[8] = {
-2,
-},
-[3] = {
-17,
-},
-["color"] = "3eff3e",
-[5] = {
-32,
-12,
-14,
-13,
-},
-[7] = {
-5,
-},
-},
-{
-[14] = {
-5,
-},
-[25] = {
-2,
-},
-[5] = {
-21,
-22,
-},
-["color"] = "ff3e9e",
-},
-{
-[25] = {
-4,
-},
-["color"] = "3effff",
-[14] = {
-6,
-},
-[5] = {
-24,
-23,
-},
-[10] = {
-5,
-6,
-},
-},
-{
-{
-5,
-4,
-},
-["color"] = "ff9b3e",
-[10] = {
-7,
-8,
-},
-[5] = {
-25,
-26,
-28,
-27,
-},
-},
-{
-[27] = {
-2,
-1,
-},
-[19] = {
-1,
-},
-[18] = {
-1,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[13] = {
-5,
-3,
-4,
-7,
-6,
-8,
-1,
-2,
-},
-},
-{
-["color"] = "ff3eff",
-[15] = {
-3,
-6,
-2,
-1,
-4,
-5,
-},
-},
-{
-["color"] = "3eff9e",
-[20] = {
-1,
-},
-},
-{
-[11] = {
-4,
-1,
-},
-[2] = {
-29,
-30,
-28,
-},
-["color"] = "ff3e3e",
-[5] = {
-30,
-29,
-},
-[9] = {
-4,
-5,
-},
-},
-{
-[11] = {
-8,
-7,
-},
-[2] = {
-27,
-},
-["color"] = "3e9eff",
-[9] = {
-6,
-7,
-},
-[5] = {
-33,
-},
-[16] = {
-4,
-},
-},
-{
-["color"] = "fffb3e",
-[16] = {
-2,
-1,
-},
-},
-{
-[21] = {
-1,
-},
-[26] = {
-1,
-2,
-3,
-},
-["color"] = "3eff3e",
-},
-},
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[120] = {
-{
-["difficulty"] = 2,
-["week"] = 1,
-["value"] = {
-["riftOffsets"] = {
-{
-},
-},
-["currentPull"] = 11,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-},
-["currentDungeonIdx"] = 120,
-["teeming"] = false,
-["selection"] = {
-11,
-},
-["pulls"] = {
-{
-nil,
-{
-3,
-1,
-2,
-13,
-12,
-14,
-15,
-},
-{
-4,
-3,
-5,
-},
-{
-1,
-2,
-},
-["color"] = "ff3eff",
-[6] = {
-15,
-14,
-},
-[29] = {
-},
-},
-{
-[6] = {
-3,
-},
-[2] = {
-18,
-10,
-},
-[3] = {
-9,
-},
-["color"] = "3eff9e",
-[4] = {
-5,
-7,
-},
-[5] = {
-6,
-},
-},
-{
-["color"] = "ff3e3e",
-[6] = {
-5,
-},
-[7] = {
-1,
-},
-[3] = {
-10,
-},
-},
-{
-[8] = {
-1,
-},
-[32] = {
-6,
-2,
-3,
-1,
-4,
-5,
-},
-["color"] = "3e9eff",
-},
-{
-[11] = {
-4,
-5,
-},
-[10] = {
-2,
-3,
-},
-[12] = {
-2,
-},
-[9] = {
-2,
-4,
-},
-["color"] = "fffb3e",
-},
-{
-[11] = {
-3,
-7,
-8,
-},
-[10] = {
-5,
-6,
-},
-["color"] = "3eff3e",
-[9] = {
-3,
-7,
-8,
-},
-[12] = {
-4,
-},
-},
-{
-[14] = {
-1,
-2,
-3,
-6,
-4,
-5,
-},
-[15] = {
-1,
-2,
-3,
-},
-["color"] = "ff3e9e",
-},
-{
-["color"] = "3effff",
-[16] = {
-1,
-},
-[9] = {
-13,
-14,
-},
-[11] = {
-13,
-12,
-},
-},
-{
-["color"] = "ff9b3e",
-[17] = {
-1,
-},
-[18] = {
-1,
-2,
-},
-},
-{
-["color"] = "3e3eff",
-[22] = {
-3,
-15,
-},
-[23] = {
-2,
-3,
-4,
-5,
-6,
-24,
-25,
-22,
-23,
-},
-[20] = {
-4,
-},
-},
-{
-[20] = {
-5,
-6,
-7,
-},
-[21] = {
-6,
-5,
-7,
-8,
-},
-[22] = {
-14,
-17,
-16,
-},
-[23] = {
-21,
-20,
-17,
-18,
-19,
-32,
-33,
-34,
-35,
-31,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[22] = {
-1,
-},
-[20] = {
-1,
-3,
-},
-[21] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[24] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[25] = {
-3,
-},
-[26] = {
-4,
-3,
-},
-[28] = {
-5,
-},
-},
-{
-["color"] = "3e9eff",
-[28] = {
-10,
-22,
-21,
-13,
-},
-[26] = {
-7,
-},
-[25] = {
-6,
-},
-},
-{
-["color"] = "fffb3e",
-[28] = {
-24,
-29,
-28,
-27,
-20,
-},
-},
-{
-["color"] = "3eff3e",
-[25] = {
-7,
-8,
-},
-},
-{
-[27] = {
-1,
-},
-[31] = {
-1,
-2,
-},
-[30] = {
-1,
-2,
-},
-["color"] = "ff3e9e",
-},
-},
-},
-},
-},
-[121] = {
-{
-["difficulty"] = 2,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 19,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 121,
-["teeming"] = false,
-["selection"] = {
-19,
-},
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-2,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[6] = {
-1,
-},
-[4] = {
-1,
-},
-[5] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[7] = {
-1,
-},
-[9] = {
-1,
-},
-[8] = {
-1,
-2,
-},
-},
-{
-["color"] = "3e9eff",
-[10] = {
-1,
-},
-},
-{
-[11] = {
-1,
-},
-[8] = {
-4,
-3,
-},
-[7] = {
-2,
-3,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[12] = {
-1,
-},
-},
-{
-["color"] = "ff3e9e",
-[13] = {
-1,
-},
-[32] = {
-1,
-2,
-},
-},
-{
-[14] = {
-1,
-2,
-3,
-4,
-5,
-7,
-8,
-9,
-6,
-11,
-10,
-12,
-},
-[15] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[16] = {
-2,
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[16] = {
-3,
-},
-[15] = {
-2,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "a1ff3e",
-[19] = {
-2,
-3,
-},
-},
-{
-["color"] = "ff3eff",
-[19] = {
-1,
-},
-[17] = {
-3,
-},
-[16] = {
-12,
-},
-},
-{
-["color"] = "3eff9e",
-[33] = {
-1,
-2,
-3,
-},
-[20] = {
-1,
-},
-},
-{
-[21] = {
-1,
-2,
-4,
-3,
-7,
-17,
-5,
-6,
-},
-[22] = {
-1,
-},
-[30] = {
-1,
-2,
-},
-[23] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-["color"] = "3e9eff",
-[23] = {
-2,
-},
-[30] = {
-3,
-4,
-},
-},
-{
-[24] = {
-3,
-},
-[21] = {
-9,
-10,
-},
-["color"] = "fffb3e",
-[30] = {
-6,
-},
-[23] = {
-3,
-},
-[22] = {
-2,
-},
-},
-{
-[21] = {
-21,
-15,
-14,
-12,
-11,
-},
-["color"] = "3eff3e",
-[22] = {
-3,
-},
-[30] = {
-5,
-},
-[23] = {
-4,
-},
-},
-{
-["color"] = "ff3e9e",
-[25] = {
-1,
-},
-[31] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-["color"] = "3effff",
-[26] = {
-1,
-},
-[34] = {
-2,
-3,
-1,
-4,
-5,
-},
-},
-},
-},
-},
-{
-["objects"] = {
-},
-["uid"] = "RQSp8oW6Bsk",
-["value"] = {
-["selection"] = {
-14,
-},
-["currentSublevel"] = 1,
-["pulls"] = {
-{
-{
-1,
-},
-{
-1,
-2,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-[27] = {
-1,
-},
-[7] = {
-1,
-},
-[8] = {
-1,
-2,
-},
-["color"] = "3eff9e",
-[9] = {
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[13] = {
-1,
-},
-[32] = {
-1,
-2,
-},
-},
-{
-[8] = {
-4,
-3,
-},
-[11] = {
-1,
-},
-[7] = {
-3,
-2,
-},
-["color"] = "3e9eff",
-},
-{
-[21] = {
-1,
-2,
-4,
-3,
-7,
-17,
-5,
-6,
-},
-["color"] = "fffb3e",
-[22] = {
-1,
-},
-[30] = {
-1,
-2,
-},
-[23] = {
-1,
-},
-},
-{
-["color"] = "3eff3e",
-[23] = {
-2,
-},
-[30] = {
-3,
-4,
-},
-},
-{
-[21] = {
-9,
-10,
-},
-["color"] = "ff3e9e",
-[22] = {
-2,
-},
-[30] = {
-6,
-},
-[23] = {
-3,
-},
-},
-{
-["color"] = "3effff",
-[21] = {
-21,
-15,
-14,
-12,
-11,
-},
-[30] = {
-5,
-},
-[24] = {
-3,
-},
-},
-{
-["color"] = "ff9b3e",
-[22] = {
-3,
-},
-[23] = {
-4,
-},
-},
-{
-["color"] = "3e3eff",
-[14] = {
-1,
-2,
-3,
-4,
-5,
-7,
-6,
-8,
-9,
-12,
-10,
-11,
-},
-},
-{
-["color"] = "a1ff3e",
-[15] = {
-1,
-},
-},
-{
-[14] = {
-22,
-24,
-23,
-},
-[17] = {
-6,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[16] = {
-2,
-1,
-},
-},
-{
-["color"] = "ff3e3e",
-[16] = {
-3,
-5,
-4,
-},
-[15] = {
-2,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "3e9eff",
-[19] = {
-2,
-3,
-},
-},
-{
-["color"] = "fffb3e",
-[19] = {
-1,
-},
-[17] = {
-3,
-},
-[16] = {
-12,
-},
-},
-},
-["currentDungeonIdx"] = 121,
-["teeming"] = false,
-["currentPull"] = 14,
-["riftOffsets"] = {
-{
-},
-},
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "TOP mini boss skips",
-["difficulty"] = 10,
-["week"] = 1,
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
-},
-},
-[122] = {
-{
-["difficulty"] = 2,
-["week"] = 1,
-["value"] = {
-["currentPull"] = 16,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 122,
-["teeming"] = false,
-["selection"] = {
-16,
-},
-["pulls"] = {
-{
-["color"] = "ff3eff",
-[16] = {
-3,
-7,
-8,
-9,
-},
-[15] = {
-3,
-},
-[14] = {
-3,
-6,
-4,
-5,
-},
-},
-{
-[14] = {
-1,
-2,
-},
-[16] = {
-1,
-2,
-5,
-4,
-6,
-},
-[15] = {
-2,
-1,
-6,
-4,
-5,
-},
-["color"] = "3eff9e",
-},
-{
-[18] = {
-1,
-},
-[17] = {
-1,
-},
-["color"] = "ff3e3e",
-},
-{
-[11] = {
-1,
-},
-[21] = {
-1,
-2,
-},
-[12] = {
-1,
-4,
-5,
-20,
-3,
-},
-["color"] = "3e9eff",
-},
-{
-[11] = {
-2,
-},
-[21] = {
-3,
-4,
-},
-[12] = {
-8,
-9,
-6,
-7,
-15,
-},
-["color"] = "fffb3e",
-},
-{
-[21] = {
-5,
-7,
-},
-[11] = {
-3,
-},
-[12] = {
-10,
-11,
-12,
-13,
-14,
-2,
-16,
-17,
-18,
-19,
-},
-["color"] = "3eff3e",
-},
-{
-["color"] = "ff3e9e",
-[10] = {
-1,
-2,
-9,
-5,
-10,
-3,
-4,
-},
-},
-{
-["color"] = "3effff",
-[19] = {
-1,
-},
-},
-{
-["color"] = "ff9b3e",
-[20] = {
-1,
-2,
-},
-[3] = {
-2,
-1,
-},
-},
-{
-["color"] = "3e3eff",
-[2] = {
-1,
-2,
-},
-[8] = {
-1,
-},
-},
-{
-{
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-nil,
-{
-4,
-3,
-},
-{
-6,
-},
-{
-1,
-},
-{
-1,
-6,
-},
-["color"] = "ff3eff",
-},
-{
-["color"] = "3eff9e",
-[6] = {
-1,
-},
-[22] = {
-1,
-2,
-4,
-},
-},
-{
-["color"] = "ff3e3e",
-[7] = {
-1,
-2,
-},
-},
-{
-["color"] = "3e9eff",
-[8] = {
-2,
-3,
-},
-[4] = {
-3,
-2,
-},
-[3] = {
-4,
-},
-},
-{
-["color"] = "fffb3e",
-[3] = {
-5,
-7,
-},
-[4] = {
-4,
-},
-[5] = {
-2,
-3,
-},
-},
-{
-["color"] = "3eff3e",
-[4] = {
-6,
-},
-[8] = {
-6,
-7,
-},
-},
-{
-["color"] = "ff3e9e",
-[13] = {
-1,
-},
-[9] = {
-1,
-},
-},
-},
-},
 },
 },
 [123] = {
@@ -44998,8 +2980,9 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
+["pulls"] = {
 {
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 123,
@@ -45007,9 +2990,8 @@ nil,
 ["selection"] = {
 1,
 },
-["pulls"] = {
+["riftOffsets"] = {
 {
-["color"] = "ff3eff",
 },
 },
 },
@@ -45018,364 +3000,9 @@ nil,
 ["difficulty"] = 16,
 ["uid"] = "ZbG3)soLZk3",
 ["addonVersion"] = 554,
-["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Aldani PUG (9 Aug)",
-["objects"] = {
-{
-["d"] = {
-14,
-1,
-1,
-true,
-"00ffe4",
--8,
-},
-["l"] = {
-"739.4",
-"-304.5",
-"698.6",
-"-343.4",
-},
-["t"] = {
-0.7599800559308254,
-},
-},
-{
-["d"] = {
-14,
-1,
-1,
-true,
-"00ffe4",
--7,
-},
-["l"] = {
-"702.9",
-"-339.1",
-"698.6",
-"-343.4",
-},
-["t"] = {
-0.7854047657571278,
-},
-},
-},
 ["value"] = {
-["pulls"] = {
+["riftOffsets"] = {
 {
-{
-6,
-5,
-4,
-},
-{
-6,
-5,
-},
-{
-4,
-7,
-2,
-5,
-3,
-6,
-11,
-8,
-9,
-10,
-},
-{
-3,
-2,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-},
-{
-{
-10,
-11,
-},
-nil,
-{
-16,
-15,
-13,
-14,
-12,
-},
-{
-6,
-},
-{
-2,
-3,
-},
-["color"] = "3eff9e",
-},
-{
-{
-7,
-8,
-},
-["color"] = "ff3e3e",
-[15] = {
-1,
-},
-[18] = {
-1,
-2,
-4,
-3,
-},
-},
-{
-{
-9,
-},
-[6] = {
-2,
-},
-[7] = {
-2,
-},
-[8] = {
-1,
-},
-[10] = {
-3,
-},
-["color"] = "3e9eff",
-[9] = {
-2,
-1,
-},
-},
-{
-[6] = {
-5,
-},
-[7] = {
-3,
-4,
-},
-[8] = {
-4,
-},
-[10] = {
-2,
-},
-["color"] = "fffb3e",
-[9] = {
-10,
-9,
-},
-},
-{
-[7] = {
-12,
-11,
-},
-[8] = {
-19,
-5,
-6,
-},
-["color"] = "3eff3e",
-[9] = {
-12,
-11,
-},
-[13] = {
-},
-},
-{
-[6] = {
-1,
-},
-[7] = {
-13,
-},
-[8] = {
-20,
-},
-[10] = {
-14,
-},
-["color"] = "ff3e9e",
-[9] = {
-32,
-},
-},
-{
-[7] = {
-1,
-},
-[8] = {
-9,
-10,
-},
-[10] = {
-4,
-},
-["color"] = "3effff",
-[9] = {
-15,
-16,
-},
-},
-{
-[20] = {
-1,
-},
-[8] = {
-7,
-},
-["color"] = "ff9b3e",
-[19] = {
-1,
-},
-[16] = {
-1,
-},
-[9] = {
-14,
-13,
-},
-},
-{
-[11] = {
-2,
-},
-[13] = {
-1,
-},
-[8] = {
-13,
-},
-[10] = {
-},
-[12] = {
-},
-[7] = {
-5,
-},
-[9] = {
-20,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[10] = {
-6,
-7,
-},
-[12] = {
-2,
-4,
-3,
-},
-[9] = {
-21,
-22,
-},
-},
-{
-[11] = {
-4,
-},
-[13] = {
-5,
-4,
-},
-[10] = {
-1,
-},
-[12] = {
-7,
-},
-["color"] = "ff3eff",
-},
-{
-[8] = {
-15,
-16,
-17,
-},
-[13] = {
-9,
-},
-[7] = {
-8,
-10,
-9,
-},
-["color"] = "3eff9e",
-},
-{
-["color"] = "ff3e3e",
-[10] = {
-12,
-},
-[12] = {
-8,
-},
-[9] = {
-26,
-29,
-30,
-},
-},
-{
-[8] = {
-18,
-},
-[11] = {
-5,
-},
-[9] = {
-25,
-},
-["color"] = "3e9eff",
-},
-{
-{
-},
-{
-},
-nil,
-{
-},
-{
-},
-nil,
-nil,
-nil,
-{
-24,
-27,
-28,
-},
-{
-11,
-},
-{
-6,
-},
-["color"] = "fffb3e",
-},
-{
-["color"] = "3eff3e",
-[17] = {
-1,
-},
 },
 },
 ["currentPull"] = 12,
@@ -45416,16 +3043,16 @@ nil,
 [14] = 1,
 [11] = 1,
 },
-[13] = {
-8,
-[5] = 8,
-[4] = 8,
-},
 [11] = {
 [5] = 1,
 [2] = 1,
 [4] = 1,
 [6] = 1,
+},
+[13] = {
+8,
+[5] = 8,
+[4] = 8,
 },
 },
 ["currentDungeonIdx"] = 123,
@@ -45433,11 +3060,366 @@ nil,
 ["selection"] = {
 12,
 },
-["riftOffsets"] = {
+["pulls"] = {
+{
+{
+6,
+5,
+4,
+},
+{
+6,
+5,
+},
+{
+4,
+7,
+2,
+5,
+3,
+6,
+11,
+8,
+9,
+10,
+},
+{
+3,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+10,
+11,
+},
+nil,
+{
+16,
+15,
+13,
+14,
+12,
+},
+{
+6,
+},
+{
+2,
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+7,
+8,
+},
+["color"] = "ff3e3e",
+[15] = {
+1,
+},
+[18] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+9,
+},
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+[8] = {
+1,
+},
+[10] = {
+3,
+},
+["color"] = "3e9eff",
+[9] = {
+2,
+1,
+},
+},
+{
+[6] = {
+5,
+},
+[7] = {
+3,
+4,
+},
+[8] = {
+4,
+},
+[10] = {
+2,
+},
+["color"] = "fffb3e",
+[9] = {
+10,
+9,
+},
+},
+{
+[7] = {
+12,
+11,
+},
+[8] = {
+19,
+5,
+6,
+},
+["color"] = "3eff3e",
+[9] = {
+12,
+11,
+},
+[13] = {
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+13,
+},
+[8] = {
+20,
+},
+[10] = {
+14,
+},
+["color"] = "ff3e9e",
+[9] = {
+32,
+},
+},
+{
+[7] = {
+1,
+},
+[8] = {
+9,
+10,
+},
+[10] = {
+4,
+},
+["color"] = "3effff",
+[9] = {
+15,
+16,
+},
+},
+{
+[20] = {
+1,
+},
+[8] = {
+7,
+},
+["color"] = "ff9b3e",
+[19] = {
+1,
+},
+[16] = {
+1,
+},
+[9] = {
+14,
+13,
+},
+},
+{
+[11] = {
+2,
+},
+[13] = {
+1,
+},
+[8] = {
+13,
+},
+[10] = {
+},
+[12] = {
+},
+["color"] = "3e3eff",
+[9] = {
+20,
+},
+[7] = {
+5,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+6,
+7,
+},
+[12] = {
+2,
+4,
+3,
+},
+[9] = {
+21,
+22,
+},
+},
+{
+[11] = {
+4,
+},
+[13] = {
+5,
+4,
+},
+[10] = {
+1,
+},
+[12] = {
+7,
+},
+["color"] = "ff3eff",
+},
+{
+[8] = {
+15,
+16,
+17,
+},
+[13] = {
+9,
+},
+[7] = {
+8,
+10,
+9,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[10] = {
+12,
+},
+[12] = {
+8,
+},
+[9] = {
+26,
+29,
+30,
+},
+},
+{
+[8] = {
+18,
+},
+["color"] = "3e9eff",
+[9] = {
+25,
+},
+[11] = {
+5,
+},
+},
+{
 {
 },
+{
+},
+nil,
+{
+},
+{
+},
+nil,
+nil,
+nil,
+{
+24,
+27,
+28,
+},
+{
+11,
+},
+{
+6,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[17] = {
+1,
 },
 },
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Aldani PUG (9 Aug)",
+["objects"] = {
+{
+["d"] = {
+14,
+1,
+1,
+true,
+"00ffe4",
+-8,
+},
+["t"] = {
+0.7599800559308254,
+},
+["l"] = {
+"739.4",
+"-304.5",
+"698.6",
+"-343.4",
+},
+},
+{
+["d"] = {
+14,
+1,
+1,
+true,
+"00ffe4",
+-7,
+},
+["t"] = {
+0.7854047657571278,
+},
+["l"] = {
+"702.9",
+"-339.1",
+"698.6",
+"-343.4",
+},
+},
+},
+["week"] = 1,
 },
 {
 ["difficulty"] = 16,
@@ -45706,10 +3688,10 @@ nil,
 1,
 },
 ["color"] = "ff3e3e",
+[13] = {
+},
 [12] = {
 7,
-},
-[13] = {
 },
 },
 {
@@ -45730,13 +3712,13 @@ nil,
 [11] = {
 5,
 },
-[8] = {
-18,
-},
+["color"] = "fffb3e",
 [9] = {
 25,
 },
-["color"] = "fffb3e",
+[8] = {
+18,
+},
 },
 {
 ["color"] = "3eff3e",
@@ -45753,11 +3735,11 @@ nil,
 },
 },
 ["text"] = "pug2",
-["objects"] = {
-},
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
+},
+["objects"] = {
 },
 },
 {
@@ -45833,10 +3815,10 @@ nil,
 },
 [13] = {
 },
-["color"] = "3eff9e",
 [10] = {
 7,
 },
+["color"] = "3eff9e",
 },
 {
 [13] = {
@@ -45844,14 +3826,14 @@ nil,
 12,
 },
 ["color"] = "ff3e3e",
+[7] = {
+23,
+},
 [5] = {
 21,
 },
 [9] = {
 22,
-},
-[7] = {
-23,
 },
 },
 {
@@ -45882,11 +3864,11 @@ nil,
 7,
 },
 ["color"] = "fffb3e",
-[11] = {
-4,
-},
 [8] = {
 8,
+},
+[11] = {
+4,
 },
 },
 {
@@ -45928,8 +3910,7 @@ nil,
 [7] = {
 7,
 },
-[5] = {
-25,
+[13] = {
 },
 [10] = {
 3,
@@ -45938,12 +3919,13 @@ nil,
 [4] = {
 2,
 },
+[5] = {
+25,
+},
 [9] = {
 12,
 40,
 39,
-},
-[13] = {
 },
 },
 {
@@ -45952,18 +3934,18 @@ nil,
 },
 [7] = {
 },
-[9] = {
+[13] = {
+19,
 },
 [10] = {
 },
 ["color"] = "ff9b3e",
 [4] = {
 },
+[9] = {
+},
 [5] = {
 3,
-},
-[13] = {
-19,
 },
 },
 {
@@ -46034,10 +4016,10 @@ nil,
 [6] = {
 9,
 },
-["color"] = "3eff9e",
 [5] = {
 26,
 },
+["color"] = "3eff9e",
 },
 {
 {
@@ -46115,17 +4097,22 @@ nil,
 [14] = {
 6,
 },
-["color"] = "3eff3e",
+[5] = {
+27,
+},
 [8] = {
 9,
 12,
 },
-[5] = {
-27,
-},
+["color"] = "3eff3e",
 },
 {
 ["color"] = "ff3e9e",
+[7] = {
+26,
+25,
+27,
+},
 [4] = {
 14,
 },
@@ -46133,11 +4120,6 @@ nil,
 24,
 25,
 26,
-},
-[7] = {
-26,
-25,
-27,
 },
 },
 {
@@ -46160,7 +4142,9 @@ nil,
 [14] = {
 5,
 },
-["color"] = "ff9b3e",
+[15] = {
+1,
+},
 [9] = {
 27,
 28,
@@ -46170,9 +4154,7 @@ nil,
 30,
 31,
 },
-[15] = {
-1,
-},
+["color"] = "ff9b3e",
 },
 {
 [20] = {
@@ -46306,6 +4288,9 @@ nil,
 },
 {
 ["color"] = "ff9b3e",
+[5] = {
+3,
+},
 [9] = {
 2,
 4,
@@ -46318,16 +4303,15 @@ nil,
 9,
 10,
 },
-[5] = {
-3,
-},
 },
 {
 [7] = {
 4,
 },
-[13] = {
+[14] = {
 1,
+2,
+3,
 },
 ["color"] = "3e3eff",
 [4] = {
@@ -46337,10 +4321,8 @@ nil,
 [9] = {
 3,
 },
-[14] = {
+[13] = {
 1,
-2,
-3,
 },
 },
 {
@@ -46384,14 +4366,14 @@ nil,
 2,
 },
 ["color"] = "3eff9e",
-[22] = {
-1,
+[21] = {
+3,
 },
 [5] = {
 4,
 },
-[21] = {
-3,
+[22] = {
+1,
 },
 },
 {
@@ -46407,13 +4389,13 @@ nil,
 [22] = {
 2,
 },
-["color"] = "ff3e3e",
-[5] = {
-5,
-},
 [7] = {
 8,
 },
+[5] = {
+5,
+},
+["color"] = "ff3e3e",
 },
 {
 {
@@ -46675,10 +4657,10 @@ nil,
 2,
 3,
 },
+[2] = {
+},
 [13] = {
 1,
-},
-[2] = {
 },
 },
 {
@@ -46817,6 +4799,36 @@ nil,
 },
 },
 },
+[47] = {
+{
+["mdiEnabled"] = false,
+["week"] = 6,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 47,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[6] = {
+},
+},
+},
+["difficulty"] = 30,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+},
+},
 [153] = {
 {
 ["difficulty"] = 2,
@@ -46945,11 +4957,11 @@ nil,
 [19] = {
 6,
 },
-[3] = {
-3,
-},
 [25] = {
 4,
+},
+[3] = {
+3,
 },
 },
 {
@@ -46994,13 +5006,13 @@ nil,
 11,
 12,
 },
-[18] = {
-17,
-16,
-},
 [4] = {
 4,
 3,
+},
+[18] = {
+17,
+16,
 },
 },
 {
@@ -47049,7 +5061,12 @@ nil,
 1,
 },
 ["color"] = "3eff9e",
-[21] = {
+[5] = {
+14,
+16,
+17,
+13,
+15,
 },
 [23] = {
 6,
@@ -47059,12 +5076,7 @@ nil,
 4,
 5,
 },
-[5] = {
-14,
-16,
-17,
-13,
-15,
+[21] = {
 },
 },
 {
@@ -47351,9 +5363,9 @@ nil,
 ["color"] = "3eff3e",
 [19] = {
 },
-[25] = {
-},
 [3] = {
+},
+[25] = {
 },
 },
 {
@@ -47417,12 +5429,12 @@ nil,
 [4] = {
 2,
 },
+[19] = {
+11,
+},
 [25] = {
 12,
 13,
-},
-[19] = {
-11,
 },
 },
 {
@@ -47624,12 +5636,12 @@ nil,
 16,
 15,
 },
-["color"] = "3effff",
 [6] = {
 18,
 20,
 19,
 },
+["color"] = "3effff",
 },
 {
 ["color"] = "ff9b3e",
@@ -47641,11 +5653,11 @@ nil,
 },
 },
 ["text"] = "Press W",
+["objects"] = {
+},
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
-},
-["objects"] = {
 },
 },
 {
@@ -47653,785 +5665,331 @@ nil,
 ["text"] = "<New Route>",
 },
 },
-[154] = {
+[20] = {
 {
-["difficulty"] = 2,
-["week"] = 1,
+["difficulty"] = 30,
 ["value"] = {
-["currentPull"] = 11,
+["currentPull"] = 5,
 ["currentSublevel"] = 1,
-["currentDungeonIdx"] = 154,
+["currentDungeonIdx"] = 20,
+["teeming"] = true,
 ["selection"] = {
-11,
+5,
 },
 ["pulls"] = {
 {
 {
-4,
-1,
+8,
+22,
+},
+{
+8,
+16,
+15,
+},
+{
 2,
-3,
+8,
+9,
 },
 {
+4,
 },
 {
-},
-{
-},
-{
+11,
 },
 ["color"] = "ff3eff",
-[9] = {
-},
-[8] = {
-},
 },
 {
 {
-9,
+20,
+21,
 },
 {
-2,
-},
-{
-1,
-},
-["color"] = "3eff9e",
-[9] = {
-1,
-2,
-},
-[8] = {
-3,
-1,
-2,
-},
-},
-{
-[6] = {
-1,
-},
-[7] = {
-2,
-1,
-},
-["color"] = "ff3e3e",
-[4] = {
-1,
-},
-[5] = {
-1,
-2,
-},
-},
-{
-{
-10,
-11,
-},
-["color"] = "3e9eff",
-[9] = {
-4,
-3,
-5,
-},
-},
-{
-{
-12,
-},
-{
-3,
-},
-nil,
-{
-3,
-4,
-},
-["color"] = "fffb3e",
-[9] = {
-7,
-8,
-9,
-},
-[11] = {
-1,
-2,
-},
-},
-{
-[11] = {
-4,
-},
-[7] = {
-3,
-4,
-5,
-6,
-7,
-8,
-},
-[10] = {
-},
-["color"] = "3eff3e",
-[9] = {
-14,
-},
-[6] = {
-2,
-},
-},
-{
-[2] = {
-5,
-},
-[10] = {
-1,
-},
-["color"] = "ff3e9e",
-[5] = {
-3,
-},
-[9] = {
-12,
 13,
 },
-},
-{
 {
 6,
 },
-{
-6,
-},
-nil,
 {
 7,
-6,
 },
 {
+4,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[31] = {
+1,
+},
+[30] = {
+1,
+},
+},
+{
+{
+13,
+},
+{
+},
+{
+5,
 },
 nil,
 nil,
-nil,
 {
+1,
+},
+{
+1,
+},
+{
+1,
 },
 {
 },
-["color"] = "3effff",
+{
+},
+[34] = {
+1,
+},
+["color"] = "3e9eff",
 },
 {
-["color"] = "ff9b3e",
-[7] = {
-37,
+{
+18,
+},
+{
 10,
-12,
 9,
-11,
+},
+{
+},
+nil,
+nil,
+{
+},
+{
+3,
+},
+{
+3,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+[34] = {
+},
+},
+{
+{
+},
+[6] = {
+2,
+},
+[7] = {
 },
 [8] = {
-11,
-12,
 },
-},
-{
-{
-16,
-17,
-},
-{
-7,
-},
-{
-4,
-},
-{
-8,
-},
-{
-4,
-5,
+["color"] = "3eff3e",
+[34] = {
+2,
 },
 [11] = {
-5,
-},
-["color"] = "3e3eff",
-},
-{
-["color"] = "a1ff3e",
-[19] = {
 1,
-},
-[20] = {
-1,
-},
-},
-{
-[13] = {
-2,
-1,
-3,
-4,
-},
-[15] = {
-1,
-2,
-4,
-3,
 },
 [12] = {
 1,
 },
-[14] = {
-2,
-1,
-},
-["color"] = "ff3eff",
 },
 {
-[27] = {
+[6] = {
+6,
+},
+[7] = {
+4,
+},
+[8] = {
+5,
+4,
+},
+["color"] = "ff3e9e",
+[34] = {
+3,
+},
+[12] = {
+5,
+},
+},
+{
+{
+19,
+},
+[11] = {
+6,
+},
+[8] = {
+8,
+},
+["color"] = "3effff",
+[34] = {
+4,
+},
+[6] = {
+7,
+},
+},
+{
+["color"] = "ff9b3e",
+[12] = {
+6,
+},
+[7] = {
+6,
+5,
+7,
+},
+[8] = {
+7,
+6,
+},
+},
+{
+[20] = {
 1,
 },
 [13] = {
+1,
+},
+[32] = {
+1,
+},
+["color"] = "3e3eff",
+[23] = {
+1,
+},
+[43] = {
+1,
+},
+},
+{
+[27] = {
+2,
+},
+[15] = {
+1,
+4,
+},
+["color"] = "a1ff3e",
+[19] = {
+1,
+},
+[16] = {
+5,
+10,
+},
+[14] = {
+4,
+1,
+},
+},
+{
+[33] = {
+},
+[28] = {
+},
+[25] = {
+},
+["color"] = "ff3eff",
+[14] = {
+2,
+},
+[16] = {
+1,
+2,
+3,
+4,
+},
+[15] = {
 6,
 5,
+},
+},
+{
+["color"] = "3eff9e",
+[33] = {
+1,
 },
 [28] = {
 1,
 },
-["color"] = "3eff9e",
-[16] = {
-1,
-},
-},
-{
-[17] = {
-1,
-},
-[15] = {
-5,
-6,
-},
-["color"] = "ff3e3e",
-[14] = {
-4,
-3,
-5,
-6,
-},
-[13] = {
-7,
-8,
-9,
-},
-},
-{
-[13] = {
-12,
-},
-[18] = {
-1,
-},
-["color"] = "3e9eff",
-[14] = {
-13,
-14,
-},
-[17] = {
-2,
-},
-},
-{
-["color"] = "fffb3e",
-[13] = {
-13,
-14,
-},
-[15] = {
-7,
-},
-[14] = {
-17,
-16,
-15,
-18,
-},
-},
-{
-["color"] = "3eff3e",
-[13] = {
-20,
-21,
-19,
-},
-[17] = {
-3,
-},
-},
-{
-[17] = {
-4,
-},
-[18] = {
-3,
-},
-["color"] = "ff3e9e",
-[14] = {
-21,
-22,
-},
-[13] = {
-23,
-22,
-},
-},
-{
-[21] = {
-1,
-},
-["color"] = "3effff",
-[23] = {
-1,
-},
-[14] = {
-},
-},
-{
-[17] = {
-6,
-},
-[15] = {
-21,
-20,
-24,
-25,
-},
-["color"] = "ff9b3e",
-[14] = {
-32,
-33,
-34,
-36,
-35,
-38,
-40,
-37,
-39,
-},
-[26] = {
-13,
-14,
-},
-},
-{
-["color"] = "3e3eff",
 [25] = {
 1,
 },
 },
 {
-["color"] = "a1ff3e",
-[22] = {
+[27] = {
 1,
 },
 [24] = {
 1,
 },
-},
-},
-},
-["uid"] = "I04NKiFZicD",
-},
-{
-["difficulty"] = 2,
-["week"] = 1,
-["uid"] = "phSntEij8To",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["value"] = {
-["currentPull"] = 19,
-["currentSublevel"] = 1,
-["enemyAssignments"] = {
-},
-["currentDungeonIdx"] = 154,
-["selection"] = {
-19,
-},
-["pulls"] = {
-{
-{
-2,
-1,
-4,
-3,
-9,
-},
-{
-2,
-},
-{
-1,
-},
-["color"] = "ff3eff",
-[9] = {
+[45] = {
 1,
 2,
-},
-},
-{
-[8] = {
-2,
-1,
-3,
-},
-["color"] = "3eff9e",
-[4] = {
-1,
-},
-[5] = {
-1,
-2,
-},
-},
-{
-{
-11,
-10,
 },
 ["color"] = "ff3e3e",
-[6] = {
+[41] = {
 1,
 },
-[7] = {
-2,
+[29] = {
 1,
-},
-[9] = {
-5,
-3,
-4,
 },
 },
 {
+[24] = {
+2,
+},
+[45] = {
+4,
+3,
+},
+[29] = {
+2,
+},
 ["color"] = "3e9eff",
-[4] = {
-2,
-},
-[8] = {
-4,
-5,
-},
 },
 {
-{
-12,
-},
-{
-3,
-},
-nil,
-{
-4,
-3,
-},
 ["color"] = "fffb3e",
-[9] = {
+[42] = {
 7,
+6,
 8,
-9,
-},
-[11] = {
-},
-},
-{
-{
-},
-{
 5,
-},
-nil,
-{
-},
-{
-3,
-},
-["color"] = "3eff3e",
-[10] = {
-1,
-},
-[9] = {
-12,
-13,
-},
-},
-{
-{
-6,
-},
-{
-6,
-},
-nil,
-{
-7,
-6,
-},
-nil,
-nil,
-{
-12,
+11,
 10,
-9,
-11,
-37,
-},
-{
-11,
 12,
-},
-["color"] = "ff3e9e",
-},
-{
-{
-16,
-17,
-},
-{
-7,
-},
-{
-4,
-},
-{
-8,
-},
-{
-5,
-4,
-},
-["color"] = "3effff",
-[11] = {
-5,
-},
-},
-{
-["color"] = "ff9b3e",
-[19] = {
-1,
-},
-[20] = {
-1,
-},
-},
-{
-[14] = {
-1,
-2,
-},
-[13] = {
-2,
-1,
-},
-[12] = {
-1,
-},
-["color"] = "3e3eff",
-},
-{
-[27] = {
-1,
-},
-[13] = {
-4,
-3,
-},
-[15] = {
-4,
-2,
-1,
-3,
-},
-["color"] = "a1ff3e",
-[16] = {
-1,
-},
-[28] = {
-1,
-},
-},
-{
-["color"] = "ff3eff",
-[13] = {
-5,
-6,
-7,
-8,
-},
-[15] = {
-6,
-5,
-},
-[17] = {
-1,
-},
-},
-{
-["color"] = "3eff9e",
-[13] = {
 9,
 },
-[12] = {
-2,
-},
-[14] = {
-5,
-3,
-4,
-6,
-},
-},
-{
-[18] = {
-1,
-},
-[13] = {
-12,
-},
-["color"] = "ff3e3e",
-[14] = {
-14,
-13,
-},
-},
-{
-["color"] = "3e9eff",
-[13] = {
-13,
-14,
-},
-[17] = {
-2,
-},
-[15] = {
-7,
-},
-},
-{
-[14] = {
-16,
-17,
-15,
-18,
-},
-["color"] = "fffb3e",
-[4] = {
-},
-[18] = {
-},
-},
-{
-[18] = {
-2,
-},
-["color"] = "3eff3e",
-[4] = {
-17,
-},
-[14] = {
-20,
-19,
-},
-},
-{
-["color"] = "ff3e9e",
-[13] = {
-20,
-21,
-19,
-},
-},
-{
-[17] = {
-4,
-},
-[18] = {
-3,
-},
-["color"] = "3effff",
-[14] = {
-21,
-22,
-},
-[13] = {
-23,
-22,
-},
-},
-{
-[21] = {
-1,
-},
-[23] = {
-1,
-},
-["color"] = "ff9b3e",
-},
-{
-[14] = {
-35,
-32,
-33,
-34,
-36,
-},
-["color"] = "3e3eff",
-[26] = {
-13,
-14,
-},
-[15] = {
-20,
-21,
-},
-},
-{
-["color"] = "a1ff3e",
-[15] = {
-25,
-24,
-},
-[14] = {
-38,
-40,
-37,
-39,
-},
-},
-{
-["color"] = "ff3eff",
-[25] = {
-1,
-},
 [17] = {
 6,
 },
+[35] = {
+1,
+2,
+4,
+3,
 },
 },
 },
-["text"] = "Asi's route",
-["objects"] = {
 },
-["createdBy"] = {
-["classIdx"] = 8,
-["name"] = "Adamancy",
-["realm"] = "Turalyon",
-},
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
 },
 },
 [155] = {
@@ -48494,12 +6052,12 @@ nil,
 [6] = {
 2,
 },
-["color"] = "ff3e3e",
 [5] = {
 3,
 2,
 1,
 },
+["color"] = "ff3e3e",
 },
 {
 {
@@ -48528,11 +6086,11 @@ nil,
 [6] = {
 4,
 },
-[3] = {
-7,
-},
 [5] = {
 4,
+},
+[3] = {
+7,
 },
 },
 {
@@ -48578,10 +6136,10 @@ nil,
 4,
 3,
 },
-["color"] = "ff9b3e",
 [10] = {
 1,
 },
+["color"] = "ff9b3e",
 },
 {
 [11] = {
@@ -48654,13 +6212,13 @@ nil,
 [13] = {
 3,
 },
-[2] = {
-14,
-15,
-},
 [11] = {
 2,
 3,
+},
+[2] = {
+14,
+15,
 },
 },
 {
@@ -48700,15 +6258,15 @@ nil,
 ["color"] = "fffb3e",
 [13] = {
 },
-[16] = {
-2,
-1,
-},
 [14] = {
 4,
 3,
 1,
 2,
+},
+[16] = {
+2,
+1,
 },
 },
 {
@@ -48777,6 +6335,7191 @@ nil,
 },
 },
 },
+},
+},
+[32] = {
+{
+["difficulty"] = 11,
+["week"] = 5,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["value"] = {
+["currentPull"] = 28,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 32,
+["teeming"] = false,
+["selection"] = {
+28,
+},
+["pulls"] = {
+{
+[7] = {
+},
+[8] = {
+3,
+},
+[3] = {
+5,
+},
+["color"] = "ff3eff",
+[9] = {
+1,
+},
+},
+{
+[3] = {
+4,
+},
+[8] = {
+1,
+},
+[9] = {
+2,
+},
+["color"] = "3eff9e",
+},
+{
+[13] = {
+2,
+},
+[8] = {
+4,
+},
+[3] = {
+6,
+},
+["color"] = "ff3e3e",
+[9] = {
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[4] = {
+2,
+4,
+8,
+16,
+17,
+9,
+18,
+5,
+10,
+20,
+21,
+11,
+3,
+6,
+12,
+13,
+7,
+14,
+19,
+15,
+},
+},
+{
+["color"] = "fffb3e",
+[15] = {
+2,
+},
+},
+{
+["color"] = "3eff3e",
+[15] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[17] = {
+1,
+},
+[20] = {
+1,
+},
+[18] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[19] = {
+2,
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[19] = {
+4,
+3,
+},
+[17] = {
+4,
+},
+[21] = {
+2,
+},
+},
+{
+[21] = {
+5,
+},
+[22] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+[17] = {
+3,
+},
+[21] = {
+3,
+},
+["color"] = "ff3eff",
+[23] = {
+4,
+6,
+5,
+},
+[24] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[18] = {
+8,
+9,
+},
+[20] = {
+3,
+},
+[21] = {
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[25] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[25] = {
+2,
+},
+},
+{
+["color"] = "fffb3e",
+[26] = {
+1,
+},
+},
+{
+[24] = {
+2,
+},
+[22] = {
+2,
+},
+[21] = {
+6,
+},
+["color"] = "3eff3e",
+},
+{
+[21] = {
+7,
+8,
+},
+[18] = {
+12,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[20] = {
+4,
+},
+[21] = {
+9,
+},
+},
+{
+["color"] = "ff9b3e",
+[27] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[25] = {
+3,
+},
+[4] = {
+22,
+},
+},
+{
+[7] = {
+2,
+},
+[28] = {
+5,
+6,
+},
+[25] = {
+9,
+},
+["color"] = "a1ff3e",
+[4] = {
+26,
+},
+[30] = {
+3,
+},
+[29] = {
+3,
+},
+},
+{
+[31] = {
+2,
+3,
+},
+[28] = {
+10,
+},
+[25] = {
+},
+["color"] = "ff3eff",
+[30] = {
+5,
+},
+[29] = {
+6,
+},
+},
+{
+[31] = {
+4,
+},
+[28] = {
+11,
+},
+[29] = {
+7,
+},
+[30] = {
+6,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[32] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[33] = {
+1,
+16,
+},
+},
+{
+["color"] = "fffb3e",
+[33] = {
+3,
+2,
+4,
+17,
+5,
+7,
+9,
+10,
+11,
+15,
+14,
+8,
+6,
+12,
+13,
+},
+[34] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[35] = {
+1,
+},
+},
+},
+},
+},
+{
+["objects"] = {
+},
+["week"] = 5,
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Default 2",
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 24,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 32,
+["teeming"] = false,
+["selection"] = {
+24,
+},
+["pulls"] = {
+{
+[7] = {
+1,
+},
+[8] = {
+3,
+},
+[3] = {
+5,
+},
+["color"] = "ff3eff",
+[9] = {
+1,
+},
+},
+{
+[8] = {
+1,
+},
+["color"] = "3eff9e",
+[9] = {
+2,
+},
+[3] = {
+4,
+},
+},
+{
+[13] = {
+2,
+},
+[8] = {
+4,
+},
+[3] = {
+6,
+},
+["color"] = "ff3e3e",
+[9] = {
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[4] = {
+20,
+2,
+4,
+8,
+16,
+17,
+9,
+18,
+5,
+10,
+21,
+11,
+3,
+6,
+12,
+13,
+7,
+14,
+19,
+15,
+},
+},
+{
+["color"] = "fffb3e",
+[15] = {
+1,
+2,
+},
+},
+{
+[18] = {
+1,
+2,
+3,
+},
+[6] = {
+4,
+},
+[17] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[20] = {
+2,
+},
+[18] = {
+7,
+6,
+},
+},
+{
+[21] = {
+4,
+},
+[18] = {
+11,
+10,
+8,
+9,
+},
+[20] = {
+3,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[25] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[25] = {
+2,
+},
+},
+{
+["color"] = "a1ff3e",
+[26] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[22] = {
+2,
+},
+[24] = {
+2,
+},
+[21] = {
+6,
+},
+},
+{
+[21] = {
+7,
+8,
+},
+[18] = {
+12,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[20] = {
+4,
+},
+[21] = {
+9,
+},
+},
+{
+["color"] = "3e9eff",
+[25] = {
+3,
+},
+[4] = {
+22,
+},
+},
+{
+["color"] = "fffb3e",
+[28] = {
+2,
+},
+[4] = {
+23,
+},
+[25] = {
+4,
+},
+},
+{
+[7] = {
+2,
+},
+[28] = {
+5,
+6,
+},
+["color"] = "3eff3e",
+[4] = {
+26,
+},
+[30] = {
+3,
+},
+[29] = {
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[29] = {
+1,
+},
+[30] = {
+2,
+},
+},
+{
+["color"] = "3effff",
+[28] = {
+4,
+},
+[4] = {
+25,
+},
+},
+{
+["color"] = "ff9b3e",
+[25] = {
+10,
+},
+[28] = {
+9,
+},
+[31] = {
+2,
+},
+},
+{
+[31] = {
+3,
+},
+[28] = {
+10,
+},
+[29] = {
+6,
+},
+[30] = {
+5,
+},
+["color"] = "3e3eff",
+},
+{
+[31] = {
+4,
+},
+[28] = {
+11,
+},
+[29] = {
+7,
+},
+[30] = {
+6,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[33] = {
+1,
+16,
+},
+},
+{
+[34] = {
+1,
+},
+[33] = {
+2,
+4,
+17,
+5,
+3,
+14,
+8,
+6,
+12,
+13,
+7,
+9,
+10,
+11,
+15,
+},
+["color"] = "3eff9e",
+},
+},
+},
+},
+{
+["difficulty"] = 30,
+["week"] = 5,
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Quazii Plaguefall Fort & Tyran Advanced",
+["objects"] = {
+{
+["d"] = {
+460.1958396840101,
+-160.6431076142461,
+1,
+true,
+"poly/cc to split this Plagueborers into two",
+},
+["n"] = true,
+},
+{
+["d"] = {
+480.4025436153342,
+-167.8281941461508,
+1,
+true,
+"again, split Plagueborers into two.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+528.0848572738374,
+-128.6996443883406,
+1,
+true,
+"abuse plagueborers that spawn here",
+},
+["n"] = true,
+},
+{
+["l"] = {
+"470.2",
+"-337.6",
+"470.2",
+"-340.3",
+"470.2",
+"-340.3",
+"468.1",
+"-341.5",
+"468.1",
+"-341.5",
+"465.5",
+"-343.7",
+"465.5",
+"-343.7",
+"464.5",
+"-346.5",
+"464.5",
+"-346.5",
+"462.8",
+"-348.8",
+"462.8",
+"-348.8",
+"461.4",
+"-351.2",
+"461.4",
+"-351.2",
+"460.7",
+"-353.5",
+"460.7",
+"-353.5",
+"460.0",
+"-355.9",
+"460.0",
+"-355.9",
+"458.9",
+"-358.5",
+"458.9",
+"-358.5",
+"458.2",
+"-361.2",
+"458.2",
+"-361.2",
+"457.6",
+"-363.4",
+"457.6",
+"-363.4",
+"457.5",
+"-366.4",
+"457.5",
+"-366.4",
+"457.5",
+"-368.7",
+"457.5",
+"-368.7",
+"458.0",
+"-371.0",
+"458.0",
+"-371.0",
+"458.5",
+"-373.9",
+"458.5",
+"-373.9",
+"458.9",
+"-376.1",
+},
+["d"] = {
+5,
+1.1,
+1,
+true,
+"ff58c2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"451.0",
+"-368.4",
+"452.7",
+"-371.0",
+"452.7",
+"-371.0",
+"454.9",
+"-373.7",
+"454.9",
+"-373.7",
+"457.0",
+"-375.6",
+"457.0",
+"-375.6",
+"459.4",
+"-376.9",
+"459.4",
+"-376.9",
+"462.7",
+"-373.4",
+"462.7",
+"-373.4",
+"465.9",
+"-370.5",
+"465.9",
+"-370.5",
+"467.2",
+"-369.6",
+},
+["d"] = {
+5,
+1.1,
+1,
+true,
+"ff58c2",
+-7,
+true,
+},
+},
+{
+["n"] = true,
+["d"] = {
+455.9851239477369,
+-345.009574804947,
+1,
+true,
+"run through here, do not pull either side",
+},
+},
+{
+["n"] = true,
+["d"] = {
+462.9537331630004,
+-384.9700607176408,
+1,
+true,
+"CC this guy while you do the boss",
+},
+},
+{
+["d"] = {
+5,
+1,
+1,
+true,
+"ff58c2",
+-8,
+},
+["l"] = {
+"314.4",
+"-131.1",
+"387.4",
+"-100.2",
+},
+["t"] = {
+-2.741057386028676,
+},
+},
+{
+["d"] = {
+385.4171377953616,
+-119.9718784324472,
+1,
+true,
+"invis",
+},
+["n"] = true,
+},
+},
+["value"] = {
+["currentPull"] = 11,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 32,
+["teeming"] = false,
+["selection"] = {
+11,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+[4] = {
+10,
+2,
+4,
+8,
+16,
+17,
+9,
+18,
+5,
+20,
+21,
+11,
+3,
+6,
+12,
+13,
+7,
+14,
+19,
+15,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+2,
+},
+},
+{
+[20] = {
+1,
+},
+[17] = {
+1,
+},
+[18] = {
+1,
+2,
+3,
+},
+["color"] = "ff3e3e",
+[19] = {
+2,
+},
+},
+{
+[6] = {
+4,
+},
+[21] = {
+1,
+},
+[18] = {
+4,
+5,
+},
+["color"] = "3e9eff",
+[19] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[19] = {
+},
+[15] = {
+1,
+},
+[21] = {
+},
+},
+{
+["color"] = "3eff3e",
+[16] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[19] = {
+4,
+},
+[22] = {
+1,
+},
+[21] = {
+2,
+5,
+},
+},
+{
+[17] = {
+4,
+},
+[21] = {
+},
+["color"] = "3effff",
+[19] = {
+3,
+},
+[23] = {
+5,
+4,
+6,
+},
+},
+{
+["color"] = "ff9b3e",
+[23] = {
+3,
+2,
+1,
+},
+[17] = {
+2,
+3,
+},
+},
+{
+["color"] = "3e3eff",
+[21] = {
+},
+[24] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[18] = {
+8,
+9,
+},
+[20] = {
+3,
+},
+[21] = {
+4,
+3,
+},
+},
+{
+[18] = {
+6,
+7,
+10,
+11,
+},
+[25] = {
+},
+[20] = {
+2,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[25] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[25] = {
+2,
+},
+},
+{
+["color"] = "3e9eff",
+[25] = {
+12,
+},
+[26] = {
+1,
+},
+},
+{
+[24] = {
+2,
+},
+[22] = {
+2,
+},
+[21] = {
+6,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[20] = {
+4,
+},
+[21] = {
+9,
+},
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+7,
+8,
+},
+[18] = {
+12,
+},
+},
+{
+["color"] = "3effff",
+[27] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[25] = {
+3,
+},
+[4] = {
+22,
+},
+},
+{
+[7] = {
+2,
+},
+[28] = {
+5,
+6,
+},
+["color"] = "3e3eff",
+[4] = {
+26,
+},
+[30] = {
+3,
+},
+[29] = {
+3,
+},
+},
+{
+[31] = {
+4,
+},
+[28] = {
+},
+[29] = {
+7,
+},
+[30] = {
+6,
+},
+["color"] = "a1ff3e",
+},
+{
+[31] = {
+3,
+},
+[28] = {
+},
+[29] = {
+6,
+},
+[30] = {
+5,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[32] = {
+1,
+},
+},
+{
+[29] = {
+5,
+},
+[31] = {
+2,
+},
+[28] = {
+},
+[25] = {
+},
+["color"] = "ff3e3e",
+[4] = {
+},
+[30] = {
+4,
+},
+[15] = {
+},
+},
+{
+["color"] = "3e9eff",
+[33] = {
+1,
+16,
+},
+},
+{
+[34] = {
+1,
+},
+[33] = {
+2,
+4,
+17,
+5,
+3,
+7,
+9,
+10,
+11,
+15,
+14,
+8,
+6,
+12,
+13,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[35] = {
+1,
+},
+},
+},
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[48] = {
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 48,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[111] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+},
+["pulls"] = {
+{
+["color"] = "228b22",
+},
+},
+},
+},
+{
+["objects"] = {
+},
+["uid"] = "z0JIPphS0IR",
+["difficulty"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+9,
+4,
+5,
+6,
+7,
+8,
+},
+{
+3,
+4,
+},
+{
+2,
+},
+{
+2,
+1,
+},
+{
+2,
+1,
+},
+["color"] = "3eff9e",
+[15] = {
+1,
+},
+},
+{
+{
+},
+[6] = {
+},
+[7] = {
+16,
+40,
+},
+[8] = {
+1,
+2,
+},
+[10] = {
+},
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+},
+{
+{
+10,
+},
+[6] = {
+14,
+17,
+},
+[7] = {
+38,
+39,
+},
+[8] = {
+10,
+11,
+},
+[10] = {
+29,
+},
+["color"] = "3e9eff",
+},
+{
+{
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+15,
+7,
+},
+[7] = {
+12,
+},
+[8] = {
+8,
+5,
+},
+},
+{
+[11] = {
+1,
+},
+[7] = {
+4,
+3,
+},
+[10] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+[6] = {
+2,
+3,
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+5,
+},
+[10] = {
+3,
+},
+[12] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[16] = {
+1,
+},
+},
+{
+[14] = {
+1,
+},
+[17] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+},
+},
+["text"] = "Route 1",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 2,
+["week"] = 1,
+["objects"] = {
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"11.3",
+"-384.8",
+"18.4",
+"-373.7",
+"18.4",
+"-373.7",
+"29.5",
+"-363.7",
+"29.5",
+"-363.7",
+"43.6",
+"-349.5",
+"43.6",
+"-349.5",
+"57.7",
+"-336.4",
+"57.7",
+"-336.4",
+"72.9",
+"-322.3",
+"72.9",
+"-322.3",
+"85.0",
+"-312.2",
+"85.0",
+"-312.2",
+"99.1",
+"-303.1",
+"99.1",
+"-303.1",
+"115.2",
+"-291.0",
+"115.2",
+"-291.0",
+"135.4",
+"-278.9",
+"135.4",
+"-278.9",
+"156.6",
+"-267.8",
+"156.6",
+"-267.8",
+"179.8",
+"-254.7",
+"179.8",
+"-254.7",
+"199.0",
+"-245.6",
+"199.0",
+"-245.6",
+"214.1",
+"-239.5",
+"214.1",
+"-239.5",
+"230.3",
+"-231.5",
+"230.3",
+"-231.5",
+"245.4",
+"-223.4",
+"245.4",
+"-223.4",
+"261.6",
+"-216.3",
+"261.6",
+"-216.3",
+"282.8",
+"-207.2",
+"282.8",
+"-207.2",
+"304.0",
+"-199.2",
+"304.0",
+"-199.2",
+"330.2",
+"-189.1",
+"330.2",
+"-189.1",
+"353.4",
+"-178.0",
+"353.4",
+"-178.0",
+"405.9",
+"-160.8",
+"405.9",
+"-160.8",
+"433.1",
+"-152.7",
+"433.1",
+"-152.7",
+"469.5",
+"-144.7",
+"469.5",
+"-144.7",
+"493.7",
+"-139.6",
+"493.7",
+"-139.6",
+"517.9",
+"-136.6",
+"517.9",
+"-136.6",
+"541.1",
+"-134.6",
+"541.1",
+"-134.6",
+"561.3",
+"-134.6",
+"561.3",
+"-134.6",
+"574.4",
+"-139.6",
+"574.4",
+"-139.6",
+"587.5",
+"-150.7",
+"587.5",
+"-150.7",
+"600.6",
+"-164.9",
+"600.6",
+"-164.9",
+"610.7",
+"-183.0",
+"610.7",
+"-183.0",
+"619.8",
+"-201.2",
+"619.8",
+"-201.2",
+"627.9",
+"-225.4",
+"627.9",
+"-225.4",
+"628.9",
+"-238.5",
+"628.9",
+"-238.5",
+"628.9",
+"-252.6",
+"628.9",
+"-252.6",
+"625.9",
+"-268.8",
+"625.9",
+"-268.8",
+"613.8",
+"-289.0",
+"613.8",
+"-289.0",
+"594.6",
+"-312.2",
+"594.6",
+"-312.2",
+"569.4",
+"-336.4",
+"569.4",
+"-336.4",
+"540.1",
+"-361.6",
+"540.1",
+"-361.6",
+"505.8",
+"-387.9",
+"505.8",
+"-387.9",
+"466.4",
+"-414.1",
+"466.4",
+"-414.1",
+"402.9",
+"-448.4",
+"402.9",
+"-448.4",
+"360.5",
+"-466.6",
+"360.5",
+"-466.6",
+"326.2",
+"-480.7",
+"326.2",
+"-480.7",
+"287.8",
+"-497.9",
+"287.8",
+"-497.9",
+"234.3",
+"-519.1",
+"234.3",
+"-519.1",
+"201.0",
+"-532.2",
+"201.0",
+"-532.2",
+"174.8",
+"-542.3",
+"174.8",
+"-542.3",
+"152.6",
+"-553.4",
+"152.6",
+"-553.4",
+"128.4",
+"-565.5",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-7,
+true,
+},
+["l"] = {
+"441.2",
+"-149.7",
+"455.3",
+"-173.9",
+"455.3",
+"-173.9",
+"468.4",
+"-201.2",
+"468.4",
+"-201.2",
+"480.6",
+"-232.5",
+"480.6",
+"-232.5",
+"487.6",
+"-260.7",
+"487.6",
+"-260.7",
+"491.7",
+"-284.9",
+"491.7",
+"-284.9",
+"492.7",
+"-308.2",
+"492.7",
+"-308.2",
+"490.6",
+"-324.3",
+"490.6",
+"-324.3",
+"487.6",
+"-335.4",
+"487.6",
+"-335.4",
+"481.6",
+"-350.5",
+"481.6",
+"-350.5",
+"473.5",
+"-367.7",
+"473.5",
+"-367.7",
+"468.4",
+"-373.7",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"530.0",
+"-240.5",
+"549.2",
+"-234.5",
+"549.2",
+"-234.5",
+"562.3",
+"-227.4",
+"562.3",
+"-227.4",
+"574.4",
+"-222.4",
+"574.4",
+"-222.4",
+"585.5",
+"-216.3",
+"585.5",
+"-216.3",
+"589.5",
+"-215.3",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"216.2",
+"-49.8",
+"219.2",
+"-62.9",
+"219.2",
+"-62.9",
+"221.2",
+"-71.0",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"306.0",
+"-46.8",
+"310.0",
+"-62.9",
+"310.0",
+"-62.9",
+"313.0",
+"-69.0",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"194.0",
+"-88.2",
+"198.0",
+"-99.3",
+"198.0",
+"-99.3",
+"206.1",
+"-116.4",
+"206.1",
+"-116.4",
+"214.1",
+"-131.6",
+"214.1",
+"-131.6",
+"225.2",
+"-141.6",
+"225.2",
+"-141.6",
+"235.3",
+"-146.7",
+"235.3",
+"-146.7",
+"249.5",
+"-150.7",
+"249.5",
+"-150.7",
+"269.6",
+"-152.7",
+"269.6",
+"-152.7",
+"296.9",
+"-153.8",
+"296.9",
+"-153.8",
+"328.2",
+"-151.7",
+"328.2",
+"-151.7",
+"362.5",
+"-143.7",
+"362.5",
+"-143.7",
+"402.9",
+"-119.4",
+"402.9",
+"-119.4",
+"412.9",
+"-107.3",
+"412.9",
+"-107.3",
+"416.0",
+"-103.3",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"269.6",
+"-96.2",
+"271.7",
+"-106.3",
+"271.7",
+"-106.3",
+"272.7",
+"-118.4",
+"272.7",
+"-118.4",
+"272.7",
+"-125.5",
+},
+},
+},
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+9,
+4,
+5,
+6,
+7,
+8,
+},
+{
+3,
+4,
+},
+{
+2,
+},
+{
+2,
+1,
+},
+{
+2,
+1,
+},
+["color"] = "3eff9e",
+[15] = {
+1,
+},
+},
+{
+{
+},
+[6] = {
+},
+[7] = {
+16,
+40,
+},
+[8] = {
+1,
+2,
+},
+[10] = {
+},
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+},
+{
+{
+10,
+},
+[6] = {
+14,
+17,
+},
+[7] = {
+38,
+39,
+},
+[8] = {
+10,
+11,
+},
+[10] = {
+29,
+},
+["color"] = "3e9eff",
+},
+{
+{
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+15,
+7,
+},
+[7] = {
+12,
+},
+[8] = {
+8,
+5,
+},
+},
+{
+[11] = {
+1,
+},
+[7] = {
+4,
+3,
+},
+[10] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+[6] = {
+2,
+3,
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+5,
+},
+[10] = {
+3,
+},
+[12] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[16] = {
+1,
+},
+},
+{
+[14] = {
+1,
+},
+[17] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+},
+},
+["text"] = "Route 1 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "NT)lLrnH2vJ",
+},
+{
+["objects"] = {
+},
+["uid"] = "Q86S4frimDe",
+["week"] = 1,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+9,
+4,
+5,
+6,
+7,
+8,
+},
+{
+3,
+4,
+},
+{
+2,
+},
+{
+2,
+1,
+},
+{
+2,
+1,
+},
+["color"] = "3eff9e",
+[15] = {
+1,
+},
+},
+{
+{
+},
+[6] = {
+},
+[7] = {
+16,
+40,
+},
+[8] = {
+1,
+2,
+},
+[10] = {
+},
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+},
+{
+{
+10,
+},
+[6] = {
+14,
+17,
+},
+[7] = {
+38,
+39,
+},
+[8] = {
+10,
+11,
+},
+[10] = {
+29,
+},
+["color"] = "3e9eff",
+},
+{
+{
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+15,
+7,
+},
+[7] = {
+12,
+},
+[8] = {
+8,
+5,
+},
+},
+{
+[11] = {
+1,
+},
+[7] = {
+4,
+3,
+},
+[10] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+[6] = {
+2,
+3,
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+5,
+},
+[10] = {
+3,
+},
+[12] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[16] = {
+1,
+},
+},
+{
+[14] = {
+1,
+},
+[17] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Route 1 3",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["difficulty"] = 2,
+},
+{
+["objects"] = {
+},
+["uid"] = "sl2iMJN6Elq",
+["difficulty"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+9,
+4,
+5,
+6,
+7,
+8,
+},
+{
+3,
+4,
+},
+{
+2,
+},
+{
+2,
+1,
+},
+{
+2,
+1,
+},
+["color"] = "3eff9e",
+[15] = {
+1,
+},
+},
+{
+{
+},
+[6] = {
+},
+[7] = {
+11,
+},
+[8] = {
+},
+[10] = {
+6,
+7,
+27,
+28,
+},
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+},
+{
+{
+10,
+},
+[6] = {
+14,
+17,
+},
+[7] = {
+38,
+39,
+},
+[8] = {
+10,
+11,
+},
+[10] = {
+29,
+},
+["color"] = "3e9eff",
+},
+{
+{
+11,
+},
+["color"] = "fffb3e",
+[6] = {
+7,
+},
+[7] = {
+12,
+},
+[8] = {
+8,
+5,
+},
+},
+{
+[11] = {
+1,
+},
+[7] = {
+4,
+3,
+},
+[10] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+[6] = {
+3,
+2,
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+5,
+},
+[10] = {
+3,
+},
+[12] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[16] = {
+1,
+},
+},
+{
+[14] = {
+1,
+},
+[17] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+},
+},
+["text"] = "Route 1 4",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["week"] = 1,
+},
+{
+["addonVersion"] = 5010,
+["wagoID"] = "IBXLDCGwh",
+["colorPaletteInfo"] = {
+["colorPaletteIdx"] = 4,
+["autoColoring"] = true,
+},
+["text"] = "Tactyks S1 PUG Friendly",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+614.0248222204376,
+-137.7652976341215,
+1,
+true,
+"commander - kick abyssal howl\nshadowmage - kick night bolt",
+},
+},
+{
+["n"] = true,
+["d"] = {
+708.1053100707021,
+-197.1844835280415,
+1,
+true,
+"range stack for pools",
+},
+},
+{
+["n"] = true,
+["d"] = {
+128.9815714436408,
+-62.08365405193879,
+1,
+true,
+"tacticians are heavy tank damage, can be kited when enranged",
+},
+},
+nil,
+nil,
+nil,
+{
+["d"] = {
+122.62883426848,
+-145.47193747223,
+1,
+true,
+"Can use the wall here to stop the tank knockback from this mini boss",
+},
+["n"] = true,
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+0,
+true,
+},
+["l"] = {
+"244.4",
+"-452.3",
+"241.1",
+"-455.6",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+0,
+true,
+},
+["l"] = {
+"240.5",
+"-451.7",
+"243.8",
+"-455.6",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"242.1",
+"-459.4",
+"242.1",
+"-465.4",
+"242.1",
+"-465.4",
+"242.1",
+"-471.5",
+"242.1",
+"-471.5",
+"242.7",
+"-477.0",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-7,
+true,
+},
+["l"] = {
+"238.3",
+"-474.2",
+"243.8",
+"-479.1",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+0,
+true,
+},
+["l"] = {
+"241.6",
+"-478.1",
+"244.9",
+"-472.6",
+},
+},
+{
+["d"] = {
+250.93408300191,
+-461.04394483241,
+1,
+true,
+"Pull this mini boss out towards the \"x\" marker and aim the orb down the path",
+},
+["n"] = true,
+},
+{
+["d"] = {
+608.50284119702,
+-476.18591866743,
+1,
+true,
+"Lust pull 1 then on CD.\nRitualist - kick tormenting ray\nShadowmage - kick night bolt\ndispell ensnaring shadows",
+},
+["n"] = true,
+},
+},
+["uid"] = "veoIyNR4h84",
+["value"] = {
+["currentPull"] = 10,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+4,
+},
+{
+3,
+},
+{
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+5,
+6,
+},
+[3] = {
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+7,
+8,
+},
+{
+4,
+},
+[5] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+{
+9,
+},
+{
+},
+nil,
+{
+2,
+},
+{
+2,
+},
+{
+},
+nil,
+{
+},
+[10] = {
+},
+["color"] = "fffb3e",
+},
+{
+[15] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[6] = {
+36,
+},
+[7] = {
+},
+[8] = {
+18,
+},
+[10] = {
+27,
+28,
+26,
+},
+["color"] = "ff3e9e",
+[9] = {
+},
+},
+{
+{
+},
+{
+},
+nil,
+nil,
+{
+},
+{
+7,
+},
+{
+12,
+11,
+},
+{
+5,
+},
+[11] = {
+},
+[10] = {
+6,
+7,
+},
+["color"] = "3effff",
+},
+{
+[6] = {
+14,
+},
+[7] = {
+39,
+38,
+},
+[8] = {
+10,
+},
+[10] = {
+29,
+},
+[12] = {
+},
+["color"] = "ff9b3e",
+},
+{
+[11] = {
+},
+[13] = {
+1,
+},
+[8] = {
+},
+[10] = {
+},
+["color"] = "3e3eff",
+[12] = {
+},
+[7] = {
+},
+[6] = {
+},
+},
+{
+[6] = {
+},
+[7] = {
+16,
+40,
+},
+[8] = {
+1,
+2,
+},
+[10] = {
+},
+["color"] = "a1ff3e",
+[5] = {
+},
+[9] = {
+},
+},
+{
+{
+},
+[6] = {
+},
+[7] = {
+},
+[8] = {
+},
+[10] = {
+1,
+2,
+},
+["color"] = "ff3eff",
+[11] = {
+1,
+},
+},
+{
+[6] = {
+},
+[7] = {
+5,
+},
+[8] = {
+},
+[10] = {
+3,
+},
+[12] = {
+},
+[9] = {
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+},
+[12] = {
+1,
+},
+},
+{
+[5] = {
+},
+[16] = {
+1,
+},
+[9] = {
+},
+["color"] = "3e9eff",
+},
+{
+[14] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[6] = {
+},
+[17] = {
+1,
+},
+[8] = {
+},
+[10] = {
+},
+["color"] = "3eff3e",
+[7] = {
+},
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+10,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["week"] = 1,
+["difficulty"] = 10,
+},
+{
+["difficulty"] = 13,
+["week"] = 1,
+["uid"] = "HiR26p20uia",
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+[7] = {
+},
+},
+{
+{
+4,
+6,
+5,
+9,
+7,
+8,
+},
+{
+3,
+4,
+},
+{
+2,
+},
+{
+1,
+2,
+},
+{
+2,
+1,
+},
+{
+},
+nil,
+{
+},
+["color"] = "3eff9e",
+[10] = {
+},
+},
+{
+[6] = {
+7,
+},
+[7] = {
+12,
+},
+[8] = {
+5,
+},
+[10] = {
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[10] = {
+},
+[7] = {
+11,
+},
+},
+{
+{
+},
+{
+},
+nil,
+nil,
+nil,
+{
+},
+{
+},
+{
+},
+[10] = {
+},
+["color"] = "fffb3e",
+},
+{
+[6] = {
+14,
+},
+[7] = {
+38,
+39,
+},
+[8] = {
+10,
+},
+[10] = {
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+},
+[7] = {
+},
+[13] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[6] = {
+},
+[7] = {
+40,
+16,
+},
+[8] = {
+1,
+2,
+},
+},
+{
+["color"] = "ff9b3e",
+[10] = {
+nil,
+1,
+},
+[11] = {
+1,
+},
+},
+{
+[7] = {
+5,
+},
+[2] = {
+8,
+},
+[15] = {
+},
+[16] = {
+},
+[17] = {
+},
+[10] = {
+},
+[6] = {
+},
+[12] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+[14] = {
+1,
+},
+[6] = {
+},
+[7] = {
+},
+["color"] = "a1ff3e",
+},
+},
+},
+["text"] = "Yup",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["difficulty"] = 10,
+["week"] = 1,
+["addonVersion"] = 550,
+["value"] = {
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+6,
+4,
+},
+{
+3,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+9,
+},
+["color"] = "ff3e3e",
+[4] = {
+2,
+},
+[5] = {
+2,
+},
+},
+{
+{
+8,
+7,
+},
+{
+4,
+},
+["color"] = "3e9eff",
+[5] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[14] = {
+1,
+},
+},
+{
+{
+16,
+},
+{
+9,
+},
+nil,
+nil,
+nil,
+{
+7,
+},
+{
+33,
+14,
+},
+{
+1,
+2,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+8,
+},
+[12] = {
+1,
+},
+[7] = {
+1,
+2,
+12,
+},
+},
+{
+[6] = {
+10,
+11,
+12,
+},
+[7] = {
+},
+[8] = {
+},
+["color"] = "3effff",
+[4] = {
+4,
+},
+[9] = {
+6,
+},
+[17] = {
+},
+},
+{
+[11] = {
+1,
+},
+[7] = {
+5,
+},
+[2] = {
+8,
+},
+["color"] = "ff9b3e",
+[6] = {
+},
+[9] = {
+3,
+},
+[17] = {
+},
+},
+{
+{
+12,
+},
+{
+6,
+5,
+},
+{
+4,
+},
+{
+8,
+},
+nil,
+{
+30,
+31,
+24,
+33,
+32,
+},
+["color"] = "3e3eff",
+[9] = {
+16,
+},
+},
+{
+[7] = {
+},
+[10] = {
+1,
+},
+["color"] = "a1ff3e",
+[9] = {
+2,
+1,
+},
+[17] = {
+},
+},
+{
+[6] = {
+},
+[2] = {
+},
+[15] = {
+1,
+},
+[18] = {
+3,
+2,
+1,
+4,
+5,
+},
+["color"] = "ff3eff",
+[9] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+},
+},
+},
+["selection"] = {
+8,
+},
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+[7] = 1,
+[28] = 1,
+[29] = 1,
+[8] = 1,
+[22] = 1,
+},
+[2] = {
+1,
+1,
+1,
+1,
+nil,
+nil,
+nil,
+1,
+1,
+},
+[4] = {
+8,
+8,
+},
+[9] = {
+8,
+8,
+8,
+[20] = 8,
+[21] = 8,
+[14] = 8,
+[5] = 8,
+[15] = 8,
+},
+[5] = {
+1,
+1,
+},
+},
+["currentDungeonIdx"] = 111,
+["teeming"] = false,
+["currentPull"] = 8,
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Dawnbreaker (9 Aug)",
+["objects"] = {
+},
+["uid"] = "5PGp1LE9tWF",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[110] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 110,
+["teeming"] = false,
+["selection"] = {
+15,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+5,
+4,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+{
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3eff",
+},
+{
+{
+7,
+},
+{
+2,
+},
+{
+2,
+},
+{
+5,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+5,
+},
+[4] = {
+6,
+},
+[3] = {
+4,
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+4,
+3,
+},
+},
+{
+["color"] = "fffb3e",
+[17] = {
+1,
+},
+},
+{
+[5] = {
+1,
+},
+[6] = {
+2,
+4,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+{
+8,
+9,
+},
+["color"] = "ff3e9e",
+[8] = {
+1,
+3,
+2,
+},
+[7] = {
+2,
+1,
+3,
+},
+[9] = {
+1,
+},
+},
+{
+[5] = {
+2,
+},
+[7] = {
+4,
+5,
+},
+["color"] = "3effff",
+},
+{
+{
+10,
+},
+["color"] = "ff9b3e",
+[8] = {
+4,
+5,
+},
+[9] = {
+2,
+},
+[5] = {
+3,
+},
+},
+{
+{
+12,
+11,
+},
+[9] = {
+3,
+4,
+},
+["color"] = "3e3eff",
+},
+{
+[18] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[6] = {
+5,
+},
+[10] = {
+1,
+2,
+},
+[22] = {
+1,
+2,
+},
+},
+{
+[11] = {
+1,
+},
+["color"] = "3eff9e",
+[4] = {
+7,
+},
+[6] = {
+6,
+8,
+7,
+},
+[12] = {
+1,
+},
+},
+{
+[11] = {
+2,
+3,
+},
+[10] = {
+5,
+4,
+3,
+6,
+7,
+8,
+9,
+},
+["color"] = "ff3e3e",
+[4] = {
+8,
+},
+[6] = {
+9,
+},
+},
+{
+[6] = {
+13,
+},
+[10] = {
+12,
+10,
+11,
+13,
+},
+["color"] = "3e9eff",
+[11] = {
+8,
+7,
+6,
+},
+[12] = {
+},
+},
+{
+["color"] = "fffb3e",
+[10] = {
+15,
+16,
+14,
+17,
+},
+[11] = {
+9,
+10,
+},
+[6] = {
+1,
+14,
+},
+},
+{
+["color"] = "3eff3e",
+[6] = {
+12,
+10,
+11,
+},
+[11] = {
+4,
+5,
+},
+},
+{
+["color"] = "ff3e9e",
+[19] = {
+1,
+},
+[20] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[13] = {
+2,
+3,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[13] = {
+1,
+4,
+},
+[16] = {
+2,
+3,
+1,
+},
+[14] = {
+2,
+3,
+},
+},
+{
+["color"] = "3e3eff",
+[15] = {
+2,
+},
+[14] = {
+4,
+5,
+},
+},
+{
+["color"] = "a1ff3e",
+[15] = {
+3,
+},
+[14] = {
+6,
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "C5jrmS20VL3",
+["week"] = 1,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 1",
+["objects"] = {
+{
+["d"] = {
+444.0454209698108,
+-131.6365103467477,
+1,
+true,
+"Lust here",
+},
+["n"] = true,
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["l"] = {
+"447.1",
+"-138.4",
+"437.3",
+"-140.5",
+},
+["t"] = {
+0.2153547133502482,
+},
+},
+{
+["d"] = {
+463.5926027437455,
+-220.6382716416824,
+1,
+true,
+"Pull this pack into boss if possible",
+},
+["n"] = true,
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["l"] = {
+"469.3",
+"-226.0",
+"465.2",
+"-231.8",
+},
+["t"] = {
+0.950546454187894,
+},
+},
+{
+["d"] = {
+246.6943834601285,
+-408.5133668631132,
+1,
+true,
+"Don't butt pull this pack",
+},
+["n"] = true,
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["l"] = {
+"255.5",
+"-408.5",
+"257.6",
+"-415.7",
+},
+["t"] = {
+1.84174334108763,
+},
+},
+{
+["d"] = {
+313.5603285806888,
+-384.629050082421,
+1,
+true,
+"Teleport Cart",
+},
+["n"] = true,
+},
+{
+["d"] = {
+613.8939853162248,
+-169.5304671417809,
+1,
+true,
+"Teleport Cart",
+},
+["n"] = true,
+},
+},
+["value"] = {
+["currentPull"] = 3,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 110,
+["teeming"] = false,
+["selection"] = {
+3,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+4,
+5,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+{
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3eff",
+},
+{
+{
+7,
+},
+{
+5,
+2,
+},
+{
+4,
+3,
+2,
+},
+{
+6,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+4,
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+{
+9,
+8,
+},
+[8] = {
+1,
+3,
+},
+[7] = {
+2,
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[7] = {
+3,
+4,
+5,
+},
+[8] = {
+2,
+},
+["color"] = "3eff3e",
+[9] = {
+1,
+},
+[5] = {
+2,
+},
+},
+{
+{
+12,
+11,
+10,
+},
+["color"] = "ff3e9e",
+[8] = {
+4,
+5,
+},
+[9] = {
+4,
+3,
+2,
+},
+[5] = {
+3,
+},
+},
+{
+[18] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[6] = {
+5,
+},
+[10] = {
+1,
+2,
+},
+[22] = {
+1,
+2,
+},
+},
+{
+[6] = {
+6,
+8,
+7,
+},
+[12] = {
+1,
+},
+[4] = {
+7,
+},
+[11] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+[11] = {
+2,
+3,
+},
+[10] = {
+7,
+4,
+5,
+3,
+6,
+8,
+9,
+},
+["color"] = "a1ff3e",
+[4] = {
+8,
+},
+[6] = {
+9,
+},
+},
+{
+[6] = {
+16,
+17,
+15,
+},
+[10] = {
+18,
+19,
+},
+[12] = {
+3,
+4,
+2,
+},
+[11] = {
+},
+["color"] = "ff3eff",
+},
+{
+[11] = {
+5,
+4,
+},
+[15] = {
+},
+["color"] = "3eff9e",
+[14] = {
+},
+[6] = {
+10,
+11,
+12,
+},
+},
+{
+[20] = {
+1,
+},
+[24] = {
+1,
+},
+["color"] = "ff3e3e",
+[19] = {
+1,
+},
+[23] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+3,
+2,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[13] = {
+1,
+4,
+},
+[16] = {
+2,
+1,
+3,
+},
+[14] = {
+2,
+3,
+},
+},
+{
+[14] = {
+5,
+4,
+6,
+1,
+},
+[15] = {
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "yGhznTkIm(a",
+["value"] = {
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+4,
+5,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+{
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3eff",
+},
+{
+{
+7,
+},
+{
+5,
+2,
+},
+{
+4,
+3,
+2,
+},
+{
+6,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+4,
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+{
+8,
+9,
+},
+[8] = {
+3,
+1,
+},
+[7] = {
+2,
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[7] = {
+3,
+4,
+5,
+},
+[8] = {
+2,
+},
+["color"] = "3eff3e",
+[9] = {
+1,
+},
+[5] = {
+2,
+},
+},
+{
+{
+12,
+11,
+10,
+},
+["color"] = "ff3e9e",
+[5] = {
+3,
+},
+[9] = {
+4,
+3,
+2,
+},
+[8] = {
+4,
+5,
+},
+},
+{
+[18] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[6] = {
+5,
+},
+[22] = {
+1,
+2,
+},
+[10] = {
+1,
+2,
+},
+},
+{
+[6] = {
+6,
+8,
+7,
+},
+[12] = {
+1,
+},
+[4] = {
+7,
+},
+["color"] = "3e3eff",
+[11] = {
+1,
+},
+},
+{
+[11] = {
+2,
+3,
+},
+[10] = {
+7,
+4,
+5,
+3,
+6,
+8,
+9,
+},
+["color"] = "a1ff3e",
+[4] = {
+8,
+},
+[6] = {
+9,
+},
+},
+{
+[6] = {
+13,
+14,
+1,
+},
+[10] = {
+12,
+10,
+11,
+13,
+16,
+14,
+15,
+17,
+},
+[12] = {
+},
+["color"] = "ff3eff",
+[11] = {
+8,
+7,
+6,
+9,
+10,
+},
+},
+{
+[11] = {
+5,
+4,
+},
+[15] = {
+},
+["color"] = "3eff9e",
+[14] = {
+},
+[6] = {
+10,
+11,
+12,
+},
+},
+{
+[20] = {
+1,
+},
+[24] = {
+1,
+},
+["color"] = "ff3e3e",
+[19] = {
+1,
+},
+[23] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+3,
+2,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[13] = {
+1,
+4,
+},
+[14] = {
+2,
+3,
+},
+[16] = {
+2,
+1,
+3,
+},
+},
+{
+[14] = {
+5,
+4,
+6,
+1,
+},
+[15] = {
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 110,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 1 2",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+444.0454209698108,
+-131.6365103467477,
+1,
+true,
+"Lust here",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.2153547133502482,
+},
+["l"] = {
+"447.1",
+"-138.4",
+"437.3",
+"-140.5",
+},
+},
+{
+["n"] = true,
+["d"] = {
+463.5926027437455,
+-220.6382716416824,
+1,
+true,
+"Pull this pack into boss if possible",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.950546454187894,
+},
+["l"] = {
+"469.3",
+"-226.0",
+"465.2",
+"-231.8",
+},
+},
+{
+["n"] = true,
+["d"] = {
+246.6943834601285,
+-408.5133668631132,
+1,
+true,
+"Don't butt pull this pack",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+1.84174334108763,
+},
+["l"] = {
+"255.5",
+"-408.5",
+"257.6",
+"-415.7",
+},
+},
+{
+["n"] = true,
+["d"] = {
+313.5603285806888,
+-384.629050082421,
+1,
+true,
+"Teleport Cart",
+},
+},
+{
+["n"] = true,
+["d"] = {
+613.8939853162248,
+-169.5304671417809,
+1,
+true,
+"Teleport Cart",
+},
+},
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 2,
+["uid"] = ")(Zs6U56BuH",
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+4,
+5,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+{
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3eff",
+},
+{
+{
+7,
+},
+{
+5,
+2,
+},
+{
+4,
+3,
+2,
+},
+{
+6,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+4,
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+{
+8,
+9,
+},
+["color"] = "fffb3e",
+[8] = {
+3,
+1,
+2,
+},
+[9] = {
+1,
+},
+[7] = {
+2,
+1,
+3,
+},
+},
+{
+[7] = {
+4,
+5,
+},
+[8] = {
+},
+["color"] = "3eff3e",
+[9] = {
+},
+[5] = {
+2,
+},
+},
+{
+{
+12,
+11,
+10,
+},
+["color"] = "ff3e9e",
+[5] = {
+3,
+},
+[9] = {
+4,
+3,
+2,
+},
+[8] = {
+4,
+5,
+},
+},
+{
+[18] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[6] = {
+5,
+},
+[22] = {
+1,
+2,
+},
+[10] = {
+1,
+2,
+},
+},
+{
+[6] = {
+6,
+8,
+7,
+},
+[12] = {
+1,
+},
+[4] = {
+7,
+},
+["color"] = "3e3eff",
+[11] = {
+1,
+},
+},
+{
+[11] = {
+2,
+3,
+},
+[10] = {
+7,
+4,
+5,
+3,
+6,
+8,
+9,
+},
+["color"] = "a1ff3e",
+[4] = {
+8,
+},
+[6] = {
+9,
+},
+},
+{
+[6] = {
+13,
+14,
+1,
+},
+[10] = {
+12,
+10,
+11,
+13,
+16,
+14,
+15,
+17,
+},
+[12] = {
+},
+["color"] = "ff3eff",
+[11] = {
+8,
+7,
+6,
+9,
+10,
+},
+},
+{
+[11] = {
+5,
+4,
+},
+[15] = {
+},
+["color"] = "3eff9e",
+[14] = {
+},
+[6] = {
+10,
+11,
+12,
+},
+},
+{
+[20] = {
+1,
+},
+[24] = {
+1,
+},
+["color"] = "ff3e3e",
+[19] = {
+1,
+},
+[23] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+3,
+2,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[13] = {
+1,
+4,
+},
+[14] = {
+2,
+3,
+},
+[16] = {
+2,
+1,
+3,
+},
+},
+{
+[14] = {
+5,
+4,
+6,
+1,
+},
+[15] = {
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 110,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 1 3",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+444.0454209698108,
+-131.6365103467477,
+1,
+true,
+"Lust here",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.2153547133502482,
+},
+["l"] = {
+"447.1",
+"-138.4",
+"437.3",
+"-140.5",
+},
+},
+{
+["n"] = true,
+["d"] = {
+463.5926027437455,
+-220.6382716416824,
+1,
+true,
+"Pull this pack into boss if possible",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.950546454187894,
+},
+["l"] = {
+"469.3",
+"-226.0",
+"465.2",
+"-231.8",
+},
+},
+{
+["n"] = true,
+["d"] = {
+246.6943834601285,
+-408.5133668631132,
+1,
+true,
+"Don't butt pull this pack",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+1.84174334108763,
+},
+["l"] = {
+"255.5",
+"-408.5",
+"257.6",
+"-415.7",
+},
+},
+{
+["n"] = true,
+["d"] = {
+313.5603285806888,
+-384.629050082421,
+1,
+true,
+"Teleport Cart",
+},
+},
+{
+["n"] = true,
+["d"] = {
+613.8939853162248,
+-169.5304671417809,
+1,
+true,
+"Teleport Cart",
+},
+},
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 2,
+["uid"] = "OZfsGdz4t9A",
+["value"] = {
+["currentPull"] = 4,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+4,
+5,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+{
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3eff",
+},
+{
+{
+7,
+},
+{
+5,
+2,
+},
+{
+4,
+3,
+2,
+},
+{
+6,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+4,
+3,
+},
+},
+{
+[6] = {
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[8] = {
+1,
+},
+["color"] = "3e9eff",
+[5] = {
+1,
+},
+[7] = {
+2,
+1,
+},
+},
+{
+[7] = {
+4,
+5,
+},
+[8] = {
+},
+["color"] = "fffb3e",
+[9] = {
+},
+[5] = {
+2,
+},
+},
+{
+{
+12,
+11,
+10,
+},
+["color"] = "3eff3e",
+[5] = {
+3,
+},
+[9] = {
+4,
+3,
+2,
+},
+[8] = {
+4,
+5,
+},
+},
+{
+[18] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[6] = {
+5,
+},
+[22] = {
+1,
+2,
+},
+[10] = {
+1,
+2,
+},
+},
+{
+[6] = {
+6,
+8,
+7,
+},
+[12] = {
+1,
+},
+[4] = {
+7,
+},
+["color"] = "ff9b3e",
+[11] = {
+1,
+},
+},
+{
+[11] = {
+2,
+3,
+},
+[10] = {
+7,
+4,
+5,
+3,
+6,
+8,
+9,
+},
+["color"] = "3e3eff",
+[4] = {
+8,
+},
+[6] = {
+9,
+},
+},
+{
+[6] = {
+13,
+14,
+1,
+},
+[10] = {
+12,
+10,
+11,
+13,
+16,
+14,
+15,
+17,
+},
+[12] = {
+},
+["color"] = "a1ff3e",
+[11] = {
+8,
+7,
+6,
+9,
+10,
+},
+},
+{
+["color"] = "ff3eff",
+[6] = {
+15,
+},
+[12] = {
+2,
+},
+[10] = {
+18,
+19,
+},
+},
+{
+[11] = {
+5,
+4,
+},
+[15] = {
+},
+["color"] = "3eff9e",
+[14] = {
+},
+[6] = {
+10,
+11,
+12,
+},
+},
+{
+[20] = {
+1,
+},
+[24] = {
+1,
+},
+["color"] = "ff3e3e",
+[19] = {
+1,
+},
+[23] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+3,
+2,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[13] = {
+1,
+4,
+},
+[14] = {
+2,
+3,
+},
+[16] = {
+2,
+1,
+3,
+},
+},
+{
+["color"] = "3eff3e",
+[21] = {
+1,
+},
+[15] = {
+2,
+3,
+},
+[14] = {
+5,
+4,
+6,
+1,
+},
+},
+},
+["currentDungeonIdx"] = 110,
+["teeming"] = false,
+["selection"] = {
+4,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 1 4",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+444.0454209698108,
+-131.6365103467477,
+1,
+true,
+"Lust here",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.2153547133502482,
+},
+["l"] = {
+"447.1",
+"-138.4",
+"437.3",
+"-140.5",
+},
+},
+{
+["n"] = true,
+["d"] = {
+463.5926027437455,
+-220.6382716416824,
+1,
+true,
+"Pull this pack into boss if possible",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.950546454187894,
+},
+["l"] = {
+"469.3",
+"-226.0",
+"465.2",
+"-231.8",
+},
+},
+{
+["n"] = true,
+["d"] = {
+246.6943834601285,
+-408.5133668631132,
+1,
+true,
+"Don't butt pull this pack",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+1.84174334108763,
+},
+["l"] = {
+"255.5",
+"-408.5",
+"257.6",
+"-415.7",
+},
+},
+{
+["n"] = true,
+["d"] = {
+313.5603285806888,
+-384.629050082421,
+1,
+true,
+"Teleport Cart",
+},
+},
+{
+["n"] = true,
+["d"] = {
+613.8939853162248,
+-169.5304671417809,
+1,
+true,
+"Teleport Cart",
+},
+},
+{
+["n"] = true,
+["d"] = {
+560.3375314983285,
+-284.785725358346,
+1,
+true,
+"invis skip",
+},
+},
+},
+["week"] = 1,
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[112] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 112,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "qkfBqFGPB7m",
+["week"] = 2,
+["value"] = {
+["currentPull"] = 22,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+},
+{
+2,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+4,
+},
+{
+3,
+},
+nil,
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+6,
+5,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+[4] = {
+2,
+},
+["color"] = "3e9eff",
+},
+{
+{
+7,
+1,
+},
+{
+1,
+5,
+},
+["color"] = "fffb3e",
+},
+{
+[19] = {
+3,
+4,
+5,
+2,
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+8,
+9,
+10,
+12,
+11,
+13,
+14,
+15,
+},
+{
+6,
+7,
+17,
+8,
+18,
+9,
+10,
+11,
+12,
+13,
+14,
+},
+{
+3,
+1,
+},
+{
+3,
+4,
+5,
+6,
+7,
+},
+["color"] = "ff3e9e",
+},
+{
+[13] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[5] = {
+2,
+4,
+3,
+},
+[6] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[2] = {
+15,
+},
+[9] = {
+7,
+1,
+},
+},
+{
+[14] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+[5] = {
+5,
+6,
+7,
+},
+[6] = {
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+1,
+},
+[2] = {
+16,
+},
+["color"] = "3eff9e",
+[5] = {
+1,
+8,
+9,
+},
+[9] = {
+8,
+9,
+},
+},
+{
+["color"] = "ff3e3e",
+[9] = {
+10,
+},
+[7] = {
+2,
+},
+},
+{
+[10] = {
+2,
+},
+["color"] = "3e9eff",
+},
+{
+[8] = {
+6,
+},
+[7] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[7] = {
+3,
+},
+[8] = {
+7,
+},
+["color"] = "3eff3e",
+[9] = {
+2,
+},
+[5] = {
+12,
+},
+},
+{
+[10] = {
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+[8] = {
+10,
+},
+[10] = {
+1,
+},
+["color"] = "3effff",
+[9] = {
+3,
+},
+[5] = {
+14,
+13,
+},
+},
+{
+[7] = {
+},
+[8] = {
+4,
+5,
+9,
+8,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[5] = {
+11,
+},
+},
+{
+[5] = {
+16,
+15,
+},
+[9] = {
+4,
+5,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+},
+[7] = {
+4,
+},
+[8] = {
+1,
+13,
+11,
+},
+},
+{
+["color"] = "ff3eff",
+[16] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[7] = {
+5,
+},
+[8] = {
+14,
+12,
+},
+["color"] = "3eff9e",
+[9] = {
+6,
+},
+[5] = {
+18,
+17,
+},
+},
+{
+[3] = {
+4,
+},
+[11] = {
+1,
+2,
+3,
+4,
+5,
+7,
+8,
+6,
+},
+["color"] = "ff3e3e",
+},
+{
+[11] = {
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+},
+[12] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+[11] = {
+20,
+24,
+17,
+21,
+18,
+22,
+19,
+23,
+},
+[12] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+27,
+28,
+32,
+33,
+25,
+29,
+34,
+26,
+30,
+36,
+35,
+31,
+},
+[12] = {
+4,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[17] = {
+1,
+},
+[20] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 112,
+["teeming"] = false,
+["selection"] = {
+22,
+},
+["riftOffsets"] = {
+[2] = {
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Raider.IO Weekly Route - Bunten",
+["objects"] = {
+{
+["d"] = {
+"166.3",
+"-261.8",
+1,
+true,
+"Tank on the platform with your back against the wall for the Twilight Destroyer's knock back. DPS can Line of Sight up on the stairs.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"36.7",
+"-344.5",
+1,
+true,
+"Have suggestions = twitch.tv/thebunten\nMore notes to come ",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"337.5",
+"-444.1",
+1,
+true,
+"Umbriss uses [Rock Spikes] to summon [Rumbling Earth], and [Shadowflame Breath] from Twilight Drakes. The tank will also deal with [Skullsplitter]. 3 dragons will breathe along the platform, avoid massive damage by standing in the safe lane. Try to spread outt with brown circle and dont get knocked forward into extra damage.\n\nTanks: Manage Skullsplitter and position Umbriss away from the group.\nHealers: Handle AoE from Rumbling Earth and Shadowflame Breath.\nDPS: Avoid Rock Spikes and focus on handling adds.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"277",
+"-104.9",
+1,
+true,
+"Each player can click a net to free a dragon. Claim your unique dragon and use the 1 & 2 vehicle buttons to defeat mobs along your flight. Your #1 is strongest but limited. Try to save your #1 charges for large pulls on your return flight",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"451.8",
+"-322.8",
+1,
+true,
+"Throngus switches between weapons like [Molten Mace] (buffs melee attacks), [Fiery Cleave], and [Molten Flurry]. These abilities create Molten Pools and Molten Spark.\n\nTanks: Manage Molten Mace, position Throngus to avoid AoE.\nHealers: Heal through fire damage from Molten Pools.\nDPS: Avoid Molten Pools and interrupt when necessary.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"394.3",
+"-263.4",
+1,
+true,
+"Boss will begin to patrol this room once this pack is defeated. Stand either on the far side of the rooms (wall or ledge) to not engage the boss before your bloodlust/hero is ready. Organize this room however works best for your CDs.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"580.5",
+"-119.2",
+1,
+true,
+"DONT USE CDs until Dragon!\nDrahga summons Shadowflame Spirits that explode with [Shadowflame Nova]. At 1% health, Valiona aids Drahga with [Twilight Buffet] and [Devouring Flame].\n\nTanks: Handle [Shadowflame Bolt].\nHealers: Heal through AoE from Twilight Buffet and Shadowflame Nova.\nDPS: Kill spirits before they explode and interrupt adds.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"726.1",
+"-494.1",
+1,
+true,
+"Erudax summons Void Tendrils and uses [Void Surge] to deal heavy shadow damage. He also corrupts Alexstrasza’s eggs with [Void Infusion], turning them into Mutated Hatchlings.\n\nTanks: Deal with adds and keep Erudax away from the eggs.\nHealers: Manage party-wide damage from Void Surge and Shadow Gale.\nDPS: Interrupt adds and avoid Void Tendrils.",
+},
+["n"] = true,
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "7Wwg8YJBkaw",
+["week"] = 2,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["currentPull"] = 13,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+},
+{
+2,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+4,
+},
+{
+3,
+},
+nil,
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+6,
+5,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+[4] = {
+2,
+},
+["color"] = "3e9eff",
+},
+{
+{
+7,
+1,
+},
+{
+1,
+5,
+},
+["color"] = "fffb3e",
+},
+{
+[19] = {
+3,
+4,
+5,
+2,
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+8,
+9,
+10,
+12,
+11,
+13,
+14,
+15,
+},
+{
+6,
+7,
+17,
+8,
+18,
+9,
+10,
+11,
+12,
+13,
+14,
+},
+{
+3,
+1,
+},
+{
+3,
+4,
+5,
+6,
+7,
+},
+["color"] = "ff3e9e",
+},
+{
+[13] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[5] = {
+2,
+4,
+3,
+},
+[6] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[2] = {
+},
+[9] = {
+},
+},
+{
+[14] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+[5] = {
+5,
+6,
+7,
+},
+[6] = {
+3,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[2] = {
+16,
+},
+[9] = {
+8,
+9,
+},
+},
+{
+[6] = {
+},
+[2] = {
+15,
+},
+["color"] = "ff3e3e",
+[5] = {
+},
+[9] = {
+7,
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[9] = {
+10,
+},
+[7] = {
+2,
+},
+},
+{
+[10] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+[8] = {
+6,
+},
+[7] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[7] = {
+3,
+},
+[8] = {
+7,
+},
+["color"] = "ff3e9e",
+[9] = {
+2,
+},
+[5] = {
+12,
+},
+},
+{
+[10] = {
+3,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+10,
+},
+[10] = {
+1,
+},
+["color"] = "ff9b3e",
+[9] = {
+3,
+},
+[5] = {
+14,
+13,
+},
+},
+{
+[7] = {
+},
+[8] = {
+4,
+5,
+9,
+8,
+},
+[10] = {
+},
+["color"] = "3e3eff",
+[5] = {
+11,
+},
+},
+{
+[5] = {
+16,
+15,
+},
+[9] = {
+4,
+5,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[10] = {
+4,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[7] = {
+5,
+},
+[8] = {
+14,
+12,
+},
+["color"] = "ff3e3e",
+[9] = {
+6,
+},
+[5] = {
+18,
+17,
+},
+},
+{
+["color"] = "3e9eff",
+[3] = {
+4,
+},
+[11] = {
+1,
+2,
+3,
+4,
+5,
+7,
+8,
+6,
+},
+},
+{
+[11] = {
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+},
+[12] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+20,
+24,
+17,
+21,
+18,
+22,
+19,
+23,
+},
+[12] = {
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[11] = {
+27,
+28,
+32,
+33,
+25,
+29,
+34,
+26,
+30,
+36,
+35,
+31,
+},
+[12] = {
+4,
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[17] = {
+1,
+},
+[20] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 112,
+["teeming"] = false,
+["selection"] = {
+13,
+},
+["riftOffsets"] = {
+[2] = {
+},
+},
+},
+["text"] = "Raider.IO Weekly Route - Bunten 2",
+["objects"] = {
+{
+["d"] = {
+"166.3",
+"-261.8",
+1,
+true,
+"Tank on the platform with your back against the wall for the Twilight Destroyer's knock back. DPS can Line of Sight up on the stairs.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"36.7",
+"-344.5",
+1,
+true,
+"Have suggestions = twitch.tv/thebunten\nMore notes to come ",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"337.5",
+"-444.1",
+1,
+true,
+"Umbriss uses [Rock Spikes] to summon [Rumbling Earth], and [Shadowflame Breath] from Twilight Drakes. The tank will also deal with [Skullsplitter]. 3 dragons will breathe along the platform, avoid massive damage by standing in the safe lane. Try to spread outt with brown circle and dont get knocked forward into extra damage.\n\nTanks: Manage Skullsplitter and position Umbriss away from the group.\nHealers: Handle AoE from Rumbling Earth and Shadowflame Breath.\nDPS: Avoid Rock Spikes and focus on handling adds.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"277",
+"-104.9",
+1,
+true,
+"Each player can click a net to free a dragon. Claim your unique dragon and use the 1 & 2 vehicle buttons to defeat mobs along your flight. Your #1 is strongest but limited. Try to save your #1 charges for large pulls on your return flight",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"451.8",
+"-322.8",
+1,
+true,
+"Throngus switches between weapons like [Molten Mace] (buffs melee attacks), [Fiery Cleave], and [Molten Flurry]. These abilities create Molten Pools and Molten Spark.\n\nTanks: Manage Molten Mace, position Throngus to avoid AoE.\nHealers: Heal through fire damage from Molten Pools.\nDPS: Avoid Molten Pools and interrupt when necessary.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"394.3",
+"-263.4",
+1,
+true,
+"Boss will begin to patrol this room once this pack is defeated. Stand either on the far side of the rooms (wall or ledge) to not engage the boss before your bloodlust/hero is ready. Organize this room however works best for your CDs.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"580.5",
+"-119.2",
+1,
+true,
+"DONT USE CDs until Dragon!\nDrahga summons Shadowflame Spirits that explode with [Shadowflame Nova]. At 1% health, Valiona aids Drahga with [Twilight Buffet] and [Devouring Flame].\n\nTanks: Handle [Shadowflame Bolt].\nHealers: Heal through AoE from Twilight Buffet and Shadowflame Nova.\nDPS: Kill spirits before they explode and interrupt adds.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"726.1",
+"-494.1",
+1,
+true,
+"Erudax summons Void Tendrils and uses [Void Surge] to deal heavy shadow damage. He also corrupts Alexstrasza’s eggs with [Void Infusion], turning them into Mutated Hatchlings.\n\nTanks: Deal with adds and keep Erudax away from the eggs.\nHealers: Manage party-wide damage from Void Surge and Shadow Gale.\nDPS: Interrupt adds and avoid Void Tendrils.",
+},
+["n"] = true,
+},
+},
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[33] = {
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["week"] = 5,
+["difficulty"] = 11,
+["value"] = {
+["currentPull"] = 32,
+["currentSublevel"] = 2,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 33,
+["teeming"] = false,
+["selection"] = {
+32,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+[2] = {
+2,
+1,
+4,
+3,
+},
+[5] = {
+1,
+},
+[3] = {
+1,
+3,
+2,
+},
+},
+{
+[5] = {
+2,
+3,
+},
+[6] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+},
+["color"] = "ff3e3e",
+[7] = {
+1,
+},
+[4] = {
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+5,
+6,
+},
+[4] = {
+6,
+4,
+5,
+},
+},
+{
+["color"] = "fffb3e",
+[2] = {
+7,
+8,
+9,
+10,
+11,
+},
+[7] = {
+3,
+},
+[4] = {
+8,
+7,
+},
+},
+{
+["color"] = "3eff3e",
+[8] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+3,
+},
+[11] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3effff",
+[12] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[13] = {
+1,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[13] = {
+2,
+},
+[9] = {
+6,
+7,
+8,
+9,
+},
+[11] = {
+5,
+8,
+9,
+6,
+7,
+},
+},
+{
+[13] = {
+6,
+},
+[21] = {
+},
+["color"] = "a1ff3e",
+[9] = {
+10,
+11,
+},
+[16] = {
+},
+},
+{
+{
+},
+[11] = {
+},
+[13] = {
+},
+[15] = {
+},
+["color"] = "ff3eff",
+[16] = {
+1,
+2,
+},
+[9] = {
+},
+[17] = {
+1,
+},
+},
+{
+[20] = {
+5,
+},
+[17] = {
+},
+[18] = {
+4,
+},
+["color"] = "3eff9e",
+[16] = {
+12,
+},
+},
+{
+[17] = {
+3,
+},
+[18] = {
+},
+["color"] = "ff3e3e",
+[19] = {
+},
+[16] = {
+10,
+11,
+},
+},
+{
+[20] = {
+4,
+},
+[18] = {
+},
+["color"] = "3e9eff",
+[19] = {
+4,
+},
+[16] = {
+9,
+},
+},
+{
+[20] = {
+},
+[21] = {
+8,
+6,
+5,
+7,
+},
+[18] = {
+3,
+},
+["color"] = "fffb3e",
+[16] = {
+8,
+},
+[12] = {
+},
+},
+{
+["color"] = "3eff3e",
+[22] = {
+1,
+},
+},
+{
+[21] = {
+3,
+2,
+1,
+},
+[16] = {
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[16] = {
+6,
+},
+[17] = {
+2,
+},
+[19] = {
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+5,
+},
+[20] = {
+3,
+},
+[18] = {
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[9] = {
+15,
+14,
+13,
+},
+},
+{
+["color"] = "a1ff3e",
+[9] = {
+12,
+},
+[20] = {
+6,
+},
+},
+{
+["color"] = "ff3eff",
+[23] = {
+1,
+},
+},
+{
+[24] = {
+1,
+2,
+},
+[21] = {
+},
+[18] = {
+},
+["color"] = "3eff9e",
+[9] = {
+16,
+17,
+},
+[5] = {
+4,
+5,
+},
+[16] = {
+},
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+6,
+},
+[12] = {
+5,
+},
+[13] = {
+7,
+},
+},
+{
+["color"] = "3e9eff",
+[10] = {
+9,
+10,
+},
+[11] = {
+16,
+17,
+15,
+},
+},
+{
+["color"] = "fffb3e",
+[26] = {
+5,
+1,
+2,
+4,
+3,
+6,
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+11,
+12,
+},
+[26] = {
+7,
+8,
+9,
+},
+},
+{
+["color"] = "ff3e9e",
+[11] = {
+20,
+18,
+21,
+22,
+19,
+},
+},
+{
+[11] = {
+24,
+23,
+},
+[10] = {
+13,
+14,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[12] = {
+6,
+},
+[3] = {
+6,
+5,
+},
+},
+{
+[5] = {
+7,
+6,
+},
+[24] = {
+6,
+8,
+3,
+4,
+5,
+7,
+},
+["color"] = "3e3eff",
+},
+},
+},
+},
+{
+["difficulty"] = 30,
+["week"] = 1,
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+569.3758456447308,
+-246.2853797714665,
+2,
+true,
+"Invis pot skip this. Inefficient pull.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+299.7171036565815,
+-124.8534577995556,
+1,
+true,
+"you can skip this pack. Wait for Brute to move to the left of the room, then sneak past.",
+},
+},
+},
+["value"] = {
+["currentPull"] = 35,
+["currentSublevel"] = 2,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 33,
+["teeming"] = false,
+["selection"] = {
+35,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+[2] = {
+2,
+1,
+4,
+3,
+},
+[5] = {
+1,
+},
+[3] = {
+1,
+2,
+3,
+},
+},
+{
+[6] = {
+1,
+},
+[2] = {
+},
+["color"] = "3eff9e",
+[5] = {
+2,
+3,
+},
+[7] = {
+},
+},
+{
+{
+},
+["color"] = "ff3e3e",
+[4] = {
+2,
+},
+[7] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+5,
+6,
+},
+[4] = {
+4,
+6,
+5,
+},
+},
+{
+["color"] = "fffb3e",
+[2] = {
+7,
+8,
+9,
+10,
+11,
+},
+[7] = {
+3,
+},
+[4] = {
+8,
+7,
+},
+},
+{
+["color"] = "3eff3e",
+[8] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+3,
+},
+[11] = {
+2,
+1,
+4,
+3,
+},
+},
+{
+[11] = {
+},
+[24] = {
+},
+[10] = {
+1,
+7,
+2,
+4,
+8,
+5,
+3,
+6,
+},
+["color"] = "3effff",
+[9] = {
+},
+[5] = {
+},
+},
+{
+["color"] = "ff9b3e",
+[12] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[13] = {
+1,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+2,
+},
+[9] = {
+6,
+7,
+},
+},
+{
+[20] = {
+},
+[17] = {
+},
+[16] = {
+},
+[18] = {
+},
+["color"] = "ff3eff",
+[14] = {
+},
+[9] = {
+10,
+11,
+},
+[13] = {
+6,
+},
+},
+{
+{
+7,
+8,
+9,
+10,
+11,
+},
+[15] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+2,
+1,
+},
+[17] = {
+1,
+},
+[14] = {
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+10,
+11,
+},
+[17] = {
+3,
+},
+},
+{
+[20] = {
+5,
+},
+[13] = {
+},
+[18] = {
+4,
+},
+["color"] = "fffb3e",
+[6] = {
+},
+[16] = {
+12,
+},
+[12] = {
+},
+},
+{
+["color"] = "3eff3e",
+[16] = {
+3,
+},
+[19] = {
+1,
+},
+[18] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[19] = {
+2,
+},
+[20] = {
+2,
+},
+[16] = {
+4,
+},
+},
+{
+["color"] = "3effff",
+[12] = {
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+5,
+},
+[20] = {
+3,
+},
+[18] = {
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[16] = {
+6,
+},
+[17] = {
+2,
+},
+[19] = {
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[21] = {
+2,
+3,
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[20] = {
+6,
+},
+[9] = {
+12,
+13,
+},
+},
+{
+["color"] = "ff3e3e",
+[9] = {
+14,
+15,
+},
+},
+{
+["color"] = "3e9eff",
+[23] = {
+1,
+},
+},
+{
+[5] = {
+5,
+4,
+},
+["color"] = "fffb3e",
+[9] = {
+16,
+17,
+},
+[24] = {
+2,
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+9,
+10,
+},
+[11] = {
+16,
+17,
+15,
+},
+},
+{
+["color"] = "ff3e9e",
+[26] = {
+2,
+1,
+4,
+5,
+3,
+6,
+},
+},
+{
+["color"] = "3effff",
+[10] = {
+11,
+12,
+},
+[26] = {
+7,
+8,
+9,
+},
+},
+{
+["color"] = "ff9b3e",
+[11] = {
+19,
+18,
+20,
+21,
+22,
+},
+},
+{
+["color"] = "3e3eff",
+[10] = {
+13,
+14,
+},
+[11] = {
+24,
+23,
+},
+},
+{
+["color"] = "a1ff3e",
+[12] = {
+6,
+},
+[3] = {
+6,
+5,
+},
+},
+{
+[5] = {
+7,
+6,
+},
+["color"] = "ff3eff",
+[24] = {
+6,
+8,
+3,
+4,
+5,
+7,
+},
+},
+{
+["color"] = "3eff9e",
+[25] = {
+1,
+},
+},
+},
+},
+["text"] = "Quazii SD Fortified",
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
 },
 },
 [160] = {
@@ -48852,10 +13595,10 @@ nil,
 5,
 4,
 },
+["color"] = "ff3e3e",
 [3] = {
 5,
 },
-["color"] = "ff3e3e",
 },
 {
 {
@@ -48896,13 +13639,13 @@ nil,
 1,
 },
 ["color"] = "fffb3e",
-[21] = {
+[38] = {
 1,
 },
 [23] = {
 1,
 },
-[38] = {
+[21] = {
 1,
 },
 },
@@ -48974,9 +13717,9 @@ nil,
 1,
 },
 ["color"] = "3effff",
-[12] = {
-15,
-16,
+[13] = {
+10,
+12,
 },
 [16] = {
 11,
@@ -48988,9 +13731,9 @@ nil,
 17,
 15,
 },
-[13] = {
-10,
-12,
+[12] = {
+15,
+16,
 },
 },
 {
@@ -49010,6 +13753,7 @@ nil,
 [19] = {
 4,
 },
+["color"] = "3e3eff",
 [11] = {
 6,
 3,
@@ -49018,7 +13762,6 @@ nil,
 7,
 1,
 },
-["color"] = "3e3eff",
 },
 {
 [11] = {
@@ -49045,9 +13788,9 @@ nil,
 4,
 3,
 },
+["color"] = "a1ff3e",
 [19] = {
 },
-["color"] = "a1ff3e",
 },
 {
 [11] = {
@@ -49095,206 +13838,4802 @@ nil,
 },
 },
 },
-[161] = {
+[49] = {
 {
-["difficulty"] = 2,
+["difficulty"] = 20,
+["week"] = 1,
 ["value"] = {
-["currentPull"] = 8,
+["currentPull"] = 2,
 ["currentSublevel"] = 1,
-["currentDungeonIdx"] = 161,
-["selection"] = {
-8,
-},
 ["pulls"] = {
 {
 {
+3,
+},
+{
+2,
+3,
+},
+{
+3,
 4,
 },
-[24] = {
-2,
-},
-[15] = {
-},
-[3] = {
-11,
-12,
+{
+1,
 },
 ["color"] = "ff3eff",
+},
+{
+{
+4,
+},
 [4] = {
-},
-[31] = {
-1,
-},
-[17] = {
-18,
-17,
-},
-},
-{
-{
-1,
-},
-[31] = {
 2,
-},
-[15] = {
-14,
-15,
-2,
-3,
-1,
 },
 ["color"] = "3eff9e",
-[4] = {
-6,
-1,
-2,
-},
-[24] = {
-3,
-},
 },
 {
-[17] = {
-1,
-7,
+{
+11,
 },
-[15] = {
-4,
-5,
-16,
-17,
+{
+6,
 },
-[3] = {
-1,
-2,
-15,
+{
+10,
+},
+{
+6,
 },
 ["color"] = "ff3e3e",
-[4] = {
-7,
-},
-[2] = {
-1,
-2,
-8,
-},
 },
 {
-{
-6,
-},
-{
-},
-{
-},
-{
-3,
-},
-[24] = {
-6,
-},
-[17] = {
-10,
-8,
-9,
-},
-[15] = {
-6,
-7,
-8,
-9,
-},
 ["color"] = "3e9eff",
-},
-{
-{
-5,
-},
-{
+[4] = {
 9,
+7,
+8,
+},
 },
 {
-16,
+{
+12,
+13,
+},
+{
+7,
+},
+{
+12,
+11,
 },
 ["color"] = "fffb3e",
-[24] = {
-7,
-},
 },
 {
 {
-7,
+14,
+},
+{
+8,
+},
+{
+13,
+14,
+},
+{
+11,
+10,
 },
 ["color"] = "3eff3e",
-[24] = {
+},
+{
+{
+16,
+17,
+15,
+},
+[4] = {
+13,
+12,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[5] = {
+1,
+},
+},
+{
+[6] = {
+4,
+3,
+},
+[7] = {
+11,
+12,
+13,
+21,
+16,
+17,
+18,
+20,
+22,
+24,
+25,
+26,
+27,
+14,
+28,
+23,
+19,
+15,
+},
+[8] = {
+8,
+},
+["color"] = "ff9b3e",
+[9] = {
 5,
 },
 },
 {
-["color"] = "ff3e9e",
+[8] = {
+9,
+10,
+},
+[9] = {
+6,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[6] = {
+6,
+5,
+7,
+},
+[9] = {
+7,
+8,
+},
+},
+{
+[11] = {
+1,
+},
+[10] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[12] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[15] = {
+1,
+},
+},
+{
+[13] = {
+2,
+},
+[15] = {
+2,
+},
+["color"] = "3e9eff",
+[14] = {
+3,
+1,
+},
 [16] = {
 1,
 },
 },
 {
-nil,
-{
-11,
+["color"] = "fffb3e",
+[16] = {
+3,
+2,
+},
+[13] = {
+3,
+1,
+},
 },
 {
+[13] = {
+4,
+},
+[15] = {
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+4,
+2,
+},
+[16] = {
+4,
+},
+},
+{
+["color"] = "ff3e9e",
+[17] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[18] = {
+2,
+1,
+10,
+},
+},
+{
+[18] = {
+3,
+4,
+},
+[13] = {
+5,
+},
+["color"] = "ff9b3e",
+[14] = {
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[15] = {
+4,
+},
+},
+{
+[18] = {
+11,
+12,
+6,
+5,
+},
+[16] = {
+5,
+},
+[13] = {
+6,
+},
+["color"] = "a1ff3e",
+},
+{
+[18] = {
+8,
+7,
+9,
+},
+[19] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[20] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 49,
+["teeming"] = false,
+["selection"] = {
+2,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[113] = {
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+36,
+2,
+35,
+37,
+3,
+5,
+4,
+6,
+12,
+},
+["color"] = "ff3eff",
+[4] = {
+6,
+7,
+},
+},
+{
+{
+26,
+27,
+28,
+24,
+25,
+23,
+},
+{
+7,
+6,
+8,
+29,
+30,
+32,
+31,
+},
+{
+6,
+},
+["color"] = "3eff9e",
+[7] = {
+1,
+},
+},
+{
+{
+30,
+32,
+31,
+29,
+},
+nil,
+{
+5,
+},
+{
+23,
+24,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+20,
 21,
-17,
-18,
 22,
 },
 {
+36,
+38,
+37,
+27,
+28,
+26,
+},
+{
+8,
+},
+{
+20,
+19,
+16,
+14,
+15,
+},
+["color"] = "3e9eff",
+},
+{
+{
+18,
+17,
+19,
+},
+{
+20,
+21,
+22,
+},
+["color"] = "fffb3e",
+[6] = {
+1,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[2] = {
+16,
+17,
+15,
+24,
+25,
+23,
+},
+[5] = {
+1,
+},
+[3] = {
+4,
+},
+},
+{
+{
+34,
+},
+[11] = {
+1,
+},
+[8] = {
+2,
+3,
+1,
+4,
+5,
+6,
+7,
+},
+[10] = {
+1,
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+},
+},
+{
+[11] = {
+4,
+},
+[8] = {
+33,
+34,
+36,
+35,
+38,
+37,
+39,
+},
+[10] = {
+4,
+10,
+11,
+},
+["color"] = "3effff",
+[9] = {
+3,
+10,
+11,
+},
+[12] = {
+5,
+},
+},
+{
+[11] = {
+5,
+},
+[8] = {
+43,
+40,
+41,
+42,
+},
+[10] = {
+12,
+8,
+},
+["color"] = "ff9b3e",
+[9] = {
+12,
+},
+[12] = {
+6,
+7,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "dIK14nNgOvd",
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"727.6",
+"-465.3",
+1,
+true,
+"The % is still shifting on TWW Beta. this is the best current 100%. Trust the route!\nHave suggestions? Come say hi  twitch.tv/thebunten",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"545.1",
+"-138.6",
+1,
+true,
+"Avoid web traps and quickly eliminate Starved Crawlers before they gain too much power.\n\nHealers: Be ready to dispel [Web Wrap] and manage party-wide damage from [Gossamer Onslaught] and [Alerting Shrill].\nWatch out for [Insatiable], making Avanoxx more dangerous as the fight progresses. Burn her down quickly to avoid overwhelming pressure.\nDamage Dealers:\nAvoid [Vile Webbing] and focus on burning down Starved Crawlers quickly to prevent them from growing too strong.\n\nTanks:\nMitigate [Voracious Bite] and move away from [Vile Webbing]. Ensure Starved Crawlers fixate on you by managing [Hunger].",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"80.1",
+"-193.5",
+1,
+true,
+"Add always spawns after the burrow. Be sure to interupt and you win.\n\nHealers:Keep players affected by [Infestation] topped up to handle the burst from [Ceaseless Swarms].\nManage healing in tight spaces when [Eye of the Swarm] limits mobility.\n\nDamage Dealers:Avoid standing in front of Anub'Zekt to dodge [Burrow Charge].\nQuickly deal with [Ceaseless Swarms] from players affected by [Infestation].\n\nTanks:Position carefully to avoid getting hit by [Impale] and knocked back.\nManage threat while positioning for [Eye of the Swarm] limitations.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"239.2",
+"-485.3",
+1,
+true,
+"Players must carefully navigate around Black Blood puddles to avoid being rooted by Grasping Blood, and position themselves strategically to avoid the pull from Cosmic Singularity. Healing cooldowns are crucial to survive the burst damage following the pull.  Use stuns or movement speed out of roots.\n\nHealers: Watch for players stuck in Black Blood and prepare to heal through the Cosmic Singularity damage.\n\nDamage Dealers: Avoid Black Blood to maintain mobility and maximize uptime on the boss. Save burst cooldowns for after Cosmic Singularity.\n\nTanks: Position Ki'katal to keep the group away from Black Blood puddles. Mitigate the incoming Cosmic Singularity burst damage effectively.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"357.5",
+"-186.6",
+1,
+true,
+"This south side requires fewer interupts and less chaos for a PUG.",
+},
+},
+},
+["value"] = {
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+6,
+12,
+35,
+36,
+37,
+},
+{
+6,
+7,
+8,
+},
+nil,
+{
+6,
+7,
+},
+["color"] = "ff3eff",
+},
+{
+{
+23,
+24,
+25,
+26,
+27,
+28,
+},
+{
+29,
+30,
+31,
+32,
+},
+{
+6,
+},
+[7] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+29,
+30,
+31,
+32,
+16,
+},
+{
+20,
+21,
+22,
+36,
+37,
+38,
+34,
+33,
+35,
+18,
+19,
+},
+{
+5,
+8,
+},
+{
+14,
+15,
+16,
+23,
+24,
+13,
+},
+nil,
+{
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+17,
+18,
+19,
+},
+{
+23,
+24,
+25,
+},
+{
+4,
+},
+[5] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+{
+20,
+21,
+22,
+},
+{
+26,
+27,
+28,
+},
+nil,
+{
+19,
+20,
+},
+[17] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+{
+34,
+},
+[8] = {
+1,
+2,
+3,
+4,
+5,
+},
+[10] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[11] = {
+1,
+},
+["color"] = "ff3e9e",
+[8] = {
+6,
+7,
+},
+},
+{
+[8] = {
+8,
 10,
 9,
 11,
 },
-["color"] = "3effff",
-[17] = {
-11,
+[12] = {
+1,
 },
-[15] = {
+["color"] = "3effff",
+},
+{
+[11] = {
+2,
+},
+[8] = {
+12,
+13,
+14,
+15,
+},
+[10] = {
+3,
+},
+["color"] = "ff9b3e",
+[9] = {
+5,
+6,
+},
+},
+{
+[8] = {
+16,
+17,
+18,
+19,
+22,
+},
+[10] = {
+2,
+4,
+},
+["color"] = "3e3eff",
+[9] = {
+3,
+},
+[12] = {
+2,
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+6,
+7,
+},
+[9] = {
+7,
+8,
+9,
+},
+},
+{
+[8] = {
+23,
+24,
+},
+[10] = {
+8,
+},
+[12] = {
+6,
+7,
+},
+["color"] = "ff3eff",
+},
+{
+[8] = {
+27,
+28,
+25,
+29,
+26,
+30,
+},
+["color"] = "3eff9e",
+},
+{
+[11] = {
+6,
+},
+["color"] = "ff3e3e",
+},
+{
+[18] = {
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+[14] = {
+1,
+2,
+3,
+4,
+5,
+},
+[13] = {
+1,
+},
+[16] = {
+3,
+4,
+16,
+17,
+},
+["color"] = "fffb3e",
+},
+{
+[14] = {
+6,
+7,
+8,
+9,
+10,
+},
+[13] = {
+7,
+8,
+},
+[16] = {
+18,
+19,
 20,
 21,
 22,
-23,
 },
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+},
+{
+[20] = {
+1,
+},
+["color"] = "3effff",
 },
 {
 ["color"] = "ff9b3e",
-[6] = {
-18,
-17,
 },
-[4] = {
-12,
-15,
-14,
 },
-[15] = {
-24,
-25,
-27,
-26,
-29,
-28,
+},
+["text"] = "Route 1",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 2,
+["uid"] = "fc(w41j2iay",
+["mdi"] = {
+["beguiling"] = 1,
+["freehold"] = 1,
+["freeholdJoined"] = false,
+},
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"727.6",
+"-465.3",
+1,
+true,
+"The % is still shifting on TWW Beta. this is the best current 100%. Trust the route!\nHave suggestions? Come say hi  twitch.tv/thebunten",
 },
 },
 {
+["n"] = true,
+["d"] = {
+"545.1",
+"-138.6",
+1,
+true,
+"Avoid web traps and quickly eliminate Starved Crawlers before they gain too much power.\n\nHealers: Be ready to dispel [Web Wrap] and manage party-wide damage from [Gossamer Onslaught] and [Alerting Shrill].\nWatch out for [Insatiable], making Avanoxx more dangerous as the fight progresses. Burn her down quickly to avoid overwhelming pressure.\nDamage Dealers:\nAvoid [Vile Webbing] and focus on burning down Starved Crawlers quickly to prevent them from growing too strong.\n\nTanks:\nMitigate [Voracious Bite] and move away from [Vile Webbing]. Ensure Starved Crawlers fixate on you by managing [Hunger].",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"80.1",
+"-193.5",
+1,
+true,
+"Add always spawns after the burrow. Be sure to interupt and you win.\n\nHealers:Keep players affected by [Infestation] topped up to handle the burst from [Ceaseless Swarms].\nManage healing in tight spaces when [Eye of the Swarm] limits mobility.\n\nDamage Dealers:Avoid standing in front of Anub'Zekt to dodge [Burrow Charge].\nQuickly deal with [Ceaseless Swarms] from players affected by [Infestation].\n\nTanks:Position carefully to avoid getting hit by [Impale] and knocked back.\nManage threat while positioning for [Eye of the Swarm] limitations.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"239.2",
+"-485.3",
+1,
+true,
+"Players must carefully navigate around Black Blood puddles to avoid being rooted by Grasping Blood, and position themselves strategically to avoid the pull from Cosmic Singularity. Healing cooldowns are crucial to survive the burst damage following the pull.  Use stuns or movement speed out of roots.\n\nHealers: Watch for players stuck in Black Blood and prepare to heal through the Cosmic Singularity damage.\n\nDamage Dealers: Avoid Black Blood to maintain mobility and maximize uptime on the boss. Save burst cooldowns for after Cosmic Singularity.\n\nTanks: Position Ki'katal to keep the group away from Black Blood puddles. Mitigate the incoming Cosmic Singularity burst damage effectively.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"357.5",
+"-186.6",
+1,
+true,
+"This south side requires fewer interupts and less chaos for a PUG.",
+},
+},
+{
+["d"] = {
+148.6015173640026,
+-152.8788128890059,
+1,
+true,
+"LOCK SKIP",
+},
+["n"] = true,
+},
+},
+["value"] = {
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+15,
+},
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+6,
+12,
+35,
+36,
+37,
+10,
+9,
+},
+{
+6,
+7,
+8,
+},
+nil,
+{
+6,
+7,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+23,
+24,
+25,
+26,
+27,
+28,
+},
+{
+29,
+30,
+31,
+32,
+},
+{
+6,
+},
+[7] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+29,
+30,
+31,
+32,
+16,
+},
+{
+20,
+21,
+22,
+36,
+37,
+38,
+34,
+33,
+35,
+18,
+19,
+},
+{
+5,
+8,
+},
+{
+14,
+15,
+16,
+23,
+24,
+13,
+},
+nil,
+{
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+17,
+18,
+19,
+},
+{
+23,
+24,
+25,
+},
+{
+4,
+},
+{
+},
+{
+1,
+},
+["color"] = "3e9eff",
+},
+{
+{
+20,
+21,
+22,
+},
+{
+26,
+27,
+28,
+},
+nil,
+{
+19,
+20,
+},
+[17] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+{
+34,
+},
+[8] = {
+1,
+2,
+3,
+4,
+5,
+},
+[10] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[8] = {
+6,
+7,
+},
+[11] = {
+1,
+},
+},
+{
+[8] = {
+8,
+10,
+9,
+11,
+},
+[12] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+2,
+},
+[8] = {
+12,
+13,
+14,
+15,
+},
+[10] = {
+3,
+},
+["color"] = "ff9b3e",
+[9] = {
+5,
+6,
+},
+},
+{
+[8] = {
+16,
+17,
+18,
+19,
+22,
+},
+[10] = {
+2,
+4,
+},
+["color"] = "3e3eff",
+[9] = {
+3,
+},
+[12] = {
+2,
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+6,
+7,
+},
+[9] = {
+7,
+8,
+9,
+},
+[12] = {
+4,
+},
+},
+{
+[8] = {
+23,
+24,
+},
+[10] = {
+8,
+},
+[12] = {
+6,
+7,
+},
+["color"] = "ff3eff",
+},
+{
+[18] = {
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[14] = {
+1,
+2,
+3,
+4,
+5,
+},
+[13] = {
+1,
+},
+[16] = {
+3,
+4,
+16,
+17,
+1,
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+[13] = {
+7,
+8,
+},
+[15] = {
+},
+["color"] = "3e9eff",
+[14] = {
+9,
+7,
+8,
+10,
+6,
+},
+[16] = {
+21,
+22,
+19,
+18,
+20,
+},
+},
+{
+[20] = {
+1,
+},
+["color"] = "fffb3e",
+},
+},
+},
+["text"] = "Route 1 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 3,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 10,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+10,
+},
+["pulls"] = {
+{
+{
+35,
+2,
+36,
+3,
+37,
+6,
+4,
+5,
+10,
+9,
+12,
+},
+{
+6,
+7,
+8,
+},
+nil,
+{
+2,
+6,
+7,
+4,
+5,
+},
+["color"] = "ff3eff",
+},
+{
+{
+31,
+32,
+30,
+26,
+27,
+28,
+29,
+24,
+25,
+23,
+},
+{
+29,
+30,
+32,
+31,
+},
+{
+5,
+6,
+},
+["color"] = "3eff9e",
+[7] = {
+1,
+},
+},
+{
+{
+20,
+21,
+22,
+},
+{
+26,
+27,
+28,
+38,
+36,
+37,
+},
+{
+8,
+},
+{
+23,
+24,
+19,
+20,
+15,
+16,
+14,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+17,
+18,
+19,
+},
+{
+17,
+16,
+15,
+21,
+20,
+22,
+},
+{
+},
+["color"] = "3e9eff",
 [6] = {
+1,
+},
+},
+{
+[3] = {
+4,
+},
+[2] = {
+24,
+25,
+23,
+},
+[5] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[17] = {
+1,
+},
+},
+{
+{
+34,
+},
+[8] = {
+2,
+3,
+1,
+4,
+5,
+},
+[10] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "ff3e9e",
+},
+{
+[11] = {
+1,
+},
+[8] = {
+6,
+7,
+},
+[10] = {
+4,
+},
+["color"] = "3effff",
+[9] = {
+3,
+},
+},
+{
+[11] = {
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[9] = {
+5,
+},
+[12] = {
+1,
+},
+},
+{
+[11] = {
+2,
+},
+[8] = {
+},
+[10] = {
+},
+[12] = {
+},
+["color"] = "3e3eff",
+},
+{
+[8] = {
+24,
+22,
+23,
+},
+[10] = {
+13,
+3,
+},
+[12] = {
+3,
+},
+[9] = {
+4,
+6,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[10] = {
+7,
+6,
+},
+[9] = {
+7,
+8,
+9,
+},
+[12] = {
+4,
+},
+},
+{
+[8] = {
+},
+[10] = {
+8,
+},
+[12] = {
+6,
+7,
+},
+["color"] = "3eff9e",
+},
+{
+[11] = {
+6,
+},
+[8] = {
+27,
+28,
+25,
+29,
+26,
+30,
+},
+["color"] = "ff3e3e",
+},
+{
+[18] = {
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[13] = {
+1,
+},
+[14] = {
+4,
+1,
+2,
+5,
+3,
+},
+[16] = {
+},
+},
+{
+[14] = {
+6,
+7,
+8,
+9,
+10,
+},
+[13] = {
+2,
+3,
+},
+[15] = {
+1,
+},
+["color"] = "3eff3e",
+},
+},
+},
+["text"] = "Route 3",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["objects"] = {
+},
+["week"] = 1,
+["addonVersion"] = 528,
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+32,
+30,
+31,
+28,
+27,
+26,
+36,
+2,
+35,
+3,
+nil,
+5,
+4,
+6,
+12,
+24,
+25,
+23,
+29,
+},
+{
+29,
+30,
+31,
+32,
+6,
+7,
+8,
+},
+{
+6,
+5,
+},
+{
+6,
+7,
+},
+[7] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+21,
+20,
+22,
+},
+{
+38,
+36,
+37,
+26,
+27,
+28,
+},
+{
+8,
+},
+{
+nil,
+nil,
+20,
+19,
+15,
+16,
+14,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+1,
+},
+[17] = {
+},
+[2] = {
+20,
+21,
+22,
+},
+},
+{
+[3] = {
+4,
+},
+[2] = {
+24,
+25,
+23,
+},
+[5] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+{
+18,
+17,
+19,
+16,
+},
+{
+18,
+19,
+17,
+16,
+15,
+},
+nil,
+{
+13,
+},
+["color"] = "fffb3e",
+},
+{
+{
+34,
+},
+[8] = {
+2,
+3,
+1,
+4,
+5,
+},
+[10] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[11] = {
+1,
+},
+[8] = {
+6,
+7,
+},
+[10] = {
+4,
+},
+["color"] = "ff3e9e",
+[9] = {
+3,
+},
+[12] = {
+},
+},
+{
+[11] = {
+4,
+},
+[10] = {
+10,
+},
+[9] = {
+10,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+33,
+34,
+36,
+35,
+39,
+38,
+37,
+},
+[10] = {
+11,
+},
+[12] = {
+5,
+},
+[9] = {
+11,
+},
+["color"] = "ff9b3e",
+},
+{
+[11] = {
+5,
+},
+[10] = {
+},
+[9] = {
+12,
+},
+["color"] = "3e3eff",
+},
+{
+[8] = {
+},
+[10] = {
+8,
+},
+[12] = {
+6,
+7,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[8] = {
+27,
+28,
+25,
+29,
+26,
+30,
+},
+[11] = {
+6,
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+1,
+},
+[14] = {
+1,
+2,
+4,
+5,
+3,
+9,
+7,
+8,
+10,
+6,
+},
+[16] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+},
+[15] = {
+1,
+},
+},
+{
+[20] = {
+},
+[13] = {
+3,
+2,
+},
+["color"] = "3e9eff",
+[14] = {
+},
+[16] = {
+},
+},
+{
+["color"] = "fffb3e",
+[20] = {
+1,
+},
+},
+},
+},
+["text"] = "Ara Kara +10",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "9r5qR)iRvJ1",
+},
+{
+["difficulty"] = 10,
+["uid"] = "4F)ErSiP2E8",
+["addonVersion"] = 550,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["pulls"] = {
+{
+{
+35,
+2,
+34,
+3,
+36,
+5,
+4,
+6,
+11,
+27,
+25,
+26,
+31,
+29,
+30,
+24,
+22,
+23,
+28,
+},
+{
+6,
+42,
+43,
+5,
+27,
+26,
+28,
+29,
+},
+{
+5,
+6,
+},
+{
+5,
+6,
+},
+[7] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+21,
+20,
+19,
+},
+{
+24,
+23,
+25,
+33,
+34,
+35,
+},
+{
+8,
+},
+{
+20,
+19,
+16,
+15,
+},
+["color"] = "3eff9e",
+},
+{
+{
+},
+{
+17,
+18,
+19,
+},
+nil,
+{
+10,
+11,
+12,
+},
+[6] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+17,
+18,
+},
+{
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+14,
+12,
+13,
+},
+{
+4,
+},
+{
+},
+{
+1,
+},
+nil,
+nil,
+{
+},
+["color"] = "3e9eff",
+[13] = {
+},
+[16] = {
+},
+},
+{
+{
+15,
+},
+{
+16,
+15,
+31,
+32,
+54,
+55,
+30,
+},
+{
+7,
+},
+{
+9,
+17,
+18,
+},
+["color"] = "fffb3e",
+[16] = {
+},
+},
+{
+["color"] = "3eff3e",
+[16] = {
+1,
+},
+[22] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+33,
+},
+[11] = {
+1,
+},
+[8] = {
+4,
+5,
+6,
+7,
+2,
+3,
+1,
+},
+[10] = {
+1,
+},
+["color"] = "ff3e9e",
+[9] = {
 2,
 1,
 },
+},
+{
+[11] = {
+2,
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[12] = {
+1,
+},
+[9] = {
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+20,
+21,
+22,
+},
+[10] = {
+11,
+3,
+},
+["color"] = "ff9b3e",
+[9] = {
+4,
+6,
+},
+[12] = {
+3,
+},
+},
+{
+["color"] = "3e3eff",
+[10] = {
+5,
+6,
+},
+[9] = {
+7,
+8,
+9,
+},
+[12] = {
+4,
+},
+},
+{
+[2] = {
+},
+[8] = {
+39,
+38,
+36,
+37,
+},
+[10] = {
+7,
+},
+[12] = {
+6,
+7,
+},
+[4] = {
+},
+["color"] = "a1ff3e",
+},
+{
+[11] = {
+5,
+},
+[8] = {
+27,
+24,
+28,
+25,
+26,
+23,
+},
+[18] = {
+},
+["color"] = "ff3eff",
+[19] = {
+},
+},
+{
+["color"] = "3eff9e",
+[17] = {
+1,
+},
+[18] = {
+1,
+},
+},
+{
+[13] = {
+1,
+4,
+},
+[15] = {
+5,
+6,
+2,
+1,
+8,
+9,
+7,
+},
+["color"] = "ff3e3e",
+[14] = {
+5,
+1,
+2,
+4,
+3,
+},
+[16] = {
+},
+[4] = {
+},
+},
+{
+[13] = {
+7,
+8,
+},
+[15] = {
+17,
+16,
+20,
+18,
+19,
+3,
+4,
+21,
+22,
+},
+["color"] = "3e9eff",
+[14] = {
+7,
+8,
+9,
+10,
+6,
+},
+[16] = {
+},
+},
+{
+[20] = {
+1,
+2,
+},
+[13] = {
+},
+[21] = {
+1,
+2,
+},
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+[16] = {
+},
+[22] = {
+},
+},
+},
+["selection"] = {
+14,
+},
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+nil,
+nil,
+{
+nil,
+nil,
+nil,
+1,
+1,
+1,
+1,
+1,
+},
+nil,
+{
+8,
+},
+{
+1,
+},
+{
+1,
+},
+nil,
+{
+8,
+8,
+nil,
+8,
+8,
+8,
+8,
+8,
+8,
+},
+{
+1,
+[6] = 1,
+[7] = 1,
+[3] = 1,
+[5] = 1,
+[11] = 1,
+},
+{
+},
+{
+1,
+[3] = 7,
+[6] = 7,
+[7] = 7,
+[4] = 7,
+},
+{
+7,
+[8] = 7,
+[7] = 7,
+[4] = 7,
+},
+nil,
+nil,
+{
+[13] = 8,
+[4] = 8,
+[14] = 8,
+[10] = 8,
+[15] = 8,
+[11] = 8,
+[16] = 8,
+[17] = 8,
+[18] = 8,
+[19] = 8,
+[20] = 8,
+[3] = 8,
+[22] = 8,
+[12] = 8,
+[21] = 8,
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["currentPull"] = 14,
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "AraKara (9 Aug)",
+["objects"] = {
+},
+["week"] = 1,
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freehold"] = 1,
+["freeholdJoined"] = false,
+},
+["week"] = 1,
+["objects"] = {
+},
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+34,
+2,
+35,
+3,
+36,
+6,
+4,
+5,
+10,
+9,
+11,
+},
+{
+7,
+44,
+45,
+},
+nil,
+{
+2,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+},
+{
+5,
+6,
+26,
+27,
+28,
+29,
+42,
+43,
+},
+{
+5,
+6,
+},
 [7] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+20,
+21,
+19,
+},
+{
+23,
+24,
+25,
+33,
+34,
+35,
+},
+{
+8,
+},
+{
+19,
+20,
+16,
+15,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+17,
+18,
+15,
+},
+{
+16,
+15,
+13,
+12,
+14,
+17,
+18,
+19,
+},
+nil,
+{
+10,
+11,
+12,
+9,
+},
+[6] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+nil,
+{
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+},
+{
+4,
+},
+{
+14,
+13,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[16] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+33,
+},
+[11] = {
 1,
 },
 [8] = {
 1,
 2,
+3,
+4,
+5,
+6,
+7,
+},
+[10] = {
+1,
+4,
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+3,
+},
+},
+{
+[11] = {
+2,
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[12] = {
+1,
+},
+[9] = {
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+20,
+21,
+22,
+},
+[10] = {
+11,
+3,
+},
+[12] = {
+3,
+},
+[9] = {
+4,
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[10] = {
+5,
+6,
+},
+[12] = {
+4,
+},
+[9] = {
+7,
+8,
+9,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+7,
+},
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "ff3eff",
+[11] = {
+5,
+},
+[8] = {
+24,
+27,
+28,
+25,
+26,
+23,
+},
+},
+{
+[17] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[14] = {
+1,
+2,
+4,
+5,
+3,
+},
+[13] = {
+1,
+},
+[15] = {
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[13] = {
+4,
+},
+[15] = {
+5,
+6,
+8,
+9,
+7,
+},
+},
+{
+[14] = {
+7,
+8,
+9,
+10,
+6,
+},
+[13] = {
+7,
+8,
+},
+[15] = {
+16,
+17,
+19,
+18,
+20,
+21,
+22,
+},
+["color"] = "fffb3e",
+},
+{
+[19] = {
+1,
+},
+["color"] = "3eff3e",
+},
+},
+},
+["text"] = "cook 1.2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "GwMKTNT6m1D",
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freehold"] = 1,
+["freeholdJoined"] = false,
+},
+["week"] = 1,
+["objects"] = {
+},
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 113,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+34,
+2,
+35,
+3,
+36,
+6,
+4,
+5,
+10,
+9,
+11,
+},
+{
+7,
+44,
+45,
+},
+nil,
+{
+2,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+},
+{
+5,
+6,
+26,
+27,
+28,
+29,
+42,
+43,
+},
+{
+5,
+6,
+},
+[7] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+20,
+21,
+19,
+},
+{
+23,
+24,
+25,
+33,
+34,
+35,
+},
+{
+8,
+},
+{
+19,
+20,
+16,
+15,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+17,
+18,
+15,
+},
+{
+16,
+15,
+13,
+12,
+14,
+17,
+18,
+19,
+},
+nil,
+{
+10,
+11,
+12,
+9,
+},
+[6] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+nil,
+{
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+},
+{
+4,
+},
+{
+14,
+13,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[16] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+33,
+},
+[11] = {
+1,
+},
+[8] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+},
+[10] = {
+1,
+4,
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+2,
+3,
+},
+},
+{
+[11] = {
+2,
+},
+[8] = {
+8,
+10,
+9,
+11,
+12,
+14,
+13,
+15,
+},
+[12] = {
+1,
+},
+[9] = {
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+20,
+21,
+22,
+},
+[10] = {
+11,
+3,
+},
+[12] = {
+3,
+},
+[9] = {
+4,
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[10] = {
+5,
+6,
+},
+[12] = {
+4,
+},
+[9] = {
+7,
+8,
+9,
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+7,
+},
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "ff3eff",
+[11] = {
+5,
+},
+[8] = {
+24,
+27,
+28,
+25,
+26,
+23,
+},
+},
+{
+[17] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[14] = {
+1,
+2,
+4,
+5,
+3,
+},
+[13] = {
+1,
+},
+[15] = {
+2,
+1,
+3,
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[13] = {
+4,
+},
+[15] = {
+5,
+6,
+8,
+9,
+7,
+},
+},
+{
+[14] = {
+7,
+8,
+9,
+10,
+6,
+},
+[13] = {
+7,
+8,
+},
+[15] = {
+16,
+17,
+19,
+18,
+20,
+21,
+22,
+},
+["color"] = "fffb3e",
+},
+{
+[19] = {
+1,
+},
+["color"] = "3eff3e",
+},
+},
+},
+["text"] = "cook 1.2 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "8v1g2f0sHcS",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[17] = {
+{
+["difficulty"] = 30,
+["value"] = {
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 17,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["pulls"] = {
+{
+{
+4,
+3,
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[5] = {
+7,
+8,
+6,
+1,
+},
+[4] = {
+1,
+},
+[3] = {
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+11,
+9,
+10,
+14,
+12,
+},
+[4] = {
+2,
+},
+[5] = {
+4,
+5,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[15] = {
+1,
+},
+[14] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+1,
+2,
+4,
+3,
+},
+[9] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[13] = {
+1,
+},
+[12] = {
+1,
+},
+[11] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+[17] = {
+1,
+},
+["color"] = "ff9b3e",
+[26] = {
+6,
+1,
+2,
+4,
+8,
+9,
+5,
+3,
+7,
+},
+[16] = {
+1,
+},
+[37] = {
+1,
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[17] = {
+2,
+},
+[26] = {
+12,
+16,
+17,
+10,
+11,
+13,
+14,
+15,
+},
+[37] = {
+4,
+3,
+},
+},
+{
+[37] = {
+},
+[18] = {
+1,
+},
+["color"] = "a1ff3e",
+[30] = {
+1,
+},
+[17] = {
+},
+},
+{
+[20] = {
+2,
+4,
+},
+[21] = {
+5,
+4,
+},
+[39] = {
+1,
+},
+["color"] = "ff3eff",
+[19] = {
+1,
+2,
+},
+},
+{
+[21] = {
+2,
+6,
+},
+[39] = {
+2,
+},
+["color"] = "3eff9e",
+[19] = {
+3,
+},
+[23] = {
+6,
+5,
+},
+[22] = {
+1,
+},
+},
+{
+[35] = {
+1,
+},
+[27] = {
+1,
+},
+["color"] = "ff3e3e",
+[29] = {
+1,
+},
+[34] = {
+1,
+},
+[36] = {
+1,
+},
+[20] = {
+1,
+},
+[23] = {
+1,
+2,
+},
+[28] = {
+1,
+},
+},
+{
+[24] = {
+1,
+},
+[33] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[31] = {
+1,
+},
+[32] = {
+1,
+},
+[25] = {
+1,
+},
+},
+},
+},
+},
+},
+[21] = {
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+["week"] = 8,
+["difficulty"] = 6,
+["value"] = {
+["currentPull"] = 22,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[8] = {
+},
+},
+["currentDungeonIdx"] = 21,
+["teeming"] = true,
+["selection"] = {
+22,
+},
+["pulls"] = {
+{
+[6] = {
+4,
+3,
+},
+[7] = {
+20,
+},
+[8] = {
+},
+["color"] = "228b22",
+[5] = {
+3,
+1,
+2,
+7,
+30,
+},
+[9] = {
+},
+},
+{
+[8] = {
+1,
+},
+[6] = {
+6,
+7,
+},
+[9] = {
+1,
+},
+["color"] = "228b22",
+},
+{
+[5] = {
+10,
+11,
+12,
+},
+[36] = {
+1,
+},
+[7] = {
+2,
+},
+["color"] = "228b22",
+},
+{
+[8] = {
+5,
+},
+[36] = {
+3,
+},
+[7] = {
+3,
+},
+["color"] = "228b22",
+},
+{
+["color"] = "228b22",
+[7] = {
+9,
+10,
+},
+[9] = {
+6,
+},
+},
+{
+["color"] = "228b22",
+[8] = {
+9,
+},
+[7] = {
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[6] = {
+10,
+},
+[7] = {
+12,
+11,
+},
+[8] = {
+},
+["color"] = "228b22",
+[9] = {
+},
+[36] = {
+7,
+},
+},
+{
+[8] = {
+12,
+},
+[6] = {
+11,
+},
+[7] = {
+13,
+},
+["color"] = "228b22",
+},
+{
+[11] = {
+1,
+},
+[6] = {
+12,
+},
+[9] = {
+7,
+},
+["color"] = "228b22",
+},
+{
+[14] = {
+1,
+2,
+4,
+3,
+},
+[13] = {
+1,
+},
+[15] = {
+1,
+},
+["color"] = "228b22",
+},
+{
+[14] = {
+5,
+6,
+},
+[13] = {
+4,
+3,
+2,
+},
+[15] = {
+3,
+2,
+},
+["color"] = "228b22",
+},
+{
+["color"] = "228b22",
+[13] = {
+5,
+9,
+10,
+},
+[15] = {
+4,
+5,
+8,
+9,
+},
+},
+{
+[18] = {
+1,
+2,
+3,
+},
+[19] = {
+1,
+},
+["color"] = "228b22",
+},
+{
+[18] = {
+6,
+4,
+5,
+},
+[19] = {
+2,
+3,
+},
+["color"] = "228b22",
+},
+{
+["color"] = "228b22",
+[13] = {
+},
+[20] = {
+},
+[15] = {
+},
+},
+{
+[27] = {
+17,
+20,
+},
+[24] = {
+9,
+},
+[25] = {
+10,
+11,
+},
+["color"] = "228b22",
+[26] = {
+8,
+},
+},
+{
+[24] = {
+7,
+3,
+},
+["color"] = "228b22",
+},
+{
+[27] = {
+18,
+},
+[28] = {
+25,
+26,
+27,
+28,
+29,
+},
+["color"] = "228b22",
+},
+{
+[24] = {
+6,
+},
+[28] = {
+},
+["color"] = "228b22",
+},
+{
+[27] = {
+7,
+8,
+6,
+},
+[25] = {
+7,
+},
+["color"] = "228b22",
+},
+{
+[27] = {
+5,
+},
+[25] = {
+6,
+},
+["color"] = "228b22",
+[24] = {
+2,
+1,
+},
+},
+{
+[13] = {
+13,
+14,
+12,
+},
+[35] = {
+2,
+7,
+8,
+},
+[28] = {
+18,
+16,
+17,
+19,
+15,
+},
+[15] = {
+13,
+11,
+12,
+},
+[30] = {
+2,
+},
+[31] = {
+2,
+},
+[32] = {
+1,
+},
+[20] = {
+1,
+},
+["color"] = "228b22",
+},
+},
+},
+},
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["week"] = 5,
+["difficulty"] = 15,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 1,
+},
+["text"] = "Default 2",
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[11] = {
+},
+[5] = {
+},
+},
+["currentDungeonIdx"] = 21,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+3,
+30,
+7,
+10,
+11,
+12,
+13,
+14,
+15,
+25,
+26,
+27,
+28,
+29,
+21,
+20,
+18,
+19,
+},
+{
+3,
+4,
+12,
+10,
+14,
+13,
+11,
+},
+{
+20,
+21,
+2,
+9,
+10,
+19,
+6,
+7,
+8,
+12,
+11,
+15,
+14,
+13,
+},
+{
+9,
+6,
+8,
+7,
+10,
+12,
+},
+{
+7,
+3,
+6,
+4,
+5,
+},
+nil,
+{
+1,
+},
+{
+1,
+},
+{
+3,
+4,
+},
+{
+4,
+3,
+},
+{
+1,
+3,
+},
+[30] = {
+1,
+},
+[31] = {
+1,
+},
+["color"] = "228b22",
+[32] = {
+2,
+3,
+},
+[33] = {
+1,
+2,
+},
+[35] = {
+1,
+4,
+3,
+5,
+2,
+},
+[36] = {
+3,
+2,
+12,
+10,
+4,
+5,
+7,
+6,
+8,
+9,
+1,
+},
+[38] = {
+1,
+},
+[39] = {
+1,
+4,
+17,
+13,
+16,
+},
+[40] = {
+5,
+15,
+8,
+7,
+2,
+13,
+18,
+},
+[21] = {
+1,
+},
+[42] = {
+1,
+},
+[22] = {
+1,
+2,
+4,
+3,
+},
+[44] = {
+2,
+1,
+},
+[45] = {
+2,
+1,
+},
+[25] = {
+3,
+},
+[27] = {
+1,
+},
+[28] = {
+3,
+1,
+2,
+},
+[41] = {
+11,
+15,
+17,
+9,
+8,
+2,
+},
+[29] = {
+1,
+},
+[43] = {
+1,
+},
+},
+},
+},
+},
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["week"] = 2,
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Week 2 - Bolstering",
+["difficulty"] = 10,
+["value"] = {
+["selection"] = {
+31,
+},
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[2] = {
+[161241] = {
+["y"] = -135.9430412389569,
+["x"] = 272.9786296995198,
+},
+[161124] = {
+["y"] = -367.0130984933503,
+["x"] = 451.6751477327938,
+},
+[161243] = {
+["y"] = -193.045104744705,
+["x"] = 569.4317696983693,
+},
+[161244] = {
+["y"] = -127.1895486137645,
+["x"] = 473.739919640749,
+},
+},
+},
+["currentDungeonIdx"] = 21,
+["teeming"] = false,
+["currentPull"] = 31,
+["pulls"] = {
+{
+[39] = {
+1,
+},
+["color"] = "ff3eff",
+[41] = {
+11,
+},
+[5] = {
+2,
+1,
+3,
+},
+[40] = {
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[6] = {
+1,
+2,
+},
+[5] = {
+4,
+},
+},
+{
+[6] = {
+17,
+},
+[7] = {
+1,
+},
+["color"] = "ff3e3e",
+[5] = {
+5,
+6,
+},
+[40] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+3,
+4,
+},
+[7] = {
+20,
+},
+[5] = {
+30,
+7,
+},
+},
+{
+[8] = {
+4,
+},
+[9] = {
+2,
+},
+[41] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[6] = {
+5,
+},
+[40] = {
+6,
+},
+[41] = {
+12,
+},
+[5] = {
+8,
+9,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+6,
+},
+[39] = {
+2,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[43] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[5] = {
+},
+[7] = {
+},
+[40] = {
+},
+},
+{
+[8] = {
+15,
+},
+[39] = {
+3,
+},
+["color"] = "3e3eff",
+[41] = {
+6,
+},
+[5] = {
+22,
+24,
+23,
+},
+},
+{
+[7] = {
+3,
+},
+[8] = {
+5,
+},
+[39] = {
+12,
+},
+["color"] = "a1ff3e",
+[41] = {
+13,
+},
+},
+{
+[7] = {
+9,
+10,
+},
+[39] = {
+13,
+},
+["color"] = "ff3eff",
+[5] = {
+13,
+14,
+15,
+},
+[9] = {
+3,
+6,
+},
+},
+{
+[8] = {
+9,
+},
+[9] = {
+4,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+[6] = {
+8,
+10,
+},
+[7] = {
+4,
+5,
+6,
+7,
+8,
+12,
+11,
+},
+[38] = {
+1,
+},
+["color"] = "ff3e3e",
+[41] = {
+8,
+},
+[8] = {
+6,
+10,
+},
+},
+{
+[6] = {
+11,
+},
+[7] = {
+13,
+},
+[8] = {
+12,
+},
+["color"] = "3e9eff",
+[40] = {
+18,
+},
+},
+{
+[6] = {
+14,
+},
+[7] = {
+15,
+},
+["color"] = "fffb3e",
+[5] = {
+20,
+21,
+},
+[40] = {
+13,
+},
+},
+{
+[6] = {
+13,
+},
+[7] = {
+14,
+},
+["color"] = "3eff3e",
+[41] = {
+2,
+},
+[5] = {
+18,
+19,
+},
+},
+{
+[6] = {
+12,
+},
+[7] = {
+21,
+},
+["color"] = "ff3e9e",
+[41] = {
+15,
+},
+[9] = {
+7,
+},
+[11] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[12] = {
+1,
+},
+[44] = {
+},
+},
+{
+[13] = {
+1,
+},
+[15] = {
+1,
+},
+[39] = {
+4,
+17,
+},
+["color"] = "ff9b3e",
+[14] = {
+4,
+3,
+1,
+2,
+},
+[40] = {
+14,
+},
+},
+{
+[13] = {
+4,
+3,
+2,
+},
+[15] = {
+3,
+2,
+},
+[40] = {
+15,
+},
+[14] = {
+5,
+6,
+},
+["color"] = "3e3eff",
+},
+{
+[13] = {
+5,
+10,
+9,
+},
+[15] = {
+5,
+4,
+8,
+9,
+},
+[40] = {
+3,
+},
+[41] = {
+16,
+},
+["color"] = "a1ff3e",
+},
+{
+[13] = {
+6,
+},
+[15] = {
+7,
+6,
+},
+[39] = {
+5,
+},
+["color"] = "ff3eff",
+[41] = {
+10,
+},
+[16] = {
+1,
+},
+[14] = {
+7,
+},
+},
+{
+["color"] = "3eff9e",
+[44] = {
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[22] = {
+1,
+2,
+4,
+3,
+},
+[45] = {
+},
+["color"] = "ff3e3e",
+},
+{
+[27] = {
+1,
+},
+[28] = {
+1,
+2,
+3,
+},
+[25] = {
+3,
+},
+["color"] = "3e9eff",
+[41] = {
+17,
+},
+},
+{
+["color"] = "fffb3e",
+[45] = {
+},
+[26] = {
+1,
+},
+[25] = {
+2,
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[45] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[29] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[31] = {
+1,
+},
+[30] = {
+1,
+},
+[40] = {
+8,
+},
+},
+{
+[36] = {
+},
+[7] = {
+2,
+},
+[40] = {
+7,
+},
+[32] = {
+3,
+2,
+},
+[33] = {
+1,
+2,
+},
+[5] = {
+10,
+11,
+12,
+},
+[35] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[42] = {
+1,
+},
+},
+},
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[25] = {
+{
+["difficulty"] = 11,
+["week"] = 9,
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 25,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[9] = {
+},
+},
+},
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freehold"] = 1,
+["freeholdJoined"] = false,
+},
+["week"] = 9,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 1,
+},
+["value"] = {
+["selection"] = {
+1,
+},
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+},
+nil,
+{
+1,
+},
+{
+9,
+10,
+},
+{
+6,
+9,
+10,
+8,
+7,
+11,
+4,
+},
+{
+4,
+3,
+8,
+9,
+7,
+6,
+5,
+},
+{
+9,
+},
+{
+11,
+12,
+9,
+44,
+43,
+45,
+26,
+27,
+25,
+28,
+29,
+30,
+},
+{
+7,
+},
+{
+6,
+1,
+3,
+},
+{
+2,
+3,
+},
+{
+8,
+9,
+11,
+10,
+5,
+4,
+},
+{
+2,
+4,
+3,
+},
+nil,
+{
+2,
+4,
+3,
+},
+{
+2,
+1,
+3,
+4,
+},
+{
+1,
+},
+{
+1,
+},
+{
+1,
+},
+{
+5,
+4,
+},
+{
+1,
+2,
+5,
+4,
+6,
+},
+{
+6,
+4,
+3,
+},
+{
+17,
+14,
+13,
+10,
+8,
+9,
+11,
+12,
+6,
+7,
+},
+{
+4,
+2,
+3,
+5,
+6,
+8,
+},
+{
+2,
+1,
+5,
+},
+{
+3,
+1,
+},
+[29] = {
+1,
+2,
+3,
+},
+["color"] = "228b22",
+},
+},
+["currentDungeonIdx"] = 25,
+["teeming"] = false,
+["currentPull"] = 1,
+["riftOffsets"] = {
+[9] = {
+[161244] = {
+["y"] = -331.5151547739791,
+["x"] = 595.3460688074184,
+},
+[161243] = {
+["y"] = -330.3388245740537,
+["x"] = 479.1810443619242,
+},
+[161124] = {
+["y"] = -146.6743952677298,
+["x"] = 518.9421548406202,
+},
+},
+},
+},
+["text"] = "burst",
+["difficulty"] = 10,
+["objects"] = {
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[29] = {
+{
+["mdiEnabled"] = false,
+["week"] = 5,
+["value"] = {
+["currentPull"] = 10,
+["currentSublevel"] = 4,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 29,
+["teeming"] = false,
+["selection"] = {
+10,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+},
+{
+1,
+2,
+3,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+6,
+4,
+5,
+},
+{
+4,
+},
+nil,
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+1,
+},
+[17] = {
+2,
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[17] = {
+},
+[15] = {
+},
+[18] = {
+1,
+2,
+},
+["color"] = "fffb3e",
+[16] = {
+2,
+},
+},
+{
+[17] = {
+4,
+3,
+5,
+},
+[15] = {
+2,
+},
+[18] = {
+},
+["color"] = "3eff3e",
+[16] = {
+},
+},
+{
+[18] = {
+3,
+4,
+},
+[16] = {
+3,
+},
+[15] = {
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+},
+},
+{
+{
+7,
+},
+[3] = {
+3,
+2,
+},
+[4] = {
+5,
+6,
+3,
+4,
+},
+["color"] = "ff9b3e",
+},
+{
+[7] = {
+1,
+},
+[8] = {
+2,
+3,
+1,
+4,
+},
+[10] = {
+1,
 },
 ["color"] = "3e3eff",
 [9] = {
@@ -49303,18 +18642,2997 @@ nil,
 },
 {
 ["color"] = "a1ff3e",
-[6] = {
+[9] = {
+4,
+2,
+3,
+},
+},
+{
+["color"] = "ff3eff",
+[8] = {
 6,
+8,
+5,
+7,
+},
+[7] = {
+2,
+},
+[11] = {
+2,
+},
+},
+{
+["color"] = "3eff9e",
+[11] = {
+1,
+3,
+},
+},
+{
+["color"] = "ff3e3e",
+[12] = {
+1,
+2,
+3,
+},
+},
+{
+[14] = {
+1,
+},
+[13] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[6] = {
+2,
+},
+},
+{
+{
+8,
+},
+{
+6,
+5,
+7,
+},
+nil,
+{
+7,
+},
+{
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[24] = {
+4,
+3,
+1,
+2,
+},
+[25] = {
+5,
+4,
+},
+[26] = {
+},
+[27] = {
+},
+["color"] = "ff3e9e",
+[20] = {
+1,
+2,
+4,
+3,
+},
+[21] = {
+2,
+3,
+1,
+},
+[22] = {
+2,
+1,
+3,
+4,
+},
+[23] = {
+1,
+2,
+},
+},
+{
+[20] = {
+5,
+},
+[24] = {
+6,
+9,
+12,
+7,
+11,
+},
+[21] = {
+6,
+7,
+},
+["color"] = "3effff",
+[28] = {
+1,
+},
+},
+{
+[20] = {
+6,
+},
+[25] = {
+7,
+},
+["color"] = "ff9b3e",
+[26] = {
+16,
+14,
+15,
+},
+[27] = {
+3,
+4,
+},
+},
+{
+[20] = {
 8,
 7,
 },
-[9] = {
-5,
+[24] = {
+13,
+14,
+},
+[21] = {
+9,
+},
+[22] = {
+8,
+7,
+},
+[23] = {
 4,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[30] = {
+1,
+},
+},
+},
+},
+["difficulty"] = 11,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+},
+{
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+344.3108399849504,
+-440.4232910587124,
+1,
+true,
+"Use this urn on the big guy if you have a Night Fae.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+452.2339949182507,
+-473.2320716565342,
+1,
+true,
+"U-turn after this and go to Hakkar.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+480.4359654749304,
+-247.5697339372276,
+3,
+true,
+"Urn here if you have a night fae.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+503.412609276408,
+-346.3409036197118,
+2,
+true,
+"You can chain pull here as you feel safe. Also, if you have an engineer, they can turn off the slimes using the console to your left as you walk into this room.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+548.1106734965242,
+-300.3823417293904,
+1,
+true,
+"Urn here (you can combine these pulls with it if you feel safe.)",
+},
+},
+{
+["n"] = true,
+["d"] = {
+436.2790759683894,
+-218.4563607098215,
+4,
+true,
+"Urn here!\n\nWith prideful and the urn this pull should be doable but if you have extra time (which is rare in this dungeon) then you can slow down.",
+},
+},
+{
+["d"] = {
+5,
+1,
+4,
+true,
+"1bff00",
+-8,
+},
+["l"] = {
+"481.2",
+"-214.4",
+"531.1",
+"-253.4",
+},
+["t"] = {
+2.478486140709381,
+},
+},
+{
+["d"] = {
+510.2258236620871,
+-243.7520578328926,
+4,
+true,
+"Skip here with invis pot or shroud.",
+},
+["n"] = true,
+},
+},
+["week"] = 7,
+["uid"] = "bcIBLfz8TVt",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["selection"] = {
+31,
+},
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+2,
+3,
+},
+{
+2,
+3,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+6,
+4,
+5,
+},
+{
+4,
+},
+nil,
+{
+1,
+2,
+},
+{
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+1,
+},
+},
+{
+{
+7,
+},
+[4] = {
+4,
+6,
+3,
+5,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[3] = {
+2,
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+1,
+},
+[17] = {
+1,
+2,
+},
+[15] = {
+1,
+},
+},
+{
+[18] = {
+1,
+2,
+},
+[16] = {
+2,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[15] = {
+2,
+},
+[17] = {
+3,
+4,
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[16] = {
+3,
+},
+[15] = {
+3,
+},
+[18] = {
+4,
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[19] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[7] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[10] = {
+1,
+},
+[9] = {
+1,
+},
+[8] = {
+2,
+3,
+1,
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[9] = {
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[7] = {
+2,
+},
+},
+{
+["color"] = "fffb3e",
+[11] = {
+2,
 },
 [8] = {
 5,
 6,
+8,
+7,
+},
+},
+{
+["color"] = "3eff3e",
+[11] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[11] = {
+3,
+},
+},
+{
+["color"] = "3effff",
+[12] = {
+2,
+1,
+3,
+},
+},
+{
+[14] = {
+1,
+},
+[13] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[6] = {
+2,
+},
+},
+{
+[5] = {
+2,
+},
+[2] = {
+6,
+5,
+7,
+},
+["color"] = "a1ff3e",
+},
+{
+{
+8,
+},
+[4] = {
+7,
+},
+["color"] = "ff3eff",
+},
+{
+[20] = {
+2,
+1,
+3,
+4,
+},
+[24] = {
+1,
+2,
+},
+[21] = {
+1,
+},
+[22] = {
+},
+[23] = {
+},
+["color"] = "3eff9e",
+},
+{
+[24] = {
+3,
+4,
+},
+[21] = {
+2,
+3,
+},
+["color"] = "ff3e3e",
+[23] = {
+1,
+},
+[22] = {
+2,
+1,
+},
+},
+{
+[24] = {
+},
+[28] = {
+},
+[21] = {
+},
+["color"] = "3e9eff",
+[26] = {
+},
+[23] = {
+2,
+},
+[22] = {
+3,
+4,
+},
+},
+{
+[27] = {
+},
+[24] = {
+6,
+9,
+},
+[21] = {
+6,
+},
+[22] = {
+},
+[26] = {
+13,
+2,
+7,
+5,
+1,
+8,
+3,
+6,
+},
+[23] = {
+},
+["color"] = "fffb3e",
+},
+{
+[24] = {
+5,
+8,
+10,
+7,
+11,
+12,
+},
+[25] = {
+},
+[26] = {
+},
+[27] = {
+},
+["color"] = "3eff3e",
+[20] = {
+5,
+},
+[21] = {
+4,
+8,
+5,
+7,
+},
+[22] = {
+},
+[23] = {
+},
+},
+{
+[20] = {
+8,
+7,
+},
+[24] = {
+},
+[21] = {
+},
+[25] = {
+},
+[22] = {
+8,
+7,
+},
+[26] = {
+},
+[23] = {
+4,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[29] = {
+1,
+},
+},
+{
+[24] = {
+},
+[25] = {
+},
+[26] = {
+},
+[27] = {
+},
+["color"] = "ff9b3e",
+[30] = {
+1,
+},
+[20] = {
+},
+[22] = {
+},
+[23] = {
+},
+},
+},
+["currentDungeonIdx"] = 29,
+["teeming"] = false,
+["currentPull"] = 31,
+["riftOffsets"] = {
+[5] = {
+},
+[6] = {
+},
+[4] = {
+},
+[7] = {
+},
+},
+},
+["text"] = "Tyrannical DOS",
+["mdi"] = {
+["freehold"] = 1,
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+},
+["difficulty"] = 15,
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[34] = {
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["week"] = 5,
+["difficulty"] = 11,
+["value"] = {
+["currentPull"] = 23,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 34,
+["teeming"] = false,
+["selection"] = {
+23,
+},
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[2] = {
+3,
+},
+[4] = {
+1,
+2,
+},
+[3] = {
+1,
+},
+},
+{
+{
+2,
+},
+{
+4,
+},
+nil,
+{
+3,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+3,
+},
+{
+6,
+5,
+},
+{
+2,
+},
+{
+4,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[6] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+[11] = {
+5,
+4,
+6,
+2,
+1,
+3,
+},
+[12] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[8] = {
+1,
+},
+[7] = {
+1,
+2,
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[10] = {
+1,
+},
+[9] = {
+1,
+},
+[8] = {
+5,
+},
+},
+{
+["color"] = "ff9b3e",
+[7] = {
+25,
+21,
+22,
+24,
+23,
+},
+},
+{
+[11] = {
+16,
+},
+[13] = {
+4,
+},
+[8] = {
+7,
+},
+[10] = {
+6,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[11] = {
+13,
+15,
+14,
+},
+},
+{
+["color"] = "ff3eff",
+[12] = {
+9,
+},
+[11] = {
+9,
+10,
+12,
+11,
+},
+},
+{
+[3] = {
+6,
+},
+[7] = {
+18,
+20,
+19,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[10] = {
+5,
+},
+[9] = {
+5,
+},
+[13] = {
+3,
+},
+},
+{
+[11] = {
+8,
+},
+[7] = {
+17,
+},
+[10] = {
+4,
+},
+["color"] = "3e9eff",
+[9] = {
+4,
+},
+[12] = {
+8,
+},
+},
+{
+["color"] = "fffb3e",
+[14] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[15] = {
+1,
+},
+},
+{
+[3] = {
+8,
+},
+[16] = {
+2,
+},
+[17] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[21] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[20] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[23] = {
+1,
+},
+},
+},
+},
+},
+{
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["week"] = 7,
+["objects"] = {
+{
+["d"] = {
+430.9582821224306,
+-352.7184213868451,
+2,
+true,
+"This pull is very scary for tanks - if you're not confident, save the praetor for later as it makes it hard to kite effectively.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+364.9717240165942,
+-393.1214129010223,
+3,
+true,
+"You can jump just on this brazier to skip this",
+},
+["n"] = true,
+},
+{
+["d"] = {
+5,
+1,
+3,
+true,
+"1bff00",
+-8,
+},
+["l"] = {
+"351.7",
+"-401.8",
+"437.5",
+"-259.2",
+},
+["t"] = {
+-2.112917566113468,
+},
+},
+{
+["d"] = {
+379.8041892500016,
+-375.9829983550072,
+3,
+true,
+"You can get on the ledge out here to skip this pack.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+398.5442382779448,
+-331.8951420602106,
+3,
+true,
+"Sap/imprison the right most enemy or use mind soothe or shroud or someone with stealth and a multi-person mount to get up on the side without pulling this pack.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+418.6681329982712,
+-297.3257553551349,
+3,
+true,
+"Invis pots, shroud, or mind soothe through these two packs.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+435.6533241741592,
+-275.5672074988386,
+3,
+true,
+"Pull these guys behind this pillar to group them up.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+412.4329025156983,
+-247.1571435813432,
+3,
+true,
+"Pull the next pack behind this pillar also (can do this after boss if CDs are ready)",
+},
+["n"] = true,
+},
+{
+["d"] = {
+353.7983413701378,
+-281.3842739487234,
+2,
+true,
+"This pack is very buggy and annoying, be careful!",
+},
+["n"] = true,
+},
+{
+["d"] = {
+535.2258232221793,
+-199.5476017795477,
+2,
+true,
+"You can use CC here, just beware because pride will spawn after only one or two kills.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+526.7473072405286,
+-208.1210568963102,
+1,
+true,
+"Pull more slowly if scared of explosives",
+},
+["n"] = true,
+},
+{
+["d"] = {
+389.2738938292158,
+-370.6004211021286,
+4,
+true,
+"You can do this more slowly if you're scared or don't have Kyrian spears from earlier in the dungeon!",
+},
+["n"] = true,
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "1.6 SOA w/ Skips by Dratnos",
+["difficulty"] = 15,
+["value"] = {
+["currentPull"] = 23,
+["currentSublevel"] = 2,
+["riftOffsets"] = {
+[7] = {
+},
+},
+["currentDungeonIdx"] = 34,
+["teeming"] = false,
+["selection"] = {
+23,
+},
+["pulls"] = {
+{
+{
+1,
+},
+{
+2,
+1,
+3,
+},
+nil,
+{
+2,
+1,
+},
+["color"] = "648fff",
+},
+{
+["color"] = "dc267f",
+[3] = {
+1,
+},
+},
+{
+{
+2,
+},
+{
+4,
+},
+nil,
+{
+3,
+},
+["color"] = "fe6100",
+},
+{
+{
+3,
+},
+{
+6,
+5,
+},
+{
+2,
+},
+{
+4,
+},
+["color"] = "ffb000",
+},
+{
+["color"] = "648fff",
+[11] = {
+3,
+1,
+2,
+},
+},
+{
+[11] = {
+6,
+4,
+5,
+},
+[6] = {
+},
+[5] = {
+},
+["color"] = "dc267f",
+},
+{
+[8] = {
+1,
+},
+[7] = {
+1,
+2,
+3,
+},
+["color"] = "fe6100",
+},
+{
+["color"] = "ffb000",
+[8] = {
+3,
+2,
+4,
+},
+},
+{
+["color"] = "648fff",
+[10] = {
+1,
+},
+[9] = {
+1,
+},
+[8] = {
+5,
+},
+},
+{
+["color"] = "dc267f",
+[7] = {
+24,
+21,
+22,
+25,
+23,
+},
+},
+{
+[11] = {
+16,
+},
+[13] = {
+4,
+},
+[8] = {
+7,
+},
+[10] = {
+6,
+},
+["color"] = "fe6100",
+},
+{
+["color"] = "ffb000",
+[11] = {
+15,
+13,
+14,
+},
+},
+{
+["color"] = "648fff",
+[12] = {
+9,
+},
+[11] = {
+9,
+10,
+12,
+11,
+},
+},
+{
+[3] = {
+6,
+},
+[7] = {
+18,
+20,
+19,
+},
+["color"] = "dc267f",
+},
+{
+["color"] = "fe6100",
+[10] = {
+5,
+},
+[9] = {
+5,
+},
+[13] = {
+3,
+},
+},
+{
+[11] = {
+8,
+},
+[7] = {
+17,
+},
+[10] = {
+4,
+},
+["color"] = "ffb000",
+[9] = {
+4,
+},
+[12] = {
+8,
+},
+},
+{
+["color"] = "648fff",
+[14] = {
+1,
+},
+},
+{
+["color"] = "dc267f",
+[15] = {
+1,
+},
+},
+{
+["color"] = "fe6100",
+[18] = {
+9,
+7,
+8,
+10,
+12,
+11,
+},
+},
+{
+["color"] = "ffb000",
+[19] = {
+1,
+},
+},
+{
+["color"] = "648fff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "dc267f",
+[21] = {
+1,
+},
+},
+{
+["color"] = "fe6100",
+[20] = {
+1,
+},
+},
+},
+},
+},
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["week"] = 9,
+["difficulty"] = 11,
+["value"] = {
+["currentPull"] = 22,
+["currentSublevel"] = 3,
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+2,
+3,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+2,
+},
+{
+4,
+},
+{
+1,
+},
+{
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+3,
+},
+{
+6,
+5,
+},
+{
+2,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+[11] = {
+2,
+1,
+3,
+5,
+4,
+6,
+},
+[12] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[8] = {
+4,
+2,
+3,
+},
+},
+{
+[7] = {
+},
+[8] = {
+5,
+},
+[10] = {
+1,
+},
+["color"] = "ff3e9e",
+[9] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[7] = {
+24,
+21,
+22,
+25,
+23,
+},
+},
+{
+[11] = {
+16,
+},
+[13] = {
+4,
+},
+[8] = {
+7,
+},
+[10] = {
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[11] = {
+13,
+15,
+14,
+},
+},
+{
+["color"] = "a1ff3e",
+[12] = {
+9,
+},
+[11] = {
+9,
+10,
+12,
+11,
+},
+},
+{
+[3] = {
+6,
+},
+[7] = {
+18,
+20,
+19,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[10] = {
+5,
+},
+[9] = {
+5,
+},
+[13] = {
+3,
+},
+},
+{
+[11] = {
+8,
+},
+[7] = {
+17,
+},
+[10] = {
+4,
+},
+["color"] = "ff3e3e",
+[9] = {
+4,
+},
+[12] = {
+8,
+},
+},
+{
+["color"] = "3e9eff",
+[14] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[15] = {
+1,
+},
+},
+{
+[3] = {
+8,
+},
+[16] = {
+2,
+},
+[17] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[19] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[21] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[20] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[23] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 34,
+["teeming"] = false,
+["selection"] = {
+22,
+},
+["riftOffsets"] = {
+{
+},
+[9] = {
+},
+},
+},
+["text"] = "Route 3",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["difficulty"] = 11,
+["week"] = 1,
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Retard Route",
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["value"] = {
+["currentPull"] = 19,
+["currentSublevel"] = 3,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 34,
+["teeming"] = false,
+["selection"] = {
+19,
+},
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+2,
+3,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[3] = {
+1,
+},
+},
+{
+{
+2,
+},
+{
+4,
+},
+nil,
+{
+3,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+3,
+},
+{
+6,
+5,
+},
+{
+2,
+},
+{
+4,
+},
+["color"] = "3e9eff",
+[11] = {
+6,
+4,
+5,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+[11] = {
+1,
+2,
+3,
+},
+["color"] = "3eff3e",
+[8] = {
+},
+},
+{
+[8] = {
+4,
+2,
+3,
+},
+[10] = {
+},
+[9] = {
+},
+["color"] = "ff3e9e",
+},
+{
+[8] = {
+5,
+},
+[10] = {
+1,
+},
+[9] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[7] = {
+25,
+21,
+22,
+24,
+23,
+},
+},
+{
+[11] = {
+16,
+},
+[13] = {
+4,
+},
+[8] = {
+7,
+},
+[10] = {
+6,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[11] = {
+15,
+13,
+14,
+},
+},
+{
+["color"] = "ff3eff",
+[12] = {
+9,
+},
+[11] = {
+9,
+10,
+12,
+11,
+},
+},
+{
+[3] = {
+6,
+},
+[7] = {
+18,
+20,
+19,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+3,
+},
+[9] = {
+5,
+},
+[10] = {
+5,
+},
+},
+{
+[11] = {
+8,
+},
+[7] = {
+17,
+},
+[10] = {
+4,
+},
+["color"] = "3e9eff",
+[9] = {
+4,
+},
+[12] = {
+8,
+},
+},
+{
+["color"] = "fffb3e",
+[14] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[15] = {
+1,
+},
+},
+{
+[3] = {
+8,
+},
+[16] = {
+2,
+},
+[17] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[11] = {
+},
+[7] = {
+},
+[8] = {
+},
+[18] = {
+11,
+7,
+8,
+9,
+10,
+12,
+},
+["color"] = "3effff",
+},
+},
+},
+},
+{
+["difficulty"] = 30,
+["week"] = 8,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["currentPull"] = 16,
+["currentSublevel"] = 4,
+["pulls"] = {
+{
+{
+1,
+},
+{
+2,
+1,
+3,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+2,
+},
+{
+4,
+},
+nil,
+{
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+3,
+},
+{
+6,
+5,
+},
+{
+2,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+[11] = {
+2,
+1,
+3,
+},
+[12] = {
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+4,
+5,
+6,
+},
+[12] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[8] = {
+1,
+},
+[7] = {
+1,
+2,
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[8] = {
+4,
+2,
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[10] = {
+1,
+},
+[9] = {
+1,
+},
+[8] = {
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[7] = {
+21,
+22,
+24,
+25,
+23,
+},
+},
+{
+[11] = {
+16,
+},
+[13] = {
+4,
+},
+[8] = {
+7,
+},
+[10] = {
+6,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[11] = {
+15,
+13,
+14,
+},
+},
+{
+["color"] = "3eff9e",
+[12] = {
+9,
+},
+[11] = {
+9,
+10,
+12,
+11,
+},
+},
+{
+[3] = {
+6,
+},
+[7] = {
+18,
+20,
+19,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[10] = {
+5,
+},
+[9] = {
+5,
+},
+[13] = {
+3,
+},
+},
+{
+[11] = {
+8,
+},
+[7] = {
+17,
+},
+[10] = {
+4,
+},
+["color"] = "fffb3e",
+[9] = {
+4,
+},
+[12] = {
+8,
+},
+},
+{
+["color"] = "3eff3e",
+[14] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[18] = {
+12,
+7,
+8,
+9,
+10,
+11,
+},
+},
+{
+["color"] = "3effff",
+[18] = {
+2,
+1,
+4,
+5,
+3,
+6,
+},
+},
+{
+["color"] = "ff9b3e",
+[19] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[21] = {
+1,
+},
+},
+{
+[21] = {
+},
+[22] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[20] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[23] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 34,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["riftOffsets"] = {
+nil,
+nil,
+nil,
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+},
+["text"] = "1.8 SOA w/ Skips by Dratnos 2",
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+364.9717240165942,
+-393.1214129010223,
+3,
+true,
+"You can jump just on this brazier to skip this",
+},
+},
+{
+["d"] = {
+5,
+1,
+3,
+true,
+"1bff00",
+-8,
+},
+["t"] = {
+-2.112917566113468,
+},
+["l"] = {
+"351.7",
+"-401.8",
+"437.5",
+"-259.2",
+},
+},
+{
+["n"] = true,
+["d"] = {
+379.8041892500016,
+-375.9829983550072,
+3,
+true,
+"You can get on the ledge out here to skip this pack.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+398.5442382779448,
+-331.8951420602106,
+3,
+true,
+"Sap/imprison the right most enemy or use mind soothe or shroud or someone with stealth and a multi-person mount to get up on the side without pulling this pack.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+418.6681329982712,
+-297.3257553551349,
+3,
+true,
+"Invis pots, shroud, or mind soothe through these two packs.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+435.6533241741592,
+-275.5672074988386,
+3,
+true,
+"Pull these guys behind this pillar to group them up.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+412.4329025156983,
+-247.1571435813432,
+3,
+true,
+"Pull the next pack behind this pillar also (can do this after boss if CDs are ready)",
+},
+},
+{
+["n"] = true,
+["d"] = {
+353.7983413701378,
+-281.3842739487234,
+2,
+true,
+"This pack is very buggy and annoying, be careful!",
+},
+},
+{
+["n"] = true,
+["d"] = {
+535.2258232221793,
+-199.5476017795477,
+2,
+true,
+"You can use CC here, just beware because pride will spawn after only one or two kills.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+526.7473072405286,
+-208.1210568963102,
+1,
+true,
+"Pull more slowly if scared of explosives",
+},
+},
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[42] = {
+{
+["mdiEnabled"] = false,
+["difficulty"] = 30,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["value"] = {
+["currentPull"] = 8,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentDungeonIdx"] = 42,
+["teeming"] = false,
+["selection"] = {
+8,
+},
+["pulls"] = {
+{
+{
+1,
+},
+{
+9,
+1,
+2,
+3,
+},
+{
+8,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+2,
+},
+{
+4,
+},
+{
+5,
+4,
+},
+{
+3,
+},
+{
+},
+["color"] = "3eff9e",
+},
+{
+{
+},
+{
+10,
+},
+{
+6,
+},
+{
+6,
+},
+{
+},
+{
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+[6] = {
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[7] = {
+1,
+},
+},
+{
+[11] = {
+1,
+},
+[10] = {
+6,
+3,
+},
+[12] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[11] = {
+2,
+},
+[10] = {
+4,
+5,
+},
+[12] = {
+3,
+10,
+},
+["color"] = "ff3e9e",
+},
+{
+[13] = {
+3,
+},
+[10] = {
+2,
+},
+[12] = {
+8,
+},
+[14] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+3,
+},
+[10] = {
+1,
+10,
+},
+[12] = {
+4,
+9,
+},
+["color"] = "ff9b3e",
+},
+{
+[11] = {
+4,
+},
+[13] = {
+},
+[10] = {
+7,
+},
+["color"] = "3e3eff",
+[12] = {
+6,
+},
+},
+{
+["color"] = "a1ff3e",
+[22] = {
+2,
+1,
+3,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[16] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+3,
+2,
+5,
+4,
+6,
+},
+[18] = {
+1,
+},
+},
+{
+[17] = {
+22,
+},
+[10] = {
+9,
+},
+[12] = {
+7,
+},
+["color"] = "3eff9e",
+[16] = {
+9,
+10,
+5,
+},
+[18] = {
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[19] = {
+1,
+},
+[17] = {
+21,
+11,
+12,
+13,
+},
+[16] = {
+7,
+8,
+},
+},
+},
+},
+},
+},
+[122] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+[16] = {
+3,
+7,
+8,
+9,
+},
+[15] = {
+3,
+},
+[14] = {
+3,
+6,
+4,
+5,
+},
+},
+{
+[14] = {
+1,
+2,
+},
+[16] = {
+1,
+2,
+5,
+4,
+6,
+},
+[15] = {
+2,
+1,
+6,
+4,
+5,
+},
+["color"] = "3eff9e",
+},
+{
+[18] = {
+1,
+},
+[17] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[11] = {
+1,
+},
+["color"] = "3e9eff",
+[12] = {
+1,
+4,
+5,
+20,
+3,
+},
+[21] = {
+1,
+2,
+},
+},
+{
+[11] = {
+2,
+},
+["color"] = "fffb3e",
+[12] = {
+8,
+9,
+6,
+7,
+15,
+},
+[21] = {
+3,
+4,
+},
+},
+{
+[21] = {
+5,
+7,
+},
+["color"] = "3eff3e",
+[12] = {
+10,
+11,
+12,
+13,
+14,
+2,
+16,
+17,
+18,
+19,
+},
+[11] = {
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+2,
+9,
+5,
+10,
+3,
+4,
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[20] = {
+1,
+2,
+},
+[3] = {
+2,
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[2] = {
+1,
+2,
+},
+[8] = {
+1,
+},
+},
+{
+{
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+nil,
+{
+4,
+3,
+},
+{
+6,
+},
+{
+1,
+},
+{
+1,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[6] = {
+1,
+},
+[22] = {
+1,
+2,
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[7] = {
+1,
+2,
+},
+},
+{
+["color"] = "3e9eff",
+[3] = {
+4,
+},
+[4] = {
+3,
+2,
+},
+[8] = {
+2,
+3,
+},
+},
+{
+["color"] = "fffb3e",
+[5] = {
+2,
+3,
+},
+[4] = {
+4,
+},
+[3] = {
+5,
+7,
+},
+},
+{
+["color"] = "3eff3e",
+[4] = {
+6,
+},
+[8] = {
+6,
+7,
+},
+},
+{
+["color"] = "ff3e9e",
+[13] = {
+1,
+},
+[9] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 122,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[115] = {
+{
+["difficulty"] = 20,
+["uid"] = "6erVb2emu(7",
+["week"] = 1,
+["value"] = {
+["currentPull"] = 17,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+4,
+2,
+3,
+5,
+11,
+7,
+},
+{
+3,
+2,
+},
+["color"] = "ff3eff",
+[10] = {
+36,
+39,
+},
+},
+{
+{
+12,
+13,
+8,
+9,
+},
+["color"] = "3eff9e",
+[10] = {
+3,
+2,
+},
+[12] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[10] = {
+28,
+30,
+29,
+31,
+},
+[20] = {
+16,
+15,
+},
+[17] = {
+1,
+},
+},
+{
+{
+40,
+},
+["color"] = "3e9eff",
+[9] = {
+15,
+17,
+18,
+16,
+},
+[7] = {
+15,
+16,
+},
+[14] = {
+6,
+5,
+},
+},
+{
+[3] = {
+3,
+13,
+7,
+2,
+4,
+8,
+9,
+5,
+10,
+6,
+12,
+11,
+},
+[13] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+{
+46,
+47,
+},
+{
+7,
+},
+[20] = {
+13,
+14,
+12,
+},
+[17] = {
+},
+[10] = {
+38,
+37,
+25,
+24,
+},
+["color"] = "3eff3e",
+[19] = {
+1,
+},
+[7] = {
+32,
+},
+},
+{
+["color"] = "ff3e9e",
+[22] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+[21] = {
+3,
+2,
+},
+[6] = {
+2,
+3,
+},
+[4] = {
+4,
+6,
+2,
+8,
+3,
+9,
+5,
+7,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[6] = {
+7,
+4,
+5,
+},
+[7] = {
+19,
+17,
+},
+[21] = {
+6,
+7,
+4,
+},
+},
+{
+[6] = {
+8,
+9,
+6,
+},
+[7] = {
+20,
+18,
+},
+[21] = {
+5,
+},
+["color"] = "3e3eff",
+[9] = {
+20,
+19,
+},
+},
+{
+["color"] = "a1ff3e",
+[23] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[6] = {
+10,
+11,
+},
+[7] = {
+22,
+21,
+},
+[21] = {
+8,
+9,
 },
 },
 {
@@ -49323,109 +21641,1566 @@ nil,
 12,
 },
 [7] = {
+25,
+},
+[15] = {
+12,
+},
+["color"] = "3eff9e",
+[14] = {
+8,
+},
+[16] = {
+3,
+},
+},
+{
+[6] = {
+14,
+},
+[7] = {
+29,
+},
+[15] = {
+3,
+1,
+10,
+},
+["color"] = "ff3e3e",
+[14] = {
+1,
+},
+[16] = {
+7,
+1,
+},
+},
+{
+[18] = {
+1,
+},
+[7] = {
+28,
+27,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[15] = {
+7,
+8,
+9,
+4,
 5,
+6,
+},
+[7] = {
+31,
+30,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+["color"] = "3eff3e",
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+17,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["difficulty"] = 10,
+["uid"] = "QtyljzOmkmJ",
+["week"] = 2,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["currentPull"] = 3,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+2,
+4,
+5,
+7,
+8,
+9,
+12,
+13,
+},
+{
+2,
 },
 [10] = {
+},
+["color"] = "ff3eff",
+},
+{
+{
+20,
+16,
+17,
+18,
+},
+[17] = {
+},
+["color"] = "3eff9e",
+[12] = {
+1,
+},
+[9] = {
+3,
+},
+[7] = {
+},
+},
+{
+{
+},
+[20] = {
+},
+[17] = {
+1,
+},
+[10] = {
+},
+[12] = {
+},
+["color"] = "ff3e3e",
+},
+{
+{
+},
+{
+7,
+},
+["color"] = "3e9eff",
+[10] = {
+},
+[7] = {
+},
+},
+{
+{
+40,
+},
+["color"] = "fffb3e",
+[14] = {
+6,
+},
+[7] = {
+},
+[9] = {
+15,
+17,
+18,
+},
+},
+{
+["color"] = "3eff3e",
+[14] = {
+5,
+},
+[9] = {
+16,
+},
+[7] = {
+},
+},
+{
+[3] = {
 2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+},
+[13] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[10] = {
+},
+[20] = {
+},
+[19] = {
+1,
+},
+},
+{
+[22] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+[21] = {
+},
+[6] = {
+2,
+3,
+},
+[4] = {
+2,
+3,
+4,
+5,
+6,
+8,
+nil,
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[21] = {
+},
+[6] = {
+7,
+4,
+5,
+},
+[7] = {
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[6] = {
+8,
+9,
+},
+[9] = {
+20,
+},
+[7] = {
+},
+},
+{
+[6] = {
+6,
+},
+[7] = {
+},
+[21] = {
+},
+["color"] = "3eff9e",
+[9] = {
+19,
+},
+},
+{
+[23] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[21] = {
+},
+[6] = {
+10,
+11,
+},
+[7] = {
+},
+["color"] = "3e9eff",
+},
+{
+[6] = {
+12,
+13,
+},
+[7] = {
+},
+[15] = {
+},
+["color"] = "fffb3e",
+[14] = {
+7,
+},
+[16] = {
+},
+},
+{
+[14] = {
+9,
+},
+[16] = {
+},
+[15] = {
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[14] = {
+1,
+},
+[16] = {
+1,
+},
+[15] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[18] = {
+1,
+},
+[7] = {
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[7] = {
+},
+[15] = {
+5,
+4,
+},
+},
+{
+[24] = {
+1,
+},
+["color"] = "3e3eff",
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+3,
+},
+["riftOffsets"] = {
+[2] = {
+},
+},
+},
+["text"] = "YoDa Priory",
+["objects"] = {
+{
+["d"] = {
+"245.3",
+"-277.8",
+1,
+true,
+"Pull back into stairs for LOS",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"203.2",
+"-304.3",
+1,
+true,
+"If you need extra count",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"421.7",
+"-307.2",
+1,
+true,
+"Chain Pull packs",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"530.9",
+"-308",
+1,
+true,
+"Need to pull from boss or his HP is insane",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"624.2",
+"-303.2",
+1,
+true,
+"Back to stairs for miniboss (knockback)",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"499.7",
+"-280.1",
+1,
+true,
+"1️⃣ Tanks separate Trusted Guards so they don’t get stronger together.\n3️⃣ Kill enemies quickly to avoid stacking Battle Cry buffs.\n4️⃣ Dodge Hurl Spear, Ember Storm, and Brutal Smash.\n\n🛡 Tanks:\nMove Captain Dailcry away from his Trusted Guards to weaken them.\nBe ready for Pierce Armor, which causes a heavy bleed effect.\nInterrupt Elaena Emberlanz’s Divine Judgment to prevent extra damage taken.\nPosition the boss so players can avoid Hurl Spear.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"390.1",
+"-276.2",
+1,
+true,
+"1️⃣ Interrupt Burning Light to stop the boss from healing.\n2️⃣ Spread out to avoid overlapping Castigator’s Detonation explosions.\n3️⃣ Move away from Hammer of Purity impact zones AND its spinning hammers.\n4️⃣ During Vindictive Wrath, expect heavy damage—healers and tanks prepare cooldowns.\n5️⃣ On Mythic, carefully soak Sacrificial Pyre to prevent massive group damage.\n\n🛡 Tanks:\n\nBraunpyke hits much harder during Vindictive Wrath—use defensive cooldowns.\nKeep the boss positioned so players have room to dodge Hammers of Purity.\nMove away from Castigator’s Detonation explosions.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"72.7",
+"-287.7",
+1,
+true,
+"1️⃣ Interrupt Embrace the Light early to prevent stacking damage.\n2️⃣ At 50% HP, burn through Barrier of Light quickly to stop her from dealing extra damage.\n3️⃣ Dodge The Sacred Flame and Sanctified Ground—fire hurts!\n4️⃣ Look away from Blinding Light to avoid getting disoriented.\n5️⃣ Kill Arathi Neophytes and Devoted quickly before they deal too much Holy damage.\n\n🛡 Tanks:\nMurrpray deals more damage while empowered by Inner Fire—use defensive cooldowns.\nMove her away from Sanctified Ground (fire pools) to keep space open for players.\nArathor Devoted (Mythic+) deal AoE Holy damage while buffed—be ready for extra healing.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"73.9",
+"-277.7",
+1,
+true,
+"Burn shield after 50%",
+},
+["n"] = true,
+},
+{
+["l"] = {
+"239.2",
+"-272.1",
+"249.6",
+"-284.7",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"ff7d0a",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"251.2",
+"-272.5",
+"239.1",
+"-284.7",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"ff7d0a",
+-8,
+true,
+},
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "3vBw9kar2dm",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["selection"] = {
+17,
+},
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["currentPull"] = 17,
+["pulls"] = {
+{
+{
+14,
+15,
+8,
+9,
+11,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[10] = {
+4,
+2,
+36,
+},
+[12] = {
+1,
+},
+},
+{
+{
+16,
+17,
+18,
+20,
+12,
+13,
+},
+[7] = {
+6,
+},
+[10] = {
+3,
+},
+["color"] = "3eff9e",
+[9] = {
+3,
+},
+[17] = {
+1,
+},
+},
+{
+{
+41,
+42,
+43,
+44,
+},
+["color"] = "ff3e3e",
+},
+{
+[13] = {
+1,
+},
+[3] = {
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+},
+["color"] = "3e9eff",
+[14] = {
+6,
+},
+[9] = {
+17,
+18,
+},
+},
+{
+{
+40,
+},
+["color"] = "fffb3e",
+[9] = {
+15,
+12,
+13,
+},
+[7] = {
+15,
+13,
+},
+},
+{
+[7] = {
+16,
+},
+["color"] = "3eff3e",
+[19] = {
+1,
+},
+[9] = {
+16,
+},
+[14] = {
+5,
+},
+},
+{
+[22] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[6] = {
+2,
+3,
+4,
+5,
+},
+[7] = {
+17,
+},
+[21] = {
+2,
+3,
+4,
+},
+["color"] = "3effff",
+[4] = {
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+},
+},
+{
+[6] = {
+6,
+},
+[7] = {
+18,
+},
+[21] = {
+5,
+},
+["color"] = "ff9b3e",
+[9] = {
+19,
+},
+},
+{
+[6] = {
+8,
+9,
+7,
+},
+[7] = {
+20,
+19,
+},
+[21] = {
+6,
+7,
+},
+["color"] = "3e3eff",
+[9] = {
+20,
+},
+},
+{
+[23] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+[21] = {
+8,
+9,
+},
+[6] = {
+10,
+11,
+},
+[7] = {
+21,
+22,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+12,
+13,
+},
+[7] = {
+24,
+},
+[15] = {
+12,
+},
+["color"] = "3eff9e",
+[14] = {
+7,
+},
+[16] = {
+2,
+},
+},
+{
+[6] = {
+14,
+},
+[7] = {
+25,
+29,
+},
+[15] = {
+3,
+},
+["color"] = "ff3e3e",
+[14] = {
+8,
+},
+[16] = {
+3,
+},
+},
+{
+[14] = {
+9,
+1,
+},
+[16] = {
+4,
+1,
+7,
+},
+[15] = {
+2,
+11,
+1,
+10,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[18] = {
+1,
+},
+[15] = {
+4,
+5,
+6,
+},
+[7] = {
+27,
+28,
+30,
+},
+},
+{
+[7] = {
+31,
+},
+[15] = {
+7,
+8,
+9,
+},
+[25] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+},
+["color"] = "3eff3e",
+[24] = {
+1,
+},
+},
+},
+},
+["text"] = "自律的盾墙's +16",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+621.4235388022195,
+-249.0524087514635,
+1,
+true,
+"Lust",
+},
+},
+{
+["n"] = true,
+["d"] = {
+454.6821596302044,
+-270.6787097137112,
+1,
+true,
+"Lust",
+},
+},
+{
+["n"] = true,
+["d"] = {
+192.4858796155996,
+-265.8327237623109,
+1,
+true,
+"Lust",
+},
+},
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 15,
+["uid"] = "3D(s5y(ChDG",
+["addonVersion"] = 552,
+["week"] = 1,
+["value"] = {
+["pulls"] = {
+{
+{
+3,
+2,
+4,
+5,
+9,
+13,
+12,
+},
+{
+3,
 },
 ["color"] = "ff3eff",
 [9] = {
+34,
+4,
+},
+[11] = {
+1,
+},
+},
+{
+{
+22,
+20,
+21,
+19,
+},
+[7] = {
+},
+["color"] = "3eff9e",
+[19] = {
+4,
+3,
+},
+[9] = {
+11,
+},
+[16] = {
+1,
+},
+},
+{
+{
+43,
+1,
+26,
+},
+{
+1,
+},
+["color"] = "ff3e3e",
+[6] = {
+8,
+},
+[9] = {
+33,
+1,
+13,
+},
+},
+{
+{
+25,
+24,
+23,
+},
+["color"] = "3e9eff",
+[10] = {
+1,
+},
+},
+{
+{
+27,
+28,
+},
+[6] = {
 7,
+},
+[7] = {
+1,
+},
+[8] = {
+5,
+},
+["color"] = "fffb3e",
+[14] = {
+},
+[9] = {
+12,
+14,
+},
+[19] = {
+5,
+},
+},
+{
+{
+32,
+},
+["color"] = "3eff3e",
+[6] = {
+9,
+},
+[9] = {
+18,
+19,
+},
+[19] = {
+6,
+7,
+8,
+},
+},
+{
+{
+},
+[14] = {
+},
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+[18] = {
+},
+},
+{
+[20] = {
+2,
+1,
+3,
+},
+["color"] = "3effff",
+[4] = {
+2,
+6,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[5] = {
+1,
+2,
+4,
+3,
+},
+[6] = {
+17,
+},
+},
+{
+[20] = {
+4,
+},
+[8] = {
+18,
+},
+["color"] = "ff9b3e",
+[5] = {
+5,
+},
+[6] = {
+18,
+},
+},
+{
+[6] = {
+20,
+19,
+},
+[8] = {
+19,
+},
+["color"] = "3e3eff",
+[5] = {
+7,
+8,
+6,
+},
+[20] = {
+6,
+5,
+},
+},
+{
+["color"] = "a1ff3e",
+[22] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[6] = {
+21,
+22,
+},
+[20] = {
+8,
+7,
+},
+[5] = {
+9,
+10,
+},
+},
+{
+[6] = {
+},
+[13] = {
+7,
+},
+[15] = {
+2,
+},
+["color"] = "3eff9e",
+[14] = {
+12,
+},
+[5] = {
+12,
+11,
+},
+},
+{
+[6] = {
+27,
+24,
+},
+[13] = {
+8,
+},
+[15] = {
+},
+["color"] = "ff3e3e",
+[14] = {
+3,
+},
+[5] = {
+13,
+},
+[20] = {
+10,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+1,
+},
+[15] = {
+1,
+5,
+},
+[14] = {
+1,
+10,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+25,
+26,
+29,
+},
+[17] = {
+1,
+},
+[14] = {
+9,
+7,
+8,
+11,
+},
+},
+{
+[6] = {
+28,
+},
+[24] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+["color"] = "3eff3e",
+[14] = {
+5,
+4,
+6,
+},
+[23] = {
+1,
+},
+},
+},
+["currentPull"] = 14,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+[24] = 1,
+[25] = 1,
+[7] = 1,
+[27] = 1,
+[28] = 1,
+[29] = 1,
+[8] = 1,
+[17] = 1,
+[26] = 1,
+[19] = 1,
+[20] = 1,
+[21] = 1,
+[22] = 1,
+[23] = 1,
+[9] = 1,
+},
+[2] = {
+8,
+},
+[8] = {
+[5] = 1,
+[19] = 1,
+[18] = 1,
+},
+[10] = {
+8,
+},
+[17] = {
+8,
+},
+[11] = {
+8,
+},
+[5] = {
+[5] = 2,
+},
+[15] = {
+1,
+1,
+1,
+[5] = 1,
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+14,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Priory (11 Aug)",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 15,
+["week"] = 1,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["currentPull"] = 7,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+2,
+4,
+5,
+9,
+13,
+12,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[9] = {
+34,
+4,
+},
+[11] = {
+1,
+},
+},
+{
+{
+17,
+},
+[6] = {
+4,
+5,
+},
+[8] = {
+1,
+},
+["color"] = "3eff9e",
+[9] = {
+9,
+10,
+},
+[16] = {
+1,
+},
+},
+{
+{
+20,
+21,
+22,
+19,
+26,
+},
+["color"] = "ff3e3e",
+[19] = {
+4,
+3,
+},
+[9] = {
+11,
+13,
+},
+[6] = {
+8,
+},
+},
+{
+{
+43,
+1,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+[9] = {
+33,
+1,
+},
+},
+{
+{
+24,
+25,
+23,
+},
+["color"] = "fffb3e",
+[10] = {
+1,
+},
+},
+{
+{
+},
+{
+},
+[6] = {
+7,
+},
+[7] = {
+1,
+},
+[8] = {
+5,
+},
+["color"] = "3eff3e",
+[19] = {
+5,
+},
+[9] = {
+12,
+},
+},
+{
+{
+33,
+34,
+32,
+},
+{
+5,
+},
+["color"] = "ff3e9e",
+[6] = {
+9,
+},
+},
+{
+[21] = {
+1,
+},
+["color"] = "3effff",
+[18] = {
+},
+},
+{
+[20] = {
+2,
+1,
+3,
+},
+["color"] = "ff9b3e",
+[4] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[5] = {
+1,
+2,
+4,
+3,
+},
+[6] = {
+17,
+},
+},
+{
+[20] = {
+6,
+5,
+4,
+},
+[8] = {
+18,
+},
+["color"] = "3e3eff",
+[5] = {
+6,
+5,
+},
+[6] = {
+19,
+18,
+},
+},
+{
+[5] = {
+7,
+8,
+},
+[6] = {
+20,
+},
+["color"] = "a1ff3e",
+[8] = {
+19,
+},
+},
+{
+["color"] = "ff3eff",
+[22] = {
+1,
 },
 },
 {
 ["color"] = "3eff9e",
-[18] = {
-1,
+[6] = {
+21,
+22,
+},
+[20] = {
+8,
+7,
+},
+[5] = {
+9,
+10,
 },
 },
 {
-[11] = {
-1,
+[20] = {
+9,
 },
 [13] = {
-1,
+7,
+},
+[15] = {
+2,
 },
 ["color"] = "ff3e3e",
-[22] = {
-1,
-},
-[12] = {
-2,
-1,
-},
-},
-{
-[11] = {
-3,
-2,
-},
-["color"] = "3e9eff",
 [14] = {
-1,
-2,
-3,
+12,
 },
-[23] = {
-1,
-3,
-2,
-},
-[12] = {
-3,
+[5] = {
+12,
+11,
 },
 },
 {
-[11] = {
+["color"] = "3e9eff",
+[13] = {
+9,
+},
+[15] = {
 4,
-5,
+},
+[14] = {
+2,
+11,
+},
+},
+{
+[14] = {
+10,
+1,
 },
 [13] = {
-2,
-3,
+1,
 },
-[22] = {
-3,
-2,
-},
-[12] = {
-4,
+[15] = {
+1,
 5,
-},
-[14] = {
-4,
-},
-[23] = {
-4,
 },
 ["color"] = "fffb3e",
 },
 {
-[27] = {
+["color"] = "3eff3e",
+[6] = {
+25,
+26,
+28,
 },
-[21] = {
+[17] = {
 1,
 },
-[25] = {
-},
-["color"] = "3eff3e",
-[26] = {
+[14] = {
+6,
+4,
+5,
 },
 },
 {
+[6] = {
+29,
+},
+[24] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
 ["color"] = "ff3e9e",
-[25] = {
+[14] = {
+9,
+7,
+8,
+},
+[23] = {
 1,
 },
-[26] = {
-1,
-},
-[27] = {
-1,
 },
 },
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+7,
+},
+["riftOffsets"] = {
+{
 },
 },
+},
+["text"] = "Route 4",
+["objects"] = {
+},
+["uid"] = "Q9Pba1LnxWs",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
 },
 },
 [162] = {
@@ -49745,6 +23520,12438 @@ nil,
 },
 },
 },
+[164] = {
+{
+["difficulty"] = 2,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 164,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "u5tyh0pflws",
+["objects"] = {
+{
+["d"] = {
+146.4895252880461,
+-193.563485563605,
+1,
+true,
+"Lust",
+},
+["n"] = true,
+},
+{
+["d"] = {
+337.1855524281984,
+-290.0248614174853,
+1,
+true,
+"Lust",
+},
+["n"] = true,
+},
+{
+["d"] = {
+640.078707,
+-171.167219,
+1,
+true,
+"Lust",
+},
+["n"] = true,
+},
+},
+["value"] = {
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 164,
+["selection"] = {
+15,
+},
+["pulls"] = {
+{
+{
+2,
+},
+[6] = {
+5,
+6,
+9,
+},
+[7] = {
+11,
+21,
+6,
+7,
+},
+[10] = {
+1,
+},
+["color"] = "ff3eff",
+[11] = {
+11,
+12,
+13,
+14,
+15,
+},
+},
+{
+{
+1,
+},
+["color"] = "3eff9e",
+[6] = {
+1,
+2,
+8,
+},
+[7] = {
+8,
+9,
+},
+},
+{
+{
+3,
+},
+[11] = {
+22,
+23,
+24,
+},
+[6] = {
+11,
+12,
+},
+[7] = {
+12,
+13,
+14,
+15,
+17,
+18,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+4,
+},
+["color"] = "3e9eff",
+[6] = {
+13,
+14,
+},
+[7] = {
+19,
+20,
+},
+},
+{
+[11] = {
+25,
+26,
+27,
+28,
+},
+[10] = {
+2,
+3,
+},
+["color"] = "fffb3e",
+},
+{
+[14] = {
+1,
+},
+[11] = {
+16,
+17,
+18,
+},
+[7] = {
+1,
+2,
+3,
+4,
+5,
+},
+["color"] = "3eff3e",
+},
+{
+[3] = {
+1,
+4,
+},
+[2] = {
+1,
+14,
+15,
+16,
+2,
+4,
+5,
+6,
+7,
+8,
+},
+[12] = {
+2,
+},
+["color"] = "ff3e9e",
+},
+{
+[3] = {
+10,
+11,
+},
+[2] = {
+11,
+12,
+13,
+},
+[12] = {
+3,
+},
+["color"] = "3effff",
+},
+{
+[21] = {
+1,
+2,
+},
+[15] = {
+1,
+},
+[17] = {
+1,
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[3] = {
+12,
+13,
+14,
+15,
+},
+[13] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+2,
+3,
+4,
+5,
+},
+[9] = {
+1,
+},
+},
+{
+[5] = {
+13,
+14,
+15,
+16,
+17,
+18,
+},
+[13] = {
+10,
+11,
+},
+[8] = {
+2,
+},
+["color"] = "ff3eff",
+},
+{
+[5] = {
+10,
+11,
+12,
+7,
+8,
+9,
+},
+[13] = {
+16,
+17,
+},
+[8] = {
+3,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+15,
+16,
+},
+[10] = {
+4,
+},
+[13] = {
+12,
+13,
+14,
+15,
+18,
+19,
+},
+},
+{
+{
+5,
+6,
+},
+[8] = {
+4,
+},
+[13] = {
+20,
+21,
+},
+[12] = {
+},
+["color"] = "3e9eff",
+},
+},
+},
+["text"] = "Wazocutie's +19 1",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["createdBy"] = {
+["classIdx"] = 11,
+["name"] = "Wontondruid",
+["realm"] = "Mal'Ganis",
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[161] = {
+{
+["difficulty"] = 2,
+["value"] = {
+["currentPull"] = 8,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 161,
+["selection"] = {
+8,
+},
+["pulls"] = {
+{
+{
+4,
+},
+[24] = {
+2,
+},
+[15] = {
+},
+[3] = {
+11,
+12,
+},
+["color"] = "ff3eff",
+[4] = {
+},
+[17] = {
+18,
+17,
+},
+[31] = {
+1,
+},
+},
+{
+{
+1,
+},
+[31] = {
+2,
+},
+[15] = {
+14,
+15,
+2,
+3,
+1,
+},
+["color"] = "3eff9e",
+[4] = {
+6,
+1,
+2,
+},
+[24] = {
+3,
+},
+},
+{
+[17] = {
+1,
+7,
+},
+[15] = {
+4,
+5,
+16,
+17,
+},
+[3] = {
+1,
+2,
+15,
+},
+["color"] = "ff3e3e",
+[4] = {
+7,
+},
+[2] = {
+1,
+2,
+8,
+},
+},
+{
+{
+6,
+},
+{
+},
+{
+},
+{
+3,
+},
+[24] = {
+6,
+},
+["color"] = "3e9eff",
+[17] = {
+10,
+8,
+9,
+},
+[15] = {
+6,
+7,
+8,
+9,
+},
+},
+{
+{
+5,
+},
+{
+9,
+},
+{
+16,
+},
+["color"] = "fffb3e",
+[24] = {
+7,
+},
+},
+{
+{
+7,
+},
+["color"] = "3eff3e",
+[24] = {
+5,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+1,
+},
+},
+{
+nil,
+{
+11,
+},
+{
+21,
+17,
+18,
+22,
+},
+{
+10,
+9,
+11,
+},
+["color"] = "3effff",
+[17] = {
+11,
+},
+[15] = {
+20,
+21,
+22,
+23,
+},
+},
+{
+["color"] = "ff9b3e",
+[6] = {
+18,
+17,
+},
+[4] = {
+12,
+15,
+14,
+},
+[15] = {
+24,
+25,
+27,
+26,
+29,
+28,
+},
+},
+{
+[6] = {
+2,
+1,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+2,
+},
+["color"] = "3e3eff",
+[9] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[6] = {
+6,
+8,
+7,
+},
+[9] = {
+5,
+4,
+},
+[8] = {
+5,
+6,
+},
+},
+{
+[6] = {
+13,
+12,
+},
+[7] = {
+5,
+},
+[10] = {
+2,
+},
+["color"] = "ff3eff",
+[9] = {
+7,
+},
+},
+{
+["color"] = "3eff9e",
+[18] = {
+1,
+},
+},
+{
+[11] = {
+1,
+},
+[13] = {
+1,
+},
+["color"] = "ff3e3e",
+[12] = {
+2,
+1,
+},
+[22] = {
+1,
+},
+},
+{
+[11] = {
+3,
+2,
+},
+["color"] = "3e9eff",
+[14] = {
+1,
+2,
+3,
+},
+[23] = {
+1,
+3,
+2,
+},
+[12] = {
+3,
+},
+},
+{
+[11] = {
+4,
+5,
+},
+[13] = {
+2,
+3,
+},
+["color"] = "fffb3e",
+[22] = {
+3,
+2,
+},
+[14] = {
+4,
+},
+[23] = {
+4,
+},
+[12] = {
+4,
+5,
+},
+},
+{
+[27] = {
+},
+[21] = {
+1,
+},
+[25] = {
+},
+["color"] = "3eff3e",
+[26] = {
+},
+},
+{
+["color"] = "ff3e9e",
+[25] = {
+1,
+},
+[26] = {
+1,
+},
+[27] = {
+1,
+},
+},
+},
+},
+},
+},
+[116] = {
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 10,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+},
+{
+2,
+4,
+5,
+},
+{
+2,
+3,
+4,
+5,
+6,
+7,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+},
+{
+7,
+},
+{
+9,
+8,
+12,
+13,
+},
+{
+2,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[5] = {
+1,
+},
+},
+{
+{
+4,
+},
+{
+9,
+8,
+6,
+},
+{
+19,
+18,
+16,
+17,
+15,
+14,
+10,
+11,
+},
+{
+3,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[16] = {
+1,
+},
+},
+{
+[11] = {
+2,
+3,
+},
+[13] = {
+2,
+},
+["color"] = "3eff3e",
+[2] = {
+10,
+11,
+},
+[12] = {
+2,
+3,
+},
+},
+{
+[11] = {
+4,
+5,
+6,
+},
+[2] = {
+12,
+},
+[12] = {
+4,
+},
+["color"] = "ff3e9e",
+[13] = {
+3,
+4,
+},
+},
+{
+["color"] = "3effff",
+[2] = {
+13,
+14,
+},
+[12] = {
+5,
+6,
+8,
+7,
+9,
+10,
+},
+[11] = {
+7,
+},
+},
+{
+["color"] = "ff9b3e",
+[12] = {
+11,
+},
+[20] = {
+2,
+3,
+1,
+},
+[14] = {
+2,
+3,
+4,
+5,
+6,
+7,
+},
+},
+{
+[11] = {
+},
+[2] = {
+15,
+16,
+18,
+19,
+},
+[12] = {
+12,
+16,
+15,
+},
+[14] = {
+8,
+},
+[13] = {
+6,
+5,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[17] = {
+1,
+},
+[21] = {
+1,
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[6] = {
+2,
+3,
+6,
+4,
+5,
+},
+[9] = {
+2,
+},
+[8] = {
+2,
+},
+},
+{
+[6] = {
+7,
+8,
+9,
+10,
+11,
+},
+[7] = {
+2,
+3,
+},
+[8] = {
+1,
+},
+[10] = {
+5,
+2,
+3,
+4,
+1,
+},
+["color"] = "3eff9e",
+[9] = {
+3,
+},
+},
+{
+[6] = {
+13,
+12,
+},
+[7] = {
+4,
+},
+[10] = {
+6,
+7,
+8,
+10,
+9,
+11,
+},
+["color"] = "ff3e3e",
+[9] = {
+4,
+},
+},
+{
+[24] = {
+7,
+1,
+2,
+4,
+8,
+9,
+5,
+10,
+3,
+6,
+},
+[8] = {
+3,
+},
+["color"] = "3e9eff",
+[23] = {
+2,
+1,
+},
+[9] = {
+5,
+6,
+},
+[7] = {
+5,
+},
+},
+{
+[7] = {
+9,
+},
+[8] = {
+4,
+},
+[10] = {
+12,
+14,
+16,
+13,
+15,
+},
+["color"] = "fffb3e",
+[9] = {
+9,
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+45,
+42,
+44,
+46,
+43,
+36,
+32,
+33,
+34,
+35,
+30,
+27,
+28,
+29,
+31,
+},
+[18] = {
+1,
+},
+[22] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[15] = {
+3,
+2,
+4,
+5,
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 116,
+["teeming"] = false,
+["selection"] = {
+10,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[35] = {
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["week"] = 5,
+["difficulty"] = 11,
+["value"] = {
+["currentPull"] = 24,
+["currentSublevel"] = 3,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
+["selection"] = {
+24,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+4,
+3,
+5,
+},
+nil,
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[2] = {
+5,
+4,
+6,
+7,
+},
+[5] = {
+},
+},
+{
+{
+17,
+18,
+},
+nil,
+{
+5,
+6,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[7] = {
+1,
+},
+},
+{
+{
+16,
+14,
+15,
+},
+{
+14,
+13,
+},
+{
+7,
+8,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[5] = {
+3,
+},
+},
+{
+{
+8,
+},
+["color"] = "ff3e9e",
+[6] = {
+1,
+},
+[3] = {
+4,
+},
+},
+{
+["color"] = "3effff",
+[9] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[2] = {
+17,
+16,
+15,
+},
+},
+{
+["color"] = "3e3eff",
+[13] = {
+1,
+},
+[14] = {
+1,
+},
+[8] = {
+2,
+},
+},
+{
+["color"] = "a1ff3e",
+[15] = {
+1,
+},
+[9] = {
+2,
+},
+[8] = {
+3,
+4,
+},
+},
+{
+["color"] = "ff3eff",
+[13] = {
+3,
+2,
+},
+},
+{
+[13] = {
+5,
+},
+[8] = {
+7,
+},
+["color"] = "3eff9e",
+[14] = {
+2,
+},
+[9] = {
+7,
+},
+[16] = {
+},
+},
+{
+[11] = {
+4,
+3,
+},
+[17] = {
+1,
+2,
+},
+[10] = {
+3,
+},
+["color"] = "ff3e3e",
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+},
+[19] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[25] = {
+1,
+},
+[24] = {
+1,
+},
+},
+{
+{
+20,
+19,
+},
+["color"] = "3eff3e",
+[22] = {
+6,
+7,
+4,
+8,
+9,
+5,
+},
+[20] = {
+1,
+},
+},
+{
+{
+21,
+},
+[6] = {
+2,
+},
+[21] = {
+1,
+},
+["color"] = "ff3e9e",
+[22] = {
+1,
+2,
+3,
+},
+[23] = {
+1,
+},
+[20] = {
+2,
+},
+},
+{
+{
+22,
+23,
+},
+["color"] = "3effff",
+[20] = {
+3,
+},
+[21] = {
+2,
+},
+},
+{
+{
+24,
+25,
+},
+["color"] = "ff9b3e",
+[6] = {
+3,
+},
+[23] = {
+2,
+},
+[20] = {
+4,
+},
+},
+{
+["color"] = "3e3eff",
+[26] = {
+1,
+},
+[27] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[28] = {
+1,
+2,
+3,
+},
+[29] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[31] = {
+1,
+},
+[30] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[32] = {
+1,
+},
+},
+},
+},
+},
+{
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["week"] = 5,
+["difficulty"] = 11,
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 26,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
+["selection"] = {
+26,
+},
+["pulls"] = {
+{
+{
+4,
+1,
+2,
+3,
+},
+["color"] = "ff3eff",
+[3] = {
+1,
+},
+},
+{
+{
+5,
+},
+nil,
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+4,
+5,
+6,
+7,
+},
+},
+{
+{
+17,
+18,
+},
+nil,
+{
+6,
+5,
+},
+{
+4,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[7] = {
+1,
+},
+},
+{
+{
+14,
+16,
+15,
+},
+{
+14,
+13,
+},
+{
+8,
+7,
+},
+["color"] = "3eff3e",
+},
+{
+{
+8,
+},
+["color"] = "ff3e9e",
+[6] = {
+1,
+},
+[3] = {
+4,
+},
+},
+{
+[8] = {
+1,
+},
+[2] = {
+},
+[9] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[13] = {
+1,
+},
+[8] = {
+2,
+},
+["color"] = "ff9b3e",
+[14] = {
+1,
+},
+[2] = {
+16,
+17,
+15,
+},
+},
+{
+["color"] = "3e3eff",
+[15] = {
+1,
+},
+[9] = {
+2,
+},
+[8] = {
+3,
+4,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+3,
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[16] = {
+1,
+},
+},
+{
+[8] = {
+6,
+},
+[18] = {
+},
+[9] = {
+4,
+},
+["color"] = "3eff9e",
+},
+{
+[18] = {
+2,
+6,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[9] = {
+6,
+5,
+},
+["color"] = "ff3e3e",
+},
+{
+[11] = {
+4,
+3,
+},
+[17] = {
+1,
+2,
+},
+[10] = {
+3,
+},
+["color"] = "3e9eff",
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+},
+{
+{
+20,
+19,
+},
+["color"] = "3eff3e",
+[22] = {
+6,
+7,
+4,
+8,
+9,
+5,
+},
+[20] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+2,
+},
+[23] = {
+1,
+},
+},
+{
+{
+21,
+},
+["color"] = "3effff",
+[22] = {
+1,
+2,
+3,
+},
+[20] = {
+2,
+},
+[21] = {
+1,
+},
+},
+{
+{
+22,
+23,
+},
+["color"] = "ff9b3e",
+[20] = {
+3,
+},
+[21] = {
+2,
+},
+},
+{
+{
+24,
+25,
+},
+["color"] = "3e3eff",
+[6] = {
+3,
+},
+[23] = {
+2,
+},
+[20] = {
+4,
+},
+},
+{
+["color"] = "a1ff3e",
+[26] = {
+1,
+},
+[27] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "ff3eff",
+[28] = {
+1,
+2,
+3,
+},
+[29] = {
+1,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[31] = {
+1,
+},
+[30] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[32] = {
+1,
+},
+},
+},
+},
+["text"] = "Retard route",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["uid"] = "92XZqeSo42Q",
+},
+{
+["difficulty"] = 13,
+["week"] = 6,
+["value"] = {
+["currentPull"] = 24,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+1,
+4,
+3,
+},
+["color"] = "ff3eff",
+[3] = {
+},
+},
+{
+{
+5,
+},
+{
+4,
+5,
+6,
+7,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+17,
+18,
+},
+nil,
+{
+6,
+5,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[7] = {
+1,
+},
+},
+{
+{
+16,
+14,
+15,
+},
+[3] = {
+7,
+8,
+},
+["color"] = "fffb3e",
+},
+{
+{
+8,
+},
+["color"] = "3eff3e",
+[6] = {
+1,
+},
+[3] = {
+4,
+},
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+},
+[12] = {
+2,
+1,
+},
+[11] = {
+1,
+},
+},
+{
+[13] = {
+1,
+},
+[8] = {
+2,
+},
+["color"] = "3effff",
+[14] = {
+1,
+},
+[2] = {
+17,
+16,
+15,
+},
+},
+{
+["color"] = "ff9b3e",
+[8] = {
+4,
+3,
+},
+[15] = {
+1,
+},
+[9] = {
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[13] = {
+3,
+2,
+},
+},
+{
+[8] = {
+6,
+5,
+},
+[13] = {
+4,
+},
+[9] = {
+4,
+3,
+},
+["color"] = "a1ff3e",
+},
+{
+[18] = {
+2,
+6,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[9] = {
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+[11] = {
+4,
+3,
+},
+[17] = {
+1,
+2,
+},
+[10] = {
+3,
+},
+["color"] = "3eff9e",
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "ff3e3e",
+[19] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+2,
+},
+[23] = {
+1,
+},
+},
+{
+{
+20,
+19,
+},
+["color"] = "fffb3e",
+[22] = {
+9,
+7,
+4,
+8,
+5,
+6,
+},
+[20] = {
+1,
+},
+},
+{
+{
+21,
+},
+["color"] = "3eff3e",
+[22] = {
+1,
+2,
+3,
+},
+[20] = {
+2,
+},
+[21] = {
+1,
+},
+},
+{
+{
+24,
+25,
+},
+["color"] = "ff3e9e",
+[6] = {
+3,
+},
+[20] = {
+4,
+},
+[23] = {
+2,
+},
+},
+{
+{
+23,
+22,
+},
+["color"] = "3effff",
+[20] = {
+3,
+},
+[21] = {
+2,
+},
+},
+{
+["color"] = "ff9b3e",
+[28] = {
+1,
+2,
+3,
+},
+[29] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[26] = {
+1,
+},
+[27] = {
+1,
+2,
+3,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[31] = {
+1,
+},
+[30] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[32] = {
+1,
+},
+[3] = {
+},
+},
+},
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
+["selection"] = {
+24,
+},
+["riftOffsets"] = {
+[6] = {
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Default 2",
+["objects"] = {
+},
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+["week"] = 7,
+["difficulty"] = 15,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+2,
+4,
+3,
+},
+{
+2,
+1,
+3,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+},
+{
+6,
+4,
+5,
+7,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+17,
+18,
+},
+nil,
+{
+5,
+6,
+},
+{
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[7] = {
+1,
+},
+},
+{
+{
+11,
+9,
+10,
+},
+{
+14,
+13,
+},
+["color"] = "fffb3e",
+},
+{
+{
+16,
+14,
+15,
+},
+[3] = {
+7,
+8,
+},
+["color"] = "3eff3e",
+},
+{
+[8] = {
+1,
+},
+[9] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[10] = {
+1,
+},
+[12] = {
+2,
+1,
+},
+[11] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[2] = {
+17,
+16,
+15,
+},
+},
+{
+[14] = {
+1,
+},
+[13] = {
+1,
+},
+["color"] = "3e3eff",
+[8] = {
+2,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+2,
+3,
+},
+},
+{
+[8] = {
+6,
+},
+[9] = {
+4,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[18] = {
+3,
+6,
+2,
+8,
+1,
+4,
+5,
+7,
+},
+},
+{
+["color"] = "ff3e3e",
+[9] = {
+6,
+5,
+},
+},
+{
+[11] = {
+4,
+3,
+},
+[17] = {
+1,
+2,
+},
+[10] = {
+3,
+},
+["color"] = "3e9eff",
+[12] = {
+6,
+7,
+},
+},
+{
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+},
+{
+[13] = {
+5,
+},
+[8] = {
+7,
+},
+["color"] = "3eff3e",
+[14] = {
+2,
+},
+[9] = {
+7,
+},
+},
+{
+{
+20,
+19,
+},
+["color"] = "ff3e9e",
+[22] = {
+9,
+7,
+4,
+8,
+5,
+6,
+},
+[20] = {
+1,
+},
+},
+{
+{
+21,
+},
+["color"] = "3effff",
+[22] = {
+1,
+2,
+3,
+},
+[20] = {
+2,
+},
+[21] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[6] = {
+2,
+},
+[23] = {
+1,
+},
+},
+{
+{
+22,
+23,
+},
+["color"] = "3e3eff",
+[20] = {
+3,
+},
+[21] = {
+2,
+},
+},
+{
+{
+24,
+25,
+},
+["color"] = "a1ff3e",
+[6] = {
+3,
+},
+[23] = {
+2,
+},
+[20] = {
+4,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[28] = {
+1,
+2,
+3,
+},
+[29] = {
+1,
+},
+},
+{
+{
+},
+{
+11,
+8,
+9,
+10,
+12,
+},
+[27] = {
+1,
+2,
+3,
+},
+[26] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+},
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+[7] = {
+},
+},
+},
+["text"] = "Ruta 25",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["difficulty"] = 13,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+2,
+1,
+4,
+3,
+5,
+},
+{
+4,
+5,
+6,
+7,
+},
+{
+2,
+},
+{
+1,
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+{
+17,
+18,
+},
+["color"] = "3eff9e",
+[3] = {
+6,
+5,
+},
+[4] = {
+4,
+},
+[5] = {
+2,
+},
+},
+{
+{
+11,
+9,
+10,
+},
+nil,
+{
+},
+{
+},
+{
+},
+{
+},
+["color"] = "ff3e3e",
+},
+{
+{
+16,
+14,
+15,
+},
+{
+},
+{
+8,
+7,
+},
+[5] = {
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[7] = {
+1,
+},
+},
+{
+[11] = {
+1,
+},
+[2] = {
+16,
+17,
+15,
+},
+[8] = {
+1,
+},
+[10] = {
+1,
+},
+[12] = {
+2,
+1,
+},
+[9] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[13] = {
+1,
+},
+[8] = {
+2,
+3,
+4,
+},
+["color"] = "ff3e9e",
+[14] = {
+1,
+},
+[9] = {
+2,
+},
+[15] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[13] = {
+2,
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[10] = {
+2,
+},
+[12] = {
+3,
+4,
+5,
+},
+[11] = {
+2,
+},
+},
+{
+[11] = {
+4,
+3,
+},
+[17] = {
+1,
+2,
+},
+[10] = {
+3,
+},
+["color"] = "3e3eff",
+[12] = {
+6,
+7,
+},
+},
+{
+[13] = {
+4,
+},
+[8] = {
+5,
+6,
+},
+[18] = {
+7,
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+},
+["color"] = "a1ff3e",
+[9] = {
+3,
+4,
+},
+},
+{
+[13] = {
+5,
+},
+[8] = {
+7,
+},
+["color"] = "ff3eff",
+[14] = {
+2,
+},
+[9] = {
+6,
+5,
+7,
+},
+[16] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[19] = {
+1,
+},
+},
+{
+{
+20,
+19,
+24,
+25,
+21,
+22,
+23,
+},
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[26] = {
+1,
+},
+[27] = {
+1,
+2,
+3,
+},
+["color"] = "ff3e3e",
+[29] = {
+1,
+},
+[28] = {
+1,
+2,
+3,
+},
+[20] = {
+1,
+4,
+2,
+3,
+},
+[21] = {
+1,
+2,
+},
+[22] = {
+8,
+7,
+4,
+9,
+5,
+6,
+1,
+2,
+3,
+},
+[23] = {
+2,
+1,
+},
+[6] = {
+3,
+2,
+},
+},
+},
+},
+["text"] = "Route 5",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[11] = {
+{
+["difficulty"] = 30,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 14,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 11,
+["selection"] = {
+14,
+},
+["pulls"] = {
+{
+{
+4,
+},
+[14] = {
+4,
+5,
+2,
+3,
+},
+[13] = {
+2,
+3,
+4,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+6,
+},
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+[15] = {
+2,
+},
+[14] = {
+8,
+},
+},
+{
+{
+7,
+},
+[13] = {
+24,
+25,
+22,
+26,
+23,
+},
+[15] = {
+3,
+},
+["color"] = "ff3e3e",
+[14] = {
+9,
+14,
+15,
+},
+[16] = {
+2,
+},
+},
+{
+{
+5,
+},
+["color"] = "3e9eff",
+[14] = {
+6,
+7,
+},
+},
+{
+["color"] = "fffb3e",
+[10] = {
+1,
+},
+[17] = {
+1,
+2,
+3,
+},
+},
+{
+[2] = {
+1,
+},
+[3] = {
+2,
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+},
+[5] = {
+},
+},
+{
+[2] = {
+2,
+},
+[15] = {
+1,
+},
+["color"] = "ff3e9e",
+[14] = {
+18,
+19,
+},
+[16] = {
+3,
+},
+},
+{
+[15] = {
+4,
+},
+["color"] = "3effff",
+[4] = {
+5,
+6,
+},
+[16] = {
+4,
+},
+[14] = {
+20,
+21,
+},
+},
+{
+{
+2,
+},
+{
+3,
+},
+nil,
+{
+10,
+11,
+},
+{
+2,
+},
+["color"] = "ff9b3e",
+[14] = {
+22,
+23,
+},
+},
+{
+{
+},
+["color"] = "3e3eff",
+[14] = {
+24,
+25,
+},
+[4] = {
+},
+[5] = {
+3,
+},
+},
+{
+[5] = {
+},
+[3] = {
+14,
+15,
+},
+[4] = {
+15,
+14,
+},
+["color"] = "a1ff3e",
+},
+{
+[15] = {
+7,
+},
+[3] = {
+7,
+},
+["color"] = "ff3eff",
+[16] = {
+7,
+},
+[5] = {
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[2] = {
+4,
+},
+},
+{
+[6] = {
+4,
+3,
+},
+[7] = {
+5,
+4,
+6,
+},
+[15] = {
+8,
+9,
+},
+[3] = {
+16,
+},
+["color"] = "ff3e3e",
+[14] = {
+},
+[16] = {
+8,
+9,
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+10,
+11,
+},
+[15] = {
+10,
+11,
+},
+[8] = {
+4,
+},
+},
+{
+[8] = {
+3,
+},
+[6] = {
+7,
+8,
+},
+["color"] = "fffb3e",
+},
+{
+[14] = {
+},
+["color"] = "3eff3e",
+[4] = {
+},
+[8] = {
+2,
+1,
+},
+[16] = {
+},
+[9] = {
+},
+[18] = {
+},
+[6] = {
+10,
+9,
+},
+[15] = {
+},
+},
+},
+},
+},
+{
+["difficulty"] = 30,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 13,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 11,
+["selection"] = {
+13,
+},
+["pulls"] = {
+{
+{
+4,
+},
+[14] = {
+3,
+2,
+4,
+5,
+},
+[13] = {
+2,
+3,
+4,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+},
+[14] = {
+7,
+6,
+},
+["color"] = "3eff9e",
+},
+{
+{
+7,
+},
+["color"] = "ff3e3e",
+[16] = {
+2,
+},
+[15] = {
+3,
+},
+[14] = {
+9,
+},
+},
+{
+{
+6,
+},
+["color"] = "3e9eff",
+[16] = {
+1,
+},
+[15] = {
+2,
+},
+[14] = {
+8,
+},
+},
+{
+["color"] = "fffb3e",
+[10] = {
+1,
+},
+[17] = {
+1,
+2,
+3,
+},
+},
+{
+nil,
+{
+1,
+},
+{
+2,
+3,
+},
+{
+4,
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+},
+},
+{
+[2] = {
+2,
+},
+[15] = {
+1,
+},
+[3] = {
+},
+["color"] = "ff3e9e",
+[14] = {
+18,
+19,
+},
+[16] = {
+3,
+},
+[4] = {
+},
+},
+{
+[2] = {
+3,
+},
+[15] = {
+4,
+},
+["color"] = "3effff",
+[4] = {
+5,
+6,
+},
+[16] = {
+4,
+},
+[14] = {
+20,
+21,
+},
+},
+{
+{
+3,
+},
+["color"] = "ff9b3e",
+[14] = {
+25,
+24,
+},
+[4] = {
+13,
+12,
+},
+[5] = {
+3,
+},
+},
+{
+[15] = {
+7,
+},
+[3] = {
+7,
+},
+["color"] = "3e3eff",
+[5] = {
+5,
+},
+[16] = {
+7,
+},
+},
+{
+["color"] = "a1ff3e",
+[2] = {
+4,
+},
+},
+{
+["color"] = "ff3eff",
+[20] = {
+1,
+},
+[12] = {
+1,
+},
+[11] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[6] = {
+1,
+2,
+},
+[7] = {
+1,
+2,
+3,
+},
+},
+{
+[6] = {
+4,
+3,
+},
+[7] = {
+6,
+},
+[15] = {
+9,
+8,
+},
+[3] = {
+16,
+},
+["color"] = "ff3e3e",
+[16] = {
+8,
+9,
+},
+},
+{
+[6] = {
+},
+[7] = {
+5,
+4,
+},
+[3] = {
+},
+["color"] = "3e9eff",
+[14] = {
+},
+},
+{
+[6] = {
+9,
+10,
+},
+[15] = {
+10,
+11,
+},
+["color"] = "fffb3e",
+[16] = {
+10,
+11,
+},
+[8] = {
+4,
+},
+},
+{
+[8] = {
+3,
+2,
+1,
+},
+[6] = {
+7,
+8,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[9] = {
+1,
+},
+[18] = {
+1,
+2,
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 2",
+["objects"] = {
+},
+["uid"] = "LlCS1uS21T6",
+},
+{
+["difficulty"] = 30,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 11,
+["selection"] = {
+15,
+},
+["pulls"] = {
+{
+{
+4,
+},
+[14] = {
+3,
+2,
+4,
+5,
+},
+[13] = {
+2,
+3,
+4,
+5,
+6,
+},
+["color"] = "ff3eff",
+},
+{
+{
+5,
+},
+[14] = {
+7,
+6,
+},
+["color"] = "3eff9e",
+},
+{
+{
+7,
+},
+["color"] = "ff3e3e",
+[16] = {
+2,
+},
+[15] = {
+3,
+},
+[14] = {
+9,
+},
+},
+{
+{
+6,
+},
+["color"] = "3e9eff",
+[16] = {
+1,
+},
+[15] = {
+2,
+},
+[14] = {
+8,
+},
+},
+{
+["color"] = "fffb3e",
+[10] = {
+1,
+},
+[17] = {
+1,
+2,
+3,
+},
+},
+{
+[14] = {
+},
+[2] = {
+},
+[4] = {
+},
+["color"] = "3eff3e",
+},
+{
+[3] = {
+2,
+3,
+},
+[2] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[2] = {
+2,
+},
+[15] = {
+1,
+5,
+},
+[3] = {
+4,
+},
+["color"] = "3effff",
+[14] = {
+19,
+18,
+},
+[16] = {
+3,
+5,
+},
+},
+{
+[6] = {
+},
+[2] = {
+3,
+},
+[15] = {
+4,
+},
+[14] = {
+20,
+21,
+},
+["color"] = "ff9b3e",
+[4] = {
+6,
+5,
+},
+[16] = {
+4,
+},
+[7] = {
+},
+},
+{
+{
+3,
+},
+[5] = {
+3,
+},
+["color"] = "3e3eff",
+[4] = {
+13,
+12,
+},
+[14] = {
+25,
+24,
+},
+},
+{
+[5] = {
+},
+["color"] = "a1ff3e",
+[4] = {
+},
+[3] = {
+},
+},
+{
+[15] = {
+7,
+},
+[3] = {
+7,
+},
+["color"] = "ff3eff",
+[5] = {
+5,
+},
+[16] = {
+7,
+},
+},
+{
+["color"] = "3eff9e",
+[2] = {
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[20] = {
+1,
+},
+[12] = {
+1,
+},
+[11] = {
+1,
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+1,
+2,
+},
+{
+2,
+1,
+3,
+},
+nil,
+nil,
+nil,
+nil,
+nil,
+nil,
+{
+},
+{
+},
+{
+},
+["color"] = "3e9eff",
+},
+{
+[6] = {
+4,
+3,
+},
+[7] = {
+6,
+},
+[15] = {
+9,
+8,
+},
+[3] = {
+16,
+},
+["color"] = "fffb3e",
+[16] = {
+8,
+9,
+},
+},
+{
+["color"] = "3eff3e",
+[7] = {
+5,
+4,
+},
+},
+{
+[6] = {
+9,
+10,
+},
+[15] = {
+10,
+11,
+},
+["color"] = "ff3e9e",
+[16] = {
+10,
+11,
+},
+[8] = {
+4,
+},
+},
+{
+[8] = {
+3,
+2,
+1,
+},
+[6] = {
+7,
+8,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[9] = {
+1,
+},
+[18] = {
+1,
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[19] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 2 2",
+["objects"] = {
+},
+["uid"] = "zhE)sXTad3q",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[51] = {
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 20,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+1,
+4,
+3,
+7,
+8,
+5,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[2] = {
+3,
+2,
+4,
+5,
+},
+[4] = {
+3,
+2,
+4,
+5,
+6,
+},
+[3] = {
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+{
+9,
+10,
+12,
+11,
+},
+{
+7,
+6,
+},
+nil,
+{
+8,
+7,
+},
+["color"] = "3e9eff",
+[8] = {
+1,
+2,
+3,
+},
+},
+{
+[3] = {
+4,
+3,
+},
+[2] = {
+8,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[9] = {
+1,
+},
+},
+{
+[11] = {
+1,
+2,
+},
+[10] = {
+1,
+2,
+},
+["color"] = "ff3e9e",
+},
+{
+[11] = {
+3,
+},
+[13] = {
+12,
+},
+[10] = {
+16,
+17,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[12] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[10] = {
+4,
+3,
+6,
+5,
+},
+[13] = {
+1,
+2,
+3,
+},
+},
+{
+[14] = {
+1,
+2,
+9,
+},
+[10] = {
+18,
+19,
+},
+[13] = {
+15,
+16,
+},
+["color"] = "a1ff3e",
+},
+{
+[13] = {
+6,
+},
+[15] = {
+2,
+},
+[10] = {
+11,
+10,
+},
+["color"] = "ff3eff",
+[14] = {
+3,
+},
+},
+{
+["color"] = "3eff9e",
+[16] = {
+1,
+2,
+3,
+4,
+},
+[17] = {
+2,
+1,
+3,
+},
+},
+{
+[18] = {
+1,
+},
+[13] = {
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[19] = {
+1,
+},
+[13] = {
+7,
+8,
+},
+},
+{
+["color"] = "fffb3e",
+[13] = {
+9,
+10,
+11,
+},
+[19] = {
+2,
+},
+[10] = {
+12,
+},
+},
+{
+[20] = {
+1,
+},
+[10] = {
+13,
+14,
+15,
+},
+["color"] = "3eff3e",
+[14] = {
+4,
+},
+[19] = {
+4,
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[19] = {
+5,
+},
+[20] = {
+2,
+},
+[14] = {
+5,
+6,
+7,
+8,
+},
+},
+{
+[21] = {
+1,
+2,
+},
+[22] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[21] = {
+3,
+},
+[22] = {
+2,
+},
+[23] = {
+4,
+7,
+8,
+9,
+5,
+6,
+1,
+2,
+3,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[24] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 51,
+["teeming"] = false,
+["selection"] = {
+20,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[15] = {
+{
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 15,
+["teeming"] = false,
+["pulls"] = {
+{
+},
+},
+},
+["week"] = 1,
+},
+{
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+["week"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[10] = {
+},
+},
+["currentDungeonIdx"] = 15,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+6,
+7,
+3,
+4,
+5,
+2,
+1,
+},
+{
+9,
+8,
+3,
+2,
+10,
+1,
+},
+{
+5,
+3,
+6,
+1,
+},
+{
+6,
+7,
+5,
+8,
+2,
+1,
+},
+nil,
+{
+4,
+3,
+2,
+1,
+},
+nil,
+{
+4,
+3,
+8,
+5,
+1,
+},
+{
+1,
+},
+{
+1,
+},
+{
+6,
+7,
+},
+{
+7,
+8,
+2,
+3,
+},
+nil,
+{
+21,
+24,
+25,
+22,
+23,
+19,
+16,
+20,
+17,
+18,
+14,
+12,
+11,
+13,
+15,
+30,
+27,
+28,
+29,
+26,
+34,
+32,
+33,
+31,
+3,
+2,
+4,
+5,
+1,
+9,
+6,
+7,
+8,
+10,
+},
+{
+7,
+6,
+1,
+9,
+10,
+4,
+5,
+8,
+2,
+3,
+},
+[21] = {
+2,
+1,
+},
+["color"] = "228b22",
+},
+},
+},
+["text"] = "10. Regular",
+["objects"] = {
+},
+["difficulty"] = 15,
+},
+{
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["week"] = 7,
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+6,
+7,
+3,
+4,
+5,
+1,
+2,
+},
+{
+8,
+9,
+1,
+2,
+10,
+3,
+7,
+6,
+5,
+},
+{
+5,
+1,
+6,
+3,
+4,
+2,
+},
+{
+6,
+7,
+8,
+5,
+1,
+2,
+4,
+3,
+},
+{
+2,
+1,
+},
+{
+1,
+2,
+3,
+4,
+},
+{
+1,
+},
+{
+3,
+4,
+},
+{
+5,
+},
+{
+5,
+},
+{
+7,
+6,
+4,
+5,
+},
+{
+8,
+7,
+},
+{
+1,
+},
+{
+30,
+27,
+28,
+29,
+26,
+34,
+32,
+33,
+31,
+18,
+16,
+20,
+17,
+19,
+14,
+12,
+11,
+13,
+15,
+3,
+2,
+4,
+5,
+1,
+6,
+7,
+8,
+10,
+9,
+24,
+21,
+25,
+22,
+23,
+},
+{
+8,
+5,
+6,
+4,
+1,
+7,
+},
+[20] = {
+1,
+},
+[17] = {
+},
+[18] = {
+},
+["color"] = "3eff3e",
+[19] = {
+},
+},
+},
+["currentDungeonIdx"] = 15,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[6] = {
+[161244] = {
+["y"] = -96.02551861325091,
+["x"] = 436.2687736037165,
+},
+[161241] = {
+["y"] = -446.9934089973061,
+["x"] = 484.0008958524555,
+},
+[161243] = {
+["y"] = -130.6157021218764,
+["x"] = 389.5517808275965,
+},
+[161124] = {
+["y"] = -259.8539524204763,
+["x"] = 463.47681237374,
+},
+},
+[2] = {
+},
+[7] = {
+},
+[5] = {
+},
+[9] = {
+},
+},
+},
+["text"] = "Default 2",
+["difficulty"] = 11,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 1,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[18] = {
+{
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 18,
+["teeming"] = false,
+["pulls"] = {
+{
+},
+},
+},
+["week"] = 10,
+},
+{
+["objects"] = {
+},
+["week"] = 10,
+["value"] = {
+["currentPull"] = 11,
+["currentSublevel"] = 2,
+["currentDungeonIdx"] = 18,
+["teeming"] = false,
+["selection"] = {
+11,
+},
+["pulls"] = {
+{
+{
+1,
+},
+{
+13,
+10,
+12,
+14,
+9,
+11,
+8,
+2,
+3,
+4,
+5,
+6,
+7,
+1,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+nil,
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+[24] = {
+},
+[25] = {
+},
+[27] = {
+},
+[15] = {
+},
+[16] = {
+},
+[17] = {
+},
+[18] = {
+},
+[19] = {
+},
+[21] = {
+},
+[23] = {
+},
+},
+{
+[3] = {
+1,
+2,
+},
+[4] = {
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+10,
+12,
+9,
+11,
+1,
+},
+[5] = {
+1,
+},
+},
+{
+{
+2,
+},
+[5] = {
+10,
+11,
+},
+},
+{
+[3] = {
+4,
+3,
+6,
+5,
+},
+[4] = {
+16,
+14,
+17,
+13,
+15,
+18,
+},
+},
+{
+{
+5,
+},
+nil,
+{
+13,
+12,
+},
+{
+21,
+20,
+24,
+22,
+19,
+23,
+},
+[6] = {
+2,
+},
+},
+{
+[4] = {
+45,
+38,
+40,
+48,
+41,
+42,
+44,
+46,
+39,
+43,
+37,
+47,
+},
+[8] = {
+2,
+1,
+},
+},
+{
+[9] = {
+1,
+},
+[2] = {
+16,
+17,
+15,
+18,
+},
+},
+{
+[10] = {
+2,
+1,
+},
+},
+{
+[8] = {
+3,
+},
+[2] = {
+22,
+20,
+21,
+19,
+},
+[3] = {
+15,
+},
+[10] = {
+3,
+},
+},
+{
+[11] = {
+1,
+},
+[2] = {
+24,
+25,
+26,
+23,
+},
+},
+{
+{
+4,
+},
+nil,
+{
+},
+{
+},
+[8] = {
+8,
+7,
+},
+[10] = {
+7,
+},
+[23] = {
+14,
+16,
+9,
+15,
+10,
+11,
+12,
+13,
+},
+},
+{
+[5] = {
+},
+[10] = {
+5,
+6,
+},
+[8] = {
+5,
+6,
+},
+},
+{
+[12] = {
+1,
+},
+},
+{
+[3] = {
+17,
+18,
+},
+[8] = {
+9,
+},
+},
+{
+[10] = {
+8,
+},
+[8] = {
+10,
+},
+},
+{
+[8] = {
+11,
+},
+[10] = {
+9,
+},
+[2] = {
+31,
+32,
+33,
+34,
+29,
+27,
+28,
+30,
+36,
+38,
+37,
+35,
+},
+},
+{
+[2] = {
+40,
+41,
+42,
+39,
+44,
+46,
+43,
+45,
+49,
+48,
+50,
+47,
+},
+},
+{
+[15] = {
+2,
+},
+[16] = {
+8,
+9,
+10,
+7,
+},
+},
+{
+[17] = {
+6,
+7,
+3,
+},
+},
+{
+[15] = {
+3,
+},
+[16] = {
+16,
+11,
+12,
+13,
+14,
+15,
+},
+},
+{
+[17] = {
+2,
+1,
+},
+},
+{
+[18] = {
+1,
+2,
+},
+[21] = {
+38,
+40,
+33,
+41,
+34,
+36,
+37,
+35,
+39,
+},
+},
+{
+[19] = {
+3,
+4,
+5,
+},
+[18] = {
+3,
+},
+},
+{
+[23] = {
+24,
+17,
+18,
+20,
+21,
+22,
+19,
+23,
+},
+},
+{
+[23] = {
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+2,
+},
+[21] = {
+},
+},
+{
+{
+},
+nil,
+{
+},
+{
+},
+{
+},
+nil,
+nil,
+{
+},
+[21] = {
+31,
+27,
+20,
+24,
+28,
+32,
+17,
+21,
+25,
+29,
+18,
+22,
+26,
+30,
+19,
+23,
+},
+[10] = {
+},
+[23] = {
+},
+},
+},
+},
+["text"] = "Default 2",
+},
+{
+["objects"] = {
+},
+["week"] = 2,
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 2,
+["currentDungeonIdx"] = 18,
+["teeming"] = true,
+["selection"] = {
+5,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+5,
+},
+{
+12,
+10,
+14,
+9,
+11,
+13,
+7,
+2,
+3,
+4,
+5,
+6,
+8,
+1,
+},
+{
+2,
+1,
+3,
+4,
+6,
+5,
+},
+{
+3,
+2,
+4,
+5,
+6,
+7,
+8,
+10,
+12,
+9,
+11,
+1,
+16,
+14,
+17,
+13,
+15,
+18,
+},
+{
+1,
+10,
+4,
+3,
+2,
+},
+},
+{
+{
+4,
+},
+{
+16,
+17,
+15,
+18,
+22,
+20,
+21,
+19,
+},
+{
+13,
+12,
+14,
+},
+{
+23,
+20,
+24,
+21,
+22,
+19,
+42,
+38,
+40,
+48,
+41,
+44,
+47,
+46,
+39,
+43,
+37,
+45,
+30,
+27,
+28,
+25,
+29,
+26,
+36,
+32,
+33,
+34,
+35,
+31,
+},
+{
+8,
+9,
+},
+{
+2,
+},
+nil,
+{
+2,
+1,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+},
+{
+[11] = {
+1,
+},
+[2] = {
+24,
+25,
+26,
+23,
+},
+[8] = {
+3,
+5,
+6,
+10,
+9,
+},
+[3] = {
+15,
+17,
+18,
+},
+[12] = {
+1,
+},
+[5] = {
+11,
+},
+[10] = {
+3,
+6,
+5,
+8,
+},
+},
+{
+[2] = {
+34,
+32,
+33,
+31,
+29,
+27,
+28,
+30,
+49,
+48,
+50,
+47,
+46,
+44,
+43,
+45,
+37,
+38,
+36,
+35,
+40,
+41,
+42,
+39,
+},
+[15] = {
+2,
+3,
+},
+[8] = {
+11,
+},
+[16] = {
+8,
+9,
+10,
+7,
+16,
+11,
+12,
+13,
+14,
+15,
+},
+[17] = {
+3,
+6,
+7,
+1,
+2,
+},
+[18] = {
+2,
+1,
+3,
+},
+[10] = {
+9,
+},
+[21] = {
+39,
+38,
+40,
+33,
+41,
+34,
+36,
+37,
+35,
+},
+[19] = {
+3,
+4,
+5,
+},
+},
+{
+[21] = {
+15,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+10,
+12,
+14,
+16,
+9,
+11,
+13,
+1,
+},
+[25] = {
+1,
+2,
+},
+[23] = {
+7,
+1,
+2,
+4,
+8,
+5,
+3,
+6,
+12,
+16,
+9,
+15,
+10,
+11,
+13,
+14,
+21,
+17,
+18,
+20,
+22,
+24,
+23,
+19,
+25,
+32,
+30,
+26,
+27,
+28,
+29,
+31,
+},
+[24] = {
+1,
+},
+},
+},
+},
+["text"] = "Preset 12",
+},
+{
+["objects"] = {
+},
+["week"] = 2,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 18,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+5,
+},
+{
+12,
+10,
+14,
+9,
+11,
+13,
+7,
+2,
+3,
+4,
+5,
+6,
+8,
+1,
+},
+{
+2,
+1,
+3,
+4,
+6,
+5,
+},
+{
+3,
+2,
+4,
+5,
+6,
+7,
+8,
+10,
+12,
+9,
+11,
+1,
+16,
+14,
+17,
+13,
+15,
+18,
+},
+{
+1,
+10,
+4,
+3,
+2,
+},
+["color"] = "228b22",
+},
+{
+{
+4,
+},
+{
+16,
+17,
+15,
+18,
+22,
+20,
+21,
+19,
+},
+{
+13,
+12,
+},
+{
+23,
+20,
+24,
+21,
+22,
+19,
+42,
+38,
+40,
+48,
+41,
+44,
+47,
+46,
+39,
+43,
+37,
+45,
+},
+{
+},
+{
+2,
+},
+nil,
+{
+2,
+1,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+["color"] = "228b22",
+},
+{
+[11] = {
+1,
+},
+[2] = {
+24,
+25,
+26,
+23,
+},
+[8] = {
+3,
+5,
+6,
+10,
+9,
+},
+[3] = {
+15,
+17,
+18,
+},
+[12] = {
+1,
+},
+["color"] = "228b22",
+[5] = {
+11,
+},
+[10] = {
+3,
+6,
+5,
+8,
+},
+},
+{
+[2] = {
+34,
+32,
+33,
+31,
+29,
+27,
+28,
+30,
+49,
+48,
+50,
+47,
+46,
+44,
+43,
+45,
+37,
+38,
+36,
+35,
+40,
+41,
+42,
+39,
+},
+[15] = {
+2,
+3,
+},
+[8] = {
+11,
+},
+[16] = {
+8,
+9,
+10,
+7,
+16,
+11,
+12,
+13,
+14,
+15,
+},
+[17] = {
+3,
+6,
+7,
+1,
+2,
+},
+[18] = {
+2,
+1,
+},
+[10] = {
+9,
+},
+[21] = {
+39,
+38,
+40,
+33,
+41,
+34,
+36,
+37,
+35,
+},
+["color"] = "228b22",
+[19] = {
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+2,
+},
+["color"] = "228b22",
+[4] = {
+},
+[8] = {
+4,
+7,
+8,
+},
+[5] = {
+},
+[10] = {
+4,
+10,
+7,
+},
+[18] = {
+},
+[21] = {
+15,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+10,
+12,
+14,
+16,
+9,
+11,
+13,
+1,
+26,
+27,
+20,
+24,
+28,
+32,
+17,
+21,
+25,
+29,
+18,
+22,
+30,
+19,
+23,
+31,
+},
+[19] = {
+},
+[23] = {
+7,
+1,
+2,
+4,
+8,
+5,
+3,
+6,
+12,
+16,
+9,
+15,
+10,
+11,
+13,
+14,
+21,
+17,
+18,
+20,
+22,
+24,
+23,
+19,
+25,
+32,
+30,
+26,
+27,
+28,
+29,
+31,
+},
+[3] = {
+16,
+},
+},
+},
+},
+["text"] = "Preset 12 2",
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[22] = {
+{
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 22,
+["teeming"] = false,
+["pulls"] = {
+{
+nil,
+{
+3,
+1,
+},
+{
+7,
+6,
+8,
+1,
+},
+{
+6,
+5,
+2,
+3,
+1,
+},
+{
+6,
+4,
+3,
+1,
+},
+{
+1,
+},
+{
+3,
+4,
+5,
+1,
+2,
+},
+{
+7,
+8,
+6,
+10,
+5,
+4,
+9,
+},
+{
+7,
+6,
+9,
+8,
+},
+{
+1,
+2,
+3,
+13,
+15,
+12,
+14,
+},
+{
+1,
+2,
+6,
+5,
+},
+{
+1,
+3,
+2,
+},
+{
+13,
+1,
+12,
+},
+{
+1,
+4,
+5,
+},
+},
+},
+},
+["week"] = 10,
+},
+},
+[118] = {
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 118,
+["teeming"] = false,
+["pulls"] = {
+{
+["color"] = "228b22",
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "BDIp08bmjT2",
+["week"] = 5,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+},
+{
+3,
+5,
+},
+{
+6,
+7,
+5,
+2,
+4,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+7,
+},
+[2] = {
+24,
+23,
+},
+[3] = {
+31,
+30,
+12,
+26,
+},
+["color"] = "3eff9e",
+[5] = {
+1,
+},
+},
+{
+nil,
+{
+21,
+},
+{
+25,
+1,
+},
+{
+6,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3e3e",
+},
+{
+nil,
+{
+7,
+20,
+1,
+8,
+},
+{
+8,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+},
+{
+[3] = {
+9,
+10,
+},
+[6] = {
+5,
+1,
+6,
+},
+["color"] = "fffb3e",
+[5] = {
+4,
+5,
+},
+},
+{
+[13] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[8] = {
+3,
+},
+[3] = {
+16,
+28,
+},
+[9] = {
+},
+["color"] = "ff3e9e",
+},
+{
+[7] = {
+5,
+6,
+7,
+},
+[8] = {
+4,
+},
+[3] = {
+17,
+},
+["color"] = "3effff",
+[9] = {
+3,
+4,
+},
+},
+{
+[7] = {
+8,
+4,
+},
+[8] = {
+1,
+7,
+},
+[3] = {
+24,
+},
+["color"] = "ff9b3e",
+[9] = {
+1,
+6,
+},
+},
+{
+[14] = {
+1,
+},
+[10] = {
+9,
+8,
+6,
+7,
+3,
+2,
+4,
+5,
+},
+["color"] = "3e3eff",
+},
+{
+[11] = {
+2,
+},
+[7] = {
+2,
+18,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[10] = {
+13,
+10,
+11,
+12,
+1,
+18,
+14,
+15,
+16,
+17,
+},
+[7] = {
+15,
+14,
+},
+},
+{
+[11] = {
+4,
+},
+[7] = {
+16,
+17,
+},
+[10] = {
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+46,
+42,
+43,
+44,
+45,
+48,
+49,
+50,
+51,
+47,
+},
+[12] = {
+3,
+},
+["color"] = "3eff9e",
+},
+{
+[11] = {
+7,
+},
+[7] = {
+21,
+19,
+},
+[10] = {
+58,
+66,
+68,
+69,
+70,
+72,
+73,
+71,
+67,
+19,
+20,
+22,
+23,
+24,
+},
+[12] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[11] = {
+6,
+},
+[10] = {
+61,
+62,
+64,
+65,
+63,
+},
+[12] = {
+7,
+},
+["color"] = "3e9eff",
+},
+{
+[15] = {
+1,
+},
+["color"] = "fffb3e",
+},
+},
+["currentDungeonIdx"] = 118,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[5] = {
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Raider.IO The Weekly Route: Beginner - Intermediate",
+["objects"] = {
+{
+["d"] = {
+"661.8",
+"-150.1",
+1,
+true,
+"Bloodlust first pull",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"168.3",
+"-254.5",
+1,
+true,
+"Bloodlust on trash or whenever it comes back off cooldown",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"588.5",
+"-467.3",
+1,
+true,
+"Bloodlust Voidstone Monstrosity",
+},
+["n"] = true,
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[30] = {
+{
+["difficulty"] = 11,
+["week"] = 5,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["value"] = {
+["currentPull"] = 20,
+["currentSublevel"] = 3,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+20,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+6,
+},
+{
+1,
+},
+{
+2,
+1,
+},
+{
+3,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[2] = {
+4,
+},
+[6] = {
+5,
+2,
+3,
+4,
+1,
+},
+[3] = {
+5,
+6,
+},
+},
+{
+["color"] = "ff3e3e",
+[4] = {
+5,
+6,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[4] = {
+16,
+15,
+},
+[7] = {
+3,
+},
+[8] = {
+3,
+},
+},
+{
+{
+},
+{
+8,
+},
+{
+16,
+15,
+},
+{
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[2] = {
+9,
+},
+[6] = {
+18,
+20,
+17,
+19,
+15,
+},
+[3] = {
+17,
+18,
+},
+},
+{
+[8] = {
+2,
+},
+[4] = {
+12,
+13,
+},
+[7] = {
+2,
+},
+["color"] = "ff3e9e",
+},
+{
+{
+10,
+},
+["color"] = "3effff",
+[4] = {
+10,
+},
+},
+{
+{
+9,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[9] = {
+1,
+},
+},
+{
+{
+11,
+12,
+},
+["color"] = "a1ff3e",
+[4] = {
+9,
+14,
+},
+},
+{
+["color"] = "ff3eff",
+[13] = {
+},
+[12] = {
+6,
+},
+[10] = {
+6,
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+4,
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[14] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+10,
+11,
+},
+[3] = {
+20,
+21,
+19,
+},
+},
+{
+{
+18,
+17,
+},
+["color"] = "fffb3e",
+[4] = {
+21,
+},
+[7] = {
+4,
+},
+},
+{
+["color"] = "3eff3e",
+[15] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+10,
+8,
+9,
+11,
+6,
+7,
+1,
+2,
+4,
+5,
+3,
+24,
+18,
+20,
+21,
+22,
+23,
+19,
+12,
+16,
+17,
+13,
+14,
+15,
+},
+[17] = {
+},
+},
+{
+["color"] = "3effff",
+[17] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[18] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 11,
+["week"] = 5,
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+2,
+1,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+6,
+},
+["color"] = "3eff9e",
+[6] = {
+5,
+},
+[4] = {
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[2] = {
+4,
+},
+[3] = {
+5,
+6,
+},
+},
+{
+["color"] = "3e9eff",
+[4] = {
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[4] = {
+16,
+15,
+},
+[7] = {
+3,
+},
+[8] = {
+},
+},
+{
+["color"] = "3eff3e",
+[2] = {
+},
+[3] = {
+},
+},
+{
+["color"] = "ff3e9e",
+[2] = {
+9,
+},
+[6] = {
+},
+[3] = {
+17,
+18,
+},
+},
+{
+[6] = {
+},
+[7] = {
+2,
+},
+[8] = {
+},
+["color"] = "3effff",
+[4] = {
+12,
+},
+},
+{
+{
+10,
+},
+["color"] = "ff9b3e",
+[4] = {
+10,
+},
+},
+{
+{
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[9] = {
+},
+},
+{
+{
+11,
+12,
+},
+["color"] = "ff3eff",
+[4] = {
+9,
+14,
+},
+},
+{
+{
+15,
+},
+["color"] = "3eff9e",
+[10] = {
+},
+[4] = {
+},
+[12] = {
+6,
+},
+},
+{
+["color"] = "ff3e3e",
+[11] = {
+12,
+11,
+13,
+14,
+},
+},
+{
+["color"] = "3e9eff",
+[13] = {
+},
+},
+{
+["color"] = "fffb3e",
+[14] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[2] = {
+11,
+10,
+},
+[3] = {
+20,
+21,
+19,
+},
+},
+{
+{
+17,
+},
+["color"] = "ff3e9e",
+[4] = {
+},
+[7] = {
+},
+},
+{
+["color"] = "3effff",
+[15] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+1,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[18] = {
+1,
+},
+},
+},
+},
+["text"] = "Retard Route",
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["objects"] = {
+{
+["d"] = {
+546.4011042082689,
+-143.9265677641711,
+1,
+true,
+"Prideful 1",
+},
+["n"] = true,
+},
+{
+["d"] = {
+8,
+1.1,
+1,
+true,
+"9dfffb",
+-8,
+true,
+},
+["l"] = {
+"552.0",
+"-141.9",
+"554.7",
+"-142.2",
+"554.7",
+"-142.2",
+"557.6",
+"-143.5",
+"557.6",
+"-143.5",
+"560.5",
+"-145.9",
+"560.5",
+"-145.9",
+"563.1",
+"-148.2",
+"563.1",
+"-148.2",
+"565.5",
+"-150.9",
+"565.5",
+"-150.9",
+"568.2",
+"-153.8",
+"568.2",
+"-153.8",
+"570.3",
+"-156.7",
+"570.3",
+"-156.7",
+"571.8",
+"-159.3",
+"571.8",
+"-159.3",
+"573.2",
+"-162.0",
+"573.2",
+"-162.0",
+"575.0",
+"-164.6",
+"575.0",
+"-164.6",
+"576.9",
+"-167.5",
+"576.9",
+"-167.5",
+"578.1",
+"-170.2",
+"578.1",
+"-170.2",
+"579.5",
+"-173.1",
+"579.5",
+"-173.1",
+"580.5",
+"-175.7",
+"580.5",
+"-175.7",
+"581.6",
+"-178.6",
+"581.6",
+"-178.6",
+"582.4",
+"-181.5",
+"582.4",
+"-181.5",
+"583.4",
+"-184.4",
+"583.4",
+"-184.4",
+"584.5",
+"-187.0",
+"584.5",
+"-187.0",
+"585.6",
+"-189.9",
+"585.6",
+"-189.9",
+"586.6",
+"-192.8",
+"586.6",
+"-192.8",
+"587.4",
+"-195.7",
+"587.4",
+"-195.7",
+"588.7",
+"-198.9",
+"588.7",
+"-198.9",
+"589.5",
+"-201.8",
+"589.5",
+"-201.8",
+"590.6",
+"-204.4",
+"590.6",
+"-204.4",
+"591.9",
+"-207.6",
+"591.9",
+"-207.6",
+"593.2",
+"-210.5",
+"593.2",
+"-210.5",
+"594.5",
+"-213.4",
+"594.5",
+"-213.4",
+"596.1",
+"-216.5",
+"596.1",
+"-216.5",
+"597.4",
+"-219.4",
+"597.4",
+"-219.4",
+"599.5",
+"-222.9",
+"599.5",
+"-222.9",
+"601.9",
+"-226.3",
+"601.9",
+"-226.3",
+"603.7",
+"-229.4",
+"603.7",
+"-229.4",
+"606.1",
+"-232.6",
+"606.1",
+"-232.6",
+"607.9",
+"-235.5",
+"607.9",
+"-235.5",
+"610.3",
+"-238.6",
+"610.3",
+"-238.6",
+"612.2",
+"-241.3",
+"612.2",
+"-241.3",
+"614.3",
+"-244.4",
+"614.3",
+"-244.4",
+"616.4",
+"-247.3",
+"616.4",
+"-247.3",
+"618.2",
+"-250.0",
+"618.2",
+"-250.0",
+"620.1",
+"-252.9",
+"620.1",
+"-252.9",
+"621.9",
+"-256.0",
+"621.9",
+"-256.0",
+"623.5",
+"-258.7",
+"623.5",
+"-258.7",
+"625.3",
+"-261.8",
+"625.3",
+"-261.8",
+"627.2",
+"-264.7",
+"627.2",
+"-264.7",
+"629.1",
+"-267.4",
+"629.1",
+"-267.4",
+"630.6",
+"-270.3",
+"630.6",
+"-270.3",
+"632.2",
+"-272.9",
+"632.2",
+"-272.9",
+"633.8",
+"-275.8",
+"633.8",
+"-275.8",
+"636.4",
+"-278.5",
+"636.4",
+"-278.5",
+"636.9",
+"-275.3",
+"636.9",
+"-275.3",
+"636.9",
+"-272.7",
+"636.9",
+"-272.7",
+"636.9",
+"-270.0",
+},
+},
+{
+["d"] = {
+8,
+1.1,
+1,
+true,
+"9dfffb",
+-7,
+true,
+},
+["l"] = {
+"635.4",
+"-276.9",
+"632.7",
+"-277.4",
+"632.7",
+"-277.4",
+"629.8",
+"-277.4",
+"629.8",
+"-277.4",
+"628.0",
+"-277.4",
+},
+},
+{
+["d"] = {
+542.1461873113435,
+-405.7917781141544,
+1,
+true,
+"Prideful 2",
+},
+["n"] = true,
+},
+{
+["d"] = {
+506.8288438720744,
+-325.6804273015275,
+1,
+true,
+"Prideful 3 into boss with Stoneborn",
+},
+["n"] = true,
+},
+{
+["d"] = {
+250.9995554867853,
+-301.0399508773489,
+1,
+true,
+"Prideful 4 into boss",
+},
+["n"] = true,
+},
+{
+["d"] = {
+329.622210104768,
+-271.9016572819921,
+3,
+true,
+"Prideful 5 into boss",
+},
+["n"] = true,
+},
+},
+["week"] = 1,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["numberCustomColors"] = 5,
+["colorPaletteIdx"] = 6,
+["customPaletteValues"] = {
+{
+0.807843137254902,
+0.5882352941176471,
+0.9333333333333333,
+},
+{
+0.4313725490196079,
+0.4862745098039216,
+1,
+},
+{
+0.1882352941176471,
+0.7176470588235294,
+1,
+},
+{
+0.5254901960784314,
+0.8862745098039215,
+1,
+},
+{
+1,
+0.5098039215686274,
+0.9294117647058824,
+},
+{
+0.6588235294117647,
+0,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+},
+},
+["text"] = "Metro - Halls of Atonement 2",
+["difficulty"] = 15,
+["value"] = {
+["currentPull"] = 8,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+8,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+},
+{
+1,
+},
+{
+2,
+1,
+},
+{
+},
+["color"] = "ce96ee",
+},
+{
+{
+6,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+{
+2,
+},
+nil,
+{
+5,
+3,
+2,
+4,
+1,
+},
+{
+},
+{
+},
+["color"] = "6e7cff",
+},
+{
+[6] = {
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+["color"] = "30b7ff",
+[4] = {
+5,
+6,
+},
+},
+{
+{
+},
+nil,
+nil,
+{
+16,
+15,
+},
+nil,
+{
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "86e2ff",
+},
+{
+{
+10,
+},
+{
+8,
+},
+{
+15,
+16,
+},
+{
+10,
+},
+nil,
+{
+15,
+},
+["color"] = "ff82ed",
+},
+{
+["color"] = "ce96ee",
+[7] = {
+2,
+},
+[4] = {
+12,
+13,
+},
+[8] = {
+2,
+},
+},
+{
+{
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+},
+nil,
+{
+},
+["color"] = "6e7cff",
+},
+{
+{
+9,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+["color"] = "30b7ff",
+},
+{
+["color"] = "86e2ff",
+[9] = {
+1,
+},
+},
+{
+{
+11,
+},
+["color"] = "ff82ed",
+[4] = {
+9,
+},
+},
+{
+{
+15,
+},
+[11] = {
+15,
+11,
+12,
+13,
+14,
+},
+[10] = {
+6,
+},
+[12] = {
+6,
+},
+[4] = {
+19,
+},
+["color"] = "ce96ee",
+},
+{
+["color"] = "6e7cff",
+[13] = {
+3,
+4,
+2,
+},
+},
+{
+["color"] = "30b7ff",
+[14] = {
+1,
+},
+},
+{
+["color"] = "86e2ff",
+[2] = {
+11,
+10,
+},
+[3] = {
+20,
+21,
+19,
+},
+},
+{
+{
+17,
+18,
+},
+["color"] = "ff82ed",
+[4] = {
+21,
+},
+[7] = {
+4,
+},
+},
+{
+["color"] = "ce96ee",
+[15] = {
+1,
+},
+},
+{
+["color"] = "6e7cff",
+[17] = {
+1,
+},
+},
+{
+["color"] = "ff0600",
+[18] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 10,
+["week"] = 7,
+["objects"] = {
+{
+["d"] = {
+5,
+1,
+1,
+true,
+"1bff00",
+-8,
+},
+["l"] = {
+"445.3",
+"-341.7",
+"250.2",
+"-304.2",
+},
+["t"] = {
+-0.1897883973373674,
+},
+},
+{
+["d"] = {
+408.8968029312432,
+-328.722857269872,
+1,
+true,
+"Skip",
+},
+["n"] = true,
+},
+{
+["d"] = {
+554.5275866516164,
+-415.0770417873064,
+1,
+true,
+"No big deal if this thing pulls at any time.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+627.6802677666751,
+-388.6446936001326,
+1,
+true,
+"You can chain these guys in as it feels safe to (during Pride if your tank is tanky)",
+},
+["n"] = true,
+},
+},
+["value"] = {
+["currentPull"] = 19,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+[6] = {
+},
+[4] = {
+},
+[7] = {
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+19,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+},
+{
+1,
+},
+{
+2,
+1,
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+{
+6,
+},
+["color"] = "3eff9e",
+[6] = {
+2,
+3,
+4,
+1,
+5,
+},
+[4] = {
+2,
+},
+},
+{
+{
+},
+{
+4,
+},
+{
+5,
+6,
+},
+{
+6,
+5,
+},
+nil,
+nil,
+{
+},
+{
+},
+["color"] = "ff3e3e",
+},
+{
+[6] = {
+6,
+7,
+8,
+9,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+["color"] = "3e9eff",
+[4] = {
+},
+},
+{
+{
+4,
+3,
+},
+{
+},
+{
+},
+{
+1,
+3,
+},
+["color"] = "fffb3e",
+},
+{
+[8] = {
+3,
+},
+["color"] = "3eff3e",
+[4] = {
+15,
+16,
+},
+[7] = {
+3,
+},
+},
+{
+[6] = {
+24,
+27,
+25,
+26,
+},
+[7] = {
+},
+[8] = {
+},
+["color"] = "ff3e9e",
+[4] = {
+},
+},
+{
+{
+10,
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+10,
+},
+["color"] = "3effff",
+},
+{
+{
+},
+{
+8,
+},
+{
+16,
+15,
+},
+{
+},
+nil,
+{
+},
+["color"] = "ff9b3e",
+},
+{
+[6] = {
+},
+[7] = {
+2,
+},
+[8] = {
+2,
+},
+["color"] = "3e3eff",
+[4] = {
+12,
+13,
+},
+},
+{
+{
+11,
+12,
+},
+{
+},
+{
+},
+{
+9,
+14,
+},
+nil,
+{
+22,
+16,
+21,
+23,
+},
+["color"] = "a1ff3e",
+},
+{
+{
+9,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[9] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[14] = {
+1,
+},
+},
+{
+[3] = {
+21,
+20,
+19,
+},
+[2] = {
+10,
+11,
+},
+["color"] = "3e9eff",
+},
+{
+{
+17,
+18,
+},
+["color"] = "fffb3e",
+[4] = {
+21,
+},
+[7] = {
+4,
+},
+},
+{
+["color"] = "3eff3e",
+[15] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+22,
+18,
+20,
+21,
+23,
+19,
+15,
+16,
+17,
+12,
+13,
+14,
+10,
+8,
+9,
+11,
+6,
+7,
+3,
+1,
+2,
+4,
+5,
+24,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[18] = {
+1,
+},
+},
+},
+},
+["text"] = "1.7 HOA w/ Skips by Dratnos",
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["mdiEnabled"] = false,
+["week"] = 9,
+["mdi"] = {
+["freehold"] = 1,
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+},
+["difficulty"] = 15,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Dos Route",
+["value"] = {
+["currentPull"] = 4,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[8] = {
+},
+[4] = {
+},
+[9] = {
+},
+[7] = {
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+4,
+},
+["pulls"] = {
+{
+{
+2,
+1,
+6,
+3,
+},
+{
+1,
+4,
+},
+{
+1,
+2,
+5,
+6,
+},
+{
+2,
+3,
+},
+{
+},
+{
+5,
+4,
+2,
+3,
+1,
+},
+{
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+{
+4,
+5,
+},
+{
+2,
+},
+{
+3,
+4,
+},
+{
+6,
+5,
+1,
+4,
+},
+nil,
+{
+7,
+6,
+8,
+9,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+10,
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+10,
+15,
+16,
+},
+nil,
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3e3e",
+[13] = {
+},
+},
+{
+{
+11,
+12,
+},
+{
+},
+{
+},
+{
+13,
+12,
+9,
+14,
+},
+nil,
+{
+22,
+16,
+21,
+23,
+19,
+20,
+17,
+18,
+15,
+},
+{
+2,
+},
+{
+2,
+},
+["color"] = "3e9eff",
+[13] = {
+},
+},
+{
+["color"] = "fffb3e",
+[9] = {
+1,
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+nil,
+{
+},
+["color"] = "3eff3e",
+[13] = {
+},
+},
+{
+["color"] = "ff3e9e",
+[14] = {
+1,
+},
+},
+{
+{
+18,
+17,
+},
+{
+10,
+11,
+},
+{
+21,
+20,
+19,
+},
+{
+21,
+},
+[7] = {
+4,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[15] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[16] = {
+3,
+1,
+2,
+4,
+5,
+24,
+7,
+8,
+9,
+10,
+11,
+6,
+15,
+16,
+17,
+12,
+13,
+14,
+22,
+18,
+20,
+21,
+23,
+19,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[18] = {
+1,
+},
+},
+},
+},
+["objects"] = {
+},
+},
+{
+["mdiEnabled"] = false,
+["week"] = 1,
+["objects"] = {
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Dos Route 2",
+["value"] = {
+["currentPull"] = 6,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+1,
+4,
+},
+{
+},
+{
+},
+{
+15,
+16,
+1,
+},
+nil,
+{
+},
+{
+3,
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+{
+},
+{
+1,
+},
+{
+1,
+2,
+},
+{
+},
+nil,
+{
+},
+["color"] = "3eff9e",
+},
+{
+{
+6,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+{
+2,
+},
+nil,
+{
+5,
+1,
+2,
+3,
+4,
+},
+["color"] = "ff3e3e",
+[10] = {
+},
+[12] = {
+},
+},
+{
+[6] = {
+6,
+7,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+[10] = {
+},
+["color"] = "3e9eff",
+[4] = {
+},
+[12] = {
+},
+},
+{
+{
+10,
+},
+{
+},
+{
+},
+{
+10,
+},
+nil,
+{
+},
+["color"] = "fffb3e",
+},
+{
+{
+},
+[6] = {
+},
+[7] = {
+2,
+},
+[8] = {
+},
+[10] = {
+},
+["color"] = "3eff3e",
+[4] = {
+12,
+},
+[12] = {
+},
+},
+{
+{
+12,
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+14,
+},
+nil,
+{
+},
+["color"] = "ff3e9e",
+},
+{
+{
+11,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+9,
+},
+nil,
+{
+},
+["color"] = "3effff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[9] = {
+},
+},
+{
+["color"] = "3e3eff",
+[14] = {
+1,
+},
+},
+{
+{
+},
+{
+11,
+10,
+},
+{
+20,
+21,
+19,
+},
+{
+},
+[7] = {
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[15] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[15] = {
+},
+[18] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+6,
+},
+["riftOffsets"] = {
+{
+},
+{
+},
+[8] = {
+},
+[10] = {
+},
+[12] = {
+},
+},
+},
+["difficulty"] = 20,
+},
+{
+["difficulty"] = 24,
+["week"] = 1,
+["addonVersion"] = 552,
+["uid"] = "Z2RPeZSR3g)",
+["value"] = {
+["pulls"] = {
+{
+{
+2,
+1,
+16,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+{
+12,
+},
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3eff9e",
+[4] = {
+10,
+9,
+},
+[5] = {
+19,
+20,
+17,
+18,
+15,
+},
+},
+{
+{
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+},
+["color"] = "ff3e3e",
+[12] = {
+4,
+},
+},
+{
+{
+10,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+{
+21,
+16,
+22,
+23,
+},
+["color"] = "3e9eff",
+[10] = {
+},
+},
+{
+{
+5,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+{
+4,
+},
+{
+5,
+1,
+2,
+3,
+4,
+},
+["color"] = "fffb3e",
+[12] = {
+},
+},
+{
+{
+15,
+},
+nil,
+nil,
+{
+},
+{
+7,
+6,
+8,
+9,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "3eff3e",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+17,
+18,
+},
+{
+1,
+},
+nil,
+nil,
+nil,
+{
+},
+{
+},
+nil,
+{
+},
+{
+},
+["color"] = "ff3e9e",
+},
+{
+[8] = {
+1,
+},
+[6] = {
+6,
+5,
+7,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+},
+[10] = {
+12,
+10,
+14,
+16,
+17,
+11,
+13,
+15,
+18,
+42,
+38,
+40,
+41,
+44,
+43,
+39,
+},
+["color"] = "ff9b3e",
+[4] = {
+},
+[9] = {
+4,
+},
+},
+{
+[10] = {
+},
+[12] = {
+},
+[4] = {
+},
+[9] = {
+8,
+7,
+},
+["color"] = "3e3eff",
+},
+{
+{
+11,
+},
+[12] = {
+},
+[10] = {
+},
+["color"] = "a1ff3e",
+[4] = {
+18,
+14,
+},
+[5] = {
+},
+[9] = {
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+20,
+},
+{
+},
+nil,
+nil,
+{
+},
+{
+3,
+},
+{
+},
+{
+6,
+5,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[12] = {
+2,
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+[18] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+nil,
+{
+10,
+11,
+},
+{
+21,
+20,
+19,
+},
+{
+},
+[6] = {
+},
+[11] = {
+13,
+14,
+},
+[12] = {
+},
+[9] = {
+11,
+},
+[23] = {
+},
+["color"] = "3e9eff",
+},
+{
+[6] = {
+4,
+},
+["color"] = "fffb3e",
+[4] = {
+24,
+},
+[23] = {
+2,
+1,
+},
+[12] = {
+13,
+},
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+1,
+},
+[22] = {
+1,
+},
+},
+{
+{
+},
+[24] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "ff3e9e",
+[4] = {
+},
+[16] = {
+1,
+},
+[12] = {
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+},
+},
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[6] = {
+7,
+7,
+7,
+7,
+nil,
+nil,
+nil,
+7,
+7,
+},
+[2] = {
+7,
+[6] = 7,
+[7] = 7,
+[10] = 7,
+[4] = 7,
+[9] = 7,
+[11] = 7,
+},
+[12] = {
+[5] = 8,
+[10] = 8,
+[7] = 8,
+[13] = 8,
+},
+[4] = {
+1,
+nil,
+nil,
+1,
+1,
+1,
+nil,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+[20] = 1,
+[24] = 1,
+[21] = 1,
+[18] = 1,
+[19] = 1,
+},
+[9] = {
+nil,
+nil,
+8,
+8,
+8,
+nil,
+8,
+8,
+[11] = 8,
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Halls PUG (11 Aug)",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 24,
+["week"] = 1,
+["uid"] = "Y6CO)(mfHOW",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 8",
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 10,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+10,
+},
+["pulls"] = {
+{
+{
+2,
+1,
+16,
+},
+nil,
+nil,
+{
+12,
+},
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3eff9e",
+[4] = {
+10,
+9,
+},
+[5] = {
+19,
+20,
+17,
+18,
+},
+},
+{
+{
+10,
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+11,
+},
+["color"] = "ff3e3e",
+},
+{
+[3] = {
+12,
+11,
+},
+[2] = {
+6,
+},
+["color"] = "3e9eff",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+17,
+18,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+[12] = {
+7,
+},
+},
+{
+{
+6,
+14,
+5,
+},
+["color"] = "3eff3e",
+[4] = {
+2,
+4,
+},
+[5] = {
+2,
+3,
+4,
+1,
+},
+},
+{
+{
+17,
+15,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+[5] = {
+5,
+},
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[3] = {
+7,
+8,
+9,
+10,
+},
+[2] = {
+3,
+5,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+1,
+},
+[6] = {
+6,
+5,
+7,
+},
+["color"] = "ff9b3e",
+},
+{
+[11] = {
+8,
+9,
+},
+[10] = {
+},
+["color"] = "3e3eff",
+[4] = {
+27,
+28,
+},
+[9] = {
+},
+},
+{
+["color"] = "a1ff3e",
+[10] = {
+34,
+33,
+35,
+36,
+37,
+},
+[4] = {
+22,
+26,
+},
+[11] = {
+11,
+12,
+},
+},
+{
+["color"] = "ff3eff",
+[11] = {
+5,
+6,
+},
+[4] = {
+20,
+},
+[9] = {
+3,
+},
+},
+{
+["color"] = "3eff9e",
+[12] = {
+1,
+2,
+},
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+[18] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+[11] = {
+13,
+14,
+},
+[2] = {
+10,
+11,
+},
+[3] = {
+21,
+20,
+19,
+},
+["color"] = "3e9eff",
+[9] = {
+11,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+4,
+},
+[23] = {
+1,
+2,
+},
+[4] = {
+24,
+},
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3eff3e",
+[14] = {
+1,
+},
+[22] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[16] = {
+1,
+},
+[24] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3effff",
+[19] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 11,
+["week"] = 1,
+["value"] = {
+["pulls"] = {
+{
+{
+1,
+2,
+16,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+{
+12,
+},
+{
+24,
+27,
+25,
+26,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[12] = {
+},
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3eff9e",
+[4] = {
+10,
+9,
+},
+[5] = {
+18,
+20,
+17,
+19,
+15,
+},
+},
+{
+{
+10,
+},
+{
+7,
+6,
+},
+{
+13,
+14,
+11,
+12,
+},
+{
+11,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+18,
+17,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+[12] = {
+7,
+},
+},
+{
+{
+6,
+14,
+5,
+},
+["color"] = "fffb3e",
+[4] = {
+2,
+4,
+},
+[5] = {
+1,
+2,
+3,
+4,
+},
+},
+{
+{
+15,
+17,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+[5] = {
+5,
+},
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[2] = {
+3,
+5,
+},
+[3] = {
+8,
+7,
+9,
+10,
+},
+},
+{
+[8] = {
+1,
+},
+[6] = {
+},
+["color"] = "3effff",
+},
+{
+{
+12,
+},
+["color"] = "ff9b3e",
+[10] = {
+38,
+40,
+41,
+42,
+44,
+43,
+39,
+16,
+10,
+12,
+14,
+17,
+11,
+13,
+15,
+18,
+},
+[9] = {
+4,
+8,
+7,
+},
+[4] = {
+15,
+},
+},
+{
+{
+11,
+},
+[5] = {
+39,
+38,
+36,
+37,
+40,
+41,
+42,
+43,
+},
+[4] = {
+18,
+14,
+},
+["color"] = "3e3eff",
+},
+{
+{
+},
+[11] = {
+5,
+6,
+},
+[12] = {
+},
+[4] = {
+20,
+},
+[9] = {
+3,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[13] = {
+1,
+},
+[18] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+[11] = {
+14,
+13,
+},
+[2] = {
+10,
+11,
+},
+[3] = {
+20,
+21,
+19,
+},
+["color"] = "3eff9e",
+[9] = {
+11,
+},
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+4,
+},
+[23] = {
+1,
+2,
+},
+[4] = {
+24,
+},
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3e9eff",
+[14] = {
+1,
+},
+[22] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+1,
+},
+[24] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3eff3e",
+[19] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+},
+},
+["selection"] = {
+10,
+},
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["currentPull"] = 10,
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Route 9",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[36] = {
+{
+["difficulty"] = 11,
+["week"] = 5,
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["value"] = {
+["currentPull"] = 25,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[5] = {
+},
+},
+["currentDungeonIdx"] = 36,
+["teeming"] = false,
+["selection"] = {
+25,
+},
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+["color"] = "3eff9e",
+[4] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[9] = {
+1,
+2,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[10] = {
+1,
+},
+[29] = {
+},
+},
+{
+["color"] = "fffb3e",
+[30] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[12] = {
+1,
+},
+[9] = {
+4,
+3,
+},
+[8] = {
+2,
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[31] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[14] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[15] = {
+1,
+2,
+3,
+4,
+5,
+7,
+},
+},
+{
+["color"] = "3e3eff",
+[15] = {
+6,
+8,
+9,
+10,
+11,
+12,
+},
+},
+{
+["color"] = "a1ff3e",
+[16] = {
+1,
+},
+},
+{
+[18] = {
+},
+[15] = {
+},
+[17] = {
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[17] = {
+3,
+},
+[15] = {
+},
+[18] = {
+1,
+},
+["color"] = "3eff9e",
+[16] = {
+2,
+},
+},
+{
+[18] = {
+6,
+},
+[15] = {
+22,
+24,
+23,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[17] = {
+},
+[15] = {
+20,
+21,
+19,
+},
+[18] = {
+5,
+},
+},
+{
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+[17] = {
+7,
+6,
+},
+},
+{
+["color"] = "3eff3e",
+[18] = {
+3,
+},
+[17] = {
+12,
+},
+[20] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[21] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[25] = {
+2,
+},
+[22] = {
+3,
+4,
+},
+},
+{
+[24] = {
+2,
+},
+[25] = {
+3,
+},
+["color"] = "ff9b3e",
+[23] = {
+9,
+10,
+},
+[22] = {
+5,
+},
+},
+{
+[25] = {
+},
+[22] = {
+6,
+},
+[26] = {
+3,
+},
+[23] = {
+13,
+15,
+14,
+12,
+11,
+},
+["color"] = "3e3eff",
+},
+{
+[24] = {
+3,
+},
+[25] = {
+4,
+},
+[22] = {
+},
+[23] = {
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[27] = {
+1,
+},
+},
+{
+[24] = {
+1,
+},
+[22] = {
+1,
+},
+[23] = {
+4,
+1,
+2,
+3,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[28] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 21,
+["week"] = 9,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["value"] = {
+["selection"] = {
+26,
+},
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+["color"] = "ff3eff",
+[4] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+[8] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[29] = {
+1,
+},
+},
+{
+[24] = {
+1,
+},
+[22] = {
+1,
+},
+[23] = {
+2,
+1,
+4,
+3,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[25] = {
+1,
+},
+[23] = {
+6,
+7,
+8,
+5,
+},
+[22] = {
+2,
+},
+},
+{
+["color"] = "3eff3e",
+[25] = {
+2,
+},
+[22] = {
+3,
+4,
+},
+},
+{
+[24] = {
+2,
+},
+[25] = {
+3,
+},
+["color"] = "ff3e9e",
+[23] = {
+9,
+10,
+},
+[22] = {
+5,
+},
+},
+{
+["color"] = "3effff",
+[26] = {
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[22] = {
+6,
+},
+[23] = {
+13,
+15,
+14,
+12,
+11,
+},
+},
+{
+["color"] = "3e3eff",
+[25] = {
+4,
+},
+[24] = {
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[27] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[15] = {
+2,
+1,
+3,
+4,
+5,
+7,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+8,
+9,
+6,
+12,
+10,
+11,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+},
+},
+{
+[18] = {
+},
+[15] = {
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[16] = {
+2,
+},
+[17] = {
+3,
+},
+[18] = {
+},
+},
+{
+[18] = {
+1,
+},
+[17] = {
+5,
+4,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[20] = {
+2,
+3,
+},
+},
+{
+["color"] = "3effff",
+[20] = {
+1,
+},
+[17] = {
+12,
+},
+[18] = {
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[21] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[30] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[8] = {
+2,
+3,
+},
+[12] = {
+1,
+},
+[9] = {
+4,
+3,
+},
+},
+{
+["color"] = "ff3eff",
+[13] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[14] = {
+1,
+},
+},
+{
+[17] = {
+},
+[15] = {
+24,
+22,
+23,
+},
+[18] = {
+6,
+},
+["color"] = "ff3e3e",
+[3] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[28] = {
+1,
+},
+},
+},
+["currentDungeonIdx"] = 36,
+["teeming"] = false,
+["currentPull"] = 26,
+["riftOffsets"] = {
+[5] = {
+},
+[6] = {
+},
+[9] = {
+},
+},
+},
+["text"] = "Trance Week 5 Theater of Pain 2",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Preset>",
+},
+},
+[44] = {
+{
+["mdiEnabled"] = false,
+["week"] = 2,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 4,
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentDungeonIdx"] = 44,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+3,
+7,
+8,
+9,
+},
+["color"] = "ff3eff",
+[3] = {
+1,
+},
+},
+{
+{
+11,
+14,
+15,
+16,
+},
+{
+2,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+4,
+1,
+2,
+3,
+},
+[7] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+9,
+10,
+12,
+11,
+},
+[7] = {
+3,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+8,
+7,
+5,
+6,
+},
+[7] = {
+2,
+},
+},
+{
+["color"] = "3eff3e",
+[8] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+2,
+},
+},
+{
+[11] = {
+1,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+3,
+},
+[13] = {
+4,
+},
+[10] = {
+5,
+6,
+7,
+},
+[12] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+[14] = {
+1,
+},
+[13] = {
+3,
+2,
+1,
+},
+[11] = {
+2,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+6,
+5,
+},
+[15] = {
+4,
+5,
+},
+[14] = {
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[16] = {
+1,
+},
+[12] = {
+2,
+},
+[10] = {
+10,
+},
+},
+{
+["color"] = "3eff9e",
+[17] = {
+1,
+2,
+},
+[18] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+2,
+3,
+4,
+},
+[12] = {
+3,
+4,
+},
+[17] = {
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[17] = {
+4,
+5,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+5,
+6,
+},
+[17] = {
+6,
+},
+[12] = {
+5,
+},
+},
+{
+["color"] = "3eff3e",
+[19] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[22] = {
+3,
+1,
+4,
+},
+[20] = {
+1,
+},
+[21] = {
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3effff",
+[22] = {
+5,
+6,
+},
+[20] = {
+2,
+},
+[21] = {
+5,
+6,
+},
+},
+{
+["color"] = "ff9b3e",
+[22] = {
+7,
+},
+[21] = {
+7,
+8,
+10,
+9,
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+8,
+},
+[20] = {
+3,
+},
+[21] = {
+12,
+11,
+14,
+13,
+},
+},
+{
+["color"] = "a1ff3e",
+[22] = {
+},
+[20] = {
+5,
+4,
+},
+[21] = {
+},
+},
+{
+["color"] = "ff3eff",
+[23] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[24] = {
+1,
+},
+},
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["difficulty"] = 30,
+},
+},
+[114] = {
+{
+["difficulty"] = 3,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 114,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+4,
+3,
+2,
+},
+{
+3,
+4,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+[3] = {
+1,
+},
+[10] = {
+4,
+5,
+6,
+7,
+},
+["color"] = "3eff9e",
+},
+{
+{
+11,
+12,
+},
+[4] = {
+3,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[10] = {
+32,
+33,
+29,
+34,
+30,
+35,
+31,
+40,
+38,
+41,
+42,
+36,
+44,
+39,
+43,
+37,
+},
+[4] = {
+5,
+},
+[3] = {
+5,
+},
+},
+{
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+},
+{
+[5] = {
+1,
+},
+[6] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+2,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[6] = {
+3,
+},
+[7] = {
+2,
+},
+[11] = {
+1,
+},
+},
+{
+[11] = {
+2,
+},
+[7] = {
+3,
+},
+[8] = {
+2,
+},
+["color"] = "ff9b3e",
+[6] = {
+4,
+},
+},
+{
+["color"] = "3e3eff",
+[20] = {
+1,
+},
+[21] = {
+1,
+},
+},
+{
+[27] = {
+1,
+},
+[8] = {
+3,
+4,
+},
+[25] = {
+1,
+2,
+},
+[12] = {
+1,
+2,
+4,
+3,
+16,
+17,
+18,
+15,
+8,
+9,
+10,
+5,
+6,
+7,
+},
+[26] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[25] = {
+4,
+},
+[12] = {
+20,
+21,
+22,
+19,
+24,
+25,
+26,
+23,
+},
+[26] = {
+6,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+2,
+},
+[15] = {
+2,
+},
+[14] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "3e9eff",
+[15] = {
+3,
+},
+[9] = {
+10,
+7,
+1,
+2,
+4,
+8,
+9,
+5,
+3,
+6,
+},
+[14] = {
+7,
+4,
+8,
+5,
+6,
+},
+},
+{
+["color"] = "fffb3e",
+[23] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[17] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[18] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[22] = {
+1,
+},
+},
+},
+},
+},
+},
+[119] = {
+{
+["difficulty"] = 2,
+["uid"] = "ggZJet81HxK",
+["week"] = 1,
+["value"] = {
+["currentPull"] = 8,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+4,
+},
+{
+8,
+9,
+},
+nil,
+{
+1,
+5,
+6,
+},
+{
+8,
+7,
+9,
+1,
+32,
+19,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[13] = {
+},
+[10] = {
+5,
+4,
+},
+["color"] = "3eff9e",
+[14] = {
+5,
+},
+[5] = {
+21,
+20,
+16,
+17,
+},
+[4] = {
+2,
+4,
+3,
+},
+},
+{
+[7] = {
+5,
+},
+[3] = {
+14,
+16,
+15,
+},
+["color"] = "ff3e3e",
+[9] = {
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+["color"] = "3e9eff",
+[6] = {
+15,
+16,
+},
+[2] = {
+21,
+22,
+24,
+23,
+},
+[3] = {
+17,
+18,
+},
+},
+{
+[18] = {
+1,
+},
+["color"] = "fffb3e",
+[23] = {
+1,
+2,
+4,
+3,
+},
+[5] = {
+},
+},
+{
+[2] = {
+12,
+13,
+26,
+25,
+},
+[8] = {
+},
+["color"] = "3eff3e",
+[9] = {
+},
+[5] = {
+11,
+10,
+},
+},
+{
+[2] = {
+},
+[8] = {
+},
+[3] = {
+},
+["color"] = "ff3e9e",
+[5] = {
+33,
+14,
+13,
+15,
+},
+[7] = {
+},
+},
+{
+[14] = {
+6,
+7,
+},
+[10] = {
+6,
+7,
+},
+["color"] = "3effff",
+[5] = {
+22,
+23,
+24,
+25,
+},
+},
+{
+{
+6,
+5,
+},
+["color"] = "ff9b3e",
+[10] = {
+8,
+},
+[5] = {
+27,
+26,
+},
+},
+{
+["color"] = "3e3eff",
+[19] = {
+1,
+},
+[20] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+5,
+6,
+4,
+nil,
+8,
+7,
+},
+[17] = {
+},
+},
+{
+["color"] = "ff3eff",
+[15] = {
+3,
+6,
+2,
+4,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[21] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[17] = {
+},
+["color"] = "3e9eff",
+[9] = {
+7,
+},
+[5] = {
+30,
+31,
+},
+},
+{
+["color"] = "fffb3e",
+[2] = {
+27,
+},
+[9] = {
+},
+[5] = {
+},
+},
+{
+["color"] = "3eff3e",
+[17] = {
+},
+[11] = {
+},
+},
+{
+["color"] = "ff3e9e",
+[17] = {
+},
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+8,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["uid"] = "Lx5M5dNQQTC",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["selection"] = {
+18,
+},
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["currentPull"] = 18,
+["pulls"] = {
+{
+[8] = {
+2,
+},
+[6] = {
+4,
+5,
+6,
+7,
+10,
+8,
+9,
+},
+["color"] = "ff3eff",
+[2] = {
+10,
+11,
+},
+},
+{
+[5] = {
+11,
+10,
+},
+[18] = {
+1,
+},
+[23] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3eff9e",
+},
+{
+[6] = {
+},
+[2] = {
+26,
+25,
+13,
+12,
+},
+[8] = {
+},
+["color"] = "ff3e3e",
+[9] = {
+5,
+6,
+},
+},
+{
+["color"] = "3e9eff",
+[2] = {
+24,
+23,
+},
+[4] = {
+11,
+10,
+},
+[6] = {
+},
+},
+{
+[7] = {
+},
+[8] = {
+},
+[3] = {
+},
+["color"] = "fffb3e",
+[5] = {
+14,
+15,
+13,
+33,
+},
+},
+{
+[5] = {
+16,
+17,
+},
+[10] = {
+4,
+},
+[4] = {
+4,
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+{
+[6] = {
+11,
+12,
+},
+[10] = {
+5,
+},
+["color"] = "ff3e9e",
+[14] = {
+5,
+},
+[5] = {
+20,
+21,
+},
+},
+{
+[3] = {
+13,
+11,
+12,
+},
+[2] = {
+15,
+14,
+},
+["color"] = "3effff",
+[6] = {
+13,
+14,
+},
+},
+{
+{
+4,
+},
+[5] = {
+18,
+19,
+32,
+1,
+},
+[10] = {
+3,
+2,
+},
+[4] = {
+5,
+1,
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+[5] = {
+23,
+22,
+},
+[13] = {
+3,
+2,
+},
+["color"] = "3e3eff",
+[14] = {
+6,
+},
+},
+{
+[5] = {
+24,
+25,
+},
+[10] = {
+6,
+7,
+},
+["color"] = "a1ff3e",
+[14] = {
+7,
+},
+},
+{
+{
+6,
+5,
+},
+[5] = {
+26,
+27,
+28,
+29,
+},
+[10] = {
+8,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[19] = {
+1,
+},
+[20] = {
+1,
+},
+},
+{
+[15] = {
+4,
+6,
+2,
+3,
+5,
+},
+["color"] = "ff3e3e",
+},
+{
+[21] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+[16] = {
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+4,
+1,
+},
+[5] = {
+31,
+30,
+},
+[9] = {
+7,
+},
+["color"] = "3eff3e",
+},
+{
+[11] = {
+6,
+5,
+},
+[2] = {
+27,
+},
+["color"] = "ff3e9e",
+[9] = {
+},
+[5] = {
+},
+},
+{
+[11] = {
+},
+[17] = {
+},
+["color"] = "3effff",
+},
+{
+[17] = {
+},
+["color"] = "ff9b3e",
+},
+{
+["color"] = "3e3eff",
+[22] = {
+1,
+},
+[16] = {
+},
+},
+},
+},
+["text"] = "Tactyks PUG Friendly",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+227.85748291475,
+-68.131671995169,
+1,
+true,
+"Mount up and run up the hill towards pull 1, G11 patrols but if you just run straight up you'll beat it, for safety you can have some use a long range CC on the demolitionist to stop the patrol",
+},
+},
+{
+["n"] = true,
+["d"] = {
+241.59540773832,
+-455.98883702878,
+1,
+true,
+"Use the gliders here to go to pull 6, make sure your tank is first!",
+},
+},
+{
+["n"] = true,
+["d"] = {
+334.37524626748,
+-255.02964578219,
+1,
+true,
+"Watch for the G39 patrol, it's not a big deal to add them into pull 7 instead of pull 10",
+},
+},
+{
+["n"] = true,
+["d"] = {
+476.69351264636,
+-282.66368101877,
+1,
+true,
+"Chain pull into G46 once G43 is dead",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+0.75207734315778,
+},
+["l"] = {
+"227.5",
+"-78.40000000000002",
+"134.3",
+"-165.6",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"ffffff",
+-8,
+},
+["t"] = {
+-1.6646377710065,
+},
+["l"] = {
+"222.9",
+"-449.9",
+"236.1",
+"-309.9",
+},
+},
+},
+["week"] = 1,
+},
+{
+["difficulty"] = 10,
+["week"] = 1,
+["addonVersion"] = 550,
+["uid"] = "BMi35jt00rD",
+["value"] = {
+["pulls"] = {
+{
+{
+3,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+9,
+7,
+8,
+1,
+31,
+17,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+12,
+11,
+},
+[12] = {
+},
+[14] = {
+4,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3eff9e",
+[4] = {
+3,
+2,
+4,
+},
+[5] = {
+20,
+19,
+16,
+15,
+},
+[25] = {
+5,
+},
+},
+{
+[13] = {
+1,
+2,
+},
+[25] = {
+2,
+},
+[12] = {
+},
+[14] = {
+5,
+},
+[5] = {
+21,
+22,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+5,
+4,
+},
+[5] = {
+26,
+25,
+27,
+28,
+},
+[10] = {
+7,
+8,
+},
+["color"] = "3e9eff",
+},
+{
+[18] = {
+1,
+},
+[19] = {
+1,
+},
+["color"] = "fffb3e",
+[27] = {
+1,
+2,
+},
+},
+{
+[7] = {
+4,
+},
+[3] = {
+12,
+13,
+14,
+},
+[12] = {
+4,
+3,
+14,
+},
+["color"] = "3eff3e",
+[9] = {
+3,
+2,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+["color"] = "ff3e9e",
+[2] = {
+18,
+16,
+17,
+14,
+15,
+},
+[7] = {
+2,
+3,
+},
+[6] = {
+13,
+14,
+},
+},
+{
+[6] = {
+16,
+15,
+},
+[17] = {
+1,
+},
+[3] = {
+},
+[22] = {
+1,
+2,
+4,
+3,
+},
+["color"] = "3effff",
+[5] = {
+11,
+10,
+},
+[2] = {
+21,
+22,
+},
+},
+{
+[2] = {
+23,
+24,
+},
+[8] = {
+2,
+},
+[3] = {
+17,
+},
+["color"] = "ff9b3e",
+[5] = {
+13,
+12,
+14,
+32,
+},
+[7] = {
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[12] = {
+},
+[15] = {
+1,
+6,
+2,
+3,
+4,
+5,
+},
+[20] = {
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+7,
+6,
+8,
+3,
+4,
+5,
+},
+[20] = {
+},
+},
+{
+["color"] = "ff3eff",
+[20] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[2] = {
+30,
+28,
+29,
+},
+["color"] = "3eff9e",
+[5] = {
+30,
+29,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[11] = {
+8,
+7,
+},
+[2] = {
+27,
+},
+["color"] = "ff3e3e",
+[5] = {
+33,
+},
+[9] = {
+7,
+6,
+},
+[16] = {
+4,
+},
+},
+{
+["color"] = "3e9eff",
+[16] = {
+2,
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[26] = {
+1,
+2,
+3,
+},
+["color"] = "fffb3e",
+},
+},
+["currentPull"] = 12,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[3] = {
+[14] = 7,
+[13] = 7,
+[12] = 7,
+},
+[10] = {
+[7] = 7,
+[8] = 7,
+},
+[8] = {
+[2] = 8,
+},
+[11] = {
+1,
+[8] = 1,
+[4] = 1,
+[7] = 1,
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+12,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Floodgate (9 Aug)",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+7,
+8,
+9,
+1,
+31,
+17,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[25] = {
+5,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3eff9e",
+[4] = {
+4,
+2,
+3,
+},
+[5] = {
+20,
+19,
+16,
+15,
+},
+[14] = {
+4,
+},
+},
+{
+[6] = {
+},
+[7] = {
+4,
+},
+[3] = {
+12,
+13,
+14,
+},
+["color"] = "ff3e3e",
+[9] = {
+2,
+3,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+nil,
+{
+22,
+21,
+},
+{
+16,
+15,
+},
+{
+8,
+7,
+9,
+10,
+11,
+},
+{
+},
+{
+16,
+15,
+},
+["color"] = "3e9eff",
+[22] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "fffb3e",
+[22] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+},
+},
+{
+[2] = {
+23,
+24,
+},
+[8] = {
+2,
+},
+[3] = {
+17,
+},
+["color"] = "3eff3e",
+[5] = {
+32,
+12,
+14,
+13,
+},
+[7] = {
+5,
+},
+},
+{
+[14] = {
+5,
+},
+[25] = {
+2,
+},
+["color"] = "ff3e9e",
+[5] = {
+21,
+22,
+},
+},
+{
+[25] = {
+4,
+},
+["color"] = "3effff",
+[14] = {
+6,
+},
+[5] = {
+24,
+23,
+},
+[10] = {
+5,
+6,
+},
+},
+{
+{
+5,
+4,
+},
+["color"] = "ff9b3e",
+[10] = {
+7,
+8,
+},
+[5] = {
+25,
+26,
+28,
+27,
+},
+},
+{
+[27] = {
+2,
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e3eff",
+[18] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+5,
+3,
+4,
+7,
+6,
+8,
+1,
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[15] = {
+3,
+6,
+2,
+1,
+4,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[20] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[2] = {
+29,
+30,
+28,
+},
+["color"] = "ff3e3e",
+[5] = {
+30,
+29,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[11] = {
+8,
+7,
+},
+[2] = {
+27,
+},
+["color"] = "3e9eff",
+[16] = {
+4,
+},
+[9] = {
+6,
+7,
+},
+[5] = {
+33,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+2,
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[26] = {
+1,
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 3",
+["objects"] = {
+},
+["uid"] = "uRoPC(NIsrP",
+},
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 5,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+3,
+},
+{
+8,
+9,
+},
+nil,
+{
+5,
+1,
+6,
+},
+{
+7,
+8,
+9,
+1,
+31,
+17,
+18,
+},
+nil,
+nil,
+nil,
+nil,
+{
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+11,
+12,
+},
+[25] = {
+5,
+},
+[10] = {
+4,
+3,
+},
+["color"] = "3eff9e",
+[4] = {
+4,
+2,
+3,
+},
+[5] = {
+20,
+19,
+16,
+15,
+},
+[14] = {
+4,
+},
+},
+{
+[6] = {
+},
+[7] = {
+4,
+},
+[3] = {
+12,
+13,
+14,
+},
+["color"] = "ff3e3e",
+[9] = {
+2,
+3,
+},
+[2] = {
+1,
+20,
+19,
+},
+},
+{
+nil,
+{
+22,
+21,
+},
+{
+16,
+15,
+},
+{
+8,
+7,
+9,
+10,
+11,
+},
+{
+},
+{
+16,
+15,
+},
+["color"] = "3e9eff",
+[22] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "fffb3e",
+[22] = {
+1,
+2,
+4,
+3,
+},
+[17] = {
+1,
+},
+[5] = {
+},
+},
+{
+[2] = {
+23,
+24,
+},
+[8] = {
+2,
+},
+[3] = {
+17,
+},
+["color"] = "3eff3e",
+[5] = {
+32,
+12,
+14,
+13,
+},
+[7] = {
+5,
+},
+},
+{
+[14] = {
+5,
+},
+[25] = {
+2,
+},
+["color"] = "ff3e9e",
+[5] = {
+21,
+22,
+},
+},
+{
+[25] = {
+4,
+},
+["color"] = "3effff",
+[14] = {
+6,
+},
+[5] = {
+24,
+23,
+},
+[10] = {
+5,
+6,
+},
+},
+{
+{
+5,
+4,
+},
+["color"] = "ff9b3e",
+[10] = {
+7,
+8,
+},
+[5] = {
+25,
+26,
+28,
+27,
+},
+},
+{
+[27] = {
+2,
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e3eff",
+[18] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+5,
+3,
+4,
+7,
+6,
+8,
+1,
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[15] = {
+3,
+6,
+2,
+1,
+4,
+5,
+},
+},
+{
+["color"] = "3eff9e",
+[20] = {
+1,
+},
+},
+{
+[11] = {
+4,
+1,
+},
+[2] = {
+29,
+30,
+28,
+},
+["color"] = "ff3e3e",
+[5] = {
+30,
+29,
+},
+[9] = {
+4,
+5,
+},
+},
+{
+[11] = {
+8,
+7,
+},
+[2] = {
+27,
+},
+["color"] = "3e9eff",
+[16] = {
+4,
+},
+[9] = {
+6,
+7,
+},
+[5] = {
+33,
+},
+},
+{
+["color"] = "fffb3e",
+[16] = {
+2,
+1,
+},
+},
+{
+[21] = {
+1,
+},
+[26] = {
+1,
+2,
+3,
+},
+["color"] = "3eff3e",
+},
+},
+["currentDungeonIdx"] = 119,
+["teeming"] = false,
+["selection"] = {
+5,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Route 3 2",
+["objects"] = {
+},
+["uid"] = "NoKDewZ0UZt",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[117] = {
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 6,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+4,
+2,
+3,
+5,
+7,
+6,
+8,
+9,
+10,
+11,
+12,
+14,
+16,
+13,
+15,
+},
+{
+2,
+},
+{
+},
+{
+},
+["color"] = "ff3eff",
+},
+{
+{
+17,
+20,
+24,
+21,
+18,
+22,
+19,
+23,
+},
+{
+3,
+},
+{
+},
+{
+},
+{
+2,
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+27,
+28,
+26,
+32,
+33,
+29,
+30,
+31,
+},
+{
+5,
+},
+{
+4,
+5,
+},
+{
+8,
+7,
+},
+{
+5,
+1,
+},
+{
+},
+nil,
+{
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[28] = {
+2,
+3,
+1,
+4,
+5,
+},
+[23] = {
+1,
+},
+[29] = {
+1,
+2,
+},
+},
+{
+[8] = {
+3,
+1,
+},
+[6] = {
+10,
+11,
+9,
+},
+[7] = {
+4,
+},
+["color"] = "fffb3e",
+},
+{
+[8] = {
+2,
+},
+[6] = {
+6,
+8,
+7,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[15] = {
+2,
+},
+[8] = {
+4,
+},
+[16] = {
+2,
+},
+[17] = {
+2,
+},
+[18] = {
+2,
+},
+[19] = {
+2,
+},
+[20] = {
+2,
+},
+[21] = {
+2,
+},
+[22] = {
+2,
+},
+},
+{
+["color"] = "3effff",
+[24] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[9] = {
+10,
+7,
+2,
+4,
+8,
+9,
+5,
+3,
+6,
+12,
+11,
+},
+},
+{
+{
+34,
+36,
+35,
+},
+["color"] = "3e3eff",
+[10] = {
+1,
+},
+[9] = {
+13,
+14,
+16,
+15,
+},
+[11] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[25] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[13] = {
+2,
+},
+[12] = {
+3,
+2,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+12,
+11,
+},
+},
+{
+[14] = {
+1,
+},
+[13] = {
+1,
+5,
+3,
+},
+[12] = {
+16,
+17,
+18,
+1,
+19,
+20,
+21,
+24,
+22,
+23,
+14,
+13,
+15,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+6,
+},
+[12] = {
+26,
+27,
+28,
+32,
+25,
+29,
+30,
+31,
+33,
+34,
+35,
+},
+[14] = {
+3,
+4,
+},
+},
+{
+["color"] = "3e9eff",
+[26] = {
+1,
+},
+[30] = {
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+[14] = {
+5,
+6,
+7,
+9,
+},
+[12] = {
+40,
+41,
+36,
+44,
+39,
+43,
+48,
+42,
+54,
+52,
+53,
+},
+["color"] = "fffb3e",
+},
+},
+["currentDungeonIdx"] = 117,
+["teeming"] = false,
+["selection"] = {
+6,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["difficulty"] = 20,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 117,
+["teeming"] = false,
+["selection"] = {
+15,
+},
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+7,
+6,
+8,
+9,
+10,
+11,
+12,
+14,
+16,
+13,
+15,
+},
+{
+2,
+},
+{
+2,
+},
+{
+2,
+3,
+4,
+},
+{
+2,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+{
+1,
+38,
+40,
+37,
+39,
+},
+{
+4,
+},
+{
+3,
+},
+{
+6,
+5,
+},
+{
+4,
+},
+["color"] = "3eff9e",
+},
+{
+{
+27,
+28,
+26,
+30,
+32,
+33,
+29,
+31,
+},
+{
+5,
+},
+{
+4,
+5,
+},
+{
+8,
+7,
+},
+{
+1,
+5,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[28] = {
+2,
+3,
+1,
+4,
+5,
+},
+[23] = {
+1,
+},
+[29] = {
+1,
+2,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+11,
+10,
+9,
+},
+[7] = {
+4,
+},
+[8] = {
+3,
+},
+},
+{
+[8] = {
+2,
+1,
+},
+[6] = {
+6,
+8,
+7,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[15] = {
+2,
+},
+[8] = {
+4,
+},
+[16] = {
+2,
+},
+[17] = {
+2,
+},
+[18] = {
+2,
+},
+[19] = {
+2,
+},
+[20] = {
+2,
+},
+[21] = {
+2,
+},
+[22] = {
+2,
+},
+},
+{
+["color"] = "3effff",
+[24] = {
+1,
+},
+},
+{
+["color"] = "ff9b3e",
+[9] = {
+10,
+7,
+2,
+4,
+8,
+9,
+5,
+3,
+6,
+12,
+11,
+},
+},
+{
+["color"] = "3e3eff",
+[25] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[13] = {
+2,
+},
+[12] = {
+4,
+2,
+3,
+5,
+6,
+7,
+8,
+9,
+10,
+12,
+11,
+},
+},
+{
+[14] = {
+1,
+},
+[13] = {
+1,
+},
+[12] = {
+16,
+17,
+18,
+1,
+21,
+20,
+19,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[13] = {
+5,
+},
+[12] = {
+24,
+22,
+23,
+27,
+28,
+32,
+25,
+29,
+26,
+30,
+31,
+},
+[14] = {
+4,
+3,
+},
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+6,
+},
+[12] = {
+33,
+34,
+35,
+},
+},
+{
+[14] = {
+5,
+6,
+7,
+9,
+8,
+},
+[27] = {
+2,
+1,
+},
+[12] = {
+40,
+41,
+36,
+44,
+39,
+43,
+37,
+38,
+48,
+42,
+54,
+52,
+53,
+49,
+50,
+51,
+45,
+47,
+46,
+},
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[26] = {
+1,
+},
+[30] = {
+2,
+3,
+1,
+4,
+5,
+},
+},
+},
+},
+["text"] = "gate skip miniboss",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
 [163] = {
 {
 ["difficulty"] = 2,
@@ -49900,15 +36107,15 @@ nil,
 6,
 },
 ["color"] = "3e3eff",
-[24] = {
-2,
-1,
+[18] = {
+14,
 },
 [22] = {
 1,
 },
-[18] = {
-14,
+[24] = {
+2,
+1,
 },
 },
 {
@@ -49922,11 +36129,11 @@ nil,
 [22] = {
 2,
 },
+["color"] = "a1ff3e",
 [24] = {
 3,
 4,
 },
-["color"] = "a1ff3e",
 },
 {
 {
@@ -49936,15 +36143,15 @@ nil,
 [18] = {
 15,
 },
-[3] = {
-8,
-7,
-},
+["color"] = "ff3eff",
 [17] = {
 16,
 17,
 },
-["color"] = "ff3eff",
+[3] = {
+8,
+7,
+},
 },
 {
 [2] = {
@@ -50003,13 +36210,15 @@ nil,
 },
 },
 },
-[164] = {
+[104] = {
 {
-["difficulty"] = 2,
+["difficulty"] = 11,
+["week"] = 8,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["currentDungeonIdx"] = 164,
+["currentDungeonIdx"] = 104,
+["teeming"] = false,
 ["selection"] = {
 1,
 },
@@ -50021,316 +36230,11010 @@ nil,
 },
 },
 {
-["difficulty"] = 2,
-["uid"] = "u5tyh0pflws",
-["objects"] = {
-{
-["n"] = true,
-["d"] = {
-146.4895252880461,
--193.563485563605,
-1,
-true,
-"Lust",
-},
-},
-{
-["n"] = true,
-["d"] = {
-337.1855524281984,
--290.0248614174853,
-1,
-true,
-"Lust",
-},
-},
-{
-["n"] = true,
-["d"] = {
-640.078707,
--171.167219,
-1,
-true,
-"Lust",
-},
-},
+["difficulty"] = 28,
+["uid"] = "j1r8jJOONpm",
+["week"] = 8,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 ["value"] = {
-["currentPull"] = 15,
+["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["enemyAssignments"] = {
-},
-["currentDungeonIdx"] = 164,
-["selection"] = {
-15,
-},
 ["pulls"] = {
 {
 {
+1,
 2,
 },
-[6] = {
+{
+1,
+2,
+},
+{
+1,
+2,
+3,
+4,
 5,
 6,
-9,
 },
-[7] = {
-11,
-21,
-6,
-7,
+{
+1,
 },
-[10] = {
+nil,
+nil,
+nil,
+{
 1,
 },
 ["color"] = "ff3eff",
-[11] = {
-11,
-12,
-13,
-14,
-15,
-},
 },
 {
+nil,
 {
-1,
+3,
 },
-["color"] = "3eff9e",
-[6] = {
-1,
-2,
-8,
-},
-[7] = {
+{
+7,
 8,
 9,
+10,
+11,
 },
+{
+3,
+2,
+},
+["color"] = "3eff9e",
 },
 {
 {
 3,
 },
-[11] = {
-22,
-23,
-24,
+{
+4,
 },
-[6] = {
-11,
-12,
-},
-[7] = {
+{
 12,
 13,
 14,
 15,
-17,
-18,
+16,
+},
+{
+4,
 },
 ["color"] = "ff3e3e",
 },
 {
-{
-4,
+[3] = {
+38,
+37,
+39,
+40,
+41,
+},
+[2] = {
+7,
 },
 ["color"] = "3e9eff",
-[6] = {
-13,
-14,
-},
-[7] = {
-19,
-20,
+[5] = {
+2,
 },
 },
 {
-[11] = {
-25,
-26,
-27,
-28,
-},
-[10] = {
-2,
+[5] = {
 3,
+},
+[2] = {
+8,
+9,
 },
 ["color"] = "fffb3e",
 },
 {
-[14] = {
-1,
-},
-["color"] = "3eff3e",
-[7] = {
-1,
-2,
-3,
-4,
-5,
-},
-[11] = {
-16,
-17,
-18,
-},
-},
-{
-[3] = {
-1,
+[5] = {
 4,
 },
 [2] = {
-1,
-14,
-15,
-16,
-2,
-4,
-5,
-6,
-7,
-8,
+11,
+10,
 },
-[12] = {
-2,
+["color"] = "3eff3e",
+},
+{
+[5] = {
+5,
+},
+[2] = {
+12,
+13,
 },
 ["color"] = "ff3e9e",
 },
 {
 [3] = {
-10,
-11,
+53,
+52,
+54,
+55,
+56,
 },
-[2] = {
-11,
-12,
-13,
-},
-[12] = {
-3,
+[7] = {
+1,
 },
 ["color"] = "3effff",
 },
 {
-[21] = {
-1,
+[5] = {
+6,
+},
+[8] = {
+3,
 2,
 },
+[9] = {
+1,
+},
 ["color"] = "ff9b3e",
-[17] = {
+},
+{
+{
+8,
+9,
+},
+[3] = {
+57,
+58,
+59,
+60,
+61,
+62,
+64,
+65,
+66,
+63,
+},
+["color"] = "3e3eff",
+},
+{
+[5] = {
+7,
+},
+[2] = {
+16,
+15,
+14,
+},
+["color"] = "a1ff3e",
+[8] = {
+4,
+},
+},
+{
+{
+10,
+},
+{
+17,
+},
+{
+71,
+68,
+69,
+70,
+67,
+},
+[9] = {
+2,
+},
+["color"] = "ff3eff",
+},
+{
+[5] = {
+8,
+},
+[9] = {
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+12,
+},
+[3] = {
+77,
+80,
+81,
+79,
+78,
+},
+[8] = {
+10,
+9,
+},
+["color"] = "ff3e3e",
+},
+{
+[11] = {
+1,
+},
+[10] = {
+1,
+},
+[12] = {
+1,
+},
+["color"] = "3e9eff",
+},
+{
+[14] = {
+1,
+},
+[13] = {
 1,
 2,
+4,
+5,
+3,
 },
 [15] = {
 1,
 },
+["color"] = "fffb3e",
 },
 {
+["color"] = "3eff3e",
+[13] = {
+9,
+8,
+10,
+11,
+6,
+7,
+},
+[16] = {
+1,
+},
+},
+{
+[14] = {
+2,
+},
+[16] = {
+2,
+},
+[15] = {
+2,
+},
+["color"] = "ff3e9e",
+},
+{
+[17] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[13] = {
+15,
+12,
+13,
+14,
+16,
+17,
+},
+["color"] = "ff9b3e",
+},
+{
+[18] = {
+1,
+},
+[19] = {
+1,
+},
+["color"] = "3e3eff",
+},
+},
+["currentDungeonIdx"] = 104,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[8] = {
+},
+[6] = {
+},
+[4] = {
+},
+},
+},
+["text"] = "Incorporeal-Spiteful-Petko-Tyrannical",
+["objects"] = {
+{
+["d"] = {
+"454.8",
+"-233.7",
+1,
+true,
+"On Pull 18, kill and kick Pyromancer as a priority.",
+},
+["n"] = true,
+},
+{
+["l"] = {
+"517.5",
+"-314.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"516.3",
+"-316.1",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"515.2",
+"-317.9",
+"514.2",
+"-319.5",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"511",
+"-321.9",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"508.9",
+"-322",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"506.7",
+"-322.1",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"504.5",
+"-322.2",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"502.4",
+"-322.4",
+"501.8",
+"-322.4",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"651.2",
+"-288.2",
+"599.2",
+"-282.5",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"599.2",
+"-282.5",
+"603.6",
+"-277",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"599.2",
+"-282.5",
+"604.7",
+"-286.9",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"499.8",
+"-135.1",
+"492.2",
+"-148",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"492.2",
+"-148",
+"499",
+"-149.8",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"492.2",
+"-148",
+"490.4",
+"-154.8",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"494.1",
+"-153.6",
+"538.8",
+"-179.3",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"538.8",
+"-179.3",
+"536.9",
+"-186.1",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"538.8",
+"-179.3",
+"532",
+"-177.4",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"533",
+"-186.8",
+"515.9",
+"-205",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"515.9",
+"-205",
+"523",
+"-205.2",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"515.9",
+"-205",
+"515.7",
+"-212.1",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"464.2",
+"-276.6",
+"464.2",
+"-276.6",
+"464.2",
+"-276.6",
+"463.2",
+"-278.4",
+"463.2",
+"-278.4",
+"463.2",
+"-278.4",
+"463.2",
+"-278.4",
+"462.1",
+"-280.3",
+"462.1",
+"-280.3",
+"462.1",
+"-280.3",
+"462.1",
+"-280.3",
+"461",
+"-282.2",
+"461",
+"-282.2",
+"461",
+"-282.2",
+"461",
+"-282.2",
+"459.9",
+"-284.1",
+"459.9",
+"-284.1",
+"459.9",
+"-284.1",
+"459.9",
+"-284.1",
+"458.8",
+"-286",
+"458.8",
+"-286",
+"458.8",
+"-286",
+"458.8",
+"-286",
+"457.8",
+"-287.9",
+"457.8",
+"-287.9",
+"457.8",
+"-287.9",
+"457.8",
+"-287.9",
+"456.7",
+"-289.8",
+"456.7",
+"-289.8",
+"456.7",
+"-289.8",
+"456.7",
+"-289.8",
+"455.6",
+"-291.6",
+"455.6",
+"-291.6",
+"455.6",
+"-291.6",
+"455.6",
+"-291.6",
+"454.6",
+"-293.5",
+"454.6",
+"-293.5",
+"454.6",
+"-293.5",
+"454.6",
+"-293.5",
+"453.4",
+"-295.4",
+"453.4",
+"-295.4",
+"453.4",
+"-295.4",
+"453.4",
+"-295.4",
+"452.4",
+"-297.2",
+"452.4",
+"-297.2",
+"452.4",
+"-297.2",
+"452.4",
+"-297.2",
+"451.3",
+"-299.1",
+"451.3",
+"-299.1",
+"451.3",
+"-299.1",
+"451.3",
+"-299.1",
+"450.2",
+"-301.1",
+"450.2",
+"-301.1",
+"450.2",
+"-301.1",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"466",
+"-275",
+"466",
+"-275",
+"466",
+"-275",
+"467.3",
+"-276.8",
+"467.3",
+"-276.8",
+"467.3",
+"-276.8",
+"467.3",
+"-276.8",
+"468.6",
+"-278.5",
+"468.6",
+"-278.5",
+"468.6",
+"-278.5",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"462",
+"-274.4",
+"462",
+"-274.4",
+"462",
+"-274.4",
+"459.9",
+"-274.8",
+"459.9",
+"-274.8",
+"459.9",
+"-274.8",
+"459.9",
+"-274.8",
+"457.8",
+"-275.1",
+"457.8",
+"-275.1",
+"457.8",
+"-275.1",
+},
+["d"] = {
+5,
+1,
+1,
+true,
+"395aea",
+-8,
+true,
+},
+},
+{
+["d"] = {
+"562",
+"-250.1",
+1,
+true,
+"BL Pull 1",
+},
+["n"] = true,
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[120] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["pulls"] = {
+{
+nil,
+{
+3,
+1,
+2,
+13,
+12,
+14,
+15,
+},
+{
+4,
+3,
+5,
+},
+{
+1,
+2,
+},
+["color"] = "ff3eff",
+[6] = {
+15,
+14,
+},
+[29] = {
+},
+},
+{
+[6] = {
+3,
+},
+[2] = {
+18,
+10,
+},
 [3] = {
+9,
+},
+["color"] = "3eff9e",
+[4] = {
+5,
+7,
+},
+[5] = {
+6,
+},
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+5,
+},
+[7] = {
+1,
+},
+[3] = {
+10,
+},
+},
+{
+[8] = {
+1,
+},
+[32] = {
+6,
+2,
+3,
+1,
+4,
+5,
+},
+["color"] = "3e9eff",
+},
+{
+[11] = {
+4,
+5,
+},
+[10] = {
+2,
+3,
+},
+[12] = {
+2,
+},
+[9] = {
+2,
+4,
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+3,
+7,
+8,
+},
+[10] = {
+5,
+6,
+},
+["color"] = "3eff3e",
+[9] = {
+3,
+7,
+8,
+},
+[12] = {
+4,
+},
+},
+{
+[14] = {
+1,
+2,
+3,
+6,
+4,
+5,
+},
+[15] = {
+1,
+2,
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[16] = {
+1,
+},
+[9] = {
+13,
+14,
+},
+[11] = {
+13,
+12,
+},
+},
+{
+["color"] = "ff9b3e",
+[17] = {
+1,
+},
+[18] = {
+1,
+2,
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+3,
+15,
+},
+[23] = {
+2,
+3,
+4,
+5,
+6,
+24,
+25,
+22,
+23,
+},
+[20] = {
+4,
+},
+},
+{
+[20] = {
+5,
+6,
+7,
+},
+[21] = {
+6,
+5,
+7,
+8,
+},
+[22] = {
+14,
+17,
+16,
+},
+[23] = {
+21,
+20,
+17,
+18,
+19,
+32,
+33,
+34,
+35,
+31,
+},
+["color"] = "a1ff3e",
+},
+{
+["color"] = "ff3eff",
+[22] = {
+1,
+},
+[20] = {
+1,
+3,
+},
+[21] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[24] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[25] = {
+3,
+},
+[26] = {
+4,
+3,
+},
+[28] = {
+5,
+},
+},
+{
+["color"] = "3e9eff",
+[28] = {
+10,
+22,
+21,
+13,
+},
+[26] = {
+7,
+},
+[25] = {
+6,
+},
+},
+{
+["color"] = "fffb3e",
+[28] = {
+24,
+29,
+28,
+27,
+20,
+},
+},
+{
+["color"] = "3eff3e",
+[25] = {
+7,
+8,
+},
+},
+{
+[27] = {
+1,
+},
+[31] = {
+1,
+2,
+},
+["color"] = "ff3e9e",
+[30] = {
+1,
+2,
+},
+},
+},
+["currentPull"] = 11,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 120,
+["teeming"] = false,
+["selection"] = {
+11,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+},
+[37] = {
+{
+["difficulty"] = 15,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+},
+["pulls"] = {
+{
+["color"] = "228b22",
+},
+},
+},
+},
+{
+["objects"] = {
+},
+["week"] = 1,
+["addonVersion"] = 552,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["pulls"] = {
+{
+{
+8,
+1,
+2,
+9,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+3,
+7,
+6,
+},
+nil,
+{
+2,
+1,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+{
+1,
+},
+{
+},
+["color"] = "3eff9e",
+},
+{
+{
+4,
+5,
+},
+nil,
+{
+3,
+},
+{
+3,
+4,
+},
+["color"] = "ff3e3e",
+[7] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[5] = {
+2,
+3,
+},
+},
+{
+[8] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[10] = {
+1,
+},
+[11] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[12] = {
+1,
+2,
+},
+[26] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[17] = {
+1,
+},
+[18] = {
+1,
+},
+[12] = {
+7,
+6,
+},
+[19] = {
+6,
+},
+[16] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[17] = {
+2,
+},
+[18] = {
+2,
+},
+["color"] = "ff9b3e",
+[12] = {
+},
+[16] = {
+2,
+6,
+},
+[13] = {
+},
+},
+{
+[37] = {
+1,
+},
+[35] = {
+7,
+8,
+9,
+5,
+6,
+},
+["color"] = "3e3eff",
+},
+{
+[34] = {
+1,
+},
+[35] = {
+2,
+4,
+3,
+},
+["color"] = "a1ff3e",
+},
+{
+[37] = {
+2,
+},
+["color"] = "ff3eff",
+[35] = {
+13,
+1,
+10,
+12,
+11,
+},
+[34] = {
+2,
+3,
+},
+},
+{
+[27] = {
+6,
+4,
+5,
+2,
+3,
+1,
+},
+[28] = {
+3,
+1,
+2,
+},
+[29] = {
+2,
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[20] = {
+2,
+},
+[36] = {
+},
+[21] = {
+2,
+},
+[33] = {
+},
+[12] = {
+},
+["color"] = "ff3e3e",
+[23] = {
+1,
+},
+[22] = {
+1,
+2,
+},
+},
+{
+[13] = {
+},
+[27] = {
+7,
+},
+["color"] = "3e9eff",
+[29] = {
+3,
+},
+[30] = {
+1,
+},
+[16] = {
+},
+[32] = {
+1,
+},
+[18] = {
+},
+[19] = {
+},
+[28] = {
+4,
+},
+[14] = {
+},
+[12] = {
+},
+[17] = {
+},
+},
+{
+["color"] = "fffb3e",
+[31] = {
+1,
+},
+},
+},
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+[28] = {
+8,
+8,
+8,
+},
+[29] = {
+1,
+1,
+},
+[16] = {
+8,
+8,
+[6] = 8,
+},
+[9] = {
+7,
+7,
+},
+[5] = {
+8,
+},
+[3] = {
+1,
+1,
+},
+[20] = {
+7,
+7,
+7,
+},
+[21] = {
+1,
+1,
+},
+[2] = {
+8,
+},
+[18] = {
+1,
+1,
+},
+[34] = {
+8,
+8,
+8,
+},
+},
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Streets Pug (11 Aug)",
+["difficulty"] = 10,
+["uid"] = "zHu0sNS42VH",
+},
+{
+["difficulty"] = 10,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 37,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+8,
+9,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+3,
+7,
+6,
+},
+["color"] = "3eff9e",
+[5] = {
+1,
+},
+[4] = {
+1,
+2,
+},
+[3] = {
+2,
+1,
+},
+},
+{
+{
+4,
+5,
+},
+nil,
+{
+3,
+},
+{
+3,
+4,
+},
+{
+3,
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[7] = {
+1,
+},
+},
+{
+[8] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+},
+[11] = {
+3,
+1,
+2,
+4,
+},
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[13] = {
+3,
+6,
+},
+[15] = {
+1,
+},
+[12] = {
+10,
+9,
+5,
+8,
+},
+[14] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[27] = {
+2,
+3,
+1,
+6,
+4,
+5,
+7,
+},
+[28] = {
+1,
+2,
+3,
+4,
+},
+[32] = {
+1,
+},
+[12] = {
+13,
+},
+["color"] = "3e3eff",
+[29] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "a1ff3e",
+[30] = {
+1,
+},
+},
+{
+[37] = {
+1,
+},
+["color"] = "ff3eff",
+[35] = {
+7,
+8,
+9,
+5,
+6,
+2,
+4,
+3,
+},
+[34] = {
+1,
+},
+},
+{
+[37] = {
+2,
+},
+["color"] = "3eff9e",
+[35] = {
+13,
+1,
+10,
+12,
+11,
+},
+[34] = {
+2,
+3,
+},
+},
+{
+[20] = {
+2,
+},
+[21] = {
+2,
+},
+[22] = {
+1,
+2,
+},
+[23] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+},
+},
+["text"] = "Route 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[45] = {
+{
+["mdiEnabled"] = false,
+["week"] = 4,
+["value"] = {
+["currentPull"] = 20,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[4] = {
+},
+},
+["currentDungeonIdx"] = 45,
+["teeming"] = false,
+["selection"] = {
+20,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+[16] = {
+3,
+},
+[15] = {
+4,
+6,
+5,
+},
+[17] = {
+},
+},
+{
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+[17] = {
+1,
+},
+[15] = {
+2,
+3,
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+2,
+},
+[17] = {
+},
+},
+{
+["color"] = "3e9eff",
+},
+{
+["color"] = "fffb3e",
+[11] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[13] = {
+2,
+3,
+},
+[12] = {
+},
+},
+{
+["color"] = "ff3e9e",
+[13] = {
+1,
+},
+[12] = {
+},
+},
+{
+["color"] = "3effff",
+[12] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "ff9b3e",
+[14] = {
+1,
+},
+},
+{
+{
+8,
+7,
+},
+{
+5,
+},
+["color"] = "3e3eff",
+},
+{
+nil,
+{
+4,
+},
+{
+3,
+},
+{
+2,
+},
+{
+},
+["color"] = "a1ff3e",
+},
+{
+{
+6,
+5,
+},
+{
+3,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+[5] = {
+1,
+2,
+},
+[4] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+["color"] = "ff3e3e",
+[6] = {
+},
+[7] = {
+},
+[8] = {
+2,
+},
+},
+{
+["color"] = "3e9eff",
+[7] = {
+},
+[9] = {
+1,
+},
+[8] = {
+4,
+3,
+},
+},
+{
+["color"] = "fffb3e",
+[6] = {
+1,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+},
+},
+{
+{
+3,
+4,
+2,
+1,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+},
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["difficulty"] = 30,
+},
+{
+["difficulty"] = 30,
+["week"] = 1,
+["uid"] = "FNMS5ck15vc",
+["value"] = {
+["currentPull"] = 7,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 45,
+["selection"] = {
+7,
+},
+["pulls"] = {
+{
+[11] = {
+4,
+6,
+5,
+},
+[13] = {
+17,
+18,
+20,
+21,
+22,
+24,
+23,
+19,
+16,
+9,
+10,
+11,
 12,
 13,
 14,
 15,
 },
+[12] = {
+3,
+2,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
 [13] = {
 1,
+2,
+4,
+8,
+5,
+3,
+6,
+7,
+},
+[12] = {
+1,
+},
+[11] = {
+1,
+2,
+3,
+},
+},
+{
+["color"] = "ff3e3e",
+[14] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[7] = {
+1,
+},
+},
+{
+[8] = {
+6,
+13,
+1,
+2,
+4,
+5,
+3,
+16,
+10,
+12,
+11,
+15,
+7,
+8,
+9,
+14,
+},
+[9] = {
+3,
+2,
+1,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[10] = {
+1,
+},
+},
+{
+{
+7,
+6,
+},
+{
+4,
+12,
+},
+{
+3,
+2,
+},
+{
+},
+["color"] = "ff3e9e",
+},
+{
+{
+4,
+5,
+},
+{
+3,
+11,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[4] = {
+8,
+7,
+1,
+2,
+},
+[3] = {
+1,
+},
+},
+{
+{
+10,
+11,
+8,
+9,
+},
+{
+5,
+8,
+9,
+10,
+6,
 },
 ["color"] = "3e3eff",
+[5] = {
+2,
+4,
+3,
+1,
+},
 },
 {
 ["color"] = "a1ff3e",
-[13] = {
+[6] = {
+1,
+},
+},
+{
+{
 2,
 3,
+1,
+},
+{
+2,
+7,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[16] = {
+1,
+11,
+},
+[15] = {
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+3,
+},
+[15] = {
+1,
+2,
+3,
+},
+},
+},
+},
+["text"] = "Early Season ez",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[43] = {
+{
+["mdiEnabled"] = false,
+["week"] = 4,
+["value"] = {
+["currentPull"] = 25,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[4] = {
+},
+},
+["currentDungeonIdx"] = 43,
+["teeming"] = false,
+["selection"] = {
+25,
+},
+["pulls"] = {
+{
+{
+9,
+},
+[6] = {
+2,
+},
+[3] = {
+4,
+},
+["color"] = "ff3eff",
+[4] = {
+2,
+},
+[5] = {
+2,
+},
+},
+{
+{
+2,
+3,
+},
+{
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+11,
+},
+{
+12,
+},
+{
+5,
+},
+[7] = {
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+nil,
+{
+13,
+14,
+},
+{
+6,
+},
+{
+4,
+},
+nil,
+{
+4,
+},
+{
+3,
+},
+["color"] = "3e9eff",
+},
+{
+{
+5,
+6,
+},
+{
+7,
+6,
+},
+{
+3,
+},
+{
+1,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "fffb3e",
+},
+{
+{
+8,
+7,
+},
+{
+8,
+9,
+},
+["color"] = "3eff3e",
+[7] = {
+1,
+},
+},
+{
+["color"] = "ff3e9e",
+[8] = {
+1,
+},
+},
+{
+["color"] = "3effff",
+[10] = {
+1,
+},
+[9] = {
+2,
+1,
+},
+[11] = {
+1,
+},
+},
+{
+[11] = {
+2,
+},
+[13] = {
+1,
+},
+[15] = {
+1,
+},
+["color"] = "ff9b3e",
+[14] = {
+1,
+},
+[9] = {
+3,
+},
+},
+{
+[11] = {
+3,
+},
+[13] = {
+3,
+},
+[18] = {
+1,
+},
+["color"] = "3e3eff",
+[14] = {
+4,
+},
+[16] = {
+2,
+},
+},
+{
+[20] = {
+1,
+},
+[13] = {
+4,
+},
+["color"] = "a1ff3e",
+[14] = {
+3,
+},
+[9] = {
 4,
 5,
+},
+[11] = {
+4,
+},
+},
+{
+["color"] = "ff3eff",
+[16] = {
+9,
+10,
+},
+[12] = {
+3,
+},
+[19] = {
+4,
+1,
+2,
+3,
+},
+},
+{
+["color"] = "3eff9e",
+[21] = {
+1,
+},
+},
+{
+[24] = {
+1,
+},
+[28] = {
+7,
+},
+[25] = {
+1,
+2,
+},
+["color"] = "ff3e3e",
+[23] = {
+1,
+},
+},
+{
+[28] = {
+6,
+},
+[25] = {
+7,
+10,
+},
+["color"] = "3e9eff",
+[22] = {
+11,
+},
+[32] = {
+1,
+},
+},
+{
+[27] = {
+8,
+},
+[31] = {
+1,
+},
+[29] = {
+7,
+},
+[22] = {
+4,
+5,
+},
+["color"] = "fffb3e",
+},
+{
+[27] = {
+3,
+},
+[28] = {
+3,
+},
+["color"] = "3eff3e",
+[30] = {
+1,
+},
+[29] = {
+2,
+8,
+},
+},
+{
+[27] = {
+4,
+},
+[28] = {
+4,
+},
+[29] = {
+3,
+},
+[22] = {
+9,
+3,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[25] = {
+4,
+5,
+6,
+},
+},
+{
+["color"] = "ff9b3e",
+[28] = {
+1,
+},
+[29] = {
+1,
+},
+[27] = {
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[28] = {
+5,
+},
+[29] = {
+5,
+4,
+},
+[27] = {
+6,
+5,
+},
+},
+{
+[36] = {
+},
+[24] = {
+3,
+},
+[28] = {
+2,
+},
+[25] = {
+11,
+},
+["color"] = "a1ff3e",
+[35] = {
+},
+[27] = {
+2,
+},
+},
+{
+["color"] = "ff3eff",
+[33] = {
+1,
+},
+[34] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[36] = {
+1,
+},
+[35] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[37] = {
+1,
+},
+},
+},
+},
+["mdi"] = {
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+["freehold"] = 1,
+},
+["difficulty"] = 30,
+},
+},
+[121] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 19,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[6] = {
+1,
+},
+[4] = {
+1,
+},
+[5] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[8] = {
+1,
+2,
+},
+[7] = {
+1,
 },
 [9] = {
 1,
 },
 },
 {
-[5] = {
-13,
-14,
-15,
-16,
-17,
-18,
-},
-[13] = {
-10,
-11,
-},
-["color"] = "ff3eff",
-[8] = {
-2,
+["color"] = "3e9eff",
+[10] = {
+1,
 },
 },
 {
-[5] = {
-10,
-11,
-12,
-7,
-8,
-9,
+[11] = {
+1,
 },
-[13] = {
-16,
-17,
+["color"] = "fffb3e",
+[7] = {
+2,
+3,
 },
-["color"] = "3eff9e",
 [8] = {
+4,
 3,
 },
 },
 {
-["color"] = "ff3e3e",
-[6] = {
-15,
-16,
+["color"] = "3eff3e",
+[12] = {
+1,
 },
+},
+{
+["color"] = "ff3e9e",
 [13] = {
+1,
+},
+[32] = {
+1,
+2,
+},
+},
+{
+[14] = {
+1,
+2,
+3,
+4,
+5,
+7,
+8,
+9,
+6,
+11,
+10,
 12,
-13,
+},
+[15] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[16] = {
+2,
+1,
+},
+},
+{
+["color"] = "3e3eff",
+[16] = {
+3,
+},
+[15] = {
+2,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[19] = {
+2,
+3,
+},
+},
+{
+["color"] = "ff3eff",
+[19] = {
+1,
+},
+[17] = {
+3,
+},
+[16] = {
+12,
+},
+},
+{
+["color"] = "3eff9e",
+[33] = {
+1,
+2,
+3,
+},
+[20] = {
+1,
+},
+},
+{
+[21] = {
+1,
+2,
+4,
+3,
+7,
+17,
+5,
+6,
+},
+[22] = {
+1,
+},
+["color"] = "ff3e3e",
+[30] = {
+1,
+2,
+},
+[23] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[23] = {
+2,
+},
+[30] = {
+3,
+4,
+},
+},
+{
+[24] = {
+3,
+},
+[21] = {
+9,
+10,
+},
+["color"] = "fffb3e",
+[22] = {
+2,
+},
+[30] = {
+6,
+},
+[23] = {
+3,
+},
+},
+{
+[21] = {
+21,
+15,
+14,
+12,
+11,
+},
+["color"] = "3eff3e",
+[23] = {
+4,
+},
+[30] = {
+5,
+},
+[22] = {
+3,
+},
+},
+{
+["color"] = "ff3e9e",
+[25] = {
+1,
+},
+[31] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+["color"] = "3effff",
+[26] = {
+1,
+},
+[34] = {
+2,
+3,
+1,
+4,
+5,
+},
+},
+},
+["currentDungeonIdx"] = 121,
+["teeming"] = false,
+["selection"] = {
+19,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["objects"] = {
+},
+["uid"] = "RQSp8oW6Bsk",
+["week"] = 1,
+["value"] = {
+["selection"] = {
+14,
+},
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 121,
+["teeming"] = false,
+["currentPull"] = 14,
+["pulls"] = {
+{
+{
+1,
+},
+{
+1,
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[27] = {
+1,
+},
+[7] = {
+1,
+},
+[8] = {
+1,
+2,
+},
+["color"] = "3eff9e",
+[9] = {
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[13] = {
+1,
+},
+[32] = {
+1,
+2,
+},
+},
+{
+[8] = {
+4,
+3,
+},
+["color"] = "3e9eff",
+[7] = {
+3,
+2,
+},
+[11] = {
+1,
+},
+},
+{
+[21] = {
+1,
+2,
+4,
+3,
+7,
+17,
+5,
+6,
+},
+["color"] = "fffb3e",
+[23] = {
+1,
+},
+[30] = {
+1,
+2,
+},
+[22] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[23] = {
+2,
+},
+[30] = {
+3,
+4,
+},
+},
+{
+[21] = {
+9,
+10,
+},
+["color"] = "ff3e9e",
+[23] = {
+3,
+},
+[30] = {
+6,
+},
+[22] = {
+2,
+},
+},
+{
+["color"] = "3effff",
+[24] = {
+3,
+},
+[30] = {
+5,
+},
+[21] = {
+21,
+15,
+14,
+12,
+11,
+},
+},
+{
+["color"] = "ff9b3e",
+[22] = {
+3,
+},
+[23] = {
+4,
+},
+},
+{
+["color"] = "3e3eff",
+[14] = {
+1,
+2,
+3,
+4,
+5,
+7,
+6,
+8,
+9,
+12,
+10,
+11,
+},
+},
+{
+["color"] = "a1ff3e",
+[15] = {
+1,
+},
+},
+{
+[14] = {
+22,
+24,
+23,
+},
+[17] = {
+6,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[16] = {
+2,
+1,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+3,
+5,
+4,
+},
+[15] = {
+2,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[19] = {
+2,
+3,
+},
+},
+{
+["color"] = "fffb3e",
+[19] = {
+1,
+},
+[17] = {
+3,
+},
+[16] = {
+12,
+},
+},
+},
+},
+["text"] = "TOP mini boss skips",
+["difficulty"] = 10,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[19] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 19,
+["teeming"] = false,
+["selection"] = {
+15,
+},
+["pulls"] = {
+{
+{
+2,
+4,
+5,
+3,
+6,
+},
+{
+3,
+2,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+17,
 14,
 15,
-18,
-19,
+},
+nil,
+{
+5,
+},
+{
+4,
+},
+{
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+20,
+21,
+},
+{
+7,
+},
+nil,
+{
+6,
+},
+[6] = {
+2,
+3,
+},
+["color"] = "ff3e3e",
+},
+{
+[36] = {
+3,
+4,
+},
+[2] = {
+10,
+},
+[28] = {
+12,
+},
+["color"] = "3e9eff",
+[5] = {
+4,
+},
+},
+{
+{
+24,
+25,
+26,
+},
+{
+11,
+},
+nil,
+{
+7,
+},
+{
+5,
+},
+["color"] = "fffb3e",
+},
+{
+{
+27,
+28,
+29,
+},
+["color"] = "3eff3e",
+[6] = {
+4,
+},
+[4] = {
+8,
+},
+[5] = {
+6,
+},
+},
+{
+["color"] = "ff3e9e",
+[28] = {
+11,
+},
+[26] = {
+1,
+},
+[27] = {
+1,
+},
+},
+{
+[6] = {
+6,
+5,
+},
+[8] = {
+8,
+5,
+},
+[10] = {
+2,
+},
+["color"] = "3effff",
+[9] = {
+2,
+3,
+},
+},
+{
+[25] = {
+16,
+14,
+15,
+},
+["color"] = "ff9b3e",
+[22] = {
+16,
+},
+[9] = {
+4,
+},
+[5] = {
+8,
+},
+},
+{
+["color"] = "3e3eff",
+[23] = {
+8,
+10,
+7,
+9,
+},
+[11] = {
+1,
+},
+},
+{
+[8] = {
+13,
+12,
+},
+[25] = {
+24,
+25,
+},
+["color"] = "a1ff3e",
+[4] = {
+12,
+},
+[9] = {
+6,
+},
+[10] = {
+3,
+},
+},
+{
+[13] = {
+3,
+2,
+},
+[10] = {
+6,
+},
+[12] = {
+3,
+},
+[14] = {
+1,
+},
+[25] = {
+32,
+34,
+36,
+35,
+33,
+},
+["color"] = "ff3eff",
+},
+{
+["color"] = "3eff9e",
+[31] = {
+2,
+},
+[29] = {
+1,
+},
+[30] = {
+4,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+2,
+},
+[15] = {
+1,
+},
+[17] = {
+1,
+},
+},
+{
+[17] = {
+2,
+},
+[15] = {
+3,
+4,
+2,
+},
+[18] = {
+1,
+3,
+},
+["color"] = "3e9eff",
+[16] = {
+4,
+3,
+5,
+},
+},
+{
+[17] = {
+3,
+},
+[15] = {
+6,
+7,
+},
+[18] = {
+4,
+},
+["color"] = "fffb3e",
+[19] = {
+1,
+2,
+},
+[16] = {
+9,
+},
+},
+{
+[24] = {
+3,
+2,
+1,
+4,
+},
+[12] = {
+2,
+},
+["color"] = "3eff3e",
+},
+{
+[5] = {
+10,
+},
+[10] = {
+7,
+},
+["color"] = "ff3e9e",
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
 },
 [10] = {
 4,
 },
+["color"] = "3effff",
+[4] = {
+13,
+},
 },
 {
+[20] = {
+4,
+3,
+},
+[21] = {
+2,
+},
+[10] = {
+5,
+},
+["color"] = "ff9b3e",
+[4] = {
+14,
+},
+},
 {
+[20] = {
+},
+[24] = {
+},
+[32] = {
+1,
+},
+["color"] = "3e3eff",
+[5] = {
+},
+},
+},
+},
+["faction"] = 2,
+},
+{
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Raider.IO Weekly Route - Bunten",
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["week"] = 1,
+["faction"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+4,
 5,
 6,
 },
-[8] = {
+{
+2,
+3,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+17,
+14,
+15,
+},
+nil,
+{
+5,
+},
+{
 4,
 },
-[13] = {
+{
+3,
+},
+[36] = {
+},
+["color"] = "3eff9e",
+},
+{
+{
+18,
+19,
 20,
 21,
 },
+{
+6,
+},
+{
+6,
+},
+{
+5,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3e3e",
+[10] = {
+},
+[9] = {
+},
+},
+{
+nil,
+{
+7,
+},
+{
+},
+{
+6,
+},
+["color"] = "3e9eff",
+[6] = {
+3,
+},
+[36] = {
+3,
+4,
+},
+},
+{
+[5] = {
+4,
+},
+[2] = {
+10,
+},
+["color"] = "fffb3e",
+[28] = {
+12,
+},
+},
+{
+{
+24,
+25,
+26,
+},
+{
+11,
+},
+nil,
+{
+7,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+{
+28,
+27,
+29,
+},
+[5] = {
+6,
+},
+[6] = {
+4,
+},
+[4] = {
+8,
+},
+["color"] = "ff3e9e",
+},
+{
+[27] = {
+1,
+},
+[28] = {
+11,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+5,
+8,
+9,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[4] = {
+10,
+},
+[9] = {
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+16,
+},
+[9] = {
+4,
+},
+[25] = {
+14,
+15,
+16,
+},
+},
+{
+[11] = {
+1,
+},
+[23] = {
+7,
+8,
+9,
+10,
+},
+["color"] = "a1ff3e",
+},
+{
+[8] = {
+12,
+13,
+},
+[10] = {
+3,
+},
+["color"] = "ff3eff",
+[4] = {
+12,
+},
+[9] = {
+6,
+},
+[25] = {
+24,
+25,
+},
+},
+{
+[13] = {
+2,
+3,
+},
+[25] = {
+36,
+33,
+32,
+35,
+34,
+},
 [12] = {
+3,
+},
+[14] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[30] = {
+4,
+},
+[31] = {
+2,
+},
+[29] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[16] = {
+1,
+2,
+},
+[17] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[18] = {
+1,
+},
+[16] = {
+3,
+4,
+},
+[17] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[18] = {
+3,
+},
+[15] = {
+3,
+4,
+},
+[17] = {
+3,
+},
+},
+{
+{
+},
+{
+},
+{
+7,
+},
+[15] = {
+6,
+7,
+},
+[18] = {
+4,
+},
+["color"] = "ff3e9e",
+[19] = {
+1,
+2,
+},
+[16] = {
+9,
+},
+},
+{
+["color"] = "3effff",
+[16] = {
+},
+[15] = {
+},
+},
+{
+[24] = {
+3,
+2,
+1,
+4,
+},
+[12] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[5] = {
+10,
+},
+[10] = {
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+},
+[10] = {
+4,
+},
+["color"] = "a1ff3e",
+[4] = {
+13,
+},
+},
+{
+[20] = {
+4,
+3,
+},
+[21] = {
+2,
+},
+[10] = {
+5,
+},
+["color"] = "ff3eff",
+[4] = {
+14,
+},
+},
+{
+["color"] = "3eff9e",
+[24] = {
+6,
+5,
+},
+[20] = {
+2,
+},
+[5] = {
+11,
+},
+},
+{
+[32] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[34] = {
+1,
+},
+[33] = {
+1,
+},
+[35] = {
+1,
+},
+["color"] = "3e9eff",
+},
+},
+["currentDungeonIdx"] = 19,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["uid"] = "1HZX(ndLllF",
+["objects"] = {
+{
+["d"] = {
+"686.3",
+"-531.5",
+1,
+true,
+"Come say hi at twitch.tv/thebunten",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"633.6",
+"-246.7",
+1,
+true,
+"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"324.9",
+"-195.5",
+1,
+true,
+"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"134.2",
+"-96.1",
+1,
+true,
+"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"54.7",
+"-164.5",
+1,
+true,
+"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"706.3",
+"-332",
+1,
+true,
+"stay close to the south wall... do not want to pull the bombers",
+},
+["n"] = true,
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"142.9",
+"-490.5",
+"132.1",
+"-483.6",
+"132.1",
+"-483.6",
+"122.2",
+"-471.4",
+"122.2",
+"-471.4",
+"112.2",
+"-458.3",
+"112.2",
+"-458.3",
+"106.9",
+"-446.8",
+"106.9",
+"-446.8",
+"104.6",
+"-433.8",
+"104.6",
+"-433.8",
+"106.9",
+"-420.0",
+"106.9",
+"-420.0",
+"115.4",
+"-409.3",
+"115.4",
+"-409.3",
+"126.0",
+"-407.7",
+"126.0",
+"-407.7",
+"139.9",
+"-406.2",
+"139.9",
+"-406.2",
+"151.4",
+"-410.8",
+"151.4",
+"-410.8",
+"168.1",
+"-410.0",
+"168.1",
+"-410.0",
+"182.0",
+"-410.0",
+"182.0",
+"-410.0",
+"193.5",
+"-412.3",
+"193.5",
+"-412.3",
+"206.5",
+"-417.8",
+"206.5",
+"-417.8",
+"211.1",
+"-429.2",
+"211.1",
+"-429.2",
+"211.1",
+"-439.9",
+"211.1",
+"-439.9",
+"208.1",
+"-452.2",
+"208.1",
+"-452.2",
+"195.0",
+"-463.7",
+"195.0",
+"-463.7",
+"183.5",
+"-472.9",
+"183.5",
+"-472.9",
+"172.1",
+"-479.0",
+"172.1",
+"-479.0",
+"160.5",
+"-479.0",
+"160.5",
+"-479.0",
+"149.8",
+"-478.2",
+"149.8",
+"-478.2",
+"139.1",
+"-479.0",
+"139.1",
+"-479.0",
+"138.3",
+"-478.2",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-7,
+true,
+},
+["l"] = {
+"204.3",
+"-425.4",
+"213.4",
+"-414.6",
+"213.4",
+"-414.6",
+"223.4",
+"-403.2",
+"223.4",
+"-403.2",
+"232.5",
+"-392.4",
+"232.5",
+"-392.4",
+"247.1",
+"-390.9",
+"247.1",
+"-390.9",
+"262.5",
+"-396.2",
+"262.5",
+"-396.2",
+"273.9",
+"-402.4",
+"273.9",
+"-402.4",
+"284.7",
+"-409.3",
+"284.7",
+"-409.3",
+"296.2",
+"-415.4",
+"296.2",
+"-415.4",
+"303.0",
+"-428.4",
+"303.0",
+"-428.4",
+"300.8",
+"-441.5",
+"300.8",
+"-441.5",
+"298.5",
+"-452.2",
+"298.5",
+"-452.2",
+"287.7",
+"-462.1",
+"287.7",
+"-462.1",
+"275.5",
+"-471.4",
+"275.5",
+"-471.4",
+"264.0",
+"-472.9",
+"264.0",
+"-472.9",
+"250.9",
+"-474.4",
+"250.9",
+"-474.4",
+"239.5",
+"-475.2",
+"239.5",
+"-475.2",
+"225.7",
+"-473.7",
+"225.7",
+"-473.7",
+"211.9",
+"-472.9",
+"211.9",
+"-472.9",
+"200.3",
+"-469.0",
+"200.3",
+"-469.0",
+"188.9",
+"-464.4",
+"188.9",
+"-464.4",
+"187.4",
+"-463.7",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-6,
+true,
+},
+["l"] = {
+"176.6",
+"-413.8",
+"169.0",
+"-403.2",
+"169.0",
+"-403.2",
+"167.4",
+"-390.9",
+"167.4",
+"-390.9",
+"162.1",
+"-379.4",
+"162.1",
+"-379.4",
+"159.8",
+"-365.6",
+"159.8",
+"-365.6",
+"162.1",
+"-353.4",
+"162.1",
+"-353.4",
+"159.0",
+"-342.6",
+"159.0",
+"-342.6",
+"156.7",
+"-330.4",
+"156.7",
+"-330.4",
+"156.7",
+"-319.6",
+"156.7",
+"-319.6",
+"156.7",
+"-305.1",
+"156.7",
+"-305.1",
+"156.7",
+"-293.6",
+"156.7",
+"-293.6",
+"156.7",
+"-282.1",
+"156.7",
+"-282.1",
+"157.5",
+"-269.8",
+"157.5",
+"-269.8",
+"156.7",
+"-252.9",
+"156.7",
+"-252.9",
+"159.0",
+"-240.8",
+"159.0",
+"-240.8",
+"162.1",
+"-227.7",
+"162.1",
+"-227.7",
+"165.1",
+"-213.9",
+"165.1",
+"-213.9",
+"166.6",
+"-200.8",
+"166.6",
+"-200.8",
+"169.8",
+"-189.4",
+"169.8",
+"-189.4",
+"177.4",
+"-177.9",
+"177.4",
+"-177.9",
+"186.6",
+"-161.8",
+"186.6",
+"-161.8",
+"200.3",
+"-145.7",
+"200.3",
+"-145.7",
+"214.2",
+"-137.3",
+"214.2",
+"-137.3",
+"245.6",
+"-134.2",
+"245.6",
+"-134.2",
+"257.9",
+"-134.2",
+"257.9",
+"-134.2",
+"268.6",
+"-136.5",
+"268.6",
+"-136.5",
+"280.1",
+"-140.3",
+"280.1",
+"-140.3",
+"290.8",
+"-146.4",
+"290.8",
+"-146.4",
+"303.0",
+"-155.7",
+"303.0",
+"-155.7",
+"313.8",
+"-168.7",
+"313.8",
+"-168.7",
+"323.7",
+"-184.7",
+"323.7",
+"-184.7",
+"332.2",
+"-200.8",
+"332.2",
+"-200.8",
+"336.8",
+"-215.4",
+"336.8",
+"-215.4",
+"341.3",
+"-236.1",
+"341.3",
+"-236.1",
+"342.1",
+"-252.2",
+"342.1",
+"-252.2",
+"343.6",
+"-269.8",
+"343.6",
+"-269.8",
+"344.4",
+"-281.3",
+"344.4",
+"-281.3",
+"341.3",
+"-293.6",
+"341.3",
+"-293.6",
+"339.1",
+"-305.8",
+"339.1",
+"-305.8",
+"339.1",
+"-321.9",
+"339.1",
+"-321.9",
+"336.8",
+"-334.2",
+"336.8",
+"-334.2",
+"330.7",
+"-348.8",
+"330.7",
+"-348.8",
+"325.2",
+"-363.3",
+"325.2",
+"-363.3",
+"315.3",
+"-377.8",
+"315.3",
+"-377.8",
+"308.4",
+"-389.4",
+"308.4",
+"-389.4",
+"295.4",
+"-400.9",
+"295.4",
+"-400.9",
+"282.4",
+"-409.3",
+"282.4",
+"-409.3",
+"273.9",
+"-411.6",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"273.1",
+"-141.9",
+"268.6",
+"-153.4",
+"268.6",
+"-153.4",
+"264.0",
+"-164.8",
+"264.0",
+"-164.8",
+"263.2",
+"-166.3",
+},
+},
+},
+["difficulty"] = 2,
+},
+{
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Raider.IO Weekly Route - Bunten 2",
+["difficulty"] = 2,
+["uid"] = "(oM5tuyGZY3",
+["faction"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+6,
+},
+{
+2,
+3,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+17,
+14,
+15,
+},
+nil,
+{
+5,
+},
+{
+4,
+},
+{
+3,
+},
+[36] = {
+},
+["color"] = "3eff9e",
+},
+{
+{
+18,
+19,
+20,
+21,
+},
+{
+6,
+},
+{
+6,
+},
+{
+5,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3e3e",
+[10] = {
+},
+[9] = {
+},
+},
+{
+nil,
+{
+7,
+},
+{
+},
+{
+6,
+},
+["color"] = "3e9eff",
+[6] = {
+3,
+},
+[36] = {
+3,
+4,
+},
+},
+{
+[5] = {
+4,
+},
+[2] = {
+10,
+},
+["color"] = "fffb3e",
+[28] = {
+12,
+},
+},
+{
+{
+24,
+25,
+26,
+},
+{
+11,
+},
+nil,
+{
+7,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+{
+28,
+27,
+29,
+},
+[5] = {
+6,
+},
+[6] = {
+4,
+},
+[4] = {
+8,
+},
+["color"] = "ff3e9e",
+},
+{
+[27] = {
+1,
+},
+[28] = {
+11,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+5,
+8,
+9,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[4] = {
+10,
+},
+[9] = {
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+16,
+},
+[9] = {
+4,
+},
+[25] = {
+14,
+15,
+16,
+},
+},
+{
+[11] = {
+1,
+},
+[23] = {
+7,
+8,
+9,
+10,
+},
+["color"] = "a1ff3e",
+},
+{
+[8] = {
+12,
+13,
+},
+[10] = {
+3,
+},
+["color"] = "ff3eff",
+[4] = {
+12,
+},
+[9] = {
+6,
+},
+[25] = {
+24,
+25,
+},
+},
+{
+[13] = {
+2,
+3,
+},
+[25] = {
+36,
+33,
+32,
+35,
+34,
+},
+[12] = {
+3,
+},
+[14] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[30] = {
+4,
+},
+[31] = {
+2,
+},
+[29] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[16] = {
+1,
+2,
+},
+[17] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[18] = {
+1,
+},
+[16] = {
+3,
+4,
+},
+[17] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+[18] = {
+3,
+},
+["color"] = "3eff3e",
+[17] = {
+3,
+},
+[15] = {
+3,
+4,
+},
+},
+{
+{
+},
+{
+},
+{
+7,
+},
+[15] = {
+6,
+7,
+},
+[18] = {
+4,
+},
+["color"] = "ff3e9e",
+[19] = {
+1,
+2,
+},
+[16] = {
+9,
+},
+},
+{
+["color"] = "3effff",
+[16] = {
+},
+[15] = {
+},
+},
+{
+[24] = {
+3,
+2,
+1,
+4,
+},
+[12] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[5] = {
+10,
+},
+[10] = {
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+},
+[10] = {
+4,
+},
+["color"] = "a1ff3e",
+[4] = {
+13,
+},
+},
+{
+[20] = {
+4,
+3,
+},
+[21] = {
+2,
+},
+[10] = {
+5,
+},
+["color"] = "ff3eff",
+[4] = {
+14,
+},
+},
+{
+[5] = {
+11,
+},
+["color"] = "3eff9e",
+[20] = {
+2,
+},
+[24] = {
+6,
+5,
+},
+},
+{
+[32] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[34] = {
+1,
+},
+[33] = {
+1,
+},
+[35] = {
+1,
+},
+["color"] = "3e9eff",
+},
+},
+["currentDungeonIdx"] = 19,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["week"] = 1,
+["objects"] = {
+{
+["d"] = {
+"686.3",
+"-531.5",
+1,
+true,
+"Come say hi at twitch.tv/thebunten",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"633.6",
+"-246.7",
+1,
+true,
+"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"324.9",
+"-195.5",
+1,
+true,
+"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"134.2",
+"-96.1",
+1,
+true,
+"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"54.7",
+"-164.5",
+1,
+true,
+"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"706.3",
+"-332",
+1,
+true,
+"stay close to the south wall... do not want to pull the bombers",
+},
+["n"] = true,
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"142.9",
+"-490.5",
+"132.1",
+"-483.6",
+"132.1",
+"-483.6",
+"122.2",
+"-471.4",
+"122.2",
+"-471.4",
+"112.2",
+"-458.3",
+"112.2",
+"-458.3",
+"106.9",
+"-446.8",
+"106.9",
+"-446.8",
+"104.6",
+"-433.8",
+"104.6",
+"-433.8",
+"106.9",
+"-420.0",
+"106.9",
+"-420.0",
+"115.4",
+"-409.3",
+"115.4",
+"-409.3",
+"126.0",
+"-407.7",
+"126.0",
+"-407.7",
+"139.9",
+"-406.2",
+"139.9",
+"-406.2",
+"151.4",
+"-410.8",
+"151.4",
+"-410.8",
+"168.1",
+"-410.0",
+"168.1",
+"-410.0",
+"182.0",
+"-410.0",
+"182.0",
+"-410.0",
+"193.5",
+"-412.3",
+"193.5",
+"-412.3",
+"206.5",
+"-417.8",
+"206.5",
+"-417.8",
+"211.1",
+"-429.2",
+"211.1",
+"-429.2",
+"211.1",
+"-439.9",
+"211.1",
+"-439.9",
+"208.1",
+"-452.2",
+"208.1",
+"-452.2",
+"195.0",
+"-463.7",
+"195.0",
+"-463.7",
+"183.5",
+"-472.9",
+"183.5",
+"-472.9",
+"172.1",
+"-479.0",
+"172.1",
+"-479.0",
+"160.5",
+"-479.0",
+"160.5",
+"-479.0",
+"149.8",
+"-478.2",
+"149.8",
+"-478.2",
+"139.1",
+"-479.0",
+"139.1",
+"-479.0",
+"138.3",
+"-478.2",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-7,
+true,
+},
+["l"] = {
+"204.3",
+"-425.4",
+"213.4",
+"-414.6",
+"213.4",
+"-414.6",
+"223.4",
+"-403.2",
+"223.4",
+"-403.2",
+"232.5",
+"-392.4",
+"232.5",
+"-392.4",
+"247.1",
+"-390.9",
+"247.1",
+"-390.9",
+"262.5",
+"-396.2",
+"262.5",
+"-396.2",
+"273.9",
+"-402.4",
+"273.9",
+"-402.4",
+"284.7",
+"-409.3",
+"284.7",
+"-409.3",
+"296.2",
+"-415.4",
+"296.2",
+"-415.4",
+"303.0",
+"-428.4",
+"303.0",
+"-428.4",
+"300.8",
+"-441.5",
+"300.8",
+"-441.5",
+"298.5",
+"-452.2",
+"298.5",
+"-452.2",
+"287.7",
+"-462.1",
+"287.7",
+"-462.1",
+"275.5",
+"-471.4",
+"275.5",
+"-471.4",
+"264.0",
+"-472.9",
+"264.0",
+"-472.9",
+"250.9",
+"-474.4",
+"250.9",
+"-474.4",
+"239.5",
+"-475.2",
+"239.5",
+"-475.2",
+"225.7",
+"-473.7",
+"225.7",
+"-473.7",
+"211.9",
+"-472.9",
+"211.9",
+"-472.9",
+"200.3",
+"-469.0",
+"200.3",
+"-469.0",
+"188.9",
+"-464.4",
+"188.9",
+"-464.4",
+"187.4",
+"-463.7",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-6,
+true,
+},
+["l"] = {
+"176.6",
+"-413.8",
+"169.0",
+"-403.2",
+"169.0",
+"-403.2",
+"167.4",
+"-390.9",
+"167.4",
+"-390.9",
+"162.1",
+"-379.4",
+"162.1",
+"-379.4",
+"159.8",
+"-365.6",
+"159.8",
+"-365.6",
+"162.1",
+"-353.4",
+"162.1",
+"-353.4",
+"159.0",
+"-342.6",
+"159.0",
+"-342.6",
+"156.7",
+"-330.4",
+"156.7",
+"-330.4",
+"156.7",
+"-319.6",
+"156.7",
+"-319.6",
+"156.7",
+"-305.1",
+"156.7",
+"-305.1",
+"156.7",
+"-293.6",
+"156.7",
+"-293.6",
+"156.7",
+"-282.1",
+"156.7",
+"-282.1",
+"157.5",
+"-269.8",
+"157.5",
+"-269.8",
+"156.7",
+"-252.9",
+"156.7",
+"-252.9",
+"159.0",
+"-240.8",
+"159.0",
+"-240.8",
+"162.1",
+"-227.7",
+"162.1",
+"-227.7",
+"165.1",
+"-213.9",
+"165.1",
+"-213.9",
+"166.6",
+"-200.8",
+"166.6",
+"-200.8",
+"169.8",
+"-189.4",
+"169.8",
+"-189.4",
+"177.4",
+"-177.9",
+"177.4",
+"-177.9",
+"186.6",
+"-161.8",
+"186.6",
+"-161.8",
+"200.3",
+"-145.7",
+"200.3",
+"-145.7",
+"214.2",
+"-137.3",
+"214.2",
+"-137.3",
+"245.6",
+"-134.2",
+"245.6",
+"-134.2",
+"257.9",
+"-134.2",
+"257.9",
+"-134.2",
+"268.6",
+"-136.5",
+"268.6",
+"-136.5",
+"280.1",
+"-140.3",
+"280.1",
+"-140.3",
+"290.8",
+"-146.4",
+"290.8",
+"-146.4",
+"303.0",
+"-155.7",
+"303.0",
+"-155.7",
+"313.8",
+"-168.7",
+"313.8",
+"-168.7",
+"323.7",
+"-184.7",
+"323.7",
+"-184.7",
+"332.2",
+"-200.8",
+"332.2",
+"-200.8",
+"336.8",
+"-215.4",
+"336.8",
+"-215.4",
+"341.3",
+"-236.1",
+"341.3",
+"-236.1",
+"342.1",
+"-252.2",
+"342.1",
+"-252.2",
+"343.6",
+"-269.8",
+"343.6",
+"-269.8",
+"344.4",
+"-281.3",
+"344.4",
+"-281.3",
+"341.3",
+"-293.6",
+"341.3",
+"-293.6",
+"339.1",
+"-305.8",
+"339.1",
+"-305.8",
+"339.1",
+"-321.9",
+"339.1",
+"-321.9",
+"336.8",
+"-334.2",
+"336.8",
+"-334.2",
+"330.7",
+"-348.8",
+"330.7",
+"-348.8",
+"325.2",
+"-363.3",
+"325.2",
+"-363.3",
+"315.3",
+"-377.8",
+"315.3",
+"-377.8",
+"308.4",
+"-389.4",
+"308.4",
+"-389.4",
+"295.4",
+"-400.9",
+"295.4",
+"-400.9",
+"282.4",
+"-409.3",
+"282.4",
+"-409.3",
+"273.9",
+"-411.6",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"273.1",
+"-141.9",
+"268.6",
+"-153.4",
+"268.6",
+"-153.4",
+"264.0",
+"-164.8",
+"264.0",
+"-164.8",
+"263.2",
+"-166.3",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"358.5",
+"-399.0",
+"358.5",
+"-419.2",
+"358.5",
+"-419.2",
+"358.5",
+"-434.3",
+"358.5",
+"-434.3",
+"359.5",
+"-445.4",
+"359.5",
+"-445.4",
+"360.5",
+"-460.5",
+"360.5",
+"-460.5",
+"365.5",
+"-475.7",
+"365.5",
+"-475.7",
+"370.6",
+"-487.8",
+"370.6",
+"-487.8",
+"382.7",
+"-497.9",
+"382.7",
+"-497.9",
+"398.8",
+"-502.9",
+"398.8",
+"-502.9",
+"419.0",
+"-504.9",
+"419.0",
+"-504.9",
+"433.1",
+"-505.9",
+"433.1",
+"-505.9",
+"443.2",
+"-507.0",
+"443.2",
+"-507.0",
+"461.4",
+"-507.0",
+"461.4",
+"-507.0",
+"473.5",
+"-507.0",
+"473.5",
+"-507.0",
+"486.6",
+"-504.9",
+"486.6",
+"-504.9",
+"497.7",
+"-501.9",
+"497.7",
+"-501.9",
+"510.8",
+"-498.9",
+"510.8",
+"-498.9",
+"522.9",
+"-493.8",
+"522.9",
+"-493.8",
+"530.0",
+"-476.7",
+"530.0",
+"-476.7",
+"534.0",
+"-463.6",
+"534.0",
+"-463.6",
+"534.0",
+"-450.4",
+"534.0",
+"-450.4",
+"532.0",
+"-438.3",
+"532.0",
+"-438.3",
+"530.0",
+"-426.2",
+"530.0",
+"-426.2",
+"529.0",
+"-406.0",
+"529.0",
+"-406.0",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-383.8",
+"529.0",
+"-383.8",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-409.1",
+"529.0",
+"-409.1",
+"526.0",
+"-427.2",
+"526.0",
+"-427.2",
+"521.9",
+"-445.4",
+"521.9",
+"-445.4",
+"519.9",
+"-467.6",
+"519.9",
+"-467.6",
+"518.9",
+"-482.7",
+"518.9",
+"-482.7",
+"517.9",
+"-493.8",
+"517.9",
+"-493.8",
+"519.9",
+"-505.9",
+"519.9",
+"-505.9",
+"528.0",
+"-522.1",
+"528.0",
+"-522.1",
+"543.1",
+"-528.1",
+"543.1",
+"-528.1",
+"558.3",
+"-528.1",
+"558.3",
+"-528.1",
+"570.4",
+"-524.1",
+"570.4",
+"-524.1",
+"584.5",
+"-517.0",
+"584.5",
+"-517.0",
+"600.6",
+"-507.0",
+"600.6",
+"-507.0",
+"613.8",
+"-496.9",
+"613.8",
+"-496.9",
+"625.9",
+"-485.8",
+"625.9",
+"-485.8",
+"631.9",
+"-474.7",
+"631.9",
+"-474.7",
+"632.9",
+"-464.6",
+"632.9",
+"-464.6",
+"632.9",
+"-447.4",
+"632.9",
+"-447.4",
+"632.9",
+"-433.3",
+"632.9",
+"-433.3",
+"627.9",
+"-420.2",
+"627.9",
+"-420.2",
+"619.8",
+"-408.1",
+"619.8",
+"-408.1",
+"609.7",
+"-394.9",
+"609.7",
+"-394.9",
+"608.7",
+"-379.8",
+"608.7",
+"-379.8",
+"608.7",
+"-369.7",
+"608.7",
+"-369.7",
+"610.7",
+"-357.6",
+"610.7",
+"-357.6",
+"612.8",
+"-346.5",
+"612.8",
+"-346.5",
+"615.8",
+"-334.4",
+"615.8",
+"-334.4",
+"618.8",
+"-316.2",
+"618.8",
+"-316.2",
+"620.8",
+"-300.1",
+"620.8",
+"-300.1",
+"623.9",
+"-269.8",
+"623.9",
+"-269.8",
+"625.9",
+"-218.3",
+"625.9",
+"-218.3",
+"625.9",
+"-198.2",
+"625.9",
+"-198.2",
+"625.9",
+"-186.0",
+"625.9",
+"-186.0",
+"624.9",
+"-176.0",
+"624.9",
+"-176.0",
+"623.9",
+"-164.9",
+"623.9",
+"-164.9",
+"620.8",
+"-151.7",
+"620.8",
+"-151.7",
+"613.8",
+"-139.6",
+"613.8",
+"-139.6",
+"599.6",
+"-131.6",
+"599.6",
+"-131.6",
+"586.5",
+"-128.5",
+"586.5",
+"-128.5",
+"572.4",
+"-128.5",
+"572.4",
+"-128.5",
+"557.3",
+"-129.5",
+"557.3",
+"-129.5",
+"542.1",
+"-131.6",
+"542.1",
+"-131.6",
+"526.0",
+"-133.6",
+"526.0",
+"-133.6",
+"510.8",
+"-137.6",
+"510.8",
+"-137.6",
+"496.7",
+"-145.7",
+"496.7",
+"-145.7",
+"487.6",
+"-155.8",
+"487.6",
+"-155.8",
+"475.5",
+"-173.9",
+"475.5",
+"-173.9",
+"465.4",
+"-194.1",
+"465.4",
+"-194.1",
+"452.3",
+"-221.4",
+"452.3",
+"-221.4",
+"442.2",
+"-247.6",
+"442.2",
+"-247.6",
+"432.1",
+"-275.9",
+"432.1",
+"-275.9",
+"422.0",
+"-297.1",
+"422.0",
+"-297.1",
+"412.9",
+"-317.2",
+"412.9",
+"-317.2",
+"403.9",
+"-333.4",
+"403.9",
+"-333.4",
+"393.8",
+"-353.6",
+"393.8",
+"-353.6",
+"383.7",
+"-368.7",
+"383.7",
+"-368.7",
+"374.6",
+"-379.8",
+"374.6",
+"-379.8",
+"365.5",
+"-390.9",
+"365.5",
+"-390.9",
+"355.4",
+"-405.0",
+"355.4",
+"-405.0",
+"358.5",
+"-393.9",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-7,
+true,
+},
+["l"] = {
+"470.5",
+"-170.9",
+"494.7",
+"-178.0",
+"494.7",
+"-178.0",
+"525.0",
+"-184.0",
+"525.0",
+"-184.0",
+"556.2",
+"-188.1",
+"556.2",
+"-188.1",
+"587.5",
+"-189.1",
+"587.5",
+"-189.1",
+"611.7",
+"-191.1",
+"611.7",
+"-191.1",
+"632.9",
+"-195.1",
+"632.9",
+"-195.1",
+"639.0",
+"-197.1",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"540.1",
+"-176.0",
+"542.1",
+"-165.9",
+"542.1",
+"-165.9",
+"550.2",
+"-149.7",
+"550.2",
+"-149.7",
+"556.2",
+"-135.6",
+"556.2",
+"-135.6",
+"563.3",
+"-122.5",
+"563.3",
+"-122.5",
+"562.3",
+"-132.6",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"684.4",
+"-99.3",
+"685.4",
+"-117.4",
+"685.4",
+"-117.4",
+"685.4",
+"-131.6",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"721.7",
+"-87.1",
+"725.8",
+"-100.3",
+"725.8",
+"-100.3",
+"730.8",
+"-118.4",
+"730.8",
+"-118.4",
+"730.8",
+"-122.5",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"695.5",
+"-146.7",
+"696.5",
+"-165.9",
+"696.5",
+"-165.9",
+"697.5",
+"-178.0",
+"697.5",
+"-178.0",
+"697.5",
+"-184.0",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"672.3",
+"-160.8",
+"673.3",
+"-178.0",
+"673.3",
+"-178.0",
+"681.4",
+"-192.1",
+"681.4",
+"-192.1",
+"693.5",
+"-202.2",
+"693.5",
+"-202.2",
+"705.6",
+"-205.2",
+"705.6",
+"-205.2",
+"715.7",
+"-206.2",
+"715.7",
+"-206.2",
+"726.8",
+"-200.2",
+"726.8",
+"-200.2",
+"746.0",
+"-177.0",
+"746.0",
+"-177.0",
+"754.0",
+"-160.8",
+"754.0",
+"-160.8",
+"749.0",
+"-168.9",
+},
+},
+},
+["mdi"] = {
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+["freehold"] = 1,
+},
+},
+{
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = ":)",
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["uid"] = "Aq3zk4cHEOL",
+["faction"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 19,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+6,
+},
+{
+2,
+3,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+17,
+14,
+15,
+},
+nil,
+{
+5,
+},
+{
+4,
+},
+{
+3,
+},
+[36] = {
+},
+["color"] = "3eff9e",
+},
+{
+{
+18,
+19,
+20,
+21,
+},
+{
+6,
+},
+{
+6,
+},
+{
+5,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3e3e",
+[10] = {
+},
+[9] = {
+},
+},
+{
+nil,
+{
+7,
+},
+{
+},
+{
+6,
+},
+["color"] = "3e9eff",
+[6] = {
+3,
+},
+[36] = {
+3,
+4,
+},
+},
+{
+[5] = {
+4,
+},
+[2] = {
+10,
+},
+[28] = {
+12,
+},
+["color"] = "fffb3e",
+},
+{
+{
+24,
+25,
+26,
+},
+{
+11,
+},
+nil,
+{
+7,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+{
+28,
+27,
+29,
+},
+[5] = {
+6,
+},
+[6] = {
+4,
+},
+[4] = {
+8,
+},
+["color"] = "ff3e9e",
+},
+{
+[27] = {
+1,
+},
+[28] = {
+11,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+5,
+8,
+9,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[4] = {
+10,
+},
+[9] = {
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+16,
+},
+[9] = {
+4,
+},
+[25] = {
+14,
+15,
+16,
+},
+},
+{
+[11] = {
+1,
+},
+[23] = {
+7,
+8,
+9,
+10,
+},
+["color"] = "a1ff3e",
+},
+{
+[8] = {
+12,
+13,
+},
+[10] = {
+3,
+},
+["color"] = "ff3eff",
+[4] = {
+12,
+},
+[9] = {
+6,
+},
+[25] = {
+24,
+25,
+},
+},
+{
+[13] = {
+2,
+3,
+},
+[25] = {
+36,
+33,
+32,
+35,
+34,
+},
+[12] = {
+3,
+},
+[14] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[30] = {
+4,
+},
+[31] = {
+2,
+},
+[29] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[16] = {
+1,
+2,
+},
+[17] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[18] = {
+1,
+},
+[16] = {
+3,
+4,
+},
+[17] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+[18] = {
+3,
+},
+[15] = {
+3,
+4,
+},
+[17] = {
+3,
+},
+["color"] = "3eff3e",
+},
+{
+{
+},
+{
+},
+{
+7,
+},
+[15] = {
+6,
+7,
+},
+[18] = {
+4,
+},
+["color"] = "ff3e9e",
+[19] = {
+1,
+2,
+},
+[16] = {
+9,
+},
+},
+{
+["color"] = "3effff",
+[16] = {
+},
+[15] = {
+},
+},
+{
+[24] = {
+3,
+2,
+1,
+4,
+},
+[12] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[5] = {
+10,
+},
+[10] = {
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+},
+[10] = {
+4,
+},
+["color"] = "a1ff3e",
+[4] = {
+13,
+},
+},
+{
+[20] = {
+4,
+3,
+},
+[21] = {
+2,
+},
+[10] = {
+5,
+},
+["color"] = "ff3eff",
+[4] = {
+14,
+},
+},
+{
+[24] = {
+6,
+5,
+},
+["color"] = "3eff9e",
+[20] = {
+2,
+},
+[5] = {
+11,
+},
+},
+{
+[32] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[34] = {
+1,
+},
+[33] = {
+1,
+},
+[35] = {
+1,
 },
 ["color"] = "3e9eff",
 },
 },
 },
-["text"] = "Wazocutie's +19 1",
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"686.3",
+"-531.5",
+1,
+true,
+"Come say hi at twitch.tv/thebunten",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"633.6",
+"-246.7",
+1,
+true,
+"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"324.9",
+"-195.5",
+1,
+true,
+"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"134.2",
+"-96.1",
+1,
+true,
+"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"54.7",
+"-164.5",
+1,
+true,
+"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"706.3",
+"-332",
+1,
+true,
+"stay close to the south wall... do not want to pull the bombers",
+},
+},
+{
+["l"] = {
+"142.9",
+"-490.5",
+"132.1",
+"-483.6",
+"132.1",
+"-483.6",
+"122.2",
+"-471.4",
+"122.2",
+"-471.4",
+"112.2",
+"-458.3",
+"112.2",
+"-458.3",
+"106.9",
+"-446.8",
+"106.9",
+"-446.8",
+"104.6",
+"-433.8",
+"104.6",
+"-433.8",
+"106.9",
+"-420.0",
+"106.9",
+"-420.0",
+"115.4",
+"-409.3",
+"115.4",
+"-409.3",
+"126.0",
+"-407.7",
+"126.0",
+"-407.7",
+"139.9",
+"-406.2",
+"139.9",
+"-406.2",
+"151.4",
+"-410.8",
+"151.4",
+"-410.8",
+"168.1",
+"-410.0",
+"168.1",
+"-410.0",
+"182.0",
+"-410.0",
+"182.0",
+"-410.0",
+"193.5",
+"-412.3",
+"193.5",
+"-412.3",
+"206.5",
+"-417.8",
+"206.5",
+"-417.8",
+"211.1",
+"-429.2",
+"211.1",
+"-429.2",
+"211.1",
+"-439.9",
+"211.1",
+"-439.9",
+"208.1",
+"-452.2",
+"208.1",
+"-452.2",
+"195.0",
+"-463.7",
+"195.0",
+"-463.7",
+"183.5",
+"-472.9",
+"183.5",
+"-472.9",
+"172.1",
+"-479.0",
+"172.1",
+"-479.0",
+"160.5",
+"-479.0",
+"160.5",
+"-479.0",
+"149.8",
+"-478.2",
+"149.8",
+"-478.2",
+"139.1",
+"-479.0",
+"139.1",
+"-479.0",
+"138.3",
+"-478.2",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"204.3",
+"-425.4",
+"213.4",
+"-414.6",
+"213.4",
+"-414.6",
+"223.4",
+"-403.2",
+"223.4",
+"-403.2",
+"232.5",
+"-392.4",
+"232.5",
+"-392.4",
+"247.1",
+"-390.9",
+"247.1",
+"-390.9",
+"262.5",
+"-396.2",
+"262.5",
+"-396.2",
+"273.9",
+"-402.4",
+"273.9",
+"-402.4",
+"284.7",
+"-409.3",
+"284.7",
+"-409.3",
+"296.2",
+"-415.4",
+"296.2",
+"-415.4",
+"303.0",
+"-428.4",
+"303.0",
+"-428.4",
+"300.8",
+"-441.5",
+"300.8",
+"-441.5",
+"298.5",
+"-452.2",
+"298.5",
+"-452.2",
+"287.7",
+"-462.1",
+"287.7",
+"-462.1",
+"275.5",
+"-471.4",
+"275.5",
+"-471.4",
+"264.0",
+"-472.9",
+"264.0",
+"-472.9",
+"250.9",
+"-474.4",
+"250.9",
+"-474.4",
+"239.5",
+"-475.2",
+"239.5",
+"-475.2",
+"225.7",
+"-473.7",
+"225.7",
+"-473.7",
+"211.9",
+"-472.9",
+"211.9",
+"-472.9",
+"200.3",
+"-469.0",
+"200.3",
+"-469.0",
+"188.9",
+"-464.4",
+"188.9",
+"-464.4",
+"187.4",
+"-463.7",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-7,
+true,
+},
+},
+{
+["l"] = {
+"176.6",
+"-413.8",
+"169.0",
+"-403.2",
+"169.0",
+"-403.2",
+"167.4",
+"-390.9",
+"167.4",
+"-390.9",
+"162.1",
+"-379.4",
+"162.1",
+"-379.4",
+"159.8",
+"-365.6",
+"159.8",
+"-365.6",
+"162.1",
+"-353.4",
+"162.1",
+"-353.4",
+"159.0",
+"-342.6",
+"159.0",
+"-342.6",
+"156.7",
+"-330.4",
+"156.7",
+"-330.4",
+"156.7",
+"-319.6",
+"156.7",
+"-319.6",
+"156.7",
+"-305.1",
+"156.7",
+"-305.1",
+"156.7",
+"-293.6",
+"156.7",
+"-293.6",
+"156.7",
+"-282.1",
+"156.7",
+"-282.1",
+"157.5",
+"-269.8",
+"157.5",
+"-269.8",
+"156.7",
+"-252.9",
+"156.7",
+"-252.9",
+"159.0",
+"-240.8",
+"159.0",
+"-240.8",
+"162.1",
+"-227.7",
+"162.1",
+"-227.7",
+"165.1",
+"-213.9",
+"165.1",
+"-213.9",
+"166.6",
+"-200.8",
+"166.6",
+"-200.8",
+"169.8",
+"-189.4",
+"169.8",
+"-189.4",
+"177.4",
+"-177.9",
+"177.4",
+"-177.9",
+"186.6",
+"-161.8",
+"186.6",
+"-161.8",
+"200.3",
+"-145.7",
+"200.3",
+"-145.7",
+"214.2",
+"-137.3",
+"214.2",
+"-137.3",
+"245.6",
+"-134.2",
+"245.6",
+"-134.2",
+"257.9",
+"-134.2",
+"257.9",
+"-134.2",
+"268.6",
+"-136.5",
+"268.6",
+"-136.5",
+"280.1",
+"-140.3",
+"280.1",
+"-140.3",
+"290.8",
+"-146.4",
+"290.8",
+"-146.4",
+"303.0",
+"-155.7",
+"303.0",
+"-155.7",
+"313.8",
+"-168.7",
+"313.8",
+"-168.7",
+"323.7",
+"-184.7",
+"323.7",
+"-184.7",
+"332.2",
+"-200.8",
+"332.2",
+"-200.8",
+"336.8",
+"-215.4",
+"336.8",
+"-215.4",
+"341.3",
+"-236.1",
+"341.3",
+"-236.1",
+"342.1",
+"-252.2",
+"342.1",
+"-252.2",
+"343.6",
+"-269.8",
+"343.6",
+"-269.8",
+"344.4",
+"-281.3",
+"344.4",
+"-281.3",
+"341.3",
+"-293.6",
+"341.3",
+"-293.6",
+"339.1",
+"-305.8",
+"339.1",
+"-305.8",
+"339.1",
+"-321.9",
+"339.1",
+"-321.9",
+"336.8",
+"-334.2",
+"336.8",
+"-334.2",
+"330.7",
+"-348.8",
+"330.7",
+"-348.8",
+"325.2",
+"-363.3",
+"325.2",
+"-363.3",
+"315.3",
+"-377.8",
+"315.3",
+"-377.8",
+"308.4",
+"-389.4",
+"308.4",
+"-389.4",
+"295.4",
+"-400.9",
+"295.4",
+"-400.9",
+"282.4",
+"-409.3",
+"282.4",
+"-409.3",
+"273.9",
+"-411.6",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-6,
+true,
+},
+},
+{
+["l"] = {
+"273.1",
+"-141.9",
+"268.6",
+"-153.4",
+"268.6",
+"-153.4",
+"264.0",
+"-164.8",
+"264.0",
+"-164.8",
+"263.2",
+"-166.3",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"358.5",
+"-399.0",
+"358.5",
+"-419.2",
+"358.5",
+"-419.2",
+"358.5",
+"-434.3",
+"358.5",
+"-434.3",
+"359.5",
+"-445.4",
+"359.5",
+"-445.4",
+"360.5",
+"-460.5",
+"360.5",
+"-460.5",
+"365.5",
+"-475.7",
+"365.5",
+"-475.7",
+"370.6",
+"-487.8",
+"370.6",
+"-487.8",
+"382.7",
+"-497.9",
+"382.7",
+"-497.9",
+"398.8",
+"-502.9",
+"398.8",
+"-502.9",
+"419.0",
+"-504.9",
+"419.0",
+"-504.9",
+"433.1",
+"-505.9",
+"433.1",
+"-505.9",
+"443.2",
+"-507.0",
+"443.2",
+"-507.0",
+"461.4",
+"-507.0",
+"461.4",
+"-507.0",
+"473.5",
+"-507.0",
+"473.5",
+"-507.0",
+"486.6",
+"-504.9",
+"486.6",
+"-504.9",
+"497.7",
+"-501.9",
+"497.7",
+"-501.9",
+"510.8",
+"-498.9",
+"510.8",
+"-498.9",
+"522.9",
+"-493.8",
+"522.9",
+"-493.8",
+"530.0",
+"-476.7",
+"530.0",
+"-476.7",
+"534.0",
+"-463.6",
+"534.0",
+"-463.6",
+"534.0",
+"-450.4",
+"534.0",
+"-450.4",
+"532.0",
+"-438.3",
+"532.0",
+"-438.3",
+"530.0",
+"-426.2",
+"530.0",
+"-426.2",
+"529.0",
+"-406.0",
+"529.0",
+"-406.0",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-383.8",
+"529.0",
+"-383.8",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-409.1",
+"529.0",
+"-409.1",
+"526.0",
+"-427.2",
+"526.0",
+"-427.2",
+"521.9",
+"-445.4",
+"521.9",
+"-445.4",
+"519.9",
+"-467.6",
+"519.9",
+"-467.6",
+"518.9",
+"-482.7",
+"518.9",
+"-482.7",
+"517.9",
+"-493.8",
+"517.9",
+"-493.8",
+"519.9",
+"-505.9",
+"519.9",
+"-505.9",
+"528.0",
+"-522.1",
+"528.0",
+"-522.1",
+"543.1",
+"-528.1",
+"543.1",
+"-528.1",
+"558.3",
+"-528.1",
+"558.3",
+"-528.1",
+"570.4",
+"-524.1",
+"570.4",
+"-524.1",
+"584.5",
+"-517.0",
+"584.5",
+"-517.0",
+"600.6",
+"-507.0",
+"600.6",
+"-507.0",
+"613.8",
+"-496.9",
+"613.8",
+"-496.9",
+"625.9",
+"-485.8",
+"625.9",
+"-485.8",
+"631.9",
+"-474.7",
+"631.9",
+"-474.7",
+"632.9",
+"-464.6",
+"632.9",
+"-464.6",
+"632.9",
+"-447.4",
+"632.9",
+"-447.4",
+"632.9",
+"-433.3",
+"632.9",
+"-433.3",
+"627.9",
+"-420.2",
+"627.9",
+"-420.2",
+"619.8",
+"-408.1",
+"619.8",
+"-408.1",
+"609.7",
+"-394.9",
+"609.7",
+"-394.9",
+"608.7",
+"-379.8",
+"608.7",
+"-379.8",
+"608.7",
+"-369.7",
+"608.7",
+"-369.7",
+"610.7",
+"-357.6",
+"610.7",
+"-357.6",
+"612.8",
+"-346.5",
+"612.8",
+"-346.5",
+"615.8",
+"-334.4",
+"615.8",
+"-334.4",
+"618.8",
+"-316.2",
+"618.8",
+"-316.2",
+"620.8",
+"-300.1",
+"620.8",
+"-300.1",
+"623.9",
+"-269.8",
+"623.9",
+"-269.8",
+"625.9",
+"-218.3",
+"625.9",
+"-218.3",
+"625.9",
+"-198.2",
+"625.9",
+"-198.2",
+"625.9",
+"-186.0",
+"625.9",
+"-186.0",
+"624.9",
+"-176.0",
+"624.9",
+"-176.0",
+"623.9",
+"-164.9",
+"623.9",
+"-164.9",
+"620.8",
+"-151.7",
+"620.8",
+"-151.7",
+"613.8",
+"-139.6",
+"613.8",
+"-139.6",
+"599.6",
+"-131.6",
+"599.6",
+"-131.6",
+"586.5",
+"-128.5",
+"586.5",
+"-128.5",
+"572.4",
+"-128.5",
+"572.4",
+"-128.5",
+"557.3",
+"-129.5",
+"557.3",
+"-129.5",
+"542.1",
+"-131.6",
+"542.1",
+"-131.6",
+"526.0",
+"-133.6",
+"526.0",
+"-133.6",
+"510.8",
+"-137.6",
+"510.8",
+"-137.6",
+"496.7",
+"-145.7",
+"496.7",
+"-145.7",
+"487.6",
+"-155.8",
+"487.6",
+"-155.8",
+"475.5",
+"-173.9",
+"475.5",
+"-173.9",
+"465.4",
+"-194.1",
+"465.4",
+"-194.1",
+"452.3",
+"-221.4",
+"452.3",
+"-221.4",
+"442.2",
+"-247.6",
+"442.2",
+"-247.6",
+"432.1",
+"-275.9",
+"432.1",
+"-275.9",
+"422.0",
+"-297.1",
+"422.0",
+"-297.1",
+"412.9",
+"-317.2",
+"412.9",
+"-317.2",
+"403.9",
+"-333.4",
+"403.9",
+"-333.4",
+"393.8",
+"-353.6",
+"393.8",
+"-353.6",
+"383.7",
+"-368.7",
+"383.7",
+"-368.7",
+"374.6",
+"-379.8",
+"374.6",
+"-379.8",
+"365.5",
+"-390.9",
+"365.5",
+"-390.9",
+"355.4",
+"-405.0",
+"355.4",
+"-405.0",
+"358.5",
+"-393.9",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"470.5",
+"-170.9",
+"494.7",
+"-178.0",
+"494.7",
+"-178.0",
+"525.0",
+"-184.0",
+"525.0",
+"-184.0",
+"556.2",
+"-188.1",
+"556.2",
+"-188.1",
+"587.5",
+"-189.1",
+"587.5",
+"-189.1",
+"611.7",
+"-191.1",
+"611.7",
+"-191.1",
+"632.9",
+"-195.1",
+"632.9",
+"-195.1",
+"639.0",
+"-197.1",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-7,
+true,
+},
+},
+{
+["l"] = {
+"540.1",
+"-176.0",
+"542.1",
+"-165.9",
+"542.1",
+"-165.9",
+"550.2",
+"-149.7",
+"550.2",
+"-149.7",
+"556.2",
+"-135.6",
+"556.2",
+"-135.6",
+"563.3",
+"-122.5",
+"563.3",
+"-122.5",
+"562.3",
+"-132.6",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"684.4",
+"-99.3",
+"685.4",
+"-117.4",
+"685.4",
+"-117.4",
+"685.4",
+"-131.6",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"721.7",
+"-87.1",
+"725.8",
+"-100.3",
+"725.8",
+"-100.3",
+"730.8",
+"-118.4",
+"730.8",
+"-118.4",
+"730.8",
+"-122.5",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"695.5",
+"-146.7",
+"696.5",
+"-165.9",
+"696.5",
+"-165.9",
+"697.5",
+"-178.0",
+"697.5",
+"-178.0",
+"697.5",
+"-184.0",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"672.3",
+"-160.8",
+"673.3",
+"-178.0",
+"673.3",
+"-178.0",
+"681.4",
+"-192.1",
+"681.4",
+"-192.1",
+"693.5",
+"-202.2",
+"693.5",
+"-202.2",
+"705.6",
+"-205.2",
+"705.6",
+"-205.2",
+"715.7",
+"-206.2",
+"715.7",
+"-206.2",
+"726.8",
+"-200.2",
+"726.8",
+"-200.2",
+"746.0",
+"-177.0",
+"746.0",
+"-177.0",
+"754.0",
+"-160.8",
+"754.0",
+"-160.8",
+"749.0",
+"-168.9",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+},
+["difficulty"] = 2,
+["week"] = 1,
+},
+{
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
+["text"] = ":) 2",
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["uid"] = "2e(l1SyxRlr",
+["faction"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 19,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+6,
+},
+{
+2,
+3,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+17,
+14,
+15,
+},
+nil,
+{
+5,
+},
+{
+4,
+},
+{
+3,
+},
+[36] = {
+},
+["color"] = "3eff9e",
+},
+{
+{
+18,
+19,
+20,
+21,
+},
+{
+6,
+},
+{
+6,
+},
+{
+5,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3e3e",
+[10] = {
+},
+[9] = {
+},
+},
+{
+nil,
+{
+7,
+},
+{
+},
+{
+6,
+},
+["color"] = "3e9eff",
+[6] = {
+3,
+},
+[36] = {
+3,
+4,
+},
+},
+{
+[5] = {
+4,
+},
+[2] = {
+10,
+},
+[28] = {
+12,
+},
+["color"] = "fffb3e",
+},
+{
+{
+24,
+25,
+26,
+},
+{
+11,
+},
+nil,
+{
+7,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+{
+28,
+27,
+29,
+},
+[5] = {
+6,
+},
+[6] = {
+4,
+},
+[4] = {
+8,
+},
+["color"] = "ff3e9e",
+},
+{
+[27] = {
+1,
+},
+[28] = {
+11,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+5,
+8,
+9,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[4] = {
+10,
+},
+[9] = {
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+16,
+},
+[9] = {
+4,
+},
+[25] = {
+14,
+15,
+16,
+},
+},
+{
+[11] = {
+1,
+},
+[23] = {
+7,
+8,
+9,
+10,
+},
+["color"] = "a1ff3e",
+},
+{
+[8] = {
+12,
+13,
+},
+[10] = {
+3,
+},
+["color"] = "ff3eff",
+[4] = {
+12,
+},
+[9] = {
+6,
+},
+[25] = {
+24,
+25,
+},
+},
+{
+[13] = {
+2,
+3,
+},
+[25] = {
+36,
+33,
+32,
+35,
+34,
+},
+[12] = {
+3,
+},
+[14] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[30] = {
+4,
+},
+[31] = {
+2,
+},
+[29] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[16] = {
+1,
+2,
+},
+[17] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[18] = {
+1,
+},
+[16] = {
+3,
+4,
+},
+[17] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+[18] = {
+3,
+},
+[15] = {
+3,
+4,
+},
+[17] = {
+3,
+},
+["color"] = "3eff3e",
+},
+{
+{
+},
+{
+},
+{
+7,
+},
+[15] = {
+6,
+7,
+},
+[18] = {
+4,
+},
+["color"] = "ff3e9e",
+[19] = {
+1,
+2,
+},
+[16] = {
+9,
+},
+},
+{
+["color"] = "3effff",
+[16] = {
+},
+[15] = {
+},
+},
+{
+[24] = {
+3,
+2,
+1,
+4,
+},
+[12] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[5] = {
+10,
+},
+[10] = {
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+},
+[10] = {
+4,
+},
+["color"] = "a1ff3e",
+[4] = {
+13,
+},
+},
+{
+[20] = {
+4,
+3,
+},
+[21] = {
+2,
+},
+[10] = {
+5,
+},
+["color"] = "ff3eff",
+[4] = {
+14,
+},
+},
+{
+[24] = {
+6,
+5,
+},
+["color"] = "3eff9e",
+[20] = {
+2,
+},
+[5] = {
+11,
+},
+},
+{
+[32] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[34] = {
+1,
+},
+[33] = {
+1,
+},
+[35] = {
+1,
+},
+["color"] = "3e9eff",
+},
+},
+},
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"686.3",
+"-531.5",
+1,
+true,
+"Come say hi at twitch.tv/thebunten",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"633.6",
+"-246.7",
+1,
+true,
+"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"324.9",
+"-195.5",
+1,
+true,
+"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"134.2",
+"-96.1",
+1,
+true,
+"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"54.7",
+"-164.5",
+1,
+true,
+"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"706.3",
+"-332",
+1,
+true,
+"stay close to the south wall... do not want to pull the bombers",
+},
+},
+{
+["l"] = {
+"142.9",
+"-490.5",
+"132.1",
+"-483.6",
+"132.1",
+"-483.6",
+"122.2",
+"-471.4",
+"122.2",
+"-471.4",
+"112.2",
+"-458.3",
+"112.2",
+"-458.3",
+"106.9",
+"-446.8",
+"106.9",
+"-446.8",
+"104.6",
+"-433.8",
+"104.6",
+"-433.8",
+"106.9",
+"-420.0",
+"106.9",
+"-420.0",
+"115.4",
+"-409.3",
+"115.4",
+"-409.3",
+"126.0",
+"-407.7",
+"126.0",
+"-407.7",
+"139.9",
+"-406.2",
+"139.9",
+"-406.2",
+"151.4",
+"-410.8",
+"151.4",
+"-410.8",
+"168.1",
+"-410.0",
+"168.1",
+"-410.0",
+"182.0",
+"-410.0",
+"182.0",
+"-410.0",
+"193.5",
+"-412.3",
+"193.5",
+"-412.3",
+"206.5",
+"-417.8",
+"206.5",
+"-417.8",
+"211.1",
+"-429.2",
+"211.1",
+"-429.2",
+"211.1",
+"-439.9",
+"211.1",
+"-439.9",
+"208.1",
+"-452.2",
+"208.1",
+"-452.2",
+"195.0",
+"-463.7",
+"195.0",
+"-463.7",
+"183.5",
+"-472.9",
+"183.5",
+"-472.9",
+"172.1",
+"-479.0",
+"172.1",
+"-479.0",
+"160.5",
+"-479.0",
+"160.5",
+"-479.0",
+"149.8",
+"-478.2",
+"149.8",
+"-478.2",
+"139.1",
+"-479.0",
+"139.1",
+"-479.0",
+"138.3",
+"-478.2",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"204.3",
+"-425.4",
+"213.4",
+"-414.6",
+"213.4",
+"-414.6",
+"223.4",
+"-403.2",
+"223.4",
+"-403.2",
+"232.5",
+"-392.4",
+"232.5",
+"-392.4",
+"247.1",
+"-390.9",
+"247.1",
+"-390.9",
+"262.5",
+"-396.2",
+"262.5",
+"-396.2",
+"273.9",
+"-402.4",
+"273.9",
+"-402.4",
+"284.7",
+"-409.3",
+"284.7",
+"-409.3",
+"296.2",
+"-415.4",
+"296.2",
+"-415.4",
+"303.0",
+"-428.4",
+"303.0",
+"-428.4",
+"300.8",
+"-441.5",
+"300.8",
+"-441.5",
+"298.5",
+"-452.2",
+"298.5",
+"-452.2",
+"287.7",
+"-462.1",
+"287.7",
+"-462.1",
+"275.5",
+"-471.4",
+"275.5",
+"-471.4",
+"264.0",
+"-472.9",
+"264.0",
+"-472.9",
+"250.9",
+"-474.4",
+"250.9",
+"-474.4",
+"239.5",
+"-475.2",
+"239.5",
+"-475.2",
+"225.7",
+"-473.7",
+"225.7",
+"-473.7",
+"211.9",
+"-472.9",
+"211.9",
+"-472.9",
+"200.3",
+"-469.0",
+"200.3",
+"-469.0",
+"188.9",
+"-464.4",
+"188.9",
+"-464.4",
+"187.4",
+"-463.7",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-7,
+true,
+},
+},
+{
+["l"] = {
+"176.6",
+"-413.8",
+"169.0",
+"-403.2",
+"169.0",
+"-403.2",
+"167.4",
+"-390.9",
+"167.4",
+"-390.9",
+"162.1",
+"-379.4",
+"162.1",
+"-379.4",
+"159.8",
+"-365.6",
+"159.8",
+"-365.6",
+"162.1",
+"-353.4",
+"162.1",
+"-353.4",
+"159.0",
+"-342.6",
+"159.0",
+"-342.6",
+"156.7",
+"-330.4",
+"156.7",
+"-330.4",
+"156.7",
+"-319.6",
+"156.7",
+"-319.6",
+"156.7",
+"-305.1",
+"156.7",
+"-305.1",
+"156.7",
+"-293.6",
+"156.7",
+"-293.6",
+"156.7",
+"-282.1",
+"156.7",
+"-282.1",
+"157.5",
+"-269.8",
+"157.5",
+"-269.8",
+"156.7",
+"-252.9",
+"156.7",
+"-252.9",
+"159.0",
+"-240.8",
+"159.0",
+"-240.8",
+"162.1",
+"-227.7",
+"162.1",
+"-227.7",
+"165.1",
+"-213.9",
+"165.1",
+"-213.9",
+"166.6",
+"-200.8",
+"166.6",
+"-200.8",
+"169.8",
+"-189.4",
+"169.8",
+"-189.4",
+"177.4",
+"-177.9",
+"177.4",
+"-177.9",
+"186.6",
+"-161.8",
+"186.6",
+"-161.8",
+"200.3",
+"-145.7",
+"200.3",
+"-145.7",
+"214.2",
+"-137.3",
+"214.2",
+"-137.3",
+"245.6",
+"-134.2",
+"245.6",
+"-134.2",
+"257.9",
+"-134.2",
+"257.9",
+"-134.2",
+"268.6",
+"-136.5",
+"268.6",
+"-136.5",
+"280.1",
+"-140.3",
+"280.1",
+"-140.3",
+"290.8",
+"-146.4",
+"290.8",
+"-146.4",
+"303.0",
+"-155.7",
+"303.0",
+"-155.7",
+"313.8",
+"-168.7",
+"313.8",
+"-168.7",
+"323.7",
+"-184.7",
+"323.7",
+"-184.7",
+"332.2",
+"-200.8",
+"332.2",
+"-200.8",
+"336.8",
+"-215.4",
+"336.8",
+"-215.4",
+"341.3",
+"-236.1",
+"341.3",
+"-236.1",
+"342.1",
+"-252.2",
+"342.1",
+"-252.2",
+"343.6",
+"-269.8",
+"343.6",
+"-269.8",
+"344.4",
+"-281.3",
+"344.4",
+"-281.3",
+"341.3",
+"-293.6",
+"341.3",
+"-293.6",
+"339.1",
+"-305.8",
+"339.1",
+"-305.8",
+"339.1",
+"-321.9",
+"339.1",
+"-321.9",
+"336.8",
+"-334.2",
+"336.8",
+"-334.2",
+"330.7",
+"-348.8",
+"330.7",
+"-348.8",
+"325.2",
+"-363.3",
+"325.2",
+"-363.3",
+"315.3",
+"-377.8",
+"315.3",
+"-377.8",
+"308.4",
+"-389.4",
+"308.4",
+"-389.4",
+"295.4",
+"-400.9",
+"295.4",
+"-400.9",
+"282.4",
+"-409.3",
+"282.4",
+"-409.3",
+"273.9",
+"-411.6",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-6,
+true,
+},
+},
+{
+["l"] = {
+"273.1",
+"-141.9",
+"268.6",
+"-153.4",
+"268.6",
+"-153.4",
+"264.0",
+"-164.8",
+"264.0",
+"-164.8",
+"263.2",
+"-166.3",
+},
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"358.5",
+"-399.0",
+"358.5",
+"-419.2",
+"358.5",
+"-419.2",
+"358.5",
+"-434.3",
+"358.5",
+"-434.3",
+"359.5",
+"-445.4",
+"359.5",
+"-445.4",
+"360.5",
+"-460.5",
+"360.5",
+"-460.5",
+"365.5",
+"-475.7",
+"365.5",
+"-475.7",
+"370.6",
+"-487.8",
+"370.6",
+"-487.8",
+"382.7",
+"-497.9",
+"382.7",
+"-497.9",
+"398.8",
+"-502.9",
+"398.8",
+"-502.9",
+"419.0",
+"-504.9",
+"419.0",
+"-504.9",
+"433.1",
+"-505.9",
+"433.1",
+"-505.9",
+"443.2",
+"-507.0",
+"443.2",
+"-507.0",
+"461.4",
+"-507.0",
+"461.4",
+"-507.0",
+"473.5",
+"-507.0",
+"473.5",
+"-507.0",
+"486.6",
+"-504.9",
+"486.6",
+"-504.9",
+"497.7",
+"-501.9",
+"497.7",
+"-501.9",
+"510.8",
+"-498.9",
+"510.8",
+"-498.9",
+"522.9",
+"-493.8",
+"522.9",
+"-493.8",
+"530.0",
+"-476.7",
+"530.0",
+"-476.7",
+"534.0",
+"-463.6",
+"534.0",
+"-463.6",
+"534.0",
+"-450.4",
+"534.0",
+"-450.4",
+"532.0",
+"-438.3",
+"532.0",
+"-438.3",
+"530.0",
+"-426.2",
+"530.0",
+"-426.2",
+"529.0",
+"-406.0",
+"529.0",
+"-406.0",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-383.8",
+"529.0",
+"-383.8",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-409.1",
+"529.0",
+"-409.1",
+"526.0",
+"-427.2",
+"526.0",
+"-427.2",
+"521.9",
+"-445.4",
+"521.9",
+"-445.4",
+"519.9",
+"-467.6",
+"519.9",
+"-467.6",
+"518.9",
+"-482.7",
+"518.9",
+"-482.7",
+"517.9",
+"-493.8",
+"517.9",
+"-493.8",
+"519.9",
+"-505.9",
+"519.9",
+"-505.9",
+"528.0",
+"-522.1",
+"528.0",
+"-522.1",
+"543.1",
+"-528.1",
+"543.1",
+"-528.1",
+"558.3",
+"-528.1",
+"558.3",
+"-528.1",
+"570.4",
+"-524.1",
+"570.4",
+"-524.1",
+"584.5",
+"-517.0",
+"584.5",
+"-517.0",
+"600.6",
+"-507.0",
+"600.6",
+"-507.0",
+"613.8",
+"-496.9",
+"613.8",
+"-496.9",
+"625.9",
+"-485.8",
+"625.9",
+"-485.8",
+"631.9",
+"-474.7",
+"631.9",
+"-474.7",
+"632.9",
+"-464.6",
+"632.9",
+"-464.6",
+"632.9",
+"-447.4",
+"632.9",
+"-447.4",
+"632.9",
+"-433.3",
+"632.9",
+"-433.3",
+"627.9",
+"-420.2",
+"627.9",
+"-420.2",
+"619.8",
+"-408.1",
+"619.8",
+"-408.1",
+"609.7",
+"-394.9",
+"609.7",
+"-394.9",
+"608.7",
+"-379.8",
+"608.7",
+"-379.8",
+"608.7",
+"-369.7",
+"608.7",
+"-369.7",
+"610.7",
+"-357.6",
+"610.7",
+"-357.6",
+"612.8",
+"-346.5",
+"612.8",
+"-346.5",
+"615.8",
+"-334.4",
+"615.8",
+"-334.4",
+"618.8",
+"-316.2",
+"618.8",
+"-316.2",
+"620.8",
+"-300.1",
+"620.8",
+"-300.1",
+"623.9",
+"-269.8",
+"623.9",
+"-269.8",
+"625.9",
+"-218.3",
+"625.9",
+"-218.3",
+"625.9",
+"-198.2",
+"625.9",
+"-198.2",
+"625.9",
+"-186.0",
+"625.9",
+"-186.0",
+"624.9",
+"-176.0",
+"624.9",
+"-176.0",
+"623.9",
+"-164.9",
+"623.9",
+"-164.9",
+"620.8",
+"-151.7",
+"620.8",
+"-151.7",
+"613.8",
+"-139.6",
+"613.8",
+"-139.6",
+"599.6",
+"-131.6",
+"599.6",
+"-131.6",
+"586.5",
+"-128.5",
+"586.5",
+"-128.5",
+"572.4",
+"-128.5",
+"572.4",
+"-128.5",
+"557.3",
+"-129.5",
+"557.3",
+"-129.5",
+"542.1",
+"-131.6",
+"542.1",
+"-131.6",
+"526.0",
+"-133.6",
+"526.0",
+"-133.6",
+"510.8",
+"-137.6",
+"510.8",
+"-137.6",
+"496.7",
+"-145.7",
+"496.7",
+"-145.7",
+"487.6",
+"-155.8",
+"487.6",
+"-155.8",
+"475.5",
+"-173.9",
+"475.5",
+"-173.9",
+"465.4",
+"-194.1",
+"465.4",
+"-194.1",
+"452.3",
+"-221.4",
+"452.3",
+"-221.4",
+"442.2",
+"-247.6",
+"442.2",
+"-247.6",
+"432.1",
+"-275.9",
+"432.1",
+"-275.9",
+"422.0",
+"-297.1",
+"422.0",
+"-297.1",
+"412.9",
+"-317.2",
+"412.9",
+"-317.2",
+"403.9",
+"-333.4",
+"403.9",
+"-333.4",
+"393.8",
+"-353.6",
+"393.8",
+"-353.6",
+"383.7",
+"-368.7",
+"383.7",
+"-368.7",
+"374.6",
+"-379.8",
+"374.6",
+"-379.8",
+"365.5",
+"-390.9",
+"365.5",
+"-390.9",
+"355.4",
+"-405.0",
+"355.4",
+"-405.0",
+"358.5",
+"-393.9",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"470.5",
+"-170.9",
+"494.7",
+"-178.0",
+"494.7",
+"-178.0",
+"525.0",
+"-184.0",
+"525.0",
+"-184.0",
+"556.2",
+"-188.1",
+"556.2",
+"-188.1",
+"587.5",
+"-189.1",
+"587.5",
+"-189.1",
+"611.7",
+"-191.1",
+"611.7",
+"-191.1",
+"632.9",
+"-195.1",
+"632.9",
+"-195.1",
+"639.0",
+"-197.1",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-7,
+true,
+},
+},
+{
+["l"] = {
+"540.1",
+"-176.0",
+"542.1",
+"-165.9",
+"542.1",
+"-165.9",
+"550.2",
+"-149.7",
+"550.2",
+"-149.7",
+"556.2",
+"-135.6",
+"556.2",
+"-135.6",
+"563.3",
+"-122.5",
+"563.3",
+"-122.5",
+"562.3",
+"-132.6",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"684.4",
+"-99.3",
+"685.4",
+"-117.4",
+"685.4",
+"-117.4",
+"685.4",
+"-131.6",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"721.7",
+"-87.1",
+"725.8",
+"-100.3",
+"725.8",
+"-100.3",
+"730.8",
+"-118.4",
+"730.8",
+"-118.4",
+"730.8",
+"-122.5",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"695.5",
+"-146.7",
+"696.5",
+"-165.9",
+"696.5",
+"-165.9",
+"697.5",
+"-178.0",
+"697.5",
+"-178.0",
+"697.5",
+"-184.0",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+{
+["l"] = {
+"672.3",
+"-160.8",
+"673.3",
+"-178.0",
+"673.3",
+"-178.0",
+"681.4",
+"-192.1",
+"681.4",
+"-192.1",
+"693.5",
+"-202.2",
+"693.5",
+"-202.2",
+"705.6",
+"-205.2",
+"705.6",
+"-205.2",
+"715.7",
+"-206.2",
+"715.7",
+"-206.2",
+"726.8",
+"-200.2",
+"726.8",
+"-200.2",
+"746.0",
+"-177.0",
+"746.0",
+"-177.0",
+"754.0",
+"-160.8",
+"754.0",
+"-160.8",
+"749.0",
+"-168.9",
+},
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+},
+},
+["difficulty"] = 2,
+["week"] = 1,
+},
+{
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = ":) 3",
+["objects"] = {
+{
+["d"] = {
+"686.3",
+"-531.5",
+1,
+true,
+"Come say hi at twitch.tv/thebunten",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"633.6",
+"-246.7",
+1,
+true,
+"Chopper Redhook focuses on a random player with [Boiling Rage], which speeds him up. Kite the boss into a bomb on the groud for extra damage. He also calls in Irontide forces and bombards the area with [Heavy Ordnance].\n\nTanks: Avoid melee range due to [Heavy Hitter], manage Heavy Slash.\nHealers: Heal through damage from Irontide Powdershots and Heavy Ordnance.\nDPS: Disarm Heavy Ordnance and avoid On the Hook.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"324.9",
+"-195.5",
+1,
+true,
+"Lockwood retreats to her ship at 66% and 33% health. Players must use [Unstable Ordnance] to force her back to the battlefield. Focus Cannonner - pick up his cannon and use the extra action button towards the ship to bring the boss back. \n\nTanks: Face Crimson Swipe away from the group.\nHealers: Manage group-wide damage from Fiery Ricochet and Gut Shot.\nDPS: Use Unstable Ordnance to bring Lockwood back.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"134.2",
+"-96.1",
+1,
+true,
+"Hadal summons [Break Water] eruptions and unleashes [Tidal Surge], which requires hiding behind a statue to avoid. Two waves will come so be prepared to move around the status quickly. \n\nTanks: Face Crashing Tide away from the group.\nHealers: Heal through Break Water.\nDPS: Use the statue to avoid Tidal Surge.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"54.7",
+"-164.5",
+1,
+true,
+"Players must rescue Kul Tiran Engineers to repair cannons and use them against Viq'Goth. [Putrid Waters] causes group-wide damage while [Call of the Deep] summons adds. Demolishing Terrors first then other Gripping Terrors so that the cannon gets repaired. Stay together on the platform until a player get in the cannon to shoot the boss then travel to the next platform REPEAT.\n\nTanks: Manage Demolishing Terrors and prevent Hull Cracker.\nHealers: Handle/dispel damage from Putrid Waters.\nDPS: Defeat Demolishing Terrors then Gripping Terrors to free engineers.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"706.3",
+"-332",
+1,
+true,
+"stay close to the south wall... do not want to pull the bombers",
+},
+["n"] = true,
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"142.9",
+"-490.5",
+"132.1",
+"-483.6",
+"132.1",
+"-483.6",
+"122.2",
+"-471.4",
+"122.2",
+"-471.4",
+"112.2",
+"-458.3",
+"112.2",
+"-458.3",
+"106.9",
+"-446.8",
+"106.9",
+"-446.8",
+"104.6",
+"-433.8",
+"104.6",
+"-433.8",
+"106.9",
+"-420.0",
+"106.9",
+"-420.0",
+"115.4",
+"-409.3",
+"115.4",
+"-409.3",
+"126.0",
+"-407.7",
+"126.0",
+"-407.7",
+"139.9",
+"-406.2",
+"139.9",
+"-406.2",
+"151.4",
+"-410.8",
+"151.4",
+"-410.8",
+"168.1",
+"-410.0",
+"168.1",
+"-410.0",
+"182.0",
+"-410.0",
+"182.0",
+"-410.0",
+"193.5",
+"-412.3",
+"193.5",
+"-412.3",
+"206.5",
+"-417.8",
+"206.5",
+"-417.8",
+"211.1",
+"-429.2",
+"211.1",
+"-429.2",
+"211.1",
+"-439.9",
+"211.1",
+"-439.9",
+"208.1",
+"-452.2",
+"208.1",
+"-452.2",
+"195.0",
+"-463.7",
+"195.0",
+"-463.7",
+"183.5",
+"-472.9",
+"183.5",
+"-472.9",
+"172.1",
+"-479.0",
+"172.1",
+"-479.0",
+"160.5",
+"-479.0",
+"160.5",
+"-479.0",
+"149.8",
+"-478.2",
+"149.8",
+"-478.2",
+"139.1",
+"-479.0",
+"139.1",
+"-479.0",
+"138.3",
+"-478.2",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-7,
+true,
+},
+["l"] = {
+"204.3",
+"-425.4",
+"213.4",
+"-414.6",
+"213.4",
+"-414.6",
+"223.4",
+"-403.2",
+"223.4",
+"-403.2",
+"232.5",
+"-392.4",
+"232.5",
+"-392.4",
+"247.1",
+"-390.9",
+"247.1",
+"-390.9",
+"262.5",
+"-396.2",
+"262.5",
+"-396.2",
+"273.9",
+"-402.4",
+"273.9",
+"-402.4",
+"284.7",
+"-409.3",
+"284.7",
+"-409.3",
+"296.2",
+"-415.4",
+"296.2",
+"-415.4",
+"303.0",
+"-428.4",
+"303.0",
+"-428.4",
+"300.8",
+"-441.5",
+"300.8",
+"-441.5",
+"298.5",
+"-452.2",
+"298.5",
+"-452.2",
+"287.7",
+"-462.1",
+"287.7",
+"-462.1",
+"275.5",
+"-471.4",
+"275.5",
+"-471.4",
+"264.0",
+"-472.9",
+"264.0",
+"-472.9",
+"250.9",
+"-474.4",
+"250.9",
+"-474.4",
+"239.5",
+"-475.2",
+"239.5",
+"-475.2",
+"225.7",
+"-473.7",
+"225.7",
+"-473.7",
+"211.9",
+"-472.9",
+"211.9",
+"-472.9",
+"200.3",
+"-469.0",
+"200.3",
+"-469.0",
+"188.9",
+"-464.4",
+"188.9",
+"-464.4",
+"187.4",
+"-463.7",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-6,
+true,
+},
+["l"] = {
+"176.6",
+"-413.8",
+"169.0",
+"-403.2",
+"169.0",
+"-403.2",
+"167.4",
+"-390.9",
+"167.4",
+"-390.9",
+"162.1",
+"-379.4",
+"162.1",
+"-379.4",
+"159.8",
+"-365.6",
+"159.8",
+"-365.6",
+"162.1",
+"-353.4",
+"162.1",
+"-353.4",
+"159.0",
+"-342.6",
+"159.0",
+"-342.6",
+"156.7",
+"-330.4",
+"156.7",
+"-330.4",
+"156.7",
+"-319.6",
+"156.7",
+"-319.6",
+"156.7",
+"-305.1",
+"156.7",
+"-305.1",
+"156.7",
+"-293.6",
+"156.7",
+"-293.6",
+"156.7",
+"-282.1",
+"156.7",
+"-282.1",
+"157.5",
+"-269.8",
+"157.5",
+"-269.8",
+"156.7",
+"-252.9",
+"156.7",
+"-252.9",
+"159.0",
+"-240.8",
+"159.0",
+"-240.8",
+"162.1",
+"-227.7",
+"162.1",
+"-227.7",
+"165.1",
+"-213.9",
+"165.1",
+"-213.9",
+"166.6",
+"-200.8",
+"166.6",
+"-200.8",
+"169.8",
+"-189.4",
+"169.8",
+"-189.4",
+"177.4",
+"-177.9",
+"177.4",
+"-177.9",
+"186.6",
+"-161.8",
+"186.6",
+"-161.8",
+"200.3",
+"-145.7",
+"200.3",
+"-145.7",
+"214.2",
+"-137.3",
+"214.2",
+"-137.3",
+"245.6",
+"-134.2",
+"245.6",
+"-134.2",
+"257.9",
+"-134.2",
+"257.9",
+"-134.2",
+"268.6",
+"-136.5",
+"268.6",
+"-136.5",
+"280.1",
+"-140.3",
+"280.1",
+"-140.3",
+"290.8",
+"-146.4",
+"290.8",
+"-146.4",
+"303.0",
+"-155.7",
+"303.0",
+"-155.7",
+"313.8",
+"-168.7",
+"313.8",
+"-168.7",
+"323.7",
+"-184.7",
+"323.7",
+"-184.7",
+"332.2",
+"-200.8",
+"332.2",
+"-200.8",
+"336.8",
+"-215.4",
+"336.8",
+"-215.4",
+"341.3",
+"-236.1",
+"341.3",
+"-236.1",
+"342.1",
+"-252.2",
+"342.1",
+"-252.2",
+"343.6",
+"-269.8",
+"343.6",
+"-269.8",
+"344.4",
+"-281.3",
+"344.4",
+"-281.3",
+"341.3",
+"-293.6",
+"341.3",
+"-293.6",
+"339.1",
+"-305.8",
+"339.1",
+"-305.8",
+"339.1",
+"-321.9",
+"339.1",
+"-321.9",
+"336.8",
+"-334.2",
+"336.8",
+"-334.2",
+"330.7",
+"-348.8",
+"330.7",
+"-348.8",
+"325.2",
+"-363.3",
+"325.2",
+"-363.3",
+"315.3",
+"-377.8",
+"315.3",
+"-377.8",
+"308.4",
+"-389.4",
+"308.4",
+"-389.4",
+"295.4",
+"-400.9",
+"295.4",
+"-400.9",
+"282.4",
+"-409.3",
+"282.4",
+"-409.3",
+"273.9",
+"-411.6",
+},
+},
+{
+["d"] = {
+3,
+1.1,
+1,
+true,
+"ffffff",
+-8,
+true,
+},
+["l"] = {
+"273.1",
+"-141.9",
+"268.6",
+"-153.4",
+"268.6",
+"-153.4",
+"264.0",
+"-164.8",
+"264.0",
+"-164.8",
+"263.2",
+"-166.3",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"358.5",
+"-399.0",
+"358.5",
+"-419.2",
+"358.5",
+"-419.2",
+"358.5",
+"-434.3",
+"358.5",
+"-434.3",
+"359.5",
+"-445.4",
+"359.5",
+"-445.4",
+"360.5",
+"-460.5",
+"360.5",
+"-460.5",
+"365.5",
+"-475.7",
+"365.5",
+"-475.7",
+"370.6",
+"-487.8",
+"370.6",
+"-487.8",
+"382.7",
+"-497.9",
+"382.7",
+"-497.9",
+"398.8",
+"-502.9",
+"398.8",
+"-502.9",
+"419.0",
+"-504.9",
+"419.0",
+"-504.9",
+"433.1",
+"-505.9",
+"433.1",
+"-505.9",
+"443.2",
+"-507.0",
+"443.2",
+"-507.0",
+"461.4",
+"-507.0",
+"461.4",
+"-507.0",
+"473.5",
+"-507.0",
+"473.5",
+"-507.0",
+"486.6",
+"-504.9",
+"486.6",
+"-504.9",
+"497.7",
+"-501.9",
+"497.7",
+"-501.9",
+"510.8",
+"-498.9",
+"510.8",
+"-498.9",
+"522.9",
+"-493.8",
+"522.9",
+"-493.8",
+"530.0",
+"-476.7",
+"530.0",
+"-476.7",
+"534.0",
+"-463.6",
+"534.0",
+"-463.6",
+"534.0",
+"-450.4",
+"534.0",
+"-450.4",
+"532.0",
+"-438.3",
+"532.0",
+"-438.3",
+"530.0",
+"-426.2",
+"530.0",
+"-426.2",
+"529.0",
+"-406.0",
+"529.0",
+"-406.0",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-383.8",
+"529.0",
+"-383.8",
+"529.0",
+"-393.9",
+"529.0",
+"-393.9",
+"529.0",
+"-409.1",
+"529.0",
+"-409.1",
+"526.0",
+"-427.2",
+"526.0",
+"-427.2",
+"521.9",
+"-445.4",
+"521.9",
+"-445.4",
+"519.9",
+"-467.6",
+"519.9",
+"-467.6",
+"518.9",
+"-482.7",
+"518.9",
+"-482.7",
+"517.9",
+"-493.8",
+"517.9",
+"-493.8",
+"519.9",
+"-505.9",
+"519.9",
+"-505.9",
+"528.0",
+"-522.1",
+"528.0",
+"-522.1",
+"543.1",
+"-528.1",
+"543.1",
+"-528.1",
+"558.3",
+"-528.1",
+"558.3",
+"-528.1",
+"570.4",
+"-524.1",
+"570.4",
+"-524.1",
+"584.5",
+"-517.0",
+"584.5",
+"-517.0",
+"600.6",
+"-507.0",
+"600.6",
+"-507.0",
+"613.8",
+"-496.9",
+"613.8",
+"-496.9",
+"625.9",
+"-485.8",
+"625.9",
+"-485.8",
+"631.9",
+"-474.7",
+"631.9",
+"-474.7",
+"632.9",
+"-464.6",
+"632.9",
+"-464.6",
+"632.9",
+"-447.4",
+"632.9",
+"-447.4",
+"632.9",
+"-433.3",
+"632.9",
+"-433.3",
+"627.9",
+"-420.2",
+"627.9",
+"-420.2",
+"619.8",
+"-408.1",
+"619.8",
+"-408.1",
+"609.7",
+"-394.9",
+"609.7",
+"-394.9",
+"608.7",
+"-379.8",
+"608.7",
+"-379.8",
+"608.7",
+"-369.7",
+"608.7",
+"-369.7",
+"610.7",
+"-357.6",
+"610.7",
+"-357.6",
+"612.8",
+"-346.5",
+"612.8",
+"-346.5",
+"615.8",
+"-334.4",
+"615.8",
+"-334.4",
+"618.8",
+"-316.2",
+"618.8",
+"-316.2",
+"620.8",
+"-300.1",
+"620.8",
+"-300.1",
+"623.9",
+"-269.8",
+"623.9",
+"-269.8",
+"625.9",
+"-218.3",
+"625.9",
+"-218.3",
+"625.9",
+"-198.2",
+"625.9",
+"-198.2",
+"625.9",
+"-186.0",
+"625.9",
+"-186.0",
+"624.9",
+"-176.0",
+"624.9",
+"-176.0",
+"623.9",
+"-164.9",
+"623.9",
+"-164.9",
+"620.8",
+"-151.7",
+"620.8",
+"-151.7",
+"613.8",
+"-139.6",
+"613.8",
+"-139.6",
+"599.6",
+"-131.6",
+"599.6",
+"-131.6",
+"586.5",
+"-128.5",
+"586.5",
+"-128.5",
+"572.4",
+"-128.5",
+"572.4",
+"-128.5",
+"557.3",
+"-129.5",
+"557.3",
+"-129.5",
+"542.1",
+"-131.6",
+"542.1",
+"-131.6",
+"526.0",
+"-133.6",
+"526.0",
+"-133.6",
+"510.8",
+"-137.6",
+"510.8",
+"-137.6",
+"496.7",
+"-145.7",
+"496.7",
+"-145.7",
+"487.6",
+"-155.8",
+"487.6",
+"-155.8",
+"475.5",
+"-173.9",
+"475.5",
+"-173.9",
+"465.4",
+"-194.1",
+"465.4",
+"-194.1",
+"452.3",
+"-221.4",
+"452.3",
+"-221.4",
+"442.2",
+"-247.6",
+"442.2",
+"-247.6",
+"432.1",
+"-275.9",
+"432.1",
+"-275.9",
+"422.0",
+"-297.1",
+"422.0",
+"-297.1",
+"412.9",
+"-317.2",
+"412.9",
+"-317.2",
+"403.9",
+"-333.4",
+"403.9",
+"-333.4",
+"393.8",
+"-353.6",
+"393.8",
+"-353.6",
+"383.7",
+"-368.7",
+"383.7",
+"-368.7",
+"374.6",
+"-379.8",
+"374.6",
+"-379.8",
+"365.5",
+"-390.9",
+"365.5",
+"-390.9",
+"355.4",
+"-405.0",
+"355.4",
+"-405.0",
+"358.5",
+"-393.9",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-7,
+true,
+},
+["l"] = {
+"470.5",
+"-170.9",
+"494.7",
+"-178.0",
+"494.7",
+"-178.0",
+"525.0",
+"-184.0",
+"525.0",
+"-184.0",
+"556.2",
+"-188.1",
+"556.2",
+"-188.1",
+"587.5",
+"-189.1",
+"587.5",
+"-189.1",
+"611.7",
+"-191.1",
+"611.7",
+"-191.1",
+"632.9",
+"-195.1",
+"632.9",
+"-195.1",
+"639.0",
+"-197.1",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"540.1",
+"-176.0",
+"542.1",
+"-165.9",
+"542.1",
+"-165.9",
+"550.2",
+"-149.7",
+"550.2",
+"-149.7",
+"556.2",
+"-135.6",
+"556.2",
+"-135.6",
+"563.3",
+"-122.5",
+"563.3",
+"-122.5",
+"562.3",
+"-132.6",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"684.4",
+"-99.3",
+"685.4",
+"-117.4",
+"685.4",
+"-117.4",
+"685.4",
+"-131.6",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"721.7",
+"-87.1",
+"725.8",
+"-100.3",
+"725.8",
+"-100.3",
+"730.8",
+"-118.4",
+"730.8",
+"-118.4",
+"730.8",
+"-122.5",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"695.5",
+"-146.7",
+"696.5",
+"-165.9",
+"696.5",
+"-165.9",
+"697.5",
+"-178.0",
+"697.5",
+"-178.0",
+"697.5",
+"-184.0",
+},
+},
+{
+["d"] = {
+20,
+1.1,
+1,
+true,
+"6afff2",
+-8,
+true,
+},
+["l"] = {
+"672.3",
+"-160.8",
+"673.3",
+"-178.0",
+"673.3",
+"-178.0",
+"681.4",
+"-192.1",
+"681.4",
+"-192.1",
+"693.5",
+"-202.2",
+"693.5",
+"-202.2",
+"705.6",
+"-205.2",
+"705.6",
+"-205.2",
+"715.7",
+"-206.2",
+"715.7",
+"-206.2",
+"726.8",
+"-200.2",
+"726.8",
+"-200.2",
+"746.0",
+"-177.0",
+"746.0",
+"-177.0",
+"754.0",
+"-160.8",
+"754.0",
+"-160.8",
+"749.0",
+"-168.9",
+},
+},
+},
+["week"] = 1,
+["faction"] = 2,
+["value"] = {
+["currentPull"] = 9,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+6,
+},
+{
+2,
+3,
+},
+{
+2,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+17,
+14,
+15,
+},
+nil,
+{
+5,
+},
+{
+4,
+},
+{
+3,
+},
+[36] = {
+},
+["color"] = "3eff9e",
+},
+{
+{
+18,
+19,
+20,
+21,
+},
+{
+6,
+},
+{
+6,
+},
+{
+5,
+},
+nil,
+{
+1,
+2,
+},
+["color"] = "ff3e3e",
+[10] = {
+},
+[9] = {
+},
+},
+{
+nil,
+{
+7,
+},
+{
+},
+{
+6,
+},
+["color"] = "3e9eff",
+[6] = {
+3,
+},
+[36] = {
+3,
+4,
+},
+},
+{
+[5] = {
+4,
+},
+[2] = {
+10,
+},
+["color"] = "fffb3e",
+[28] = {
+12,
+},
+},
+{
+{
+24,
+25,
+26,
+},
+{
+11,
+},
+nil,
+{
+7,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
+{
+{
+28,
+27,
+29,
+},
+[5] = {
+6,
+},
+[6] = {
+4,
+},
+[4] = {
+8,
+},
+["color"] = "ff3e9e",
+},
+{
+[27] = {
+1,
+},
+[28] = {
+11,
+},
+[26] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[8] = {
+5,
+8,
+9,
+},
+[10] = {
+},
+["color"] = "ff9b3e",
+[4] = {
+10,
+},
+[9] = {
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+16,
+},
+[9] = {
+4,
+},
+[25] = {
+14,
+15,
+16,
+},
+},
+{
+[11] = {
+1,
+},
+[23] = {
+7,
+8,
+9,
+10,
+},
+["color"] = "a1ff3e",
+},
+{
+[8] = {
+12,
+13,
+},
+[10] = {
+3,
+},
+["color"] = "ff3eff",
+[4] = {
+12,
+},
+[9] = {
+6,
+},
+[25] = {
+24,
+25,
+},
+},
+{
+[13] = {
+2,
+3,
+},
+[25] = {
+36,
+33,
+32,
+35,
+34,
+},
+[12] = {
+3,
+},
+[14] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[30] = {
+4,
+},
+[31] = {
+2,
+},
+[29] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[16] = {
+1,
+2,
+},
+[17] = {
+1,
+},
+[15] = {
+1,
+},
+},
+{
+[18] = {
+1,
+},
+[16] = {
+3,
+4,
+},
+[17] = {
+2,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[18] = {
+3,
+},
+[17] = {
+3,
+},
+[15] = {
+3,
+4,
+},
+},
+{
+{
+},
+{
+},
+{
+7,
+},
+[15] = {
+6,
+7,
+},
+[18] = {
+4,
+},
+["color"] = "ff3e9e",
+[19] = {
+1,
+2,
+},
+[16] = {
+9,
+},
+},
+{
+["color"] = "3effff",
+[16] = {
+},
+[15] = {
+},
+},
+{
+[24] = {
+3,
+2,
+1,
+4,
+},
+[12] = {
+2,
+},
+["color"] = "ff9b3e",
+},
+{
+[5] = {
+10,
+},
+[10] = {
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[20] = {
+1,
+},
+[21] = {
+1,
+},
+[10] = {
+4,
+},
+["color"] = "a1ff3e",
+[4] = {
+13,
+},
+},
+{
+[20] = {
+4,
+3,
+},
+[21] = {
+2,
+},
+[10] = {
+5,
+},
+["color"] = "ff3eff",
+[4] = {
+14,
+},
+},
+{
+["color"] = "3eff9e",
+[24] = {
+6,
+5,
+},
+[20] = {
+2,
+},
+[5] = {
+11,
+},
+},
+{
+[32] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[34] = {
+1,
+},
+[33] = {
+1,
+},
+[35] = {
+1,
+},
+["color"] = "3e9eff",
+},
+},
+["currentDungeonIdx"] = 19,
+["teeming"] = false,
+["selection"] = {
+9,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["uid"] = "rVVYMmwPO(B",
+["difficulty"] = 2,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[23] = {
+{
+["difficulty"] = 10,
+["week"] = 4,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 3,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 23,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[4] = {
+},
+},
+},
+},
+},
+[154] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["uid"] = "I04NKiFZicD",
+["value"] = {
+["currentPull"] = 11,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 154,
+["selection"] = {
+11,
+},
+["pulls"] = {
+{
+{
+4,
+1,
+2,
+3,
+},
+{
+},
+{
+},
+{
+},
+{
+},
+["color"] = "ff3eff",
+[9] = {
+},
+[8] = {
+},
+},
+{
+{
+9,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+[9] = {
+1,
+2,
+},
+[8] = {
+3,
+1,
+2,
+},
+},
+{
+[6] = {
+1,
+},
+[7] = {
+2,
+1,
+},
+["color"] = "ff3e3e",
+[4] = {
+1,
+},
+[5] = {
+1,
+2,
+},
+},
+{
+{
+10,
+11,
+},
+["color"] = "3e9eff",
+[9] = {
+4,
+3,
+5,
+},
+},
+{
+{
+12,
+},
+{
+3,
+},
+nil,
+{
+3,
+4,
+},
+["color"] = "fffb3e",
+[9] = {
+7,
+8,
+9,
+},
+[11] = {
+1,
+2,
+},
+},
+{
+[11] = {
+4,
+},
+[7] = {
+3,
+4,
+5,
+6,
+7,
+8,
+},
+[10] = {
+},
+["color"] = "3eff3e",
+[9] = {
+14,
+},
+[6] = {
+2,
+},
+},
+{
+[2] = {
+5,
+},
+[10] = {
+1,
+},
+["color"] = "ff3e9e",
+[5] = {
+3,
+},
+[9] = {
+12,
+13,
+},
+},
+{
+{
+6,
+},
+{
+6,
+},
+nil,
+{
+7,
+6,
+},
+{
+},
+nil,
+nil,
+nil,
+{
+},
+{
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[7] = {
+37,
+10,
+12,
+9,
+11,
+},
+[8] = {
+11,
+12,
+},
+},
+{
+{
+16,
+17,
+},
+{
+7,
+},
+{
+4,
+},
+{
+8,
+},
+{
+4,
+5,
+},
+[11] = {
+5,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[19] = {
+1,
+},
+[20] = {
+1,
+},
+},
+{
+[13] = {
+2,
+1,
+3,
+4,
+},
+[15] = {
+1,
+2,
+4,
+3,
+},
+[12] = {
+1,
+},
+[14] = {
+2,
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[27] = {
+1,
+},
+[13] = {
+6,
+5,
+},
+[28] = {
+1,
+},
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+},
+{
+[17] = {
+1,
+},
+[15] = {
+5,
+6,
+},
+["color"] = "ff3e3e",
+[14] = {
+4,
+3,
+5,
+6,
+},
+[13] = {
+7,
+8,
+9,
+},
+},
+{
+[13] = {
+12,
+},
+[18] = {
+1,
+},
+["color"] = "3e9eff",
+[14] = {
+13,
+14,
+},
+[17] = {
+2,
+},
+},
+{
+["color"] = "fffb3e",
+[13] = {
+13,
+14,
+},
+[15] = {
+7,
+},
+[14] = {
+17,
+16,
+15,
+18,
+},
+},
+{
+["color"] = "3eff3e",
+[13] = {
+20,
+21,
+19,
+},
+[17] = {
+3,
+},
+},
+{
+[17] = {
+4,
+},
+[18] = {
+3,
+},
+["color"] = "ff3e9e",
+[14] = {
+21,
+22,
+},
+[13] = {
+23,
+22,
+},
+},
+{
+[21] = {
+1,
+},
+[14] = {
+},
+[23] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[17] = {
+6,
+},
+[15] = {
+21,
+20,
+24,
+25,
+},
+["color"] = "ff9b3e",
+[14] = {
+32,
+33,
+34,
+36,
+35,
+38,
+40,
+37,
+39,
+},
+[26] = {
+13,
+14,
+},
+},
+{
+["color"] = "3e3eff",
+[25] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[22] = {
+1,
+},
+[24] = {
+1,
+},
+},
+},
+},
+},
+{
+["difficulty"] = 2,
+["week"] = 1,
+["uid"] = "phSntEij8To",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Asi's route",
+["value"] = {
+["currentPull"] = 19,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 154,
+["selection"] = {
+19,
+},
+["pulls"] = {
+{
+{
+2,
+1,
+4,
+3,
+9,
+},
+{
+2,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+[9] = {
+1,
+2,
+},
+},
+{
+[8] = {
+2,
+1,
+3,
+},
+[5] = {
+1,
+2,
+},
+[4] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+11,
+10,
+},
+["color"] = "ff3e3e",
+[6] = {
+1,
+},
+[7] = {
+2,
+1,
+},
+[9] = {
+5,
+3,
+4,
+},
+},
+{
+["color"] = "3e9eff",
+[4] = {
+2,
+},
+[8] = {
+4,
+5,
+},
+},
+{
+{
+12,
+},
+{
+3,
+},
+nil,
+{
+4,
+3,
+},
+["color"] = "fffb3e",
+[9] = {
+7,
+8,
+9,
+},
+[11] = {
+},
+},
+{
+{
+},
+{
+5,
+},
+nil,
+{
+},
+{
+3,
+},
+["color"] = "3eff3e",
+[10] = {
+1,
+},
+[9] = {
+12,
+13,
+},
+},
+{
+{
+6,
+},
+{
+6,
+},
+nil,
+{
+7,
+6,
+},
+nil,
+nil,
+{
+12,
+10,
+9,
+11,
+37,
+},
+{
+11,
+12,
+},
+["color"] = "ff3e9e",
+},
+{
+{
+16,
+17,
+},
+{
+7,
+},
+{
+4,
+},
+{
+8,
+},
+{
+5,
+4,
+},
+["color"] = "3effff",
+[11] = {
+5,
+},
+},
+{
+["color"] = "ff9b3e",
+[19] = {
+1,
+},
+[20] = {
+1,
+},
+},
+{
+[14] = {
+1,
+2,
+},
+[13] = {
+2,
+1,
+},
+[12] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+[27] = {
+1,
+},
+[13] = {
+4,
+3,
+},
+[15] = {
+4,
+2,
+1,
+3,
+},
+["color"] = "a1ff3e",
+[16] = {
+1,
+},
+[28] = {
+1,
+},
+},
+{
+["color"] = "ff3eff",
+[13] = {
+5,
+6,
+7,
+8,
+},
+[15] = {
+6,
+5,
+},
+[17] = {
+1,
+},
+},
+{
+["color"] = "3eff9e",
+[13] = {
+9,
+},
+[12] = {
+2,
+},
+[14] = {
+5,
+3,
+4,
+6,
+},
+},
+{
+[18] = {
+1,
+},
+[13] = {
+12,
+},
+[14] = {
+14,
+13,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[13] = {
+13,
+14,
+},
+[17] = {
+2,
+},
+[15] = {
+7,
+},
+},
+{
+[14] = {
+16,
+17,
+15,
+18,
+},
+[18] = {
+},
+[4] = {
+},
+["color"] = "fffb3e",
+},
+{
+[18] = {
+2,
+},
+[14] = {
+20,
+19,
+},
+[4] = {
+17,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[13] = {
+20,
+21,
+19,
+},
+},
+{
+[17] = {
+4,
+},
+[18] = {
+3,
+},
+["color"] = "3effff",
+[14] = {
+21,
+22,
+},
+[13] = {
+23,
+22,
+},
+},
+{
+[21] = {
+1,
+},
+[23] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+[14] = {
+35,
+32,
+33,
+34,
+36,
+},
+[15] = {
+20,
+21,
+},
+[26] = {
+13,
+14,
+},
+["color"] = "3e3eff",
+},
+{
+["color"] = "a1ff3e",
+[15] = {
+25,
+24,
+},
+[14] = {
+38,
+40,
+37,
+39,
+},
+},
+{
+["color"] = "ff3eff",
+[25] = {
+1,
+},
+[17] = {
+6,
+},
+},
+},
+},
 ["createdBy"] = {
-["classIdx"] = 11,
-["name"] = "Wontondruid",
-["realm"] = "Mal'Ganis",
+["classIdx"] = 8,
+["name"] = "Adamancy",
+["realm"] = "Turalyon",
 },
 },
 {
@@ -50339,9 +47242,3092 @@ true,
 },
 },
 },
-["toolbarExpanded"] = false,
-["maximized"] = false,
 ["currentDifficulty"] = 2,
-["anchorTo"] = "LEFT",
+["maximized"] = false,
+["toolbarExpanded"] = false,
+["dataCollection"] = {
+[36] = {
+[163089] = {
+[330694] = true,
+[321041] = true,
+[330693] = true,
+},
+[164461] = {
+[333231] = true,
+[320272] = true,
+[320300] = true,
+[320277] = true,
+[333292] = true,
+[320293] = true,
+},
+[167534] = {
+[317605] = true,
+[333845] = true,
+[333841] = true,
+[333839] = true,
+},
+[167538] = {
+[331320] = true,
+[342139] = true,
+[331319] = true,
+[331316] = true,
+[342126] = true,
+[342125] = true,
+},
+[169875] = {
+[332550] = true,
+[330810] = true,
+[224729] = true,
+[317898] = true,
+},
+[170850] = {
+[333241] = true,
+[333242] = true,
+},
+[163086] = {
+[330592] = true,
+[345245] = true,
+[330614] = true,
+[330973] = true,
+[330608] = true,
+},
+[162329] = {
+[320050] = true,
+[320789] = true,
+[317231] = true,
+[316995] = true,
+[320644] = true,
+[318102] = true,
+[316981] = true,
+[331618] = true,
+[339415] = true,
+[320729] = true,
+[320114] = true,
+},
+[165946] = {
+[324449] = true,
+[339573] = true,
+[323681] = true,
+[324424] = true,
+[132951] = true,
+[339759] = true,
+[323608] = true,
+[324079] = true,
+[323683] = true,
+},
+[174197] = {
+[330784] = true,
+[341902] = true,
+},
+[169893] = {
+[333294] = true,
+[132951] = true,
+[333297] = true,
+[333299] = true,
+[330875] = true,
+},
+[164464] = {
+[333523] = true,
+[342048] = true,
+[333540] = true,
+},
+[164463] = {
+[320248] = true,
+[320180] = true,
+[320120] = true,
+},
+[167532] = {
+[331288] = true,
+[332708] = true,
+[342135] = true,
+},
+[164451] = {
+[324085] = true,
+[320063] = true,
+[326892] = true,
+[320069] = true,
+},
+[162309] = {
+[319765] = true,
+[322087] = true,
+[342691] = true,
+[319521] = true,
+[319669] = true,
+[322088] = true,
+[333567] = true,
+[319531] = true,
+[317367] = true,
+[319539] = true,
+[319567] = true,
+[45524] = true,
+[319626] = true,
+[319639] = true,
+},
+[170690] = {
+[330697] = true,
+[330700] = true,
+[341977] = true,
+[224729] = true,
+[319290] = true,
+},
+[160495] = {
+[317898] = true,
+[132951] = true,
+[333708] = true,
+[330784] = true,
+[224729] = true,
+[330868] = true,
+},
+[167536] = {
+[342139] = true,
+[334025] = true,
+[333861] = true,
+[334023] = true,
+},
+[169927] = {
+[332836] = true,
+[330586] = true,
+},
+[164506] = {
+[330565] = true,
+[330545] = true,
+[330546] = true,
+[330562] = true,
+},
+[164510] = {
+[330532] = true,
+[319997] = true,
+[327029] = true,
+},
+[170838] = {
+[331510] = true,
+[337178] = true,
+[320679] = true,
+},
+[162317] = {
+[323515] = true,
+[318406] = true,
+},
+[167994] = {
+[326835] = true,
+},
+[167998] = {
+[330725] = true,
+[330720] = true,
+[326494] = true,
+[330716] = true,
+[326497] = true,
+},
+[162763] = {
+[331243] = true,
+[331223] = true,
+[331224] = true,
+[331237] = true,
+},
+[167533] = {
+[333827] = true,
+[333861] = true,
+[331275] = true,
+},
+[174210] = {
+[341969] = true,
+[330694] = true,
+[330703] = true,
+[330693] = true,
+[321041] = true,
+[330700] = true,
+},
+[162744] = {
+[317605] = true,
+[337037] = true,
+[342135] = true,
+[336996] = true,
+},
+[170882] = {
+[341771] = true,
+[317898] = true,
+[333293] = true,
+[342675] = true,
+[132951] = true,
+},
+},
+[31] = {
+[163058] = {
+[324859] = true,
+[331721] = true,
+[324737] = true,
+[331718] = true,
+[324736] = true,
+[224729] = true,
+},
+[164926] = {
+[325027] = true,
+[324923] = true,
+[324909] = true,
+[324922] = true,
+},
+[172312] = {
+[336416] = true,
+[326022] = true,
+[326021] = true,
+[336407] = true,
+[224729] = true,
+},
+[166275] = {
+[324859] = true,
+[324776] = true,
+[224729] = true,
+[132951] = true,
+},
+[167116] = {
+[326090] = true,
+[326092] = true,
+},
+[164501] = {
+[321471] = true,
+[336752] = true,
+[321834] = true,
+[336499] = true,
+[341709] = true,
+[336759] = true,
+[336813] = true,
+[321828] = true,
+},
+[164567] = {
+[321010] = true,
+[331440] = true,
+[323149] = true,
+[323138] = true,
+[323146] = true,
+[321005] = true,
+[328756] = true,
+[323057] = true,
+[321006] = true,
+[132951] = true,
+},
+[166276] = {
+[331747] = true,
+[331748] = true,
+[331743] = true,
+[324859] = true,
+[132951] = true,
+},
+[173720] = {
+[340300] = true,
+[340304] = true,
+[340305] = true,
+[340311] = true,
+},
+[164920] = {
+[121308] = true,
+[224729] = true,
+[322569] = true,
+[322557] = true,
+},
+[164804] = {
+[321772] = true,
+[323059] = true,
+[323250] = true,
+[132951] = true,
+[323177] = true,
+[323137] = true,
+},
+[166299] = {
+[324859] = true,
+[324914] = true,
+[224729] = true,
+[132951] = true,
+},
+[166304] = {
+[324859] = true,
+[325223] = true,
+[325224] = true,
+[325226] = true,
+},
+[173655] = {
+[340189] = true,
+[340160] = true,
+[340208] = true,
+},
+[167117] = {
+[326018] = true,
+[224729] = true,
+},
+[164921] = {
+[326319] = true,
+[322767] = true,
+[322938] = true,
+[224729] = true,
+[322939] = true,
+},
+[165111] = {
+[323020] = true,
+[323043] = true,
+[322968] = true,
+[322967] = true,
+[224729] = true,
+},
+[164929] = {
+[322486] = true,
+[300155] = true,
+[322487] = true,
+[321968] = true,
+[321952] = true,
+[132466] = true,
+},
+[167111] = {
+[326046] = true,
+[340544] = true,
+},
+[166301] = {
+[325021] = true,
+[132951] = true,
+[324987] = true,
+[324859] = true,
+},
+[173714] = {
+[340288] = true,
+[340289] = true,
+[340283] = true,
+[340279] = true,
+},
+[167113] = {
+[325418] = true,
+[224729] = true,
+},
+[164517] = {
+[322450] = true,
+[1604] = true,
+[337253] = true,
+[113746] = true,
+[322614] = true,
+[326263] = true,
+[326281] = true,
+[1490] = true,
+[322654] = true,
+[322709] = true,
+[322655] = true,
+[322527] = true,
+[337249] = true,
+[255909] = true,
+[322563] = true,
+[322465] = true,
+[3409] = true,
+[5760] = true,
+[337251] = true,
+[337235] = true,
+[157736] = true,
+[337220] = true,
+[322658] = true,
+[408] = true,
+[322550] = true,
+[326278] = true,
+[337255] = true,
+[35079] = true,
+},
+},
+[30] = {
+[165414] = {
+[325876] = true,
+[325872] = true,
+[325879] = true,
+[132951] = true,
+[224729] = true,
+[338003] = true,
+},
+[165515] = {
+[132951] = true,
+[224729] = true,
+[325523] = true,
+},
+[164562] = {
+[325797] = true,
+[325799] = true,
+[325535] = true,
+[325793] = true,
+[326450] = true,
+[132951] = true,
+},
+[167612] = {
+[326623] = true,
+[326632] = true,
+[326617] = true,
+[132951] = true,
+[326607] = true,
+},
+[165415] = {
+[338005] = true,
+[132951] = true,
+[338004] = true,
+[224729] = true,
+},
+[167876] = {
+[326847] = true,
+[326891] = true,
+[326846] = true,
+[326806] = true,
+[326794] = true,
+[326829] = true,
+[132951] = true,
+},
+[164563] = {
+[344993] = true,
+[329324] = true,
+[329321] = true,
+[224729] = true,
+[132951] = true,
+},
+[165408] = {
+[339235] = true,
+[324044] = true,
+[322943] = true,
+[322977] = true,
+[322936] = true,
+[322945] = true,
+[339237] = true,
+[322711] = true,
+[323001] = true,
+[132951] = true,
+},
+[167892] = {
+[132951] = true,
+},
+[165529] = {
+[132951] = true,
+[325700] = true,
+[224729] = true,
+[325701] = true,
+},
+[167610] = {
+[132951] = true,
+[326879] = true,
+[224729] = true,
+[326874] = true,
+},
+[164185] = {
+[319702] = true,
+[326389] = true,
+[319733] = true,
+[319703] = true,
+[328206] = true,
+[344874] = true,
+[319603] = true,
+[319592] = true,
+[319941] = true,
+[132951] = true,
+},
+[164557] = {
+[326441] = true,
+[326438] = true,
+[325509] = true,
+[326426] = true,
+[132951] = true,
+[326440] = true,
+[326409] = true,
+},
+[165410] = {
+[329340] = true,
+[132951] = true,
+[323538] = true,
+[323552] = true,
+},
+[174175] = {
+[346866] = true,
+[201657] = true,
+[132951] = true,
+[342189] = true,
+[342021] = true,
+},
+[167607] = {
+[326771] = true,
+[326997] = true,
+},
+[167611] = {
+[326644] = true,
+[326632] = true,
+[326638] = true,
+[132951] = true,
+[326642] = true,
+[326637] = true,
+},
+[164218] = {
+[323414] = true,
+[323392] = true,
+[329113] = true,
+[327885] = true,
+[329104] = true,
+[132951] = true,
+[329262] = true,
+[323236] = true,
+[335345] = true,
+[335338] = true,
+[323143] = true,
+[323437] = true,
+[328791] = true,
+[323393] = true,
+},
+},
+[32] = {
+[168022] = {
+[328429] = true,
+[319898] = true,
+[345429] = true,
+[329226] = true,
+[328432] = true,
+[329224] = true,
+},
+[164266] = {
+[336449] = true,
+[331818] = true,
+[325552] = true,
+[325245] = true,
+[339184] = true,
+[333353] = true,
+[332313] = true,
+[325550] = true,
+[328539] = true,
+[325551] = true,
+[336258] = true,
+[336306] = true,
+[132951] = true,
+},
+[164967] = {
+[329110] = true,
+[332617] = true,
+[330026] = true,
+[322358] = true,
+[329217] = true,
+[328175] = true,
+[333808] = true,
+[331967] = true,
+[340358] = true,
+[132951] = true,
+},
+[168574] = {
+[121308] = true,
+[327995] = true,
+[328002] = true,
+[317898] = true,
+},
+[163857] = {
+[340702] = true,
+[132951] = true,
+[341022] = true,
+[317898] = true,
+},
+[168968] = {
+[331874] = true,
+[331871] = true,
+},
+[164267] = {
+[322304] = true,
+[331399] = true,
+[322492] = true,
+[132951] = true,
+[322232] = true,
+[322491] = true,
+},
+[168969] = {
+[328660] = true,
+[328662] = true,
+[317898] = true,
+[132951] = true,
+[328661] = true,
+[346989] = true,
+[224729] = true,
+[336449] = true,
+},
+[163882] = {
+[320040] = true,
+[320072] = true,
+[132951] = true,
+[336449] = true,
+[329239] = true,
+},
+[171474] = {
+[334640] = true,
+},
+[169159] = {
+[328986] = true,
+},
+[163891] = {
+[317898] = true,
+[319070] = true,
+[328662] = true,
+[346989] = true,
+},
+[168396] = {
+[327233] = true,
+[327594] = true,
+[327581] = true,
+},
+[169861] = {
+[330816] = true,
+[132951] = true,
+[330786] = true,
+[328094] = true,
+},
+[163892] = {
+[320512] = true,
+[340358] = true,
+[331967] = true,
+[328175] = true,
+[132951] = true,
+},
+[169696] = {
+[132951] = true,
+[330417] = true,
+[317898] = true,
+},
+[168578] = {
+[328016] = true,
+[329917] = true,
+[328015] = true,
+[121308] = true,
+[132951] = true,
+},
+[168153] = {
+[330403] = true,
+[330404] = true,
+[327882] = true,
+[132951] = true,
+},
+[164255] = {
+[319780] = true,
+[324652] = true,
+[332865] = true,
+[132951] = true,
+[324459] = true,
+[324667] = true,
+[324527] = true,
+[324490] = true,
+[326242] = true,
+},
+[168361] = {
+[330037] = true,
+[327515] = true,
+},
+[164707] = {
+[322410] = true,
+[333737] = true,
+[346989] = true,
+[321935] = true,
+},
+[168878] = {
+[328501] = true,
+[317898] = true,
+[334926] = true,
+[340358] = true,
+[328175] = true,
+[224729] = true,
+},
+[168886] = {
+[320542] = true,
+[320576] = true,
+[320529] = true,
+[328094] = true,
+[121308] = true,
+},
+[168627] = {
+[328180] = true,
+[328094] = true,
+[317898] = true,
+[121308] = true,
+[340358] = true,
+[328175] = true,
+[224729] = true,
+[331967] = true,
+[132951] = true,
+},
+[163862] = {
+[336451] = true,
+[317898] = true,
+[328533] = true,
+[132951] = true,
+[336449] = true,
+[224729] = true,
+},
+[164737] = {
+[336449] = true,
+[317898] = true,
+[338077] = true,
+[132951] = true,
+[328400] = true,
+[338079] = true,
+[328409] = true,
+[328475] = true,
+[224729] = true,
+[328539] = true,
+},
+[168572] = {
+[328177] = true,
+[317898] = true,
+[328176] = true,
+[121308] = true,
+[132951] = true,
+[330422] = true,
+[330423] = true,
+},
+[164705] = {
+[321975] = true,
+[317898] = true,
+[340356] = true,
+[346989] = true,
+[321999] = true,
+[224729] = true,
+[340357] = true,
+},
+[163894] = {
+[320519] = true,
+[318949] = true,
+[320517] = true,
+[340358] = true,
+[331967] = true,
+[328175] = true,
+[332581] = true,
+},
+[167493] = {
+[328338] = true,
+[339155] = true,
+[328365] = true,
+[328395] = true,
+[132951] = true,
+[328651] = true,
+[336449] = true,
+},
+[173360] = {
+[327233] = true,
+},
+[168580] = {
+[344003] = true,
+},
+[168747] = {
+[1604] = true,
+[328342] = true,
+[224729] = true,
+[132951] = true,
+[336449] = true,
+[328343] = true,
+},
+[168365] = {
+[132951] = true,
+},
+[168891] = {
+[334926] = true,
+[328501] = true,
+},
+},
+[29] = {
+[171184] = {
+[340016] = true,
+[340026] = true,
+},
+[167964] = {
+[331847] = true,
+[331548] = true,
+[331846] = true,
+[132951] = true,
+[240443] = true,
+},
+[164558] = {
+[322759] = true,
+[323118] = true,
+[322735] = true,
+[323064] = true,
+[323166] = true,
+[132951] = true,
+[322736] = true,
+[322773] = true,
+},
+[166608] = {
+[334810] = true,
+[325807] = true,
+[326171] = true,
+[325725] = true,
+[327649] = true,
+[334913] = true,
+[327646] = true,
+[334970] = true,
+[326221] = true,
+[325258] = true,
+[325691] = true,
+[335000] = true,
+[334961] = true,
+},
+[164450] = {
+[342961] = true,
+[320232] = true,
+[323687] = true,
+[321948] = true,
+[324090] = true,
+[132951] = true,
+[320230] = true,
+[323732] = true,
+},
+[168949] = {
+[132951] = true,
+[333728] = true,
+[240443] = true,
+[333729] = true,
+},
+[164861] = {
+[30831] = true,
+[339966] = true,
+[132951] = true,
+[321764] = true,
+[240443] = true,
+},
+[164555] = {
+[324010] = true,
+[320144] = true,
+[320823] = true,
+[323992] = true,
+[321011] = true,
+[320145] = true,
+[332509] = true,
+[320168] = true,
+[323877] = true,
+[321061] = true,
+[324047] = true,
+[320147] = true,
+[330434] = true,
+[132951] = true,
+},
+[170480] = {
+[332678] = true,
+[332672] = true,
+[240443] = true,
+[332671] = true,
+[132951] = true,
+},
+[168934] = {
+[342869] = true,
+[333790] = true,
+[333787] = true,
+[240443] = true,
+[333789] = true,
+[132951] = true,
+},
+[170147] = {
+[331398] = true,
+[132951] = true,
+},
+[168942] = {
+[333875] = true,
+[334051] = true,
+[132951] = true,
+[334076] = true,
+[240443] = true,
+},
+[167965] = {
+[132951] = true,
+[332084] = true,
+[240443] = true,
+[331379] = true,
+},
+[171343] = {
+[334967] = true,
+[334535] = true,
+[334800] = true,
+[132951] = true,
+[240443] = true,
+},
+[167962] = {
+[331933] = true,
+[132951] = true,
+[240443] = true,
+[331927] = true,
+},
+[164556] = {
+[320785] = true,
+[326684] = true,
+[320141] = true,
+[132951] = true,
+[320142] = true,
+[332521] = true,
+[342905] = true,
+[320787] = true,
+[320008] = true,
+[320132] = true,
+[326920] = true,
+[335072] = true,
+},
+[171341] = {
+[132951] = true,
+[240443] = true,
+[334664] = true,
+},
+[168992] = {
+[328729] = true,
+[240443] = true,
+[328740] = true,
+[328707] = true,
+[132951] = true,
+},
+[170572] = {
+[332608] = true,
+[332612] = true,
+[332605] = true,
+[332607] = true,
+[332693] = true,
+[240443] = true,
+[1604] = true,
+[132951] = true,
+},
+[164873] = {
+[323123] = true,
+[323136] = true,
+[240443] = true,
+[345498] = true,
+[323576] = true,
+[132951] = true,
+},
+[168986] = {
+[132951] = true,
+[333711] = true,
+[240443] = true,
+},
+[167963] = {
+[332157] = true,
+[240443] = true,
+[332196] = true,
+[332156] = true,
+[332158] = true,
+[132951] = true,
+},
+[171342] = {
+[240443] = true,
+[132951] = true,
+[334530] = true,
+[334529] = true,
+},
+[167967] = {
+[332232] = true,
+[331422] = true,
+[332236] = true,
+[132951] = true,
+[332234] = true,
+[240443] = true,
+},
+[164862] = {
+[132951] = true,
+[240443] = true,
+[334493] = true,
+},
+[171181] = {
+[132951] = true,
+[240443] = true,
+[334535] = true,
+},
+[170490] = {
+[332706] = true,
+[332705] = true,
+[332707] = true,
+[132951] = true,
+[240443] = true,
+[1604] = true,
+},
+[169905] = {
+[333641] = true,
+[240443] = true,
+[132951] = true,
+[333250] = true,
+[333227] = true,
+},
+[164857] = {
+[321349] = true,
+[30831] = true,
+[240443] = true,
+[132951] = true,
+},
+},
+[34] = {
+[168681] = {
+[328205] = true,
+[324392] = true,
+[336444] = true,
+[323740] = true,
+[328203] = true,
+[328217] = true,
+[323739] = true,
+},
+[168844] = {
+[328454] = true,
+[328458] = true,
+[328462] = true,
+[328466] = true,
+[336420] = true,
+[336496] = true,
+[336444] = true,
+[328453] = true,
+[324662] = true,
+[328434] = true,
+},
+[162059] = {
+[321009] = true,
+[327481] = true,
+[320966] = true,
+[321034] = true,
+[132951] = true,
+[324662] = true,
+[345561] = true,
+},
+[163458] = {
+[317959] = true,
+[317963] = true,
+[207707] = true,
+[132951] = true,
+},
+[163524] = {
+[323804] = true,
+[323786] = true,
+[132951] = true,
+},
+[166411] = {
+[323682] = true,
+},
+[163501] = {
+[132951] = true,
+[323682] = true,
+[207707] = true,
+},
+[168717] = {
+[328331] = true,
+[317959] = true,
+[328330] = true,
+[328332] = true,
+[132951] = true,
+[224729] = true,
+[324392] = true,
+},
+[168318] = {
+[327416] = true,
+[327413] = true,
+[132951] = true,
+[207707] = true,
+[324392] = true,
+},
+[162060] = {
+[338729] = true,
+[334053] = true,
+[324427] = true,
+[331997] = true,
+[324046] = true,
+[132951] = true,
+[323372] = true,
+[338731] = true,
+[323195] = true,
+[324444] = true,
+[132466] = true,
+[324392] = true,
+[323878] = true,
+[324608] = true,
+},
+[163459] = {
+[317936] = true,
+[327332] = true,
+[327331] = true,
+[132951] = true,
+[207707] = true,
+},
+[163506] = {
+[27638] = true,
+[323744] = true,
+[30831] = true,
+[132951] = true,
+},
+[168718] = {
+[328289] = true,
+[324392] = true,
+[328295] = true,
+[132951] = true,
+[328288] = true,
+},
+[162061] = {
+[322814] = true,
+[322893] = true,
+[323010] = true,
+[322999] = true,
+[132951] = true,
+[335817] = true,
+[323011] = true,
+[334625] = true,
+[322818] = true,
+[322817] = true,
+[323943] = true,
+[322908] = true,
+},
+[168420] = {
+[327655] = true,
+[317936] = true,
+[327653] = true,
+[132951] = true,
+},
+[163520] = {
+[317985] = true,
+[327808] = true,
+[327812] = true,
+[323740] = true,
+[336447] = true,
+[323739] = true,
+[132951] = true,
+},
+[168418] = {
+[317959] = true,
+[327647] = true,
+[327648] = true,
+[132951] = true,
+},
+[163503] = {
+[207707] = true,
+[132951] = true,
+[317661] = true,
+[323645] = true,
+},
+[168843] = {
+[328435] = true,
+[328462] = true,
+[328466] = true,
+[336420] = true,
+[328452] = true,
+[336496] = true,
+[328434] = true,
+[328453] = true,
+[324662] = true,
+[336444] = true,
+[323739] = true,
+},
+[163077] = {
+[324368] = true,
+[331249] = true,
+[324370] = true,
+[132951] = true,
+[331251] = true,
+[345561] = true,
+},
+[162058] = {
+[324154] = true,
+[324205] = true,
+[334485] = true,
+[324146] = true,
+[324148] = true,
+[132951] = true,
+[338070] = true,
+},
+[163457] = {
+[132951] = true,
+[207707] = true,
+[317943] = true,
+},
+[168845] = {
+[336444] = true,
+[328466] = true,
+[328462] = true,
+[324662] = true,
+[333887] = true,
+[328453] = true,
+[328434] = true,
+[336496] = true,
+},
+},
+[35] = {
+[165197] = {
+[324387] = true,
+[324391] = true,
+[324372] = true,
+[324381] = true,
+[324394] = true,
+},
+[173044] = {
+[323496] = true,
+[338653] = true,
+[334749] = true,
+[323489] = true,
+[240443] = true,
+[334748] = true,
+[323471] = true,
+},
+[163128] = {
+[345931] = true,
+[320462] = true,
+[320571] = true,
+[320573] = true,
+[240443] = true,
+},
+[162729] = {
+[240443] = true,
+[224729] = true,
+[338022] = true,
+},
+[166302] = {
+[334747] = true,
+[334748] = true,
+[334749] = true,
+[240443] = true,
+},
+[165872] = {
+[323496] = true,
+[323489] = true,
+[240443] = true,
+[323471] = true,
+[327130] = true,
+},
+[164578] = {
+[334322] = true,
+[320376] = true,
+[322681] = true,
+[348170] = true,
+[327952] = true,
+[320208] = true,
+[322548] = true,
+},
+[163121] = {
+[320696] = true,
+[323190] = true,
+[319290] = true,
+[320703] = true,
+[240443] = true,
+},
+[162691] = {
+[320596] = true,
+[320655] = true,
+[320637] = true,
+},
+[165919] = {
+[324323] = true,
+[324293] = true,
+[240443] = true,
+[343470] = true,
+},
+[166264] = {
+[334610] = true,
+},
+[163621] = {
+[338357] = true,
+[338456] = true,
+[240443] = true,
+[333477] = true,
+},
+[163122] = {
+[321576] = true,
+},
+[165222] = {
+[335143] = true,
+[320822] = true,
+[224729] = true,
+},
+[163157] = {
+[321247] = true,
+[320171] = true,
+[320580] = true,
+[333634] = true,
+[333488] = true,
+[333492] = true,
+[321226] = true,
+[319902] = true,
+[333489] = true,
+[333627] = true,
+[320012] = true,
+[319897] = true,
+[132951] = true,
+},
+[165137] = {
+[323347] = true,
+[322756] = true,
+[320462] = true,
+[240443] = true,
+[322757] = true,
+},
+[163622] = {
+[338022] = true,
+[240443] = true,
+},
+[163623] = {
+[338022] = true,
+[240443] = true,
+},
+[166079] = {
+[321576] = true,
+[328687] = true,
+},
+[163619] = {
+[321807] = true,
+[240443] = true,
+},
+[162693] = {
+[321370] = true,
+[320771] = true,
+[323730] = true,
+[321754] = true,
+[321368] = true,
+[320772] = true,
+[321755] = true,
+[321894] = true,
+[320788] = true,
+[321956] = true,
+[320784] = true,
+},
+[162689] = {
+[320200] = true,
+[320358] = true,
+[320366] = true,
+[327664] = true,
+[334488] = true,
+[320359] = true,
+[334321] = true,
+[326629] = true,
+[326574] = true,
+[343558] = true,
+[343556] = true,
+[334476] = true,
+[320365] = true,
+},
+[165911] = {
+[327155] = true,
+[320696] = true,
+[240443] = true,
+[327240] = true,
+},
+[172981] = {
+[338456] = true,
+[240443] = true,
+[338357] = true,
+},
+[173016] = {
+[334747] = true,
+[334749] = true,
+[240443] = true,
+[334748] = true,
+[338353] = true,
+},
+[165138] = {
+[335164] = true,
+[321821] = true,
+[338022] = true,
+},
+[165824] = {
+[335142] = true,
+[345623] = true,
+[345625] = true,
+[320462] = true,
+[327397] = true,
+[327396] = true,
+[327393] = true,
+[335141] = true,
+},
+[163126] = {
+[321576] = true,
+[328664] = true,
+[320336] = true,
+[333602] = true,
+[328667] = true,
+[322493] = true,
+},
+[167731] = {
+[323496] = true,
+[323489] = true,
+[338606] = true,
+[338636] = true,
+[240443] = true,
+[323471] = true,
+[338610] = true,
+},
+[163618] = {
+[327393] = true,
+[327397] = true,
+[324026] = true,
+[321780] = true,
+[324027] = true,
+[321575] = true,
+[323957] = true,
+[320462] = true,
+[327396] = true,
+[240443] = true,
+},
+[163620] = {
+[333485] = true,
+[333482] = true,
+[333479] = true,
+[338456] = true,
+[240443] = true,
+},
+},
+[33] = {
+[167956] = {
+[326712] = true,
+[132951] = true,
+},
+[162039] = {
+[321020] = true,
+[321038] = true,
+[132951] = true,
+[224729] = true,
+[326836] = true,
+},
+[162047] = {
+[334918] = true,
+[321178] = true,
+[334921] = true,
+[334246] = true,
+[132951] = true,
+},
+[162051] = {
+[321249] = true,
+[321220] = true,
+},
+[171448] = {
+[334563] = true,
+[321020] = true,
+[334567] = true,
+[132951] = true,
+[334558] = true,
+},
+[162102] = {
+[325360] = true,
+[326039] = true,
+[328593] = true,
+[325260] = true,
+[132951] = true,
+[325257] = true,
+[325261] = true,
+[325254] = true,
+[325262] = true,
+},
+[168058] = {
+[326952] = true,
+},
+[162056] = {
+[316244] = true,
+[321264] = true,
+[132951] = true,
+},
+[165076] = {
+[321401] = true,
+[320843] = true,
+[334653] = true,
+[132951] = true,
+[321402] = true,
+},
+[162099] = {
+[322903] = true,
+[323846] = true,
+[331415] = true,
+[334877] = true,
+[323845] = true,
+[132951] = true,
+[323821] = true,
+[322796] = true,
+},
+[162103] = {
+[322567] = true,
+[132951] = true,
+[322554] = true,
+},
+[171376] = {
+[334329] = true,
+[334324] = true,
+[334326] = true,
+[334615] = true,
+[132951] = true,
+},
+[162049] = {
+[322169] = true,
+[322212] = true,
+},
+[171384] = {
+[334534] = true,
+[334378] = true,
+[334377] = true,
+[334381] = true,
+},
+[162057] = {
+[328170] = true,
+[322418] = true,
+[321020] = true,
+[322429] = true,
+[315536] = true,
+[322433] = true,
+[132951] = true,
+},
+[162038] = {
+[321019] = true,
+[321020] = true,
+[320991] = true,
+[132951] = true,
+},
+[167955] = {
+[334753] = true,
+[132951] = true,
+[326718] = true,
+},
+[162100] = {
+[319713] = true,
+[319657] = true,
+[338471] = true,
+[319650] = true,
+[319654] = true,
+[132951] = true,
+[319655] = true,
+[319687] = true,
+[319685] = true,
+[319715] = true,
+[330468] = true,
+},
+[162041] = {
+[132951] = true,
+[334470] = true,
+[316068] = true,
+},
+[162046] = {
+[320862] = true,
+[320843] = true,
+[330528] = true,
+[132951] = true,
+[224729] = true,
+[320861] = true,
+},
+[168591] = {
+[321105] = true,
+},
+[162040] = {
+[326826] = true,
+[321020] = true,
+[326837] = true,
+[326825] = true,
+[326827] = true,
+[132951] = true,
+[326831] = true,
+[346537] = true,
+},
+[166396] = {
+[324609] = true,
+},
+[171799] = {
+[335305] = true,
+[335306] = true,
+[335308] = true,
+[132951] = true,
+},
+[172265] = {
+[336277] = true,
+[132951] = true,
+[336279] = true,
+},
+},
+},
+["dataCollectionCC"] = {
+[36] = {
+[163089] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Silence"] = true,
+},
+[164461] = {
+["Taunt"] = true,
+},
+[170882] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Disorient"] = true,
+},
+[167538] = {
+["Taunt"] = true,
+},
+[167534] = {
+["Taunt"] = true,
+},
+[167998] = {
+["Taunt"] = true,
+},
+[169875] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Disorient"] = true,
+},
+[162763] = {
+["Taunt"] = true,
+},
+[165946] = {
+["Taunt"] = true,
+},
+[160495] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[162329] = {
+["Taunt"] = true,
+},
+[170850] = {
+["Taunt"] = true,
+},
+[164463] = {
+["Taunt"] = true,
+},
+[174197] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[164451] = {
+["Taunt"] = true,
+},
+[164510] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Incapacitate"] = true,
+},
+[170690] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Slow"] = true,
+["Disorient"] = true,
+},
+[167532] = {
+["Taunt"] = true,
+},
+[167536] = {
+["Taunt"] = true,
+},
+[169927] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Silence"] = true,
+["Slow"] = true,
+},
+[164506] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[162309] = {
+["Taunt"] = true,
+},
+[170838] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Incapacitate"] = true,
+},
+[162317] = {
+["Taunt"] = true,
+},
+[167994] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+},
+[164464] = {
+["Polymorph"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[169893] = {
+["Taunt"] = true,
+},
+[167533] = {
+["Taunt"] = true,
+},
+[174210] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Disorient"] = true,
+},
+[162744] = {
+["Taunt"] = true,
+},
+[163086] = {
+["Taunt"] = true,
+},
+},
+[31] = {
+[163058] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[164926] = {
+["Taunt"] = true,
+},
+[172312] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[166275] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[167116] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166299] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Repentance"] = true,
+},
+[164567] = {
+["Taunt"] = true,
+},
+[166276] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[167117] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164920] = {
+["Taunt"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Imprison"] = true,
+},
+[164804] = {
+["Taunt"] = true,
+},
+[167113] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166304] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[173655] = {
+["Taunt"] = true,
+},
+[164501] = {
+["Taunt"] = true,
+},
+[164921] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Mind Control"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[165111] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164929] = {
+["Taunt"] = true,
+},
+[167111] = {
+["Taunt"] = true,
+},
+[166301] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[173714] = {
+["Taunt"] = true,
+},
+[173720] = {
+["Taunt"] = true,
+},
+[164517] = {
+["Taunt"] = true,
+},
+},
+[30] = {
+[165414] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Imprison"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[165515] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164562] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Imprison"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Mind Control"] = true,
+["Repentance"] = true,
+},
+[167612] = {
+["Taunt"] = true,
+},
+[165415] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164218] = {
+["Taunt"] = true,
+},
+[164563] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[165408] = {
+["Taunt"] = true,
+},
+[167892] = {
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[165529] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[167610] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164185] = {
+["Taunt"] = true,
+},
+[164557] = {
+["Taunt"] = true,
+},
+[167611] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[174175] = {
+["Taunt"] = true,
+},
+[167607] = {
+["Taunt"] = true,
+},
+[165410] = {
+["Taunt"] = true,
+},
+[167876] = {
+["Taunt"] = true,
+},
+},
+[32] = {
+[168022] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[164266] = {
+["Taunt"] = true,
+},
+[164967] = {
+["Taunt"] = true,
+},
+[168574] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[163857] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[164267] = {
+["Taunt"] = true,
+},
+[168969] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[163882] = {
+["Taunt"] = true,
+},
+[171474] = {
+["Taunt"] = true,
+},
+[169159] = {
+["Taunt"] = true,
+},
+[163891] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168396] = {
+["Taunt"] = true,
+},
+[169861] = {
+["Taunt"] = true,
+},
+[163892] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[169696] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[168578] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[168153] = {
+["Taunt"] = true,
+},
+[164255] = {
+["Taunt"] = true,
+},
+[168361] = {
+["Stun"] = true,
+},
+[168878] = {
+["Taunt"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168886] = {
+["Taunt"] = true,
+},
+[164707] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[163862] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[167493] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Repentance"] = true,
+},
+[164737] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[164705] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[163894] = {
+["Taunt"] = true,
+},
+[168627] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[168572] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[168580] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[168747] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[168365] = {
+["Taunt"] = true,
+["Root"] = true,
+},
+[168891] = {
+["Silence"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Taunt"] = true,
+},
+},
+[29] = {
+[171184] = {
+["Taunt"] = true,
+},
+[171343] = {
+["Taunt"] = true,
+},
+[164558] = {
+["Taunt"] = true,
+},
+[166608] = {
+["Taunt"] = true,
+},
+[164450] = {
+["Taunt"] = true,
+},
+[171181] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164861] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[167965] = {
+["Taunt"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Root"] = true,
+},
+[170480] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Shackle Undead"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+},
+[164873] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[170147] = {
+["Taunt"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Root"] = true,
+},
+[168942] = {
+["Taunt"] = true,
+},
+[167964] = {
+["Taunt"] = true,
+},
+[164862] = {
+["Taunt"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[171341] = {
+["Stun"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[164556] = {
+["Taunt"] = true,
+},
+[168992] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Stun"] = true,
+["Slow"] = true,
+},
+[168934] = {
+["Taunt"] = true,
+},
+[164555] = {
+["Taunt"] = true,
+},
+[168986] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Silence"] = true,
+},
+[171342] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[164857] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[167963] = {
+["Taunt"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Root"] = true,
+},
+[167967] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[170572] = {
+["Taunt"] = true,
+},
+[167962] = {
+["Taunt"] = true,
+},
+[170490] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Imprison"] = true,
+},
+[169905] = {
+["Taunt"] = true,
+},
+[168949] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Incapacitate"] = true,
+},
+},
+[34] = {
+[168681] = {
+["Taunt"] = true,
+},
+[168844] = {
+["Taunt"] = true,
+},
+[162059] = {
+["Taunt"] = true,
+},
+[163520] = {
+["Taunt"] = true,
+},
+[163524] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[166411] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Repentance"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[163501] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Fear"] = true,
+},
+[168717] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Repentance"] = true,
+},
+[168318] = {
+["Taunt"] = true,
+},
+[162060] = {
+["Taunt"] = true,
+},
+[163459] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Imprison"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Mind Control"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Fear"] = true,
+["Repentance"] = true,
+},
+[163506] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[168718] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Imprison"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Fear"] = true,
+["Repentance"] = true,
+},
+[162061] = {
+["Taunt"] = true,
+},
+[168420] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Fear"] = true,
+},
+[163458] = {
+["Taunt"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Repentance"] = true,
+},
+[168418] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Fear"] = true,
+},
+[163503] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Imprison"] = true,
+},
+[163077] = {
+["Taunt"] = true,
+},
+[168843] = {
+["Taunt"] = true,
+},
+[162058] = {
+["Taunt"] = true,
+},
+[163457] = {
+["Taunt"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[168845] = {
+["Taunt"] = true,
+},
+},
+[35] = {
+[165197] = {
+["Taunt"] = true,
+},
+[173044] = {
+["Taunt"] = true,
+},
+[163128] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Disorient"] = true,
+["Polymorph"] = true,
+["Mind Control"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Imprison"] = true,
+},
+[162729] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Polymorph"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Repentance"] = true,
+},
+[163121] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Control Undead"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Repentance"] = true,
+},
+[166302] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Fear"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[165872] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[165911] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Control Undead"] = true,
+["Root"] = true,
+},
+[164578] = {
+["Taunt"] = true,
+},
+[163621] = {
+["Taunt"] = true,
+},
+[165919] = {
+["Taunt"] = true,
+},
+[166264] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+},
+[163618] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Repentance"] = true,
+["Imprison"] = true,
+},
+[163622] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[165222] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Fear"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Repentance"] = true,
+},
+[165824] = {
+["Taunt"] = true,
+},
+[163122] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[163157] = {
+["Taunt"] = true,
+},
+[171500] = {
+["Stun"] = true,
+["Disorient"] = true,
+["Taunt"] = true,
+["Slow"] = true,
+},
+[166079] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Disorient"] = true,
+},
+[172981] = {
+["Taunt"] = true,
+},
+[173016] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Repentance"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Imprison"] = true,
+["Fear"] = true,
+},
+[165138] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Incapacitate"] = true,
+},
+[163623] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[162689] = {
+["Taunt"] = true,
+},
+[162693] = {
+["Taunt"] = true,
+},
+[163619] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Fear"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Imprison"] = true,
+},
+[163126] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Control Undead"] = true,
+},
+[165137] = {
+["Taunt"] = true,
+},
+[167731] = {
+["Taunt"] = true,
+},
+[162691] = {
+["Taunt"] = true,
+},
+[163620] = {
+["Taunt"] = true,
+},
+},
+[33] = {
+[167956] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Root"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[162039] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[162047] = {
+["Taunt"] = true,
+},
+[162051] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[171448] = {
+["Taunt"] = true,
+["Incapacitate"] = true,
+["Root"] = true,
+["Polymorph"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[162040] = {
+["Taunt"] = true,
+},
+[168058] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+},
+[162056] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[166396] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Sap"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[171799] = {
+["Taunt"] = true,
+},
+[162099] = {
+["Taunt"] = true,
+},
+[162041] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Silence"] = true,
+["Fear"] = true,
+},
+[171376] = {
+["Taunt"] = true,
+},
+[162049] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[171384] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Imprison"] = true,
+},
+[162057] = {
+["Taunt"] = true,
+},
+[162038] = {
+["Taunt"] = true,
+},
+[167955] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[165076] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Incapacitate"] = true,
+["Silence"] = true,
+["Root"] = true,
+["Slow"] = true,
+["Stun"] = true,
+["Fear"] = true,
+},
+[162103] = {
+["Taunt"] = true,
+},
+[162046] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Silence"] = true,
+},
+[168591] = {
+["Stun"] = true,
+},
+[162102] = {
+["Taunt"] = true,
+},
+[162100] = {
+["Taunt"] = true,
+},
+[171455] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+[172265] = {
+["Taunt"] = true,
+["Disorient"] = true,
+["Stun"] = true,
+["Silence"] = true,
+["Slow"] = true,
+["Root"] = true,
+["Fear"] = true,
+},
+},
+},
+["currentPreset"] = {
+[15] = 3,
+[30] = 9,
+[118] = 2,
+[31] = 5,
+[32] = 2,
+[34] = 5,
+[18] = 4,
+[36] = 2,
+[37] = 3,
+[38] = 3,
+[21] = 3,
+[11] = 2,
+[115] = 5,
+[45] = 2,
+[46] = 2,
+[123] = 3,
+[153] = 2,
+[25] = 2,
+[35] = 5,
+[29] = 2,
+[164] = 2,
+[104] = 2,
+[111] = 8,
+[113] = 8,
+[154] = 2,
+[112] = 3,
+[119] = 5,
+},
+["muteXalatathVoiceLines"] = false,
+["version"] = 6215,
+["minimap"] = {
+["minimapPos"] = 163.1601303883673,
+["lock"] = true,
+["showInCompartment"] = true,
+["compartmentHide"] = false,
+["hide"] = false,
+},
+["xoffset"] = 313.9844055175781,
+["currentDungeonIdx"] = 164,
+["dataCollectionGUID"] = {
+},
+["yoffset"] = 139.4825134277344,
 },
 }

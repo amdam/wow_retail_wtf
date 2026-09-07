@@ -1,6 +1,6 @@
 
 VoidcoreAdvisorDB = {
 ["bonusRollConfirmEnabled"] = false,
-["brcSpecListEnabled"] = true,
 ["reminderEnabled"] = true,
+["brcSpecListEnabled"] = true,
 }

@@ -4,20 +4,20 @@ VoidcoreAdvisorCharDB = {
 ["overviewMinimized"] = false,
 ["bonusRollLog"] = {
 {
-["specID"] = 63,
-["sourceType"] = "MYTHIC_PLUS",
+["timestamp"] = 1787722718,
+["difficultyID"] = 23,
 ["itemID"] = 251129,
 ["itemLink"] = "|cnIQ4:|Hitem:251129::::::::90:62::190:3:12849:6652:13662::::::|h[Counterfeit Clutches]|h|r",
-["timestamp"] = 1787722718,
+["specID"] = 63,
 ["sourceID"] = 1304,
 ["keyLevel"] = 11,
-["difficultyID"] = 23,
+["sourceType"] = "MYTHIC_PLUS",
 },
 {
 ["sourceType"] = "MYTHIC_PLUS",
 ["itemID"] = 251136,
-["timestamp"] = 1788325573,
 ["specID"] = 63,
+["timestamp"] = 1788325573,
 ["sourceID"] = 1304,
 ["itemLink"] = "|cnIQ4:|Hitem:251136::::::::90:62::190:3:12849:6652:13668::::::|h[Signet of Snarling Servitude]|h|r",
 ["difficultyID"] = 23,
@@ -38,24 +38,24 @@ VoidcoreAdvisorCharDB = {
 [159234] = true,
 [159313] = true,
 },
-["MYTHIC_PLUS:1030:23"] = {
-[159375] = true,
-[159329] = true,
-[159435] = true,
+["MYTHIC_PLUS:1304:23"] = {
+[250215] = true,
 },
 ["MYTHIC_PLUS:1202:23"] = {
 [193750] = true,
 [193759] = true,
 },
-["MYTHIC_PLUS:1304:23"] = {
-[250215] = true,
+["MYTHIC_PLUS:1309:23"] = {
+[251182] = true,
+[251198] = true,
 },
 ["MYTHIC_PLUS:1322:23"] = {
 [273786] = true,
 },
-["MYTHIC_PLUS:1309:23"] = {
-[251182] = true,
-[251198] = true,
+["MYTHIC_PLUS:1030:23"] = {
+[159375] = true,
+[159329] = true,
+[159435] = true,
 },
 },
 ["lootCache"] = {
@@ -91,9 +91,9 @@ VoidcoreAdvisorCharDB = {
 ["MYTHIC_PLUS:1304:23:250:251136"] = true,
 ["MYTHIC_PLUS:1304:23:71:251136"] = true,
 ["MYTHIC_PLUS:1304:23:70:251136"] = true,
-["MYTHIC_PLUS:1304:23:260:251136"] = true,
+["MYTHIC_PLUS:1304:23:255:251136"] = true,
+["MYTHIC_PLUS:1304:23:257:251136"] = true,
 ["MYTHIC_PLUS:1304:23:267:251136"] = true,
-["MYTHIC_PLUS:1304:23:262:251136"] = true,
 ["MYTHIC_PLUS:1304:23:269:251136"] = true,
 ["MYTHIC_PLUS:1304:23:264:251136"] = true,
 ["MYTHIC_PLUS:1304:23:263:251136"] = true,
@@ -104,9 +104,9 @@ VoidcoreAdvisorCharDB = {
 ["MYTHIC_PLUS:1304:23:65:251136"] = true,
 ["MYTHIC_PLUS:1304:23:265:251129:H"] = true,
 ["MYTHIC_PLUS:1304:23:63:251136"] = true,
-["MYTHIC_PLUS:1304:23:257:251136"] = true,
+["MYTHIC_PLUS:1304:23:262:251136"] = true,
 ["MYTHIC_PLUS:1304:23:253:251136"] = true,
-["MYTHIC_PLUS:1304:23:255:251136"] = true,
+["MYTHIC_PLUS:1304:23:260:251136"] = true,
 ["MYTHIC_PLUS:1304:23:256:251136"] = true,
 ["MYTHIC_PLUS:1304:23:102:251136"] = true,
 ["MYTHIC_PLUS:1304:23:266:251136"] = true,

@@ -1,9 +1,10 @@
 
 VoidcoreAdvisorCharDB = {
 ["minimized"] = false,
+["schemaVersion"] = 2,
+["overviewMinimized"] = false,
 ["selectedItems"] = {
 },
-["overviewMinimized"] = false,
 ["bonusRollLog"] = {
 },
 ["lootCache"] = {
@@ -12,7 +13,6 @@ VoidcoreAdvisorCharDB = {
 ["entries"] = {
 },
 },
-["schemaVersion"] = 2,
 ["obtained"] = {
 },
 }

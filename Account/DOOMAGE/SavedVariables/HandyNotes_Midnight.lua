@@ -10,8 +10,8 @@ HandyNotes_MidnightDB = {
 ["Kaydan - Turalyon"] = "Default",
 ["Adamian - Turalyon"] = "Default",
 ["Dreg - Turalyon"] = "Default",
-["Adamn - Turalyon"] = "Default",
 ["Christoff - Turalyon"] = "Default",
+["Adamn - Turalyon"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
