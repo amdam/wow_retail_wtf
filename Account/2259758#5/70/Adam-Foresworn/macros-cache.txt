@@ -1,0 +1,6 @@
+VER 3 0100000000000001 " " "134400"
+#showtooltip Judgement
+/cast Seal of Righteousness
+/cast Judgement
+/script UIErrorsFrame:Clear()
+END
