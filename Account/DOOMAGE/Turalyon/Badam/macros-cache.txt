@@ -23,12 +23,12 @@ END
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Shockwave] Shockwave; [spec:2] Rampage; [spec:1] Rend; Thunder Clap;
+/cast [mod:alt,known:Shockwave] Shockwave; [spec:2] Rampage; [spec:1] Cleave; Thunder Clap;
 /script UIErrorsFrame:Clear();
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Demolish;
+/cast [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Colossus Smash;
 /script UIErrorsFrame:Clear();
 END
 VER 3 010000000000000F " " "SPELL_HOLY_ASHESTOASHES"

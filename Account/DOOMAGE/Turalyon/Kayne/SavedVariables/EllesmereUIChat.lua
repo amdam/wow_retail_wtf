@@ -2,17 +2,6 @@
 EllesmereUIChatScrollDB = {
 ["sessionLog"] = {
 {
-["r"] = 0.6666666865348816,
-["id"] = 3,
-["event"] = "CHAT_MSG_PARTY",
-["message"] = "|Hchannel:PARTY|h[P]|h |Hplayer:Kayne-Turalyon:322:PARTY:|h[|cffc41e3aKayne|r]|h: i see sky online",
-["g"] = 0.6666666865348816,
-["b"] = 1,
-["timestamp"] = 504354.612,
-["serverTime"] = 1787024305,
-["captureSeq"] = 8,
-},
-{
 ["r"] = 0.4627451300621033,
 ["id"] = 50,
 ["event"] = "CHAT_MSG_PARTY_LEADER",
@@ -1100,6 +1089,17 @@ EllesmereUIChatScrollDB = {
 ["timestamp"] = 1216139.242,
 ["serverTime"] = 1788730930,
 ["captureSeq"] = 2,
+},
+{
+["r"] = 0.9098039865493774,
+["id"] = 74,
+["event"] = "CHAT_MSG_CHANNEL",
+["message"] = "|Hchannel:channel:2|h[T]|h |Hplayer:Alunamura-Turalyon:39:CHANNEL:2|h[|cffaad372Alunamura|r]|h: Paying 1,000 gold for people to sign my guild charter",
+["g"] = 0.6196078658103943,
+["b"] = 0.4666666984558106,
+["timestamp"] = 157811.026,
+["serverTime"] = 1789096932,
+["captureSeq"] = 1,
 },
 },
 }

@@ -1,31 +1,20 @@
 
 PlumberDB_PC = {
-["CurrencyCap:3446"] = 300,
+["TransmogRestoreLastOutfit"] = 2,
+["CurrencyCap:3446"] = 700,
 ["CurrencyCap:3345"] = 600,
 ["CurrencyCap:3343"] = 800,
 ["CurrencyCap:3347"] = 600,
 ["CurrencyCap:3383"] = 300,
 ["CurrencyCap:3442"] = 100,
 ["CurrencyCap:3284"] = 270,
-["CurrencyCap:3445"] = 300,
+["CurrencyCap:3445"] = 500,
 ["CurrencyCap:3109"] = 540,
 ["DelvesRecords"] = {
 {
-["instanceID"] = 3003,
-["uiMapID"] = 2525,
-["time"] = 1788557344,
-["tier"] = 11,
-},
-{
-["instanceID"] = 2952,
-["uiMapID"] = 2502,
-["time"] = 1788065161,
-["tier"] = 11,
-},
-{
-["instanceID"] = 3077,
-["uiMapID"] = 2633,
-["time"] = 1788063914,
+["instanceID"] = 2964,
+["uiMapID"] = 2505,
+["time"] = 1791778764,
 ["tier"] = 11,
 },
 },

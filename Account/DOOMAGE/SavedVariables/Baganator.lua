@@ -16,6 +16,12 @@ BAGANATOR_CONFIG = {
 ["Frake-Turalyon"] = {
 },
 ["Amdam-Turalyon"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3310,
+},
 },
 ["Abel-Turalyon"] = {
 },
@@ -24,22 +30,34 @@ BAGANATOR_CONFIG = {
 ["Adamian-Turalyon"] = {
 },
 ["Adamancy-Turalyon"] = {
+{
+["currencyID"] = 3028,
 },
-["Taybae-Turalyon"] = {
+{
+["currencyID"] = 3310,
 },
-["Kaydan-Turalyon"] = {
 },
 ["Fredus-Turalyon"] = {
 },
+["Kaydan-Turalyon"] = {
+},
+["Taybae-Turalyon"] = {
+},
 ["Donnd-Turalyon"] = {
 },
-["Caseann-Turalyon"] = {
+["Dreg-Turalyon"] = {
 },
 ["Ezray-Turalyon"] = {
 },
 ["Kayne-Turalyon"] = {
 },
 ["Badam-Turalyon"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3310,
+},
 },
 ["Brewenjoyer-Turalyon"] = {
 },
@@ -57,7 +75,7 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3252,
 },
 },
-["Dreg-Turalyon"] = {
+["Caseann-Turalyon"] = {
 },
 },
 ["sort_ignore_slots_count_2"] = {
@@ -187,7 +205,7 @@ BAGANATOR_CONFIG = {
 "default_junk",
 "default_special_empty",
 },
-["current_skin"] = "dark",
+["current_skin"] = "ellesmereui",
 ["hide_boe_on_common"] = false,
 ["bank_view_type"] = "category",
 ["show_buttons_on_alt"] = false,
@@ -254,14 +272,14 @@ BAGANATOR_CONFIG = {
 ["category_default_import"] = 3,
 ["bag_view_position"] = {
 "BOTTOMRIGHT",
--172.3348388671875,
-349.4444580078125,
+-275.6680908203125,
+389.111083984375,
 },
 ["character_bank_current_tab"] = 0,
 ["sort_start_at_bottom"] = false,
 ["character_select_position"] = {
 "RIGHT",
-"Baganator_CategoryViewBackpackViewFramedark",
+"Baganator_CategoryViewBackpackViewFrameellesmereui",
 "LEFT",
 0,
 0,
@@ -273,9 +291,10 @@ BAGANATOR_CONFIG = {
 ["default_keystone"] = false,
 ["2"] = false,
 },
+["category_migration"] = 5,
 ["saved_searches"] = {
 },
-["category_migration"] = 5,
+["guild_bank_sort_method"] = "unset",
 ["category_modifications"] = {
 ["1"] = {
 ["showGroupPrefix"] = true,
@@ -299,20 +318,61 @@ BAGANATOR_CONFIG = {
 ["priority"] = 0,
 },
 },
-["guild_bank_sort_method"] = "unset",
 ["warband_bank_view_width"] = 14,
-["sort_ignore_slots_at_end"] = false,
+["guild_view_position"] = {
+"LEFT",
+20,
+0,
+},
 ["add_to_category_buttons_2"] = "drag",
 ["view_type"] = "unset",
 ["bank_current_tab"] = 2,
-["icon_text_quality_colors"] = false,
+["currencies_tracked"] = {
+["Adamian-Turalyon"] = {
+},
+["Adamancy-Turalyon"] = {
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3109,
+},
+},
+["Adamantium-Turalyon"] = {
+},
+["Kaydan-Turalyon"] = {
+},
+["Powerpriest-Turalyon"] = {
+},
+["Dreg-Turalyon"] = {
+},
+["Adamn-Turalyon"] = {
+},
+["Kayne-Turalyon"] = {
+},
+["Amdam-Turalyon"] = {
+},
+["Badam-Turalyon"] = {
+},
+["Abel-Turalyon"] = {
+},
+["Adrid-Turalyon"] = {
+},
+["Aduum-Turalyon"] = {
+},
+["Drunkan-Turalyon"] = {
+},
+["Christoff-Turalyon"] = {
+},
+},
 ["category_horizontal_spacing"] = 0.15,
 ["icon_text_font_size"] = 12,
+["view_alpha"] = 1,
+["bag_view_width"] = 12,
 ["disabled_skins"] = {
 },
-["bag_view_width"] = 12,
-["view_alpha"] = 1,
 ["setting_anchors"] = false,
+["debug_keywords"] = false,
 ["recent_characters_main_view"] = {
 "Kaydan-Turalyon",
 "Amdam-Turalyon",
@@ -335,7 +395,6 @@ BAGANATOR_CONFIG = {
 "Adaam-Turalyon",
 "Tupac-Turalyon",
 },
-["debug_keywords"] = false,
 ["category_section_toggled"] = {
 ["Equipment"] = false,
 ["2"] = false,
@@ -368,49 +427,8 @@ BAGANATOR_CONFIG = {
 ["auto_sort_on_open"] = false,
 ["category_group_empty_slots"] = true,
 ["recent_timeout"] = 15,
-["currencies_tracked"] = {
-["Adamian-Turalyon"] = {
-},
-["Adamancy-Turalyon"] = {
-{
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3109,
-},
-},
-["Adamantium-Turalyon"] = {
-},
-["Kaydan-Turalyon"] = {
-},
-["Amdam-Turalyon"] = {
-},
-["Dreg-Turalyon"] = {
-},
-["Adamn-Turalyon"] = {
-},
-["Kayne-Turalyon"] = {
-},
-["Powerpriest-Turalyon"] = {
-},
-["Badam-Turalyon"] = {
-},
-["Abel-Turalyon"] = {
-},
-["Adrid-Turalyon"] = {
-},
-["Aduum-Turalyon"] = {
-},
-["Drunkan-Turalyon"] = {
-},
-["Christoff-Turalyon"] = {
-},
-},
-["guild_view_position"] = {
-"LEFT",
-20,
-0,
-},
+["icon_text_quality_colors"] = false,
+["sort_ignore_slots_at_end"] = false,
 ["guild_view_dialog_position"] = {
 "BOTTOM",
 "Baganator_GuildViewFrame",
@@ -430,7 +448,7 @@ BAGANATOR_CONFIG = {
 ["upgrade_plugin"] = "none",
 ["currency_panel_position"] = {
 "RIGHT",
-"Baganator_CategoryViewBackpackViewFramedark",
+"Baganator_CategoryViewBackpackViewFrameellesmereui",
 "LEFT",
 0,
 0,

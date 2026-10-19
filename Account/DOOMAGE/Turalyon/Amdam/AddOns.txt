@@ -200,7 +200,7 @@ Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 ElvUI_UnitFramePlugin: disabled
 ElvUI_Options: disabled
-Plater: enabled
+Plater: disabled
 Tukui_NamePlateFeatures: disabled
 BigWigs_Core: enabled
 BigWigs_Options: enabled
@@ -346,7 +346,7 @@ EnhanceQoLSharedMedia: enabled
 BigWigs_Sporefall: enabled
 Blizzard_WeeklyRewards: enabled
 EllesmereUIBags: disabled
-EllesmereUINameplates: disabled
+EllesmereUINameplates: enabled
 EllesmereUIActionBars: enabled
 EllesmereUIUnitFrames: enabled
 EllesmereUICooldownManager: enabled

@@ -179,7 +179,7 @@ OmniCD: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 ElvUI_Options: disabled
-Plater: enabled
+Plater: disabled
 HandyNotes: enabled
 LittleWigs_Legion: enabled
 Blizzard_CombatText: enabled
@@ -291,7 +291,7 @@ EnhanceQoLSharedMedia: enabled
 BigWigs_Sporefall: enabled
 Blizzard_WeeklyRewards: enabled
 EllesmereUIBags: disabled
-EllesmereUINameplates: disabled
+EllesmereUINameplates: enabled
 EllesmereUIActionBars: enabled
 EllesmereUIUnitFrames: enabled
 EllesmereUICooldownManager: enabled

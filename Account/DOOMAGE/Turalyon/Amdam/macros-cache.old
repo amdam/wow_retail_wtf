@@ -79,6 +79,7 @@ VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cancelaura Divine Shield
 /cancelaura Blessing of Protection
+/cancelaura Blessing of Spellwarding
 /cast Divine Shield
 /script UIErrorsFrame:Clear()
 END

@@ -99,11 +99,11 @@ CliqueDB3 = {
 ["statusBarFix"] = false,
 },
 ["downclick"] = false,
-["specswap"] = false,
+["spec2_profileKey"] = "Abel - Turalyon",
 ["fastooc"] = false,
+["specswap"] = false,
 ["spec3_profileKey"] = "Abel - Turalyon",
 ["alerthidden"] = true,
-["spec2_profileKey"] = "Abel - Turalyon",
 },
 ["Adamancy - Turalyon"] = {
 ["spec1_profileKey"] = "Adamancy - Turalyon",
@@ -111,11 +111,11 @@ CliqueDB3 = {
 ["statusBarFix"] = false,
 },
 ["downclick"] = false,
-["spec3_profileKey"] = "Adamancy - Turalyon",
-["fastooc"] = false,
 ["alerthidden"] = true,
+["fastooc"] = false,
 ["spec2_profileKey"] = "Adamancy - Turalyon",
 ["specswap"] = false,
+["spec3_profileKey"] = "Adamancy - Turalyon",
 },
 ["Brewenjoyer - Turalyon"] = {
 ["spec1_profileKey"] = "Brewenjoyer - Turalyon",
@@ -192,11 +192,11 @@ CliqueDB3 = {
 ["blizzframes"] = {
 ["statusBarFix"] = false,
 },
+["spec2_profileKey"] = "Badam - Turalyon",
+["fastooc"] = false,
+["alerthidden"] = true,
 ["downclick"] = false,
 ["spec3_profileKey"] = "Badam - Turalyon",
-["fastooc"] = false,
-["spec2_profileKey"] = "Badam - Turalyon",
-["alerthidden"] = true,
 ["specswap"] = false,
 },
 ["Kaydan - Turalyon"] = {
@@ -206,9 +206,9 @@ CliqueDB3 = {
 },
 ["downclick"] = false,
 ["fastooc"] = false,
-["specswap"] = false,
 ["spec3_profileKey"] = "Kaydan - Turalyon",
 ["spec2_profileKey"] = "Kaydan - Turalyon",
+["specswap"] = false,
 },
 ["Christoff - Turalyon"] = {
 ["spec1_profileKey"] = "Christoff - Turalyon",
@@ -318,12 +318,12 @@ CliqueDB3 = {
 ["blizzframes"] = {
 ["statusBarFix"] = false,
 },
-["spec2_profileKey"] = "Amdam - Turalyon",
-["fastooc"] = false,
-["specswap"] = false,
 ["downclick"] = false,
-["alerthidden"] = true,
 ["spec3_profileKey"] = "Amdam - Turalyon",
+["fastooc"] = false,
+["alerthidden"] = true,
+["spec2_profileKey"] = "Amdam - Turalyon",
+["specswap"] = false,
 },
 ["Tupac - Turalyon"] = {
 ["spec1_profileKey"] = "Adamn - Turalyon",
@@ -340,11 +340,11 @@ CliqueDB3 = {
 ["statusBarFix"] = false,
 },
 ["downclick"] = false,
-["spec2_profileKey"] = "Kayne - Turalyon",
-["fastooc"] = false,
-["alerthidden"] = true,
 ["specswap"] = false,
+["fastooc"] = false,
 ["spec3_profileKey"] = "Kayne - Turalyon",
+["alerthidden"] = true,
+["spec2_profileKey"] = "Kayne - Turalyon",
 },
 ["Fredus - Turalyon"] = {
 ["spec1_profileKey"] = "Fredus - Turalyon",
@@ -382,19 +382,19 @@ CliqueDB3 = {
 ["Broddah - Doomhammer"] = "Broddah - Doomhammer",
 ["Powerpriest - Turalyon"] = "Abel - Turalyon",
 ["Kurate - Turalyon"] = "Furrys - Turalyon",
-["Adrid - Turalyon"] = "Adrid - Turalyon",
-["Asaam - Turalyon"] = "Asaam - Turalyon",
-["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
 ["Dogs - Turalyon"] = "Dogs - Turalyon",
+["Asaam - Turalyon"] = "Asaam - Turalyon",
+["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Brewenjoyer - Turalyon"] = "Brewenjoyer - Turalyon",
 ["Badam - Turalyon"] = "Badam - Turalyon",
 ["Drund - Turalyon"] = "Drund - Turalyon",
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Caris - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-["Drunkan - Turalyon"] = "Default",
-["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
+["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Drunkan - Turalyon"] = "Default",
 ["Adonis - Turalyon"] = "Adonis - Turalyon",
 ["Amdam - Turalyon"] = "Amdam - Turalyon",
 ["Beebo - Turalyon"] = "Beebo - Turalyon",
@@ -403,7 +403,7 @@ CliqueDB3 = {
 ["Luthro - Turalyon"] = "Luthro - Turalyon",
 ["Christifur - Turalyon"] = "Christifur - Turalyon",
 ["Dreg - Turalyon"] = "Dreg - Turalyon",
-["Sterbodhehm - Turalyon"] = "Sterbodhehm - Turalyon",
+["Jeryn - Bloodscalp"] = "Jeryn - Bloodscalp",
 ["Dugan - Turalyon"] = "Dugan - Turalyon",
 ["Taybae - Turalyon"] = "Taybae - Turalyon",
 ["Adris - Turalyon"] = "Adris - Turalyon",
@@ -738,13 +738,11 @@ CliqueDB3 = {
 ["unit"] = "mouseover",
 },
 {
-["type"] = "spell",
-["key"] = "SHIFT-BUTTON2",
+["type"] = "menu",
+["key"] = "BUTTON2",
 ["sets"] = {
 ["default"] = true,
 },
-["icon"] = 135953,
-["spell"] = "Renew",
 },
 {
 ["spell"] = "Resurrection",
@@ -756,13 +754,6 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["type"] = "menu",
-["key"] = "BUTTON2",
-["sets"] = {
-["default"] = true,
-},
-},
-{
 ["spell"] = "Power Word: Fortitude",
 ["key"] = "CTRL-SHIFT-BUTTON1",
 ["sets"] = {
@@ -770,6 +761,15 @@ CliqueDB3 = {
 },
 ["icon"] = 135987,
 ["type"] = "spell",
+},
+{
+["type"] = "spell",
+["key"] = "SHIFT-BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 135953,
+["spell"] = "Renew",
 },
 {
 ["type"] = "spell",
@@ -810,12 +810,13 @@ CliqueDB3 = {
 ["spell"] = "Flash Heal",
 },
 {
-["type"] = "menu",
-["key"] = "ALT-CTRL-SHIFT-BUTTON2",
+["type"] = "spell",
+["key"] = "ALT-BUTTON2",
 ["sets"] = {
 ["spec2"] = true,
-["spec1"] = true,
 },
+["icon"] = 135887,
+["spell"] = "Circle of Healing",
 },
 {
 ["type"] = "spell",
@@ -901,15 +902,6 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["type"] = "spell",
-["key"] = "ALT-BUTTON2",
-["sets"] = {
-["spec2"] = true,
-},
-["icon"] = 135887,
-["spell"] = "Circle of Healing",
-},
-{
 ["spell"] = "Penance",
 ["key"] = "SHIFT-BUTTON1",
 ["sets"] = {
@@ -917,6 +909,14 @@ CliqueDB3 = {
 },
 ["icon"] = 237545,
 ["type"] = "spell",
+},
+{
+["type"] = "menu",
+["key"] = "ALT-CTRL-SHIFT-BUTTON2",
+["sets"] = {
+["spec2"] = true,
+["spec1"] = true,
+},
 },
 {
 ["type"] = "target",
@@ -1521,44 +1521,6 @@ CliqueDB3 = {
 },
 },
 },
-["Sterbodhehm - Turalyon"] = {
-["bindings"] = {
-{
-["type"] = "target",
-["sets"] = {
-["default"] = true,
-},
-["key"] = "BUTTON1",
-["unit"] = "mouseover",
-},
-{
-["type"] = "menu",
-["key"] = "BUTTON2",
-["sets"] = {
-["default"] = true,
-},
-},
-},
-},
-["Asaam - Turalyon"] = {
-["bindings"] = {
-{
-["type"] = "target",
-["sets"] = {
-["default"] = true,
-},
-["key"] = "BUTTON1",
-["unit"] = "mouseover",
-},
-{
-["type"] = "menu",
-["key"] = "BUTTON2",
-["sets"] = {
-["default"] = true,
-},
-},
-},
-},
 ["Jeryn - Bloodscalp"] = {
 ["bindings"] = {
 {
@@ -1566,6 +1528,74 @@ CliqueDB3 = {
 ["default"] = true,
 },
 ["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Kayne - Turalyon"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+{
+["type"] = "macro",
+["key"] = "NUMPAD9",
+["macrotext"] = "/focus\n/tm ~5",
+["sets"] = {
+["default"] = true,
+["global"] = true,
+},
+["icon"] = 134332,
+},
+{
+["type"] = "spell",
+["key"] = "NUMPAD2",
+["sets"] = {
+["global"] = true,
+["default"] = true,
+},
+["icon"] = 136143,
+["spell"] = "Raise Ally",
+},
+{
+["type"] = "spell",
+["key"] = "NUMPADPLUS",
+["sets"] = {
+["spec3"] = true,
+["global"] = true,
+},
+["icon"] = 237511,
+["spell"] = "Army of the Dead",
+},
+},
+},
+["Sterbodhehm - Turalyon"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
 ["key"] = "BUTTON1",
 ["unit"] = "mouseover",
 },
@@ -2103,6 +2133,15 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
+["spell"] = "Absolution",
+["key"] = "ALT-CTRL-BUTTON2",
+["sets"] = {
+["spec1"] = true,
+},
+["icon"] = 1030102,
+["type"] = "spell",
+},
+{
 ["spell"] = "Holy Light",
 ["key"] = "SHIFT-BUTTON2",
 ["sets"] = {
@@ -2110,15 +2149,6 @@ CliqueDB3 = {
 },
 ["icon"] = 135981,
 ["type"] = "spell",
-},
-{
-["type"] = "spell",
-["key"] = "CTRL-BUTTON2",
-["sets"] = {
-["spec1"] = true,
-},
-["icon"] = 236249,
-["spell"] = "Bestow Faith",
 },
 {
 ["type"] = "spell",
@@ -2139,12 +2169,12 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["spell"] = "Beacon of Faith",
-["key"] = "CTRL-SHIFT-BUTTON2",
+["spell"] = "Beacon of Light",
+["key"] = "CTRL-SHIFT-BUTTON1",
 ["sets"] = {
 ["spec1"] = true,
 },
-["icon"] = 1030095,
+["icon"] = 236247,
 ["type"] = "spell",
 },
 {
@@ -2162,14 +2192,13 @@ CliqueDB3 = {
 },
 },
 {
-["type"] = "spell",
-["key"] = "BUTTON3",
+["spell"] = "Beacon of Faith",
+["key"] = "CTRL-SHIFT-BUTTON2",
 ["sets"] = {
-["spec3"] = true,
-["spec2"] = true,
+["spec1"] = true,
 },
-["icon"] = 135953,
-["spell"] = "Cleanse Toxins",
+["icon"] = 1030095,
+["type"] = "spell",
 },
 {
 ["spell"] = "Light of Dawn",
@@ -2181,22 +2210,23 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["spell"] = "Absolution",
-["key"] = "ALT-CTRL-BUTTON2",
-["sets"] = {
-["spec1"] = true,
-},
-["icon"] = 1030102,
 ["type"] = "spell",
+["key"] = "BUTTON3",
+["sets"] = {
+["spec3"] = true,
+["spec2"] = true,
+},
+["icon"] = 135953,
+["spell"] = "Cleanse Toxins",
 },
 {
 ["type"] = "spell",
-["key"] = "BUTTON2",
+["key"] = "CTRL-BUTTON2",
 ["sets"] = {
 ["spec1"] = true,
 },
-["icon"] = 133192,
-["spell"] = "Word of Glory",
+["icon"] = 236249,
+["spell"] = "Bestow Faith",
 },
 {
 ["spell"] = "Flash of Light",
@@ -2209,13 +2239,13 @@ CliqueDB3 = {
 ["type"] = "spell",
 },
 {
-["spell"] = "Beacon of Light",
-["key"] = "CTRL-SHIFT-BUTTON1",
+["type"] = "spell",
+["key"] = "BUTTON2",
 ["sets"] = {
 ["spec1"] = true,
 },
-["icon"] = 236247,
-["type"] = "spell",
+["icon"] = 133192,
+["spell"] = "Word of Glory",
 },
 {
 ["spell"] = "Holy Shock",
@@ -2228,7 +2258,7 @@ CliqueDB3 = {
 },
 },
 },
-["Kayne - Turalyon"] = {
+["Asaam - Turalyon"] = {
 ["bindings"] = {
 {
 ["type"] = "target",
@@ -2244,36 +2274,6 @@ CliqueDB3 = {
 ["sets"] = {
 ["default"] = true,
 },
-},
-{
-["type"] = "macro",
-["key"] = "NUMPAD9",
-["macrotext"] = "/focus\n/tm ~5",
-["sets"] = {
-["default"] = true,
-["global"] = true,
-},
-["icon"] = 134332,
-},
-{
-["type"] = "spell",
-["key"] = "NUMPAD2",
-["sets"] = {
-["global"] = true,
-["default"] = true,
-},
-["icon"] = 136143,
-["spell"] = "Raise Ally",
-},
-{
-["type"] = "spell",
-["key"] = "NUMPADPLUS",
-["sets"] = {
-["spec3"] = true,
-["global"] = true,
-},
-["icon"] = 237511,
-["spell"] = "Army of the Dead",
 },
 },
 },

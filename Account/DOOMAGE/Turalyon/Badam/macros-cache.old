@@ -1,13 +1,13 @@
 VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,spec:3] Execute; [mod:alt,spec:1][spec:3] Ignore Pain; Execute;
+/cast [mod:alt,spec:3] Execute; [mod:alt,spec:1] Colossus Smash; [spec:3] Ignore Pain; Execute;
 /script UIErrorsFrame:Clear();
 END
 VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,spec:1,known:Cleave] Cleave; [mod:alt] Victory Rush; [mod:shift] Slam; [spec:2] Bloodthirst; [spec:3] Devastate; [spec:1] Mortal Strike;
+/cast [mod:alt,spec:1,known:Cleave] Cleave; [mod:alt] Victory Rush; [mod:shift] Slam; [spec:2] Bloodthirst; [spec:3] Devastate; [spec:1] Slam;
 /script UIErrorsFrame:Clear();
 END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
@@ -23,12 +23,12 @@ END
 VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Shockwave] Shockwave; [spec:2] Rampage; Thunder Clap;
+/cast [mod:alt,known:Shockwave] Shockwave; [spec:2] Rampage; [spec:1] Rend; Thunder Clap;
 /script UIErrorsFrame:Clear();
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Colossus Smash;
+/cast [mod:alt] Heroic Throw; [known:Odyn's Fury] Odyn's Fury; [known:Onslaught] Onslaught; [spec:3] Taunt; [spec:1] Demolish;
 /script UIErrorsFrame:Clear();
 END
 VER 3 010000000000000F " " "SPELL_HOLY_ASHESTOASHES"
@@ -40,7 +40,7 @@ END
 VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /startattack
-/cast [mod:alt,known:Ravager,@player] Ravager; [mod:alt,known:Bladestorm] Bladestorm; [spec:3] Revenge; Whirlwind;
+/cast [mod:alt,known:Ravager,@player] Ravager; [mod:alt,known:Bladestorm] Bladestorm; [spec:3] Revenge; [spec:1] Mortal Strike; [mod:alt,spec:2] Thunder Clap ;Whirlwind;
 /script UIErrorsFrame:Clear()
 END
 VER 3 0100000000000018 " " "134400"

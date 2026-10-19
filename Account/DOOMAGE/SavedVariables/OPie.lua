@@ -2,11 +2,11 @@
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "8.8.1 (4.144)",
+["_OPieVersion"] = "8.10.1 (4.144)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "12.1.0",
+["_GameVersion"] = "12.1.5",
 ["ProfileStorage"] = {
 ["default"] = {
 ["Bindings"] = {
@@ -69,8 +69,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["id"] = "/cast {{spell:2018/51300}}",
 ["sliceToken"] = "OPCCTb",
+["id"] = "/cast {{spell:2018/51300}}",
 },
 {
 ["show"] = "[in:tww]",
@@ -93,8 +93,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTj",
 ["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}}",
+["sliceToken"] = "OPCCTj",
 },
 {
 ["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
@@ -125,8 +125,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCCTr",
 ["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+["sliceToken"] = "OPCCTr",
 },
 {
 ["id"] = 53428,
@@ -157,14 +157,14 @@ OPie_SavedData = {
 ["id2"] = 51302,
 },
 {
-["sliceToken"] = "ABueaL4inxo",
 ["c"] = "f4aa0f",
+["sliceToken"] = "ABueaL4inxo",
 ["id"] = 2018,
 ["id2"] = 51300,
 },
 {
-["c"] = "3319e5",
 ["sliceToken"] = "ABueaL4inx2",
+["c"] = "3319e5",
 ["id"] = 25229,
 ["id2"] = 51311,
 },
@@ -251,12 +251,12 @@ OPie_SavedData = {
 ["onlyNonEmpty"] = true,
 },
 {
-["sliceToken"] = "OPCPAt",
 ["id"] = 1022,
+["sliceToken"] = "OPCPAt",
 },
 {
-["sliceToken"] = "OPCPAe",
 ["id"] = 1044,
+["sliceToken"] = "OPCPAe",
 },
 {
 ["id"] = 25780,
@@ -376,8 +376,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "prot",
-["show"] = "[spec:71/72] hide;",
 ["sliceToken"] = "ABueskpEsp4",
+["show"] = "[spec:71/72] hide;",
 },
 {
 "equipmentset",
@@ -388,8 +388,8 @@ OPie_SavedData = {
 {
 "equipmentset",
 "fury",
-["show"] = "[spec:73/71] hide;",
 ["sliceToken"] = "ABueskpEspg",
+["show"] = "[spec:73/71] hide;",
 },
 {
 "equipmentset",

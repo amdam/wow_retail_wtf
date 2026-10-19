@@ -1,6 +1,30 @@
 
 SimulationCraftDB = {
 ["char"] = {
+["Amdam - Turalyon"] = {
+["bonusRolls"] = {
+{
+["ts"] = 1789005720,
+["currency"] = 3418,
+["source"] = 279618,
+["context"] = 16,
+["keyLevel"] = 11,
+["spec"] = 66,
+["season"] = 37,
+["itemId"] = 273787,
+},
+{
+["currency"] = 3418,
+["ts"] = 1789950900,
+["source"] = 279623,
+["season"] = 37,
+["keyLevel"] = 13,
+["spec"] = 70,
+["context"] = 16,
+["itemId"] = 251136,
+},
+},
+},
 ["Adamancy - Turalyon"] = {
 ["bonusRolls"] = {
 {
@@ -22,6 +46,66 @@ SimulationCraftDB = {
 ["spec"] = 63,
 ["context"] = 16,
 ["itemId"] = 251136,
+},
+{
+["currency"] = 3418,
+["ts"] = 1789002720,
+["source"] = 279623,
+["season"] = 37,
+["keyLevel"] = 13,
+["spec"] = 63,
+["context"] = 16,
+["itemId"] = 251142,
+},
+{
+["ts"] = 1790109780,
+["currency"] = 3418,
+["source"] = 278286,
+["context"] = 5,
+["keyLevel"] = 2,
+["spec"] = 63,
+["season"] = 37,
+["itemId"] = 270922,
+},
+{
+["ts"] = 1791333660,
+["currency"] = 3418,
+["source"] = 279623,
+["context"] = 16,
+["keyLevel"] = 13,
+["spec"] = 63,
+["season"] = 37,
+["itemId"] = 251139,
+},
+{
+["currency"] = 3418,
+["ts"] = 1791418800,
+["source"] = 279623,
+["season"] = 37,
+["keyLevel"] = 16,
+["spec"] = 63,
+["context"] = 16,
+["itemId"] = 251127,
+},
+{
+["ts"] = 1792282080,
+["currency"] = 3418,
+["source"] = 279623,
+["context"] = 16,
+["keyLevel"] = 12,
+["spec"] = 63,
+["season"] = 37,
+["itemId"] = 251132,
+},
+{
+["ts"] = 1792283940,
+["currency"] = 3418,
+["source"] = 279623,
+["context"] = 16,
+["keyLevel"] = 12,
+["spec"] = 63,
+["season"] = 37,
+["itemId"] = 250215,
 },
 },
 },
@@ -61,9 +145,9 @@ SimulationCraftDB = {
 ["Kaydan - Turalyon"] = "Kaydan - Turalyon",
 ["Christoff - Turalyon"] = "Christoff - Turalyon",
 ["Adreya - Bloodscalp"] = "Adreya - Bloodscalp",
-["Drunkan - Turalyon"] = "Drunkan - Turalyon",
-["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
 ["Fife - The Forgotten Coast"] = "Fife - The Forgotten Coast",
+["Amdamn - Bloodscalp"] = "Amdamn - Bloodscalp",
+["Drunkan - Turalyon"] = "Drunkan - Turalyon",
 ["Adrid - Turalyon"] = "Adrid - Turalyon",
 ["Kayne - Turalyon"] = "Kayne - Turalyon",
 ["Luthro - Turalyon"] = "Luthro - Turalyon",
@@ -104,12 +188,12 @@ SimulationCraftDB = {
 ["Abel - Turalyon"] = {
 },
 ["Adamancy - Turalyon"] = {
-["minimap"] = {
-["minimapPos"] = 335.8394311084543,
-},
 ["frame"] = {
 ["ofsx"] = -20.74075317382813,
 ["ofsy"] = 16.59272956848145,
+},
+["minimap"] = {
+["minimapPos"] = 335.8394311084543,
 },
 },
 ["Furrys - Turalyon"] = {
@@ -164,11 +248,11 @@ SimulationCraftDB = {
 },
 ["Adreya - Bloodscalp"] = {
 },
-["Drunkan - Turalyon"] = {
+["Fife - The Forgotten Coast"] = {
 },
 ["Amdamn - Bloodscalp"] = {
 },
-["Fife - The Forgotten Coast"] = {
+["Drunkan - Turalyon"] = {
 },
 ["Adrid - Turalyon"] = {
 ["frame"] = {

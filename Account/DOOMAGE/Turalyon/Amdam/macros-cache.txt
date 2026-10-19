@@ -18,7 +18,6 @@ VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000009 " " "SPELL_HOLY_LAYONHANDS"
 #showtooltip Lay on Hands
-/stopcasting
 /use [@mouseover, help, nodead][help, nodead][@player] Lay on Hands
 /script UIErrorsFrame:Clear()
 END
